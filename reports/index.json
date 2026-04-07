@@ -1,5 +1,15 @@
 [
   {
+    "id": "kyga-2026-04-07",
+    "company": "Kerry Group",
+    "ticker": "KYGA.L",
+    "date": "2026-04-07",
+    "conviction": 58,
+    "recommendation": "HOLD",
+    "summary": "Down ~31% from 52w high, sitting near 52w low at €69.10. FY2025 EBITDA margin expansion is a positive signal. Consumer Foods exits ongoing. Emerging markets are key growth driver. HOLD — needs margin trajectory confirmed above €80 resistance.",
+    "file": "kyga-2026-04-07.html"
+  },
+  {
     "id": "now-2026-04-07",
     "company": "ServiceNow",
     "ticker": "NOW",
