@@ -1,5 +1,15 @@
 [
   {
+    "id": "now-2026-04-07",
+    "company": "ServiceNow",
+    "ticker": "NOW",
+    "date": "2026-04-07",
+    "conviction": 64,
+    "recommendation": "HOLD",
+    "summary": "Crushed ~52% from 52w high to $100.80. Near 52w low. Forward PE compressed to 24.6x. HOLD through April 22 earnings — guidance will determine whether deceleration stabilises or continues.",
+    "file": "now-2026-04-07.html"
+  },
+  {
     "id": "avct-2026-04-07",
     "company": "Avacta Group",
     "ticker": "AVCT.L",
