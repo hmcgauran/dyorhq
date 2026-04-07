@@ -113,6 +113,17 @@ Levels are specific to each report and reflect: 52-week range, support/resistanc
 - **Email:** Google Workspace (`gog` CLI) for Gmail delivery
 - **Hosting:** static — `index.html` reads `reports/index.json` to render the homepage listing
 
+## Model Routing
+
+Analysis is performed by a large language model operating in two modes:
+
+- **In-session (direct):** live data pulled and synthesised in the primary session. Used when the model API is responsive and no subagent spawning is required.
+- **Subagent (spawned):** a dedicated analysis session is spawned for report generation, HTML writing, and distribution. Used for complex or parallel work.
+
+Both modes use the same underlying model for judgement-heavy synthesis — scenario analysis, conviction scoring, risk evaluation, and report writing. The parent session handles data collection and quality control.
+
+*Model selection is handled by the system configuration — see the agent's MEMORY.md for current routing defaults.*
+
 ---
 
 ## Ticker Conventions
