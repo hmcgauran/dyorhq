@@ -10,6 +10,16 @@
     "file": "kyga-2026-04-07.html"
   },
   {
+    "id": "veqt-2026-04-07",
+    "company": "Vanguard All-Equity ETF Portfolio",
+    "ticker": "VEQT.TO",
+    "date": "2026-04-07",
+    "conviction": 71,
+    "recommendation": "BUY",
+    "summary": "0.00% MER, 13,000+ global stocks, 100% equity. BUY for long-term investors — near top of 52w range at CAD 54.60. Add on dips to CAD 50-52.",
+    "file": "veqt-2026-04-07.html"
+  },
+  {
     "id": "now-2026-04-07",
     "company": "ServiceNow",
     "ticker": "NOW",
