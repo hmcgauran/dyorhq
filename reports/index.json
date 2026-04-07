@@ -20,6 +20,16 @@
     "file": "veqt-2026-04-07.html"
   },
   {
+    "id": "etl-2026-04-07",
+    "company": "Eutelsat Communications",
+    "ticker": "ETL.PA / ETL.L",
+    "date": "2026-04-07",
+    "conviction": 41,
+    "recommendation": "REDUCE",
+    "summary": "Down ~51% from 52w high to €2.33. Debt-laden satellite operator under structural pressure. OneWeb LEO is the only growth lever. March 2026 bond refinancing buys time but doesn't fix the revenue decline. REDUCE — watch from the sidelines.",
+    "file": "etl-2026-04-07.html"
+  },
+  {
     "id": "now-2026-04-07",
     "company": "ServiceNow",
     "ticker": "NOW",
