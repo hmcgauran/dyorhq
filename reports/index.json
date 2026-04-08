@@ -1,5 +1,31 @@
 [
   {
+    "id": "mrsn-2026-04-08",
+    "company": "Mission Ready Solutions Inc",
+    "ticker": "MRSN",
+    "date": "2026-04-08",
+    "conviction": 38,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Defence medical trainer. Contract-dependent micro-cap with thin data. Not investable for most.",
+    "file": "mrsn-2026-04-08.html",
+    "isin": "CA60511F1027",
+    "exchange_code": "US",
+    "isin_verified": false
+  },
+  {
+    "id": "polxf-2026-04-08",
+    "company": "Polarean Imaging plc",
+    "ticker": "POLXF",
+    "date": "2026-04-08",
+    "conviction": 28,
+    "recommendation": "SELL — SPECULATIVE",
+    "summary": "FDA-approved Xenon MRI lung imaging. Pre-commercial, capital-intensive. Binary outcome. SELL.",
+    "file": "polxf-2026-04-08.html",
+    "isin": "GB00BF3DT583",
+    "exchange_code": "US",
+    "isin_verified": false
+  },
+  {
     "id": "shop-2026-04-08",
     "company": "Shopify Inc",
     "ticker": "SHOP",
