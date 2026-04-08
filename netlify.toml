@@ -1,5 +1,5 @@
 [build]
-  command = ""
+  command = "cp reports/*.html public/reports/ && cp reports-index.json public/ && cp index.html public/"
   publish = "public"
   functions = "netlify/functions"
 
@@ -13,6 +13,11 @@
   [headers.values]
     Cache-Control = "public, max-age=3600"
     Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/reports/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
 
 [[headers]]
   for = "/assets/*"
