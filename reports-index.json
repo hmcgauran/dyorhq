@@ -1,0 +1,452 @@
+[
+  {
+    "ticker": "SHOP",
+    "isin": "US82509L1076",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Shopify Inc",
+    "report_url": "/reports/shop-2026-04-08",
+    "conviction": 62,
+    "summary": "E-commerce platform with durable subscription moat. Premium valuation. HOLD for new entries above $105."
+  },
+  {
+    "ticker": "PL",
+    "isin": "US72703X1089",
+    "exchange_code": "US",
+    "rating": "REDUCE",
+    "company": "Planet Labs PBC",
+    "report_url": "/reports/pl-2026-04-08",
+    "conviction": 43,
+    "summary": "Largest commercial Earth imaging constellation. Genuine moat, high-beta recovery from $2.79 lows. Speculative — wait for pullback."
+  },
+  {
+    "ticker": "TDY",
+    "isin": "US8793601050",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Teledyne Technologies Inc",
+    "report_url": "/reports/tdy-2026-04-08",
+    "conviction": 64,
+    "summary": "Quality defence electronics and imaging conglomerate. AI tailwinds, disciplined M&A. Near 52w highs — add below $600."
+  },
+  {
+    "ticker": "CAD",
+    "isin": "CA1956151098",
+    "exchange_code": "TO",
+    "rating": "HOLD",
+    "company": "Colonial Coal International Corp",
+    "report_url": "/reports/cad-2026-04-08",
+    "conviction": 55,
+    "summary": "BC met coal. Jurisdiction advantage and SMC JV. Limited live data. Speculative hold."
+  },
+  {
+    "ticker": "GGP.L",
+    "isin": "AU0000397705",
+    "exchange_code": "LN",
+    "rating": "HOLD",
+    "company": "Greatland Resources Ltd",
+    "report_url": "/reports/ggp-2026-04-08",
+    "conviction": 57,
+    "summary": "Newmont Blackhill mining lease ratified. Legitimate gold explorer at inflection. Hold for BFS. Add below 650p."
+  },
+  {
+    "ticker": "ABVE",
+    "isin": "CA00373V1004",
+    "exchange_code": "US",
+    "rating": "SELL",
+    "company": "Above Food Ingredients Inc",
+    "report_url": "/reports/abve-2026-04-08",
+    "conviction": 31,
+    "summary": "Micro-cap risk overwhelms the case. SELL — speculative."
+  },
+  {
+    "ticker": "CRIS",
+    "isin": "US2312693094",
+    "exchange_code": "US",
+    "rating": "REDUCE",
+    "company": "Curis Inc",
+    "report_url": "/reports/cris-2026-04-08",
+    "conviction": 40,
+    "summary": "Binary biotech with weak financial support. REDUCE."
+  },
+  {
+    "ticker": "FFAI",
+    "isin": "US3073598852",
+    "exchange_code": "US",
+    "rating": "SELL",
+    "company": "Faraday Future Intelligent Electric Inc",
+    "report_url": "/reports/ffai-2026-04-08",
+    "conviction": 18,
+    "summary": "Distressed EV stub. SELL — speculative."
+  },
+  {
+    "ticker": "ZPHR.L",
+    "isin": "GB00BF44KY60",
+    "exchange_code": "LN",
+    "rating": "HOLD",
+    "company": "Zephyr Energy plc",
+    "report_url": "/reports/zphr-2026-04-08",
+    "conviction": 57,
+    "summary": "Speculative energy exposure only. HOLD."
+  },
+  {
+    "ticker": "SPIR",
+    "isin": "US8485603067",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Spire Global Inc",
+    "report_url": "/reports/spir-2026-04-08",
+    "conviction": 60,
+    "summary": "Space-data business with a more credible commercial model than most theme names, but extended near highs. HOLD — speculative."
+  },
+  {
+    "ticker": "SOFI",
+    "isin": "US8341701061",
+    "exchange_code": "US",
+    "rating": "REDUCE",
+    "company": "SoFi Technologies Inc",
+    "report_url": "/reports/sofi-2026-04-08",
+    "conviction": 42,
+    "summary": "Fintech lender still structurally challenged by the rate environment. REDUCE — speculative only."
+  },
+  {
+    "ticker": "QBTS",
+    "isin": "US25401L3025",
+    "exchange_code": "US",
+    "rating": "REDUCE",
+    "company": "D-Wave Quantum Inc",
+    "report_url": "/reports/qbts-2026-04-08",
+    "conviction": 46,
+    "summary": "Public quantum exposure with limited present-day commercial proof and rich valuation support. REDUCE — speculative."
+  },
+  {
+    "ticker": "PLTR",
+    "isin": "US88634R1041",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Palantir Technologies Inc",
+    "report_url": "/reports/pltr-2026-04-08",
+    "conviction": 59,
+    "summary": "Government AI exposure is credible, but valuation remains stretched. HOLD — speculative."
+  },
+  {
+    "ticker": "PANW",
+    "isin": "US6974351057",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Palo Alto Networks, Inc.",
+    "report_url": "/reports/panw-2026-04-08",
+    "conviction": 66,
+    "summary": "Cybersecurity platform leader with strong quality, but not a compelling fresh entry at current levels. HOLD."
+  },
+  {
+    "ticker": "NVDA",
+    "isin": "US67066G1040",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "NVIDIA Corporation",
+    "report_url": "/reports/nvda-2026-04-08",
+    "conviction": 68,
+    "summary": "AI accelerator dominance and CUDA moat remain intact, but the stock is priced for continued leadership. HOLD."
+  },
+  {
+    "ticker": "NIO",
+    "isin": "US6541061031",
+    "exchange_code": "US",
+    "rating": "REDUCE",
+    "company": "NIO Inc",
+    "report_url": "/reports/nio-2026-04-08",
+    "conviction": 38,
+    "summary": "Premium China EV story with real differentiation, but cash burn and competition dominate. REDUCE."
+  },
+  {
+    "ticker": "MSFT",
+    "isin": "US5949181045",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Microsoft Corporation",
+    "report_url": "/reports/msft-2026-04-08",
+    "conviction": 70,
+    "summary": "Azure and Copilot remain strong, but the weighted case sits close to the current price. HOLD."
+  },
+  {
+    "ticker": "MKA.L",
+    "isin": "CA6857821046",
+    "exchange_code": "LN",
+    "rating": "HOLD",
+    "company": "Mkango Resources Ltd",
+    "report_url": "/reports/mka-2026-04-08",
+    "conviction": 65,
+    "summary": "Strategic rare earths and recycling theme with genuine upside, but still milestone-driven. HOLD — speculative."
+  },
+  {
+    "ticker": "META",
+    "isin": "US30303M1027",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Meta Platforms Inc",
+    "report_url": "/reports/meta-2026-04-08",
+    "conviction": 72,
+    "summary": "Dominant ad platform with Llama AI upside, but already near highs. HOLD."
+  },
+  {
+    "ticker": "IREN",
+    "isin": "AU0000185993",
+    "exchange_code": "AU",
+    "rating": "HOLD",
+    "company": "Iris Energy Ltd",
+    "report_url": "/reports/iren-2026-04-08",
+    "conviction": 61,
+    "summary": "Interesting compute infrastructure optionality, but still heavily exposed to crypto-style volatility. HOLD — speculative."
+  },
+  {
+    "ticker": "IONQ",
+    "isin": "US46222L1089",
+    "exchange_code": "US",
+    "rating": "REDUCE",
+    "company": "IonQ Inc",
+    "report_url": "/reports/ionq-2026-04-08",
+    "conviction": 47,
+    "summary": "Higher-quality quantum name than some peers, but still priced on future possibility rather than present economics. REDUCE."
+  },
+  {
+    "ticker": "INTC",
+    "isin": "US4581401001",
+    "exchange_code": "US",
+    "rating": "SELL",
+    "company": "Intel Corporation",
+    "report_url": "/reports/intc-2026-04-08",
+    "conviction": 28,
+    "summary": "Structurally challenged semiconductor turnaround with weak risk/reward near highs. SELL."
+  },
+  {
+    "ticker": "GLEN.L",
+    "isin": "JE00B4T3BW27",
+    "exchange_code": "LN",
+    "rating": "HOLD",
+    "company": "Glencore plc",
+    "report_url": "/reports/glen-2026-04-08",
+    "conviction": 64,
+    "summary": "Diversified miner and commodity trader with decent earnings resilience, but not a chase near the highs. HOLD."
+  },
+  {
+    "ticker": "FTNT",
+    "isin": "US34959E1091",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Fortinet Inc",
+    "report_url": "/reports/ftnt-2026-04-08",
+    "conviction": 55,
+    "summary": "Reasonable mid-market cybersecurity exposure, but the setup is fair rather than compelling. HOLD."
+  },
+  {
+    "ticker": "DGE.L",
+    "isin": "GB00B7F7S988",
+    "exchange_code": "LN",
+    "rating": "HOLD",
+    "company": "Diageo plc",
+    "report_url": "/reports/dge-2026-04-08",
+    "conviction": 62,
+    "summary": "High-quality spirits franchise, but still waiting for a cleaner recovery catalyst. HOLD."
+  },
+  {
+    "ticker": "CRWD",
+    "isin": "US22788C1053",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "CrowdStrike Holdings, Inc.",
+    "report_url": "/reports/crwd-2026-04-08",
+    "conviction": 67,
+    "summary": "Best-in-class cybersecurity operator, but valuation and setup both limit fresh upside. HOLD."
+  },
+  {
+    "ticker": "COP",
+    "isin": "US20825F1049",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "ConocoPhillips",
+    "report_url": "/reports/cop-2026-04-08",
+    "conviction": 69,
+    "summary": "Large-cap energy exposure with solid fundamentals and geopolitical optionality, but still a HOLD at current levels."
+  },
+  {
+    "ticker": "COIN",
+    "isin": "US17709A1051",
+    "exchange_code": "US",
+    "rating": "REDUCE",
+    "company": "Coinbase Global Inc",
+    "report_url": "/reports/coin-2026-04-08",
+    "conviction": 44,
+    "summary": "High-quality crypto exchange, but still fundamentally a high-beta Bitcoin proxy. REDUCE."
+  },
+  {
+    "ticker": "BIRG.L",
+    "isin": "IE00BWFRCW15",
+    "exchange_code": "LN",
+    "rating": "HOLD",
+    "company": "Bank of Ireland Group plc",
+    "report_url": "/reports/birg-2026-04-08",
+    "conviction": 66,
+    "summary": "Conventional banking exposure with decent earnings support and limited drama. HOLD."
+  },
+  {
+    "ticker": "BABA",
+    "isin": "US01609W1053",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Alibaba Group Holdings",
+    "report_url": "/reports/baba-2026-04-08",
+    "conviction": 52,
+    "summary": "Cheap versus fundamentals, but geopolitical and regulatory risk remain structural. HOLD — speculative."
+  },
+  {
+    "ticker": "AVCT.L",
+    "isin": "GB00BYYW9G87",
+    "exchange_code": "LN",
+    "rating": "HOLD",
+    "company": "Avacta Group plc",
+    "report_url": "/reports/avct-2026-04-08",
+    "conviction": 63,
+    "summary": "Catalyst-driven biotech with real platform upside and real binary clinical risk. HOLD — speculative."
+  },
+  {
+    "ticker": "ASTS",
+    "isin": "US00217D1000",
+    "exchange_code": "US",
+    "rating": "REDUCE",
+    "company": "AST SpaceMobile Inc",
+    "report_url": "/reports/asts-2026-04-08",
+    "conviction": 49,
+    "summary": "Direct-to-device satellite story is compelling, but the valuation already prices in a lot of success. REDUCE."
+  },
+  {
+    "ticker": "ANET",
+    "isin": "US04004R1068",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Arista Networks Inc",
+    "report_url": "/reports/anet-2026-04-08",
+    "conviction": 67,
+    "summary": "Excellent AI infrastructure operator, but the shares are already pressed against the highs. HOLD."
+  },
+  {
+    "ticker": "AMZN",
+    "isin": "US0231351067",
+    "exchange_code": "US",
+    "rating": "BUY",
+    "company": "Amazon.com Inc",
+    "report_url": "/reports/amzn-2026-04-08",
+    "conviction": 76,
+    "summary": "Best large-cap tech risk/reward in the set, with AWS AI momentum and e-commerce margin expansion. BUY."
+  },
+  {
+    "ticker": "AMD",
+    "isin": "US0079031078",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Advanced Micro Devices Inc",
+    "report_url": "/reports/amd-2026-04-08",
+    "conviction": 60,
+    "summary": "Most credible NVIDIA alternative in AI accelerators, but fully priced near the highs. HOLD."
+  },
+  {
+    "ticker": "AAPL",
+    "isin": "US0378331005",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Apple Inc",
+    "report_url": "/reports/aapl-2026-04-08",
+    "conviction": 64,
+    "summary": "Services quality and ecosystem strength remain intact, but the shares are extended near highs. HOLD."
+  },
+  {
+    "ticker": "AMBP",
+    "isin": "JE00BFSP3X59",
+    "exchange_code": "LN",
+    "rating": "HOLD",
+    "company": "Ardagh Metal Packaging SA",
+    "report_url": "/reports/ambp-2026-04-08",
+    "conviction": 58,
+    "summary": "Cyclical metal packaging name with defensive end-market exposure and recovery potential, but still not clean enough to justify a BUY. HOLD while waiting for clearer earnings improvement."
+  },
+  {
+    "ticker": "SMR",
+    "isin": "US67020B1066",
+    "exchange_code": "US",
+    "rating": "REDUCE",
+    "company": "NuScale Power Corporation",
+    "report_url": "/reports/smr-2026-04-08",
+    "conviction": 46,
+    "summary": "First-mover SMR name with real regulatory credibility, but still loss-making and down 84% from its 52-week high. REDUCE — speculative only until commercial execution improves."
+  },
+  {
+    "ticker": "OKLO",
+    "isin": "US67987P1059",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "Oklo Inc.",
+    "report_url": "/reports/oklo-2026-04-08",
+    "conviction": 61,
+    "summary": "Cleaner AI-power nuclear story than NuScale, but still pre-profit and heavily narrative-driven. HOLD for speculative upside, with strict position sizing."
+  },
+  {
+    "ticker": "BWXT",
+    "isin": "US09062M1036",
+    "exchange_code": "US",
+    "rating": "BUY",
+    "company": "BWX Technologies, Inc.",
+    "report_url": "/reports/bwxt-2026-04-08",
+    "conviction": 76,
+    "summary": "Profitable nuclear and defence supplier trading near highs with the strongest business quality of the three. BUY — best risk-adjusted nuclear exposure in the set."
+  },
+  {
+    "ticker": "KYGA.L",
+    "isin": "GB00B2QC4L34",
+    "exchange_code": "LN",
+    "rating": "HOLD",
+    "company": "Kerry Group",
+    "report_url": "/reports/kyga-2026-04-07",
+    "conviction": 58,
+    "summary": "Down ~31% from 52w high, sitting near 52w low at €69.10. FY2025 EBITDA margin expansion is a positive signal. Consumer Foods exits ongoing. Emerging markets are key growth driver. HOLD — needs margin trajectory confirmed above €80 resistance."
+  },
+  {
+    "ticker": "ETL.PA",
+    "isin": "FR0010221234",
+    "exchange_code": "FP",
+    "rating": "REDUCE",
+    "company": "Eutelsat Communications",
+    "report_url": "/reports/etl-2026-04-07",
+    "conviction": 41,
+    "summary": "Down ~51% from 52w high to €2.33. Debt-laden satellite operator under structural pressure. OneWeb LEO is the only growth lever. March 2026 bond refinancing buys time but doesn't fix the revenue decline. REDUCE — watch from the sidelines."
+  },
+  {
+    "ticker": "NOW",
+    "isin": "US81762P1021",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "ServiceNow",
+    "report_url": "/reports/now-2026-04-07",
+    "conviction": 64,
+    "summary": "Crushed ~52% from 52w high to $100.80. Near 52w low. Forward PE compressed to 24.6x. HOLD through April 22 earnings — guidance will determine whether deceleration stabilises or continues."
+  },
+  {
+    "ticker": "AVCT.L",
+    "isin": "GB00BYYW9G87",
+    "exchange_code": "LN",
+    "rating": "HOLD → BUY TRIGGER",
+    "company": "Avacta Group",
+    "report_url": "/reports/avct-2026-04-07",
+    "conviction": 72,
+    "summary": "Binary catalyst window ahead. AACR 17–22 April is the key event. Hold through data, add on any dip toward 60p. Bull scenarios to £300–600M+."
+  },
+  {
+    "ticker": "RUOC",
+    "isin": "US6748705067",
+    "exchange_code": "US",
+    "rating": "BUY",
+    "company": "Ocean Power Technologies",
+    "report_url": "/reports/ruoc-2026-04-07",
+    "conviction": 61,
+    "summary": "Record backlog $19.9M (+165% YoY) and $163.9M pipeline. Stock crushed to €0.30 from €0.77 highs. BUY on dips to €0.22-0.25, trim at €0.40-0.50. Binary cash risk — position should remain small."
+  }
+]

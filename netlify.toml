@@ -1,25 +1,4 @@
 [build]
-  command = "cp -r reports/*.html public/reports/ && cp -r assets public/assets && cp reports-index.json public/ && cp index.html public/"
+  command = "mkdir -p public/reports public/assets/css public/assets/js && cp -r reports/*.html public/reports/ 2>/dev/null; cp -r assets/css/* public/assets/css/ 2>/dev/null; cp -r assets/js/* public/assets/js/ 2>/dev/null; cp reports-index.json public/ 2>/dev/null; cp index.html public/ 2>/dev/null; echo 'Build OK'"
   publish = "public"
   functions = "netlify/functions"
-
-[[redirects]]
-  from = "/portfolio"
-  to = "/portfolio.html"
-  status = 200
-
-[[headers]]
-  for = "/reports-index.json"
-  [headers.values]
-    Cache-Control = "public, max-age=3600"
-    Access-Control-Allow-Origin = "*"
-
-[[headers]]
-  for = "/reports/*"
-  [headers.values]
-    Cache-Control = "public, max-age=3600"
-
-[[headers]]
-  for = "/assets/*"
-  [headers.values]
-    Cache-Control = "public, max-age=86400"
