@@ -119,7 +119,7 @@
   }
 
   // Load reports from JSON
-  fetch('reports/index.json')
+  fetch('reports-index.json')
     .then(r => {
       if (!r.ok) throw new Error('Failed to load reports index');
       return r.json();
