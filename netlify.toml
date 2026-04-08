@@ -1,5 +1,5 @@
 [build]
-  command = "cp reports/*.html public/reports/ && cp reports-index.json public/ && cp index.html public/"
+  command = "cp -r reports/*.html public/reports/ && cp -r assets public/assets && cp reports-index.json public/ && cp index.html public/"
   publish = "public"
   functions = "netlify/functions"
 
