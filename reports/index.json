@@ -1,5 +1,45 @@
 [
   {
+    "id": "shop-2026-04-08",
+    "company": "Shopify Inc",
+    "ticker": "SHOP",
+    "date": "2026-04-08",
+    "conviction": 62,
+    "recommendation": "HOLD",
+    "summary": "E-commerce platform with durable subscription moat. Premium valuation. HOLD for new entries above $105.",
+    "file": "shop-2026-04-08.html"
+  },
+  {
+    "id": "pl-2026-04-08",
+    "company": "Planet Labs PBC",
+    "ticker": "PL",
+    "date": "2026-04-08",
+    "conviction": 43,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Largest commercial Earth imaging constellation. Genuine moat, high-beta recovery from $2.79 lows. Speculative — wait for pullback.",
+    "file": "pl-2026-04-08.html"
+  },
+  {
+    "id": "tdy-2026-04-08",
+    "company": "Teledyne Technologies Inc",
+    "ticker": "TDY",
+    "date": "2026-04-08",
+    "conviction": 64,
+    "recommendation": "HOLD",
+    "summary": "Quality defence electronics and imaging conglomerate. AI tailwinds, disciplined M&A. Near 52w highs — add below $600.",
+    "file": "tdy-2026-04-08.html"
+  },
+  {
+    "id": "cad-2026-04-08",
+    "company": "Colonial Coal International Corp",
+    "ticker": "CAD",
+    "date": "2026-04-08",
+    "conviction": 55,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "BC met coal. Jurisdiction advantage and SMC JV. Limited live data. Speculative hold.",
+    "file": "cad-2026-04-08.html"
+  },
+  {
     "id": "ggp-2026-04-08",
     "company": "Greatland Resources Ltd",
     "ticker": "GGP.L",
