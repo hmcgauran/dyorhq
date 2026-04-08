@@ -1,5 +1,405 @@
 [
   {
+    "id": "ggp-2026-04-08",
+    "company": "Greatland Resources Ltd",
+    "ticker": "GGP.L",
+    "date": "2026-04-08",
+    "conviction": 57,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Newmont Blackhill mining lease ratified. Legitimate gold explorer at inflection. Hold for BFS. Add below 650p.",
+    "file": "ggp-2026-04-08.html"
+  },
+  {
+    "id": "abve-2026-04-08",
+    "company": "Above Food Ingredients Inc",
+    "ticker": "ABVE",
+    "date": "2026-04-08",
+    "conviction": 31,
+    "recommendation": "SELL — SPECULATIVE",
+    "summary": "Micro-cap risk overwhelms the case. SELL — speculative.",
+    "file": "abve-2026-04-08.html"
+  },
+  {
+    "id": "autl-2026-04-08",
+    "company": "Autolus Therapeutics plc",
+    "ticker": "AUTL",
+    "date": "2026-04-08",
+    "conviction": 48,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Pure biotech binary risk. REDUCE — speculative.",
+    "file": "autl-2026-04-08.html"
+  },
+  {
+    "id": "cris-2026-04-08",
+    "company": "Curis Inc",
+    "ticker": "CRIS",
+    "date": "2026-04-08",
+    "conviction": 40,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Binary biotech with weak financial support. REDUCE.",
+    "file": "cris-2026-04-08.html"
+  },
+  {
+    "id": "ffai-2026-04-08",
+    "company": "Faraday Future Intelligent Electric Inc",
+    "ticker": "FFAI",
+    "date": "2026-04-08",
+    "conviction": 18,
+    "recommendation": "SELL — SPECULATIVE",
+    "summary": "Distressed EV stub. SELL — speculative.",
+    "file": "ffai-2026-04-08.html"
+  },
+  {
+    "id": "ondo-2026-04-08",
+    "company": "Ondo",
+    "ticker": "ONDO",
+    "date": "2026-04-08",
+    "conviction": 48,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Tokenised finance theme, insufficient hard support. REDUCE.",
+    "file": "ondo-2026-04-08.html"
+  },
+  {
+    "id": "palm-2026-04-08",
+    "company": "Panther Metals plc",
+    "ticker": "PALM.L",
+    "date": "2026-04-08",
+    "conviction": 43,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Junior miner optionality only. REDUCE.",
+    "file": "palm-2026-04-08.html"
+  },
+  {
+    "id": "qed-2026-04-08",
+    "company": "Quadrise plc",
+    "ticker": "QED.L",
+    "date": "2026-04-08",
+    "conviction": 56,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Commercialisation optionality only. HOLD — speculative.",
+    "file": "qed-2026-04-08.html"
+  },
+  {
+    "id": "zphr-2026-04-08",
+    "company": "Zephyr Energy plc",
+    "ticker": "ZPHR.L",
+    "date": "2026-04-08",
+    "conviction": 57,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Speculative energy exposure only. HOLD.",
+    "file": "zphr-2026-04-08.html"
+  },
+  {
+    "id": "tom-2026-04-08",
+    "company": "TomCo Energy plc",
+    "ticker": "TOM.L",
+    "date": "2026-04-08",
+    "conviction": 22,
+    "recommendation": "SELL — SPECULATIVE",
+    "summary": "AIM micro-cap stub trading at 0.0330p with severe dilution and liquidity risk. SELL — speculative only.",
+    "file": "tom-2026-04-08.html"
+  },
+  {
+    "id": "spir-2026-04-08",
+    "company": "Spire Global Inc",
+    "ticker": "SPIR",
+    "date": "2026-04-08",
+    "conviction": 60,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Space-data business with a more credible commercial model than most theme names, but extended near highs. HOLD — speculative.",
+    "file": "spir-2026-04-08.html"
+  },
+  {
+    "id": "sofi-2026-04-08",
+    "company": "SoFi Technologies Inc",
+    "ticker": "SOFI",
+    "date": "2026-04-08",
+    "conviction": 42,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Fintech lender still structurally challenged by the rate environment. REDUCE — speculative only.",
+    "file": "sofi-2026-04-08.html"
+  },
+  {
+    "id": "qbts-2026-04-08",
+    "company": "D-Wave Quantum Inc",
+    "ticker": "QBTS",
+    "date": "2026-04-08",
+    "conviction": 46,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Public quantum exposure with limited present-day commercial proof and rich valuation support. REDUCE — speculative.",
+    "file": "qbts-2026-04-08.html"
+  },
+  {
+    "id": "pxen-2026-04-08",
+    "company": "Prospex Energy plc",
+    "ticker": "PXEN.L",
+    "date": "2026-04-08",
+    "conviction": 58,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Small-cap European gas optionality with thin liquidity and concentrated asset risk. HOLD — speculative.",
+    "file": "pxen-2026-04-08.html"
+  },
+  {
+    "id": "pltr-2026-04-08",
+    "company": "Palantir Technologies Inc",
+    "ticker": "PLTR",
+    "date": "2026-04-08",
+    "conviction": 59,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Government AI exposure is credible, but valuation remains stretched. HOLD — speculative.",
+    "file": "pltr-2026-04-08.html"
+  },
+  {
+    "id": "panw-2026-04-08",
+    "company": "Palo Alto Networks, Inc.",
+    "ticker": "PANW",
+    "date": "2026-04-08",
+    "conviction": 66,
+    "recommendation": "HOLD",
+    "summary": "Cybersecurity platform leader with strong quality, but not a compelling fresh entry at current levels. HOLD.",
+    "file": "panw-2026-04-08.html"
+  },
+  {
+    "id": "nvda-2026-04-08",
+    "company": "NVIDIA Corporation",
+    "ticker": "NVDA",
+    "date": "2026-04-08",
+    "conviction": 68,
+    "recommendation": "HOLD",
+    "summary": "AI accelerator dominance and CUDA moat remain intact, but the stock is priced for continued leadership. HOLD.",
+    "file": "nvda-2026-04-08.html"
+  },
+  {
+    "id": "nio-2026-04-08",
+    "company": "NIO Inc",
+    "ticker": "NIO",
+    "date": "2026-04-08",
+    "conviction": 38,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Premium China EV story with real differentiation, but cash burn and competition dominate. REDUCE.",
+    "file": "nio-2026-04-08.html"
+  },
+  {
+    "id": "msft-2026-04-08",
+    "company": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "date": "2026-04-08",
+    "conviction": 70,
+    "recommendation": "HOLD",
+    "summary": "Azure and Copilot remain strong, but the weighted case sits close to the current price. HOLD.",
+    "file": "msft-2026-04-08.html"
+  },
+  {
+    "id": "mka-2026-04-08",
+    "company": "Mkango Resources Ltd",
+    "ticker": "MKA.L",
+    "date": "2026-04-08",
+    "conviction": 65,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Strategic rare earths and recycling theme with genuine upside, but still milestone-driven. HOLD — speculative.",
+    "file": "mka-2026-04-08.html"
+  },
+  {
+    "id": "meta-2026-04-08",
+    "company": "Meta Platforms Inc",
+    "ticker": "META",
+    "date": "2026-04-08",
+    "conviction": 72,
+    "recommendation": "HOLD",
+    "summary": "Dominant ad platform with Llama AI upside, but already near highs. HOLD.",
+    "file": "meta-2026-04-08.html"
+  },
+  {
+    "id": "lnd-2026-04-08",
+    "company": "Landore Resources Ltd",
+    "ticker": "LND",
+    "date": "2026-04-08",
+    "conviction": 34,
+    "recommendation": "SELL — SPECULATIVE",
+    "summary": "Micro-cap exploration optionality with little cash-flow support and high dilution risk. SELL — speculative.",
+    "file": "lnd-2026-04-08.html"
+  },
+  {
+    "id": "iren-2026-04-08",
+    "company": "Iris Energy Ltd",
+    "ticker": "IREN",
+    "date": "2026-04-08",
+    "conviction": 61,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Interesting compute infrastructure optionality, but still heavily exposed to crypto-style volatility. HOLD — speculative.",
+    "file": "iren-2026-04-08.html"
+  },
+  {
+    "id": "ionq-2026-04-08",
+    "company": "IonQ Inc",
+    "ticker": "IONQ",
+    "date": "2026-04-08",
+    "conviction": 47,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Higher-quality quantum name than some peers, but still priced on future possibility rather than present economics. REDUCE.",
+    "file": "ionq-2026-04-08.html"
+  },
+  {
+    "id": "intc-2026-04-08",
+    "company": "Intel Corporation",
+    "ticker": "INTC",
+    "date": "2026-04-08",
+    "conviction": 28,
+    "recommendation": "SELL",
+    "summary": "Structurally challenged semiconductor turnaround with weak risk/reward near highs. SELL.",
+    "file": "intc-2026-04-08.html"
+  },
+  {
+    "id": "glen-2026-04-08",
+    "company": "Glencore plc",
+    "ticker": "GLEN.L",
+    "date": "2026-04-08",
+    "conviction": 64,
+    "recommendation": "HOLD",
+    "summary": "Diversified miner and commodity trader with decent earnings resilience, but not a chase near the highs. HOLD.",
+    "file": "glen-2026-04-08.html"
+  },
+  {
+    "id": "ftnt-2026-04-08",
+    "company": "Fortinet Inc",
+    "ticker": "FTNT",
+    "date": "2026-04-08",
+    "conviction": 55,
+    "recommendation": "HOLD",
+    "summary": "Reasonable mid-market cybersecurity exposure, but the setup is fair rather than compelling. HOLD.",
+    "file": "ftnt-2026-04-08.html"
+  },
+  {
+    "id": "dge-2026-04-08",
+    "company": "Diageo plc",
+    "ticker": "DGE.L",
+    "date": "2026-04-08",
+    "conviction": 62,
+    "recommendation": "HOLD",
+    "summary": "High-quality spirits franchise, but still waiting for a cleaner recovery catalyst. HOLD.",
+    "file": "dge-2026-04-08.html"
+  },
+  {
+    "id": "crwd-2026-04-08",
+    "company": "CrowdStrike Holdings, Inc.",
+    "ticker": "CRWD",
+    "date": "2026-04-08",
+    "conviction": 67,
+    "recommendation": "HOLD",
+    "summary": "Best-in-class cybersecurity operator, but valuation and setup both limit fresh upside. HOLD.",
+    "file": "crwd-2026-04-08.html"
+  },
+  {
+    "id": "cop-2026-04-08",
+    "company": "ConocoPhillips",
+    "ticker": "COP",
+    "date": "2026-04-08",
+    "conviction": 69,
+    "recommendation": "HOLD",
+    "summary": "Large-cap energy exposure with solid fundamentals and geopolitical optionality, but still a HOLD at current levels.",
+    "file": "cop-2026-04-08.html"
+  },
+  {
+    "id": "coin-2026-04-08",
+    "company": "Coinbase Global Inc",
+    "ticker": "COIN",
+    "date": "2026-04-08",
+    "conviction": 44,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "High-quality crypto exchange, but still fundamentally a high-beta Bitcoin proxy. REDUCE.",
+    "file": "coin-2026-04-08.html"
+  },
+  {
+    "id": "birg-2026-04-08",
+    "company": "Bank of Ireland Group plc",
+    "ticker": "BIRG.L",
+    "date": "2026-04-08",
+    "conviction": 66,
+    "recommendation": "HOLD",
+    "summary": "Conventional banking exposure with decent earnings support and limited drama. HOLD.",
+    "file": "birg-2026-04-08.html"
+  },
+  {
+    "id": "baba-2026-04-08",
+    "company": "Alibaba Group Holdings",
+    "ticker": "BABA",
+    "date": "2026-04-08",
+    "conviction": 52,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Cheap versus fundamentals, but geopolitical and regulatory risk remain structural. HOLD — speculative.",
+    "file": "baba-2026-04-08.html"
+  },
+  {
+    "id": "avct-2026-04-08",
+    "company": "Avacta Group plc",
+    "ticker": "AVCT.L",
+    "date": "2026-04-08",
+    "conviction": 63,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Catalyst-driven biotech with real platform upside and real binary clinical risk. HOLD — speculative.",
+    "file": "avct-2026-04-08.html"
+  },
+  {
+    "id": "asts-2026-04-08",
+    "company": "AST SpaceMobile Inc",
+    "ticker": "ASTS",
+    "date": "2026-04-08",
+    "conviction": 49,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Direct-to-device satellite story is compelling, but the valuation already prices in a lot of success. REDUCE.",
+    "file": "asts-2026-04-08.html"
+  },
+  {
+    "id": "anet-2026-04-08",
+    "company": "Arista Networks Inc",
+    "ticker": "ANET",
+    "date": "2026-04-08",
+    "conviction": 67,
+    "recommendation": "HOLD",
+    "summary": "Excellent AI infrastructure operator, but the shares are already pressed against the highs. HOLD.",
+    "file": "anet-2026-04-08.html"
+  },
+  {
+    "id": "amzn-2026-04-08",
+    "company": "Amazon.com Inc",
+    "ticker": "AMZN",
+    "date": "2026-04-08",
+    "conviction": 76,
+    "recommendation": "BUY",
+    "summary": "Best large-cap tech risk/reward in the set, with AWS AI momentum and e-commerce margin expansion. BUY.",
+    "file": "amzn-2026-04-08.html"
+  },
+  {
+    "id": "amd-2026-04-08",
+    "company": "Advanced Micro Devices Inc",
+    "ticker": "AMD",
+    "date": "2026-04-08",
+    "conviction": 60,
+    "recommendation": "HOLD",
+    "summary": "Most credible NVIDIA alternative in AI accelerators, but fully priced near the highs. HOLD.",
+    "file": "amd-2026-04-08.html"
+  },
+  {
+    "id": "alk-2026-04-08",
+    "company": "Alkemy Capital Investments plc",
+    "ticker": "ALK.L",
+    "date": "2026-04-08",
+    "conviction": 68,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Battery materials project upside is credible, but the whole case still depends on financing and FID. HOLD — speculative.",
+    "file": "alk-2026-04-08.html"
+  },
+  {
+    "id": "aapl-2026-04-08",
+    "company": "Apple Inc",
+    "ticker": "AAPL",
+    "date": "2026-04-08",
+    "conviction": 64,
+    "recommendation": "HOLD",
+    "summary": "Services quality and ecosystem strength remain intact, but the shares are extended near highs. HOLD.",
+    "file": "aapl-2026-04-08.html"
+  },
+  {
     "id": "ambp-2026-04-08",
     "company": "Ardagh Metal Packaging SA",
     "ticker": "AMBP",
@@ -62,7 +462,7 @@
   {
     "id": "etl-2026-04-07",
     "company": "Eutelsat Communications",
-    "ticker": "ETL.PA / ETL.L",
+    "ticker": "ETL.PA",
     "date": "2026-04-07",
     "conviction": 41,
     "recommendation": "REDUCE",
@@ -92,21 +492,11 @@
   {
     "id": "ruoc-2026-04-07",
     "company": "Ocean Power Technologies",
-    "ticker": "RUOC.F / OPTT",
+    "ticker": "RUOC",
     "date": "2026-04-07",
     "conviction": 61,
     "recommendation": "BUY — SPECULATIVE",
     "summary": "Record backlog $19.9M (+165% YoY) and $163.9M pipeline. Stock crushed to €0.30 from €0.77 highs. BUY on dips to €0.22-0.25, trim at €0.40-0.50. Binary cash risk — position should remain small.",
     "file": "ruoc-2026-04-07.html"
-  },
-  {
-    "id": "diageo-dge-2026-04-05",
-    "company": "Diageo plc",
-    "ticker": "DGE.L",
-    "date": "2026-04-05",
-    "conviction": 62,
-    "recommendation": "HOLD",
-    "summary": "Quality business at decade-low valuations; new CEO credible but US and China headwinds keep it from BUY territory.",
-    "file": "diageo-dge-2026-04-05.html"
   }
 ]
