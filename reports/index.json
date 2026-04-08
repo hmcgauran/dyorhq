@@ -1,5 +1,35 @@
 [
   {
+    "id": "smr-2026-04-08",
+    "company": "NuScale Power Corporation",
+    "ticker": "SMR",
+    "date": "2026-04-08",
+    "conviction": 46,
+    "recommendation": "REDUCE",
+    "summary": "First-mover SMR name with real regulatory credibility, but still loss-making and down 84% from its 52-week high. REDUCE — speculative only until commercial execution improves.",
+    "file": "smr-2026-04-08.html"
+  },
+  {
+    "id": "oklo-2026-04-08",
+    "company": "Oklo Inc.",
+    "ticker": "OKLO",
+    "date": "2026-04-08",
+    "conviction": 61,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "Cleaner AI-power nuclear story than NuScale, but still pre-profit and heavily narrative-driven. HOLD for speculative upside, with strict position sizing.",
+    "file": "oklo-2026-04-08.html"
+  },
+  {
+    "id": "bwxt-2026-04-08",
+    "company": "BWX Technologies, Inc.",
+    "ticker": "BWXT",
+    "date": "2026-04-08",
+    "conviction": 76,
+    "recommendation": "BUY",
+    "summary": "Profitable nuclear and defence supplier trading near highs with the strongest business quality of the three. BUY — best risk-adjusted nuclear exposure in the set.",
+    "file": "bwxt-2026-04-08.html"
+  },
+  {
     "id": "kyga-2026-04-07",
     "company": "Kerry Group",
     "ticker": "KYGA.L",
