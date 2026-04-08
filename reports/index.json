@@ -7,7 +7,10 @@
     "conviction": 62,
     "recommendation": "HOLD",
     "summary": "E-commerce platform with durable subscription moat. Premium valuation. HOLD for new entries above $105.",
-    "file": "shop-2026-04-08.html"
+    "file": "shop-2026-04-08.html",
+    "isin": "US82509L1076",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "pl-2026-04-08",
@@ -17,7 +20,10 @@
     "conviction": 43,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Largest commercial Earth imaging constellation. Genuine moat, high-beta recovery from $2.79 lows. Speculative — wait for pullback.",
-    "file": "pl-2026-04-08.html"
+    "file": "pl-2026-04-08.html",
+    "isin": "US72703X1089",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "tdy-2026-04-08",
@@ -27,7 +33,10 @@
     "conviction": 64,
     "recommendation": "HOLD",
     "summary": "Quality defence electronics and imaging conglomerate. AI tailwinds, disciplined M&A. Near 52w highs — add below $600.",
-    "file": "tdy-2026-04-08.html"
+    "file": "tdy-2026-04-08.html",
+    "isin": "US8793601050",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "cad-2026-04-08",
@@ -37,7 +46,10 @@
     "conviction": 55,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "BC met coal. Jurisdiction advantage and SMC JV. Limited live data. Speculative hold.",
-    "file": "cad-2026-04-08.html"
+    "file": "cad-2026-04-08.html",
+    "isin": "CA1956151098",
+    "exchange_code": "TO",
+    "isin_verified": true
   },
   {
     "id": "ggp-2026-04-08",
@@ -47,7 +59,10 @@
     "conviction": 57,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Newmont Blackhill mining lease ratified. Legitimate gold explorer at inflection. Hold for BFS. Add below 650p.",
-    "file": "ggp-2026-04-08.html"
+    "file": "ggp-2026-04-08.html",
+    "isin": "AU0000397705",
+    "exchange_code": "LN",
+    "isin_verified": true
   },
   {
     "id": "abve-2026-04-08",
@@ -57,7 +72,10 @@
     "conviction": 31,
     "recommendation": "SELL — SPECULATIVE",
     "summary": "Micro-cap risk overwhelms the case. SELL — speculative.",
-    "file": "abve-2026-04-08.html"
+    "file": "abve-2026-04-08.html",
+    "isin": "CA00373V1004",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "autl-2026-04-08",
@@ -67,7 +85,10 @@
     "conviction": 48,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Pure biotech binary risk. REDUCE — speculative.",
-    "file": "autl-2026-04-08.html"
+    "file": "autl-2026-04-08.html",
+    "isin": null,
+    "exchange_code": null,
+    "isin_verified": false
   },
   {
     "id": "cris-2026-04-08",
@@ -77,7 +98,10 @@
     "conviction": 40,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Binary biotech with weak financial support. REDUCE.",
-    "file": "cris-2026-04-08.html"
+    "file": "cris-2026-04-08.html",
+    "isin": "US2312693094",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "ffai-2026-04-08",
@@ -87,7 +111,10 @@
     "conviction": 18,
     "recommendation": "SELL — SPECULATIVE",
     "summary": "Distressed EV stub. SELL — speculative.",
-    "file": "ffai-2026-04-08.html"
+    "file": "ffai-2026-04-08.html",
+    "isin": "US3073598852",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "ondo-2026-04-08",
@@ -97,7 +124,10 @@
     "conviction": 48,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Tokenised finance theme, insufficient hard support. REDUCE.",
-    "file": "ondo-2026-04-08.html"
+    "file": "ondo-2026-04-08.html",
+    "isin": null,
+    "exchange_code": null,
+    "isin_verified": false
   },
   {
     "id": "palm-2026-04-08",
@@ -107,7 +137,10 @@
     "conviction": 43,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Junior miner optionality only. REDUCE.",
-    "file": "palm-2026-04-08.html"
+    "file": "palm-2026-04-08.html",
+    "isin": null,
+    "exchange_code": null,
+    "isin_verified": false
   },
   {
     "id": "qed-2026-04-08",
@@ -117,7 +150,10 @@
     "conviction": 56,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Commercialisation optionality only. HOLD — speculative.",
-    "file": "qed-2026-04-08.html"
+    "file": "qed-2026-04-08.html",
+    "isin": null,
+    "exchange_code": null,
+    "isin_verified": false
   },
   {
     "id": "zphr-2026-04-08",
@@ -127,7 +163,10 @@
     "conviction": 57,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Speculative energy exposure only. HOLD.",
-    "file": "zphr-2026-04-08.html"
+    "file": "zphr-2026-04-08.html",
+    "isin": "GB00BF44KY60",
+    "exchange_code": "LN",
+    "isin_verified": true
   },
   {
     "id": "tom-2026-04-08",
@@ -137,7 +176,10 @@
     "conviction": 22,
     "recommendation": "SELL — SPECULATIVE",
     "summary": "AIM micro-cap stub trading at 0.0330p with severe dilution and liquidity risk. SELL — speculative only.",
-    "file": "tom-2026-04-08.html"
+    "file": "tom-2026-04-08.html",
+    "isin": null,
+    "exchange_code": null,
+    "isin_verified": false
   },
   {
     "id": "spir-2026-04-08",
@@ -147,7 +189,10 @@
     "conviction": 60,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Space-data business with a more credible commercial model than most theme names, but extended near highs. HOLD — speculative.",
-    "file": "spir-2026-04-08.html"
+    "file": "spir-2026-04-08.html",
+    "isin": "US8485603067",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "sofi-2026-04-08",
@@ -157,7 +202,10 @@
     "conviction": 42,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Fintech lender still structurally challenged by the rate environment. REDUCE — speculative only.",
-    "file": "sofi-2026-04-08.html"
+    "file": "sofi-2026-04-08.html",
+    "isin": "US8341701061",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "qbts-2026-04-08",
@@ -167,7 +215,10 @@
     "conviction": 46,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Public quantum exposure with limited present-day commercial proof and rich valuation support. REDUCE — speculative.",
-    "file": "qbts-2026-04-08.html"
+    "file": "qbts-2026-04-08.html",
+    "isin": "US25401L3025",
+    "exchange_code": "US",
+    "isin_verified": false
   },
   {
     "id": "pxen-2026-04-08",
@@ -177,7 +228,10 @@
     "conviction": 58,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Small-cap European gas optionality with thin liquidity and concentrated asset risk. HOLD — speculative.",
-    "file": "pxen-2026-04-08.html"
+    "file": "pxen-2026-04-08.html",
+    "isin": null,
+    "exchange_code": null,
+    "isin_verified": false
   },
   {
     "id": "pltr-2026-04-08",
@@ -187,7 +241,10 @@
     "conviction": 59,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Government AI exposure is credible, but valuation remains stretched. HOLD — speculative.",
-    "file": "pltr-2026-04-08.html"
+    "file": "pltr-2026-04-08.html",
+    "isin": "US88634R1041",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "panw-2026-04-08",
@@ -197,7 +254,10 @@
     "conviction": 66,
     "recommendation": "HOLD",
     "summary": "Cybersecurity platform leader with strong quality, but not a compelling fresh entry at current levels. HOLD.",
-    "file": "panw-2026-04-08.html"
+    "file": "panw-2026-04-08.html",
+    "isin": "US6974351057",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "nvda-2026-04-08",
@@ -207,7 +267,10 @@
     "conviction": 68,
     "recommendation": "HOLD",
     "summary": "AI accelerator dominance and CUDA moat remain intact, but the stock is priced for continued leadership. HOLD.",
-    "file": "nvda-2026-04-08.html"
+    "file": "nvda-2026-04-08.html",
+    "isin": "US67066G1040",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "nio-2026-04-08",
@@ -217,7 +280,10 @@
     "conviction": 38,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Premium China EV story with real differentiation, but cash burn and competition dominate. REDUCE.",
-    "file": "nio-2026-04-08.html"
+    "file": "nio-2026-04-08.html",
+    "isin": "US6541061031",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "msft-2026-04-08",
@@ -227,7 +293,10 @@
     "conviction": 70,
     "recommendation": "HOLD",
     "summary": "Azure and Copilot remain strong, but the weighted case sits close to the current price. HOLD.",
-    "file": "msft-2026-04-08.html"
+    "file": "msft-2026-04-08.html",
+    "isin": "US5949181045",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "mka-2026-04-08",
@@ -237,7 +306,10 @@
     "conviction": 65,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Strategic rare earths and recycling theme with genuine upside, but still milestone-driven. HOLD — speculative.",
-    "file": "mka-2026-04-08.html"
+    "file": "mka-2026-04-08.html",
+    "isin": "CA6857821046",
+    "exchange_code": "LN",
+    "isin_verified": true
   },
   {
     "id": "meta-2026-04-08",
@@ -247,7 +319,10 @@
     "conviction": 72,
     "recommendation": "HOLD",
     "summary": "Dominant ad platform with Llama AI upside, but already near highs. HOLD.",
-    "file": "meta-2026-04-08.html"
+    "file": "meta-2026-04-08.html",
+    "isin": "US30303M1027",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "lnd-2026-04-08",
@@ -257,7 +332,10 @@
     "conviction": 34,
     "recommendation": "SELL — SPECULATIVE",
     "summary": "Micro-cap exploration optionality with little cash-flow support and high dilution risk. SELL — speculative.",
-    "file": "lnd-2026-04-08.html"
+    "file": "lnd-2026-04-08.html",
+    "isin": null,
+    "exchange_code": null,
+    "isin_verified": false
   },
   {
     "id": "iren-2026-04-08",
@@ -267,7 +345,10 @@
     "conviction": 61,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Interesting compute infrastructure optionality, but still heavily exposed to crypto-style volatility. HOLD — speculative.",
-    "file": "iren-2026-04-08.html"
+    "file": "iren-2026-04-08.html",
+    "isin": "AU0000185993",
+    "exchange_code": "AU",
+    "isin_verified": true
   },
   {
     "id": "ionq-2026-04-08",
@@ -277,7 +358,10 @@
     "conviction": 47,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Higher-quality quantum name than some peers, but still priced on future possibility rather than present economics. REDUCE.",
-    "file": "ionq-2026-04-08.html"
+    "file": "ionq-2026-04-08.html",
+    "isin": "US46222L1089",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "intc-2026-04-08",
@@ -287,7 +371,10 @@
     "conviction": 28,
     "recommendation": "SELL",
     "summary": "Structurally challenged semiconductor turnaround with weak risk/reward near highs. SELL.",
-    "file": "intc-2026-04-08.html"
+    "file": "intc-2026-04-08.html",
+    "isin": "US4581401001",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "glen-2026-04-08",
@@ -297,7 +384,10 @@
     "conviction": 64,
     "recommendation": "HOLD",
     "summary": "Diversified miner and commodity trader with decent earnings resilience, but not a chase near the highs. HOLD.",
-    "file": "glen-2026-04-08.html"
+    "file": "glen-2026-04-08.html",
+    "isin": "JE00B4T3BW27",
+    "exchange_code": "LN",
+    "isin_verified": true
   },
   {
     "id": "ftnt-2026-04-08",
@@ -307,7 +397,10 @@
     "conviction": 55,
     "recommendation": "HOLD",
     "summary": "Reasonable mid-market cybersecurity exposure, but the setup is fair rather than compelling. HOLD.",
-    "file": "ftnt-2026-04-08.html"
+    "file": "ftnt-2026-04-08.html",
+    "isin": "US34959E1091",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "dge-2026-04-08",
@@ -317,7 +410,10 @@
     "conviction": 62,
     "recommendation": "HOLD",
     "summary": "High-quality spirits franchise, but still waiting for a cleaner recovery catalyst. HOLD.",
-    "file": "dge-2026-04-08.html"
+    "file": "dge-2026-04-08.html",
+    "isin": "GB00B7F7S988",
+    "exchange_code": "LN",
+    "isin_verified": true
   },
   {
     "id": "crwd-2026-04-08",
@@ -327,7 +423,10 @@
     "conviction": 67,
     "recommendation": "HOLD",
     "summary": "Best-in-class cybersecurity operator, but valuation and setup both limit fresh upside. HOLD.",
-    "file": "crwd-2026-04-08.html"
+    "file": "crwd-2026-04-08.html",
+    "isin": "US22788C1053",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "cop-2026-04-08",
@@ -337,7 +436,10 @@
     "conviction": 69,
     "recommendation": "HOLD",
     "summary": "Large-cap energy exposure with solid fundamentals and geopolitical optionality, but still a HOLD at current levels.",
-    "file": "cop-2026-04-08.html"
+    "file": "cop-2026-04-08.html",
+    "isin": "US20825F1049",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "coin-2026-04-08",
@@ -347,7 +449,10 @@
     "conviction": 44,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "High-quality crypto exchange, but still fundamentally a high-beta Bitcoin proxy. REDUCE.",
-    "file": "coin-2026-04-08.html"
+    "file": "coin-2026-04-08.html",
+    "isin": "US17709A1051",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "birg-2026-04-08",
@@ -357,7 +462,10 @@
     "conviction": 66,
     "recommendation": "HOLD",
     "summary": "Conventional banking exposure with decent earnings support and limited drama. HOLD.",
-    "file": "birg-2026-04-08.html"
+    "file": "birg-2026-04-08.html",
+    "isin": "IE00BWFRCW15",
+    "exchange_code": "LN",
+    "isin_verified": true
   },
   {
     "id": "baba-2026-04-08",
@@ -367,7 +475,10 @@
     "conviction": 52,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Cheap versus fundamentals, but geopolitical and regulatory risk remain structural. HOLD — speculative.",
-    "file": "baba-2026-04-08.html"
+    "file": "baba-2026-04-08.html",
+    "isin": "US01609W1053",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "avct-2026-04-08",
@@ -377,7 +488,10 @@
     "conviction": 63,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Catalyst-driven biotech with real platform upside and real binary clinical risk. HOLD — speculative.",
-    "file": "avct-2026-04-08.html"
+    "file": "avct-2026-04-08.html",
+    "isin": "GB00BYYW9G87",
+    "exchange_code": "LN",
+    "isin_verified": true
   },
   {
     "id": "asts-2026-04-08",
@@ -387,7 +501,10 @@
     "conviction": 49,
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Direct-to-device satellite story is compelling, but the valuation already prices in a lot of success. REDUCE.",
-    "file": "asts-2026-04-08.html"
+    "file": "asts-2026-04-08.html",
+    "isin": "US00217D1000",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "anet-2026-04-08",
@@ -397,7 +514,10 @@
     "conviction": 67,
     "recommendation": "HOLD",
     "summary": "Excellent AI infrastructure operator, but the shares are already pressed against the highs. HOLD.",
-    "file": "anet-2026-04-08.html"
+    "file": "anet-2026-04-08.html",
+    "isin": "US04004R1068",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "amzn-2026-04-08",
@@ -407,7 +527,10 @@
     "conviction": 76,
     "recommendation": "BUY",
     "summary": "Best large-cap tech risk/reward in the set, with AWS AI momentum and e-commerce margin expansion. BUY.",
-    "file": "amzn-2026-04-08.html"
+    "file": "amzn-2026-04-08.html",
+    "isin": "US0231351067",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "amd-2026-04-08",
@@ -417,7 +540,10 @@
     "conviction": 60,
     "recommendation": "HOLD",
     "summary": "Most credible NVIDIA alternative in AI accelerators, but fully priced near the highs. HOLD.",
-    "file": "amd-2026-04-08.html"
+    "file": "amd-2026-04-08.html",
+    "isin": "US0079031078",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "alk-2026-04-08",
@@ -427,7 +553,10 @@
     "conviction": 68,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Battery materials project upside is credible, but the whole case still depends on financing and FID. HOLD — speculative.",
-    "file": "alk-2026-04-08.html"
+    "file": "alk-2026-04-08.html",
+    "isin": null,
+    "exchange_code": null,
+    "isin_verified": false
   },
   {
     "id": "aapl-2026-04-08",
@@ -437,7 +566,10 @@
     "conviction": 64,
     "recommendation": "HOLD",
     "summary": "Services quality and ecosystem strength remain intact, but the shares are extended near highs. HOLD.",
-    "file": "aapl-2026-04-08.html"
+    "file": "aapl-2026-04-08.html",
+    "isin": "US0378331005",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "ambp-2026-04-08",
@@ -447,7 +579,10 @@
     "conviction": 58,
     "recommendation": "HOLD",
     "summary": "Cyclical metal packaging name with defensive end-market exposure and recovery potential, but still not clean enough to justify a BUY. HOLD while waiting for clearer earnings improvement.",
-    "file": "ambp-2026-04-08.html"
+    "file": "ambp-2026-04-08.html",
+    "isin": "JE00BFSP3X59",
+    "exchange_code": "LN",
+    "isin_verified": false
   },
   {
     "id": "smr-2026-04-08",
@@ -457,7 +592,10 @@
     "conviction": 46,
     "recommendation": "REDUCE",
     "summary": "First-mover SMR name with real regulatory credibility, but still loss-making and down 84% from its 52-week high. REDUCE — speculative only until commercial execution improves.",
-    "file": "smr-2026-04-08.html"
+    "file": "smr-2026-04-08.html",
+    "isin": "US67020B1066",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "oklo-2026-04-08",
@@ -467,7 +605,10 @@
     "conviction": 61,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Cleaner AI-power nuclear story than NuScale, but still pre-profit and heavily narrative-driven. HOLD for speculative upside, with strict position sizing.",
-    "file": "oklo-2026-04-08.html"
+    "file": "oklo-2026-04-08.html",
+    "isin": "US67987P1059",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "bwxt-2026-04-08",
@@ -477,7 +618,10 @@
     "conviction": 76,
     "recommendation": "BUY",
     "summary": "Profitable nuclear and defence supplier trading near highs with the strongest business quality of the three. BUY — best risk-adjusted nuclear exposure in the set.",
-    "file": "bwxt-2026-04-08.html"
+    "file": "bwxt-2026-04-08.html",
+    "isin": "US09062M1036",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "kyga-2026-04-07",
@@ -487,7 +631,10 @@
     "conviction": 58,
     "recommendation": "HOLD",
     "summary": "Down ~31% from 52w high, sitting near 52w low at €69.10. FY2025 EBITDA margin expansion is a positive signal. Consumer Foods exits ongoing. Emerging markets are key growth driver. HOLD — needs margin trajectory confirmed above €80 resistance.",
-    "file": "kyga-2026-04-07.html"
+    "file": "kyga-2026-04-07.html",
+    "isin": "GB00B2QC4L34",
+    "exchange_code": "LN",
+    "isin_verified": true
   },
   {
     "id": "veqt-2026-04-07",
@@ -497,7 +644,10 @@
     "conviction": 71,
     "recommendation": "BUY",
     "summary": "0.00% MER, 13,000+ global stocks, 100% equity. BUY for long-term investors — near top of 52w range at CAD 54.60. Add on dips to CAD 50-52.",
-    "file": "veqt-2026-04-07.html"
+    "file": "veqt-2026-04-07.html",
+    "isin": null,
+    "exchange_code": null,
+    "isin_verified": false
   },
   {
     "id": "etl-2026-04-07",
@@ -507,7 +657,10 @@
     "conviction": 41,
     "recommendation": "REDUCE",
     "summary": "Down ~51% from 52w high to €2.33. Debt-laden satellite operator under structural pressure. OneWeb LEO is the only growth lever. March 2026 bond refinancing buys time but doesn't fix the revenue decline. REDUCE — watch from the sidelines.",
-    "file": "etl-2026-04-07.html"
+    "file": "etl-2026-04-07.html",
+    "isin": "FR0010221234",
+    "exchange_code": "FP",
+    "isin_verified": true
   },
   {
     "id": "now-2026-04-07",
@@ -517,7 +670,10 @@
     "conviction": 64,
     "recommendation": "HOLD",
     "summary": "Crushed ~52% from 52w high to $100.80. Near 52w low. Forward PE compressed to 24.6x. HOLD through April 22 earnings — guidance will determine whether deceleration stabilises or continues.",
-    "file": "now-2026-04-07.html"
+    "file": "now-2026-04-07.html",
+    "isin": "US81762P1021",
+    "exchange_code": "US",
+    "isin_verified": true
   },
   {
     "id": "avct-2026-04-07",
@@ -527,7 +683,10 @@
     "conviction": 72,
     "recommendation": "HOLD → BUY TRIGGER",
     "summary": "Binary catalyst window ahead. AACR 17–22 April is the key event. Hold through data, add on any dip toward 60p. Bull scenarios to £300–600M+.",
-    "file": "avct-2026-04-07.html"
+    "file": "avct-2026-04-07.html",
+    "isin": "GB00BYYW9G87",
+    "exchange_code": "LN",
+    "isin_verified": true
   },
   {
     "id": "ruoc-2026-04-07",
@@ -537,6 +696,9 @@
     "conviction": 61,
     "recommendation": "BUY — SPECULATIVE",
     "summary": "Record backlog $19.9M (+165% YoY) and $163.9M pipeline. Stock crushed to €0.30 from €0.77 highs. BUY on dips to €0.22-0.25, trim at €0.40-0.50. Binary cash risk — position should remain small.",
-    "file": "ruoc-2026-04-07.html"
+    "file": "ruoc-2026-04-07.html",
+    "isin": "US6748705067",
+    "exchange_code": "US",
+    "isin_verified": true
   }
 ]
