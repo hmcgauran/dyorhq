@@ -14,8 +14,6 @@
   </style>
 </head>
 <body>
-
-  <!-- ─── Header ─────────────────────────────────── -->
   <header>
     <div class="header-inner">
       <a href="../index.html" class="logo">
@@ -30,11 +28,8 @@
     </div>
   </header>
 
-  <!-- ─── Main ───────────────────────────────────── -->
   <main>
     <div class="container">
-
-      <!-- Report Hero -->
       <div class="report-hero">
         <div class="report-breadcrumb">
           <a href="../index.html">Reports</a>
@@ -60,25 +55,61 @@
         </div>
       </div>
 
-      <!-- Report Body -->
       <div class="report-body">
-
-        <!-- Main Content -->
         <div class="report-content">
-          <!-- INSERT SECTIONS HERE -->
+          <div class="report-section">
+            <h2>Executive Summary</h2>
+            {{EXECUTIVE_SUMMARY}}
+          </div>
+
+          <div class="report-section">
+            <h2>Business Model</h2>
+            {{BUSINESS_MODEL}}
+          </div>
+
+          <div class="report-section">
+            <h2>Financial Snapshot</h2>
+            {{FINANCIAL_SNAPSHOT}}
+          </div>
+
+          <div class="report-section">
+            <h2>Recent Catalysts</h2>
+            {{RECENT_CATALYSTS}}
+          </div>
+
+          <div class="report-section">
+            <h2>Thesis Evaluation</h2>
+            {{THESIS_EVALUATION}}
+          </div>
+
+          <div class="report-section">
+            <h2>Key Risks</h2>
+            {{KEY_RISKS}}
+          </div>
+
+          <div class="report-section">
+            <h2>Who Should Own It / Avoid It</h2>
+            {{WHO_SHOULD_OWN}}
+          </div>
+
+          <div class="report-section">
+            <h2>Recommendation</h2>
+            {{RECOMMENDATION_BODY}}
+          </div>
+
+          <div class="report-section">
+            <h2>Entry / Exit Framework</h2>
+            {{ENTRY_EXIT_FRAMEWORK}}
+          </div>
         </div>
 
-        <!-- Sidebar -->
         <aside class="report-sidebar">
-          <!-- INSERT SIDEBAR HERE -->
+          {{SIDEBAR}}
         </aside>
-
       </div>
-
     </div>
   </main>
 
-  <!-- ─── Footer ─────────────────────────────────── -->
   <footer>
     <div class="footer-inner">
       <p class="footer-disclaimer">
@@ -88,6 +119,5 @@
       <div class="footer-brand">DYOR <span>HQ</span></div>
     </div>
   </footer>
-
 </body>
 </html>

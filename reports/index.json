@@ -1,5 +1,15 @@
 [
   {
+    "id": "ambp-2026-04-08",
+    "company": "Ardagh Metal Packaging SA",
+    "ticker": "AMBP",
+    "date": "2026-04-08",
+    "conviction": 58,
+    "recommendation": "HOLD",
+    "summary": "Cyclical metal packaging name with defensive end-market exposure and recovery potential, but still not clean enough to justify a BUY. HOLD while waiting for clearer earnings improvement.",
+    "file": "ambp-2026-04-08.html"
+  },
+  {
     "id": "smr-2026-04-08",
     "company": "NuScale Power Corporation",
     "ticker": "SMR",
