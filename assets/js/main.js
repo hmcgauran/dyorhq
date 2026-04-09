@@ -136,4 +136,19 @@
       grid.innerHTML = '<div class="empty-state"><p>Could not load reports. Check that reports/index.json exists.</p></div>';
     });
 
+  // ─── Methodology toggle ───────────────────────────────
+  const toggle = document.getElementById('methodology-toggle');
+  const body = document.getElementById('methodology-body');
+  if (toggle && body) {
+    toggle.addEventListener('click', () => {
+      const expanded = toggle.getAttribute('aria-expanded') === 'true';
+      toggle.setAttribute('aria-expanded', String(!expanded));
+      if (expanded) {
+        body.hidden = true;
+      } else {
+        body.hidden = false;
+      }
+    });
+  }
+
 })();
