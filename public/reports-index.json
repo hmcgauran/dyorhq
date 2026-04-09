@@ -160,16 +160,6 @@
     "summary": "Fintech lender still structurally challenged by the rate environment. REDUCE — speculative only."
   },
   {
-    "ticker": "QBTS",
-    "isin": "US26740W1099",
-    "exchange_code": "US",
-    "rating": "REDUCE",
-    "company": "D-Wave Quantum Inc",
-    "report_url": "/reports/qbts-2026-04-08",
-    "conviction": 46,
-    "summary": "Public quantum exposure with limited present-day commercial proof and rich valuation support. REDUCE — speculative."
-  },
-  {
     "ticker": "PLTR",
     "isin": "US88634R1041",
     "exchange_code": "US",
@@ -478,16 +468,6 @@
     "report_url": "/reports/now-2026-04-07",
     "conviction": 64,
     "summary": "Crushed ~52% from 52w high to $100.80. Near 52w low. Forward PE compressed to 24.6x. HOLD through April 22 earnings — guidance will determine whether deceleration stabilises or continues."
-  },
-  {
-    "ticker": "AVCT.L",
-    "isin": "GB00BYYW9G87",
-    "exchange_code": "LN",
-    "rating": "HOLD → BUY TRIGGER",
-    "company": "Avacta Group",
-    "report_url": "/reports/avct-2026-04-07",
-    "conviction": 72,
-    "summary": "Binary catalyst window ahead. AACR 17–22 April is the key event. Hold through data, add on any dip toward 60p. Bull scenarios to £300–600M+."
   },
   {
     "ticker": "RUOC",

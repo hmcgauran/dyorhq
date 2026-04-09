@@ -260,19 +260,6 @@
     "isin_verified": true
   },
   {
-    "id": "qbts-2026-04-08",
-    "company": "D-Wave Quantum Inc",
-    "ticker": "QBTS",
-    "date": "2026-04-08",
-    "conviction": 46,
-    "recommendation": "REDUCE — SPECULATIVE",
-    "summary": "Public quantum exposure with limited present-day commercial proof and rich valuation support. REDUCE — speculative.",
-    "file": "qbts-2026-04-08.html",
-    "isin": "US26740W1099",
-    "exchange_code": "US",
-    "isin_verified": false
-  },
-  {
     "id": "pxen-2026-04-08",
     "company": "Prospex Energy plc",
     "ticker": "PXEN.L",
@@ -725,19 +712,6 @@
     "file": "now-2026-04-07.html",
     "isin": "US81762P1021",
     "exchange_code": "US",
-    "isin_verified": true
-  },
-  {
-    "id": "avct-2026-04-07",
-    "company": "Avacta Group",
-    "ticker": "AVCT.L",
-    "date": "2026-04-07",
-    "conviction": 72,
-    "recommendation": "HOLD → BUY TRIGGER",
-    "summary": "Binary catalyst window ahead. AACR 17–22 April is the key event. Hold through data, add on any dip toward 60p. Bull scenarios to £300–600M+.",
-    "file": "avct-2026-04-07.html",
-    "isin": "GB00BYYW9G87",
-    "exchange_code": "LN",
     "isin_verified": true
   },
   {
