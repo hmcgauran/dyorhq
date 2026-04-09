@@ -37,12 +37,14 @@
   }
 
   function renderCard(report) {
-    const cls = recClass(report.recommendation);
-    const color = convictionColor(report.conviction);
-    const dashOffset = CIRC * (1 - (report.conviction / 100));
+    const rec = report.recommendation || report.rating || 'HOLD';
+    const cls = recClass(rec);
+    const color = convictionColor(report.conviction || 50);
+    const dashOffset = CIRC * (1 - ((report.conviction || 50) / 100));
+    const href = report.report_url || (report.file ? `reports/${report.file}` : '#');
 
     return `
-      <a href="reports/${report.file}" class="report-card rec-${cls}">
+      <a href="${href}" class="report-card rec-${cls}">
         <div class="card-header">
           <div class="card-company">
             <div class="card-ticker">${report.ticker}</div>
@@ -63,10 +65,10 @@
           </div>
         </div>
         <div class="card-meta">
-          <span class="rec-badge ${cls}">${report.recommendation}</span>
+          <span class="rec-badge ${cls}">${rec}</span>
           <span class="card-date">${formatDate(report.date)}</span>
         </div>
-        <p class="card-summary">${report.summary}</p>
+        <p class="card-summary">${report.summary || ''}</p>
       </a>
     `;
   }
@@ -89,7 +91,7 @@
     let result = allReports;
 
     if (activeFilter !== 'ALL') {
-      result = result.filter(r => r.recommendation.toUpperCase() === activeFilter);
+      result = result.filter(r => (r.recommendation || r.rating || '').toUpperCase() === activeFilter);
     }
 
     if (q) {
@@ -119,7 +121,7 @@
   }
 
   // Load reports from JSON
-  fetch('reports/index.json')
+  fetch('reports-index.json')
     .then(r => {
       if (!r.ok) throw new Error('Failed to load reports index');
       return r.json();
