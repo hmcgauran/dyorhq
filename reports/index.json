@@ -1,5 +1,31 @@
 [
   {
+    "id": "xpev-2026-04-09",
+    "company": "XPeng Inc",
+    "ticker": "XPEV",
+    "date": "2026-04-09",
+    "conviction": 58,
+    "recommendation": "HOLD — SPECULATIVE",
+    "summary": "China EV name with real software capability, but trapped in a brutal price war.",
+    "file": "xpev-2026-04-09.html",
+    "isin": "US98422D1054",
+    "exchange_code": "US",
+    "isin_verified": true
+  },
+  {
+    "id": "qbts-2026-04-09",
+    "company": "D-Wave Quantum Inc",
+    "ticker": "QBTS",
+    "date": "2026-04-09",
+    "conviction": 44,
+    "recommendation": "REDUCE — SPECULATIVE",
+    "summary": "Quantum exposure with real technology but weak valuation support.",
+    "file": "qbts-2026-04-09.html",
+    "isin": "US26740W1099",
+    "exchange_code": "US",
+    "isin_verified": true
+  },
+  {
     "id": "mrsn-2026-04-08",
     "company": "Mission Ready Solutions Inc",
     "ticker": "MRSN",

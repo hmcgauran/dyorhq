@@ -1,5 +1,25 @@
 [
   {
+    "ticker": "XPEV",
+    "isin": "US98422D1054",
+    "exchange_code": "US",
+    "rating": "HOLD",
+    "company": "XPeng Inc",
+    "report_url": "/reports/xpev-2026-04-09",
+    "conviction": 58,
+    "summary": "China EV name with real software capability, but trapped in a brutal price war."
+  },
+  {
+    "ticker": "QBTS",
+    "isin": "US26740W1099",
+    "exchange_code": "US",
+    "rating": "REDUCE",
+    "company": "D-Wave Quantum Inc",
+    "report_url": "/reports/qbts-2026-04-09",
+    "conviction": 44,
+    "summary": "Quantum exposure with real technology but weak valuation support."
+  },
+  {
     "ticker": "MRSN",
     "isin": "CA60511F1027",
     "exchange_code": "US",
