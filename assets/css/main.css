@@ -799,3 +799,15 @@ footer {
     padding: 32px 0 60px;
   }
 }
+
+
+.conviction-history-summary { color: var(--text-secondary); margin-bottom: 14px; }
+.conviction-history-summary .positive { color: var(--rec-buy); }
+.conviction-history-summary .negative { color: var(--rec-sell); }
+.conviction-history-summary .neutral { color: var(--text-secondary); }
+.conviction-history-chart { background: rgba(255,255,255,0.02); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px; margin: 16px 0; overflow-x: auto; }
+.conviction-history-chart svg { width: 100%; height: auto; min-width: 420px; }
+.conviction-history-chart text { fill: var(--text-secondary); font-size: 11px; font-family: var(--font-mono); }
+.conviction-history-table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+.conviction-history-table th, .conviction-history-table td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); }
+.conviction-history-table th { color: var(--text-secondary); font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; }
