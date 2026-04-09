@@ -267,20 +267,20 @@
         } else {
           // DEGIRO ISIN → canonical ticker mapping
           const DEGIRO_MAP = {
-            'NO0013536151': 'KBGGY', 'GG00BMX4VR69': 'LND.L',
-            'CA60511F1027': 'MRSN',   'CA60686A4090': 'MKA.L',
-            'CA71678B1076': 'PQEFF',  'AU000000PVE9': 'PVE',
-            'GB00BF3DT583': 'POLXF',   'US76655K1034': 'RGTI',
-            'CA82509L1076': 'SHOP',   'IM00BZBXMN96': 'TOM.L',
-            'GB00BYYW9G87': 'AVCT.L', 'GB00B7F7S988': 'DGE.L',
-            'JE00B4T3BW27': 'GLEN.L', 'IE00BWFRCW15': 'BIRG.L',
-            'FR0010221234': 'ETL.PA', 'GB00BF44KY60': 'ZPHR.L',
-            'AU0000397705': 'GGP.L',  'US30303M1027': 'META',
-            'US67066G1040': 'NVDA',   'US5949181045': 'MSFT',
-            'US0378331005': 'AAPL',   'US8168511070': 'SOFI',
-            'US25401L3025': 'QBTS',
-            // Fix DEGIRO N-prefixed format: N + 10 digits → NO + 10 digits
-            'N00013536151': 'KBGGY',  // Kongsberg (N-prefix format)
+            'NO0013536151': 'KBGGY', 'N00013536151': 'KBGGY',
+            'GG00BMX4VR69': 'LND.L',  'CA60511F1027': 'MRSN',
+            'CA60686A4090': 'MKA.L',  'CA71678B1076': 'PQEFF',
+            'AU000000PVE9': 'PVE',    'GB00BF3DT583': 'POLXF',
+            'US76655K1034': 'RGTI',   'CA82509L1076': 'SHOP',
+            'IM00BZBXMN96': 'TOM.L',  'GB00BYYW9G87': 'AVCT.L',
+            'GB00B7F7S988': 'DGE.L',  'JE00B4T3BW27': 'GLEN.L',
+            'IE00BWFRCW15': 'BIRG.L', 'FR0010221234': 'ETL.PA',
+            'GB00BF44KY60': 'ZPHR.L', 'AU0000397705': 'GGP.L',
+            'US30303M1027': 'META',   'US67066G1040': 'NVDA',
+            'US5949181045': 'MSFT',   'US0378331005': 'AAPL',
+            'US83417M1045': 'SOFI',   'US26740W1099': 'QBTS',
+            'US20825C1045': 'COP',    'KYG508752055': 'JCSE',
+            'US98422D1054': 'XPEV'
           };
 
           function extractISIN(raw) {

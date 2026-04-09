@@ -60,7 +60,7 @@
     "recommendation": "HOLD",
     "summary": "E-commerce platform with durable subscription moat. Premium valuation. HOLD for new entries above $105.",
     "file": "shop-2026-04-08.html",
-    "isin": "US82509L1076",
+    "isin": "CA82509L1076",
     "exchange_code": "US",
     "isin_verified": true
   },
@@ -229,7 +229,7 @@
     "recommendation": "SELL — SPECULATIVE",
     "summary": "AIM micro-cap stub trading at 0.0330p with severe dilution and liquidity risk. SELL — speculative only.",
     "file": "tom-2026-04-08.html",
-    "isin": null,
+    "isin": "IM00BZBXMN96",
     "exchange_code": null,
     "isin_verified": false
   },
@@ -268,7 +268,7 @@
     "recommendation": "REDUCE — SPECULATIVE",
     "summary": "Public quantum exposure with limited present-day commercial proof and rich valuation support. REDUCE — speculative.",
     "file": "qbts-2026-04-08.html",
-    "isin": "US25401L3025",
+    "isin": "US26740W1099",
     "exchange_code": "US",
     "isin_verified": false
   },
@@ -359,7 +359,7 @@
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Strategic rare earths and recycling theme with genuine upside, but still milestone-driven. HOLD — speculative.",
     "file": "mka-2026-04-08.html",
-    "isin": "CA6857821046",
+    "isin": "CA60686A4090",
     "exchange_code": "LN",
     "isin_verified": true
   },
@@ -489,7 +489,7 @@
     "recommendation": "HOLD",
     "summary": "Large-cap energy exposure with solid fundamentals and geopolitical optionality, but still a HOLD at current levels.",
     "file": "cop-2026-04-08.html",
-    "isin": "US20825F1049",
+    "isin": "US20825C1045",
     "exchange_code": "US",
     "isin_verified": true
   },

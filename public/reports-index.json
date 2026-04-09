@@ -41,7 +41,7 @@
   },
   {
     "ticker": "SHOP",
-    "isin": "US82509L1076",
+    "isin": "CA82509L1076",
     "exchange_code": "US",
     "rating": "HOLD",
     "company": "Shopify Inc",
@@ -130,6 +130,16 @@
     "summary": "Speculative energy exposure only. HOLD."
   },
   {
+    "ticker": "TOM.L",
+    "isin": "IM00BZBXMN96",
+    "exchange_code": null,
+    "rating": "SELL",
+    "company": "TomCo Energy plc",
+    "report_url": "/reports/tom-2026-04-08",
+    "conviction": 22,
+    "summary": "AIM micro-cap stub trading at 0.0330p with severe dilution and liquidity risk. SELL — speculative only."
+  },
+  {
     "ticker": "SPIR",
     "isin": "US8485603067",
     "exchange_code": "US",
@@ -151,7 +161,7 @@
   },
   {
     "ticker": "QBTS",
-    "isin": "US25401L3025",
+    "isin": "US26740W1099",
     "exchange_code": "US",
     "rating": "REDUCE",
     "company": "D-Wave Quantum Inc",
@@ -211,7 +221,7 @@
   },
   {
     "ticker": "MKA.L",
-    "isin": "CA6857821046",
+    "isin": "CA60686A4090",
     "exchange_code": "LN",
     "rating": "HOLD",
     "company": "Mkango Resources Ltd",
@@ -301,7 +311,7 @@
   },
   {
     "ticker": "COP",
-    "isin": "US20825F1049",
+    "isin": "US20825C1045",
     "exchange_code": "US",
     "rating": "HOLD",
     "company": "ConocoPhillips",
