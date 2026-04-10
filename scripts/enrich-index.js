@@ -77,15 +77,21 @@ function loadTab(tabName) {
   // Header row = row 0
   const headers = rows[0].map(h => normaliseHeader(h));
 
-  // Find ticker column: first look for named column, then use first column with empty header
-  // (S&P 100 tab has empty column B with ticker data; Fortune 100 has 'Ticker' in col B)
+  // Find ticker column: first look for 'Ticker' header, then 'Symbol', then 'Ticker' in col B specifically
   let tickerIdx = headers.findIndex(h =>
     ['ticker', 'symbol', 'googlefinance symbol'].includes(h)
   );
   if (tickerIdx < 0) {
-    // Fall back to first column with empty header (skip col A if it is 'company')
-    const companyIdx = headers.findIndex(h => h === 'company');
-    tickerIdx = headers.findIndex((h, i) => !h && i !== companyIdx);
+    // Fortune 100 tab: col A=Company, col B=Ticker
+    // S&P 100 tab: col A=Company, col B=ticker (empty header)
+    // Check if col B header normalises to 'ticker' or is empty (col B is ticker in both tabs)
+    const colB = headers[1] || '';
+    if (colB === 'ticker' || colB === 'symbol') {
+      tickerIdx = 1;
+    } else {
+      // Fall back to first column with empty header that isn't column 0 (Company)
+      tickerIdx = headers.findIndex((h, i) => !h && i > 0);
+    }
   }
   const priceIdx = headers.findIndex(h =>
     ['price', 'current price', 'current price default', 'last price'].includes(h)
