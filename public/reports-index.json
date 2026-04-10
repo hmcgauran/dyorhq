@@ -12,11 +12,16 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 260.48,
     "universe": "sp100",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist",
+      "fortune100",
+      "sp100"
+    ]
   },
   {
     "id": "abve-2026-04-08",
@@ -31,11 +36,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 0.73,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "alk-2026-04-08",
@@ -50,11 +58,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 333.4,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "ambp-2026-04-08",
@@ -69,11 +80,14 @@
     "exchange_code": "LN",
     "isin_verified": false,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 4.12,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "amd-2026-04-08",
@@ -88,11 +102,15 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 245.04,
     "universe": "sp100",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist",
+      "sp100"
+    ]
   },
   {
     "id": "amzn-2026-04-08",
@@ -107,11 +125,15 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 238.38,
     "universe": "sp100",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "fortune100",
+      "sp100"
+    ]
   },
   {
     "id": "anet-2026-04-08",
@@ -126,11 +148,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 147.35,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "asts-2026-04-08",
@@ -145,11 +170,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 94.9,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "autl-2026-04-08",
@@ -164,11 +192,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 1.49,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "avct-2026-04-08",
@@ -183,11 +214,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 70,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "baba-2026-04-08",
@@ -202,11 +236,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 127.33,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "birg-2026-04-08",
@@ -221,11 +258,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "bwxt-2026-04-08",
@@ -240,11 +280,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 229.57,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "ticker": "C4X",
@@ -257,11 +300,14 @@
     "conviction": 37,
     "summary": "Early-stage drug discovery optionality without enough balance-sheet strength. SELL — speculative.",
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "cad-2026-04-08",
@@ -276,11 +322,14 @@
     "exchange_code": "TO",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 2.7,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "coin-2026-04-08",
@@ -295,11 +344,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "cop-2026-04-08",
@@ -314,11 +366,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 122.55,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "cris-2026-04-08",
@@ -333,11 +388,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 0.5,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "crwd-2026-04-08",
@@ -352,11 +410,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 379.02,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "ticker": "DESP",
@@ -369,11 +430,14 @@
     "conviction": 41,
     "summary": "Interesting anti-infective platform, but still a binary small-cap biotech with funding risk. HOLD — speculative.",
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "dge-2026-04-08",
@@ -388,11 +452,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 1449,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "etl-2026-04-07",
@@ -407,11 +474,14 @@
     "exchange_code": "FP",
     "isin_verified": true,
     "datePublished": "2026-04-07",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "ffai-2026-04-08",
@@ -426,11 +496,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 0.32,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "ftnt-2026-04-08",
@@ -445,11 +518,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 76.66,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "ggp-2026-04-08",
@@ -464,11 +540,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 752.63,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "glen-2026-04-08",
@@ -483,11 +562,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "intc-2026-04-08",
@@ -502,11 +584,16 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 62.38,
     "universe": "sp100",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist",
+      "fortune100",
+      "sp100"
+    ]
   },
   {
     "id": "ionq-2026-04-08",
@@ -521,11 +608,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 28.79,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "iren-2026-04-08",
@@ -540,11 +630,14 @@
     "exchange_code": "AU",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 39.32,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "ticker": "KOG",
@@ -557,11 +650,14 @@
     "conviction": 73,
     "summary": "High-quality defence and maritime systems compounder with real earnings power. BUY.",
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "kyga-2026-04-07",
@@ -576,11 +672,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-07",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "lnd-2026-04-08",
@@ -595,11 +694,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "meta-2026-04-08",
@@ -614,11 +716,15 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 629.86,
     "universe": "sp100",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "fortune100",
+      "sp100"
+    ]
   },
   {
     "id": "mka-2026-04-08",
@@ -633,11 +739,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 39,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "mrsn-2026-04-08",
@@ -652,11 +761,14 @@
     "exchange_code": "US",
     "isin_verified": false,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "msft-2026-04-08",
@@ -671,11 +783,16 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 370.87,
     "universe": "sp100",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist",
+      "fortune100",
+      "sp100"
+    ]
   },
   {
     "id": "nio-2026-04-08",
@@ -690,11 +807,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 6.5,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "now-2026-04-07",
@@ -709,11 +829,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-07",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 83,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "nvda-2026-04-08",
@@ -728,11 +851,15 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 188.75,
     "universe": "sp100",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "fortune100",
+      "sp100"
+    ]
   },
   {
     "id": "oklo-2026-04-08",
@@ -747,11 +874,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 50.25,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "ondo-2026-04-08",
@@ -766,11 +896,14 @@
     "exchange_code": null,
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 14.25,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "palm-2026-04-08",
@@ -785,11 +918,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "panw-2026-04-08",
@@ -804,11 +940,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 155.73,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "pl-2026-04-08",
@@ -823,11 +962,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 34.67,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "pltr-2026-04-08",
@@ -842,11 +984,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "polxf-2026-04-08",
@@ -861,11 +1006,14 @@
     "exchange_code": "US",
     "isin_verified": false,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "pxen-2026-04-08",
@@ -880,11 +1028,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 3.32,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "qbts-2026-04-09",
@@ -899,11 +1050,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 14.25,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "qed-2026-04-08",
@@ -918,11 +1072,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "ticker": "RGTI",
@@ -935,11 +1092,14 @@
     "conviction": 46,
     "summary": "Quantum exposure only, still speculative. REDUCE.",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 14.68,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "ruoc-2026-04-07",
@@ -954,11 +1114,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-07",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 0.27,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "shop-2026-04-08",
@@ -973,11 +1136,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 110.78,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "smr-2026-04-08",
@@ -992,11 +1158,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 9.21,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "sofi-2026-04-08",
@@ -1011,11 +1180,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "spir-2026-04-08",
@@ -1030,11 +1202,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 21.56,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "tdy-2026-04-08",
@@ -1049,11 +1224,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 645.74,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "tom-2026-04-08",
@@ -1068,11 +1246,14 @@
     "exchange_code": null,
     "isin_verified": false,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 0.03,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "veqt-2026-04-07",
@@ -1087,11 +1268,14 @@
     "exchange_code": "TO",
     "isin_verified": true,
     "datePublished": "2026-04-07",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "xpev-2026-04-09",
@@ -1106,11 +1290,14 @@
     "exchange_code": "US",
     "isin_verified": true,
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 17.42,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "id": "zphr-2026-04-08",
@@ -1125,11 +1312,14 @@
     "exchange_code": "LN",
     "isin_verified": true,
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": null,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   },
   {
     "ticker": "ZYME",
@@ -1142,10 +1332,13 @@
     "conviction": 60,
     "summary": "Credible biotech platform, still speculative. HOLD.",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T21:14:21.435Z",
+    "lastRefreshed": "2026-04-10T21:18:49.354Z",
     "priceStored": 26.32,
     "universe": "watchlist",
     "sector": null,
-    "exchange": null
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
   }
 ]
