@@ -82,14 +82,15 @@ function loadTab(tabName) {
     ['ticker', 'symbol', 'googlefinance symbol'].includes(h)
   );
   if (tickerIdx < 0) {
-    // Fortune 100 tab: col A=Company, col B=Ticker
-    // S&P 100 tab: col A=Company, col B=ticker (empty header)
-    // Check if col B header normalises to 'ticker' or is empty (col B is ticker in both tabs)
-    const colB = headers[1] || '';
-    if (colB === 'ticker' || colB === 'symbol') {
+    const colB = (headers[1] || '').toLowerCase();
+    if (colB.includes('current price') || colB.includes('last price')) {
+      // S&P 100 Companies tab: col A = ticker, col B = price
+      tickerIdx = 0;
+    } else if (colB === 'ticker' || colB === 'symbol') {
+      // Fortune 100 tab: col A=Company, col B=Ticker
       tickerIdx = 1;
     } else {
-      // Fall back to first column with empty header that isn't column 0 (Company)
+      // Fall back to first column with empty header after col 0
       tickerIdx = headers.findIndex((h, i) => !h && i > 0);
     }
   }
