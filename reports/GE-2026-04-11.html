@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DYOR HQ — General Electric (GE) | 11 April 2026</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:#0d1117;color:#e6edf3;padding:20px;line-height:1.6}
+  .container{max-width:900px;margin:0 auto}
+  .header{background:linear-gradient(135deg,#1c2128 0%,#2d333b 100%);border:1px solid #30363d;border-radius:12px;padding:28px 32px;margin-bottom:24px}
+  .header-top{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px}
+  .ticker-block h1{font-size:28px;font-weight:700;color:#58a6ff;margin-bottom:4px}
+  .company-name{font-size:15px;color:#8b949e}
+  .report-meta{text-align:right;font-size:13px;color:#8b949e}
+  .report-meta .date{font-weight:600;color:#e6edf3}
+  .report-meta .universe{color:#8b949e}
+  .conviction-bar{display:flex;align-items:center;gap:12px;margin-top:16px}
+  .conviction-label{font-size:12px;font-weight:600;color:#8b949e;text-transform:uppercase;letter-spacing:.5px}
+  .bar-track{flex:1;height:8px;background:#21262d;border-radius:4px;overflow:hidden}
+  .bar-fill{height:100%;border-radius:4px;transition:width .4s ease}
+  .conviction-score{font-size:18px;font-weight:700}
+  .rating-badge{display:inline-block;padding:4px 12px;border-radius:20px;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px}
+  .rating-HOLD{background:#b08800;color:#fff}
+  .rating-BUY{background:#238636;color:#fff}
+  .rating-REDUCE{background:#8b5000;color:#fff}
+  .rating-SELL{background:#b62324;color:#fff}
+  .section{border:1px solid #30363d;border-radius:12px;padding:24px 28px;margin-bottom:16px;background:#161b22}
+  .section h2{font-size:14px;font-weight:700;color:#8b949e;text-transform:uppercase;letter-spacing:.8px;margin-bottom:16px;padding-bottom:10px;border-bottom:1px solid #21262d}
+  .exec-summary{background:linear-gradient(135deg,#1c2128,#1f3a5f);border-color:#1f4b8f}
+  .exec-summary h2{color:#58a6ff;border-bottom-color:#1f4b8f}
+  .exec-summary p{font-size:16px;color:#e6edf3}
+  .snapshot-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px}
+  .snapshot-item{background:#21262d;border:1px solid #30363d;border-radius:8px;padding:14px}
+  .snapshot-label{font-size:11px;color:#8b949e;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px}
+  .snapshot-value{font-size:17px;font-weight:700;color:#e6edf3}
+  .snapshot-value.highlight{color:#58a6ff}
+  .scenario-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .scenario-card{background:#21262d;border:1px solid #30363d;border-radius:8px;padding:16px}
+  .scenario-card h3{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-bottom:10px}
+  .scenario-bull h3{color:#3fb950}
+  .scenario-base h3{color:#d29922}
+  .scenario-bear h3{color:#f85149}
+  .scenario-card p{font-size:13px;color:#c9d1d9;margin-bottom:8px}
+  .scenario-pct{font-size:20px;font-weight:700;margin-bottom:4px}
+  .scenario-bull .scenario-pct{color:#3fb950}
+  .scenario-base .scenario-pct{color:#d29922}
+  .scenario-bear .scenario-pct{color:#f85149}
+  .scenario-wt{font-size:11px;color:#8b949e}
+  .risk-item{display:flex;justify-content:space-between;align-items:flex-start;padding:12px 0;border-bottom:1px solid #21262d;gap:16px}
+  .risk-item:last-child{border-bottom:none}
+  .risk-rank{background:#30363d;color:#8b949e;font-size:12px;font-weight:700;min-width:28px;height:28px;line-height:28px;text-align:center;border-radius:6px;flex-shrink:0}
+  .risk-text{flex:1;font-size:14px;color:#c9d1d9}
+  .owner-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .owner-card{background:#21262d;border:1px solid #30363d;border-radius:8px;padding:18px}
+  .owner-card h3{font-size:13px;font-weight:700;margin-bottom:10px}
+  .owner-buy h3{color:#3fb950}
+  .owner-avoid h3{color:#f85149}
+  .owner-card ul{list-style:none;padding:0}
+  .owner-card li{font-size:13px;color:#c9d1d9;padding:4px 0;padding-left:16px;position:relative}
+  .owner-card li::before{content:'→';position:absolute;left:0;color:#8b949e}
+  .recs-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+  .rec-item{background:#21262d;border:1px solid #30363d;border-radius:8px;padding:14px;text-align:center}
+  .rec-label{font-size:11px;color:#8b949e;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px}
+  .rec-value{font-size:16px;font-weight:700}
+  .rec-value.buy{color:#3fb950}
+  .rec-value.hold{color:#d29922}
+  .rec-value.reduce{color:#f85149}
+  .sources{font-size:12px;color:#8b949e}
+  @media(max-width:600px){.snapshot-grid{grid-template-columns:repeat(2,1fr)}.scenario-grid{grid-template-columns:1fr}.owner-grid{grid-template-columns:1fr}.recs-grid{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+  <div class="header-top">
+    <div class="ticker-block">
+      <h1>GE — General Electric Company</h1>
+      <div class="company-name">General Electric Company · NYSE · S&amp;P 100</div>
+    </div>
+    <div class="report-meta">
+      <div class="date">11 April 2026</div>
+      <div class="universe">Universe: SP100</div>
+      <div style="margin-top:8px"><span class="rating-badge rating-REDUCE">REDUCE</span></div>
+    </div>
+  </div>
+  <div class="conviction-bar">
+    <span class="conviction-label">Conviction</span>
+    <div class="bar-track"><div class="bar-fill" style="width:56%;background:#8b5000"></div></div>
+    <span class="conviction-score" style="color:#8b5000">56</span>
+  </div>
+</div>
+
+<div class="section exec-summary">
+  <h2>Executive Summary</h2>
+  <p>General Electric has executed a remarkable operational turnaround under CEO Larry Culp, with the aviation franchise proving exceptional, but the shares have re-rated dramatically from their 2020 lows and now trade at a P/E of 37.7× that prices in considerable execution success — a Reduce is warranted at this level.</p>
+</div>
+
+<div class="section">
+  <h2>Business Model</h2>
+  <p>General Electric is an industrial conglomerate focused on three core businesses following years of portfolio simplification:</p>
+  <ul style="list-style:disc;padding-left:24px;margin-top:12px">
+    <li><strong>GE Aerospace:</strong> The crown jewel. Aircraft engines (LEAP, GE9X) and aviation systems for commercial and military aircraft. The LEAP engine (co-produced with Safran) powers the Airbus A320neo family and is in high-demand given the aircraft backlog. GE9X powers the Boeing 777X. This segment generates the highest margins and most durable growth in the portfolio.</li>
+    <li><strong>GE Vernova:</strong> Energy infrastructure including gas turbines, steam turbines, power conversion, and grid solutions. The business is a beneficiary of AI data-centre power demand and grid modernisation spending globally. GE Vernova is a separate publicly traded entity following its 2024 spinoff.</li>
+    <li><strong>GE HealthCare:</strong> Medical imaging equipment (MRI, CT, X-ray), ultrasound, and digital infrastructure for healthcare. Spun off in January 2023 as a separately traded company. GE retains a meaningful stake.</li>
+  </ul>
+  <p style="margin-top:12px">The investment case centres on the GE Aerospace franchise — one of the few truly dominant industrial franchises globally, with a large installed base generating recurring aftermarket revenue from spare parts, maintenance, and upgrades.</p>
+</div>
+
+<div class="section">
+  <h2>Financial Snapshot</h2>
+  <div class="snapshot-grid">
+    <div class="snapshot-item"><div class="snapshot-label">Price</div><div class="snapshot-value highlight">$308.35</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">Market Cap</div><div class="snapshot-value">$322.2bn</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">P/E Ratio</div><div class="snapshot-value">37.7×</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">EPS (TTM)</div><div class="snapshot-value">$8.18</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">52w High</div><div class="snapshot-value">$348.48</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">52w Low</div><div class="snapshot-value">$175.05</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">Distance from 52wH</div><div class="snapshot-value">−11.5%</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">Avg Volume</div><div class="snapshot-value">3.7m</div></div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Recent Catalysts (Last 3–6 Months)</h2>
+  <ul style="list-style:disc;padding-left:24px">
+    <li><strong>Aviation demand surge:</strong> Commercial air travel demand has recovered strongly, with airline profitability driving fleet expansion and engine replacement cycles. Boeing delivery delays have paradoxically benefited GE as airlines keep older aircraft flying longer, extending engine overhaul cycles.</li>
+    <li><strong>LEAP engine production ramp:</strong> LEAP engine production has reached full production rate, with increasing aftermarket revenue as the installed base matures into the maintenance cycle. This creates a high-margin recurring revenue tailwind for years to come.</li>
+    <li><strong>GE Vernova spinoff:</strong> The successful spinoff of GE Vernova in April 2024 created two focused industrial companies. GE Aerospace is now a pure-play aviation business; GE Vernova's own valuation has validated the strategic rationale.</li>
+    <li><strong>GE HealthCare stake reduction:</strong> GE has been reducing its stake in GE HealthCare, crystallising value for shareholders while maintaining strategic optionality through retained minority positions.</li>
+    <li><strong>Supply chain recovery:</strong> GE Aerospace's supply chain has recovered from COVID-era disruptions, allowing the business to fulfil orders without the premium spot-market sourcing costs that compressed margins in prior years.</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Thesis Evaluation</h2>
+  <div class="scenario-grid">
+    <div class="scenario-card scenario-bull">
+      <h3>Bull Case</h3>
+      <div class="scenario-pct">75 / 100</div>
+      <p>Global air travel demand grows at 5–6 per cent annually, driving sustained LEAP and GE9X engine demand. The aftermarket revenue cycle matures into a multi-decade high-margin stream. GE Aerospace achieves 30–35 per cent operating margins. The shares re-rate to 40–45× earnings as the market fully prices in the secular aviation growth story. Total returns of 15–20 per cent annually from here.</p>
+      <div class="scenario-wt">Weight: 30%</div>
+    </div>
+    <div class="scenario-card scenario-base">
+      <h3>Base Case</h3>
+      <div class="scenario-pct">55 / 100</div>
+      <p>Aviation demand grows at 4–5 per cent annually, a strong but not exceptional environment. LEAP production stabilises at current rates; aftermarket growth is steady. GE Aerospace margins expand to 28–30 per cent. Boeing recovery improves engine ordering. The shares trade at 33–40× earnings, delivering high-single-digit to low-double-digit annual returns.</p>
+      <div class="scenario-wt">Weight: 50%</div>
+    </div>
+    <div class="scenario-card scenario-bear">
+      <h3>Bear Case</h3>
+      <div class="scenario-pct">30 / 100</div>
+      <p>Global economic slowdown reduces air travel demand, causing airlines to defer fleet expansion. Boeing's recovery stalls and 777X delays worsen. New engine development ( hydrogen, SAF-compatible) requires significant R&amp;D spend. GE Aerospace margins compress and the multiple de-rates to 25× as the market prices in a more cyclical profile for the aviation franchise.</p>
+      <div class="scenario-wt">Weight: 20%</div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Key Risks</h2>
+  <div class="risk-item"><span class="risk-rank">1</span><span class="risk-text"><strong>GE Aerospace multiple concentration:</strong> Following the spinoffs, GE's entire investment case rests on the aviation business. Any meaningful deterioration in the commercial aviation cycle, LEAP pricing pressure, or competitive encroachment (Rolls-Royce Trent) would have an outsized impact on the valuation.</span></div>
+  <div class="risk-item"><span class="risk-rank">2</span><span class="risk-text"><strong>Boeing dependency:</strong> GE Aerospace is the exclusive engine supplier for the Boeing 737 MAX and 777X. Boeing's well-documented quality and production challenges could slow engine offtake and impair the revenue trajectory for these programmes.</span></div>
+  <div class="risk-item"><span class="risk-rank">3</span><span class="risk-text"><strong>LEAP programme risks:</strong> The LEAP engine is a critical revenue driver. Geopolitical trade disruptions (particularly between the US and France/Safran joint venture partners), supply chain constraints, or quality issues with the LEAP could impair the most important programme in the portfolio.</span></div>
+  <div class="risk-item"><span class="risk-rank">4</span><span class="risk-text"><strong>SAF and hydrogen transition costs:</strong> The aviation industry faces regulatory pressure to adopt sustainable aviation fuels (SAF) and hydrogen-compatible engines. The R&amp;D and capital expenditure required to develop these next-generation technologies could be substantial without clear cost recovery timelines.</span></div>
+  <div class="risk-item"><span class="risk-rank">5</span><span class="risk-text"><strong>Aftermarket margin normalisation:</strong> The high-margin aftermarket business depends on a large and ageing installed base. As newer engines (LEAP) enter the fleet, the mix shift from mature high-margin overhauls to newer engine service contracts could pressure segment margins.</span></div>
+</div>
+
+<div class="section">
+  <h2>Who Should Own It / Avoid It</h2>
+  <div class="owner-grid">
+    <div class="owner-card owner-buy">
+      <h3>Appropriate For</h3>
+      <ul>
+        <li>Long-term industrial investors who want the premier aviation franchise globally and are willing to accept a premium valuation in exchange for a business with a secular growth tailwind and a durable aftermarket revenue moat</li>
+        <li>Thematic investors in the global travel recovery and fleet expansion cycle who want broad aviation exposure without single-airline or single-platform risk</li>
+        <li>Those who believe Culp-era operational improvements are still early in their realisation, with significant margin expansion still to come from the aerospace business</li>
+      </ul>
+    </div>
+    <div class="owner-card owner-avoid">
+      <h3>Avoid If</h3>
+      <ul>
+        <li>Seeking value or a reasonable entry P/E — at 37.7× earnings the shares price in very high-quality execution with almost no margin of safety for unexpected setbacks</li>
+        <li>Concerned about Boeing's production recovery trajectory or the broader commercial aviation cycle's sensitivity to macroeconomic conditions</li>
+        <li>Portfolio already holds Rolls-Royce (RYCEY) or Honeywell (HON) which provide overlapping aerospace exposure at more reasonable valuations</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Recommendation</h2>
+  <p style="margin-bottom:16px">Conviction Score: <strong style="color:#8b5000">56/100 — REDUCE</strong></p>
+  <p>At 37.7× earnings and 11.5 per cent below the 52-week high, the shares are not cheap and do not offer sufficient margin of safety for a high-conviction Buy. The aviation franchise is genuinely exceptional, but the valuation reflects this. Existing holders can maintain positions; new buyers should wait for a more attractive entry point below $260.</p>
+  <div class="recs-grid" style="margin-top:16px">
+    <div class="rec-item"><div class="rec-label">Buy Below</div><div class="rec-value buy">$260</div></div>
+    <div class="rec-item"><div class="rec-label">HOLD Zone</div><div class="rec-value hold">$260–$320</div></div>
+    <div class="rec-item"><div class="rec-label">Reduce Above</div><div class="rec-value reduce">$320</div></div>
+    <div class="rec-item"><div class="rec-label">Stop / Sell</div><div class="rec-value" style="color:#f85149">$240</div></div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Sources</h2>
+  <p class="sources">Live market data via DYOR HQ data pipeline. Company fundamentals sourced from public filings and consensus estimates. All figures as at 11 April 2026.</p>
+</div>
+
+</div>
+</body>
+</html>
