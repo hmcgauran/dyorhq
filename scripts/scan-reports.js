@@ -16,7 +16,7 @@ const REPORTS_DIR = path.join(__dirname, '..', 'reports');
 
 const TEMPLATE_FILE = 'template.html';
 
-const EXCHANGE_RE = /\s*[·•|·]\s*(LN|LS|NA|US|EU|PA|VI|BV|OL|F|BV|AS|AT|SM|RM|T|SX|TO|V|CX|NC)\s*$/i;
+const EXCHANGE_RE = /\s*[·•|·]\s*(LN|LS|LSE|NA|US|EU|PA|VI|BV|OL|F|BV|AS|AT|SM|RM|T|SX|TO|V|CX|NC)\s*$/i;
 
 function extractMeta(html) {
   const tickerMatch = html.match(/<meta\s+name="isin"\s+content="([^"]+)"/i);
@@ -83,7 +83,7 @@ function buildIndex() {
         recommendation: meta.recommendation || null,
         conviction: meta.conviction || null,
         summary: meta.summary || null,
-        date: meta.date || datePublished,
+        date: datePublished, // ISO format is always parseable; meta.date may be "10 Apr 2026" which new Date() can't parse
         datePublished,
         lastRefreshed: new Date().toISOString(),
         priceStored: meta.price || null,
