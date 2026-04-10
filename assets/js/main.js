@@ -160,7 +160,10 @@
     let result = allReports;
 
     if (activeUniv !== 'all') {
-      result = result.filter(r => (r.universe || 'watchlist') === activeUniv);
+      result = result.filter(r => {
+        const unis = r.universes || [r.universe || 'watchlist'];
+        return unis.includes(activeUniv);
+      });
     }
 
     if (activeRec === 'FAVOURITES') {

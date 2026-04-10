@@ -128,17 +128,17 @@ function buildPriceMap() {
   const map = {};
   // Default watchlist tab
   const watchlist = loadTab(WATCHLIST_TAB);
-  watchlist.forEach(q => { map[q.ticker] = { ...q, universe: 'watchlist' }; });
+  watchlist.forEach(q => { map[q.ticker] = { ...q, universes: ['watchlist'] }; });
 
   // Fortune 100 tab
   const fortune = loadTab('Fortune 100');
   fortune.forEach(q => {
     if (map[q.ticker]) {
-      map[q.ticker].universe = 'fortune100';
+      if (!map[q.ticker].universes.includes('fortune100')) map[q.ticker].universes.push('fortune100');
       if (q.sector) map[q.ticker].sector = q.sector;
       if (q.exchange) map[q.ticker].exchange = q.exchange;
     } else {
-      map[q.ticker] = { ...q, universe: 'fortune100' };
+      map[q.ticker] = { ...q, universes: ['fortune100'] };
     }
   });
 
@@ -146,11 +146,11 @@ function buildPriceMap() {
   const sp100 = loadTab('S&P 100 Companies');
   sp100.forEach(q => {
     if (map[q.ticker]) {
-      map[q.ticker].universe = 'sp100';
+      if (!map[q.ticker].universes.includes('sp100')) map[q.ticker].universes.push('sp100');
       if (q.sector) map[q.ticker].sector = q.sector;
       if (q.exchange) map[q.ticker].exchange = q.exchange;
     } else {
-      map[q.ticker] = { ...q, universe: 'sp100' };
+      map[q.ticker] = { ...q, universes: ['sp100'] };
     }
   });
 
@@ -212,7 +212,7 @@ canonical.forEach(entry => {
   }
 
   // universe: default watchlist unless assigned in sheet
-  entry.universe = sheetData?.universe || entry.universe || 'watchlist';
+  entry.universes = sheetData?.universes || entry.universes || ['watchlist'];
 
   // sector, exchange from sheet
   if (sheetData) {
