@@ -205,11 +205,11 @@
     "id": "avct-2026-04-08",
     "company": "Avacta Group plc",
     "ticker": "AVCT.L",
-    "date": "2026-04-08",
+    "date": "2026-04-10",
     "conviction": 63,
     "recommendation": "HOLD — SPECULATIVE",
     "summary": "Catalyst-driven biotech with real platform upside and real binary clinical risk. HOLD — speculative.",
-    "file": "avct-2026-04-08.html",
+    "file": "avct-2026-04-10.html",
     "isin": "GB00BYYW9G87",
     "exchange_code": "LN",
     "isin_verified": true,
@@ -221,7 +221,8 @@
     "exchange": null,
     "universes": [
       "watchlist"
-    ]
+    ],
+    "report_url": "/reports/avct-2026-04-10"
   },
   {
     "id": "baba-2026-04-08",
