@@ -1,4 +1,4 @@
-/* DYOR HQ — main.js */
+/* DYOR HQ — main.js v2 */
 
 (function () {
   'use strict';
@@ -8,12 +8,30 @@
 
   const searchInput = document.getElementById('search');
   const filterBtns = document.querySelectorAll('.filter-btn[data-rec]');
+  const univTabs = document.querySelectorAll('.univ-tab[data-univ]');
   const countEl = document.getElementById('report-count');
 
   let allReports = [];
-  let activeFilter = 'ALL';
+  let activeRec = 'ALL';
+  let activeUniv = 'all';
 
-  // ─── Favourites ─────────────────────────────────────
+  // ─── URL State ───────────────────────────────────
+  function getURLParam(key) {
+    const params = new URLSearchParams(window.location.search);
+    return params.get(key);
+  }
+  function setURLParam(key, value) {
+    const params = new URLSearchParams(window.location.search);
+    if (value && value !== 'all') {
+      params.set(key, value);
+    } else {
+      params.delete(key);
+    }
+    const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+    window.history.replaceState({}, '', newUrl);
+  }
+
+  // ─── Favourites ──────────────────────────────────
   const FAV_KEY = 'dyorhq_favourites';
   let allFavs = JSON.parse(localStorage.getItem(FAV_KEY) || '[]');
   if (!Array.isArray(allFavs)) allFavs = [];
@@ -29,7 +47,32 @@
     return allFavs.includes(t);
   }
 
-  // ─── Render ─────────────────────────────────────────
+  // ─── Freshness ───────────────────────────────────
+  const FRESHNESS_THRESHOLD = 0.15; // 15% price drift
+  const FRESHNESS_WINDOW_DAYS = 30; // older than 30 days = needs refresh
+  let livePrices = {};
+
+  function isFresh(report) {
+    if (!report.priceStored || !livePrices[report.ticker]) return true;
+    const stored = report.priceStored;
+    const live = livePrices[report.ticker];
+    const drift = Math.abs(live - stored) / stored;
+    const daysOld = (Date.now() - new Date(report.lastRefreshed || report.datePublished || report.date).getTime()) / (1000 * 60 * 60 * 24);
+    return drift <= FRESHNESS_THRESHOLD && daysOld <= FRESHNESS_WINDOW_DAYS;
+  }
+
+  function freshnessLabel(report) {
+    if (!report.priceStored || !livePrices[report.ticker]) return null;
+    const stored = report.priceStored;
+    const live = livePrices[report.ticker];
+    const drift = Math.abs(live - stored) / stored;
+    const daysOld = (Date.now() - new Date(report.lastRefreshed || report.datePublished || report.date).getTime()) / (1000 * 60 * 60 * 24);
+    if (drift > FRESHNESS_THRESHOLD) return 'Price moved';
+    if (daysOld > FRESHNESS_WINDOW_DAYS) return 'Needs review';
+    return null;
+  }
+
+  // ─── Render ──────────────────────────────────────
   const CIRC = 2 * Math.PI * 22;
 
   function recClass(rec) {
@@ -58,9 +101,11 @@
     const href = report.report_url || (report.file ? `reports/${report.file}` : '#');
     const starred = allFavs.includes((report.ticker || '').toUpperCase());
     const starSymbol = starred ? '★' : '☆';
+    const freshLabel = freshnessLabel(report);
+    const freshClass = freshLabel ? (freshLabel === 'Price moved' ? 'fresh-warn' : 'fresh-review') : '';
 
     return `
-      <a href="${href}" class="report-card rec-${cls}${starred ? ' starred' : ''}">
+      <a href="${href}" class="report-card rec-${cls}${starred ? ' starred' : ''}${freshClass ? ' ' + freshClass : ''}">
         <div class="card-header">
           <div class="card-company">
             <div class="card-ticker">${report.ticker}</div>
@@ -90,6 +135,7 @@
         </div>
         <div class="card-meta">
           <span class="rec-badge ${cls}">${rec}</span>
+          ${freshLabel ? `<span class="fresh-badge">${freshLabel}</span>` : ''}
           <span class="card-date">${formatDate(report.date)}</span>
         </div>
         <p class="card-summary">${report.summary || ''}</p>
@@ -108,16 +154,24 @@
     }
   }
 
+  // ─── Filtering ───────────────────────────────────
   function applyFilters() {
     const q = (searchInput ? searchInput.value.toLowerCase().trim() : '');
     let result = allReports;
 
-    if (activeFilter === 'FAVOURITES') {
-      result = result.filter(r => allFavs.includes((r.ticker || '').toUpperCase()));
-    } else if (activeFilter !== 'ALL') {
-      result = result.filter(r => (r.recommendation || r.rating || '').toUpperCase() === activeFilter);
+    // Universe filter
+    if (activeUniv !== 'all') {
+      result = result.filter(r => (r.universe || 'watchlist') === activeUniv);
     }
 
+    // Recommendation filter
+    if (activeRec === 'FAVOURITES') {
+      result = result.filter(r => allFavs.includes((r.ticker || '').toUpperCase()));
+    } else if (activeRec !== 'ALL') {
+      result = result.filter(r => (r.recommendation || r.rating || '').toUpperCase() === activeRec);
+    }
+
+    // Search
     if (q) {
       result = result.filter(r =>
         (r.company || '').toLowerCase().includes(q) ||
@@ -129,12 +183,28 @@
     renderGrid(result);
   }
 
-  // Filter buttons
+  // ─── Universe Tab Handling ─────────────────────────
+  function setUniverse(univ) {
+    activeUniv = univ;
+    setURLParam('universe', univ);
+    univTabs.forEach(tab => {
+      const isActive = tab.dataset.univ === univ;
+      tab.classList.toggle('active', isActive);
+      tab.setAttribute('aria-selected', String(isActive));
+    });
+    applyFilters();
+  }
+
+  univTabs.forEach(tab => {
+    tab.addEventListener('click', () => setUniverse(tab.dataset.univ));
+  });
+
+  // ─── Recommendation Filter Buttons ────────────────
   filterBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       filterBtns.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      activeFilter = btn.dataset.rec;
+      activeRec = btn.dataset.rec;
       applyFilters();
     });
   });
@@ -144,7 +214,7 @@
     searchInput.addEventListener('input', applyFilters);
   }
 
-  // Star click — event delegation on grid
+  // ─── Star Click — Event Delegation ─────────────────
   grid.addEventListener('click', function(e) {
     const btn = e.target.closest('.star-btn');
     if (!btn) return;
@@ -152,14 +222,12 @@
     const isFav = toggleFav(ticker);
     btn.textContent = isFav ? '★' : '☆';
     btn.classList.toggle('active', isFav);
-    // Update card class
     const card = btn.closest('.report-card');
     if (card) card.classList.toggle('starred', isFav);
-    // If favourites filter is active, re-render
-    if (activeFilter === 'FAVOURITES') applyFilters();
+    if (activeRec === 'FAVOURITES') applyFilters();
   });
 
-  // Add FAVOURITES button
+  // ─── FAVOURITES Button (added dynamically) ────────
   const filterGroup = document.querySelector('.filter-group');
   if (filterGroup) {
     const favBtn = document.createElement('button');
@@ -170,24 +238,37 @@
     favBtn.addEventListener('click', () => {
       filterBtns.forEach(b => b.classList.remove('active'));
       favBtn.classList.add('active');
-      activeFilter = 'FAVOURITES';
+      activeRec = 'FAVOURITES';
       applyFilters();
     });
   }
 
-  // Load reports
-  fetch('reports-index.json')
-    .then(r => { if (!r.ok) throw new Error('Failed to load reports index'); return r.json(); })
-    .then(data => {
-      allReports = data.sort((a, b) => new Date(b.date) - new Date(a.date));
-      renderGrid(allReports);
-    })
-    .catch(err => {
-      console.error(err);
-      grid.innerHTML = '<div class="empty-state"><p>Could not load reports.</p></div>';
-    });
+  // ─── Load Reports ─────────────────────────────────
+  function loadReports() {
+    return fetch('reports-index.json')
+      .then(r => { if (!r.ok) throw new Error('Failed to load reports index'); return r.json(); })
+      .then(data => {
+        allReports = data.sort((a, b) => new Date(b.date) - new Date(a.date));
+        // Seed livePrices from index data where available
+        allReports.forEach(r => {
+          if (r.priceStored) {
+            livePrices[r.ticker] = r.priceStored;
+          }
+        });
+        // Restore URL state
+        const urlUniv = getURLParam('universe');
+        if (urlUniv) setUniverse(urlUniv);
+        renderGrid(allReports);
+      })
+      .catch(err => {
+        console.error(err);
+        grid.innerHTML = '<div class="empty-state"><p>Could not load reports.</p></div>';
+      });
+  }
 
-  // ─── Methodology toggle
+  loadReports();
+
+  // ─── Methodology Toggle ─────────────────────────────
   const toggle = document.getElementById('methodology-toggle');
   const body = document.getElementById('methodology-body');
   if (toggle && body) {
