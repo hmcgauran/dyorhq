@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DYOR HQ — Honeywell (HON) | 11 April 2026</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:#0d1117;color:#e6edf3;padding:20px;line-height:1.6}
+  .container{max-width:900px;margin:0 auto}
+  .header{background:linear-gradient(135deg,#1c2128 0%,#2d333b 100%);border:1px solid #30363d;border-radius:12px;padding:28px 32px;margin-bottom:24px}
+  .header-top{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px}
+  .ticker-block h1{font-size:28px;font-weight:700;color:#58a6ff;margin-bottom:4px}
+  .company-name{font-size:15px;color:#8b949e}
+  .report-meta{text-align:right;font-size:13px;color:#8b949e}
+  .report-meta .date{font-weight:600;color:#e6edf3}
+  .report-meta .universe{color:#8b949e}
+  .conviction-bar{display:flex;align-items:center;gap:12px;margin-top:16px}
+  .conviction-label{font-size:12px;font-weight:600;color:#8b949e;text-transform:uppercase;letter-spacing:.5px}
+  .bar-track{flex:1;height:8px;background:#21262d;border-radius:4px;overflow:hidden}
+  .bar-fill{height:100%;border-radius:4px;transition:width .4s ease}
+  .conviction-score{font-size:18px;font-weight:700}
+  .rating-badge{display:inline-block;padding:4px 12px;border-radius:20px;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px}
+  .rating-HOLD{background:#b08800;color:#fff}
+  .rating-BUY{background:#238636;color:#fff}
+  .rating-REDUCE{background:#8b5000;color:#fff}
+  .rating-SELL{background:#b62324;color:#fff}
+  .section{border:1px solid #30363d;border-radius:12px;padding:24px 28px;margin-bottom:16px;background:#161b22}
+  .section h2{font-size:14px;font-weight:700;color:#8b949e;text-transform:uppercase;letter-spacing:.8px;margin-bottom:16px;padding-bottom:10px;border-bottom:1px solid #21262d}
+  .exec-summary{background:linear-gradient(135deg,#1c2128,#1f3a5f);border-color:#1f4b8f}
+  .exec-summary h2{color:#58a6ff;border-bottom-color:#1f4b8f}
+  .exec-summary p{font-size:16px;color:#e6edf3}
+  .snapshot-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px}
+  .snapshot-item{background:#21262d;border:1px solid #30363d;border-radius:8px;padding:14px}
+  .snapshot-label{font-size:11px;color:#8b949e;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px}
+  .snapshot-value{font-size:17px;font-weight:700;color:#e6edf3}
+  .snapshot-value.highlight{color:#58a6ff}
+  .scenario-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .scenario-card{background:#21262d;border:1px solid #30363d;border-radius:8px;padding:16px}
+  .scenario-card h3{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-bottom:10px}
+  .scenario-bull h3{color:#3fb950}
+  .scenario-base h3{color:#d29922}
+  .scenario-bear h3{color:#f85149}
+  .scenario-card p{font-size:13px;color:#c9d1d9;margin-bottom:8px}
+  .scenario-pct{font-size:20px;font-weight:700;margin-bottom:4px}
+  .scenario-bull .scenario-pct{color:#3fb950}
+  .scenario-base .scenario-pct{color:#d29922}
+  .scenario-bear .scenario-pct{color:#f85149}
+  .scenario-wt{font-size:11px;color:#8b949e}
+  .risk-item{display:flex;justify-content:space-between;align-items:flex-start;padding:12px 0;border-bottom:1px solid #21262d;gap:16px}
+  .risk-item:last-child{border-bottom:none}
+  .risk-rank{background:#30363d;color:#8b949e;font-size:12px;font-weight:700;min-width:28px;height:28px;line-height:28px;text-align:center;border-radius:6px;flex-shrink:0}
+  .risk-text{flex:1;font-size:14px;color:#c9d1d9}
+  .owner-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .owner-card{background:#21262d;border:1px solid #30363d;border-radius:8px;padding:18px}
+  .owner-card h3{font-size:13px;font-weight:700;margin-bottom:10px}
+  .owner-buy h3{color:#3fb950}
+  .owner-avoid h3{color:#f85149}
+  .owner-card ul{list-style:none;padding:0}
+  .owner-card li{font-size:13px;color:#c9d1d9;padding:4px 0;padding-left:16px;position:relative}
+  .owner-card li::before{content:'→';position:absolute;left:0;color:#8b949e}
+  .recs-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+  .rec-item{background:#21262d;border:1px solid #30363d;border-radius:8px;padding:14px;text-align:center}
+  .rec-label{font-size:11px;color:#8b949e;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px}
+  .rec-value{font-size:16px;font-weight:700}
+  .rec-value.buy{color:#3fb950}
+  .rec-value.hold{color:#d29922}
+  .rec-value.reduce{color:#f85149}
+  .sources{font-size:12px;color:#8b949e}
+  @media(max-width:600px){.snapshot-grid{grid-template-columns:repeat(2,1fr)}.scenario-grid{grid-template-columns:1fr}.owner-grid{grid-template-columns:1fr}.recs-grid{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+  <div class="header-top">
+    <div class="ticker-block">
+      <h1>HON — Honeywell International Inc</h1>
+      <div class="company-name">Honeywell International Inc · NASDAQ · S&amp;P 100</div>
+    </div>
+    <div class="report-meta">
+      <div class="date">11 April 2026</div>
+      <div class="universe">Universe: SP100</div>
+      <div style="margin-top:8px"><span class="rating-badge rating-REDUCE">REDUCE</span></div>
+    </div>
+  </div>
+  <div class="conviction-bar">
+    <span class="conviction-label">Conviction</span>
+    <div class="bar-track"><div class="bar-fill" style="width:51%;background:#8b5000"></div></div>
+    <span class="conviction-score" style="color:#8b5000">51</span>
+  </div>
+</div>
+
+<div class="section exec-summary">
+  <h2>Executive Summary</h2>
+  <p>Honeywell is a diversified industrial conglomerate with a strong aerospace franchise but faces a confluence of headwinds — soft automation demand, a slowing energy transition investment cycle, and below-consensus earnings growth — that make the shares unattractive at current levels despite reasonable absolute valuation, warranting a Reduce.</p>
+</div>
+
+<div class="section">
+  <h2>Business Model</h2>
+  <p>Honeywell operates across four primary segments, making it one of the most diversified industrial conglomerates:</p>
+  <ul style="list-style:disc;padding-left:24px;margin-top:12px">
+    <li><strong>Aerospace:</strong> Aircraft engines, avionics, cockpit systems, and SATCOM for commercial and defence aviation. Honeywell's aerospace franchise serves both the OEM and aftermarket channels with a high-margin, recurring revenue installed base. Key programmes include auxiliary power units (APU), cockpit displays, and engine components for the Boeing 737 MAX and Airbus A320neo families.</li>
+    <li><strong>Industrial Automation (formerly Honeywell Process Solutions):</strong> Sensors, actuators, controllers, and industrial software for process industries (oil and gas, chemicals, refining). This segment is sensitive to energy sector capital expenditure cycles and global industrial production levels.</li>
+    <li><strong>Building Automation (HBT):</strong> Building management systems, fire safety, security, and energy efficiency solutions for commercial buildings. Honeywell is the global leader in connected building solutions and benefits from infrastructure modernisation spending.</li>
+    <li><strong>Energy and Sustainability Solutions (ESS):</strong> Advanced materials, energy storage, and sustainability technologies including carbon capture, hydrogen compression, and renewable energy integration solutions. This is the highest-growth, highest-investment segment, though it currently generates modest earnings relative to capital deployed.</li>
+  </ul>
+  <p style="margin-top:12px">Honeywell's diversification across aviation, industrial automation, and building technologies provides some earnings stability through cycles, but also means the company lacks a singular high-growth franchise that can offset softness in other segments.</p>
+</div>
+
+<div class="section">
+  <h2>Financial Snapshot</h2>
+  <div class="snapshot-grid">
+    <div class="snapshot-item"><div class="snapshot-label">Price</div><div class="snapshot-value highlight">$235.06</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">Market Cap</div><div class="snapshot-value">$149.4bn</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">P/E Ratio</div><div class="snapshot-value">34.2×</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">EPS (TTM)</div><div class="snapshot-value">$6.88</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">52w High</div><div class="snapshot-value">$248.18</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">52w Low</div><div class="snapshot-value">$177.88</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">Distance from 52wH</div><div class="snapshot-value">−5.3%</div></div>
+    <div class="snapshot-item"><div class="snapshot-label">Avg Volume</div><div class="snapshot-value">1.9m</div></div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Recent Catalysts (Last 3–6 Months)</h2>
+  <ul style="list-style:disc;padding-left:24px">
+    <li><strong>Aerospace aftermarket recovery:</strong> The commercial aviation aftermarket has continued to recover, with airlines focusing on maintenance as aircraft utilisation rates remain high. Honeywell's aerospace aftermarket (spare parts, MRO services) provides high-margin recurring revenue in an otherwise challenging environment.</li>
+    <li><strong>Building automation order growth:</strong> Orders in Honeywell Building Technologies have shown modest acceleration, driven by infrastructure spending and building energy efficiency mandates in Europe and the US. This segment provides some defensive stability in an uncertain macro environment.</li>
+    <li><strong>Automation demand softness:</strong> The materials handling and warehouse automation markets have slowed following the post-COVID surge, impacting Honeywell's industrial automation business. Customer order rates have decelerated, suggesting near-term revenue headwinds.</li>
+    <li><strong>Energy transition investments:</strong> Honeywell's ESS segment is investing heavily in carbon capture, hydrogen, and sustainable aviation fuel technologies. While the long-term opportunity is significant, near-term earnings contribution remains modest as these businesses scale.</li>
+    <li><strong>CEO transition completion:</strong> The transition to new CEO Vimal Kapur has been completed, with the new leadership articulating a focused strategy around automation, aviation, and energy transition. The market is awaiting clearer signs of execution on the growth initiatives.</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Thesis Evaluation</h2>
+  <div class="scenario-grid">
+    <div class="scenario-card scenario-bull">
+      <h3>Bull Case</h3>
+      <div class="scenario-pct">70 / 100</div>
+      <p>Aerospace grows at 12–15 per cent annually driven by commercial aviation recovery and defence programme wins. Building Technologies benefits from infrastructure investment spending. ESS reaches profitability inflection as carbon capture and hydrogen businesses scale faster than expected. New CEO delivers on operational improvement. Shares re-rate to 38–42× earnings on growth acceleration, driving 15–20 per cent total returns.</p>
+      <div class="scenario-wt">Weight: 30%</div>
+    </div>
+    <div class="scenario-card scenario-base">
+      <h3>Base Case</h3>
+      <div class="scenario-pct">50 / 100</div>
+      <p>Aerospace grows at high-single digits, partially offset by automation softness. ESS remains a drag on group margins for another 2–3 years. Honeywell delivers mid-single-digit EPS growth as cost discipline and buybacks offset revenue headwinds. Shares trade at 30–36× earnings in a $225–260 range. Total returns of 6–9 per cent annually.</p>
+      <div class="scenario-wt">Weight: 50%</div>
+    </div>
+    <div class="scenario-card scenario-bear">
+      <h3>Bear Case</h3>
+      <div class="scenario-pct">28 / 100</div>
+      <p>Global industrial recession hits Honeywell's automation and process solutions businesses hard. Commercial aviation growth stalls. ESS requires additional capital that impairs free cash flow. The new CEO's initiatives underperform. Multiple de-rates to 25× as the market prices in a prolonged earnings growth pause. Shares fall 20–25 per cent from current levels.</p>
+      <div class="scenario-wt">Weight: 20%</div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Key Risks</h2>
+  <div class="risk-item"><span class="risk-rank">1</span><span class="risk-text"><strong>Automation and industrial cycle:</strong> Honeywell's industrial automation segment is exposed to global manufacturing and materials handling investment cycles. A prolonged industrial recession — signalled by declining PMI in key markets — would directly impair this segment's revenues and margins.</span></div>
+  <div class="risk-item"><span class="risk-rank">2</span><span class="risk-text"><strong>Boeing programme concentration:</strong> Honeywell supplies critical components (APUs, cockpit systems) to Boeing aircraft. Boeing's well-documented production challenges and the 737 MAX quality issues create programme risk for Honeywell's aerospace revenues and could cause order delays even if the underlying aviation market is strong.</span></div>
+  <div class="risk-item"><span class="risk-rank">3</span><span class="risk-text"><strong>Energy transition investment drag:</strong> The ESS segment requires significant capital investment before achieving profitability. If the energy transition accelerates more slowly than expected or competitors reach scale first, the capital deployed to ESS could impair ROIC and free cash flow.</span></div>
+  <div class="risk-item"><span class="risk-rank">4</span><span class="risk-text"><strong>Multiple expansion limited by growth:</strong> At 34.2× earnings, the shares already price in a premium for quality and diversification. Without a clear high-growth franchise to drive multiple expansion, the market is likely to apply a conglomerate discount or require continued M&amp;A activity to justify the multiple.</span></div>
+  <div class="risk-item"><span class="risk-rank">5</span><span class="risk-text"><strong>Execution risk in new CEO strategy:</strong> The Vimal Kapur leadership transition and strategy refresh creates near-term execution uncertainty. The market historically discounts leadership transitions in complex industrials until the strategy has been demonstrated through at least two quarters of results.</span></div>
+</div>
+
+<div class="section">
+  <h2>Who Should Own It / Avoid It</h2>
+  <div class="owner-grid">
+    <div class="owner-card owner-buy">
+      <h3>Appropriate For</h3>
+      <ul>
+        <li>Defensive industrial investors who want diversified aerospace and automation exposure with better downside protection than pure-play automation or aerospace companies</li>
+        <li>Long-term compounders who believe in the energy transition investment story and are willing to wait 3–5 years for the ESS segment to reach profitability scale</li>
+        <li>Those wanting a proxy on global commercial aviation recovery without single-programme or single-customer concentration that pure-play aerospace suppliers have</li>
+      </ul>
+    </div>
+    <div class="owner-card owner-avoid">
+      <h3>Avoid If</h3>
+      <ul>
+        <li>Seeking pure-play aerospace exposure — United Technologies (UTC) spun off Otis and Carrier, and Honeywell still carries the diversified conglomerate discount that pure-play aerospace companies (GE Aerospace, Rolls-Royce) do not</li>
+        <li>Concerned about automation cycle deterioration — the industrial automation headwinds have not fully resolved and Honeywell's exposure to this cycle is underappreciated</li>
+        <li>Requires a clear high-growth franchise — Honeywell's diversified model provides stability but not the high-conviction growth vector that justifies a premium P/E in any single segment</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Recommendation</h2>
+  <p style="margin-bottom:16px">Conviction Score: <strong style="color:#8b5000">51/100 — REDUCE</strong></p>
+  <p>At 34.2× earnings and within 5.3 per cent of the 52-week high, Honeywell offers limited near-term upside and faces multiple headwinds in its automation segment. The aerospace franchise is the standout positive, but this alone cannot carry the diversified industrial to the growth rates implied by the current valuation. Reduce exposure at current levels.</p>
+  <div class="recs-grid" style="margin-top:16px">
+    <div class="rec-item"><div class="rec-label">Buy Below</div><div class="rec-value buy">$200</div></div>
+    <div class="rec-item"><div class="rec-label">HOLD Zone</div><div class="rec-value hold">$200–$245</div></div>
+    <div class="rec-item"><div class="rec-label">Reduce Above</div><div class="rec-value reduce">$245</div></div>
+    <div class="rec-item"><div class="rec-label">Stop / Sell</div><div class="rec-value" style="color:#f85149">$185</div></div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Sources</h2>
+  <p class="sources">Live market data via DYOR HQ data pipeline. Company fundamentals sourced from public filings and consensus estimates. All figures as at 11 April 2026.</p>
+</div>
+
+</div>
+</body>
+</html>
