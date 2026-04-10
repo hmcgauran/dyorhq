@@ -14,6 +14,7 @@
   let allReports = [];
   let activeRec = 'ALL';
   let activeUniv = 'all';
+  let priceData = {}; // { ticker: price }
 
   // ─── URL State ───────────────────────────────────
   function getURLParam(key) {
@@ -49,23 +50,22 @@
 
   // ─── Freshness ───────────────────────────────────
   const FRESHNESS_THRESHOLD = 0.15; // 15% price drift
-  const FRESHNESS_WINDOW_DAYS = 30; // older than 30 days = needs refresh
-  let livePrices = {};
+  const FRESHNESS_WINDOW_DAYS = 30;  // older than 30 days = needs review
 
   function isFresh(report) {
-    if (!report.priceStored || !livePrices[report.ticker]) return true;
+    const livePrice = priceData[report.ticker];
+    if (!report.priceStored || livePrice === undefined) return true;
     const stored = report.priceStored;
-    const live = livePrices[report.ticker];
-    const drift = Math.abs(live - stored) / stored;
+    const drift = Math.abs(livePrice - stored) / stored;
     const daysOld = (Date.now() - new Date(report.lastRefreshed || report.datePublished || report.date).getTime()) / (1000 * 60 * 60 * 24);
     return drift <= FRESHNESS_THRESHOLD && daysOld <= FRESHNESS_WINDOW_DAYS;
   }
 
   function freshnessLabel(report) {
-    if (!report.priceStored || !livePrices[report.ticker]) return null;
+    const livePrice = priceData[report.ticker];
+    if (!report.priceStored || livePrice === undefined) return null;
     const stored = report.priceStored;
-    const live = livePrices[report.ticker];
-    const drift = Math.abs(live - stored) / stored;
+    const drift = Math.abs(livePrice - stored) / stored;
     const daysOld = (Date.now() - new Date(report.lastRefreshed || report.datePublished || report.date).getTime()) / (1000 * 60 * 60 * 24);
     if (drift > FRESHNESS_THRESHOLD) return 'Price moved';
     if (daysOld > FRESHNESS_WINDOW_DAYS) return 'Needs review';
@@ -159,19 +159,16 @@
     const q = (searchInput ? searchInput.value.toLowerCase().trim() : '');
     let result = allReports;
 
-    // Universe filter
     if (activeUniv !== 'all') {
       result = result.filter(r => (r.universe || 'watchlist') === activeUniv);
     }
 
-    // Recommendation filter
     if (activeRec === 'FAVOURITES') {
       result = result.filter(r => allFavs.includes((r.ticker || '').toUpperCase()));
     } else if (activeRec !== 'ALL') {
       result = result.filter(r => (r.recommendation || r.rating || '').toUpperCase() === activeRec);
     }
 
-    // Search
     if (q) {
       result = result.filter(r =>
         (r.company || '').toLowerCase().includes(q) ||
@@ -243,18 +240,19 @@
     });
   }
 
-  // ─── Load Reports ─────────────────────────────────
+  // ─── Load Data ────────────────────────────────────
   function loadReports() {
-    return fetch('reports-index.json')
-      .then(r => { if (!r.ok) throw new Error('Failed to load reports index'); return r.json(); })
-      .then(data => {
-        allReports = data.sort((a, b) => new Date(b.date) - new Date(a.date));
-        // Seed livePrices from index data where available
-        allReports.forEach(r => {
-          if (r.priceStored) {
-            livePrices[r.ticker] = r.priceStored;
-          }
-        });
+    return Promise.all([
+      fetch('reports-index.json')
+        .then(r => { if (!r.ok) throw new Error('Failed to load reports index'); return r.json(); }),
+      fetch('prices.json')
+        .then(r => { if (!r.ok) throw new Error('prices.json not found — run export-prices.js'); return r.json(); })
+        .catch(() => ({ timestamp: null, prices: {} }))
+    ])
+      .then(([reports, priceInfo]) => {
+        allReports = reports.sort((a, b) => new Date(b.date) - new Date(a.date));
+        priceData = priceInfo.prices || {};
+
         // Restore URL state
         const urlUniv = getURLParam('universe');
         if (urlUniv) setUniverse(urlUniv);
