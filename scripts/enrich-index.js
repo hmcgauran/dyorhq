@@ -194,9 +194,14 @@ canonical.forEach(entry => {
   const ticker = String(entry.ticker || '').toUpperCase();
   const sheetData = priceMap[ticker];
 
-  // datePublished: record when first published (from existing date field)
+  // datePublished: use ISO datePublished if available; ISO date field otherwise
+  // Never overwrite date/datePublished with HTML-sourced non-ISO dates
   if (!entry.datePublished && entry.date) {
     entry.datePublished = entry.date;
+  }
+  // Always normalise date to match datePublished (both ISO)
+  if (entry.datePublished) {
+    entry.date = entry.datePublished;
   }
 
   // lastRefreshed: now (this run)
