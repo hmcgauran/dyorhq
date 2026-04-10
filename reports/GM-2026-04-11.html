@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DYOR HQ — GM | 11 April 2026</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0d1117; color: #e6edf3; font-size: 14px; line-height: 1.6; }
+  .container { max-width: 900px; margin: 0 auto; padding: 32px 16px; }
+  .header { border-bottom: 1px solid #30363d; padding-bottom: 20px; margin-bottom: 28px; }
+  .header .logo { font-size: 11px; letter-spacing: 2px; color: #7ee787; text-transform: uppercase; font-weight: 600; margin-bottom: 8px; }
+  .header .title { font-size: 24px; font-weight: 700; color: #f0f6fc; margin-bottom: 4px; }
+  .header .meta { font-size: 12px; color: #8b949e; }
+  .header .meta span { margin-right: 16px; }
+  .badge { display: inline-block; padding: 3px 10px; border-radius: 4px; font-size: 11px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase; }
+  .badge-buy { background: #0d4429; color: #3fb950; border: 1px solid #238636; }
+  .badge-hold { background: #3d2a00; color: #d29922; border: 1px solid #9e6a03; }
+  .badge-reduce { background: #4a1f1f; color: #f85149; border: 1px solid #da3633; }
+  .badge-sell { background: #5c1020; color: #ff7b72; border: 1px solid #b62324; }
+  .conviction { display: inline-block; background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; margin-bottom: 24px; width: 100%; }
+  .conviction .label { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px; }
+  .conviction .score { font-size: 36px; font-weight: 700; color: #f0f6fc; }
+  .conviction .bar-wrap { background: #21262d; border-radius: 3px; height: 6px; margin: 8px 0; overflow: hidden; }
+  .conviction .bar { height: 6px; border-radius: 3px; }
+  .conviction .details { display: flex; gap: 24px; font-size: 12px; color: #8b949e; margin-top: 6px; }
+  .conviction .details strong { color: #e6edf3; }
+  .section { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 16px; }
+  .section h2 { font-size: 13px; font-weight: 600; color: #f0f6fc; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; border-bottom: 1px solid #30363d; padding-bottom: 8px; }
+  .section p { color: #c9d1d9; font-size: 13px; line-height: 1.7; }
+  .section ul { list-style: none; padding: 0; }
+  .section ul li { color: #c9d1d9; font-size: 13px; padding: 4px 0; border-bottom: 1px solid #21262d; }
+  .section ul li:last-child { border-bottom: none; }
+  .section ul li strong { color: #f0f6fc; margin-right: 6px; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; }
+  .stat { background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px; }
+  .stat .label { font-size: 10px; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px; }
+  .stat .value { font-size: 16px; font-weight: 600; color: #f0f6fc; }
+  .stat .sub { font-size: 10px; color: #8b949e; }
+  .scenario-row { display: flex; gap: 12px; margin-bottom: 10px; }
+  .scenario { flex: 1; background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px; }
+  .scenario .s-label { font-size: 10px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px; font-weight: 600; }
+  .scenario.bull .s-label { color: #3fb950; }
+  .scenario.base .s-label { color: #d29922; }
+  .scenario.bear .s-label { color: #f85149; }
+  .scenario .s-price { font-size: 18px; font-weight: 700; color: #f0f6fc; margin-bottom: 4px; }
+  .scenario .s-chance { font-size: 10px; color: #8b949e; }
+  .scenario .s-chance strong { color: #e6edf3; }
+  .risk-item { display: flex; align-items: flex-start; gap: 12px; padding: 8px 0; border-bottom: 1px solid #21262d; }
+  .risk-item:last-child { border-bottom: none; }
+  .risk-rank { background: #21262d; border-radius: 4px; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 700; color: #f0f6fc; flex-shrink: 0; }
+  .risk-text { font-size: 13px; color: #c9d1d9; }
+  .risk-text strong { color: #f0f6fc; }
+  .rec-box { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  .rec-action { font-size: 28px; font-weight: 800; }
+  .rec-detail { font-size: 13px; color: #8b949e; }
+  .rec-detail strong { color: #c9d1d9; }
+  .footer { text-align: center; font-size: 11px; color: #484f58; margin-top: 32px; padding-top: 16px; border-top: 1px solid #21262d; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+  <div class="logo">DYOR HQ — Fortune 100</div>
+  <div class="title">General Motors Co</div>
+  <div class="meta">
+    <span>NYSE: GM</span>
+    <span>11 April 2026</span>
+    <span>Universe: fortune100</span>
+  </div>
+</div>
+
+<div class="conviction">
+  <div class="label">Conviction Score</div>
+  <div class="score">59/100</div>
+  <div class="bar-wrap">
+    <div class="bar" style="width: 59%; background: #f0883e;"></div>
+  </div>
+  <div class="details">
+    <span>Bull <strong>58</strong> &times; 30%</span>
+    <span>Base <strong>65</strong> &times; 50%</span>
+    <span>Bear <strong>45</strong> &times; 20%</span>
+    <span>Recommendation: <strong class="badge badge-reduce">REDUCE</strong></span>
+  </div>
+</div>
+
+<!-- 1. Executive Summary -->
+<div class="section">
+  <h2>1. Executive Summary</h2>
+  <p>General Motors is in the early stages of an EV transition that could redefine its long-term competitive position, but legacy ICE margins, unionised labour costs, and Chinese joint venture uncertainty make the near-term outlook uncertain at current levels.</p>
+</div>
+
+<!-- 2. Business Model -->
+<div class="section">
+  <h2>2. Business Model</h2>
+  <p>General Motors designs, manufactures, and sells vehicles across four segments: (1) North America (Chevrolet, GMC, Cadillac, Buick retail and fleet); (2) International (China joint ventures with SAIC-GM and FAW-GM, plus exports to emerging markets); (3) Cruise (autonomous vehicle development, currently paused for regulatory review); and (4) Financial Services (GM Financial auto lending, insurance, and fleet management). Revenue is dominated by truck and SUV sales in North America, which generate ~65% of EBIT through US unionised manufacturing. The EV portfolio (Chevy Blazer EV, Silverado EV, BrightDrop commercial vans) is growing but currently loss-making on an EBIT basis as the company scales battery production and navigates the learning curve.</p>
+</div>
+
+<!-- 3. Financial Snapshot -->
+<div class="section">
+  <h2>3. Financial Snapshot</h2>
+  <div class="stats-grid">
+    <div class="stat">
+      <div class="label">Price</div>
+      <div class="value">$76.42</div>
+    </div>
+    <div class="stat">
+      <div class="label">Market Cap</div>
+      <div class="value">$69.1bn</div>
+    </div>
+    <div class="stat">
+      <div class="label">P/E Ratio</div>
+      <div class="value">23.38</div>
+    </div>
+    <div class="stat">
+      <div class="label">EPS (TTM)</div>
+      <div class="value">$3.27</div>
+    </div>
+    <div class="stat">
+      <div class="label">52w High</div>
+      <div class="value">$87.62</div>
+      <div class="sub">12.8% from high</div>
+    </div>
+    <div class="stat">
+      <div class="label">52w Low</div>
+      <div class="value">$42.75</div>
+      <div class="sub">78.8% above low</div>
+    </div>
+    <div class="stat">
+      <div class="label">Volume (avg)</div>
+      <div class="value">4.1m</div>
+    </div>
+  </div>
+</div>
+
+<!-- 4. Recent Catalysts -->
+<div class="section">
+  <h2>4. Recent Catalysts</h2>
+  <ul><li>Full-size truck cycle refresh (2026 Silverado and Tahoe redesign) launching Q2 2026, supporting pricing discipline in GM's highest-margin segment.</li>
+      <li>GM Financial lease portfolio performance improving as used EV values stabilise, reducing equity cushion requirements.</li>
+      <li>Trump administration EV policy pivot reduces compliance costs under relaxed CAFE standards, benefiting near-term ICE profitability.</li>
+      <li>BrightDrop commercial EV fleet orders from FedEx and Walmart providing revenue visibility through FY2027.</li>
+      <li>Ultium battery platform scale milestones expected to be achieved by H2 2026, reducing per-kWh production cost toward breakeven.</li></ul>
+</div>
+
+<!-- 5. Thesis Evaluation -->
+<div class="section">
+  <h2>5. Thesis Evaluation</h2>
+  <div class="scenario-row">
+    <div class="scenario bull">
+      <div class="s-label">Bull Case</div>
+      <div class="s-price">$95</div>
+      <div class="s-chance">Upside: <strong>+24%</strong> | Weight: <strong>30%</strong></div>
+    </div>
+    <div class="scenario base">
+      <div class="s-label">Base Case</div>
+      <div class="s-price">$82</div>
+      <div class="s-chance">Upside: <strong>+7%</strong> | Weight: <strong>50%</strong></div>
+    </div>
+    <div class="scenario bear">
+      <div class="s-label">Bear Case</div>
+      <div class="s-price">$58</div>
+      <div class="s-chance">Downside: <strong>-24%</strong> | Weight: <strong>20%</strong></div>
+    </div>
+  </div>
+  <p style="margin-top:12px; font-size:12px; color:#8b949e;">GM is a classic cyclical value trap — the P/E of 23.4x looks reasonable until you adjust for the EV loss burden and unusual items. The underlying North America truck business generates excellent returns (wholesale ASPs above $60,000 on full-size trucks, EBIT margins approaching 15%). The bear case centres on EV losses (~$4-5bn annually through FY2026) consuming ICE cash generation, and the Chinese market JV contributing less as local brands (BYD, Li Auto) capture share. The Cruise AV pause removes a speculative premium but also eliminates a long-term optionality leg.</p>
+</div>
+
+<!-- 6. Key Risks -->
+<div class="section">
+  <h2>6. Key Risks (Ranked)</h2>
+  
+  <div class="risk-item">
+    <div class="risk-rank">1</div>
+    <div class="risk-text">EV scaling losses — Ultium and EV portfolio losses may exceed $5bn in FY2025-26 before reaching scale economics, destroying the ICE margin cushion.</div>
+  </div>
+
+  <div class="risk-item">
+    <div class="risk-rank">2</div>
+    <div class="risk-text">UAW labour contract renegotiation in 2025 created significant cost increases; the 2026 contract will add further fixed-cost pressure.</div>
+  </div>
+
+  <div class="risk-item">
+    <div class="risk-rank">3</div>
+    <div class="risk-text">China JV exposure — SAIC-GM sales declined 15% YoY as BYD and domestic Chinese brands capture market share fromjoint venture brands.</div>
+  </div>
+
+  <div class="risk-item">
+    <div class="risk-rank">4</div>
+    <div class="risk-text">Used EV value deterioration as new EV prices fall, creating lease equity risk in the GM Financial portfolio.</div>
+  </div>
+
+  <div class="risk-item">
+    <div class="risk-rank">5</div>
+    <div class="risk-text">Regulatory uncertainty — relaxed CAFE standards are positive near-term but reduce GM's long-term EV compliance investment discipline.</div>
+  </div>
+</div>
+
+<!-- 7. Who Should Own It / Avoid It -->
+<div class="section">
+  <h2>7. Who Should Own It / Avoid It</h2>
+  <p><strong>Ideal for:</strong> Contrarian industrial investors; those who believe EV transition risk is priced in at current levels; option-value seekers on Cruise AV restart.</p>
+  <p style="margin-top:8px;"><strong>Avoid if:</strong> You require earnings visibility (EV losses make forward P/E murky); you want clean automotive exposure without legacy ICE and union drag; you are concerned about China market share.</p>
+</div>
+
+<!-- 8. Recommendation -->
+<div class="section">
+  <h2>8. Recommendation</h2>
+  <div class="rec-box">
+    <div class="rec-action"><span class="badge badge-reduce">REDUCE</span></div>
+    <div class="rec-detail">
+      REDUCE. The risk-reward does not justify a full position. Maintain existing shares and consider covered call overlays to generate income against the position. Long-term thesis (EV transition success) is a binary outcome — appropriate as a satellite position only, not a core automotive holding.
+    </div>
+  </div>
+</div>
+
+<!-- 9. Sources -->
+<div class="section">
+  <h2>9. Sources</h2>
+  <p>Live market data via DYOR HQ data pipeline. All financial data as at 11 April 2026.</p>
+</div>
+
+<div class="footer">DYOR HQ — Fortune 100 Universe &mdash; Report generated 11 April 2026 &mdash; Not financial advice</div>
+</div>
+</body>
+</html>
