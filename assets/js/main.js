@@ -296,3 +296,145 @@
   }
 
 })();
+
+// ─── Report Page Loader (called by thin-shell report pages) ───
+async function loadReport(ticker) {
+  try {
+    const response = await fetch(`../reports/data/${ticker}.json`);
+    if (!response.ok) throw new Error('Report not found');
+    const data = await response.json();
+    renderReport(data);
+    history.replaceState(null, '', `?t=${ticker}`);
+  } catch (err) {
+    const container = document.querySelector('main .container');
+    if (container) {
+      container.innerHTML = `<p style="color:#ff4444;padding:40px;text-align:center;">Report not available: ${ticker}</p>`;
+    }
+  }
+}
+
+function renderReport(data) {
+  const meta = data.meta;
+  const sections = data.sections;
+  const scores = data.scores || {};
+
+  // Conviction colour
+  const color = convictionColor(meta.conviction || 50);
+  const recCls = recClass(meta.recommendation);
+  const date = formatDate(meta.datePublished || meta.date);
+
+
+  let html = `
+    <div class="report-hero">
+      <div class="report-breadcrumb"><a href="../index.html">Reports</a><span>/</span><span>${meta.ticker}</span></div>
+      <div class="report-title-row">
+        <div class="report-title-block">
+          <div class="ticker-label">${meta.ticker}</div>
+          <h1>${meta.company}</h1>
+          <div class="report-meta-bar">
+            <span class="rec-badge rec-${recCls}">${meta.recommendation}</span>
+            <span class="meta-item">${date}</span>
+            <span class="meta-item">${meta.price || ''}</span>
+          </div>
+        </div>
+        <div class="conviction-display" style="border-top: 3px solid ${color}">
+          <div class="score" style="color: ${color}">${meta.conviction}</div>
+          <div class="score-label">Conviction</div>
+          <div class="score-sub">out of 100</div>
+        </div>
+      </div>
+    </div>
+    <div class="report-body">
+      <div class="report-content">
+  `;
+
+  const sectionOrder = ['executiveSummary','businessModel','financialSnapshot','recentCatalysts','thesisEvaluation','keyRisks','whoShouldOwn','recommendation','entryExit'];
+  const sectionTitles = {
+    executiveSummary: 'Executive Summary',
+    businessModel: 'Business Model',
+    financialSnapshot: 'Financial Snapshot',
+    recentCatalysts: 'Recent Catalysts',
+    thesisEvaluation: 'Thesis Evaluation',
+    keyRisks: 'Key Risks',
+    whoShouldOwn: 'Who Should Own It / Avoid It',
+    recommendation: 'Recommendation',
+    entryExit: 'Entry / Exit Framework'
+  };
+
+
+  for (const key of sectionOrder) {
+    const section = sections[key];
+    if (!section) continue;
+
+    html += `<div class="report-section"><h2>${sectionTitles[key]}</h2>`;
+
+    if (key === 'keyRisks' && section.risks && section.risks.length > 0) {
+      html += `<ul class="risk-list">`;
+      for (const risk of section.risks) {
+        const num = risk.rank || risk.number || '';
+        const text = risk.risk || risk.text || '';
+        html += `<li><span class="risk-num">${num}</span><span>${text}</span></li>`;
+      }
+      html += `</ul>`;
+    } else if (key === 'financialSnapshot' && section.table) {
+      html += `<table class="data-table">`;
+      for (const row of section.table) {
+        html += `<tr><td>${row.label}</td><td>${row.value}</td></tr>`;
+      }
+      html += `</table>`;
+    } else if (section.text) {
+      let text = section.text
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.*?)\*/g, '<em>$1</em>')
+        .replace(/\n/g, '<br>');
+      html += `<p>${text}</p>`;
+    }
+
+    html += `</div>`;
+  }
+
+  // Sources
+  if (sections.sources) {
+    html += `<div class="report-section"><h2>Sources</h2>`;
+    if (sections.sources.text) {
+      html += `<p>${sections.sources.text}</p>`;
+    }
+    html += `</div>`;
+  }
+
+  html += `</div></div>`; // close report-content + report-body
+
+  // Conviction history
+  const history = scores.history || [];
+  if (history.length > 1) {
+    html += buildConvictionHistory(scores);
+  }
+
+  document.querySelector('main .container').innerHTML = html;
+}
+
+function buildConvictionHistory(scores) {
+  const history = scores.history || [];
+  let html = `<div style="margin-top:40px;"><h3 style="color:#f0b429;margin-bottom:16px;">Conviction History</h3>`;
+  html += `<div style="overflow-x:auto;"><table style="width:100%;border-collapse:collapse;">`;
+  html += `<thead><tr style="border-bottom:1px solid #333;">
+    <th style="text-align:left;padding:8px;color:#888;font-size:12px;">Date</th>
+    <th style="text-align:left;padding:8px;color:#888;font-size:12px;">Score</th>
+    <th style="text-align:left;padding:8px;color:#888;font-size:12px;">Recommendation</th>
+    <th style="text-align:left;padding:8px;color:#888;font-size:12px;">Change</th>
+    <th style="text-align:left;padding:8px;color:#888;font-size:12px;">Reason</th>
+  </tr></thead><tbody>`;
+  for (const h of history) {
+    const delta = h.delta || '0';
+    const dcls = delta.startsWith('+') ? 'positive' : delta.startsWith('-') ? 'negative' : 'neutral';
+    html += `<tr style="border-bottom:1px solid #222;">
+      <td style="padding:8px;font-size:13px;">${h.date || ''}</td>
+      <td style="padding:8px;font-family:monospace;font-size:13px;color:${convictionColor(h.score)};">${h.score}</td>
+      <td style="padding:8px;font-size:13px;">${h.band || ''}</td>
+      <td style="padding:8px;font-family:monospace;font-size:13px;" class="${dcls}">${delta}</td>
+      <td style="padding:8px;font-size:12px;color:#888;">${h.reason || ''}</td>
+    </tr>`;
+  }
+  html += `</tbody></table></div></div>`;
+  return html;
+}
