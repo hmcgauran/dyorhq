@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "ticker": "SOFI",
+    "company": "SoFi Technologies Inc",
+    "exchange": "US",
+    "isin": "US8341701061",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "REDUCE — SPECULATIVE",
+    "recommendationNote": "REDUCE — SPECULATIVE",
+    "conviction": 42,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "SoFi is a digital financial services company offering student loan refinancing, personal loans, credit cards, and savings accounts through a mobile-first platform. The company is attempting to transition from a fintech lender to a full financial services platform, competing with traditional banks and neobanks for deposit gathering and lending.At $16.62, the stock has de-rated significantly from its SPAC-era highs. The path to profitability is underway but the interest rate environment creates si"
+    },
+    "businessModel": {
+      "text": "SoFi earns revenue from: (1) net interest income on loans it holds on balance sheet, (2) loan origination fees, (3) membership and subscription fees (SoFi Money, SoFi Invest), and (4) referral fees from third-party financial products. The Galileo banking-as-a-service platform provides B2B revenue from fintech companies using SoFi's infrastructure."
+    },
+    "financialSnapshot": {
+      "text": "<p><strong>Live price:</strong> $16.62<br><strong>Market cap:</strong> $20.5 billion<br><strong>52-week range:</strong> $9.25 – $17.85<br><strong>P/E:</strong> 43x<br><strong>Beta:</strong> 2.33<br><strong>Note:</strong> Not yet consistently profitable at operating level.</p></div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%): SoFi achieves GAAP profitability and sustains it. Member growth accelerates. Interest rate environment normalises. Price target $22+.Base (55%): Steady member growth. Interest income stabilises. Operating leverage improves margins. Price target $15–18.Bear (20%): Loan demand collapses. Credit quality deteriorates. Funding costs remain elevated. Price target $8–11.Weighted conviction: 42/100. REDUCE.",
+      "bull": {
+        "scenario": "Bull (25%): SoFi achieves GAAP profitability and sustains it. Member growth accelerates. Interest rate environment normalises. Price target $22+.",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "Base (55%): Steady member growth. Interest income stabilises. Operating leverage improves margins. Price target $15–18.",
+        "probability": 55
+      },
+      "bear": {
+        "scenario": "Bear (20%): Loan demand collapses. Credit quality deteriorates. Funding costs remain elevated. Price target $8–11.",
+        "probability": 20
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Interest rate sensitivity (HIGH): Rising rates simultaneously increase funding costs and reduce loan demand — the worst possible combination for a fintech lender."
+        },
+        {
+          "rank": 2,
+          "risk": "Credit quality (MEDIUM): Consumer credit deterioration in a slowdown would hit SoFi's loan portfolio harder than most lenders given the prime borrower focus."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "REDUCE — SPECULATIVE at $16.62. Fintech lending in a high-rate environment is structurally challenged."
+    },
+    "entryExit": {
+      "text": "Below $12: Reassess$12–$16: Speculative onlyAbove $18: Trim\n\n          \n            Conviction Trend\n            Latest conviction: 42/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0842"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 42,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 42,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

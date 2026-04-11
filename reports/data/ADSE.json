@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "ticker": "ADSE",
+    "company": "Adseeds International",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 38,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": ""
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "",
+      "bull": {},
+      "base": {},
+      "bear": {}
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Adseeds International (ADSE) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $12.04 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $12.98 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $14.41 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $8.52 \u2014 partial mean reversion toward the middle of the 52-week range."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 38,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 38,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

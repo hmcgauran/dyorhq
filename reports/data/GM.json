@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "GM",
+    "company": "General Motors Company",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 76.42,
+    "marketCap": 71300000000.0,
+    "marketCapFormatted": "$71.30B",
+    "trailingPE": 23.37,
+    "trailingEps": 3.27,
+    "fiftyTwoWeekHigh": 87.62,
+    "fiftyTwoWeekLow": 42.75,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "General Motors is in the midst of an electric vehicle transformation while simultaneously extracting profitability from its traditional ICE truck and SUV franchise, but the EV losses and UAW cost headwinds create a challenging near-term earnings backdrop. REDUCE is the weighted recommendation with a conviction score of 50."
+    },
+    "businessModel": {
+      "text": "General Motors Company (GM) operates in the Consumer Disc. sector and is listed on NYSE. The business generates revenue through its core operations in consumer disc.."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$76.42"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$71.3 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "23.37x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$3.27"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$87.62"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$42.75"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "General Motors Company has been navigating the current market environment with its core consumer disc. franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (68): EV losses peak in 2026 and begin narrowing as Ultium battery costs fall and Bolt EUV volumes scale. ICE truck pricing remains disciplined. Cruise robotaxi generates first meaningful revenue. EPS recovers to $6+. Price: $90+.\n            Base Case (52): EV losses persist longer than hoped. ICE truck cycle peak and elevated UAW labour costs compress margins. Equity buybacks and dividend provide capital return. EPS: $4.00-5.00. Price: $72-84.\n            Bear Case (34): EV adoption slows materially. Chinese domestic OEMs take share in the US market. Price war in full-size trucks intensifies. Cruise fails commercially. EPS falls to $2.50-3.00. Price: below $55.\n            Weighted Score: 53 \u2014 Bull 68 \u00d7 30% + Base 52 \u00d7 50% + Bear 34 \u00d7 20%",
+      "bull": {
+        "scenario": "Bull Case (68): EV losses peak in 2026 and begin narrowing as Ultium battery costs fall and Bolt EUV volumes scale. ICE truck pricing remains disciplined. Cruise robotaxi generates first meaningful revenue. EPS recovers to $6+. Price: $90+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Base Case (52): EV losses persist longer than hoped. ICE truck cycle peak and elevated UAW labour costs compress margins. Equity buybacks and dividend provide capital return. EPS: $4.00-5.00. Price: $72-84.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Bear Case (34): EV adoption slows materially. Chinese domestic OEMs take share in the US market. Price war in full-size trucks intensifies. Cruise fails commercially. EPS falls to $2.50-3.00. Price: below $55.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "EV transformation cost drag: GM is investing $35bn+ in EVs through 2025. Ultium battery platform losses, charging infrastructure and EV manufacturing ramp create persistent margin headwinds."
+        },
+        {
+          "rank": 2,
+          "risk": "Full-size truck pricing cyclicality: GM's most profitable segment is sensitive to economic cycles, competitor discounting behaviour and commodity cost inflation."
+        },
+        {
+          "rank": 3,
+          "risk": "UAW labour cost headwinds: The 2023 UAW strike resulted in significant wage increases and restored defined-benefit pensions. Labour costs are structurally higher than peers."
+        },
+        {
+          "rank": 4,
+          "risk": "Chinese EV import risk: Chinese EV manufacturers (BYD, NIO, XPeng) could pursue US market entry, creating a competitive shock in the mass-market EV segment."
+        },
+        {
+          "rank": 5,
+          "risk": "Cruise robotaxi commercial failure: The 2023 pedestrian incident accelerated regulatory scrutiny. Restarting commercial service is taking longer and costing more than initially modelled."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "REDUCE. BUY below $52 (near trough multiples for a restructuring auto story with strong truck franchise). Accumulate only on significant pullbacks.\n            Sell or reduce on rallies above $82 (excessive multiple for a company facing EV transformation costs and cyclical headwinds)."
+    },
+    "entryExit": {
+      "text": "General Motors Company (GM) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $77.95 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $84.06 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $89.37 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $46.17 \u2014 partial mean reversion toward the middle of the 52-week range."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

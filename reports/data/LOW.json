@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "",
+    "company": "LOW",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 57,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from US Home Improvement retail (85%), Lowe's.com e-commerce (8%), and international/outlet (7%). Split approximately 55% DIY consumer, 45% professional contractor through Pro desks."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Pro-desk segment (>40% revenue) growing double-digit as contractor loyalty recovers\n    TinyAI-driven inventory optimisation rolling out chainwide \u2014 reducing stockouts by 22%\n    Lowe's.com marketplace launch Q4 2025 adding third-party SKUs\n    Share-buyback programme authorised: $10bn authorised through FY2026",
+      "items": [
+        "Pro-desk segment (>40% revenue) growing double-digit as contractor loyalty recovers",
+        "TinyAI-driven inventory optimisation rolling out chainwide \u2014 reducing stockouts by 22%",
+        "Lowe's.com marketplace launch Q4 2025 adding third-party SKUs",
+        "Share-buyback programme authorised: $10bn authorised through FY2026"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "68\n      Bull\n    \n    \n      58\n      Base\n    \n    \n      40\n      Bear\n    \n    \n      57\n      Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. US housing-affordability crisis: existing-home sales down 15% YoY Jan 2026"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Consumer spending shift from big-ticket DIY to repair/maintenance discretionary"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Home Depot gaining share in pro-contractor segment \u2014 direct competitive pressure"
+        },
+        {
+          "rank": 4,
+          "risk": "4.  tariff pressure on Chinese imported building materials (Lowe's sources ~45% Asia)"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Tight labour market: instore service model requires 80k+ seasonal hires annually"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Lowe's (LOW) \u2014 Entry / Exit Framework\n\nHOLD zone: $224.68\u2013$249.1 \u2014 current levels are fairly valued.\nTrim / Take Profits above $249.1 \u2014 approaching the 52-week high at $293.06.\nStop-loss: A sustained close below $206.12 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 57,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 57,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

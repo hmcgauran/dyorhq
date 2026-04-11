@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "ticker": "DCC",
+    "company": "DCC plc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 80,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": ""
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "",
+      "bull": {},
+      "base": {},
+      "bear": {}
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Accumulate on weakness. Conviction: 80/100. BUY-rated \u2014 specific entry levels require current price data."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 80,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 80,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

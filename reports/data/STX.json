@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "ticker": "STX",
+    "company": "Seagate Technology Holdings plc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 80,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": ""
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "",
+      "bull": {},
+      "base": {},
+      "bear": {}
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Seagate Technology Holdings plc (STX) \u2014 Entry / Exit Framework\n\nAccumulate: $442.75\u2013$477.97 \u2014 pullback zone within the 52-week range. The stock is attractively priced relative to the recent move.\nStop-loss: $67.73 \u2014 a close below the 52-week low would signal fundamental deterioration.\nTarget 1: $439.6 \u2014 mean reversion toward the midpoint of the 52-week range. Near-term catalyst needed to confirm momentum.\nTarget 2: $543.04 \u2014 above the 52-week high on sustained volume. Only appropriate for position-initiation with conviction."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 80,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 80,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

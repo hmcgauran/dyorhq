@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "ticker": "AVCT.L · LN",
+    "company": "Avacta Group plc",
+    "exchange": "LN",
+    "isin": "GB00BYYW9G87",
+    "date": "10 Apr 2026",
+    "datePublished": "2026-04-10",
+    "recommendation": "HOLD — SPECULATIVE",
+    "recommendationNote": "HOLD — SPECULATIVE",
+    "conviction": 63,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Avacta is a clinical-stage oncology company built around its pre|CISION platform — a tumour-targeted prodrug activation technology designed to improve the therapeutic index of cancer drugs by releasing the active drug preferentially in the tumour microenvironment rather than systemically. The near-term catalyst is the Phase I data readout for farudodistat (AVA6000, a FAP-activated doxorubicin) expected in H1 2026, and two confirmed presentations at AACR (17–22 April 2026). A second pre|CISION pr"
+    },
+    "businessModel": {
+      "text": "Avacta's value is entirely in its pre|CISION platform and the clinical pipeline it generates. pre|CISION activates drugs specifically in the tumour microenvironment using Fibroblast Activation Protein (FAP), which is highly expressed in the stroma of most epithelial tumours. The FAP-activated prodrug approach is scientifically credible and has a mechanistic rationale that addresses a genuine clinical need — reducing the systemic toxicity of potent chemotherapies.\n        FAP is expressed on cancer-associated fibroblasts (CAFs) across a broad range of solid tumours — not on the tumour cells themselves, but in the tumour stroma. This is the correct mechanistic interpretation: the pre|CISION platform targets the FAP enzymatic activity at the tumour-stroma interface. Primary literature supports FAP as a \"promising pan-tumour target\" with expression confirmed in multiple epithelial cancer types. [1,2]\n        Exatecan — used as a pre|CISION payload in AVA6000's next generation — is a potent topoisomerase-1 (Topo-1) inhibitor with single-dose efficacy confirmed in primary literature. [3] The \"most potent Topo-1 in clinical use\" claim requires specific comparative data not yet confirmed in available literature; the general potency claim is well-supported.\n        The commercial model will be either a partnership deal with a global pharmaceutical company (preferred, as it provides upfront cash and derisks development) or a US listing to access deeper capital markets. A NASDAQ dual listing or US partnership is the stated strategic direction and the £9.45M oversubscribed raise completed in early 2026 was structured to support this.\n        The pipeline: farudodistat (AVA6000) is the most advanced pre|CISION asset — Phase I data expected H1 2026. AVA6200 (gemcitabine pre|CISION) is in IND/CTA-enabling studies targeting 2026 clinical entry. AVA7200 (immune checkpoint inhibitor pre|CISION) is in discovery. The business is essentially a platform validated by clinical data — each clinical readout de-risks or validates the platform thesis."
+    },
+    "financialSnapshot": {
+      "text": "<p><strong>Market cap:</strong> £319.4M (live from Google Sheet)<br>\n        <strong>Current price:</strong> 70.00p<br>\n        <strong>52-week range:</strong> 26p – 84p<br>\n        <strong>Cash position:</strong> £9.45M oversubscribed raise completed early 2026; runway expected through key data readouts<br>\n        <strong>P/E:</strong> N/A — clinical-stage biotech<br>\n        <strong>EPS:</strong> -0.16</p>\n        <p>At the current market cap, Avacta is a higher-valued clinical-stage oncology name where the upcoming data still need to justify the valuation.</p>\n      </div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "AACR Conference (17–22 April 2026): Two presentations confirmed — this is the primary near-term catalyst. The content of the presentations (early clinical data, biomarker data, safety profile) will drive sentiment significantly.\n          AVA6000 Phase I data (H1 2026): This is the binary event. Phase I data showing preferential tumour activation with reduced systemic toxicity would validate the pre|CISION platform and trigger partnership/US listing discussions. Failure to differentiate from standard doxorubicin would be a significant setback.\n          £9.45M oversubscribed raise (early 2026): Completed successfully — demonstrates institutional interest and provides runway through key clinical milestones. The raise was structured with a US placement component, consistent with the NASDAQ listing ambition.\n          Partnership / NASDAQ dual listing: Both are actively being explored according to management. A US listing would dramatically improve liquidity and access to specialist oncology and biotech investors. A partnership deal would provide upfront cash and validate the platform clinically.\n          AVA6200 IND/CTA filing (target 2026): Second pre|CISION programme entering the clinic would expand the pipeline and validate the platform beyond the initial doxorubicin programme.",
+      "items": [
+        "AACR Conference (17–22 April 2026): Two presentations confirmed — this is the primary near-term catalyst. The content of the presentations (early clinical data, biomarker data, safety profile) will drive sentiment significantly.",
+        "AVA6000 Phase I data (H1 2026): This is the binary event. Phase I data showing preferential tumour activation with reduced systemic toxicity would validate the pre|CISION platform and trigger partnership/US listing discussions. Failure to differentiate from standard doxorubicin would be a significant setback.",
+        "£9.45M oversubscribed raise (early 2026): Completed successfully — demonstrates institutional interest and provides runway through key clinical milestones. The raise was structured with a US placement component, consistent with the NASDAQ listing ambition.",
+        "Partnership / NASDAQ dual listing: Both are actively being explored according to management. A US listing would dramatically improve liquidity and access to specialist oncology and biotech investors. A partnership deal would provide upfront cash and validate the platform clinically.",
+        "AVA6200 IND/CTA filing (target 2026): Second pre|CISION programme entering the clinic would expand the pipeline and validate the platform beyond the initial doxorubicin programme."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull case support (primary literature):\n        \n          FAP as pan-tumour target: FAP is confirmed expressed in the stroma of multiple epithelial cancer types. The platform's tumour-agnostic claim is mechanistically justified. [1,2]\n          Cardiotoxicity TAM expansion: This is the strongest literature finding. DOX cardiotoxicity is mechanistically linked to FAP activation in cardiac fibroblasts — FAP PET signal is significantly elevated from 2 weeks post-DOX, versus 10 weeks for standard echocardiography detection. If pre|CISION reduces systemic DOX exposure, it could reduce this cardiotoxicity mechanism, enabling higher/frequent dosing. [4]\n          Exatecan potency: A potent Topo-1 payload with confirmed single-agent efficacy and synergy with DDR inhibitors (ATR, PARP). [3]\n        \n        Bear case support (primary literature):\n        \n          FAP is a stromal, not tumour-cell target: The pre|CISION mechanism depends on stromal penetration and FAP activity at the tumour interface — this is scientifically sound but harder to optimise than direct tumour-cell targeting. Clinical validation is required.\n          \"Most potent Topo-1\" claim: Specific comparative data (Exatecan vs Irinotecan/Topotecan in patients) not confirmed in available literature — this specific claim should be treated as unvalidated.\n        \n        ScenarioProbabilityPrice TargetKey Drivers\n          Bull30%150p+Phase I data validates FAP tumour-targeting with reduced cardiotoxicity; partnership deal announced; US listing confirmed; platform expands to multiple programmes\n          Base40%60–90pPhase I data is encouraging but not conclusive; more clinical work needed; partnership discussions continue but no deal yet; stock stays range-bound until next data catalyst\n          Bear30%30–45pPhase I data disappoints; no platform differentiation from standard doxorubicin; partnership unlikely; NASDAQ listing delayed; funding becomes dilutive\n        \n        Weighted price target: 30% × 150 + 40% × 75 + 30% × 37.5 = 88.75p. Current price of 70.00p is below base-case fair value, but the risk remains high because the valuation still depends on clinical validation. Adjusted conviction: 63/100. This remains a high-conviction speculative position — size accordingly.",
+      "bull": {
+        "scenario": "Bull case support (primary literature):\n        \n          FAP as pan-tumour target: FAP is confirmed expressed in the stroma of multiple epithelial cancer types. The platform's tumour-agnostic claim is mechanistically justified. [1,2]\n          Cardiotoxicity TAM expansion: This is the strongest literature finding. DOX cardiotoxicity is mechanistically linked to FAP activation in cardiac fibroblasts — FAP PET signal is significantly elevated from 2 weeks post-DOX, versus 10 weeks for standard echocardiography detection. If pre|CISION reduces systemic DOX exposure, it could reduce this cardiotoxicity mechanism, enabling higher/frequent dosing. [4]\n          Exatecan potency: A potent Topo-1 payload with confirmed single-agent efficacy and synergy with DDR inhibitors (ATR, PARP). [3]",
+        "probability": null
+      },
+      "base": {
+        "scenario": "base-row\">Base40%60–90pPhase I data is encouraging but not conclusive; more clinical work needed; partnership discussions continue but no deal yet; stock stays range-bound until next data catalyst\n          <tr class=\"",
+        "probability": 40
+      },
+      "bear": {
+        "scenario": "Bear case support (primary literature):",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1Phase I clinical data (binary): This is a binary event. The data for AVA6000 in H1 2026 — and the AACR presentations in April — will determine whether the pre|CISION platform actually works in humans. A negative read will cause severe re-pricing."
+        },
+        {
+          "rank": 2,
+          "risk": "2Partnership / NASDAQ timing: Both are strategically sound but timing is uncertain. A US listing at an inopportune moment (pre-data or post-disappointment) could be significantly dilutive or fail entirely. The strategic ambition requires clinical validation first."
+        },
+        {
+          "rank": 3,
+          "risk": "3Funding risk: £9.45M provides runway through key data readouts, but a negative Phase I outcome would require a rescue financing or very dilutive raise. Clinical biotech funding conditions remain difficult for unpartnered programmes."
+        },
+        {
+          "rank": 4,
+          "risk": "4FAP expression variability: The pre|CISION mechanism depends on consistent FAP expression in the tumour stroma across patient populations. Variability in FAP expression could limit the clinical utility of the approach in broader tumour types. [1,2]"
+        },
+        {
+          "rank": 5,
+          "risk": "5DOX cardiotoxicity — mechanistic nuance: The primary literature confirms DOX cardiotoxicity runs through FAP activation in cardiac fibroblasts, which supports the pre|CISION thesis. However, this mechanistic link also means that incomplete FAP targeting (sub-therapeutic tumour delivery) could still produce cardiac effects while missing therapeutic benefit — a worst-of-both-worlds outcome. [4]"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD — SPECULATIVE at 70.00p. Hold through AACR (April 17–22), assess the data, and make a binary decision at that point. Do not add before the data without being prepared to act on the outcome.\n        Primary literature conclusion: The mechanistic thesis — FAP targeting to reduce DOX cardiotoxicity while maintaining tumour efficacy — is mechanistically plausible and supported by peer-reviewed literature. The strongest bull case support comes from the FAP PET cardiotoxicity data: DOX activates cardiac FAP from 2 weeks post-treatment, before any functional cardiac change is detectable. This is a genuine clinical problem that pre|CISION could address. [4]\n        AACR ALERT (17–22 April 2026): Two Avacta presentations are confirmed. Review the abstracts when published (usually AACR embargo lift) and the full presentations on-site or via webcast. Decision point: add on positive signal, reduce/hold on mixed data, exit on disappointment. Set a personal rule before the data arrives."
+    },
+    "entryExit": {
+      "text": "AACR data (April 2026): Primary binary catalyst — full content review of both presentations required before any position change\n          Pre-AACR (now to April 17): Hold — do not add materially without the data; 70.00p already reflects meaningful binary risk\n          Post-AACR positive: Add — potential partnership or US listing news follow; re-evaluate on partnership deal terms\n          Post-AACR mixed/negative: Reduce — Phase II path requires more data and additional capital; re-enter below 45p\n        \n      \n      \n        Conviction Trend\n        Latest conviction: 63/100. Trend versus prior report: Flat.\n        \n          \n            \n            \n            \n            1007550250\n            2026-04-10\n          \n        \n        \n          Report dateConviction\n          2026-04-10632026-04-0863"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Primary literature (Paperclip / GXL):\n            \n              Caramella-Pereira et al., \"FAP is present in all primary prostate carcinomas,\" medRxiv, 2024.",
+        "Tao et al., \"FAP is highly expressed on cancer-associated fibroblasts in multiple tumour types,\" Molecular Medicine Reports, 2015.",
+        "Leitner et al., \"A Very Long-acting Exatecan and Its Synergism with DNA Damage Response Inhibitors,\" Cancer Research Communications, 2023.",
+        "Chul-Hee Lee et al., \"PET imaging of FAP alpha detects incipient cardiotoxicity due to anthracycline chemotherapy,\" bioRxiv, 2023."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 63,
+      "band": "HOLD",
+      "date": "2026-04-10",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 63,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

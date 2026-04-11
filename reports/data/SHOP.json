@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "SHOP · US",
+    "company": "Shopify Inc",
+    "exchange": "US",
+    "isin": "CA82509L1076",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 62,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Shopify is the dominant e-commerce platform for small and medium-sized businesses in North America, providing a complete ecosystem of tools — online stores, payments, fulfilment, and marketing — that allows merchants to sell anywhere their customers are. At $120.10, the stock is down 34% from its 52-week high of $182.19, representing a meaningful correction from the post-COVID e-commerce re-rating but still trading at a premium multiple reflecting the quality and durability of the subscription b"
+    },
+    "businessModel": {
+      "text": "Shopify operates a platform model with three core revenue streams: Merchant Solutions (payments processing, Shopify Payments, Shop Pay installmenets, fulfilment, and merchant lending), Subscriptions (monthly SaaS plans for online stores), and Advertising (via Shopify Markets). The magic of the model is the ecosystem lock-in: once a merchant's products, inventory, and customer data are on Shopify, migration cost is high. This creates durable, recurring subscription revenue while Merchant Solutions grows with GMV.\n        Shopify powers millions of stores globally and processes tens of billions in Gross Merchandise Value (GMV). The key metrics are GMV growth, revenue per merchant, and the take rate on payments — all of which have been expanding. The Fulfillment Network is the most capital-intensive and strategically important bet, aiming to compete with Amazon's logistics capabilities for Shopify merchants."
+    },
+    "financialSnapshot": {
+      "text": "<p><strong>Live price:</strong> $120.10 — up 2.6% today, down ~34% from 52-week high<br><strong>52-week range:</strong> $69.84 – $182.19 (currently ~65th percentile)<br><strong>Market cap:</strong> $156.6bn<br><strong>P/E:</strong> 127.2× (stretched; reflects growth premium, not current earnings)<br><strong>EPS:</strong> $0.94 TTM<br><strong>Beta:</strong> 2.87 (high volatility — do not ignore this)</p>\n        <p>The elevated P/E reflects that Shopify is in a margin expansion phase rather than a mature earnings phase. Free cash flow per share is the more relevant metric. The 2.87 beta means this stock will magnify both market moves — up and down.</p>\n      </div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Fulfillment Network expansion: Shopify's investment in its own logistics network is the highest-risk, highest-reward strategic bet. Any indication that merchant adoption of Shopify Fulfillment is accelerating would be a significant re-rating catalyst.\n          AI integration: Shopify has been integrating AI tools for merchants (product descriptions, personalised marketing, inventory management). First-mover advantage in AI-enhanced e-commerce tooling could widen the moat.\n          Macro environment: Consumer spending softness hurts Shopify merchants directly. Any sustained deterioration in US/Canadian retail spending would suppress GMV growth and merchant retention.\n          Q1 2026 results: Upcoming earnings will be the key near-term catalyst. Watch for GMV growth, Merchant Services take rate, and guidance for Fulfillment Network investments.",
+      "items": [
+        "Fulfillment Network expansion: Shopify's investment in its own logistics network is the highest-risk, highest-reward strategic bet. Any indication that merchant adoption of Shopify Fulfillment is accelerating would be a significant re-rating catalyst.",
+        "AI integration: Shopify has been integrating AI tools for merchants (product descriptions, personalised marketing, inventory management). First-mover advantage in AI-enhanced e-commerce tooling could widen the moat.",
+        "Macro environment: Consumer spending softness hurts Shopify merchants directly. Any sustained deterioration in US/Canadian retail spending would suppress GMV growth and merchant retention.",
+        "Q1 2026 results: Upcoming earnings will be the key near-term catalyst. Watch for GMV growth, Merchant Services take rate, and guidance for Fulfillment Network investments."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "ScenarioProbabilityPrice TargetKey Drivers\n          Bull25%$150+Fulfillment Network scales faster than expected; AI tools drive merchant ARPU higher; competitive moat widens; gross margins expand above 55%\n          Base55%$115–135Steady GMV growth of 15–20%; Merchant Services continues to gain share; no major competitive disruption; macro soft but not collapsing\n          Bear20%$75–95Competitive pressure from Amazon Buy with Prime, WooCommerce, or TikTok Shop; Fulfillment bet fails to scale; consumer spending contraction hits merchants hard\n        \n        Weighted price target: 25% × 150 + 55% × 125 + 20% × 85 = $122. Essentially fair value here. Conviction: 62/100. HOLD.",
+      "bull": {
+        "scenario": "bull-row\">Bull25%$150+Fulfillment Network scales faster than expected; AI tools drive merchant ARPU higher; competitive moat widens; gross margins expand above 55%\n          <tr class=\"",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "base-row\">Base55%$115–135Steady GMV growth of 15–20%; Merchant Services continues to gain share; no major competitive disruption; macro soft but not collapsing\n          <tr class=\"",
+        "probability": 55
+      },
+      "bear": {
+        "scenario": "bear-row\">Bear20%$75–95Competitive pressure from Amazon Buy with Prime, WooCommerce, or TikTok Shop; Fulfillment bet fails to scale; consumer spending contraction hits merchants hard\n        \n        Weighted price target: 25% × 150 + 55% × 125 + 20% × 85 = $122. Essentially fair value here. Conviction: 62/100. HOLD.",
+        "probability": 20
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1Competitive pressure: Amazon's seller tools, WooCommerce's open-source flexibility, and TikTok Shop's growth all represent credible threats. Shopify's differentiation must deepen, not just widen."
+        },
+        {
+          "rank": 2,
+          "risk": "2Fulfillment execution risk: Building logistics networks is capital-intensive and operationally complex. Failure here would be a significant strategic setback and capital destroy."
+        },
+        {
+          "rank": 3,
+          "risk": "3Valuation vulnerability: At 127× earnings with a 2.87 beta, any earnings disappointment or macro shock will cause outsized drawdowns. This is not a stock to own without a margin of safety."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD at $120.10. Better entry than 18 months ago but not yet compelling enough to add materially. $105 or below would be a more attractive risk-adjusted entry for new capital."
+    },
+    "entryExit": {
+      "text": "Below $105 — accumulate. $105–$125 — hold.Above $145 — trim.Key triggers: Q1 2026 earnings,.Fulfillment Network milestones, competitive landscape changes.\n      \n\n          \n            Conviction Trend\n            Latest conviction: 62/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0862"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

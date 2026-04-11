@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "ticker": "KRZ",
+    "company": "Korn Ferry",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 67,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": ""
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "",
+      "bull": {},
+      "base": {},
+      "bear": {}
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "HOLD. Conviction: 67/100. No compelling entry or exit signal without current price data."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

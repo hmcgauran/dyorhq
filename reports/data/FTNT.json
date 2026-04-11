@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "ticker": "FTNT",
+    "company": "Fortinet Inc",
+    "exchange": "US",
+    "isin": "US34959E1091",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 55,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Fortinet is a network security company focused on the mid-market and enterprise segment, selling firewalls, secure access (SD-WAN), and endpoint security through a combination of hardware appliances and its FortiOS operating system. The company is in a transition from an appliance model to a subscription/SaaS model, which is creating near-term revenue headwinds as hardware sales slow.At $82.68, the stock is down from its 2024 highs but remains above its 52-week low. The valuation of 33x earnings"
+    },
+    "businessModel": {
+      "text": "Fortinet sells network security hardware (FortiGate firewalls), software (FortiOS, FortiManager), and subscription services (FortiGuard AI-powered threat intelligence, FortiCare support). The proprietary ASIC chips (NP7, BT) provide a hardware performance advantage in firewall throughput that competes with Palo Alto and Cisco.Revenue model is approximately 50% products/hardware and 50% services/subscriptions. The services mix is increasing as the company transitions to subscription. This improves revenue quality and gross margins over time."
+    },
+    "financialSnapshot": {
+      "text": "<p><strong>Live price:</strong> $82.68<br><strong>Market cap:</strong> $61 billion<br><strong>52-week range:</strong> $76.50 – $95.00<br><strong>Current position in range:</strong> ~60th percentile<br><strong>P/E:</strong> 33x<br><strong>Beta:</strong> 0.98</p></div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%): Subscription transition completes successfully. FortiGate AI features drive upsell. SD-WAN wins mid-market enterprise deals. Price target $95+.Base (55%): Steady 10–15% revenue growth. Subscription mix improves gradually. Price target $80–90.Bear (20%): Hardware sales collapse faster than expected. Subscription growth decelerates. PANW takes mid-market share. Price target $65–75.Weighted conviction: 55/100. HOLD.",
+      "bull": {
+        "scenario": "Bull (25%): Subscription transition completes successfully. FortiGate AI features drive upsell. SD-WAN wins mid-market enterprise deals. Price target $95+.",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "Base (55%): Steady 10–15% revenue growth. Subscription mix improves gradually. Price target $80–90.",
+        "probability": 55
+      },
+      "bear": {
+        "scenario": "Bear (20%): Hardware sales collapse faster than expected. Subscription growth decelerates. PANW takes mid-market share. Price target $65–75.",
+        "probability": 20
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Subscription transition execution (HIGH): The transition from hardware to subscription is complex and creates near-term revenue headwinds."
+        },
+        {
+          "rank": 2,
+          "risk": "Palo Alto mid-market competition (MEDIUM): PANW's aggressive pricing and platform strategy is targeting Fortinet's mid-market sweet spot."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD at $82.68. Fair but not compelling. Mid-market cybersecurity at a reasonable valuation. Monitor subscription transition progress."
+    },
+    "entryExit": {
+      "text": "Below $75: Accumulation zone$75–$85: Hold rangeAbove $90: Trim\n\n          \n            Conviction Trend\n            Latest conviction: 55/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0855"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 55,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 55,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

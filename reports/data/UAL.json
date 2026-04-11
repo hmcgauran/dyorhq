@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "ticker": "UAL",
+    "company": "United Airlines Holdings Inc (UAL)",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 75,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "United Airlines is a high-quality global network carrier with a compelling international growth trajectory and a P/E under 10x that significantly undervalues its earnings power and asset base, and is rated HOLD."
+    },
+    "businessModel": {
+      "text": "United is one of the world's largest airlines, operating a comprehensive global network from its hubs at major US cities. Following the 2022 announcement of \"United Next\", the carrier has committed to a significant fleet transformation aimed at improving unit economics and competitive positioning:\n    \n      Mainline Passenger Revenue~85% of revenue; domestic and international scheduled service\n      Cargo~5% of revenue; belly cargo on passenger aircraft and freighter operations\n      Mileage Plus (Loyalty)~7% of revenue; co-brand credit card partnership and retail monetisation\n       ancillary / Other~3%; ground handling, maintenance services\n    \n    United's \"United Next\" plan involves retiring older narrowbody aircraft and replacing them with a large order of Boeing 737 MAX 10s and Airbus A321neos, which offer significantly better fuel efficiency and passenger experience. The international network -- particularly the Pacific and Atlantic routes -- is United's key differentiator versus low-cost carriers and a major driver of premium revenue."
+    },
+    "financialSnapshot": {
+      "text": "</div>\n\n<!-- 4. RECENT CATALYSTS -->\n<div class=\"section\">",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$96.40"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$31.3bn"
+        },
+        {
+          "label": "P/E Ratio",
+          "value": "9.44x"
+        },
+        {
+          "label": "Earnings Per Share (TTM)",
+          "value": "$10.21"
+        },
+        {
+          "label": "EV / EBITDA (approx.)",
+          "value": "~5x (estimated)"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$119.21"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$61.52"
+        },
+        {
+          "label": "Distance from 52w High",
+          "value": "-19.1%"
+        },
+        {
+          "label": "Average Volume",
+          "value": "4.64m"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "ScenarioScoreProbabilityCommentary\n    \n      Bull8430%International premium demand sustains; United Next fleet transition executes; Mileage Plus monetisation accelerates; EPS reaches $14-16; shares re-rate to 12-14x, reaching $140-160.\n    \n    \n      Base7450%Steady demand environment; domestic yields stable; international growth offsets domestic competition; EPS grows to $11-13; shares reach $105-115 on 9-10x.\n    \n    \n      Bear5820%Recession hits corporate travel; MAX 10 delays compound capacity constraints; fuel cost spike; EPS falls to $6-7; shares test $50-58.\n    \n  \n  \n    Conviction Score: 84x0.30 + 74x0.50 + 58x0.20 = 75.2\n    At under 10x earnings, the margin of safety is substantial; even the base case offers strong upside and the bear case is partially cushioned by the loyalty programme valuation.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "base case offers strong upside and the",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "bear case is partially cushioned by the loyalty programme valuation.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "Rating: HOLD\n    United Airlines presents one of the most compelling risk/reward opportunities in the airline sector at current levels. The shares trade at under 10x trailing earnings, approximately 19% below their 52-week high, with improving fundamentals and a valuable Mileage Plus loyalty programme that provides meaningful embedded value. The Boeing delivery risk is a legitimate concern but is already partially discounted in the share price. Target $115-125 on a 12-month horizon.\n    \n      FrameworkDetail\n      Entry point$96.40 (current); attractive entry at under 10x earnings with meaningful downside support\n      Target price (12 months)$115-$125 based on 10-11x base case EPS of $11.00-$12.00\n      Stop-loss$58.00 (approximately 40% decline; below the 52-week low and near the book value floor)\n      Position sizingDeep-value cyclical position; 1.5-2% portfolio weight; do not overload given fleet execution and fuel price risks\n      Key trigger to upgradeQ1 2026 earnings above $2.60 per share; clarity on Boeing MAX 10 delivery timeline; transatlantic summer yields ahead of expectations"
+    },
+    "entryExit": {
+      "text": "United Airlines Holdings Inc (UAL) (UAL) \u2014 Entry / Exit Framework\n\nHOLD zone: $88.69\u2013$98.33 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $88.69 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $98.33 \u2014 approaching the 52-week high at $119.21. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $61.97 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 75,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 75,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

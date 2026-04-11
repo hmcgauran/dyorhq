@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "ticker": "TSLA",
+    "company": "Tesla Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 68,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 348.95,
+    "marketCap": 1309400000000.0,
+    "marketCapFormatted": "$1309.40B",
+    "trailingPE": 326.12,
+    "trailingEps": 1.07,
+    "fiftyTwoWeekHigh": 498.83,
+    "fiftyTwoWeekLow": 222.79,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Tesla retains the EV market leadership position with the most extensive charging infrastructure, manufacturing scale advantage and AI compute assets, but a 326x trailing P/E and current price at $349 prices in a best-case scenario that leaves no room for execution miscues \u2014 HOLD is the weighted recommendation."
+    },
+    "businessModel": {
+      "text": "Tesla designs, manufactures and sells electric vehicles (Models S, 3, X, Y, Cybertruck, and the upcoming Model 2), stationary energy storage products (Megapack, Powerwall) and solar products. The company also develops Full Self-Driving (FSD) autonomous driving software and, through its AI subsidiary xAI, is building a significant compute infrastructure footprint (Colossus supercomputer). Tesla is vertically integrated \u2014 manufacturing its own battery cells, powertrains and, increasingly, its own inference chips. The energy storage business has grown from a negligible contributor to a multi-billion-dollar franchise with waiting lists extending beyond 12 months."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$348.95"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$1309.4B"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "326.12x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$1.07"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$498.83"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$222.79"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Tesla's Q1 2026 deliveries came in below consensus expectations, reflecting both seasonal softness and intensifying competitive pressure in China and Europe. However, the energy storage division continues to post record quarterly deployments. Musk's 'Starlink for AI' narrative and xAI's compute ambitions have introduced an optionality layer that is not well captured in traditional automotive valuation frameworks. The upcoming Model 2 (or 'Kena') is the most watched product launch in Tesla's history given its $25,000 price point targeting mass-market adoption. The Cybercab robotaxi remains in pilot development but represents the most transformative long-term catalyst if regulatory approval is achieved."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (68): Next-generation affordable EV (Model 2 / 'Kena') achieves production targets and drives volume above 2.5 million units annually. Robotaxi (Cybercab) launches commercially in multiple US cities. Energy storage division (Megapack) grows into a $10bn+ revenue business. FSD achieves regulatory approval in key jurisdictions. Price: $500+.\n            Base Case (50): Model 2 ramp is slower than Musk's stated timeline, with volume reaching 1.8\u20132.0 million units in 2026. Robotaxi remains in pilot phase with commercial launch deferred to 2027. Energy storage continues strong growth. FSD improvements drive incremental software revenue. Price: $300\u2013$380.\n            Bear Case (40): Aggressive EV competition from Chinese OEMs (BYD, Li Auto, XPeng) compress Tesla's US and European market share. New model ramp delays continue. Oil price spike reduces EV purchase intent. Musk's political involvement in US policy creates brand damage in international markets. Price: below $220.\n            Weighted Score: 68 \u2014 Bull 68 \u00d7 30% + Base 50 \u00d7 50% + Bear 40 \u00d7 20%",
+      "bull": {
+        "scenario": "Bull Case (68): Next-generation affordable EV (Model 2 / 'Kena') achieves production targets and drives volume above 2.5 million units annually. Robotaxi (Cybercab) launches commercially in multiple US cities. Energy storage division (Megapack) grows into a $10bn+ revenue business. FSD achieves regulatory approval in key jurisdictions. Price: $500+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Base Case (50): Model 2 ramp is slower than Musk's stated timeline, with volume reaching 1.8\u20132.0 million units in 2026. Robotaxi remains in pilot phase with commercial launch deferred to 2027. Energy storage continues strong growth. FSD improvements drive incremental software revenue. Price: $300\u2013$380.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Bear Case (40): Aggressive EV competition from Chinese OEMs (BYD, Li Auto, XPeng) compress Tesla's US and European market share. New model ramp delays continue. Oil price spike reduces EV purchase intent. Musk's political involvement in US policy creates brand damage in international markets. Price: below $220.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Valuation disconnected from fundamentals: A 326x trailing P/E on EPS of $1.07 is extreme. Even on optimistic forward estimates of $6\u20137 EPS, the stock trades at 50x+ forward P/E, which is pricing in near-perfect execution across multiple simultaneous growth vectors."
+        },
+        {
+          "rank": 2,
+          "risk": "Competitive share loss: BYD and Chinese EV makers have established clear cost and technology leadership in key segments (PHEVs, affordable EVs). Tesla's global market share in EVs has declined from approximately 70% (2020) to below 50% as the market has matured and diversified."
+        },
+        {
+          "rank": 3,
+          "risk": "Musk political risk: Musk's involvement in US federal policy (DOGE, Trump administration advisory roles) has created brand damage in European and Chinese markets, potentially impairing sales in Tesla's second- and third-largest markets."
+        },
+        {
+          "rank": 4,
+          "risk": "Robotaxi regulatory and technical risk: FSD has required over a decade of development. Achieving level-4 autonomous driving regulation and consumer adoption is not guaranteed. The robotaxi TAM depends on regulatory frameworks that do not yet exist in most markets."
+        },
+        {
+          "rank": 5,
+          "risk": "Automotive cycle risk: Tesla has never navigated a full automotive recession. A consumer spending pullback that disproportionately affects vehicle purchases could expose Tesla to its first major volume decline as a public company."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD. BUY below $240 (approximately 40x forward P/E on base-case $6 EPS \u2014 provides partial margin of safety). Reduce above $390 (approximately 65x forward P/E \u2014 robotaxi optionality is fully priced in; automotive fundamentals need to be near-perfect to justify this level)."
+    },
+    "entryExit": {
+      "text": "Tesla Inc (TSLA) \u2014 Entry / Exit Framework\n\nHOLD zone: $321.03\u2013$355.93 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $321.03 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $355.93 \u2014 approaching the 52-week high at $498.83. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $218.33 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

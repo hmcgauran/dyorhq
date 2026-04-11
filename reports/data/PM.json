@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "ticker": "PM",
+    "company": "Philip Morris International Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 68,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 160.45,
+    "marketCap": 250100000000.0,
+    "marketCapFormatted": "$250.10B",
+    "trailingPE": 22.1,
+    "trailingEps": 7.26,
+    "fiftyTwoWeekHigh": 191.3,
+    "fiftyTwoWeekLow": 142.11,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Philip Morris's smoke-free transition is genuinely ahead of schedule, but the shares are fairly valued at 22x P/E and the entry point does not offer the margin of safety needed for a new BUY position \u2014 HOLD is the weighted recommendation."
+    },
+    "businessModel": {
+      "text": "Philip Morris International is the world's largest international tobacco company, selling cigarettes and smoke-free products in over 180 markets. Its smoke-free product portfolio is anchored by IQOS (heat-not-burn tobacco heating system) and Zyn (oral nicotine pouches). PMI earns the majority of its revenues in international markets outside the US, where Altria holds exclusive rights to IQOS. The company's strategy is a deliberate, multi-decade transition from combustible cigarettes to scientifically validated reduced-harm alternatives. Revenue quality is high \u2014 PMI generates significant free cash flow that funds an aggressive shareholder return programme."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$160.45"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$250.1B"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "22.10x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$7.26"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$191.30"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$142.11"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Zyn has become the fastest-growing nicotine pouch brand in the US, growingrapid in Convenience stores and online. The US oral nicotine category is expanding structurally as smokers switch from combustible products. IQOS Iluma, PMI's latest-generation heat-not-burn device, continues to gain market share in Japan and South Korea. PMI management targets smoke-free products to represent over 50% of revenues by 2030. The company's Q4 2025 results showed continued strong growth in Zyn and resilience in the IQOS franchise, with full-year revenue guidance maintained."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (68): Zyn nicotine pouches achieve category leadership in the US and expand globally. IQOS Iluma (heat-not-burn) reaches critical mass in key markets (Japan, Korea, Indonesia, Italy). Smoke-free revenue exceeds 35% of total group net revenues. Organic EPS growth of 7\u20139% annually. Price: $175+.\n            Base Case (50): Zyn grows steadily in the US but regulatory headwinds (potential US flavours ban) cap the category. IQOS expands in existing markets without major new country launches. Smoke-free products represent approximately 30% of revenues. EPS grows at 5\u20137% annually. Price: $155\u2013$170.\n            Bear Case (40): US FDA restricts Zyn product formats or imposes flavours bans in key states. IQOS faces IP challenges or competitive heat-not-burn entrants. Currency headwinds re-emerge. EPS growth decelerates to 3\u20134%. Price: below $130.\n            Weighted Score: 68 \u2014 Bull 68 \u00d7 30% + Base 50 \u00d7 50% + Bear 40 \u00d7 20%",
+      "bull": {
+        "scenario": "Bull Case (68): Zyn nicotine pouches achieve category leadership in the US and expand globally. IQOS Iluma (heat-not-burn) reaches critical mass in key markets (Japan, Korea, Indonesia, Italy). Smoke-free revenue exceeds 35% of total group net revenues. Organic EPS growth of 7\u20139% annually. Price: $175+.",
+        "probability": 35
+      },
+      "base": {
+        "scenario": "Base Case (50): Zyn grows steadily in the US but regulatory headwinds (potential US flavours ban) cap the category. IQOS expands in existing markets without major new country launches. Smoke-free products represent approximately 30% of revenues. EPS grows at 5\u20137% annually. Price: $155\u2013$170.",
+        "probability": 30
+      },
+      "bear": {
+        "scenario": "Bear Case (40): US FDA restricts Zyn product formats or imposes flavours bans in key states. IQOS faces IP challenges or competitive heat-not-burn entrants. Currency headwinds re-emerge. EPS growth decelerates to 3\u20134%. Price: below $130.",
+        "probability": 4
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "US regulatory risk for Zyn: The US FDA has signalled increasing scrutiny of oral nicotine products, particularly flavoured pouches. Any federal flavours ban or nicotine content caps would directly impair Zyn's US growth trajectory."
+        },
+        {
+          "rank": 2,
+          "risk": "Smoke-free execution risk: PMI's transition thesis depends on consumer adoption of non-combustible products at pace. If smokers fail to switch at the rate management projects, the combustible franchise faces secular erosion without sufficient replacement revenues."
+        },
+        {
+          "rank": 3,
+          "risk": "Currency risk: PMI earns most revenues internationally. A strong US dollar against key emerging market currencies ( TRY, BRL, IDR) creates significant translation headwinds on reported EPS."
+        },
+        {
+          "rank": 4,
+          "risk": "Litigation risk: While PMI is domiciled internationally and not subject to US tort litigation, it remains a tobacco company. Regulatory changes, plain packaging requirements or new tax regimes in key markets remain perennial risks."
+        },
+        {
+          "rank": 5,
+          "risk": "Valuation: At 22x trailing P/E, the shares are fairly valued but not compellingly cheap for a business growing EPS at mid-single digits in a structurally declining category."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD. BUY below $135 (approximately 18x forward P/E on base-case EPS \u2014 below the 5-year historical average). Reduce above $170 (above 23x P/E \u2014 smoke-free optionality is now priced in at this multiple and the entry reward is insufficient)."
+    },
+    "entryExit": {
+      "text": "Philip Morris International Inc (PM) \u2014 Entry / Exit Framework\n\nHOLD zone: $147.61\u2013$163.66 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $147.61 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $163.66 \u2014 approaching the 52-week high at $191.30. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $139.27 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

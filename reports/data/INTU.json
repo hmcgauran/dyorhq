@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "ticker": "INTU",
+    "company": "Intuit Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 66,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 350.94,
+    "marketCap": 97700000000.0,
+    "marketCapFormatted": "$97.70B",
+    "trailingPE": 22.83,
+    "trailingEps": 15.37,
+    "fiftyTwoWeekHigh": 813.7,
+    "fiftyTwoWeekLow": 342.11,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Intuit benefits from the forced annual tax season engagement of 7+ million US TurboTax users and a growing ecosystem in small business software (QuickBooks, Mailchimp), but the 43x P/E demands flawless execution on the AI-assisted accounting vision. HOLD is the weighted recommendation with a conviction score of 66."
+    },
+    "businessModel": {
+      "text": "Intuit Inc (INTU) operates in the Technology sector and is listed on NASDAQ. The business generates revenue through its core operations in technology."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$350.94"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$97.7 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "22.83x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$15.37"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$813.70"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$342.11"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Intuit Inc has been navigating the current market environment with its core technology franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (80): TurboTax Live adoption accelerates as AI-assisted tax preparation becomes mainstream. QuickBooks Online subscribers grow at 20%+ with AI bookkeeping features. Mailchimp monetisation improves. Credit Karma profitable. EPS grows to $19+. Price: $420+.\n            Base Case (67): TurboTax franchise steady with Live growing share. QuickBooks sustains mid-teens subscriber growth. Mailchimp synergies materialise gradually. Credit Karma remains a modest drag. EPS: $16-17.50. Price: $360-410.\n            Bear Case (48): TurboTax faces regulatory threat from IRS Direct File (free government tax preparation). QuickBooks faces intensified competition from Xero and freshbooks. Mailchimp monetisation disappoints. EPS falls to $13-14. Price: below $310.\n            Weighted Score: 67 \u2014 Bull 80 \u00d7 30% + Base 67 \u00d7 50% + Bear 48 \u00d7 20%",
+      "bull": {
+        "scenario": "Bull Case (80): TurboTax Live adoption accelerates as AI-assisted tax preparation becomes mainstream. QuickBooks Online subscribers grow at 20%+ with AI bookkeeping features. Mailchimp monetisation improves. Credit Karma profitable. EPS grows to $19+. Price: $420+.",
+        "probability": 20
+      },
+      "base": {
+        "scenario": "Base Case (67): TurboTax franchise steady with Live growing share. QuickBooks sustains mid-teens subscriber growth. Mailchimp synergies materialise gradually. Credit Karma remains a modest drag. EPS: $16-17.50. Price: $360-410.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Bear Case (48): TurboTax faces regulatory threat from IRS Direct File (free government tax preparation). QuickBooks faces intensified competition from Xero and freshbooks. Mailchimp monetisation disappoints. EPS falls to $13-14. Price: below $310.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "IRS Direct File threat: The IRS launched a free direct file programme in 2024. Expanded access could structurally impair TurboTax's paid subscriber base and force pricing concessions."
+        },
+        {
+          "rank": 2,
+          "risk": "QuickBooks competitive intensity: Xero, FreshBooks and Wave compete aggressively in SMB accounting. Microsoft Dynamics also targets the upper end of the market."
+        },
+        {
+          "rank": 3,
+          "risk": "AI execution risk: Intuit's AI strategy (Assistants, Intuit AI) requires flawless implementation. Errors in AI tax preparation carry regulatory and reputational consequences."
+        },
+        {
+          "rank": 4,
+          "risk": "Mailchimp integration and monetisation: Mailchimp has been slower to monetise than expected. Email marketing platforms face their own competitive dynamics."
+        },
+        {
+          "rank": 5,
+          "risk": "Credit Karma valuation risk: Credit Karma is loss-making and sensitive to the interest rate and consumer credit quality environment."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD. BUY below $310 (implies 34x base-case EPS \u2014 reasonable for a high-quality SaaS compounding business with AI optionality).\n            Reduce above $400 (implies 44x+ P/E with limited upside to fair value on base case)."
+    },
+    "entryExit": {
+      "text": "Intuit Inc (INTU) \u2014 Entry / Exit Framework\n\nHOLD zone: $322.86\u2013$357.96 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $322.86 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $357.96 \u2014 approaching the 52-week high at $813.70. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $335.27 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 66,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 66,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

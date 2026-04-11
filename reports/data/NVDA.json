@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "ticker": "NVDA",
+    "company": "NVIDIA Corporation",
+    "exchange": "US",
+    "isin": "US67066G1040",
+    "date": "10 April 2026",
+    "datePublished": "2026-04-10",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 68,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "NVIDIA sits at the epicentre of the AI infrastructure buildout, commanding an effective monopoly in AI accelerators via its CUDA ecosystem and the Hopper/Blackwell GPU architecture. At $181.46 the shares trade at a 38.5x trailing P/E, a meaningful compression from the 2024 multiple expansion but still pricing in substantial future growth. The bull case hinges on sustained hyperscaler capex and a data centre segment that could reach $150bn+ annually; the bear case contemplates GPU market saturati"
+    },
+    "businessModel": {
+      "text": "NVIDIA designs and sells GPUs, networking solutions, and system-on-chip products across four primary segments: Data Centre, Gaming, Professional Visualization, and Automotive/Edge. The Data Centre segment is the dominant earnings driver, now accounting for over 80% of revenue, driven by demand for H100, H200, and the Blackwell-architecture GB200 NVL72 rack-scale systems sold to hyperscalers (Microsoft, Amazon, Google, Meta) and sovereign AI projects.\n            The company's competitive moat rests on three interlocking advantages. First, CUDA — NVIDIA's proprietary parallel computing platform — is the de facto standard for AI model training and inference; millions of developers have written CUDA-native code and rewriting for AMD ROCm or custom silicon is expensive and slow. Second, the NVLink and NVSwitch interconnect fabric enables NVIDIA to bundle its networking hardware (InfiniBand, Quantum switches) into an end-to-end AI factory solution that competitors cannot replicate at scale. Third, the transition to full-stack offerings — NVIDIA AI Enterprise software, NIM microservices, and the DGX Cloud subscription — moves NVIDIA up the stack from pure hardware into software recursion, potentially sustaining margins even as raw GPU ASPs compress.\n            Gaming remains a solid cash-generative business (~8% of revenue) and Professional Visualisation serves the workstation CAD/GPU market, but neither is the re-rating catalyst. The automotive segment is a long-duration option on autonomous driving and industrial robotics, material enough to track but not yet a structural earnings driver."
+    },
+    "financialSnapshot": {
+      "text": "<p> All figures current as of 10 April 2026.</p>\n            <ul>\n              <li><strong>Share price:</strong> $181.46 (+1.89% on the day)</li>\n              <li><strong>Market capitalisation:</strong> $4.59 trillion</li>\n              <li><strong>Trailing P/E:</strong> 37x</li>\n              <li><strong>EPS (TTM):</strong> $4.90</li>\n              <li><strong>52-week high:</strong> $212.19</li>\n              <li><strong>52-week low:</strong> $95.04</li>\n              <li><strong>52-week range:</strong> $95.04–$212.19 (currently ~72% of the range above the low)</li>\n              <li><strong>Beta:</strong> 2.37 (significantly above-market volatility, reflecting AI sentiment sensitivity)</li>\n            </ul>\n            <p>At $4.59 trillion, NVIDIA is the second-largest public company by market cap globally and the largest semiconductor company in history by a wide margin. The elevated beta means it functions as a high-beta proxy for AI sentiment; risk-off moves in broader tech compress NVIDIA harder than the index.</p>\n          </div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Blackwell production ramp: The GB200 NVL72 system entered volume production in late 2024 and is now the primary driver of data centre bookings. Yield issues at TSMC that plagued the initial Blackwell ramp have been substantially resolved, and supply is no longer the binding constraint — demand is. Hyperscalers have collectively signalled multi-year purchase agreements, providing a degree of revenue visibility unusual in the semiconductor industry.\n            Hyperscaler AI capex supercycle: Microsoft, Amazon, Google, and Meta are each committing tens of billions of dollars annually to AI infrastructure. The combined capex pool from these four alone now exceeds $200bn per year, with NVIDIA the primary beneficiary. This represents a structural, not cyclical, uplift in the addressable market for AI accelerators.\n            DGX Cloud and software expansion: NVIDIA's software layer — NVIDIA AI Enterprise, NIM, and cloud partnerships — is growing as a percentage of mix, improving revenue quality and providing subscription Recurring Revenue that commands a higher multiple than one-time hardware sales.\n            Sovereign AI: National AI initiatives (EU, India, Japan, Gulf states) are creating a new buyer cohort outside the traditional hyperscaler set, diversifying the customer base and providing price resilience."
+    },
+    "thesisEvaluation": {
+      "text": "Bull case (30% probability): The AI capex supercycle proves as large as the most optimistic sell-side projections, with hyperscaler data centre spend reaching $150bn+ annually. NVIDIA retains 80%+ AI accelerator market share. Blackwell drives EPS to $6.50 and the market re-rates to a 40x P/E, yielding a share price of approximately $260. This scenario requires custom silicon to fail to gain traction and sovereign AI demand to accelerate significantly. Probability-weighted contribution: +30% × ($260 − $181) = +$23.7.\n            Base case (55% probability): AI capex remains elevated but growth moderates as hyperscalers complete the initial training cluster buildout and shift toward inference-heavy workloads. Custom silicon (AWS Trainium2, Google TPU v5, AMD MI350) captures 15–20% of new accelerator orders, compressing NVIDIA's pricing power. EPS reaches $5.00, P/E compresses to 35x, giving a share price of approximately $175. This is marginally below the current price, confirming that HOLD is the appropriate stance. Probability-weighted contribution: +55% × ($175 − $181) = −$3.3.\n            Bear case (15% probability): The AI buildout proves more cyclically lumpy than expected; hyperscaler capex plateaus or retrenches following completion of near-term GPU procurement plans. Crypto mining demand — which had been a tailwind — fades materially. Custom silicon accelerates faster than anticipated, capturing 30%+ of the market. NVIDIA is forced to cut prices to defend share, EPS falls to $3.50, and the P/E re-rates to 25x, giving a share price of approximately $88, a 51% decline from current levels. Probability-weighted contribution: +15% × ($88 − $181) = −$14.0.\n            Expected value (probability-weighted): (30% × $260) + (55% × $175) + (15% × $88) = $78 + $96.25 + $13.20 = $187.45. This exceeds the current price of $181.46, but the uplift relative to the base case is modest and is offset by execution risk and market sentiment volatility, resulting in a conviction score of 68/100. The qualitative uplift for NVIDIA's monopoly position — not fully captured in the DCF-style calculation above — is the primary reason the conviction score is not lower given that the base case implies only modest upside from here.",
+      "bull": {
+        "scenario": "Bull case (30% probability): The AI capex supercycle proves as large as the most optimistic sell-side projections, with hyperscaler data centre spend reaching $150bn+ annually. NVIDIA retains 80%+ AI accelerator market share. Blackwell drives EPS to $6.50 and the market re-rates to a 40x P/E, yielding a share price of approximately $260. This scenario requires custom silicon to fail to gain traction and sovereign AI demand to accelerate significantly. Probability-weighted contribution: +30% × ($260 − $181) = +$23.7.",
+        "probability": 30
+      },
+      "base": {
+        "scenario": "Base case (55% probability): AI capex remains elevated but growth moderates as hyperscalers complete the initial training cluster buildout and shift toward inference-heavy workloads. Custom silicon (AWS Trainium2, Google TPU v5, AMD MI350) captures 15–20% of new accelerator orders, compressing NVIDIA's pricing power. EPS reaches $5.00, P/E compresses to 35x, giving a share price of approximately $175. This is marginally below the current price, confirming that HOLD is the appropriate stance. Probability-weighted contribution: +55% × ($175 − $181) = −$3.3.",
+        "probability": 55
+      },
+      "bear": {
+        "scenario": "Bear case (15% probability): The AI buildout proves more cyclically lumpy than expected; hyperscaler capex plateaus or retrenches following completion of near-term GPU procurement plans. Crypto mining demand — which had been a tailwind — fades materially. Custom silicon accelerates faster than anticipated, capturing 30%+ of the market. NVIDIA is forced to cut prices to defend share, EPS falls to $3.50, and the P/E re-rates to 25x, giving a share price of approximately $88, a 51% decline from current levels. Probability-weighted contribution: +15% × ($88 − $181) = −$14.0.",
+        "probability": 15
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD — Conviction: 68/100\n            NVIDIA is a high-quality business with a genuine monopoly in AI accelerators, a deep ecosystem moat, and structural tailwinds from the hyperscaler capex supercycle. However, at $181.46 (38.5x trailing P/E) the shares are pricing in a substantial continuation of the AI buildout at or above current pace, leaving limited upside in the base case and significant downside in the bear case.\n            The recommendation is HOLD rather than BUY or SELL for the following reasons:\n            \n              The base case implies a share price of approximately $175, modestly below the current price, which negates a BUY recommendation on valuation grounds.\n              The bull case ($260) is plausible but requires multiple sequential things to go right and assigns only 30% probability.\n              The bear case ($88) is not implausible given historical semiconductor cycle behaviour, even if assigned only 15% probability.\n              The 68 conviction score reflects genuine uncertainty about the pace of custom silicon adoption and the durability of hyperscaler capex — not a lack of confidence in NVIDIA's competitive position today.\n            \n            Existing holders should maintain positions but trim if the price approaches $200–$212 (the upper quartile of the 52-week range). New buyers should wait for a pullback to the $160–$170 zone to improve the risk-reward profile materially."
+    },
+    "entryExit": {
+      "text": "Entry zones:\n            \n              Attractive entry: $160–$170. This zone represents the base case fair value with a modest margin of safety and is where a thoughtful long-term buyer should initiate or add.\n              Below $160: Compelling risk-reward, particularly if the stock is down due to sentiment rather than fundamentals. Treat as a conviction-weighted buying opportunity.\n              Current price ($181): Fair but not cheap. HOLD zone for existing positions; not a compelling new entry on valuation alone.\n            \n            Exit / trim zones:\n            \n              Trim on strength: $195–$212. If approaching the 52-week high of $212.19, trim positions aggressively given the asymmetric risk profile — the upside to base case fair value is limited while downside in a sentiment reversal is significant.\n              Partial exit at $200: Take some profit if Nvidia approaches $200, locking in gains for long holders. No need to exit entirely unless fully exiting the AI theme.\n            \n            Stop-loss reference: No mechanical stop-loss is recommended for a position of this volatility. Instead, review the thesis if the shares trade below $145 sustained (below the 200-day moving average would be a technical warning signal) or if any of the key risks (custom silicon market share crossing 25%, a major hyperscaler cutting orders materially) materialise. In those scenarios, treat $145 as an area to reassess: a drop to that level implies the market is beginning to price the bear case, warranting a position reduction regardless of entry level.\n            Position sizing guidance: Given the 2.37 beta and single-name concentration risk, NVIDIA should not represent more than 5–8% of a diversified portfolio for most investors. Thematic or sector-specific portfolios may justify higher weights, but should be explicitly aware of the concentration and rebalance accordingly.\n          \n\n          \n            Conviction Trend\n            Latest conviction: 68/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-10\n              \n            \n            \n              Report dateConviction\n              2026-04-1068"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-10",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

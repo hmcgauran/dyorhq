@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "ticker": "DGE.L · LN",
+    "company": "Diageo plc",
+    "exchange": "LN",
+    "isin": "GB00B7F7S988",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 62,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Diageo is a quality compounder trading at decade-low valuations following a significant operational reset.\n              The February 2026 H1 results delivered a kitchen-sink moment: dividend halved, organic guidance cut to −2% to −3%,\n              and a frank admission that volume recovery in the US and Asia will take longer than previously guided.\n            \n            \n              Incoming CEO Sir Dave Lewis brings a credible turnaround template from his Tesco tenure, and the $2.3bn\n   "
+    },
+    "businessModel": {
+      "text": "Diageo is the world's largest premium spirits company by revenue. Its portfolio spans Scotch whisky\n              (Johnnie Walker — the world's best-selling Scotch), Irish stout (Guinness), gin (Tanqueray, Gordon's),\n              Irish cream (Baileys), and tequila (Casamigos, Don Julio). The group has ~200 brands sold in ~180 markets.\n            \n            \n              Revenue is approximately 60% Americas and Europe, 40% Asia, Africa and emerging markets.\n              The core strategy is premiumisation — pushing volume up the price ladder across whisky, tequila, and gin\n              categories — supplemented by portfolio rationalisation via disposals of non-core or lower-margin assets.\n            \n            \n              The economic moat is genuine: brand equity accumulated over decades, distribution locked in through\n              on-trade relationships globally, and barriers to replicating aged spirit stocks at scale. The\n              vulnerability is cyclicality — premium spirits are a discretionary purchase sensitive to consumer\n              confidence, particularly in the key US market."
+    },
+    "financialSnapshot": {
+      "text": "<p>\n              Revenue of approximately <strong>$20bn</strong> with free cash flow maintained at ~$3bn despite volume\n              headwinds — evidence of the operating leverage in the model. Net debt of $13bn is the primary financial\n              constraint, limiting buyback and M&A optionality.\n            </p>\n            <p>\n              At 1,390.2p, Diageo trades on a forward P/E of <strong>11.5×</strong> and EV/EBITDA of <strong>10.5×</strong> —\n              both near decade lows for the stock and at a meaningful discount to global spirits peers (LVMH Moët Hennessy,\n              Brown-Forman, Ré[the analyst's] Cointreau). Post-cut dividend yield of ~4.2% provides some income support but the\n              income floor is weakened by the cut.\n            </p>\n            <p>\n              ROIC of 11.4% remains above WACC, confirming the business is still generating economic value —\n              the problem is growth and sentiment, not the underlying economics.\n            </p>\n          </div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "H1 FY26 results (25 Feb 2026): Kitchen-sink reset. Organic net sales guidance cut\n                to −2% to −3% for the full year. Dividend halved. Management explicitly acknowledged the US spirits\n                category is recovering more slowly than forecast.\n              \n              \n                New CEO — Sir Dave Lewis (in post 1 Jan 2026): Former CEO of Tesco, where he\n                executed a successful multi-year turnaround. Strong track record of portfolio rationalisation,\n                cost discipline, and credibility restoration with institutional shareholders.\n              \n              \n                US spirits category weakness: The US represents ~35% of revenue. Post-pandemic\n                normalisation has proven deeper and more persistent than Diageo or peers anticipated, with\n                category volumes declining across premium spirits.\n              \n              \n                Chinese baijiu decline: Diageo's Shui Jing Fang brand and broader exposure to\n                Chinese white spirits has been a drag on Asia numbers. Consumer confidence in China remains\n                soft, and the baijiu premium category has seen meaningful volume declines.\n              \n              \n                $2.3bn East Africa disposal (H2 2026): Sale of the East Africa business at 17×\n                EBITDA — above market expectations. Proceeds will partially delever the balance sheet and\n                demonstrate management's commitment to portfolio optimisation.",
+      "items": [
+        "H1 FY26 results (25 Feb 2026): Kitchen-sink reset. Organic net sales guidance cut\n                to −2% to −3% for the full year. Dividend halved. Management explicitly acknowledged the US spirits\n                category is recovering more slowly than forecast.",
+        "New CEO — Sir Dave Lewis (in post 1 Jan 2026): Former CEO of Tesco, where he\n                executed a successful multi-year turnaround. Strong track record of portfolio rationalisation,\n                cost discipline, and credibility restoration with institutional shareholders.",
+        "US spirits category weakness: The US represents ~35% of revenue. Post-pandemic\n                normalisation has proven deeper and more persistent than Diageo or peers anticipated, with\n                category volumes declining across premium spirits.",
+        "Chinese baijiu decline: Diageo's Shui Jing Fang brand and broader exposure to\n                Chinese white spirits has been a drag on Asia numbers. Consumer confidence in China remains\n                soft, and the baijiu premium category has seen meaningful volume declines.",
+        "$2.3bn East Africa disposal (H2 2026): Sale of the East Africa business at 17×\n                EBITDA — above market expectations. Proceeds will partially delever the balance sheet and\n                demonstrate management's commitment to portfolio optimisation."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Scenario\n                  Probability\n                  Price Target\n                  Key Drivers\n                \n              \n              \n                \n                  Bull\n                  25%\n                  1,700p+\n                  Lewis executes Tesco-style turnaround; US normalises H2 2026; sum-of-parts crystallised via disposals; re-rates to 15–16× EV/EBITDA\n                \n                \n                  Base\n                  55%\n                  1,380–1,500p\n                  Gradual US recovery; baijiu stabilises; FCF maintained; modest re-rating; dividend grows from reduced base\n                \n                \n                  Bear\n                  20%\n                  1,100–1,250p\n                  US spirits structural decline accelerates; China drag persists; debt constrains flexibility; income base permanently impaired\n                \n              \n            \n\n            \n              Weighted conviction: 25% × 1,700 + 55% × 1,440 + 20% × 1,175 = 1,426p.\n              Adjusted to 62/100 to reflect new CEO optionality — Lewis has demonstrated he can execute\n              exactly this type of turnaround, and his incentive package is aligned with long-term shareholder value.",
+      "bull": {
+        "scenario": "bull-row\">\n                  Bull\n                  25%\n                  1,700p+\n                  Lewis executes Tesco-style turnaround; US normalises H2 2026; sum-of-parts crystallised via disposals; re-rates to 15–16× EV/EBITDA\n                \n                <tr class=\"",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "base-row\">\n                  Base\n                  55%\n                  1,380–1,500p\n                  Gradual US recovery; baijiu stabilises; FCF maintained; modest re-rating; dividend grows from reduced base\n                \n                <tr class=\"",
+        "probability": 55
+      },
+      "bear": {
+        "scenario": "bear-row\">\n                  Bear\n                  20%\n                  1,100–1,250p\n                  US spirits structural decline accelerates; China drag persists; debt constrains flexibility; income base permanently impaired\n                \n              \n            \n\n            \n              Weighted conviction: 25% × 1,700 + 55% × 1,440 + 20% × 1,175 = 1,426p.\n              Adjusted to 62/100 to reflect new CEO optionality — Lewis has demonstrated he can execute\n              exactly this type of turnaround, and his incentive package is aligned with long-term shareholder value.",
+        "probability": 20
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1\n                US spirits structural decline — If the post-pandemic premium spirits volume decline\n                is structural (secular shift toward beer, RTDs, or simply reduced alcohol consumption) rather than cyclical,\n                the recovery thesis fails. 35% of revenue exposure makes this the single largest risk."
+        },
+        {
+          "rank": 2,
+          "risk": "2\n                China baijiu drag — Chinese consumer confidence recovery is uncertain. Shui Jing Fang\n                and broader baijiu exposure could continue to drag reported numbers and management attention."
+        },
+        {
+          "rank": 3,
+          "risk": "3\n                Net debt $13bn — Limits M&amp;A optionality and share buybacks. If FCF deteriorates\n                below the $3bn run-rate, leverage metrics will deteriorate and credit rating risk emerges."
+        },
+        {
+          "rank": 4,
+          "risk": "4\n                Dividend cut effect — Income investors who owned Diageo for its reliable, growing\n                dividend have been structurally de-motivated. The income floor is gone; re-building yield credibility\n                takes multiple years of execution."
+        },
+        {
+          "rank": 5,
+          "risk": "5\n                Lewis turnaround pace — Tesco was a domestic UK business; Diageo is a 200-brand\n                global operation across 180 markets. The turnaround may be slower and more complex than the Tesco\n                precedent suggests, testing investor patience."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "Conviction score: 62/100.\n              This reflects a quality business at low valuations with a credible new CEO, constrained by\n              two significant near-term headwinds (US volume, China) that prevent a higher-conviction BUY.\n            \n            \n              \n                HOLD at 1,390.2p. Do not add at current prices unless you have a long time horizon and\n                high risk tolerance for the bear scenario. Preferred entry points:\n              \n              \n                Add on a break below 1,300p — materialises further downside, improving risk/reward\n                Add on confirmed US volume recovery (reported in monthly Nielsen/IWSR data)\n                Wait for August 2026 full-year results — clearest catalyst for re-rating; Lewis's first full FY in charge"
+    },
+    "entryExit": {
+      "text": "Below 1,300p: Accumulation zone — improving risk/reward on further downside\n              1,300p–1,450p: Fair hold range at current fundamentals\n              1,450p–1,700p: Trim / reassess — valuation starts to reflect recovery scenarios\n              1,700p+: Take profit — requires US volume recovery to be genuine, not priced in\n              August 2026 FY results: Primary re-rating catalyst — Lewis's first full year in charge\n            \n            The upside to analyst consensus (~1,950p) is ~40% from current price — the question is timing and whether that consensus needs to come down further first.\n          \n\n          \n            Conviction Trend\n            Latest conviction: 62/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0862"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

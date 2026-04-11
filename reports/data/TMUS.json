@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "TMUS",
+    "company": "T-Mobile US Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 81,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 195.71,
+    "marketCap": 218900000000.0,
+    "marketCapFormatted": "$218.90B",
+    "trailingPE": 20.13,
+    "trailingEps": 9.72,
+    "fiftyTwoWeekHigh": 267.96,
+    "fiftyTwoWeekLow": 181.36,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "T-Mobile has the most compelling combination of postpaid subscriber growth, free cash flow generation and 5G monetisation optionality among US telecoms, and the shares are undervalued relative to peers at 20x forward P/E \u2014 BUY is the weighted recommendation."
+    },
+    "businessModel": {
+      "text": "T-Mobile US is the third-largest US mobile carrier by subscriber count, with approximately 130 million total customers and approximately 100 million postpaid subscribers following the integration of the Sprint network. The company has a distinct competitive positioning as the 'uncarrier' \u2014 historically differentiated through no-contract pricing and aggressive promotional strategies \u2014 and has been the primary beneficiary of customer switching among the three national carriers over the past decade. T-Mobile's 5G network advantage (built on 600 MHz and 2.5 GHz spectrum holdings from the Sprint acquisition) underpins both mobile and fixed wireless services. The company generates revenues from postpaid phone plans, prepaid brands (Metro by T-Mobile, Mint Mobile), home broadband (FWA) and business enterprise services."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$195.71"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$218.9B"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "20.13x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$9.72"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$267.96"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$181.36"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "T-Mobile's postpaid phone subscriber growth has consistently exceeded AT&T and Verizon, making it the primary switching destination for quality-conscious mobile consumers. The 5G FWA product (home internet) is gaining traction as a low-cost alternative to wired broadband in suburban and rural markets \u2014 a market that Verizon and AT&T are struggling to compete in at scale. The Sprint merger synergies, now fully integrated, provide an earnings cushion that has enabled the company to maintain industry-leading EBITDA margins. Management has committed to returning $22.5bn+ to shareholders via buybacks through 2027."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (81): Postpaid phone subscriber additions remain the highest in the industry. 5G fixed wireless access (FWA) grows into a meaningful revenue stream. Metro by T-Mobile (prepaid) expansion adds incremental subscribers. Free cash flow exceeds $18bn annually, funding aggressive buybacks. EPS grows 10\u201312% annually. Price: $230+.\n            Base Case (50): Postpaid net adds remain positive but decelerate to industry-average levels. FWA adoption grows steadily. 5G network investments plateau, improving free cash flow margins. EPS grows at 7\u20139% annually. Price: $190\u2013$215.\n            Bear Case (40): Intense price competition from AT&T and Verizon erodes postpaid ARPUs. FWA growth stalls. T-Mobile's postpaid phone churn rises as promotional pricing expires. Merger synergies from Sprint prove more difficult to extract than modelled. EPS growth falls to 3\u20135%. Price: below $165.\n            Weighted Score: 81 \u2014 Bull 81 \u00d7 30% + Base 50 \u00d7 50% + Bear 40 \u00d7 20%",
+      "bull": {
+        "scenario": "Bull Case (81): Postpaid phone subscriber additions remain the highest in the industry. 5G fixed wireless access (FWA) grows into a meaningful revenue stream. Metro by T-Mobile (prepaid) expansion adds incremental subscribers. Free cash flow exceeds $18bn annually, funding aggressive buybacks. EPS grows 10\u201312% annually. Price: $230+.",
+        "probability": 12
+      },
+      "base": {
+        "scenario": "Base Case (50): Postpaid net adds remain positive but decelerate to industry-average levels. FWA adoption grows steadily. 5G network investments plateau, improving free cash flow margins. EPS grows at 7\u20139% annually. Price: $190\u2013$215.",
+        "probability": 9
+      },
+      "bear": {
+        "scenario": "Bear Case (40): Intense price competition from AT&T and Verizon erodes postpaid ARPUs. FWA growth stalls. T-Mobile's postpaid phone churn rises as promotional pricing expires. Merger synergies from Sprint prove more difficult to extract than modelled. EPS growth falls to 3\u20135%. Price: below $165.",
+        "probability": 5
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Competitive response: AT&T and Verizon have significantly increased promotional activity. If sustained, this could pressure T-Mobile's ARPUs and increase churn as existing customers are targeted by competitive offers."
+        },
+        {
+          "rank": 2,
+          "risk": "Postpaid subscriber ceiling: T-Mobile has taken significant market share from peers. As the addressable market of switchers shrinks, maintaining above-peer net additions requires increasingly competitive offers that may erode returns."
+        },
+        {
+          "rank": 3,
+          "risk": "Regulatory and merger risk: The telecommunications sector is subject to ongoing regulatory scrutiny (FCC, state AGs). Any future acquisition or spectrum consolidation faces significant regulatory barriers."
+        },
+        {
+          "rank": 4,
+          "risk": "Handset subsidy and financing costs: T-Mobile's device financing (JUMP! and similar programmes) and promotional handset subsidies affect free cash flow in ways that are sensitive to device upgrade cycles and consumer finance conditions."
+        },
+        {
+          "rank": 5,
+          "risk": "5G FWA execution risk: Fixed wireless access faces physical limitations (building penetration, geographic coverage) that constrain the total addressable market. The thesis depends on continued customer acquisition in this product category."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "BUY. BUY below $155 (approximately 16x forward P/E \u2014 below peer group average and below T-Mobile's own historical range). Reduce above $215 (approximately 22x forward P/E \u2014 fully values the FCF generation and merger synergy extraction but leaves little upside)."
+    },
+    "entryExit": {
+      "text": "T-Mobile US Inc (TMUS) \u2014 Entry / Exit Framework\n\nAccumulate: $172.22\u2013$185.92 \u2014 pullback zone within the 52-week range. The stock is attractively priced relative to the recent move.\nStop-loss: $172.29 \u2014 a close below the 52-week low would signal fundamental deterioration.\nTarget 1: $227.77 \u2014 mean reversion toward the midpoint of the 52-week range. Near-term catalyst needed to confirm momentum.\nTarget 2: $281.36 \u2014 above the 52-week high on sustained volume. Only appropriate for position-initiation with conviction."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 81,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 81,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

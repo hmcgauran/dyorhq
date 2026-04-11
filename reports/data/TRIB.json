@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "ticker": "TRIB",
+    "company": "Trinity Biosystems",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "SELL",
+    "recommendationNote": "SELL",
+    "conviction": 12,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": ""
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "",
+      "bull": {},
+      "base": {},
+      "bear": {}
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Trinity Biosystems (TRIB) \u2014 Entry / Exit Framework\n\nAvoid / Sell: Current levels offer poor risk/reward given the 52-week range of $0.50\u2013$3.44.\nStop-loss (if somehow accumulated): $3.37 \u2014 above the 52-week high would be a meaningful breakdown.\nTarget: $0.53 \u2014 below the 52-week low is the path of least resistance."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 12,
+      "band": "SELL",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 12,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

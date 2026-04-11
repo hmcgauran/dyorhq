@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "RUOC.F (FRA) / OPTT (NYSE American)",
+    "company": "Ocean Power Technologies",
+    "exchange": "US",
+    "isin": "US6748705067",
+    "date": "7 Apr 2026",
+    "datePublished": "2026-04-07",
+    "recommendation": "BUY — SPECULATIVE",
+    "recommendationNote": "BUY — SPECULATIVE",
+    "conviction": 61,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Ocean Power Technologies is a pre-revenue marine energy and autonomy company that has just started\n              converting a record backlog into delivery. The stock has been obliterated — down ~61% from its 52-week\n              high of €0.769 to €0.2976 — largely on cash burn fears and liquidity concerns. That selloff looks\n              overdone relative to the actual contract trajectory.\n            \n            \n              The company announced a record $19.9M backlog as of January 2026 "
+    },
+    "businessModel": {
+      "text": "Ocean Power Technologies designs and deploys PowerBuoy® systems —\n              autonomous offshore platforms that generate power from wave energy and can operate as persistent,\n              unattended marine infrastructure. They also produce WAM-V (Wave Adaptive\n              Modular Vessel) unmanned surface vehicles (USVs) for defence and research customers.\n            \n            \n              Revenue streams:\n            \n            \n              PowerBuoy systems — sold or leased to defence, security, and offshore energy customers\n              WAM-V USVs — sold to defence/research clients (Nordic order March 2026)\n              MERROWS® payload — persistent maritime surveillance payload integrated onto PowerBuoy (DHS/Anduril contract)\n              Data/monitoring services — power + data-as-a-service from deployed buoys\n            \n            \n              Economic moat: early mover in US government-approved wave energy; Anduril partnership provides\n              credible defence prime integration; growing patent portfolio in marine autonomous power. The defence\n              market for persistent offshore maritime awareness is genuine and growing (US Coast Guard, DHS, NATO allies).\n            \n            \n              Key vulnerability: pre-revenue. No significant commercial revenue yet. Backlog conversion\n              is everything."
+    },
+    "financialSnapshot": {
+      "text": "<p>\n              <em>Note: Full financials from Yahoo Finance are inaccessible (delisted from main US feeds, trading on FRA as RUOC.F).\n              Figures below are from recent RNS/news reporting. Validate before trading.</em>\n            </p>\n            <ul>\n              <li><strong>Backlog:</strong> ~$19.9M (as of 31 Jan 2026) — up 165% YoY from ~$7.5M</li>\n              <li><strong>Pipeline:</strong> ~$163.9M — up 84% YoY from $89.2M</li>\n              <li><strong>Cash position:</strong> Not publicly confirmed in clean data — assume cash-preserving mode</li>\n              <li><strong>Revenue:</strong> Early-stage; backlog provides multi-quarter revenue visibility</li>\n              <li><strong>Shares outstanding:</strong> Likely elevated due to historical equity raises — confirm on NYSE filings</li>\n            </ul>\n            <p>\n              At €0.2976, the market cap is almost certainly below $50M — deeply distressed for a company with\n              $19.9M backlog and $163.9M pipeline. The math on even modest pipeline conversion is compelling.\n            </p>\n            <p>\n              <em>Precise EBITDA, cash, debt: confirm from OPT's NYSE filings (SEC EDGAR) or last investor presentation\n              before relying for position-sizing decisions.</em>\n            </p>\n          </div>\n\n          <!-- 4. Recent Catalysts -->",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Mar 2026: First PowerBuoy shipped under $6.5M DHS/Coast Guard contract — operational milestone confirmed\n              Mar 2026: Nordic WAM-V order for underwater research customer — international expansion continues\n              Feb 2026: Q3 FY2026 results — record backlog of $19.9M; pipeline $163.9M; net losses increased (opex growing with contracts)\n              Late 2025: Anduril Industries integration confirmed as prime contractor on DHS programme\n              2025: New US Coast Guard / DHS award ($6.5M, multi-buoy) — validates defence go-to-market",
+      "items": [
+        "Mar 2026: First PowerBuoy shipped under $6.5M DHS/Coast Guard contract — operational milestone confirmed",
+        "Mar 2026: Nordic WAM-V order for underwater research customer — international expansion continues",
+        "Feb 2026: Q3 FY2026 results — record backlog of $19.9M; pipeline $163.9M; net losses increased (opex growing with contracts)",
+        "Late 2025: Anduril Industries integration confirmed as prime contractor on DHS programme",
+        "2025: New US Coast Guard / DHS award ($6.5M, multi-buoy) — validates defence go-to-market"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%)\n                DHS/Anduril contract expands beyond initial $6.5M. 10-15% of $163.9M pipeline converts to backlog.\n                US Navy or NATO allies place orders. NYSE up-list improves liquidity. Stock re-rates to $3-5+. Upside: €0.80–1.50+.\n              \n              \n                Base (50%)\n                DHS contract delivers on time. Nordic WAM-V orders continue.\n                Pipeline conversion slow but steady (10-20% conversion rate). Additional equity raise needed\n                but not catastrophic. Stock drifts to €0.40–0.60. Upside: €0.40–0.60.\n              \n              \n                Bear (25%)\n                Cash runs out before backlog converts. Equity raise at distressed price\n                wipes out existing holders. Anduril/DHS programme delayed or cancelled. Stock falls to\n                €0.10–0.15. Downside: €0.10–0.15.\n              \n            \n\n            \n              Expected value: (25% × €1.00) + (50% × €0.50) + (25% × €0.13) = €0.25 + €0.25 + €0.03\n              = ~€0.53 base case. Current price €0.2976 implies the market is pricing in the bear.\n              Asymmetry is to the upside from here — but binary cash risk means position sizing is critical.",
+      "bull": {
+        "scenario": "Bull (25%)\n                DHS/Anduril contract expands beyond initial $6.5M. 10-15% of $163.9M pipeline converts to backlog.\n                US Navy or NATO allies place orders. NYSE up-list improves liquidity. Stock re-rates to $3-5+. Upside: €0.80–1.50+.",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "Base (50%)\n                DHS contract delivers on time. Nordic WAM-V orders continue.\n                Pipeline conversion slow but steady (10-20% conversion rate). Additional equity raise needed\n                but not catastrophic. Stock drifts to €0.40–0.60. Upside: €0.40–0.60.",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear (25%)\n                Cash runs out before backlog converts. Equity raise at distressed price\n                wipes out existing holders. Anduril/DHS programme delayed or cancelled. Stock falls to\n                €0.10–0.15. Downside: €0.10–0.15.",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Cash/burn risk (HIGH): Pre-revenue company burning cash. If backlog conversion\n                slips or pipeline doesn't convert, equity raise at distressed prices will heavily dilute.\n                This is the binary risk."
+        },
+        {
+          "rank": 2,
+          "risk": "Liquidity risk (HIGH): Trading on FRA (RUOC.F) as main venue. NYSE is the\n                primary exchange but US investors may face liquidity mismatches. Spreads can be wide.\n                Confirm actual liquid ticker with your broker."
+        },
+        {
+          "rank": 3,
+          "risk": "Pipeline conversion risk (MEDIUM): $163.9M pipeline sounds large but conversion\n                rates in government contracting are uncertain. 10-15% is realistic; 30%+ would be exceptional."
+        },
+        {
+          "rank": 4,
+          "risk": "Contract/timeline risk (MEDIUM): DHS contract is multi-quarter — delivery\n                timing, government budget cycles, and political dynamics can all introduce delays."
+        },
+        {
+          "rank": 5,
+          "risk": "Competition risk (MEDIUM): Wave energy is nascent; larger energy majors could\n                enter and outcompete. Defence-USV space is also getting more competitive."
+        },
+        {
+          "rank": 6,
+          "risk": "Management/shareholder dilution (MEDIUM): Historical pattern of equity raises\n                suggests further dilution is likely. Check management incentives and cap table."
+        },
+        {
+          "rank": 7,
+          "risk": "Volatility risk (HIGH): Micro-cap with news-driven price action. Earnings\n                dates and contract announcements will cause large swings — use this, don't fear it."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "BUY — SPECULATIVE."
+    },
+    "entryExit": {
+      "text": "BUY — SPECULATIVE.\n            \n            \n              This is a trade, not a core holding. Treat it as a warrant on the backlog-to-revenue conversion story.\n              Position sizing should be small given the binary cash risk.\n            \n            \n              Position management:\n            \n            \n              €0.22–0.25: Accumulate / add (high-conviction entry, near 52w low support)\n              €0.30–0.35: Hold — don't add, don't reduce\n              €0.40–0.50: Take partial profit (25–33% trim) — 52w high is €0.77, don't expect a straight line\n              €0.50+: Significant profit — reassess whether thesis has changed or if this is just a dead cat bounce\n              €0.18 or below: Warning — 52w low breach, either stop out or significantly reduce\n            \n            \n              Key trigger: Q4 FY2026 results (expected ~April/May 2026) — watch for backlog conversion update,\n              cash position, and any new contract announcements. That's the next real catalyst.\n            \n          \n\n          \n            Conviction Trend\n            Latest conviction: 61/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-07\n              \n            \n            \n              Report dateConviction\n              2026-04-0761"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Mar 2026: First PowerBuoy shipped under $6.5M DHS/Coast Guard contract",
+        "Mar 2026: Nordic WAM-V order for underwater research",
+        "Feb 2026: Record $19.9M backlog (+165% YoY)",
+        "2025: Anduril Industries partnership on DHS programme",
+        "Q4 FY2026 results (expected ~Apr/May 2026)",
+        "Q4 FY2026 PowerBuoy deliveries under DHS contract",
+        "Pipeline conversion announcements",
+        "Potential NYSE up-list or liquidity event",
+        "Further WAM-V / Nordic defence orders",
+        "€0.22–0.25: Accumulate",
+        "€0.30–0.35: Hold",
+        "€0.40–0.50: Trim 25–33%",
+        "€0.18: Stop / reduce"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 61,
+      "band": "BUY",
+      "date": "2026-04-07",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-07",
+        "score": 61,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

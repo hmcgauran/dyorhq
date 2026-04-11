@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "ticker": "DAL",
+    "company": "Delta Air Lines Inc (DAL)",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 79,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Delta Air Lines offers an attractive combination of strong pricing power, disciplined capacity management, and an improving balance sheet, trading at a significant discount to intrinsic value on a P/E of under 10x, and is rated HOLD."
+    },
+    "businessModel": {
+      "text": "Delta is the largest US airline by market capitalisation and a leading global carrier. Its revenue is derived from scheduled passenger service, cargo transportation, and ancillary services including loyalty programme monetisation. The business model has structurally shifted post-pandemic toward capacity discipline and premium revenue mix:\n    \n      Mainline Passenger Revenue~85% of total revenue; basic economy to premium delta one\n      Cargo~3% of revenue; freight and mail\n      Loyalty Programme (SkyMiles)~8% of revenue; co-brand credit card and retail partnerships\n      Maintenance, Repair &amp; Overhaul (MRO)~4% of revenue; delta techops serves third-party airlines\n    \n    Delta's competitive moat lies in its premium route network, superior operational reliability, and the SkyMiles loyalty programme, which is one of the most valuable co-brand relationships in US consumer finance. The MRO business (Delta TechOps) is a high-margin, underappreciated earnings contributor."
+    },
+    "financialSnapshot": {
+      "text": "</div>\n\n<!-- 4. RECENT CATALYSTS -->\n<div class=\"section\">",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$67.82"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$44.6bn"
+        },
+        {
+          "label": "P/E Ratio",
+          "value": "9.91x"
+        },
+        {
+          "label": "Earnings Per Share (TTM)",
+          "value": "$6.85"
+        },
+        {
+          "label": "EV / EBITDA (approx.)",
+          "value": "~5-6x (estimated)"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$76.39"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$38.80"
+        },
+        {
+          "label": "Distance from 52w High",
+          "value": "-11.2%"
+        },
+        {
+          "label": "Average Volume",
+          "value": "8.03m"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "ScenarioScoreProbabilityCommentary\n    \n      Bull8630%Premium demand sustains; corporate travel recovery adds incremental yield; fuel costs remain benign; EPS reaches $8.50-9.50; shares re-rate to 12-14x, reaching $95-110.\n    \n    \n      Base7850%Steady demand environment; capacity discipline maintained; MRO growth offsets modest unit revenue pressure; EPS grows to $7.50-8.50; shares reach $80-88 on 10-11x.\n    \n    \n      Bear6020%Recession reduces leisure and corporate travel simultaneously; low-cost carrier competition intensifies; fuel price spike; EPS falls to $4-5; shares test $38-45.\n    \n  \n  \n    Conviction Score: 86x0.30 + 78x0.50 + 60x0.20 = 78.6\n    The bull/base scenarios score strongly; the P/E of under 10x provides a significant margin of safety even in the base case.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "base scenarios score strongly; the P/E of under 10x provides a significant margin of safety even in the base case.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "Rating: HOLD\n    Delta is one of the most attractively valued major US airlines, trading at under 10x trailing earnings with improving free cash flow and a world-class loyalty asset. The SkyMiles-American Express partnership renewal removes a major overhang and provides multi-year revenue visibility. The shares offer compelling upside to $85-90 on a 12-month horizon with a meaningful floor provided by the asset-intensive but cash-generative nature of the business at current prices.\n    \n      FrameworkDetail\n      Entry point$67.82 (current); attractive entry at under 10x earnings with improving fundamentals\n      Target price (12 months)$82-$90 based on 11-12x base case EPS of $7.50-$8.00\n      Stop-loss$37.00 (below the 52-week low; would indicate a fundamental deterioration in the travel demand backdrop)\n      Position sizingDeep-value cyclical position; 1.5-2% portfolio weight; do not overload given sector-specific risk\n      Key trigger to upgradeQ1 2026 earnings beat above $1.90 per share; transatlantic summer yields ahead of expectations; confirmation of above-consensus free cash flow generation"
+    },
+    "entryExit": {
+      "text": "Delta Air Lines Inc (DAL) (DAL) \u2014 Entry / Exit Framework\n\nHOLD zone: $62.39\u2013$69.18 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $62.39 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $69.18 \u2014 approaching the 52-week high at $76.39. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $38.02 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 79,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 79,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

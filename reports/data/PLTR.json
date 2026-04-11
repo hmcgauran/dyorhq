@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "PLTR",
+    "company": "Palantir Technologies Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 128.06,
+    "marketCap": 306300000000.0,
+    "marketCapFormatted": "$306.30B",
+    "trailingPE": 203.27,
+    "trailingEps": 0.63,
+    "fiftyTwoWeekHigh": 207.52,
+    "fiftyTwoWeekLow": 85.47,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Palantir's AI-driven revenue acceleration is real and material, but a 203x trailing P/E leaves virtually no room for slippage \u2014 the risk-reward is balanced and HOLD is the weighted recommendation."
+    },
+    "businessModel": {
+      "text": "Palantir operates two primary platforms: Foundry (commercial data orchestration and AI deployment) and Gotham (US government and allied defence/intelligence analytics). Its Apollo operating layer enables deployment across hybrid and multi-cloud environments, a structural advantage in government and regulated industries. Revenue is recurring and multi-year in government segments. Palantir is among the few pure-play AI companies with demonstrable, contract-backed government revenues."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$128.06"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$306.3B"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "203.27x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$0.63"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$207.52"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$85.47"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "PLTR has posted consecutive strong quarters driven by AIP (Palantir's LLM-powered analytics layer), which differentiates the platform by embedding large language models directly into data pipelines. The US Department of Defence continues to expand AI adoption budgets. NATO and allied government contracts represent a nascent international opportunity. Palantir's commercial segment has inflected positively after years of underperformance, with the Foundry platform gaining traction in financial services, manufacturing and healthcare. The company achieved GAAP profitability in 2023 and has maintained it since, removing the cash-burn risk that historically discounted the valuation."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (72): AIP-driven platforms (Foundry, Gotham, Apollo) drive revenues above $3bn with a rule-of-40 profile. Government demand expands into NATO allies. PLTR achieves profitability targets sustainably and the stock re-rates toward 100x forward P/E as AI spend peaks. Price: $180+.\n            Base Case (50): PLTR maintains 25\u201330% annual revenue growth as commercial and government deployments scale. Operating leverage improves margins toward 30%+. Competes effectively with Snowflake, Databricks and Booz Allen. EPS grows to $1.20\u2013$1.40. Price: $120\u2013$150.\n            Bear Case (40): AI capital spending slows post-2025. Palantir faces increasing competition from hyperscalers building competing analytics layers. Government procurement cycles lengthen. EPS falls below $0.90. Price: below $90.\n            Weighted Score: 72 \u2014 Bull 72 \u00d7 30% + Base 50 \u00d7 50% + Bear 40 \u00d7 20%",
+      "bull": {
+        "scenario": "Bull Case (72): AIP-driven platforms (Foundry, Gotham, Apollo) drive revenues above $3bn with a rule-of-40 profile. Government demand expands into NATO allies. PLTR achieves profitability targets sustainably and the stock re-rates toward 100x forward P/E as AI spend peaks. Price: $180+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Base Case (50): PLTR maintains 25\u201330% annual revenue growth as commercial and government deployments scale. Operating leverage improves margins toward 30%+. Competes effectively with Snowflake, Databricks and Booz Allen. EPS grows to $1.20\u2013$1.40. Price: $120\u2013$150.",
+        "probability": 30
+      },
+      "bear": {
+        "scenario": "Bear Case (40): AI capital spending slows post-2025. Palantir faces increasing competition from hyperscalers building competing analytics layers. Government procurement cycles lengthen. EPS falls below $0.90. Price: below $90.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Valuation risk: A 203x trailing P/E and estimated 80\u2013100x forward P/E prices in near-perfect execution. Any guidance miss or competitive encroachment by hyperscalers (AWS, Azure, GCP) building competing AI/analytics layers could trigger severe multiple compression."
+        },
+        {
+          "rank": 2,
+          "risk": "Government dependency: A significant portion of revenues derives from US government contracts subject to budget appropriation risk, procurement cycling and political variables."
+        },
+        {
+          "rank": 3,
+          "risk": "Competition from hyperscalers: Snowflake, Databricks, and the major cloud providers are all building AIP-competitive tooling. Sustaining Palantir's pricing power in commercial segments is not guaranteed."
+        },
+        {
+          "rank": 4,
+          "risk": "Commercial scaling risk: The historical underperformance of the commercial segment (2018\u20132023) demonstrates that enterprise sales cycles are long and competitive. Scaling the commercial business globally is not a given."
+        },
+        {
+          "rank": 5,
+          "risk": "Profitability sustainability: While currently GAAP profitable, margins are sensitive to investment cycling. A renewed period of elevated hiring or infrastructure spend could compress margins and disappoint the market."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD. BUY below $100 (approximately 75x forward P/E on base-case EPS \u2014 provides a meaningful margin of safety). Reduce on rallies above $155 (above 115x forward P/E \u2014 excessive for a company with no dividend and competitive uncertainty)."
+    },
+    "entryExit": {
+      "text": "Palantir Technologies Inc (PLTR) \u2014 Entry / Exit Framework\n\nHOLD zone: $117.82\u2013$130.62 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $117.82 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $130.62 \u2014 approaching the 52-week high at $207.52. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $83.76 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 72,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 72,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

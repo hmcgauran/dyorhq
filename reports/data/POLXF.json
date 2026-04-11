@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "POLXF · US",
+    "company": "Polarean Imaging plc",
+    "exchange": "US",
+    "isin": "GB00BF3DT583",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "SELL — SPECULATIVE",
+    "recommendationNote": "SELL — SPECULATIVE",
+    "conviction": 28,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Polarean Imaging is a UK-headquartered medical device company that has developed a proprietary Xenon MRI imaging platform for visualising lung function. The technology enables clinicians to see ventilation defects in the lungs of patients with cystic fibrosis, chronic obstructive pulmonary disease (COPD), and asthma — conditions affecting hundreds of millions of patients globally. Polarean received FDA clearance for its Xenon Gas for Inhalation Lung MRI system in 2019, making it the first and on"
+    },
+    "businessModel": {
+      "text": "Polarean's model involves selling or leasing Xenon gas delivery equipment to hospital radiology departments, combined with proprietary pulse sequence software for existing MRI scanners. The consumables revenue comes from the ongoing supply of isotopically enriched Xenon-129 gas to imaging centres. The company works with major MRI OEM partners to integrate its technology into existing scanner platforms.\n        The key commercial milestones are: (1) gaining coverage in major US hospital systems, (2) securing CPT reimbursement codes that allow hospitals to bill for Xenon MRI procedures, and (3) establishing clinical partnerships that generate published evidence for the technology's diagnostic value in CF, COPD, and asthma. Without adequate reimbursement, hospital adoption will remain slow regardless of clinical merit.\n        The technology has a genuine scientific moat — Xenon MRI for lung ventilation imaging is technically difficult and Polarean holds key patents and know-how in gas administration, pulse sequence design, and image processing. However, a scientific moat does not automatically translate to a commercial one."
+    },
+    "financialSnapshot": {
+      "text": "<p><strong>Live price:</strong> N/A (no live data available from accessible sources at time of publication)<br><strong>Market cap:</strong> ~$20–30M estimated (UK micro-cap, very thin trading)<br><strong>P/E:</strong> N/A (pre-revenue, not yet commercial)<br><strong>EPS:</strong> N/A (loss-making)<br><strong>Note:</strong> Live price, fundamentals, and market cap are unavailable from Finnhub, Alpha Vantage, Yahoo Finance, or Google Finance at time of publication. All figures should be treated as estimated. Verify from LSE or other UK market data source before acting.</p>\n        <p>The absence of live price data is itself a signal — this is a micro-cap with limited institutional coverage and poor data availability. Investors should not commit capital without first verifying current pricing and share register liquidity.</p>\n      </div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "FDA approval (2019): The company's Xenon MRI lung imaging system is FDA-cleared — the only such system in the US. This is the core regulatory asset.\n          CPT reimbursement codes: The coverage and reimbursement landscape for Xenon MRI procedures in the US is still developing. Any positive coverage decision from CMS (Medicare) or major private insurers would be a significant catalyst.\n          Clinical partnerships: Any published clinical evidence validating Xenon MRI's superiority over existing diagnostic pathways in CF or COPD would drive adoption and hospital investment.\n          Capital raise risk: As a pre-commercial company, Polarean will likely need additional equity capital to fund commercial expansion. Any announcement of a fundraising would be dilutive and likely negative for the share price.",
+      "items": [
+        "FDA approval (2019): The company's Xenon MRI lung imaging system is FDA-cleared — the only such system in the US. This is the core regulatory asset.",
+        "CPT reimbursement codes: The coverage and reimbursement landscape for Xenon MRI procedures in the US is still developing. Any positive coverage decision from CMS (Medicare) or major private insurers would be a significant catalyst.",
+        "Clinical partnerships: Any published clinical evidence validating Xenon MRI's superiority over existing diagnostic pathways in CF or COPD would drive adoption and hospital investment.",
+        "Capital raise risk: As a pre-commercial company, Polarean will likely need additional equity capital to fund commercial expansion. Any announcement of a fundraising would be dilutive and likely negative for the share price."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "ScenarioProbabilityPrice TargetKey Drivers\n          Bull15%2x+ currentMajor US hospital adoption; positive CMS reimbursement decision; large pharma partnership for clinical trials; strategic acquisition offer\n          Base50%flat to -30%Slow adoption; continued losses; no major reimbursement decisions; capital raise required; stock drifts\n          Bear35%-50% or moreCapital raise at heavy discount; FDA clinical trial setback; reimbursement rejection; OEM partnership terminates\n        \n        Weighted price target: 15% × 2.00 + 50% × 0.70 + 35% × 0.30 = $0.86 (relative to entry). Conviction: 28/100. SELL.",
+      "bull": {
+        "scenario": "bull-row\">Bull15%2x+ currentMajor US hospital adoption; positive CMS reimbursement decision; large pharma partnership for clinical trials; strategic acquisition offer\n          <tr class=\"",
+        "probability": 15
+      },
+      "base": {
+        "scenario": "base-row\">Base50%flat to -30%Slow adoption; continued losses; no major reimbursement decisions; capital raise required; stock drifts\n          <tr class=\"",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "bear-row\">Bear35%-50% or moreCapital raise at heavy discount; FDA clinical trial setback; reimbursement rejection; OEM partnership terminates\n        \n        Weighted price target: 15% × 2.00 + 50% × 0.70 + 35% × 0.30 = $0.86 (relative to entry). Conviction: 28/100. SELL.",
+        "probability": 35
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1Capital raise risk: As a pre-commercial company, Polarean will need additional funding. Any announcement of a capital raise would likely be deeply dilutive to existing shareholders given the current share price and market cap."
+        },
+        {
+          "rank": 2,
+          "risk": "2Liquidity and data risk: No live price data available — this is a micro-cap with thin trading. The absence of accessible market data means the position size should be very small regardless of the investment thesis."
+        },
+        {
+          "rank": 3,
+          "risk": "3Commercial adoption risk: Hospital adoption of new imaging modalities is notoriously slow. The clinical evidence base needs to develop before widespread adoption can occur."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "SELL — SPECULATIVE. The cystic fibrosis niche is real and the FDA approval is a genuine asset, but the commercial path is long and capital-intensive. Without live price data, accurate conviction scoring is impossible. Verify the current share price and position size before making any decision."
+    },
+    "entryExit": {
+      "text": "Verify price from LSE or UK broker before setting levels.Key triggers: CMS reimbursement decisions, hospital contract announcements, capital raise,.OEM partnership updates.\n      \n\n          \n            Conviction Trend\n            Latest conviction: 28/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0828"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 28,
+      "band": "SELL",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 28,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

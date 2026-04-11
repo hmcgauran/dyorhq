@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "",
+    "company": "LMT",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Aeronautics (F-35, F-16, 35%), Missiles & Fire Control (Patriot, HIMARS, 25%), Rotary & Mission Systems (helicopters, 20%), and Space (satellites, classified, 20%). Primarily fixed-price US Government contracts."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "F-35 Block 4+ standard contract awarded Q3 2025 ($8bn lot 17)\n    AUKUS trilateral agreement creates 12+ yr pipeline for nuclear-powered submarine construction\n    Tritorial Battery II Iron Dome award for Middle East allies ($2.2bn)\n    Classified programme revenue grew 18% FY24, now ~35% of total misson",
+      "items": [
+        "F-35 Block 4+ standard contract awarded Q3 2025 ($8bn lot 17)",
+        "AUKUS trilateral agreement creates 12+ yr pipeline for nuclear-powered submarine construction",
+        "Tritorial Battery II Iron Dome award for Middle East allies ($2.2bn)",
+        "Classified programme revenue grew 18% FY24, now ~35% of total misson"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "74\n      Bull\n    \n    \n      65\n      Base\n    \n    \n      50\n      Bear\n    \n    \n      65\n      Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. DoD budget appropriation risk if US Congress raises debt-ceiling conditions tied to cuts"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Fixed-price F-35 contracts create margin risk on Block 4 complexity overruns"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Space sector programme delays (e.g. NTS-3 satellite) add fixed-cost drag"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Labour cost inflation in maritime sector (Newport News shipyard) compresses margins"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Foreign Military Sales subject to Congressional review \u2014 geopolitical freeze risk"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Lockheed Martin (LMT) \u2014 Entry / Exit Framework\n\nHOLD zone: $564.62\u2013$625.99 \u2014 current levels are fairly valued.\nTrim / Take Profits above $625.99 \u2014 approaching the 52-week high at $692.00.\nStop-loss: A sustained close below $401.91 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

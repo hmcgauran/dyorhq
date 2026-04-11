@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "ticker": "A5G",
+    "company": "AIB Group plc",
+    "exchange": "Euronext Dublin",
+    "isin": "IE00BF0L3536",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T18:30:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 8.85,
+    "formatted": "EUR 8.85",
+    "currency": "EUR"
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "AIB Group plc — Ireland's largest retail bank by assets — earns a REDUCE rating at EUR 8.85 (conviction 45). The shares trade in the upper half of their 52-week range (EUR 7.29–10.02), leaving limited upside and elevated risk as the ECB's rate-cutting cycle compresses net interest margins that expanded powerfully during the hiking phase. The EUR 300m buyback announced Q1 2026 is supportive at the margin but is insufficient to offset structural margin pressure. With no visible re-rating catalyst, the risk/reward at current levels favours reducing exposure rather than accumulating."
+    },
+    "businessModel": {
+      "text": "AIB Group operates Ireland's largest retail banking franchise, servicing approximately 2.8 million customers across a footprint that includes AIB, EBS, and Haven mortgages. The core business is net interest income (NII): AIB earns the spread between what it pays on deposits and what it charges on its mortgage book and SME lending portfolio. The mortgage book — predominantly Irish residential property — is the single largest asset on the balance sheet. SME lending to Irish and UK businesses adds a second income leg alongside fee income from current accounts, credit cards, insurance products, and wealth management (AIB Life JV). AIB competes directly with Bank of Ireland (BOI) and, to a lesser extent, PTSB. BOI has been the more aggressive pricing competitor in mortgages in recent years, consistently undercutting AIB on rate. AIB's market share in Irish mortgages is approximately 25–30%, making it the second-largest player after BOI. The key driver of earnings is the ECB rate cycle: NIM (net interest margin) expanded significantly as the ECB hiked from negative rates to 4.0%+, and the onset of cutting now represents the primary headwind to earnings in the quarters ahead. Cost discipline — AIB has a long-running cost transformation programme — provides partial offset, but cannot substitute for margin recovery."
+    },
+    "financialSnapshot": {
+      "text": "AIB Group sits at a market capitalisation of approximately EUR 19.8bn at EUR 8.85 per share. The P/E and EPS are both unavailable — AIB returned to profitability post its COVID-era restructuring and significant NPL (non-performing loan) disposals, but reported earnings in recent periods have not yet normalised to a level that produces a meaningful P/E, partly due to the residual impact of COVID provisions and restructuring charges. Investors should treat the absence of P/E data as an information gap rather than a positive signal. The 52-week range of EUR 7.29–10.02 (width EUR 2.73) is relatively wide, reflecting the sensitivity of the share price to rate expectations. Today's price of EUR 8.85 opened flat and has held there, suggesting consolidation rather than directional conviction at this level.",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "EUR 8.85"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "EUR 19.8bn"
+        },
+        {
+          "label": "52-Week High",
+          "value": "EUR 10.02"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "EUR 7.29"
+        },
+        {
+          "label": "52-Week Range Width",
+          "value": "EUR 2.73"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "The most concrete near-term catalyst is the EUR 300m share buyback announced in Q1 2026, representing approximately 1.5% of market cap and signalling management confidence in capital adequacy. The buyback provides a modest mechanical support to the share price but is too small to alter fundamental direction. More consequential is the ECB rate-cutting cycle: the ECB cut rates in June 2024 and again in subsequent meetings, and markets are pricing further cuts through 2025–2026. For a bank whose earnings are structurally sensitive to NIM, each 25bp cut compresses the margin stack — particularly on the variable rate mortgage book, which reprices quickly. Separately, the Irish property market is showing early signs of softening: transaction volumes have moderated, and house price inflation, which ran at double-digit rates in 2022–2023, has decelerated to single digits. This matters because Irish residential mortgages represent the primary collateral underpinning AIB's loan book. Any meaningful deterioration in Irish property values increases LTV ratios and, in a stressed scenario, drives NPL formation. CMS (Chief Money and Savings) — the Irish savings behavioural indicator — continues to show elevated deposit churn as customers migrate from sight deposits to term products, compressing NIM further as deposit beta rises."
+    },
+    "thesisEvaluation": {
+      "text": "Bull, Base and Bear scenarios are evaluated on a weighted basis. The Bull scenario (20% weight) assumes the ECB pauses its cutting cycle at or near current rate levels, Irish GDP growth remains resilient, credit quality holds with NPL ratios declining, and AIB re-rates toward a 12x earnings multiple on normalised earnings — supporting a move toward EUR 10+. The limited upside relative to current levels means the Bull is not compelling for new buyers. The Base case (50% weight) assumes a moderate ECB easing path, NIM compression of 20–30bps that is partially offset by volume growth and cost discipline, and flat earnings in EUR terms — keeping the shares range-bound between EUR 8.00 and EUR 9.50. The Base is essentially a 'mark time' scenario with no re-rating. The Bear scenario (30% weight) posits a harder landing in the Irish economy, acceleration of property market softness into a meaningful correction, SME loan book stress, and rising provisions that drive earnings below normalised levels. In this scenario, the shares break below the 52-week low of EUR 7.29, potentially toward EUR 6.50–7.00. The Bear probability is elevated relative to typical for a REDUCE name, reflecting the genuine tail risk inherent in rate-sensitive Irish retail banks.",
+      "bull": {
+        "scenario": "ECB holds at current rate levels; Irish economy resilient; NIM stable; credit quality sustained; AIB re-rates to 12x earnings. Price target EUR 10+.",
+        "probability": 20
+      },
+      "base": {
+        "scenario": "Moderate ECB cuts (20–30bps); NIM compresses partially offset by volumes and costs; flat earnings; shares stay range-bound EUR 8.00–9.50.",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Hard landing in Ireland; property market correction; SME stress; provisions rise; shares break below EUR 7.29 52-week low.",
+        "probability": 30
+      }
+    },
+    "keyRisks": {
+      "text": "The five risks below are ranked by materiality to the AIB investment case specifically — not generic sector risks. The top two risks are rate and property-market driven and are essentially the inverse of the bull case.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "ECB rate cuts compress NIM — This is the defining risk. AIB's earnings are structurally geared to the rate cycle. Every 25bp of ECB cuts reduces NIM on the variable rate mortgage book. With the ECB now in cutting mode, this risk is live and ongoing. The market is pricing 100–150bps of cuts through 2026, which, if realised, would be meaningfully earnings-negative."
+        },
+        {
+          "rank": 2,
+          "risk": "Irish property market deterioration — AIB's loan book is secured against Irish residential property. House price deflation of 10–15% in a stress scenario would increase LTV ratios, push more mortgages into negative equity territory, and likely drive NPL formation. AIB's NPL ratio has normalised to low single digits post its COVID clean-up, but the risk of re-formation is real in a property downturn."
+        },
+        {
+          "rank": 3,
+          "risk": "SME book stress in a slowing economy — Irish SME lending represents a significant portion of AIB's loan book. If domestic demand weakens — particularly in sectors exposed to consumer spending — SME defaults rise. AIB has been building provisions cautiously, but a hard landing scenario is the key stress test for this exposure."
+        },
+        {
+          "rank": 4,
+          "risk": "Competition — BOI continues to price aggressively in the Irish mortgage market. AIB has ceded some market share to BOI in the past 18–24 months as BOI offered lower rates. This competitive pressure suppresses mortgage margins and limits AIB's ability to pass deposit rate increases to customers, which could accelerate deposit churn."
+        },
+        {
+          "rank": 5,
+          "risk": "Capital allocation — The EUR 300m buyback is positive but small. The more material question is whether dividends and buybacks are sustainable if earnings come under pressure from NIM compression. AIB rebuilt its capital position post-COVID (CET1 well above regulatory minimums), but maintaining the current payout ratio in a margin-compression environment requires monitoring."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "AIB is appropriate for investors with a specific macro thesis — specifically, those who believe the ECB cutting cycle will be shallow and the Irish economy will remain resilient, or those who are willing to take profits at the top of the range. It is also suited to income-oriented investors who want a high-yielding Irish bank stock and can tolerate the rate sensitivity. AIB currently carries a dividend yield in the 5–6% range (confirm from latest filings), which is competitive versus government bonds and makes the income case the primary remaining bull argument. It is not suited for investors looking for capital appreciation at this range position, those with negative views on Irish property, or those wanting to avoid rate-sensitive equities in a cutting cycle. Those who bought in the EUR 7.50–7.80 zone (the lower third of the range) have already realised most of the available upside at the current level and should be reducing, not adding."
+    },
+    "recommendation": {
+      "text": "REDUCE — Conviction: 45/100. AIB Group plc is Ireland's largest retail bank, but at EUR 8.85 (57% up the 52-week range), the risk/reward no longer justifies new accumulation. The ECB rate-cutting cycle is a structural headwind for NIM, Irish property markets are showing early softness, and the EUR 300m buyback — while welcome — is insufficient to offset margin pressure. No re-rating catalyst is visible. Existing holders should trim on strength; new investors should wait for a pullback to EUR 7.50–7.80 before considering entry."
+    },
+    "entryExit": {
+      "text": "**Entry / Exit Framework — AIB Group plc (A5G)**\n*Current Price: EUR 8.85 | 52-Week Range: EUR 7.29–10.02 | REDUCE | Conviction: 45/100*\n\n**Current Range Position:** 57% of the 52-week range from the low — upper half of the range. Not a pullback entry; this is a trim/exit zone.\n\n\n**Entry Zone: EUR 7.50–7.80**\nThis is the lower third of the 52-week range — approximately 10–15% below the 52-week low of EUR 7.29. This zone offers meaningful cushion and a better risk/reward for new positions. Only consider initiating here.\n\n**Stop Loss: EUR 7.00**\nA break below the 52-week low of EUR 7.29 signals a more serious deterioration — likely Irish property stress or a more aggressive ECB cutting cycle — and warrants full exit. EUR 7.00 provides a small buffer below the 52-week low.\n\n**Target 1: EUR 9.47**\nThe 80th percentile of the 52-week range (calculated: 7.29 + 0.8 × 2.73). This is a trim zone, not a conviction buy. Existing holders should reduce 50% of the position here and reassess the macro thesis before holding further.\n\n**Target 2: EUR 10.02 (52-Week High — EXIT target, not further upside)**\nThis is the upper boundary of the 52-week range and the limit of the documented upside. Given the REDUCE rating, EUR 10.02 is an exit target: close the remaining position or use it as a full position exit. Do not hold through a test of the 52-week high on a REDUCE name without a fundamental re-rating. There is no documented upside beyond EUR 10.02 in this framework.\n\n\n**Summary:** REDUCE means reduce on strength. Do not add at EUR 8.85. The buy-the-dip playbook does not apply until price reaches EUR 7.50–7.80."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets). Fields: price (EUR 8.85), market cap (EUR 19.8bn), 52-week range (EUR 7.29–10.02), P/E (N/A), EPS (N/A), today's range (open/high/low EUR 8.85).",
+      "companyFilings": "AIB Group plc Annual Report & Financial Statements 2023; AIB Group plc Half-Yearly Financial Report H1 2024; AIB Capital Markets Day investor materials. Regulatory announcements via Euronext Dublin RNS.",
+      "additional": [
+        "European Central Bank rate decision history and ECB Governing Council communications (ecb.europa.eu)",
+        "Central Bank of Ireland — Irish mortgage market data and residential property price indices",
+        "Central Statistics Office (CSO) Ireland — GDP, consumer spending, and housing statistics"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

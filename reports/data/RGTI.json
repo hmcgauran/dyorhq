@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "ticker": "RGTI",
+    "company": "Rigetti Computing Inc",
+    "exchange": "US",
+    "isin": "US76655K1034",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "REDUCE — SPECULATIVE",
+    "recommendationNote": "REDUCE — SPECULATIVE",
+    "conviction": 46,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Rigetti is another listed quantum name trading on future possibility rather than current economics. At $14.36 with a market cap near $4.6B and negative EPS, the valuation still reflects thematic enthusiasm more than operating proof.Bottom line: REDUCE — SPECULATIVE. Quantum optionality is real, but the equity is still too dependent on sentiment and future milestones."
+    },
+    "businessModel": {
+      "text": "Rigetti develops quantum computing systems and related services. The attraction is exposure to a potentially transformational computing platform. The challenge is that commercial adoption remains early and architecture competition remains unresolved."
+    },
+    "financialSnapshot": {
+      "text": "<p><strong>Live price:</strong> $14.36<br><strong>Market cap:</strong> $4.6B<br><strong>Day range:</strong> $14.14 – $15.41<br><strong>P/E:</strong> N/A<br><strong>EPS:</strong> -$0.67<br><strong>Beta:</strong> 1.82</p></div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Quantum sector enthusiasm remains the main sentiment driver.Technical milestones matter, but monetisation remains sparse.These names rerate on narrative faster than fundamentals.",
+      "items": [
+        "Quantum sector enthusiasm remains the main sentiment driver.",
+        "Technical milestones matter, but monetisation remains sparse.",
+        "These names rerate on narrative faster than fundamentals."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%): quantum adoption accelerates and Rigetti captures meaningful credibility.Base (45%): thematic support persists but commercial reality lags.Bear (30%): sentiment cools and the stock derates sharply.Weighted conviction: 46/100.",
+      "bull": {
+        "scenario": "Bull (25%): quantum adoption accelerates and Rigetti captures meaningful credibility.",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "Base (45%): thematic support persists but commercial reality lags.",
+        "probability": 45
+      },
+      "bear": {
+        "scenario": "Bear (30%): sentiment cools and the stock derates sharply.",
+        "probability": 30
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Commercialisation risk: demand may remain shallow."
+        },
+        {
+          "rank": 2,
+          "risk": "Technology risk: no guarantee Rigetti’s path wins."
+        },
+        {
+          "rank": 3,
+          "risk": "Valuation risk: still priced on future possibility."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "REDUCE — SPECULATIVE at $14.36. Interesting theme, poor valuation support."
+    },
+    "entryExit": {
+      "text": "Below $10: more interesting speculative entry$10–$15: speculative zone onlyKey trigger: real commercial adoption signals\n            Conviction Trend\n            Latest conviction: 46/100. Trend versus prior report: Flat.\n            \n              \n                    \n                \n                \n                0 25 50 75 100\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0846"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 46,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 46,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}
