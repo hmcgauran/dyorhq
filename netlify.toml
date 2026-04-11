@@ -1,0 +1,3 @@
+[build]
+  command = "echo 'build'"
+  publish = "public"
