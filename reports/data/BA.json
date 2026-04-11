@@ -5,15 +5,15 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "SELL",
     "recommendationNote": "SELL",
     "conviction": 44,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "sp100",
-      "watchlist",
-      "fortune100"
+      "fortune100",
+      "watchlist"
     ]
   },
   "price": {
@@ -31,10 +31,10 @@
       "text": "Boeing's operational and cultural crisis — following the 737 MAX accidents, production quality failures and the 2024 door plug blowout on Alaska Airlines Flight 1282 — has materially impaired the franchise, and the 88x trailing P/E is meaningless on deeply depressed near-term earnings — SELL is the weighted recommendation."
     },
     "businessModel": {
-      "text": "Boeing designs, manufactures and services commercial jetliners (737, 747, 767, 777, 787 Dreamliner), military aircraft (F-15, F/A-18, KC-46 tanker, T-7 trainer, MV-22 Osprey) and space systems (Space Launch System, Starliner capsule, satellite systems). The commercial aeronautics business (BCA — Boeing Commercial Airplanes) accounts for approximately 35–40% of revenues and is the highest-margin segment when operating normally. Boeing Defense, Space & Security (BDS) provides defence platform stability.\n            The core problem is BCA: Boeing has been unable to produce aircraft at the rate and quality standard required by airlines. The 737 MAX fleet is grounded or operating under scrutiny in multiple markets, and production rates have been capped by the FAA at 38 per month — well below the 52 per month originally planned. The 787 Dreamliner has also faced quality review. Boeing's labour force has been reduced and upskilled following the post-MAX hiring surge, but quality control systems remain under regulatory scrutiny. The commercial aircraft aftermarket (spare parts, MRO) provides revenue stability but cannot offset delivery shortfalls."
+      "text": "Boeing designs, manufactures and services commercial jetliners (737, 747, 767, 777, 787 Dreamliner), military aircraft (F-15, F/A-18, KC-46 tanker, T-7 trainer, MV-22 Osprey) and space systems (Space Launch System, Starliner capsule, satellite systems). The commercial aeronautics business (BCA — Boeing Commercial Airplanes) accounts for approximately 35–40% of revenues and is the highest-margin segment when operating normally. Boeing Defense, Space & Security (BDS) provides defence platform stability. The core problem is BCA: Boeing has been unable to produce aircraft at the rate and quality standard required by airlines. The 737 MAX fleet is grounded or operating under scrutiny in multiple markets, and production rates have been capped by the FAA at 38 per month — well below the 52 per month originally planned. The 787 Dreamliner has also faced quality review. Boeing's labour force has been reduced and upskilled following the post-MAX hiring surge, but quality control systems remain under regulatory scrutiny. The commercial aircraft aftermarket (spare parts, MRO) provides revenue stability but cannot offset delivery shortfalls."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -66,22 +66,22 @@
       "text": "Boeing's operational crisis has continued: the January 2024 Alaska Airlines door plug blowout resulted in an FAA audit that capped 737 MAX production and placed Boeing under heightened regulatory oversight. CEO Dave Calhoun announced his resignation and a structural reorganisation is underway. The company raised $10 billion in equity in early 2024 to bolster its balance sheet — a significant dilutive event. The Starliner capsule finally achieved its first crewed test flight to the ISS in May 2024, a rare positive. The 737 MAX 7 and 737 MAX 10 certification delays have persisted, leaving the family incomplete. The Space Launch System continues to be Boeing's primary NASA human spaceflight vehicle, but delays and cost overruns are chronic."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (70): New leadership stabilises the production system. FAA removes the 737 production rate cap. 737 MAX 10 certification enables completion of the family. Airlines resume placing orders at scale. Cash generation recovers. EPS reaches $6.00+. Price: $280+.\n            Base Case (50): Production rate caps persist through 2026. Quality improvements are gradual. 737 MAX 10 certification slips into 2027. Airlines receive fewer deliveries than contracted, triggering compensation claims. Boeing raises additional capital. EPS remains in the $2.50–$3.50 range. Price: $195–$230.\n            Bear Case (30): Another safety incident or production failure triggers an extended FAA grounding or a major customer cancel orders. Balance sheet deterioration requires government or equity rescue financing. Defence budget cuts affect BDS. Stock trades below $150.\n            Weighted Score: 44 — Bull 70 × 30% + Base 50 × 50% + Bear 30 × 20%",
+      "text": "Bull Case (70): New leadership stabilises the production system. FAA removes the 737 production rate cap. 737 MAX 10 certification enables completion of the family. Airlines resume placing orders at scale. Cash generation recovers. EPS reaches $6.00+. Price: $280+. Base Case (50): Production rate caps persist through 2026. Quality improvements are gradual. 737 MAX 10 certification slips into 2027. Airlines receive fewer deliveries than contracted, triggering compensation claims. Boeing raises additional capital. EPS remains in the $2.50–$3.50 range. Price: $195–$230. Bear Case (30): Another safety incident or production failure triggers an extended FAA grounding or a major customer cancel orders. Balance sheet deterioration requires government or equity rescue financing. Defence budget cuts affect BDS. Stock trades below $150. Weighted Score: 44 — Bull 70 × 30% + Base 50 × 50% + Bear 30 × 20%",
       "bull": {
-        "scenario": "Bull Case (70): New leadership stabilises the production system. FAA removes the 737 production rate cap. 737 MAX 10 certification enables completion of the family. Airlines resume placing orders at scale. Cash generation recovers. EPS reaches $6.00+. Price: $280+.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (50): Production rate caps persist through 2026. Quality improvements are gradual. 737 MAX 10 certification slips into 2027. Airlines receive fewer deliveries than contracted, triggering compensation claims. Boeing raises additional capital. EPS remains in the $2.50–$3.50 range. Price: $195–$230.",
-        "probability": null
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (30): Another safety incident or production failure triggers an extended FAA grounding or a major customer cancel orders. Balance sheet deterioration requires government or equity rescue financing. Defence budget cuts affect BDS. Stock trades below $150.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Production quality and safety recurrence: Any additional safety incident or quality failure (door plug repeat, engine failure, software fault) would likely trigger an immediate FAA production freeze, ",
+      "text": "Production quality and safety recurrence: Any additional safety incident or quality failure (door plug repeat, engine failure, software fault) would likely trigger an immediate FAA production freeze, customer cancellations and potentially existential reputational damage. FAA regulatory oversight: Boeing is under the most intensive regulatory scrutiny in its history. The FAA has stated it will not lift production caps until satisfied with Boeing's quality systems — a timeline entirely outside management control. Customer and competitive position: Airbus is sold out through 2030+ and is the primary beneficiary of Boeing's crisis. Airlines unable to get Boeing deliveries are forced to the Airbus waiting list or secondary market. Boeing risks permanent market share loss. Balance sheet and cash burn: Boeing has negative free cash flow and has already raised $10 billion in equity. Further capital raises would be dilutive. The defence business provides some cash flow buffer, but is not sufficient to sustain the commercial business alone. Labour and manufacturing culture: Boeing's workforce has been restructured multiple times. The cultural and quality control issues identified by the FAA are systemic, not easily fixed by process documents. Restoring manufacturing excellence will take years.",
       "risks": [
         {
           "rank": 1,
@@ -106,13 +106,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Speculative investors who believe in a turnaround and are comfortable with binary outcomes. The stock has historically been a recovery play with significant short-term volatility. Not suitable for risk-aware investors. Avoiders: Virtually all other investors. The risk-reward is asymmetric and binary. The franchise value has been materially impaired, and there is no clear visibility on when normalised earnings will return. Airbus, Safran and Collins Aerospace are cleaner ways to play commercial aerospace."
+      "text": "Own: Speculative investors who believe in a turnaround and are comfortable with binary outcomes. The stock has historically been a recovery play with significant short-term volatility. Not suitable for risk-aware investors."
     },
     "recommendation": {
-      "text": "SELL. Boeing is not investable at current levels for risk-aware investors. The 88x P/E on depressed earnings is misleading — the real story is the operational and cultural destruction of a once-great industrial franchise. The path to normalised earnings is years away and dependent on regulatory goodwill that cannot be assumed. Avoid or exit.\n            Entry framework: Only consider BUY below $140 (discounting significant further deterioration and providing meaningful long-term value if the production recovery materialises in 3–5 years). Above $240, the market is pricing near-complete normalisation that has not been earned."
+      "text": "SELL. Boeing is not investable at current levels for risk-aware investors. The 88x P/E on depressed earnings is misleading — the real story is the operational and cultural destruction of a once-great industrial franchise. The path to normalised earnings is years away and dependent on regulatory goodwill that cannot be assumed. Avoid or exit. Entry framework: Only consider BUY below $140 (discounting significant further deterioration and providing meaningful long-term value if the production recovery materialises in 3–5 years). Above $240, the market is pricing near-complete normalisation that has not been earned."
     },
     "entryExit": {
-      "text": "Only consider BUY below $140 (discounting significant further deterioration and providing meaningful long-term value if the production recovery materialises in 3–5 years). Above $240, the market is pricing near-complete normalisation that has not been earned."
+      "text": "Only consider BUY below $140 (discounting significant further deterioration and providing meaningful long-term value if the production recovery materialises in 3–5 years). Above $240, the market is pricing near-complete normalisation that has not been earned. | Entry framework: Only consider BUY below $140 (discounting significant further deterioration and providing meaningful long-term value if the production recovery materialises in 3–5 years)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -125,13 +125,13 @@
     "current": {
       "score": 44,
       "band": "SELL",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 44,
         "band": "SELL",
         "delta": "0",

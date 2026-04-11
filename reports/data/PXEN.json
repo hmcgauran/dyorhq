@@ -20,17 +20,17 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "Prospex is a small-cap European gas story, which means the equity case can work when production and pricing line up, but it remains vulnerable to liquidity, operational and funding shocks. At 3.40p on the latest live pull, the shares still sit firmly in speculative territory. The attraction is obvious, gas-linked cash flow optionality from a tiny base. So is the risk.Bottom line: HOLD — SPECULATIVE. Interesting only for investors who are comfortable with small-cap energy volatility and thin marg"
+      "text": "Prospex is a small-cap European gas story, which means the equity case can work when production and pricing line up, but it remains vulnerable to liquidity, operational and funding shocks. At 3.40p on the latest live pull, the shares still sit firmly in speculative territory. The attraction is obvious, gas-linked cash flow optionality from a tiny base. So is the risk. Bottom line: HOLD — SPECULATIVE . Interesting only for investors who are comfortable with small-cap energy volatility and thin ma"
     },
     "businessModel": {
-      "text": "Prospex invests in and develops European gas and power-related assets. The equity story depends on project interests converting into dependable production, cash generation and reserve value that the market believes.That makes it very different from a diversified energy major. This is a concentrated, small-cap operating and financing story."
+      "text": "Prospex invests in and develops European gas and power-related assets. The equity story depends on project interests converting into dependable production, cash generation and reserve value that the market believes. That makes it very different from a diversified energy major. This is a concentrated, small-cap operating and financing story."
     },
     "financialSnapshot": {
-      "text": "<p><strong>Live price:</strong> 3.40p<br><strong>Latest live range available:</strong> 3.40p – 3.40p<br><strong>Latest live volume:</strong> 100,000 shares<br><strong>P/E:</strong> unavailable on current live pull<br><strong>EPS:</strong> unavailable on current live pull</p><p>The live quote was thin, which is a useful reminder that liquidity matters here as much as fundamentals.</p></div>",
+      "text": "Live price: 3.40p Latest live range available: 3.40p – 3.40p Latest live volume: 100,000 shares P/E: unavailable on current live pull EPS: unavailable on current live pull The live quote was thin, which is a useful reminder that liquidity matters here as much as fundamentals.",
       "table": []
     },
     "recentCatalysts": {
-      "text": "European gas exposure remains the central economic driver.Any operational update on production, development or reserves would move the shares disproportionately.Small-cap energy names remain highly sensitive to sentiment around commodity prices and funding.",
+      "text": "European gas exposure remains the central economic driver. Any operational update on production, development or reserves would move the shares disproportionately. Small-cap energy names remain highly sensitive to sentiment around commodity prices and funding.",
       "items": [
         "European gas exposure remains the central economic driver.",
         "Any operational update on production, development or reserves would move the shares disproportionately.",
@@ -38,22 +38,22 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): production and realised pricing stay supportive, and the market rerates the shares on cash flow credibility.Base (50%): progress remains uneven, with the stock trading as a niche speculative energy name.Bear (25%): operational or market setbacks quickly hit valuation because the business lacks scale.Weighted conviction: 58/100.",
+      "text": "Bull (25%): production and realised pricing stay supportive, and the market rerates the shares on cash flow credibility. Base (50%): progress remains uneven, with the stock trading as a niche speculative energy name. Bear (25%): operational or market setbacks quickly hit valuation because the business lacks scale. Weighted conviction: 58/100.",
       "bull": {
-        "scenario": "Bull (25%): production and realised pricing stay supportive, and the market rerates the shares on cash flow credibility.",
+        "scenario": "",
         "probability": 25
       },
       "base": {
-        "scenario": "Base (50%): progress remains uneven, with the stock trading as a niche speculative energy name.",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear (25%): operational or market setbacks quickly hit valuation because the business lacks scale.",
+        "scenario": "",
         "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Liquidity risk: thin trading can distort price action and trap holders. Operational concentration: too much depends on a small number of assets. Commodity sensitivity: gas prices and local market cond",
+      "text": "Liquidity risk: thin trading can distort price action and trap holders. Operational concentration: too much depends on a small number of assets. Commodity sensitivity: gas prices and local market conditions matter disproportionately.",
       "risks": [
         {
           "rank": 1,
@@ -76,7 +76,7 @@
       "text": "HOLD — SPECULATIVE at 3.40p. There is enough asset-level upside to keep it on the board, but not enough certainty to treat it as high conviction."
     },
     "entryExit": {
-      "text": "Below 3.0p: more interesting speculative entry3.0p–3.8p: hold zoneAbove 4.2p without better operating evidence: trimKey trigger: clear operating delivery and stronger production visibility\n\n          \n            Conviction Trend\n            Latest conviction: 58/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0858"
+      "text": "Below 3.0p: more interesting speculative entry 3.0p–3.8p: hold zone Above 4.2p without better operating evidence: trim Key trigger: clear operating delivery and stronger production visibility Conviction Trend Latest conviction: 58/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 58"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -84,7 +84,11 @@
       "additional": [
         "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
         "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price 3.40p",
+        "Day High 3.40p",
+        "Day Low 3.40p",
+        "Volume 100,000"
       ],
       "literature": []
     }

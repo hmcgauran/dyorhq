@@ -1,11 +1,11 @@
 {
   "meta": {
-    "ticker": "",
+    "ticker": "NOC",
     "company": "NOC",
     "exchange": "",
     "isin": "",
     "date": "",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 66,
@@ -29,7 +29,7 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Sentinel (GBSD) ICBM programme: $75bn+ contract; production lines fully funded FY26\n    B-21 Raider: Low-rate initial production underway; 5 test aircraft in flight\n    Classified space intelligence programme revenue grew 22% FY24\n    NASA Artemis III lunar programme: $3.4bn contract award for EGS lunar terrain vehicle",
+      "text": "Sentinel (GBSD) ICBM programme: $75bn+ contract; production lines fully funded FY26 B-21 Raider: Low-rate initial production underway; 5 test aircraft in flight Classified space intelligence programme revenue grew 22% FY24 NASA Artemis III lunar programme: $3.4bn contract award for EGS lunar terrain vehicle",
       "items": [
         "Sentinel (GBSD) ICBM programme: $75bn+ contract; production lines fully funded FY26",
         "B-21 Raider: Low-rate initial production underway; 5 test aircraft in flight",
@@ -38,7 +38,7 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "76\n      Bull\n    \n    \n      67\n      Base\n    \n    \n      50\n      Bear\n    \n    \n      66\n      Conviction",
+      "text": "76 Bull 67 Base 50 Bear 66 Conviction",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "1. Single-prime supplier status creates political scrutiny (anti-competitive concerns) 2. Sentinel programme technical complexity: first test launch delayed to FY27 3. Fire-sale of VSMPOL space system",
+      "text": "1. Single-prime supplier status creates political scrutiny (anti-competitive concerns) 2. Sentinel programme technical complexity: first test launch delayed to FY27 3. Fire-sale of VSMPOL space systems division (divested Q4 FY24) — signals management uncertainty 4. DoD budget sensitivity: space spending competes with shipbuilding for appropriations 5. Labour and materials inflation on fixed-price contracts constrains margin improvement",
       "risks": [
         {
           "rank": 1,
@@ -84,7 +84,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "Northrop Grumman (NOC) — Entry / Exit Framework\n\nHOLD zone: $619.83–$687.2 — current levels are fairly valued.\nTrim / Take Profits above $687.2 — approaching the 52-week high at $774.00.\nStop-loss: A sustained close below $441.13 (52-week low) would warrant reassessment."
+      "text": "Position build $610–$650. HOLD $650–$720. REDUCE above $720. Monitor: Sentinel ICBM test schedule and B-21 LRIP lot 18 contract award. | BUY: Position build $610–$650. | REDUCE above $720."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -97,13 +97,13 @@
     "current": {
       "score": 66,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 66,
         "band": "HOLD",
         "delta": "0",

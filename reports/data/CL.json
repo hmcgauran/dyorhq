@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 68,
@@ -22,32 +22,32 @@
       "text": "Colgate-Palmolive is a defensive consumer staples giant with dominant market share in oral care globally, but faces structural headwinds from private label competition and category deceleration in emerging markets; HOLD at $84.34."
     },
     "businessModel": {
-      "text": "Colgate-Palmolive develops, manufactures, and markets consumer products globally. Key revenue streams:\n          \n            Oral Care ( Toothpaste, toothbrushes, mouthwash): ~45% of revenue; globally dominant brand with #1 or #2 market share in most countries. Highly profitable, defensive.\n            Personal Care (Soap, deodorant, shavers): ~20% of revenue; includes Palmolive, Softsoap, and Hill's Pet Nutrition.\n            Home Care (Dish soap, fabric softener): ~18% of revenue; includes Palmolive and Ajax brands.\n            Pet Nutrition (Hill's Science Diet): ~17% of revenue; premium pet food with strong veterinary channel franchise.\n          \n          The model is defensive by design: high household penetration, frequent purchase cycles, pricing power through brand equity, and geographic diversification across 200+ countries."
+      "text": "Colgate-Palmolive develops, manufactures, and markets consumer products globally. Key revenue streams: Oral Care ( Toothpaste, toothbrushes, mouthwash): ~45% of revenue; globally dominant brand with #1 or #2 market share in most countries. Highly profitable, defensive. Personal Care (Soap, deodorant, shavers): ~20% of revenue; includes Palmolive, Softsoap, and Hill's Pet Nutrition. Home Care (Dish soap, fabric softener): ~18% of revenue; includes Palmolive and Ajax brands. Pet Nutrition (Hill's Science Diet): ~17% of revenue; premium pet food with strong veterinary channel franchise. The model is defensive by design: high household penetration, frequent purchase cycles, pricing power through brand equity, and geographic diversification across 200+ countries."
     },
     "financialSnapshot": {
-      "text": "</section>\n\n        <!-- 4. Recent Catalysts -->\n        <section class=\"report-section\">",
+      "text": "",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (30% weight)\n              Emerging market volumes fully recover; innovation pipeline (VCOL, premium toothpaste) drives share gains; margin expansion from efficiency savings; EPS grows to $3.40+.\n              Target: $105–115\n            \n            \n              Base Case (50% weight)\n              Low-single-digit organic growth sustained; margin holds despite input inflation; dividend grows modestly; EPS ~$2.95.\n              Target: $82–90\n            \n            \n              Bear Case (20% weight)\n              Private label share gains in emerging markets accelerate; input cost inflation resurfaces; H2 revenue disappoints; EPS falls to $2.40.\n              Target: $62\n            \n          \n          \n            Weighted Conviction Score:\n            68 / 100 — HOLD",
+      "text": "Bull Case (30% weight) Emerging market volumes fully recover; innovation pipeline (VCOL, premium toothpaste) drives share gains; margin expansion from efficiency savings; EPS grows to $3.40+. Target: $105–115 Base Case (50% weight) Low-single-digit organic growth sustained; margin holds despite input inflation; dividend grows modestly; EPS ~$2.95. Target: $82–90 Bear Case (20% weight) Private label share gains in emerging markets accelerate; input cost inflation resurfaces; H2 revenue disappoints; EPS falls to $2.40. Target: $62 Weighted Conviction Score: 68 / 100 — HOLD",
       "bull": {
-        "scenario": "Bull Case (30% weight)\n              Emerging market volumes fully recover; innovation pipeline (VCOL, premium toothpaste) drives share gains; margin expansion from efficiency savings; EPS grows to $3.40+.\n              Target: $105–115\n            \n            <div class=\"scenario-card scenario-",
-        "probability": 30
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (50% weight)\n              Low-single-digit organic growth sustained; margin holds despite input inflation; dividend grows modestly; EPS ~$2.95.\n              Target: $82–90\n            \n            <div class=\"scenario-card scenario-",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (20% weight)\n              Private label share gains in emerging markets accelerate; input cost inflation resurfaces; H2 revenue disappoints; EPS falls to $2.40.",
-        "probability": 20
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Emerging market exposure: ~50% of revenue from high-growth markets where economic slowdowns hit volumes and private label penetration increases. FX headwinds compound. Private label competition: In ma",
+      "text": "Emerging market exposure: ~50% of revenue from high-growth markets where economic slowdowns hit volumes and private label penetration increases. FX headwinds compound. Private label competition: In mature and emerging markets alike, store-brand toothpaste and soap products capture share during consumer belt-tightening. Commodity input costs: Oil-derived surfactants and packaging materials mean raw material inflation can pressure margins without full pricing pass-through. Innovation risk: Maintaining premium pricing requires continuous product innovation; failed launches in key categories can lead to lasting share loss. Category stagnation: Oral care and soap categories are mature and growing slowly; long-term volume growth is limited without geographic or category expansion.",
       "risks": [
         {
           "rank": 1,
@@ -72,13 +72,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Own It Defensive income investors seeking a 2.3% yield with consumer staples pricing power and long dividend growth history. Portfolio insurers looking for low-beta, high-quality businesses to hedge equity exposure. Those who believe emerging market consumer recovery will drive a rerating from current depressed multiples. Avoid It Growth-oriented investors — structurally slow growth limits capital appreciation. Value investors — 30.8x P/E leaves little margin of safety; premium to market warrants caution. Those expecting rapid margin expansion — the cost-cutting programme is real but has natural limits."
+      "text": "Own It:\n• Defensive income investors seeking a 2.3% yield with consumer staples pricing power and long dividend growth history.\n• Portfolio insurers looking for low-beta, high-quality businesses to hedge equity exposure.\n• Those who believe emerging market consumer recovery will drive a rerating from current depressed multiples.\n\nAvoid It:\n• Growth-oriented investors — structurally slow growth limits capital appreciation.\n• Value investors — 30.8x P/E leaves little margin of safety; premium to market warrants caution.\n• Those expecting rapid margin expansion — the cost-cutting programme is real but has natural limits."
     },
     "recommendation": {
-      "text": "HOLD\n            Defensive brand quality and pet nutrition growth are compelling, but 30.8x P/E with low-single-digit growth leaves limited near-term upside; wait for a better entry below $76.\n          \n          \n            Entry / Exit Framework\n            \n              Conviction Score68 / 100 — HOLD\n              EntryBelow $78 — better relative value\n              AddBelow $70 — high conviction defensive entry\n              Reduce / ExitAbove $98 — full valuation for a slow grower\n              Time Horizon24–48 months"
+      "text": "HOLD Defensive brand quality and pet nutrition growth are compelling, but 30.8x P/E with low-single-digit growth leaves limited near-term upside; wait for a better entry below $76. Entry / Exit Framework Conviction Score 68 / 100 — HOLD Entry Below $78 — better relative value Add Below $70 — high conviction defensive entry Reduce / Exit Above $98 — full valuation for a slow grower Time Horizon 24–48 months"
     },
     "entryExit": {
-      "text": "Conviction Score: 68 / 100 — HOLD\nEntry: Below $78 — better relative value\nAdd: Below $70 — high conviction defensive entry\nReduce / Exit: Above $98 — full valuation for a slow grower\nTime Horizon: 24–48 months"
+      "text": "Entry / Exit Framework Conviction Score 68 / 100 — HOLD Entry Below $78 — better relative value Add Below $70 — high conviction defensive entry Reduce / Exit Above $98 — full valuation for a slow grower Time Horizon 24–48 months Sources Live market data via DYOR HQ data pipeline Colgate-Palmolive public filings, earnings releases, and investor presentations Nielsen and IRI market share data S&amp;P Capital IQ estimates Report generated 11 April 2026. For informational purposes only. Not financial advice."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -91,13 +91,13 @@
     "current": {
       "score": 68,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 68,
         "band": "HOLD",
         "delta": "0",

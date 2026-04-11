@@ -5,10 +5,10 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
-    "conviction": 50,
+    "conviction": 66,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -29,7 +29,7 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "Cocoa prices have moderated from 2024 peaks but remain elevated, creating a challenging input cost environment that requires continued pricing discipline. The company has taken significant list price increases in chocolate globally, with some volume elasticity offset by brand loyalty. In emerging markets, urbanisation and middle-class growth continue to expand addressable markets for biscuits and chocolate. Recent quarterly results showed low-single-digit organic revenue growth, in line with guidance. The company is investing in cost-efficiency programmes (analytic-driven revenue growth management, supply chain optimisation) to protect margins. Productivity savings of $500m+ are targeted through 2028. No major M&A is currently flagged as a strategic priority."
     },
     "thesisEvaluation": {
       "text": "Bul Reports / MDLZ MDLZ Mondelez International, Inc. HOLD 11 April 2026 $$59.00 66 Conviction out of 100 >",
@@ -47,41 +47,41 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "#1 Cocoa and input cost volatility: Cocoa futures remain elevated. Any further supply disruption (West African crop failure, El Nino effects) could materially compress margins without sufficient pricing offset. #2 Consumer staples valuation ceiling: Large-cap consumer staples typically de-rate versus the broader market during periods of sustained inflation and interest rate pressure. The P/E for the sector compresses in this environment. #3 Volume elasticity risk: Price increases in chocolate and biscuits, particularly in price-sensitive emerging markets and US inner-city demographics, create volume risk as consumers trade down or reduce purchase frequency. #4 Geopolitical and currency exposure: Operations in Russia, Turkey, Argentina and Egypt create FX and regulatory risk. Political pressure on food pricing in EM markets can cap pricing power. #5 Competitive intensity in biscuits: Bimbo (Mexico) and local biscuit manufacturers in Asia and Africa are aggressive competitors in key growth markets.",
       "risks": [
         {
           "rank": 1,
-          "risk": "Cocoa and input cost volatility:: Cocoa futures remain elevated. Any further supply disruption (West African crop failure, El Nino effects) could materially compress margins without sufficient pricing offset."
+          "risk": "#1 Cocoa and input cost volatility: Cocoa futures remain elevated. Any further supply disruption (West African crop failure, El Nino effects) could materially compress margins without sufficient pricing offset."
         },
         {
           "rank": 2,
-          "risk": "Consumer staples valuation ceiling:: Large-cap consumer staples typically de-rate versus the broader market during periods of sustained inflation and interest rate pressure. The P/E for the sector compresses in this environment."
+          "risk": "#2 Consumer staples valuation ceiling: Large-cap consumer staples typically de-rate versus the broader market during periods of sustained inflation and interest rate pressure. The P/E for the sector compresses in this environment."
         },
         {
           "rank": 3,
-          "risk": "Volume elasticity risk:: Price increases in chocolate and biscuits, particularly in price-sensitive emerging markets and US inner-city demographics, create volume risk as consumers trade down or reduce purchase frequency."
+          "risk": "#3 Volume elasticity risk: Price increases in chocolate and biscuits, particularly in price-sensitive emerging markets and US inner-city demographics, create volume risk as consumers trade down or reduce purchase frequency."
         },
         {
           "rank": 4,
-          "risk": "Geopolitical and currency exposure:: Operations in Russia, Turkey, Argentina and Egypt create FX and regulatory risk. Political pressure on food pricing in EM markets can cap pricing power."
+          "risk": "#4 Geopolitical and currency exposure: Operations in Russia, Turkey, Argentina and Egypt create FX and regulatory risk. Political pressure on food pricing in EM markets can cap pricing power."
         },
         {
           "rank": 5,
-          "risk": "Competitive intensity in biscuits:: Bimbo (Mexico) and local biscuit manufacturers in Asia and Africa are aggressive competitors in key growth markets."
+          "risk": "#5 Competitive intensity in biscuits: Bimbo (Mexico) and local biscuit manufacturers in Asia and Africa are aggressive competitors in key growth markets."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": "Mondelez benefits from structural pricing power and emerging-market snacking growth, but cocoa headwinds and US macro pressure on consumer staples leave little near-term re-rating potential --  HOLD . Mondelez International is one of the world's largest snack food companies, with iconic brands including Oreo biscuits, Cadbury chocolate, Trident gum, Chipsy (Egypt), local chocolate brands across Central/Eastern Europe, and Tang powdered beverages. The company operates across four segments: Biscuits (Europe, North America, EMA), Chocolate (worldwide), Gum/Body, and Cheese/Cereal. Revenue is split approximately 60% biscuits/chocolate and 40% other snacks. Geographic exposure: North America (~25%), Europe (~30%), Emerging Markets (~40%). The business is characterised by strong brand equity enabling regular price increases, a high proportion of everyday affordability products (lower cyclically), and significant free cash flow generation that funds share buybacks and a growing dividend. Cocoa prices have moderated from 2024 peaks but remain elevated, creating a challenging input cost environment that requires continued pricing discipline. The company has taken significant list price increases in chocolate globally, with some volume elasticity offset by brand loyalty. In emerging markets, urbanisation and middle-class growth continue to expand addressable markets for biscuits and chocolate. Recent quarterly results showed low-single-digit organic revenue growth, in line with guidance. The company is investing in cost-efficiency programmes (analytic-driven revenue growth management, supply chain optimisation) to protect margins. Productivity savings of $500m+ are targeted through 2028. No major M&A is currently flagged as a strategic priority. Mondelez benefits from structural pricing power and emerging-market snacking growth, but cocoa headwinds and US macro pressure on consumer staples leave little near-term re-rating potential --  HOLD . Mondelez International is one of the world's largest snack food companies, with iconic brands including Oreo biscuits, Cadbury chocolate, Trident gum, Chipsy (Egypt), local chocolate brands across Central/Eastern Europe, and Tang powdered beverages. The company operates across four segments: Biscuits (Europe, North America, EMA), Chocolate (worldwide), Gum/Body, and Cheese/Cereal. Revenue is split approximately 60% biscuits/chocolate and 40% other snacks. Geographic exposure: North America (~25%), Europe (~30%), Emerging Markets (~40%). The business is characterised by strong brand equity enabling regular price increases, a high proportion of everyday affordability products (lower cyclically), and significant free cash flow generation that funds share buybacks and a growing dividend. Cocoa prices have moderated from 2024 peaks but remain elevated, creating a challenging input cost environment that requires continued pricing discipline. The company has taken significant list price increases in chocolate globally, with some volume elasticity offset by brand loyalty. In emerging markets, urbanisation and middle-class growth continue to expand addressable markets for biscuits and chocolate. Recent quarterly results showed low-single-digit organic revenue growth, in line with guidance. The company is investing in cost-efficiency programmes (analytic-driven revenue growth management, supply chain optimisation) to protect margins. Productivity savings of $500m+ are targeted through 2028. No major M&A is currently flagged as a strategic priority. Own:  Income-oriented investors seeking a growing dividend from a defensive consumer staple franchise. The brand portfolio is genuinely global and durable. Suitable for investors who want to reduce equity risk with quality defensive exposure. Avoid:  Growth investors will be frustrated by the lack of near-term earnings momentum. Investors expecting cocoa tailwinds should note the stock has already discounted significant input cost normalisation."
+      "text": "Own: Income-oriented investors seeking a growing dividend from a defensive consumer staple franchise. The brand portfolio is genuinely global and durable. Suitable for investors who want to reduce equity risk with quality defensive exposure. Avoid: Growth investors will be frustrated by the lack of near-term earnings momentum. Investors expecting cocoa tailwinds should note the stock has already discounted significant input cost normalisation."
     },
     "recommendation": {
       "text": "HOLD Score: 66/100 Mondelez is a high-quality defensive snack franchise with genuine pricing power and structural growth in emerging markets. However, input cost headwinds are not fully resolved and consumer volume trends in the US are uncertain. The risk-reward is neutral at current levels. HOLD is appropriate until the margin picture clarifies. Entry Framework: BUY below $52 (meaningful margin of safety for a consumer staple of this quality). Reduce above $68 (fully valued given headwinds). HOLD in the $52-$68 range. BUY below $45 HOLD $$56-$69 REDUCE above $75"
     },
     "entryExit": {
-      "text": ""
+      "text": "BUY below $45 | HOLD $$56-$69 | REDUCE above $75"
     },
     "sources": {
-      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -89,16 +89,16 @@
   },
   "scores": {
     "current": {
-      "score": 50,
+      "score": 66,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 50,
+        "date": "",
+        "score": 66,
         "band": "HOLD",
         "delta": "0",
         "reason": "Initial coverage"

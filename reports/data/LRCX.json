@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 59,
@@ -32,7 +32,7 @@
       "text": "Lam Research Corporation (LRCX) operates in the Technology sector and is listed on NASDAQ. The business generates revenue through its core operations in technology."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -64,22 +64,22 @@
       "text": "Lam Research Corporation has been navigating the current market environment with its core technology franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (75): HBM4 and advanced packaging demand drives Lam's etch and deposition systems beyond current expectations. Chinese domestic capacity expansion continues. DRAM 3D stacking drives higher system value. EPS grows to $60+. Price: $310+.\n            Base Case (60): Memory upcycle sustains through 2026 with gradual capacity additions. Foundry/logic capex stabilises. China situation remains constructive. EPS: $48-54. Price: $260-295.\n            Bear Case (38): Memory oversupply resurfaces as Samsung and SK Hynix accelerate capacity. AI server memory upgrades plateau. Chinese domestic equipment substitution reduces Lam's addressable market. EPS falls to $38-42. Price: below $215.\n            Weighted Score: 60 — Bull 75 × 30% + Base 60 × 50% + Bear 38 × 20%",
+      "text": "Bull Case (75): HBM4 and advanced packaging demand drives Lam's etch and deposition systems beyond current expectations. Chinese domestic capacity expansion continues. DRAM 3D stacking drives higher system value. EPS grows to $60+. Price: $310+. Base Case (60): Memory upcycle sustains through 2026 with gradual capacity additions. Foundry/logic capex stabilises. China situation remains constructive. EPS: $48-54. Price: $260-295. Bear Case (38): Memory oversupply resurfaces as Samsung and SK Hynix accelerate capacity. AI server memory upgrades plateau. Chinese domestic equipment substitution reduces Lam's addressable market. EPS falls to $38-42. Price: below $215. Weighted Score: 60 — Bull 75 × 30% + Base 60 × 50% + Bear 38 × 20%",
       "bull": {
-        "scenario": "Bull Case (75): HBM4 and advanced packaging demand drives Lam's etch and deposition systems beyond current expectations. Chinese domestic capacity expansion continues. DRAM 3D stacking drives higher system value. EPS grows to $60+. Price: $310+.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (60): Memory upcycle sustains through 2026 with gradual capacity additions. Foundry/logic capex stabilises. China situation remains constructive. EPS: $48-54. Price: $260-295.",
-        "probability": null
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (38): Memory oversupply resurfaces as Samsung and SK Hynix accelerate capacity. AI server memory upgrades plateau. Chinese domestic equipment substitution reduces Lam's addressable market. EPS falls to $38-42. Price: below $215.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Memory cyclicality: Lam's revenue is heavily exposed to DRAM and NAND capex cycles. The memory market has historically been highly cyclical with dramatic upcycles and painful downcycles. HBM concentra",
+      "text": "Memory cyclicality: Lam's revenue is heavily exposed to DRAM and NAND capex cycles. The memory market has historically been highly cyclical with dramatic upcycles and painful downcycles. HBM concentration risk: While HBM is currently a major growth driver, it represents a small fraction of total DRAM bit demand. The durability of the HBM upcycle depends on sustained AI GPU demand. China domestic substitution: China's equipment Self-Sufficiency drive (Made in China 2025) targets semiconductor capital equipment. This is a long-term headwind for Western equipment companies' China revenues. Competitive dynamics: Applied Materials and Tokyo Electron are direct competitors in etch and deposition. Technological leadership shifts between competitors can be sudden. Capex concentration risk: TSMC, Samsung and SK Hynix represent a disproportionate share of Lam's revenue. Any single customer's capex pivot has meaningful financial impact.",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Thematic investors seeking semiconductor capital equipment exposure with memory upcycle optionality and advanced packaging upside. Medium-term holding given memory cycle dynamics. Avoiders: Long-term comp investors should note that Lam's returns are highly cyclical and the multiple rarely sustains premium levels through memory down-cycles."
+      "text": "Own: Thematic investors seeking semiconductor capital equipment exposure with memory upcycle optionality and advanced packaging upside. Medium-term holding given memory cycle dynamics."
     },
     "recommendation": {
-      "text": "HOLD. BUY below $215 (implies 36x base-case EPS — reasonable entry for a quality semiconductor equipment franchise during a memory upcycle).\n            Reduce above $285 (implies 48x+ P/E — not compelling given cyclical earnings profile and China domestic substitution risk)."
+      "text": "HOLD. BUY below $215 (implies 36x base-case EPS — reasonable entry for a quality semiconductor equipment franchise during a memory upcycle). Reduce above $285 (implies 48x+ P/E — not compelling given cyclical earnings profile and China domestic substitution risk)."
     },
     "entryExit": {
-      "text": "Lam Research Corporation (LRCX) — Entry / Exit Framework\n\nHOLD zone: $242.57–$268.93 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $242.57 — material pullback that improves risk/reward.\nTrim / Take Profits above $268.93 — approaching the 52-week high at $268.23. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $59.92 (52-week low) would warrant reassessment."
+      "text": "BUY below $215 (implies 36x base-case EPS — reasonable entry for a quality semiconductor equipment franchise during a memory upcycle). | Reduce above $285 (implies 48x+ P/E — not compelling given cyclical earnings profile and China domestic substitution risk)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -123,13 +123,13 @@
     "current": {
       "score": 59,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 59,
         "band": "HOLD",
         "delta": "0",

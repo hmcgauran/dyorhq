@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 67,
@@ -22,32 +22,32 @@
       "text": "Deere is the world's dominant agricultural and construction equipment manufacturer, benefiting from precision farming technology adoption and infrastructure spending; the stock's valuation near 52-week highs reflects this, leaving limited near-term upside; HOLD at $605.00."
     },
     "businessModel": {
-      "text": "Deere operates two core divisions with distinct end markets. Key revenue streams:\n          \n            Production &amp; Precision Ag: Tractors, combines, sprayers, and seeding equipment; the world's largest producer. Revenue driven by farm income, commodity prices, and fleet replacement cycles.\n            Small Agriculture &amp; Turf: Compact tractors and grounds maintenance equipment for residential, commercial, and municipal use.\n            Construction &amp; Forestry: Excavators, bulldozers, loaders, and forestry equipment; sales track infrastructure spending and housing activity.\n            Financial Services: Captive financing arm providing loans for equipment purchases; generates ~15% of group net income and stabilises group cash flows.\n          \n          Deere's moat is its combination of brand, distribution network, and — increasingly — proprietary precision agriculture technology (SeeScan, ActiveVision) that creates recurring software and service revenue from an installed base of equipment."
+      "text": "Deere operates two core divisions with distinct end markets. Key revenue streams: Production &amp; Precision Ag: Tractors, combines, sprayers, and seeding equipment; the world's largest producer. Revenue driven by farm income, commodity prices, and fleet replacement cycles. Small Agriculture &amp; Turf: Compact tractors and grounds maintenance equipment for residential, commercial, and municipal use. Construction &amp; Forestry: Excavators, bulldozers, loaders, and forestry equipment; sales track infrastructure spending and housing activity. Financial Services: Captive financing arm providing loans for equipment purchases; generates ~15% of group net income and stabilises group cash flows. Deere's moat is its combination of brand, distribution network, and — increasingly — proprietary precision agriculture technology (SeeScan, ActiveVision) that creates recurring software and service revenue from an installed base of equipment."
     },
     "financialSnapshot": {
-      "text": "</section>\n\n        <!-- 4. Recent Catalysts -->\n        <section class=\"report-section\">",
+      "text": "",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (30% weight)\n              Commodity supercycle driven by global food security concerns; infrastructure spending sustained; precision ag software revenue scales; EPS reaches $48+.\n              Target: $720–780\n            \n            \n              Base Case (50% weight)\n              Normal replacement cycle; infrastructure spending moderate; commodity prices flat; production efficiency gains offset input inflation; EPS ~$37.\n              Target: $600–635\n            \n            \n              Bear Case (20% weight)\n              Farm income collapse from commodity price drop; agricultural recession triggers equipment deferrals; construction slows as rate-sensitive projects cancel; EPS falls to $24.\n              Target: $345\n            \n          \n          \n            Weighted Conviction Score:\n            67 / 100 — HOLD",
+      "text": "Bull Case (30% weight) Commodity supercycle driven by global food security concerns; infrastructure spending sustained; precision ag software revenue scales; EPS reaches $48+. Target: $720–780 Base Case (50% weight) Normal replacement cycle; infrastructure spending moderate; commodity prices flat; production efficiency gains offset input inflation; EPS ~$37. Target: $600–635 Bear Case (20% weight) Farm income collapse from commodity price drop; agricultural recession triggers equipment deferrals; construction slows as rate-sensitive projects cancel; EPS falls to $24. Target: $345 Weighted Conviction Score: 67 / 100 — HOLD",
       "bull": {
-        "scenario": "Bull Case (30% weight)\n              Commodity supercycle driven by global food security concerns; infrastructure spending sustained; precision ag software revenue scales; EPS reaches $48+.\n              Target: $720–780\n            \n            <div class=\"scenario-card scenario-",
-        "probability": 30
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (50% weight)\n              Normal replacement cycle; infrastructure spending moderate; commodity prices flat; production efficiency gains offset input inflation; EPS ~$37.\n              Target: $600–635\n            \n            <div class=\"scenario-card scenario-",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (20% weight)\n              Farm income collapse from commodity price drop; agricultural recession triggers equipment deferrals; construction slows as rate-sensitive projects cancel; EPS falls to $24.",
-        "probability": 20
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Commodity price sensitivity: Farm equipment purchases are directly driven by farm income, which is a function of commodity prices; a corn price collapse is the single largest demand risk. Interest rat",
+      "text": "Commodity price sensitivity: Farm equipment purchases are directly driven by farm income, which is a function of commodity prices; a corn price collapse is the single largest demand risk. Interest rate exposure: Both customers' equipment financing costs and DE's own Financial Services business are sensitive to the rate environment; a rate-cutting cycle creates NIM pressure on captive finance. China agricultural demand: Chinese soybean and corn purchasing decisions directly affect global commodity prices and thus Deere's primary end market. Supply chain and tariffs: Steel input costs, component availability, and tariff exposure (particularly on imports from Mexico and China) remain ongoing margin risks. Labour disputes: UAW strikes (2023 demonstrated) can halt production at major US manufacturing facilities; costs and reputational damage are significant.",
       "risks": [
         {
           "rank": 1,
@@ -72,13 +72,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Own It Industrial investors seeking global equipment dominance with a technology upgrade cycle (precision ag) providing long-term growth runway. Those who believe infrastructure spending will sustain construction equipment demand for multiple years. Investors in agricultural themes who want direct commodity price leverage without equity market volatility. Avoid It Near-cycle peak investors — DE is at 52-week high; risk/reward at this level is asymmetric to the downside. Value investors — 16.8x P/E for a highly cyclical industrial is not compelling. Income investors — 1.2% yield is below market; the dividend is not a meaningful return driver."
+      "text": "Own It:\n• Industrial investors seeking global equipment dominance with a technology upgrade cycle (precision ag) providing long-term growth runway.\n• Those who believe infrastructure spending will sustain construction equipment demand for multiple years.\n• Investors in agricultural themes who want direct commodity price leverage without equity market volatility.\n\nAvoid It:\n• Near-cycle peak investors — DE is at 52-week high; risk/reward at this level is asymmetric to the downside.\n• Value investors — 16.8x P/E for a highly cyclical industrial is not compelling.\n• Income investors — 1.2% yield is below market; the dividend is not a meaningful return driver."
     },
     "recommendation": {
-      "text": "HOLD\n            Excellent industrial franchise near cycle highs with limited new catalyst; wait for pullback to improve risk/reward before adding.\n          \n          \n            Entry / Exit Framework\n            \n              Conviction Score67 / 100 — HOLD\n              EntryBelow $545 — better entry relative to cycle position\n              AddBelow $470 — high conviction pullback zone\n              Reduce / ExitAbove $660 — full cycle and premium valuation priced in\n              Time Horizon18–36 months"
+      "text": "HOLD Excellent industrial franchise near cycle highs with limited new catalyst; wait for pullback to improve risk/reward before adding. Entry / Exit Framework Conviction Score 67 / 100 — HOLD Entry Below $545 — better entry relative to cycle position Add Below $470 — high conviction pullback zone Reduce / Exit Above $660 — full cycle and premium valuation priced in Time Horizon 18–36 months"
     },
     "entryExit": {
-      "text": "Conviction Score: 67 / 100 — HOLD\nEntry: Below $545 — better entry relative to cycle position\nAdd: Below $470 — high conviction pullback zone\nReduce / Exit: Above $660 — full cycle and premium valuation priced in\nTime Horizon: 18–36 months"
+      "text": "Entry / Exit Framework Conviction Score 67 / 100 — HOLD Entry Below $545 — better entry relative to cycle position Add Below $470 — high conviction pullback zone Reduce / Exit Above $660 — full cycle and premium valuation priced in Time Horizon 18–36 months Sources Live market data via DYOR HQ data pipeline Deere &amp; Company public filings, earnings releases, and investor days USDA farm income forecasts and commodity price data S&amp;P Capital IQ estimates Report generated 11 April 2026. For informational purposes only. Not financial advice."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -91,13 +91,13 @@
     "current": {
       "score": 67,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 67,
         "band": "HOLD",
         "delta": "0",

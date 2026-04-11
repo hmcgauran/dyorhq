@@ -19,17 +19,17 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.55, only 5% off the 52-week high, the market is valuing the company as if quantum commercialisation is approaching quickly. That remains unproven.There is genuine platform value if IonQ can turn technical leadership into real enterprise demand. Today the stock still looks priced for perfection. Botto"
+      "text": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.55, only 5% off the 52-week high, the market is valuing the company as if quantum commercialisation is approaching quickly. That remains unproven. There is genuine platform value if IonQ can turn technical leadership into real enterprise demand. Today the stock still looks priced for perfection. Bott"
     },
     "businessModel": {
-      "text": "IonQ builds trapped-ion quantum systems and sells access through cloud platforms, direct enterprise engagements, and government relationships. The appeal is technical differentiation, but the business model is still immature because customer demand is early-stage and real production use remains limited.The investment case depends on the company converting technical milestones into repeatable commercial revenue, while defending its approach against competing quantum architectures and larger-cap rivals."
+      "text": "IonQ builds trapped-ion quantum systems and sells access through cloud platforms, direct enterprise engagements, and government relationships. The appeal is technical differentiation, but the business model is still immature because customer demand is early-stage and real production use remains limited. The investment case depends on the company converting technical milestones into repeatable commercial revenue, while defending its approach against competing quantum architectures and larger-cap rivals."
     },
     "financialSnapshot": {
-      "text": "<p><strong>Live price:</strong> $29.55<br><strong>Market cap:</strong> $10.4B<br><strong>52-week range:</strong> $28.73 – $31.10<br><strong>P/E:</strong> N/A<br><strong>EPS:</strong> -$2.25<br><strong>Beta:</strong> 2.93</p><p>The stock is near the top of the range despite negative earnings. That is the entire problem in one line.</p></div>",
+      "text": "Live price: $29.55 Market cap: $10.4B 52-week range: $28.73 – $31.10 P/E: N/A EPS: -$2.25 Beta: 2.93 The stock is near the top of the range despite negative earnings. That is the entire problem in one line.",
       "table": []
     },
     "recentCatalysts": {
-      "text": "Quantum sector enthusiasm has remained elevated as investors look for the next platform shift after AI.Government and cloud partnerships continue to validate relevance, even if not yet at scale.Technical milestone announcements help sentiment, but monetisation remains the bottleneck.",
+      "text": "Quantum sector enthusiasm has remained elevated as investors look for the next platform shift after AI. Government and cloud partnerships continue to validate relevance, even if not yet at scale. Technical milestone announcements help sentiment, but monetisation remains the bottleneck.",
       "items": [
         "Quantum sector enthusiasm has remained elevated as investors look for the next platform shift after AI.",
         "Government and cloud partnerships continue to validate relevance, even if not yet at scale.",
@@ -37,22 +37,22 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): IonQ wins meaningful commercial workloads, maintains perceived technical leadership, and rerates higher.Base (45%): incremental progress continues but revenue lags valuation, leaving the stock volatile and theme-driven.Bear (30%): sentiment cools, commercial adoption disappoints, and the stock derates materially.Weighted conviction: 47/100.",
+      "text": "Bull (25%): IonQ wins meaningful commercial workloads, maintains perceived technical leadership, and rerates higher. Base (45%): incremental progress continues but revenue lags valuation, leaving the stock volatile and theme-driven. Bear (30%): sentiment cools, commercial adoption disappoints, and the stock derates materially. Weighted conviction: 47/100.",
       "bull": {
-        "scenario": "Bull (25%): IonQ wins meaningful commercial workloads, maintains perceived technical leadership, and rerates higher.",
+        "scenario": "",
         "probability": 25
       },
       "base": {
-        "scenario": "Base (45%): incremental progress continues but revenue lags valuation, leaving the stock volatile and theme-driven.",
-        "probability": 45
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear (30%): sentiment cools, commercial adoption disappoints, and the stock derates materially.",
-        "probability": 30
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Commercialisation risk: technical promise may not convert into revenue quickly enough. Valuation risk: near-peak pricing with no earnings support. Technology competition: no guarantee trapped-ion wins",
+      "text": "Commercialisation risk: technical promise may not convert into revenue quickly enough. Valuation risk: near-peak pricing with no earnings support. Technology competition: no guarantee trapped-ion wins the market.",
       "risks": [
         {
           "rank": 1,
@@ -75,7 +75,7 @@
       "text": "REDUCE — SPECULATIVE at $29.55. Attractive narrative, weak margin of safety."
     },
     "entryExit": {
-      "text": "Below $22: better speculative entry zone$22–$29: hold only if sized appropriatelyAbove $30: trimKey trigger: proof of revenue scale beyond showcase partnerships\n\n          \n            Conviction Trend\n            Latest conviction: 47/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0847"
+      "text": "Below $22: better speculative entry zone $22–$29: hold only if sized appropriately Above $30: trim Key trigger: proof of revenue scale beyond showcase partnerships Conviction Trend Latest conviction: 47/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 47"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -83,7 +83,13 @@
       "additional": [
         "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
         "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $29.55",
+        "Market Cap $10.4B",
+        "P/E N/A",
+        "52w High $31.10",
+        "52w Low $28.73",
+        "Beta 2.93"
       ],
       "literature": []
     }

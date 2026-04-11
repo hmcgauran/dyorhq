@@ -20,17 +20,17 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "Zephyr is another small-cap energy name where project execution matters far more than the broad commodity narrative. At 3.45p, off the session high and on healthy volume, the shares still screen as speculative rather than investable in the conventional sense. There is enough asset-level upside to keep interest alive, but not enough certainty to justify high conviction.Bottom line: HOLD — SPECULATIVE. Viable only with disciplined sizing."
+      "text": "Zephyr is another small-cap energy name where project execution matters far more than the broad commodity narrative. At 3.45p, off the session high and on healthy volume, the shares still screen as speculative rather than investable in the conventional sense. There is enough asset-level upside to keep interest alive, but not enough certainty to justify high conviction. Bottom line: HOLD — SPECULATIVE . Viable only with disciplined sizing."
     },
     "businessModel": {
-      "text": "Zephyr develops and operates hydrocarbon assets, with value driven by drilling outcomes, production performance and capital allocation. Like most AIM energy names, the listed equity is effectively a levered instrument on operational delivery.That makes it potentially rewarding on success, but vulnerable to delays, cost overruns and financing pressure."
+      "text": "Zephyr develops and operates hydrocarbon assets, with value driven by drilling outcomes, production performance and capital allocation. Like most AIM energy names, the listed equity is effectively a levered instrument on operational delivery. That makes it potentially rewarding on success, but vulnerable to delays, cost overruns and financing pressure."
     },
     "financialSnapshot": {
-      "text": "<p><strong>Live price:</strong> 3.45p<br><strong>Day range:</strong> 3.302p – 3.575p<br><strong>Volume:</strong> 2.44M shares<br><strong>P/E:</strong> unavailable on current live pull<br><strong>EPS:</strong> unavailable on current live pull</p></div>",
+      "text": "Live price: 3.45p Day range: 3.302p – 3.575p Volume: 2.44M shares P/E: unavailable on current live pull EPS: unavailable on current live pull",
       "table": []
     },
     "recentCatalysts": {
-      "text": "Operational updates remain the principal rerating driver.Commodity support helps, but only if project delivery follows.Share price volatility reflects the market’s low tolerance for execution misses.",
+      "text": "Operational updates remain the principal rerating driver. Commodity support helps, but only if project delivery follows. Share price volatility reflects the market’s low tolerance for execution misses.",
       "items": [
         "Operational updates remain the principal rerating driver.",
         "Commodity support helps, but only if project delivery follows.",
@@ -38,17 +38,17 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): operating success and stronger production credibility push the shares materially higher.Base (50%): incremental progress keeps the equity in a speculative hold range.Bear (25%): delays or funding issues quickly undo sentiment.Weighted conviction: 57/100.",
+      "text": "Bull (25%): operating success and stronger production credibility push the shares materially higher. Base (50%): incremental progress keeps the equity in a speculative hold range. Bear (25%): delays or funding issues quickly undo sentiment. Weighted conviction: 57/100.",
       "bull": {
-        "scenario": "Bull (25%): operating success and stronger production credibility push the shares materially higher.",
+        "scenario": "",
         "probability": 25
       },
       "base": {
-        "scenario": "Base (50%): incremental progress keeps the equity in a speculative hold range.",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear (25%): delays or funding issues quickly undo sentiment.",
+        "scenario": "",
         "probability": 25
       }
     },
@@ -76,7 +76,7 @@
       "text": "HOLD — SPECULATIVE at 3.45p. Enough upside to keep it alive, not enough certainty to be aggressive."
     },
     "entryExit": {
-      "text": "Below 3.0p: better speculative entry3.0p–3.8p: hold zoneAbove 4.2p without stronger operating proof: trimKey trigger: operating delivery and production evidence\n            Conviction Trend\n            Latest conviction: 57/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                0255075100\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0857"
+      "text": "Below 3.0p: better speculative entry 3.0p–3.8p: hold zone Above 4.2p without stronger operating proof: trim Key trigger: operating delivery and production evidence Conviction Trend Latest conviction: 57/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 57"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -84,7 +84,11 @@
       "additional": [
         "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
         "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price 3.45p",
+        "Day High 3.575p",
+        "Day Low 3.302p",
+        "Volume 2.44M"
       ],
       "literature": []
     }

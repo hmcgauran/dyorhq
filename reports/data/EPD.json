@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 38,
@@ -22,10 +22,10 @@
       "text": "Enterprise Products Partners is a high-quality midstream MLP offering a generous distribution yield underpinned by fee-based contracts and diversified pipeline infrastructure, but limited distribution growth and a compressed valuation leave the shares fairly priced at current levels, warranting a HOLD."
     },
     "businessModel": {
-      "text": "Enterprise Products Partners operates one of the largest midstream energy infrastructure networks in North America. The partnership gathers, processes, stores, and transports natural gas, NGLs, crude oil, and refined products. Approximately 80% of earnings are fee-based or volume-based, providing meaningful insulation from commodity price volatility. Key revenue pillars include:\n    \n      NGL Pipelines &amp; Storage~35% of segment revenue\n      Crude Oil Pipelines~25% of segment revenue\n      Natural Gas Pipelines~20% of segment revenue\n      Petrochemical &amp; Refined Products~15% of segment revenue\n      Capitalisation/Bayou Bend CCS~5% of segment revenue\n    \n    EPD distributes the majority of free cash flow to unitholders via monthly distributions. It has one of the longest distribution growth streaks in the MLP universe, though growth has moderated to low single-digits in recent years."
+      "text": "Enterprise Products Partners operates one of the largest midstream energy infrastructure networks in North America. The partnership gathers, processes, stores, and transports natural gas, NGLs, crude oil, and refined products. Approximately 80% of earnings are fee-based or volume-based, providing meaningful insulation from commodity price volatility. Key revenue pillars include: NGL Pipelines &amp; Storage ~35% of segment revenue Crude Oil Pipelines ~25% of segment revenue Natural Gas Pipelines ~20% of segment revenue Petrochemical &amp; Refined Products ~15% of segment revenue Capitalisation/Bayou Bend CCS ~5% of segment revenue EPD distributes the majority of free cash flow to unitholders via monthly distributions. It has one of the longest distribution growth streaks in the MLP universe, though growth has moderated to low single-digits in recent years."
     },
     "financialSnapshot": {
-      "text": "</div>\n\n<!-- 4. RECENT CATALYSTS -->\n<div class=\"section\">",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -66,35 +66,56 @@
       ]
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "Terminal 1 CCS Progress: EPD continues development of the Bayou Bend carbon capture and sequestration project on the Texas Gulf Coast, with anchor customer commitments providing long-term fee revenue visibility. NGL Export Capacity Expansion: New LPG and ethane export facilities along the Gulf Coast have supported volume throughput on EPD'sSouth China Sea NGL pipeline network, offsetting slower domestic petrochemical demand. Natural Gas Demand from LNG: Growing LNG export terminal demand has increased utilisation on EPD's natural gas pipeline systems in South Texas, providing a structural demand tailwind. Crude Oil Volatility: OPEC+ production discipline has periodically tightened Gulf Coast crude supply, creating spot market opportunities but also uncertainty around long-term throughput commitments."
     },
     "thesisEvaluation": {
-      "text": "ScenarioScoreProbabilityCommentary\n    \n      Bull4230%NGL export surge, LNG feed-gas demand spikes, successful new project execution drives distribution growth above 4%; EPD trades at 17x+ earnings.\n    \n    \n      Base3850%Stable fee-based earnings; distribution growth in the 2-3% range; modest volume growth; EPD rerates to 15-16x range, in line with peers.\n    \n    \n      Bear3220%Recession crushes energy demand; LNG export cancellations; commodity price collapse reduces throughput; distribution cut risk rises; EPD falls to 11-12x earnings.\n    \n  \n  \n    Conviction Score: 42×0.30 + 38×0.50 + 32×0.20 = 37.6\n    Bear and bull scenarios both pull toward a mid-range HOLD.",
+      "text": "Scenario Score Probability Commentary Bull 42 30% NGL export surge, LNG feed-gas demand spikes, successful new project execution drives distribution growth above 4%; EPD trades at 17x+ earnings. Base 38 50% Stable fee-based earnings; distribution growth in the 2-3% range; modest volume growth; EPD rerates to 15-16x range, in line with peers. Bear 32 20% Recession crushes energy demand; LNG export cancellations; commodity price collapse reduces throughput; distribution cut risk rises; EPD falls to 11-12x earnings. Conviction Score: 42×0.30 + 38×0.50 + 32×0.20 = 37.6 Bear and bull scenarios both pull toward a mid-range HOLD.",
       "bull": {
-        "scenario": "bull scenarios both pull toward a mid-range HOLD.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       },
       "base": {
         "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear and bull scenarios both pull toward a mid-range HOLD.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "# Risk Description 1 Commodity exposure creep Despite fee-based emphasis, EPD retains some direct commodity exposure via keepwhole and percentage-of-proceeds contracts; prolonged low commodity prices ",
-      "risks": []
+      "text": "# Risk Description 1 Commodity exposure creep Despite fee-based emphasis, EPD retains some direct commodity exposure via keepwhole and percentage-of-proceeds contracts; prolonged low commodity prices compress results. 2 LNG project dependency Significant capital allocated to LNG-linked projects; delays or cancellations at export terminals create stranded cost risk. 3 Regulatory and permit risk Pipeline permitting across federal and state jurisdictions faces increasing political and legal challenges, particularly for Gulf Coast infrastructure. 4 Distribution coverage tightening DCF coverage ratios near 1.2x leaves limited buffer; a material earnings miss could force a distribution reduction, hitting unit price hard. 5 Competition for shippers Midstream consolidation and new pipeline builds from competitors threaten volume market share on key corridors.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Commodity exposure creep — Despite fee-based emphasis, EPD retains some direct commodity exposure via keepwhole and percentage-of-proceeds contracts; prolonged low commodity prices compress results."
+        },
+        {
+          "rank": 2,
+          "risk": "LNG project dependency — Significant capital allocated to LNG-linked projects; delays or cancellations at export terminals create stranded cost risk."
+        },
+        {
+          "rank": 3,
+          "risk": "Regulatory and permit risk — Pipeline permitting across federal and state jurisdictions faces increasing political and legal challenges, particularly for Gulf Coast infrastructure."
+        },
+        {
+          "rank": 4,
+          "risk": "Distribution coverage tightening — DCF coverage ratios near 1.2x leaves limited buffer; a material earnings miss could force a distribution reduction, hitting unit price hard."
+        },
+        {
+          "rank": 5,
+          "risk": "Competition for shippers — Midstream consolidation and new pipeline builds from competitors threaten volume market share on key corridors."
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": "Ideal For Avoid Owners Income-focused investors seeking MLP exposure with distribution sustainability Long-duration energy infrastructure investors who value fee-based cash flows Those seeking an energy-sector inflation hedge with lower beta than E&amp;P companies Avoid Growth-oriented investors needing capital appreciation in the portfolio Investors seeking exposure to high-conviction energy upside via direct E&amp;P plays Those unwilling to navigate K-1 tax complexity and unrelated business taxable income"
+      "text": "Own:\n• Income-focused investors seeking MLP exposure with distribution sustainability\n• Long-duration energy infrastructure investors who value fee-based cash flows\n• Those seeking an energy-sector inflation hedge with lower beta than E&amp;P companies\n\nAvoid:\n• Growth-oriented investors needing capital appreciation in the portfolio\n• Investors seeking exposure to high-conviction energy upside via direct E&amp;P plays\n• Those unwilling to navigate K-1 tax complexity and unrelated business taxable income"
     },
     "recommendation": {
-      "text": "Rating: HOLD\n    EPD is a well-managed midstream franchise and one of the highest-quality MLPs in the market. Fee-based contract structures provide meaningful earnings stability, and the distribution has grown uninterrupted for over 25 years. However, the distribution growth rate has decelerated to low single-digits, the shares trade near the top of their 52-week range, and the valuation at ~14x earnings is not compelling relative to the modest capital appreciation potential.\n    \n      FrameworkDetail\n      Entry point$37.35 (current); consider adding on pullbacks below $32.00 for improved risk/reward\n      Target price (12 months)$41.00-$44.00 (13-15% upside), equating to ~17x base case EPS\n      Stop-loss$27.50 (approximately 26% decline from entry; sits below the 52-week low)\n      Position sizingCore energy infrastructure holding; 1-2% portfolio weight appropriate for most\n      Key trigger to upgradeLNG export demand acceleration or meaningful Bayou Bend CCS contract additions that increase fee-based revenue share"
+      "text": "Rating: HOLD EPD is a well-managed midstream franchise and one of the highest-quality MLPs in the market. Fee-based contract structures provide meaningful earnings stability, and the distribution has grown uninterrupted for over 25 years. However, the distribution growth rate has decelerated to low single-digits, the shares trade near the top of their 52-week range, and the valuation at ~14x earnings is not compelling relative to the modest capital appreciation potential. Framework Detail Entry point $37.35 (current); consider adding on pullbacks below $32.00 for improved risk/reward Target price (12 months) $41.00-$44.00 (13-15% upside), equating to ~17x base case EPS Stop-loss $27.50 (approximately 26% decline from entry; sits below the 52-week low) Position sizing Core energy infrastructure holding; 1-2% portfolio weight appropriate for most Key trigger to upgrade LNG export demand acceleration or meaningful Bayou Bend CCS contract additions that increase fee-based revenue share"
     },
     "entryExit": {
-      "text": "Enterprise Products Partners L.P. (EPD) (EPD) — Entry / Exit Framework\n\nHOLD zone: $34.36–$38.1 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $34.36 — material pullback that improves risk/reward.\nTrim / Take Profits above $38.1 — approaching the 52-week high at $39.74. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $29.07 (52-week low) would warrant reassessment."
+      "text": "Entry point: $37.35 (current); consider adding on pullbacks below $32.00 for improved risk/reward | Target price (12 months): $41.00-$44.00 (13-15% upside), equating to ~17x base case EPS | Stop-loss: $27.50 (approximately 26% decline from entry; sits below the 52-week low)"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -107,13 +128,13 @@
     "current": {
       "score": 38,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 38,
         "band": "HOLD",
         "delta": "0",

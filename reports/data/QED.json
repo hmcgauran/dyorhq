@@ -20,17 +20,17 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "Quadrise has spent years living in the zone where commercial promise exists, but full validation remains just over the horizon. At 2.70p, up on the day and trading on strong volume, the market is still willing to speculate on the fuel technology and licensing story. That does not make it de-risked.Bottom line: HOLD — SPECULATIVE. Interesting technology optionality, but still too dependent on commercial conversion milestones."
+      "text": "Quadrise has spent years living in the zone where commercial promise exists, but full validation remains just over the horizon. At 2.70p, up on the day and trading on strong volume, the market is still willing to speculate on the fuel technology and licensing story. That does not make it de-risked. Bottom line: HOLD — SPECULATIVE . Interesting technology optionality, but still too dependent on commercial conversion milestones."
     },
     "businessModel": {
-      "text": "Quadrise develops fuel technologies intended to improve economics or emissions outcomes in industrial and shipping applications. Value creation depends on proving commercial use cases, signing meaningful agreements and converting pilot work into recurring revenue.This is effectively a technology commercialisation story, not a mature operating business."
+      "text": "Quadrise develops fuel technologies intended to improve economics or emissions outcomes in industrial and shipping applications. Value creation depends on proving commercial use cases, signing meaningful agreements and converting pilot work into recurring revenue. This is effectively a technology commercialisation story, not a mature operating business."
     },
     "financialSnapshot": {
-      "text": "<p><strong>Live price:</strong> 2.70p<br><strong>Day range:</strong> 2.40p – 3.00p<br><strong>Volume:</strong> 16.66M shares<br><strong>P/E:</strong> unavailable on current live pull<br><strong>EPS:</strong> unavailable on current live pull</p><p>High volume tells you people care. It does not tell you the commercial model is proven.</p></div>",
+      "text": "Live price: 2.70p Day range: 2.40p – 3.00p Volume: 16.66M shares P/E: unavailable on current live pull EPS: unavailable on current live pull High volume tells you people care. It does not tell you the commercial model is proven.",
       "table": []
     },
     "recentCatalysts": {
-      "text": "Commercial milestone updates remain the key driver.Shipping and industrial decarbonisation themes provide narrative support.The market is still waiting for cleaner proof of scalable adoption.",
+      "text": "Commercial milestone updates remain the key driver. Shipping and industrial decarbonisation themes provide narrative support. The market is still waiting for cleaner proof of scalable adoption.",
       "items": [
         "Commercial milestone updates remain the key driver.",
         "Shipping and industrial decarbonisation themes provide narrative support.",
@@ -38,22 +38,22 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): meaningful commercial conversion lands and rerates the stock sharply.Base (50%): progress continues but remains slower than holders want.Bear (25%): timelines stretch again and the market loses patience.Weighted conviction: 56/100.",
+      "text": "Bull (25%): meaningful commercial conversion lands and rerates the stock sharply. Base (50%): progress continues but remains slower than holders want. Bear (25%): timelines stretch again and the market loses patience. Weighted conviction: 56/100.",
       "bull": {
-        "scenario": "Bull (25%): meaningful commercial conversion lands and rerates the stock sharply.",
+        "scenario": "",
         "probability": 25
       },
       "base": {
-        "scenario": "Base (50%): progress continues but remains slower than holders want.",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear (25%): timelines stretch again and the market loses patience.",
+        "scenario": "",
         "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Commercialisation risk: the main issue is turning pilots into revenue. Execution delay risk: repeated timeline slippage destroys confidence. Funding risk: prolonged development usually means more capi",
+      "text": "Commercialisation risk: the main issue is turning pilots into revenue. Execution delay risk: repeated timeline slippage destroys confidence. Funding risk: prolonged development usually means more capital needs.",
       "risks": [
         {
           "rank": 1,
@@ -76,7 +76,7 @@
       "text": "HOLD — SPECULATIVE at 2.70p. Worth keeping on the board, not worth pretending it is de-risked."
     },
     "entryExit": {
-      "text": "Below 2.3p: more attractive speculative entry2.3p–3.0p: hold zoneAbove 3.2p without hard commercial proof: trimKey trigger: real commercial contract conversion\n            Conviction Trend\n            Latest conviction: 56/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                0255075100\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0856"
+      "text": "Below 2.3p: more attractive speculative entry 2.3p–3.0p: hold zone Above 3.2p without hard commercial proof: trim Key trigger: real commercial contract conversion Conviction Trend Latest conviction: 56/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 56"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -84,7 +84,11 @@
       "additional": [
         "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
         "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price 2.70p",
+        "Day High 3.00p",
+        "Day Low 2.40p",
+        "Volume 16.66M"
       ],
       "literature": []
     }

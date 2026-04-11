@@ -1,16 +1,18 @@
 {
   "meta": {
-    "ticker": "",
+    "ticker": "NEE",
     "company": "NEE",
     "exchange": "",
     "isin": "",
     "date": "",
-    "datePublished": "2026-04-11",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
     "conviction": 58,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
+      "sp100",
+      "fortune100",
       "watchlist"
     ]
   },
@@ -29,7 +31,7 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Installed renewable capacity 60GW+; pipeline extended by 20GW new contracts FY25\n    Manatee terminal (LNG) on track for commissioning Q4 FY26\n    Florida Public Service Commission approved rate case increase of $450M annual revenue\n    New battery storage projects (3.2GW) coming online through 2026-27",
+      "text": "Installed renewable capacity 60GW+; pipeline extended by 20GW new contracts FY25 Manatee terminal (LNG) on track for commissioning Q4 FY26 Florida Public Service Commission approved rate case increase of $450M annual revenue New battery storage projects (3.2GW) coming online through 2026-27",
       "items": [
         "Installed renewable capacity 60GW+; pipeline extended by 20GW new contracts FY25",
         "Manatee terminal (LNG) on track for commissioning Q4 FY26",
@@ -38,7 +40,7 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "68\n      Bull\n    \n    \n      58\n      Base\n    \n    \n      42\n      Bear\n    \n    \n      58\n      Conviction",
+      "text": "68 Bull 58 Base 42 Bear 58 Conviction",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -53,7 +55,7 @@
       }
     },
     "keyRisks": {
-      "text": "1. Multiple equity raises completed FY25: ~$4bn dilution to existing shareholders 2. PACE (popular incentive programme) policy changes could reduce distributed solar demand 3. Hurricane and extreme-we",
+      "text": "1. Multiple equity raises completed FY25: ~$4bn dilution to existing shareholders 2. PACE (popular incentive programme) policy changes could reduce distributed solar demand 3. Hurricane and extreme-weather exposure: FPL grid hardening capex offsets rate base 4. Natural gas storage and LNG trading margin sensitivity to Henry Hub price volatility 5. Regulatory lag in cost recovery for transmission interconnection queue delays",
       "risks": [
         {
           "rank": 1,
@@ -84,7 +86,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "NextEra Energy (NEE) — Entry / Exit Framework\n\nHOLD zone: $86.55–$95.96 — current levels are fairly valued.\nTrim / Take Profits above $95.96 — approaching the 52-week high at $96.21.\nStop-loss: A sustained close below $62.37 (52-week low) would warrant reassessment."
+      "text": "Average in at $80–$86 (10–15% below 52-week high). HOLD $86–$94. REDUCE above $94. Watch: LNG terminal commissioning timeline and FPL rate case progress. | BUY: Average in at $80–$86 (10–15% below 52-week high). | REDUCE above $94."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -96,16 +98,16 @@
   "scores": {
     "current": {
       "score": 58,
-      "band": "HOLD",
-      "date": "2026-04-11",
+      "band": "REDUCE",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 58,
-        "band": "HOLD",
+        "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"
       }

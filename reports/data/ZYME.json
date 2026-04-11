@@ -19,17 +19,17 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "Zymeworks is a clinical-stage oncology name with a real scientific platform and the usual biotech caveat: nothing matters more than data. At $26.70, with a market cap around $1.94B and still loss-making, the stock sits in the familiar zone where platform promise is investable only if you accept binary clinical risk.Bottom line: HOLD — SPECULATIVE. Credible biotech optionality, but still fundamentally a catalyst trade."
+      "text": "Zymeworks is a clinical-stage oncology name with a real scientific platform and the usual biotech caveat: nothing matters more than data. At $26.70, with a market cap around $1.94B and still loss-making, the stock sits in the familiar zone where platform promise is investable only if you accept binary clinical risk. Bottom line: HOLD — SPECULATIVE . Credible biotech optionality, but still fundamentally a catalyst trade."
     },
     "businessModel": {
-      "text": "Zymeworks develops antibody-based therapeutics in oncology, aiming to create value through internal pipeline progress, partnerships and licensing. This is not a cash-flow business yet. It is a platform and clinical execution story.The moat comes from scientific quality and pipeline breadth if validated in the clinic. Until then, valuation remains fragile and event-driven."
+      "text": "Zymeworks develops antibody-based therapeutics in oncology, aiming to create value through internal pipeline progress, partnerships and licensing. This is not a cash-flow business yet. It is a platform and clinical execution story. The moat comes from scientific quality and pipeline breadth if validated in the clinic. Until then, valuation remains fragile and event-driven."
     },
     "financialSnapshot": {
-      "text": "<p><strong>Live price:</strong> $26.70<br><strong>Market cap:</strong> $1.94B<br><strong>Day range available:</strong> $25.90 – $26.88<br><strong>P/E:</strong> N/A<br><strong>EPS:</strong> -$1.08<br><strong>Beta:</strong> 1.21</p></div>",
+      "text": "Live price: $26.70 Market cap: $1.94B Day range available: $25.90 – $26.88 P/E: N/A EPS: -$1.08 Beta: 1.21",
       "table": []
     },
     "recentCatalysts": {
-      "text": "Pipeline data remains the core driver of value.Partner validation would significantly improve market confidence.Biotech sentiment is improving selectively, but stock-specific data still dominate.",
+      "text": "Pipeline data remains the core driver of value. Partner validation would significantly improve market confidence. Biotech sentiment is improving selectively, but stock-specific data still dominate.",
       "items": [
         "Pipeline data remains the core driver of value.",
         "Partner validation would significantly improve market confidence.",
@@ -37,17 +37,17 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): strong clinical readouts and partnership validation rerate the stock sharply.Base (50%): steady progress but no decisive de-risking, leaving the shares range-bound.Bear (25%): clinical disappointment or timeline slippage materially damages the case.Weighted conviction: 60/100.",
+      "text": "Bull (25%): strong clinical readouts and partnership validation rerate the stock sharply. Base (50%): steady progress but no decisive de-risking, leaving the shares range-bound. Bear (25%): clinical disappointment or timeline slippage materially damages the case. Weighted conviction: 60/100.",
       "bull": {
-        "scenario": "Bull (25%): strong clinical readouts and partnership validation rerate the stock sharply.",
+        "scenario": "",
         "probability": 25
       },
       "base": {
-        "scenario": "Base (50%): steady progress but no decisive de-risking, leaving the shares range-bound.",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear (25%): clinical disappointment or timeline slippage materially damages the case.",
+        "scenario": "",
         "probability": 25
       }
     },
@@ -75,7 +75,7 @@
       "text": "HOLD — SPECULATIVE at $26.70. Worth watching and possibly holding small, but still a data-led risk asset."
     },
     "entryExit": {
-      "text": "Below $22: more attractive$22–$28: hold zoneAbove $30 without major data improvement: trimKey trigger: clearly positive clinical data\n            Conviction Trend\n            Latest conviction: 60/100. Trend versus prior report: Flat.\n            \n              \n                    \n                \n                \n                0 25 50 75 100\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0860"
+      "text": "Below $22: more attractive $22–$28: hold zone Above $30 without major data improvement: trim Key trigger: clearly positive clinical data Conviction Trend Latest conviction: 60/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 60"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -83,7 +83,13 @@
       "additional": [
         "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
         "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $26.70",
+        "Market Cap $1.94B",
+        "EPS -$1.08",
+        "Day High $26.88",
+        "Day Low $25.90",
+        "Beta 1.21"
       ],
       "literature": []
     }

@@ -1,16 +1,18 @@
 {
   "meta": {
-    "ticker": "",
+    "ticker": "IBM",
     "company": "IBM",
     "exchange": "",
     "isin": "",
     "date": "",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 62,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
+      "sp100",
+      "fortune100",
       "watchlist"
     ]
   },
@@ -29,7 +31,7 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Granular AI and data platform growing double-digit; IBM's watsonx portfolio gaining enterprise traction\n    Mainframe renewal cycle remains active — Z-system software revenue provides visible annuity base\n    HashiCorp acquisition (mid-2024) deepens infrastructure-automation moat\n    Spin-off of Kyndyl completed Q3 2025, sharpening business profile",
+      "text": "Granular AI and data platform growing double-digit; IBM's watsonx portfolio gaining enterprise traction Mainframe renewal cycle remains active — Z-system software revenue provides visible annuity base HashiCorp acquisition (mid-2024) deepens infrastructure-automation moat Spin-off of Kyndyl completed Q3 2025, sharpening business profile",
       "items": [
         "Granular AI and data platform growing double-digit; IBM's watsonx portfolio gaining enterprise traction",
         "Mainframe renewal cycle remains active — Z-system software revenue provides visible annuity base",
@@ -38,7 +40,7 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "72\n      Bull\n    \n    \n      62\n      Base\n    \n    \n      48\n      Bear\n    \n    \n      62\n      Conviction",
+      "text": "72 Bull 62 Base 48 Bear 62 Conviction",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -53,7 +55,7 @@
       }
     },
     "keyRisks": {
-      "text": "1. Hybrid cloud growth has slowed from peak; watsonx AI services still 2. Revenue has been flat-to-declining for six consecutive quarters (FY24 total $62.8bn) 3. High-margin mainframe software growth ",
+      "text": "1. Hybrid cloud growth has slowed from peak; watsonx AI services still 2. Revenue has been flat-to-declining for six consecutive quarters (FY24 total $62.8bn) 3. High-margin mainframe software growth is dependent on legacy upgrade cycle continuation 4. Acquisition integration risk: HashiCorp and Kyndyl drag on operating margins 5. Skilled-labour intensity in professional services constrains margin expansion",
       "risks": [
         {
           "rank": 1,
@@ -84,7 +86,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "IBM (IBM) — Entry / Exit Framework\n\nHOLD zone: $212.3–$235.38 — current levels are fairly valued.\nTrim / Take Profits above $235.38 — approaching the 52-week high at $324.90.\nStop-loss: A sustained close below $216.31 (52-week low) would warrant reassessment."
+      "text": "Average into a $216–$224 zone (20–25% below 52w high). HOLD in $224–$248 range. REDUCE above $248. Key trigger: watsonx AI services revenue run-rate breaks $5bn annually. | BUY: Average into a $216–$224 zone (20–25% below 52w high). | REDUCE above $248."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -97,13 +99,13 @@
     "current": {
       "score": 62,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 62,
         "band": "HOLD",
         "delta": "0",

@@ -5,15 +5,15 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 67,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "sp100",
-      "watchlist",
-      "fortune100"
+      "fortune100",
+      "watchlist"
     ]
   },
   "price": {
@@ -31,10 +31,10 @@
       "text": "Amgen's established biopharma franchise delivers resilient free cash flow, but the obesity pipeline readout and biosimilar portfolio evolution are binary events that could fundamentally change the investment thesis — HOLD is the weighted recommendation pending clarity on pipeline outcomes."
     },
     "businessModel": {
-      "text": "Amgen discovers, develops and manufactures biopharmaceuticals across several therapeutic areas: oncology (Prolia, Xgeva, Kyprolis, Blincyto), inflammation (Enbrel, Tezspire, Otezla), cardiovascular (Repatha, Evolocumab PCSK9 inhibitor), and nephrology (Aranesp). The company is notable for its pioneering role in the US biotech industry and its substantial manufacturing footprint, which it has leveraged to enter the biosimilar market with Amjevita (adalimumab biosimilar, referencing Humira).\n            Amgen's pipeline includes MariTide (AMG 133), a GIPR/GLP-1 bispecific receptor agonist in Phase II for obesity — a potentially transformative asset that would position Amgen in the largest pharmaceutical market globally. The biosimilar strategy is a deliberate response to patent expirations on key biologics, generating revenue from differentiated but lower-margin versions of blockbuster reference products."
+      "text": "Amgen discovers, develops and manufactures biopharmaceuticals across several therapeutic areas: oncology (Prolia, Xgeva, Kyprolis, Blincyto), inflammation (Enbrel, Tezspire, Otezla), cardiovascular (Repatha, Evolocumab PCSK9 inhibitor), and nephrology (Aranesp). The company is notable for its pioneering role in the US biotech industry and its substantial manufacturing footprint, which it has leveraged to enter the biosimilar market with Amjevita (adalimumab biosimilar, referencing Humira). Amgen's pipeline includes MariTide (AMG 133), a GIPR/GLP-1 bispecific receptor agonist in Phase II for obesity — a potentially transformative asset that would position Amgen in the largest pharmaceutical market globally. The biosimilar strategy is a deliberate response to patent expirations on key biologics, generating revenue from differentiated but lower-margin versions of blockbuster reference products."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -66,22 +66,22 @@
       "text": "MariTide Phase II data readout showed compelling weight loss results (22.5% body weight reduction at highest dose at 52 weeks) — meaningfully competitive with semaglutide and tirzepatide benchmarks. This positions Amgen as a potential challenger in the GLP-1 obesity market, though Phase III trials and regulatory approval remain prerequisites. In the near term, Amgen's existing portfolio faces biosimilar competition for Prolia/Xgeva (romosozumab) in Europe and Tezspire faces IL-5 competition in severe asthma. The stock has re-rated upward since the MariTide data but remains below 52-week highs."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (78): MariTide Phase III trials confirm competitive weight loss efficacy with a differentiated dosing profile (monthly injection vs weekly). FDA approval enables Amgen to capture meaningful share in the GLP-1 obesity market — potentially $3–5 billion peak revenue. Biosimilar uptake is strong. EPS grows to $18.00+. Price: $440+.\n            Base Case (68): MariTide succeeds in Phase III but differentiation from Lilly and Novo Nordisk is modest. Competitive dynamics in obesity erode pricing and peak revenue assumptions. Established franchise revenues hold stable with modest biosimilar erosion. EPS reaches $15.00–$15.80. Price: $360–$400.\n            Bear Case (50): MariTide Phase III fails to replicate Phase II efficacy or shows safety signals. Biosimilar competition accelerates, particularly for Prolia. Enbrel continues to face AbbVie's Skyrizi/Rinvoq IL-inhibitor competition. EPS falls to $12.50–$13.00. Price: below $295.\n            Weighted Score: 67 — Bull 78 × 30% + Base 68 × 50% + Bear 50 × 20%",
+      "text": "Bull Case (78): MariTide Phase III trials confirm competitive weight loss efficacy with a differentiated dosing profile (monthly injection vs weekly). FDA approval enables Amgen to capture meaningful share in the GLP-1 obesity market — potentially $3–5 billion peak revenue. Biosimilar uptake is strong. EPS grows to $18.00+. Price: $440+. Base Case (68): MariTide succeeds in Phase III but differentiation from Lilly and Novo Nordisk is modest. Competitive dynamics in obesity erode pricing and peak revenue assumptions. Established franchise revenues hold stable with modest biosimilar erosion. EPS reaches $15.00–$15.80. Price: $360–$400. Bear Case (50): MariTide Phase III fails to replicate Phase II efficacy or shows safety signals. Biosimilar competition accelerates, particularly for Prolia. Enbrel continues to face AbbVie's Skyrizi/Rinvoq IL-inhibitor competition. EPS falls to $12.50–$13.00. Price: below $295. Weighted Score: 67 — Bull 78 × 30% + Base 68 × 50% + Bear 50 × 20%",
       "bull": {
-        "scenario": "Bull Case (78): MariTide Phase III trials confirm competitive weight loss efficacy with a differentiated dosing profile (monthly injection vs weekly). FDA approval enables Amgen to capture meaningful share in the GLP-1 obesity market — potentially $3–5 billion peak revenue. Biosimilar uptake is strong. EPS grows to $18.00+. Price: $440+.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (68): MariTide succeeds in Phase III but differentiation from Lilly and Novo Nordisk is modest. Competitive dynamics in obesity erode pricing and peak revenue assumptions. Established franchise revenues hold stable with modest biosimilar erosion. EPS reaches $15.00–$15.80. Price: $360–$400.",
-        "probability": null
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (50): MariTide Phase III fails to replicate Phase II efficacy or shows safety signals. Biosimilar competition accelerates, particularly for Prolia. Enbrel continues to face AbbVie's Skyrizi/Rinvoq IL-inhibitor competition. EPS falls to $12.50–$13.00. Price: below $295.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "MariTide Phase III failure: Phase II obesity data was encouraging but Phase III outcomes are binary. Failure to replicate Phase II weight loss efficacy or emergence of safety signals would eliminate t",
+      "text": "MariTide Phase III failure: Phase II obesity data was encouraging but Phase III outcomes are binary. Failure to replicate Phase II weight loss efficacy or emergence of safety signals would eliminate the most important re-rating catalyst and likely trigger a significant stock decline. GLP-1 competitive intensity: The obesity market will ultimately be contested by Eli Lilly (tirzepatide), Novo Nordisk (semaglutide), Pfizer (oral GLP-1), and others. Amgen's differentiation may not be sufficient to achieve blockbusters revenue given the entrenched incumbent advantages of Novo and Lilly in this therapeutic area. Biosimilar erosion of key brands: Prolia/Xgeva (romosozumab for osteoporosis) faces imminent biosimilar competition. If biosimilar uptake is rapid, it could create a material revenue hole before MariTide can offset it. Pipeline productivity risk: Beyond MariTide, Amgen's early-stage pipeline is less visible to markets. A high Phase III failure rate on any of the oncology or inflammation candidates would damage long-term earnings visibility. Pricing and reimbursement pressure: US IRA (Inflation Reduction Act) price negotiation provisions could affect Amgen's Medicare revenue from 2026 onwards, suppressing net realised prices on established products.",
       "risks": [
         {
           "rank": 1,
@@ -106,13 +106,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Investors who want obesity pipeline exposure at a cheaper valuation than Lilly, with the added safety of an established biopharma cash flow base. The 25x P/E is reasonable for the optionality MariTide represents. Patient, conviction-based investors. Avoiders: Those seeking pure GLP-1 obesity exposure with a cleaner read on Phase III outcomes may prefer Novo Nordisk. Investors who want certainty on earnings durability should look to more predictable franchises."
+      "text": "Own: Investors who want obesity pipeline exposure at a cheaper valuation than Lilly, with the added safety of an established biopharma cash flow base. The 25x P/E is reasonable for the optionality MariTide represents. Patient, conviction-based investors."
     },
     "recommendation": {
-      "text": "HOLD. Amgen presents an interesting risk-reward at current levels: the established franchise provides downside support, while MariTide represents a meaningful, partially-priced-in obesity pipeline optionality. The Phase III read is the binary event that determines whether the HOLD becomes a BUY or a SELL. Maintain positions and await Phase III data clarity.\n            Entry framework: BUY below $310 (implies 22x P/E — provides margin of safety against established franchise, free option on MariTide success). Reduce on rallies above $395 (pricing in full Phase III success that is not yet certain). Position sizing should reflect the binary nature of the Phase III catalyst."
+      "text": "HOLD. Amgen presents an interesting risk-reward at current levels: the established franchise provides downside support, while MariTide represents a meaningful, partially-priced-in obesity pipeline optionality. The Phase III read is the binary event that determines whether the HOLD becomes a BUY or a SELL. Maintain positions and await Phase III data clarity. Entry framework: BUY below $310 (implies 22x P/E — provides margin of safety against established franchise, free option on MariTide success). Reduce on rallies above $395 (pricing in full Phase III success that is not yet certain). Position sizing should reflect the binary nature of the Phase III catalyst."
     },
     "entryExit": {
-      "text": "BUY below $310 (implies 22x P/E — provides margin of safety against established franchise, free option on MariTide success). Reduce on rallies above $395 (pricing in full Phase III success that is not yet certain). Position sizing should reflect the binary nature of the Phase III catalyst."
+      "text": "BUY below $310 (implies 22x P/E — provides margin of safety against established franchise, free option on MariTide success). Reduce on rallies above $395 (pricing in full Phase III success that is not yet certain). Position sizing should reflect the binary nature of the Phase III catalyst. | Entry framework: BUY below $310 (implies 22x P/E — provides margin of safety against established franchise, free option on MariTide success). | Reduce on rallies above $395 (pricing in full Phase III success that is not yet certain)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -125,13 +125,13 @@
     "current": {
       "score": 67,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 67,
         "band": "HOLD",
         "delta": "0",

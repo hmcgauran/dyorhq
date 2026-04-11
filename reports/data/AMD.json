@@ -5,15 +5,15 @@
     "exchange": "",
     "isin": "",
     "date": "10 Apr 2026",
-    "datePublished": "2026-04-10",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 60,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "sp100",
-      "watchlist",
-      "fortune100"
+      "fortune100",
+      "watchlist"
     ]
   },
   "price": {
@@ -31,10 +31,10 @@
       "text": "AMD is the most credible alternative to NVIDIA in AI accelerators and has made genuine GPU architecture progress, but at a P/E of 94x the market is already pricing a successful execution of an extremely demanding AI trajectory — HOLD is the appropriate recommendation at current levels."
     },
     "businessModel": {
-      "text": "AMD designs and sells semiconductors across four primary segments: Data Centre (servers, AI accelerators, EPYC CPUs), Client (Ryzen PC and laptop processors), Gaming (Radeon GPUs and semi-custom chips for consoles), and Embedded (XPandIO, FPGAs, and networking).\n            The Data Centre segment is now the primary value driver, having surpassed Client as the largest revenue contributor in FY2024–25, driven by demand for MI300X AI accelerators which compete directly with NVIDIA's H100/H200 stack. AMD's ROCm software ecosystem is improving but remains a weaker moat than NVIDIA's CUDA — this is the single most important competitive variable going forward.\n            The companyfabless model — manufacturing via TSMC — provides capital efficiency but means AMD does not control its own foundry capacity, a structural consideration in times of supply constraint."
+      "text": "AMD designs and sells semiconductors across four primary segments: Data Centre (servers, AI accelerators, EPYC CPUs), Client (Ryzen PC and laptop processors), Gaming (Radeon GPUs and semi-custom chips for consoles), and Embedded (XPandIO, FPGAs, and networking). The Data Centre segment is now the primary value driver, having surpassed Client as the largest revenue contributor in FY2024–25, driven by demand for MI300X AI accelerators which compete directly with NVIDIA's H100/H200 stack. AMD's ROCm software ecosystem is improving but remains a weaker moat than NVIDIA's CUDA — this is the single most important competitive variable going forward. The companyfabless model — manufacturing via TSMC — provides capital efficiency but means AMD does not control its own foundry capacity, a structural consideration in times of supply constraint."
     },
     "financialSnapshot": {
-      "text": "<p style=\"font-size:0.85em;color:#666;margin-top:8px;\">Note: Revenue figures are consensus estimates. Cash and debt from last reported balance sheet.</p>\n          </div>",
+      "text": "Note: Revenue figures are consensus estimates. Cash and debt from last reported balance sheet.",
       "table": [
         {
           "label": "Current Price",
@@ -79,7 +79,7 @@
       ]
     },
     "recentCatalysts": {
-      "text": "MI300X acceleration: AMD's AI accelerator sales have grown meaningfully since the MI300X launch, reaching multi-billion-dollar annual revenue run rate. Hyperscaler adoption beyond the initial Microsoft and Meta deployments is the key test — and evidence of expanded uptake has supported the stock in 2025–26.\n              ROCm software ecosystem: AMD has invested heavily in making its software stack more developer-friendly, closing the gap with CUDA. Greater ROCm compatibility reduces the switching cost for AI model deployments away from NVIDIA, which is a necessary condition for AMD to gain AI market share.\n              Consumption tariff risk: Like all semiconductor names, AMD is exposed to tariff-driven cost inflation. The fabless model via TSMC provides some insulation, but end-product pricing pressure is a margin risk if the full tariff burden cannot be passed on.\n              China revenue exposure: US export controls restrict AMD's ability to sell high-end AI chips to China. This limits the total addressable market and creates uncertainty around geographic revenue mix.\n              Intel competition dynamics: Intel's foundry difficulties and competitive weakness in AI create a two-way framing for AMD — less competitive pressure on CPU, but the Data Centre AI narrative is primarily judged against NVIDIA, not Intel.",
+      "text": "MI300X acceleration: AMD's AI accelerator sales have grown meaningfully since the MI300X launch, reaching multi-billion-dollar annual revenue run rate. Hyperscaler adoption beyond the initial Microsoft and Meta deployments is the key test — and evidence of expanded uptake has supported the stock in 2025–26. ROCm software ecosystem: AMD has invested heavily in making its software stack more developer-friendly, closing the gap with CUDA. Greater ROCm compatibility reduces the switching cost for AI model deployments away from NVIDIA, which is a necessary condition for AMD to gain AI market share. Consumption tariff risk: Like all semiconductor names, AMD is exposed to tariff-driven cost inflation. The fabless model via TSMC provides some insulation, but end-product pricing pressure is a margin risk if the full tariff burden cannot be passed on. China revenue exposure: US export controls restrict AMD's ability to sell high-end AI chips to China. This limits the total addressable market and creates uncertainty around geographic revenue mix. Intel competition dynamics: Intel's foundry difficulties and competitive weakness in AI create a two-way framing for AMD — less competitive pressure on CPU, but the Data Centre AI narrative is primarily judged against NVIDIA, not Intel.",
       "items": [
         "MI300X acceleration: AMD's AI accelerator sales have grown meaningfully since the MI300X launch, reaching multi-billion-dollar annual revenue run rate. Hyperscaler adoption beyond the initial Microsoft and Meta deployments is the key test — and evidence of expanded uptake has supported the stock in 2025–26.",
         "ROCm software ecosystem: AMD has invested heavily in making its software stack more developer-friendly, closing the gap with CUDA. Greater ROCm compatibility reduces the switching cost for AI model deployments away from NVIDIA, which is a necessary condition for AMD to gain AI market share.",
@@ -89,22 +89,22 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "Bull Scenario (30% weight): MI300 series gains significant hyperscaler traction, ROCm closes the software gap to CUDA, and AMD achieves 20%+ Data Centre market share in AI accelerators by 2027. EPS inflects sharply higher, justifying a re-rating. Price target ~$310–340. Score: 85\n            Base Scenario (50% weight): AMD maintains steady Data Centre CPU share, MI300 series grows but at a measured pace, and ROCm ecosystem gains gradual adoption. EPS grows at 15–20% annually but the P/E stays elevated, capping share price appreciation. Price target ~$250–280. Score: 60\n            Bear Scenario (20% weight): NVIDIA's competitive moat (CUDA, NVLink, new Blackwell architecture) proves insurmountable; hyperscalers consolidate AI chip buying around NVIDIA; AMD's MI series growth plateaus. Multiple de-rates sharply to 50–60x P/E. Price target ~$120–145. Score: 25\n            Conviction Score: (85×0.30) + (60×0.50) + (25×0.20) = 59.5 → 60 — HOLD (borderline REDUCE)",
+      "text": "Bull Scenario (30% weight): MI300 series gains significant hyperscaler traction, ROCm closes the software gap to CUDA, and AMD achieves 20%+ Data Centre market share in AI accelerators by 2027. EPS inflects sharply higher, justifying a re-rating. Price target ~$310–340. Score: 85 Base Scenario (50% weight): AMD maintains steady Data Centre CPU share, MI300 series grows but at a measured pace, and ROCm ecosystem gains gradual adoption. EPS grows at 15–20% annually but the P/E stays elevated, capping share price appreciation. Price target ~$250–280. Score: 60 Bear Scenario (20% weight): NVIDIA's competitive moat (CUDA, NVLink, new Blackwell architecture) proves insurmountable; hyperscalers consolidate AI chip buying around NVIDIA; AMD's MI series growth plateaus. Multiple de-rates sharply to 50–60x P/E. Price target ~$120–145. Score: 25 Conviction Score: (85×0.30) + (60×0.50) + (25×0.20) = 59.5 → 60 — HOLD (borderline REDUCE)",
       "bull": {
-        "scenario": "Bull Scenario (30% weight): MI300 series gains significant hyperscaler traction, ROCm closes the software gap to CUDA, and AMD achieves 20%+ Data Centre market share in AI accelerators by 2027. EPS inflects sharply higher, justifying a re-rating. Price target ~$310–340. Score: 85",
-        "probability": 30
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Scenario (50% weight): AMD maintains steady Data Centre CPU share, MI300 series grows but at a measured pace, and ROCm ecosystem gains gradual adoption. EPS grows at 15–20% annually but the P/E stays elevated, capping share price appreciation. Price target ~$250–280. Score: 60",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear Scenario (20% weight): NVIDIA's competitive moat (CUDA, NVLink, new Blackwell architecture) proves insurmountable; hyperscalers consolidate AI chip buying around NVIDIA; AMD's MI series growth plateaus. Multiple de-rates sharply to 50–60x P/E. Price target ~$120–145. Score: 25",
-        "probability": 20
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "NVIDIA CUDA moat: The single biggest risk is that CUDA ecosystem lock-in is durable enough that AMD's hardware progress cannot convert into meaningful AI accelerator market share. Software ecosystem i",
+      "text": "NVIDIA CUDA moat: The single biggest risk is that CUDA ecosystem lock-in is durable enough that AMD's hardware progress cannot convert into meaningful AI accelerator market share. Software ecosystem is the long-pole in this race. Valuation stretch: A P/E of 94x for a company with EPS of $2.61 leaves almost no room for execution missteps. Any Data Centre revenue miss would cause a sharp de-rating. TSMC supply and geopolitical concentration: AMD relies entirely on TSMC for leading-edge silicon. Taiwan Strait risk or TSMC capacity constraints would be disruptive, and there is no obvious alternative supplier at scale. Export controls: US restrictions on AI chip exports to China limit AMD's addressable market in what is a large and growing AI compute market. Competitive CPU pressure: Intel's Xeon roadmap recovery and ARM-based CPU competition (Qualcomm, Ampere, Amazon's Graviton) could pressure the Server CPU business that underpins AMD's base earnings power.",
       "risks": [
         {
           "rank": 1,
@@ -132,10 +132,10 @@
       "text": "Own if: You have high conviction that AMD's MI300 series will achieve significant AI accelerator market share gains, you have a 3–5 year horizon, and you are comfortable with elevated volatility at a 94x P/E. Speculative and thematic tech allocators may find the risk-reward compelling here. Avoid or trim if: You are valuation-sensitive or managing risk in a concentrated tech position. The risk of NVIDIA maintaining an insurmountable software moat is underweighted by the market at current levels. A position in AMD should not crowd out exposure to NVIDIA itself in a diversified AI allocation."
     },
     "recommendation": {
-      "text": "HOLD — with a narrow margin to REDUCE. AMD is a genuinely good semiconductor business with a credible AI accelerator story. The problem is price: at $245 and a P/E of 94x, almost all the good news appears to be in the stock. The conviction score of 60 reflects this — it sits precisely at the boundary between HOLD and REDUCE.\n            If you already own it from lower levels, holding is reasonable. Initiating a new position here requires either strong conviction in a bull scenario or a willingness to absorb significant volatility."
+      "text": "HOLD — with a narrow margin to REDUCE. AMD is a genuinely good semiconductor business with a credible AI accelerator story. The problem is price: at $245 and a P/E of 94x, almost all the good news appears to be in the stock. The conviction score of 60 reflects this — it sits precisely at the boundary between HOLD and REDUCE. If you already own it from lower levels, holding is reasonable. Initiating a new position here requires either strong conviction in a bull scenario or a willingness to absorb significant volatility."
     },
     "entryExit": {
-      "text": "Add / Initiate: Below $190 — a ~22% pullback from current levels, representing a P/E of ~73x, which begins to price in some execution risk rather than assuming everything goes right.\n              HOLD zone: $190–$255 — current levels. AMD is not dramatically mispriced in either direction for a investor with a 3-year horizon and conviction in the AI accelerator theme.\n              Trim / Reduce: $255–$268 — approaching the 52-week high of $267.08. At these levels the risk-reward is poor given the elevated P/E.\n              Stop-loss consideration: A sustained break below $185 (52-week low is $83.75, so this is a wide band) would need fundamental explanation — but any sustained weakness below $185 following an earnings miss would be a signal to reduce materially."
+      "text": "Add / Initiate: Below $190 — a ~22% pullback from current levels, representing a P/E of ~73x, which begins to price in some execution risk rather than assuming everything goes right. HOLD zone: $190–$255 — current levels. AMD is not dramatically mispriced in either direction for a investor with a 3-year horizon and conviction in the AI accelerator theme. Trim / Reduce: $255–$268 — approaching the 52-week high of $267.08. At these levels the risk-reward is poor given the elevated P/E. Stop-loss consideration: A sustained break below $185 (52-week low is $83.75, so this is a wide band) would need fundamental explanation — but any sustained weakness below $185 following an earnings miss would be a signal to reduce materially."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -155,13 +155,13 @@
     "current": {
       "score": 60,
       "band": "HOLD",
-      "date": "2026-04-10",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-10",
+        "date": "",
         "score": 60,
         "band": "HOLD",
         "delta": "0",

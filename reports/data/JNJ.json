@@ -1,16 +1,18 @@
 {
   "meta": {
-    "ticker": "",
+    "ticker": "JNJ",
     "company": "JNJ",
     "exchange": "",
     "isin": "",
     "date": "",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 60,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
+      "sp100",
+      "fortune100",
       "watchlist"
     ]
   },
@@ -29,7 +31,7 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Completed spinoff of Kenvue (consumer health) Q4 2023 — cleaner P&L profile\n    Carvykti (cilta-cel) BCMA CAR-T approved Q1 2024, showing strong launch trajectory\n    Acquisition of Shockwave Medical (2024) adds $1.1bn coronary IVL franchise\n    Pipeline: lazertinib (Lung cancer), andatorysen (solid tumours) in pivotal trials",
+      "text": "Completed spinoff of Kenvue (consumer health) Q4 2023 — cleaner P&L profile Carvykti (cilta-cel) BCMA CAR-T approved Q1 2024, showing strong launch trajectory Acquisition of Shockwave Medical (2024) adds $1.1bn coronary IVL franchise Pipeline: lazertinib (Lung cancer), andatorysen (solid tumours) in pivotal trials",
       "items": [
         "Completed spinoff of Kenvue (consumer health) Q4 2023 — cleaner P&L profile",
         "Carvykti (cilta-cel) BCMA CAR-T approved Q1 2024, showing strong launch trajectory",
@@ -38,7 +40,7 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "70\n      Bull\n    \n    \n      60\n      Base\n    \n    \n      44\n      Bear\n    \n    \n      60\n      Conviction",
+      "text": "70 Bull 60 Base 44 Bear 60 Conviction",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -53,7 +55,7 @@
       }
     },
     "keyRisks": {
-      "text": "1. Stelara (ustekinumab) lost US exclusivity March 2025 — $10bn+ revenue headwind 2. Darwin acquisition (Imedium) adds operational complexity in med-tech adds operational complexity in med-tech 3. Imm",
+      "text": "1. Stelara (ustekinumab) lost US exclusivity March 2025 — $10bn+ revenue headwind 2. Darwin acquisition (Imedium) adds operational complexity in med-tech adds operational complexity in med-tech 3. Immunology pipeline setbacks could accelerate if FDA scrutinises accelerated approvals 4. Med-tech pricing pressure in US hospital consolidated purchasing groups 5. Talent headwinds in key med-tech markets as integration ofShockwave proceeds",
       "risks": [
         {
           "rank": 1,
@@ -84,7 +86,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "Johnson & Johnson (JNJ) — Entry / Exit Framework\n\nHOLD zone: $219.38–$243.23 — current levels are fairly valued.\nTrim / Take Profits above $243.23 — approaching the 52-week high at $251.71.\nStop-loss: A sustained close below $143.2 (52-week low) would warrant reassessment."
+      "text": "Scale in at $220–$230 (within 7% of 52-week low). HOLD $230–$248. REDUCE above $248. Pipeline catalyst to watch: lazertinib Phase III readout H2 2026. | BUY: Scale in at $220–$230 (within 7% of 52-week low). | REDUCE above $248."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -97,13 +99,13 @@
     "current": {
       "score": 60,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 60,
         "band": "HOLD",
         "delta": "0",

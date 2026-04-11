@@ -5,15 +5,15 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 45,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "sp100",
-      "watchlist",
-      "fortune100"
+      "fortune100",
+      "watchlist"
     ]
   },
   "price": {
@@ -24,32 +24,32 @@
       "text": ""
     },
     "businessModel": {
-      "text": "General Electric is an industrial conglomerate focused on three core businesses following years of portfolio simplification:\n  \n    GE Aerospace: The crown jewel. Aircraft engines (LEAP, GE9X) and aviation systems for commercial and military aircraft. The LEAP engine (co-produced with Safran) powers the Airbus A320neo family and is in high-demand given the aircraft backlog. GE9X powers the Boeing 777X. This segment generates the highest margins and most durable growth in the portfolio.\n    GE Vernova: Energy infrastructure including gas turbines, steam turbines, power conversion, and grid solutions. The business is a beneficiary of AI data-centre power demand and grid modernisation spending globally. GE Vernova is a separate publicly traded entity following its 2024 spinoff.\n    GE HealthCare: Medical imaging equipment (MRI, CT, X-ray), ultrasound, and digital infrastructure for healthcare. Spun off in January 2023 as a separately traded company. GE retains a meaningful stake.\n  \n  The investment case centres on the GE Aerospace franchise — one of the few truly dominant industrial franchises globally, with a large installed base generating recurring aftermarket revenue from spare parts, maintenance, and upgrades."
+      "text": "General Electric is an industrial conglomerate focused on three core businesses following years of portfolio simplification: GE Aerospace: The crown jewel. Aircraft engines (LEAP, GE9X) and aviation systems for commercial and military aircraft. The LEAP engine (co-produced with Safran) powers the Airbus A320neo family and is in high-demand given the aircraft backlog. GE9X powers the Boeing 777X. This segment generates the highest margins and most durable growth in the portfolio. GE Vernova: Energy infrastructure including gas turbines, steam turbines, power conversion, and grid solutions. The business is a beneficiary of AI data-centre power demand and grid modernisation spending globally. GE Vernova is a separate publicly traded entity following its 2024 spinoff. GE HealthCare: Medical imaging equipment (MRI, CT, X-ray), ultrasound, and digital infrastructure for healthcare. Spun off in January 2023 as a separately traded company. GE retains a meaningful stake. The investment case centres on the GE Aerospace franchise — one of the few truly dominant industrial franchises globally, with a large installed base generating recurring aftermarket revenue from spare parts, maintenance, and upgrades."
     },
     "financialSnapshot": {
-      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$308.35</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$322.2bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">37.7×</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$8.18</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$348.48</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$175.05</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">−11.5%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">3.7m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "text": "Price $308.35 Market Cap $322.2bn P/E Ratio 37.7× EPS (TTM) $8.18 52w High $348.48 52w Low $175.05 Distance from 52wH −11.5% Avg Volume 3.7m",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case\n      75 / 100\n      Global air travel demand grows at 5–6 per cent annually, driving sustained LEAP and GE9X engine demand. The aftermarket revenue cycle matures into a multi-decade high-margin stream. GE Aerospace achieves 30–35 per cent operating margins. The shares re-rate to 40–45× earnings as the market fully prices in the secular aviation growth story. Total returns of 15–20 per cent annually from here.\n      Weight: 30%\n    \n    \n      Base Case\n      55 / 100\n      Aviation demand grows at 4–5 per cent annually, a strong but not exceptional environment. LEAP production stabilises at current rates; aftermarket growth is steady. GE Aerospace margins expand to 28–30 per cent. Boeing recovery improves engine ordering. The shares trade at 33–40× earnings, delivering high-single-digit to low-double-digit annual returns.\n      Weight: 50%\n    \n    \n      Bear Case\n      30 / 100\n      Global economic slowdown reduces air travel demand, causing airlines to defer fleet expansion. Boeing's recovery stalls and 777X delays worsen. New engine development ( hydrogen, SAF-compatible) requires significant R&amp;D spend. GE Aerospace margins compress and the multiple de-rates to 25× as the market prices in a more cyclical profile for the aviation franchise.\n      Weight: 20%",
+      "text": "Bull Case 75 / 100 Global air travel demand grows at 5–6 per cent annually, driving sustained LEAP and GE9X engine demand. The aftermarket revenue cycle matures into a multi-decade high-margin stream. GE Aerospace achieves 30–35 per cent operating margins. The shares re-rate to 40–45× earnings as the market fully prices in the secular aviation growth story. Total returns of 15–20 per cent annually from here. Weight: 30% Base Case 55 / 100 Aviation demand grows at 4–5 per cent annually, a strong but not exceptional environment. LEAP production stabilises at current rates; aftermarket growth is steady. GE Aerospace margins expand to 28–30 per cent. Boeing recovery improves engine ordering. The shares trade at 33–40× earnings, delivering high-single-digit to low-double-digit annual returns. Weight: 50% Bear Case 30 / 100 Global economic slowdown reduces air travel demand, causing airlines to defer fleet expansion. Boeing's recovery stalls and 777X delays worsen. New engine development ( hydrogen, SAF-compatible) requires significant R&amp;D spend. GE Aerospace margins compress and the multiple de-rates to 25× as the market prices in a more cyclical profile for the aviation franchise. Weight: 20%",
       "bull": {
-        "scenario": "Bull Case\n      75 / 100\n      Global air travel demand grows at 5–6 per cent annually, driving sustained LEAP and GE9X engine demand. The aftermarket revenue cycle matures into a multi-decade high-margin stream. GE Aerospace achieves 30–35 per cent operating margins. The shares re-rate to 40–45× earnings as the market fully prices in the secular aviation growth story. Total returns of 15–20 per cent annually from here.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
-        "probability": 30
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case\n      55 / 100\n      Aviation demand grows at 4–5 per cent annually, a strong but not exceptional environment. LEAP production stabilises at current rates; aftermarket growth is steady. GE Aerospace margins expand to 28–30 per cent. Boeing recovery improves engine ordering. The shares trade at 33–40× earnings, delivering high-single-digit to low-double-digit annual returns.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case\n      30 / 100",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "1 GE Aerospace multiple concentration: Following the spinoffs, GE's entire investment case rests on the aviation business. Any meaningful deterioration in the commercial aviation cycle, LEAP pricing p",
+      "text": "1 GE Aerospace multiple concentration: Following the spinoffs, GE's entire investment case rests on the aviation business. Any meaningful deterioration in the commercial aviation cycle, LEAP pricing pressure, or competitive encroachment (Rolls-Royce Trent) would have an outsized impact on the valuation. 2 Boeing dependency: GE Aerospace is the exclusive engine supplier for the Boeing 737 MAX and 777X. Boeing's well-documented quality and production challenges could slow engine offtake and impair the revenue trajectory for these programmes. 3 LEAP programme risks: The LEAP engine is a critical revenue driver. Geopolitical trade disruptions (particularly between the US and France/Safran joint venture partners), supply chain constraints, or quality issues with the LEAP could impair the most important programme in the portfolio. 4 SAF and hydrogen transition costs: The aviation industry faces regulatory pressure to adopt sustainable aviation fuels (SAF) and hydrogen-compatible engines. The R&amp;D and capital expenditure required to develop these next-generation technologies could be substantial without clear cost recovery timelines. 5 Aftermarket margin normalisation: The high-margin aftermarket business depends on a large and ageing installed base. As newer engines (LEAP) enter the fleet, the mix shift from mature high-margin overhauls to newer engine service contracts could pressure segment margins.",
       "risks": [
         {
           "rank": 1,
@@ -77,10 +77,10 @@
       "text": "Appropriate For Long-term industrial investors who want the premier aviation franchise globally and are willing to accept a premium valuation in exchange for a business with a secular growth tailwind and a durable aftermarket revenue moat Thematic investors in the global travel recovery and fleet expansion cycle who want broad aviation exposure without single-airline or single-platform risk Those who believe Culp-era operational improvements are still early in their realisation, with significant margin expansion still to come from the aerospace business Avoid If Seeking value or a reasonable entry P/E — at 37.7× earnings the shares price in very high-quality execution with almost no margin of safety for unexpected setbacks Concerned about Boeing's production recovery trajectory or the broader commercial aviation cycle's sensitivity to macroeconomic conditions Portfolio already holds Rolls-Royce (RYCEY) or Honeywell (HON) which provide overlapping aerospace exposure at more reasonable valuations"
     },
     "recommendation": {
-      "text": "Conviction Score: 56/100 — REDUCE\n  At 37.7× earnings and 11.5 per cent below the 52-week high, the shares are not cheap and do not offer sufficient margin of safety for a high-conviction Buy. The aviation franchise is genuinely exceptional, but the valuation reflects this. Existing holders can maintain positions; new buyers should wait for a more attractive entry point below $260.\n  \n    Buy Below$260\n    HOLD Zone$260–$320\n    Reduce Above$320\n    Stop / Sell$240"
+      "text": "Conviction Score: 56/100 — REDUCE At 37.7× earnings and 11.5 per cent below the 52-week high, the shares are not cheap and do not offer sufficient margin of safety for a high-conviction Buy. The aviation franchise is genuinely exceptional, but the valuation reflects this. Existing holders can maintain positions; new buyers should wait for a more attractive entry point below $260. Buy Below $260 HOLD Zone $260–$320 Reduce Above $320 Stop / Sell $240"
     },
     "entryExit": {
-      "text": "GE — General Electric Company (GE) — Entry / Exit Framework\n\nReduce / Trim: Above $314.52 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $339.19 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $355.45 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $190.1 — partial mean reversion toward the middle of the 52-week range."
+      "text": "Buy Below: $260 | HOLD Zone: $260–$320 | Reduce Above: $320 | Stop / Sell: $240 | Existing holders can maintain positions; new buyers should wait for a more attractive entry point below $260."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -91,16 +91,16 @@
   },
   "scores": {
     "current": {
-      "score": 45,
+      "score": 50,
       "band": "REDUCE",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 45,
+        "date": "",
+        "score": 50,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"

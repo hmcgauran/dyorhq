@@ -5,10 +5,10 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 45,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -19,36 +19,73 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Cencora (formerly AmerisourceBergen) offers defensive pharmaceutical distribution exposure with a high-quality specialty pharmacy growth engine, but the absence of reported P/E data and thin public float limit investment precision."
     },
     "businessModel": {
-      "text": ""
+      "text": "Cencora is the second-largest US pharmaceutical distributor (behind McKesson), operating two segments: (1) US Healthcare Solutions (distributes specialty pharmaceutical products, physician-administered drugs, and vaccines; operates the broadest specialty pharmacy network in the US); and (2) International Healthcare Solutions (distribution and manufacturer services in 14 countries including Europe, South America, and Canada). Cencora is particularly strong in HIV/AIDS therapeutics (serving ~50% of US patients), oncology, and orphan drugs. The company also provides third-party logistics (3PL) services for manufacturers and clinical trial support. Unlike McKesson, Cencora has minimal retail pharmacy exposure, making it a purer play on manufacturer and specialty services relationships."
     },
     "financialSnapshot": {
-      "text": "",
+      "text": "Price $320.82 Market Cap $14.2bn P/E Ratio N/A EPS (TTM) N/A 52w High $377.54 15.0% from high 52w Low $271 18.4% above low Volume (avg) 1.0m",
       "table": []
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "Specialty distribution market share gains in HIV/AIDS and oncology following Walgreens-SWS termination of the NowFern joint venture in 2024. European expansion through the /Cencora + Walgreens/ European procurement alliance driving supplier consolidation benefits. Manufacturer services revenue (clinical trial support, safety surveillance) growing ~22% annually as pharma R&D spend increases. New 3-year manufacturer contracts signed with six of the top 20 global pharma companies for US distribution exclusivity. Data analytics platform launch (Cencora Insights) monetising supply chain data for manufacturer clients.",
+      "items": [
+        "Specialty distribution market share gains in HIV/AIDS and oncology following Walgreens-SWS termination of the NowFern joint venture in 2024.",
+        "European expansion through the /Cencora + Walgreens/ European procurement alliance driving supplier consolidation benefits.",
+        "Manufacturer services revenue (clinical trial support, safety surveillance) growing ~22% annually as pharma R&D spend increases.",
+        "New 3-year manufacturer contracts signed with six of the top 20 global pharma companies for US distribution exclusivity.",
+        "Data analytics platform launch (Cencora Insights) monetising supply chain data for manufacturer clients."
+      ]
     },
     "thesisEvaluation": {
-      "text": "",
-      "bull": {},
-      "base": {},
-      "bear": {}
+      "text": "Bull Case $395 Upside: +23% | Weight: 30% Base Case $345 Upside: +8% | Weight: 50% Bear Case $285 Downside: -11% | Weight: 20% Cencora is a high-quality, under-the-radar healthcare distribution business with a strong moat in specialty pharma and an underappreciated manufacturer services franchise. The lack of a reported P/E reflects the company's debt-financed Linde acquisition structure and significant intangible amortisation — underlying earnings power is stronger than GAAP suggests. The EV/EBITDA multiple is the more appropriate valuation metric. The business is structurally advantaged as pharmacy benefit managers and manufacturers consolidate around fewer, larger distribution partners.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
     },
     "keyRisks": {
-      "text": "",
-      "risks": []
+      "text": "1 Customer concentration risk — top 10 manufacturer clients account for approximately 40% of revenues; losing a major client would be materially damaging. 2 Opioid litigation exposure (shared industry risk with MCK and CVS) with state attorneys general suits ongoing. 3 Integration risk following the 2023 Linde Healthcare acquisition — achieving targeted synergies is not guaranteed. 4 IRA impact on manufacturer pricing for Medicare Part D could reduce branded drug volumes through the distribution network. 5 Thin analyst coverage and limited retail investor awareness create valuation inefficiency, which can cut both ways.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1"
+        },
+        {
+          "rank": 2,
+          "risk": "2"
+        },
+        {
+          "rank": 3,
+          "risk": "3"
+        },
+        {
+          "rank": 4,
+          "risk": "4"
+        },
+        {
+          "rank": 5,
+          "risk": "5"
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Own: Healthcare institutional investors seeking specialty pharma exposure without retail pharmacy risk; those comfortable with limited public disclosure. | Avoid: You require transparent, comparable P/E and EPS data; you want dividend income (Cencora's yield is modest); you require high-liquidity positions."
     },
     "recommendation": {
-      "text": ""
+      "text": "HOLD HOLD. Fundamental quality is solid. Long-term investors can accumulate on dips below $290. The absence of P/E data is a yellow flag for due-diligence purposes — await FY2025 10-K filing for updated normalised earnings. Entry framework: scale in over 3 tranches on weakness."
     },
     "entryExit": {
-      "text": "COR (COR) — Entry / Exit Framework\n\nReduce / Trim: Above $327.24 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $352.9 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $385.09 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $292.68 — partial mean reversion toward the middle of the 52-week range."
+      "text": "Long-term investors can accumulate on dips below $290."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -59,16 +96,16 @@
   },
   "scores": {
     "current": {
-      "score": 45,
+      "score": 50,
       "band": "REDUCE",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 45,
+        "date": "",
+        "score": 50,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"

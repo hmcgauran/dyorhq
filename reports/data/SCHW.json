@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 70,
@@ -32,7 +32,7 @@
       "text": "Charles Schwab is the largest US retail brokerage by number of accounts, with approximately 35 million active brokerage accounts, $9 trillion+ in total client assets and 8.5 million Banking and Lending accounts (as of recent filings). Its core model combines brokerage services (equity trading, wealth advisory) with banking products (deposits, mortgages, credit cards) through its bank subsidiary. Post-integration of TD Ameritrade (acquired 2020), Schwab is absorbing a massive platform migration while seeking cost synergies. The business earns revenue primarily through net interest income (on deposit franchises), asset management fees, and trading commissions."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -64,22 +64,22 @@
       "text": "Schwab has completed the conversion of the majority of TD Ameritrade client accounts onto its unified platform, with the remaining conversions proceeding. Cost synergies from the TD Ameritrade deal are being realised ahead of the original timeline. New client asset gathering remains robust, particularly in the Wealth Management segment. The Fed's current rate pause provides a window for NIM to stabilise. Management has maintained its medium-term EPS guidance of $5.50–$6.00."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (70): Interest rate environment remains elevated and NIM normalises above 2.0%. Integration of TD Ameritrade is complete and full synergy run-rate achieved by end-2026. New client asset gathering is strong and net new assets accelerate. EPS grows to $6.50–$7.00. Price: $115+.\n            Base Case (50): Rates moderate gradually, compressing NIM modestly. TD Ameritrade integration delivers most synergies but some client attrition persists. Market volatility keeps transactional revenues above trough. EPS: $5.50–$6.00. Price: $90–$108.\n            Bear Case (40): Fed cuts rates aggressively. NIM falls below normalised levels and client activity remains subdued. Integration charges exceed estimates. Operating expense ratio rises. EPS falls below $4.50. Price: below $70.\n            Weighted Score: 70 — Bull 70 × 30% + Base 50 × 50% + Bear 40 × 20%",
+      "text": "Bull Case (70): Interest rate environment remains elevated and NIM normalises above 2.0%. Integration of TD Ameritrade is complete and full synergy run-rate achieved by end-2026. New client asset gathering is strong and net new assets accelerate. EPS grows to $6.50–$7.00. Price: $115+. Base Case (50): Rates moderate gradually, compressing NIM modestly. TD Ameritrade integration delivers most synergies but some client attrition persists. Market volatility keeps transactional revenues above trough. EPS: $5.50–$6.00. Price: $90–$108. Bear Case (40): Fed cuts rates aggressively. NIM falls below normalised levels and client activity remains subdued. Integration charges exceed estimates. Operating expense ratio rises. EPS falls below $4.50. Price: below $70. Weighted Score: 70 — Bull 70 × 30% + Base 50 × 50% + Bear 40 × 20%",
       "bull": {
-        "scenario": "Bull Case (70): Interest rate environment remains elevated and NIM normalises above 2.0%. Integration of TD Ameritrade is complete and full synergy run-rate achieved by end-2026. New client asset gathering is strong and net new assets accelerate. EPS grows to $6.50–$7.00. Price: $115+.",
-        "probability": 0
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (50): Rates moderate gradually, compressing NIM modestly. TD Ameritrade integration delivers most synergies but some client attrition persists. Market volatility keeps transactional revenues above trough. EPS: $5.50–$6.00. Price: $90–$108.",
-        "probability": null
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (40): Fed cuts rates aggressively. NIM falls below normalised levels and client activity remains subdued. Integration charges exceed estimates. Operating expense ratio rises. EPS falls below $4.50. Price: below $70.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Net interest margin compression: Schwab's bank subsidiary earns NIM on its deposit franchise. Aggressive Federal Reserve rate cuts directly compress NIM, which accounts for a substantial portion of op",
+      "text": "Net interest margin compression: Schwab's bank subsidiary earns NIM on its deposit franchise. Aggressive Federal Reserve rate cuts directly compress NIM, which accounts for a substantial portion of operating revenues. The deposit beta advantage Schwab has historically enjoyed is not permanent. Client attrition post-integration: The TD Ameritrade merger brought legacy accounts that may be more prone to attrition as Schwab migrates platforms and adjusts fee structures. Sustaining net new asset flows is essential to the revenue growth thesis. Competitive pressure on brokerage pricing: Zero-commission trading is now industry standard. Schwab's ability to monetise advisory fees and banking relationships is under pressure as fintech competitors (Robinhood, Wealthfront, Betterment) target younger, digital-native investors. Deposit repricing risk: As interest rates normalise, Schwab's deposit franchise will face runoff as clients move cash into higher-yielding alternatives. Managing the deposit beta and retaining deposit funding is a key risk for the bank subsidiary. Market activity dependence: Trading volumes and market volatility directly affect transactional revenues. A sustained low-volatility environment reduces client trading activity, directly impacting commission and fee revenues.",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Income-oriented investors seeking a financial sector yield play with exposure to the structural growth of US wealth management. Also suited to investors who want diversified large-cap financial exposure with an integrated brokerage/banking model. Avoiders: Growth investors and anyone looking for a high-growth tech-adjacent story in financial services. The TD Ameritrade integration execution risk and NIM sensitivity make this a below-average risk-reward relative to pure-play fintech."
+      "text": "Own: Income-oriented investors seeking a financial sector yield play with exposure to the structural growth of US wealth management. Also suited to investors who want diversified large-cap financial exposure with an integrated brokerage/banking model."
     },
     "recommendation": {
       "text": "HOLD. BUY below $78 (approximately 15x forward P/E on base-case EPS — below intrinsic value based on normalised earnings power). Reduce above $108 (approximately 21x P/E — NIM normalisation is priced in aggressively at this level)."
     },
     "entryExit": {
-      "text": "Charles Schwab Corporation (SCHW) — Entry / Exit Framework\n\nHOLD zone: $87.22–$96.7 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $87.22 — material pullback that improves risk/reward.\nTrim / Take Profits above $96.7 — approaching the 52-week high at $107.50. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $71.34 (52-week low) would warrant reassessment."
+      "text": "BUY below $78 (approximately 15x forward P/E on base-case EPS — below intrinsic value based on normalised earnings power). | Reduce above $108 (approximately 21x P/E — NIM normalisation is priced in aggressively at this level)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -123,13 +123,13 @@
     "current": {
       "score": 70,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 70,
         "band": "HOLD",
         "delta": "0",

@@ -8,7 +8,7 @@
     "datePublished": "2026-04-11",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 45,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -25,10 +25,10 @@
       "text": "Aptiv plc (APTV) trades at $59.65 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendation: REDUCE at $59.65."
     },
     "businessModel": {
-      "text": "Aptiv designs and manufactures the electrical architecture that underpins virtually every modern vehicle — the wiring harnesses, connectors, junction boxes, and sensor assemblies that distribute power and data throughout the car. This hardware business is deeply embedded in OEM supply chains, with design-win cycles of three to five years providing substantial revenue stickiness. Once a harness platform is locked into a vehicle programme, Aptiv supplies it for the life of that model, typically seven to ten years of production. The company also operates an Advanced Safety division covering radar, vision systems, and autonomous driving compute platforms, giving it structural exposure to the ADAS regulatory tailwind as crash avoidance mandates tighten globally.\n\nThe strategic pivot is the transition from traditional distributed electrical architecture — where each function has its own dedicated wiring and ECU — to zonal architecture, consolidating computing into fewer, more powerful domain controllers connected by a high-speed backbone. Aptiv calls this its Smart Vehicle Architecture (SVA). The theoretical upside is significant: zonal architecture reduces copper weight, simplifies assembly, and centralises software, creating an opportunity to capture not just hardware revenue but also software licensing, OTA update fees, and data services — a more recurring, SaaS-adjacent revenue profile. The catch is that this transition is still early, and software revenue remains a small fraction of total sales. Customers are also demanding more open platforms, squeezing traditional Tier 1 margins.\n\nAptiv's customer base reads like a who's-who of global automotive: GM, Ford, VW Group, BMW, Toyota, Stellantis, and most other major OEMs. This diversity is an asset but masks concentration risk in practice — each OEM programme can represent hundreds of millions of dollars of annual revenue, and production stoppages at a key customer (as happened partially with SVB-adjacent supply chain concerns) can ripple through results quickly. Critically, Aptiv's revenue tracks vehicle production volumes directly, not vehicle prices. When an OEM cuts production by 10%, Aptiv's revenue on that programme falls roughly 10%. This operational leverage works in both directions — it amplified the COVID supply shock and is now compounding the EV transition uncertainty as OEMs hesitate on EV programme investments and production schedules.\n\nThe REDUCE rating reflects the collision of a late-cycle valuation with structural headwinds rather than any acute failure. Aptiv's stock has compressed from the mid-$80s as the market priced in software-driven re-rating that has yet to materialise at sufficient scale. EV adoption uncertainty is delaying OEM capital expenditure on new platforms, Chinese competitors are aggressively pricing into both EV and ADAS supply chains, and macro-sensitive automotive end markets face headwinds from elevated interest rates suppressing vehicle affordability. The deeper risk is the software-defined vehicle transition: if Aptiv cannot convert its hardware relationships into software monetisation — either through platform licensing, OTA update revenues, or data services — it remains a high-quality, capital-intensive hardware business valued like a software business, which it is not yet. Until the software revenue proves scalable and durable, the stock is best held at reduced weight."
+      "text": "Aptiv plc is a Consumer Discretionary sector company. The investment case rests on diversified revenue streams across industrial, geographic, and product dimensions. Key drivers include operational efficiency, pricing power, and capital allocation discipline."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -60,7 +60,7 @@
       "text": "No major RNS filings in the trailing three to six months. Market-moving news has been limited; any re-rating will likely depend on macro conditions, sector rotation, or company-specific operational milestones."
     },
     "thesisEvaluation": {
-      "text": "ScenarioWeightThesis\n              Bull30%Strong demand, margin expansion and multiple re-rating drive meaningful upside. Target: +30-40% from current levels.\n              Base50%Steady earnings growth in line with long-term averages. Target: +10-15% over 12 months.\n              Bear20%Margin compression, macro headwinds or sector rotation create downside risk. Target: -15-20% from current levels.",
+      "text": "Scenario Weight Thesis Bull 30% Strong demand, margin expansion and multiple re-rating drive meaningful upside. Target: +30-40% from current levels. Base 50% Steady earnings growth in line with long-term averages. Target: +10-15% over 12 months. Bear 20% Margin compression, macro headwinds or sector rotation create downside risk. Target: -15-20% from current levels.",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -75,7 +75,7 @@
       }
     },
     "keyRisks": {
-      "text": "Macroeconomic sensitivity — Sector earnings are correlated with global growth, interest rates, and input cost inflation. Currency risk — GBP/EUR/USD exposure on reported revenues and costs. Competitiv",
+      "text": "Macroeconomic sensitivity — Sector earnings are correlated with global growth, interest rates, and input cost inflation. Currency risk — GBP/EUR/USD exposure on reported revenues and costs. Competitive dynamics — Pricing pressure from peers or new entrants. Liquidity and spread risk — As a non-primary-listing Irish stock, bid/offer spreads may be wide. Regulatory and political risk — Trade policy, FDI screening, and ESG regulation affecting sector.",
       "risks": [
         {
           "rank": 1,
@@ -100,13 +100,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Long-term institutional investors seeking diversified industrial/technology/healthcare exposure with a value tilt. Suitable for portfolios that can tolerate moderate volatility and currency risk. Avoid: Short-term traders seeking momentum. Investors requiring high liquidity or expecting near-term catalysts."
+      "text": "Own: Long-term institutional investors seeking diversified industrial/technology/healthcare exposure with a value tilt. Suitable for portfolios that can tolerate moderate volatility and currency risk. Avoid: Short-term traders seeking momentum. Investors requiring high liquidity or expecting near-term catalysts."
     },
     "recommendation": {
-      "text": "REDUCE — Conviction: 50/100. Enter on pullbacks toward the 52-week low for better risk/reward. Reduce or exit on strength exceeding the 52-week high on volume. No explicit price target is issued; investors should size positions commensurate with conviction level and portfolio risk budget.\n            Entry framework: Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
+      "text": "REDUCE — Conviction: 50/100. Enter on pullbacks toward the 52-week low for better risk/reward. Reduce or exit on strength exceeding the 52-week high on volume. No explicit price target is issued; investors should size positions commensurate with conviction level and portfolio risk budget. Entry framework: Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
     },
     "entryExit": {
-      "text": "Aptiv plc (APTV) — Entry / Exit Framework\n\nReduce / Trim: Above $60.84 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $65.62 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $90.71 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $50.97 — partial mean reversion toward the middle of the 52-week range."
+      "text": "Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -117,7 +117,7 @@
   },
   "scores": {
     "current": {
-      "score": 45,
+      "score": 50,
       "band": "REDUCE",
       "date": "2026-04-11",
       "delta": "0",
@@ -126,7 +126,7 @@
     "history": [
       {
         "date": "2026-04-11",
-        "score": 45,
+        "score": 50,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"

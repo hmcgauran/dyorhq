@@ -5,10 +5,10 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 50,
+    "conviction": 48,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -29,59 +29,59 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "No recent RNS or material corporate announcements identified. The company may be pursuing a strategic review or considering options to maximise shareholder value, but no formal process has been disclosed."
     },
     "thesisEvaluation": {
       "text": "Bull Case 68 Target: $45.00 | EPS: $1.50 New management executes a successful turnaround. A major enterprise contract win provides revenue visibility. Digital transformation spending accelerates. EPS reaches $1.50+. Base Case 48 Target: $36.00 | EPS: $0.90 Steady but uninspiring performance in a competitive market. No material new contract wins or losses. EPS ~$0.90. Bear Case 28 Target: $22.00 | EPS: $0.30 Key client relationships are lost to better-capitalised competitors. Management churn disrupts project delivery. EPS falls to $0.30. Conviction Score (Bull Reports / EXPGF EXPGF Experience Technology Group REDUCE 11 April 2026 $$35.04 48 Conviction out of 100 >",
       "bull": {
-        "scenario": "",
-        "probability": 25
+        "scenario": "New management executes a successful turnaround. A major enterprise contract win provides revenue visibility. Digital transformation spending accelerates. EPS reaches $1.50+.",
+        "probability": null
       },
       "base": {
-        "scenario": "",
-        "probability": 50
+        "scenario": "Steady but uninspiring performance in a competitive market. No material new contract wins or losses. EPS ~$0.90.",
+        "probability": null
       },
       "bear": {
-        "scenario": "Bear Case 28 Target: $22",
-        "probability": 25
+        "scenario": "Key client relationships are lost to better-capitalised competitors. Management churn disrupts project delivery. EPS falls to $0.30.",
+        "probability": null
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "#1 Limited financial disclosure: Publicly available financial information is thin, making independent fundamental analysis difficult. This lack of transparency is itself a risk. #2 Competitive dynamics: The IT services market is highly competitive. Large global players and well-capitalised challengers can undercut on price while matching on capability. #3 Client concentration risk: Small IT services firms typically have high client concentration. Loss of a major account would be material to revenues. #4 Management and governance uncertainty: The company has a complex restructuring history. Any governance concerns or management instability would be a significant risk factor. #5 Liquidity and spread risk: As a Pink Sheets listed stock, bid/offer spreads are wide and liquidity is thin, making entry and exit at reasonable prices difficult.",
       "risks": [
         {
           "rank": 1,
-          "risk": "Limited financial disclosure:: Limited financial disclosure:  Publicly available financial information is thin, making independent fundamental analysis difficult. This lack of transparency is itself a risk."
+          "risk": "#1 Limited financial disclosure: Publicly available financial information is thin, making independent fundamental analysis difficult. This lack of transparency is itself a risk."
         },
         {
           "rank": 2,
-          "risk": "Competitive dynamics:: Competitive dynamics:  The IT services market is highly competitive. Large global players and well-capitalised challengers can undercut on price while matching on capability."
+          "risk": "#2 Competitive dynamics: The IT services market is highly competitive. Large global players and well-capitalised challengers can undercut on price while matching on capability."
         },
         {
           "rank": 3,
-          "risk": "Client concentration risk:: Client concentration risk:  Small IT services firms typically have high client concentration. Loss of a major account would be material to revenues."
+          "risk": "#3 Client concentration risk: Small IT services firms typically have high client concentration. Loss of a major account would be material to revenues."
         },
         {
           "rank": 4,
-          "risk": "Management and governance uncertainty:: Management and governance uncertainty:  The company has a complex restructuring history. Any governance concerns or management instability would be a significant risk factor."
+          "risk": "#4 Management and governance uncertainty: The company has a complex restructuring history. Any governance concerns or management instability would be a significant risk factor."
         },
         {
           "rank": 5,
-          "risk": "Liquidity and spread risk:: Liquidity and spread risk:  As a Pink Sheets listed stock, bid/offer spreads are wide and liquidity is thin, making entry and exit at reasonable prices difficult."
+          "risk": "#5 Liquidity and spread risk: As a Pink Sheets listed stock, bid/offer spreads are wide and liquidity is thin, making entry and exit at reasonable prices difficult."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": "Experience Technology Group is a small-cap digital transformation and IT services provider with limited public financial history and thin trading liquidity, making it difficult to construct a high-confidence fundamental thesis --  REDUCE . Experience Technology Group provides digital transformation consulting and IT services, focused on customer experience management, cloud migration, and enterprise software implementation. The company operates across mid-market and enterprise clients in North America and Europe. Revenue is project-based consulting revenue, with limited recurring revenue visibility. The competitive landscape in digital transformation services is fragmented, with large global players (Accenture, Deloitte Digital) and numerous niche challengers competing for the same mandates. The company has undergone several restructurings and has a complex corporate history. No recent RNS or material corporate announcements identified. The company may be pursuing a strategic review or considering options to maximise shareholder value, but no formal process has been disclosed. Experience Technology Group is a small-cap digital transformation and IT services provider with limited public financial history and thin trading liquidity, making it difficult to construct a high-confidence fundamental thesis --  REDUCE . Experience Technology Group provides digital transformation consulting and IT services, focused on customer experience management, cloud migration, and enterprise software implementation. The company operates across mid-market and enterprise clients in North America and Europe. Revenue is project-based consulting revenue, with limited recurring revenue visibility. The competitive landscape in digital transformation services is fragmented, with large global players (Accenture, Deloitte Digital) and numerous niche challengers competing for the same mandates. The company has undergone several restructurings and has a complex corporate history. No recent RNS or material corporate announcements identified. The company may be pursuing a strategic review or considering options to maximise shareholder value, but no formal process has been disclosed. Own:  Speculative micro-cap investors who believe in the turnaround story and have a high risk tolerance. Avoid:  All institutional investors and any investors who require transparent, liquid investments with high-quality disclosure."
+      "text": "Own: Speculative micro-cap investors who believe in the turnaround story and have a high risk tolerance. Avoid: All institutional investors and any investors who require transparent, liquid investments with high-quality disclosure."
     },
     "recommendation": {
       "text": "REDUCE Score: 48/100 EXPGF is a speculative small-cap IT services company with limited public financial history and thin liquidity. The investment case rests on a turnaround narrative that is difficult to verify independently. The risk-reward at $35.04 is not compelling. REDUCE. Entry Framework: REDUCE at current levels ($35.04). Only accumulate below $22 on explicit positive news flow. BUY below $47.25 HOLD $37.80-$47.25 REDUCE above $47.25"
     },
     "entryExit": {
-      "text": ""
+      "text": "BUY below $47.25 | HOLD $37.80-$47.25 | REDUCE above $47.25"
     },
     "sources": {
-      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -89,16 +89,16 @@
   },
   "scores": {
     "current": {
-      "score": 50,
+      "score": 48,
       "band": "REDUCE",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 50,
+        "date": "",
+        "score": 48,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"

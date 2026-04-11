@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 61,
@@ -29,10 +29,10 @@
       "text": "3M's diversification across industrial, healthcare and consumer end markets provides residual resilience, but the shares trade near the top of their 52-week range at a P/E of 25x with structural earnings headwinds persisting — HOLD is the weighted recommendation."
     },
     "businessModel": {
-      "text": "3M operates across four divisions: Safety and Industrial, which supplies industrial adhesives, abrasives, and personal safety equipment; Transportation and Electronics, serving automotive and electronics OEM supply chains; Health Care, covering medical devices, dental products, and pharmaceutical solutions; and Consumer, encompassing home and consumer goods brands including Post-it and Scotch.\n            Revenue is diversified by end market and geography, reducing concentration risk. However, the company has faced persistent margin pressure as it attempts to rebuild pricing power against input cost inflation. The ongoing spin-off of its Health Care segment (currently paused pending litigation) is intended to sharpen portfolio focus and unlock shareholder value, though execution risk is elevated."
+      "text": "3M operates across four divisions: Safety and Industrial, which supplies industrial adhesives, abrasives, and personal safety equipment; Transportation and Electronics, serving automotive and electronics OEM supply chains; Health Care, covering medical devices, dental products, and pharmaceutical solutions; and Consumer, encompassing home and consumer goods brands including Post-it and Scotch. Revenue is diversified by end market and geography, reducing concentration risk. However, the company has faced persistent margin pressure as it attempts to rebuild pricing power against input cost inflation. The ongoing spin-off of its Health Care segment (currently paused pending litigation) is intended to sharpen portfolio focus and unlock shareholder value, though execution risk is elevated."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -64,22 +64,22 @@
       "text": "3M announced a landmark $10.3 billion settlement in 2024 to resolve military water contamination claims linked to PFAS chemicals — one of the largest corporate environmental settlements in US history. The company has now resolved the majority of its major PFAS litigation, removing a significant cloud over the balance sheet. Separately, the attempted spin-off of its Health Care division via a stock distribution to existing shareholders remains in legal and procedural limbo following activist pressure and board governance concerns. The stock has recovered from its 2023 lows as litigation overhang has diminished, but the earnings recovery narrative has yet to materialise convincingly."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (80): Successful execution of the portfolio restructuring frees 3M to focus on high-margin industrial and safety franchises. PFAS settlement finality unlocks rating agency upgrades and management bandwidth. AI-driven manufacturing productivity improvements drive material margin expansion. Price: $175+.\n            Base Case (62): Litigation resolution and modest consumer recovery support low-single-digit organic revenue growth. Margin stabilises in the mid-teens as input costs ease. Free cash flow of approximately $7 billion funds dividends and debt reduction. EPS recovers to $6.50–$7.00. Price: $155–$170.\n            Bear Case (40): Economic slowdown erodes industrial volumes. The Health Care spin-off is blocked or delivers minimal value. Consumer segment market share losses to private label continue. Multiple compresses below 20x as growth stalls. Price: below $130.\n            Weighted Score: 61 — Bull 80 × 30% + Base 62 × 50% + Bear 40 × 20%",
+      "text": "Bull Case (80): Successful execution of the portfolio restructuring frees 3M to focus on high-margin industrial and safety franchises. PFAS settlement finality unlocks rating agency upgrades and management bandwidth. AI-driven manufacturing productivity improvements drive material margin expansion. Price: $175+. Base Case (62): Litigation resolution and modest consumer recovery support low-single-digit organic revenue growth. Margin stabilises in the mid-teens as input costs ease. Free cash flow of approximately $7 billion funds dividends and debt reduction. EPS recovers to $6.50–$7.00. Price: $155–$170. Bear Case (40): Economic slowdown erodes industrial volumes. The Health Care spin-off is blocked or delivers minimal value. Consumer segment market share losses to private label continue. Multiple compresses below 20x as growth stalls. Price: below $130. Weighted Score: 61 — Bull 80 × 30% + Base 62 × 50% + Bear 40 × 20%",
       "bull": {
-        "scenario": "Bull Case (80): Successful execution of the portfolio restructuring frees 3M to focus on high-margin industrial and safety franchises. PFAS settlement finality unlocks rating agency upgrades and management bandwidth. AI-driven manufacturing productivity improvements drive material margin expansion. Price: $175+.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (62): Litigation resolution and modest consumer recovery support low-single-digit organic revenue growth. Margin stabilises in the mid-teens as input costs ease. Free cash flow of approximately $7 billion funds dividends and debt reduction. EPS recovers to $6.50–$7.00. Price: $155–$170.",
-        "probability": null
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (40): Economic slowdown erodes industrial volumes. The Health Care spin-off is blocked or delivers minimal value. Consumer segment market share losses to private label continue. Multiple compresses below 20x as growth stalls. Price: below $130.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Portfolio restructuring execution risk: The Health Care spin-off remains legally contested and could fail to generate anticipated value, leaving 3M with a subscale, low-growth industrial business. Ind",
+      "text": "Portfolio restructuring execution risk: The Health Care spin-off remains legally contested and could fail to generate anticipated value, leaving 3M with a subscale, low-growth industrial business. Industrial cycle exposure: As a play on global manufacturing activity, 3M is sensitive to economic slowdown, particularly in China and Europe where automotive and electronics demand is soft. Margin pressure persistence: Pricing power remains limited in consumer and industrial segments. If input costs re-accelerate, margins compress further without compensatory pricing. Legacy litigation overhang: While major PFAS matters are resolved, other product liability cases (including military earplug litigation) remain active and could result in significant additional charges. Competitive dynamics in healthcare: 3M Health Care lacks the scale of pure-play medtech peers, limiting its ability to win large tender contracts and sustain margins.",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Value investors seeking deep-value industrial exposure with a catalyst-driven thesis (litigation resolution, spin-off completion). Yield seekers attracted to the dividend, which is well-covered by free cash flow. Avoiders: Growth-oriented investors will find better risk-reward in sector peers. Those seeking earnings visibility or pricing power should look elsewhere. The restructuring timeline is long and uncertain."
+      "text": "Own: Value investors seeking deep-value industrial exposure with a catalyst-driven thesis (litigation resolution, spin-off completion). Yield seekers attracted to the dividend, which is well-covered by free cash flow."
     },
     "recommendation": {
-      "text": "HOLD. 3M has made genuine progress removing litigation risk, but the earnings trajectory remains uncertain and the portfolio lacks a clear growth engine. At $150 and a P/E of 25x, the risk-reward is roughly symmetrical. Wait for the Health Care spin-off resolution or a meaningful earnings revision before establishing a position.\n            Entry framework: BUY below $135 (implies 22x P/E on base-case EPS). Reduce on rallies above $170 (implies 28x P/E with limited upside to base-case target). Position size should reflect the binary nature of the spin-off catalyst."
+      "text": "HOLD. 3M has made genuine progress removing litigation risk, but the earnings trajectory remains uncertain and the portfolio lacks a clear growth engine. At $150 and a P/E of 25x, the risk-reward is roughly symmetrical. Wait for the Health Care spin-off resolution or a meaningful earnings revision before establishing a position. Entry framework: BUY below $135 (implies 22x P/E on base-case EPS). Reduce on rallies above $170 (implies 28x P/E with limited upside to base-case target). Position size should reflect the binary nature of the spin-off catalyst."
     },
     "entryExit": {
-      "text": "BUY below $135 (implies 22x P/E on base-case EPS). Reduce on rallies above $170 (implies 28x P/E with limited upside to base-case target). Position size should reflect the binary nature of the spin-off catalyst."
+      "text": "BUY below $135 (implies 22x P/E on base-case EPS). Reduce on rallies above $170 (implies 28x P/E with limited upside to base-case target). Position size should reflect the binary nature of the spin-off catalyst. | Entry framework: BUY below $135 (implies 22x P/E on base-case EPS). | Reduce on rallies above $170 (implies 28x P/E with limited upside to base-case target)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -123,13 +123,13 @@
     "current": {
       "score": 61,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 61,
         "band": "HOLD",
         "delta": "0",

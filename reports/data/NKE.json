@@ -1,13 +1,13 @@
 {
   "meta": {
-    "ticker": "",
+    "ticker": "NKE",
     "company": "NKE",
     "exchange": "",
     "isin": "",
     "date": "",
-    "datePublished": "2026-04-11",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
     "conviction": 53,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
@@ -29,7 +29,7 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "New CEO Elliott Hill appointed October 2024 — immediate wholesale channel reset initiated\n    Air Innovation pipeline: Air Max 2025 and renewed Jordan franchise in FY26\n    Nike University internal talent programme re-energising product creation teams\n    Cost-savings programme: $2bn efficiency target by FY27 (supply chain + SG&A)",
+      "text": "New CEO Elliott Hill appointed October 2024 — immediate wholesale channel reset initiated Air Innovation pipeline: Air Max 2025 and renewed Jordan franchise in FY26 Nike University internal talent programme re-energising product creation teams Cost-savings programme: $2bn efficiency target by FY27 (supply chain + SG&A)",
       "items": [
         "New CEO Elliott Hill appointed October 2024 — immediate wholesale channel reset initiated",
         "Air Innovation pipeline: Air Max 2025 and renewed Jordan franchise in FY26",
@@ -38,7 +38,7 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "65\n      Bull\n    \n    \n      52\n      Base\n    \n    \n      35\n      Bear\n    \n    \n      53\n      Conviction",
+      "text": "65 Bull 52 Base 35 Bear 53 Conviction",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "1. Revenue decline FY25 (-1.8%) driven by North America wholesale exit 2. Gross margin at 44.2% FY25 vs 47.6% FY22 — structural compression from DTC channel shift 3. Chinese competitor Anta Sports gai",
+      "text": "1. Revenue decline FY25 (-1.8%) driven by North America wholesale exit 2. Gross margin at 44.2% FY25 vs 47.6% FY22 — structural compression from DTC channel shift 3. Chinese competitor Anta Sports gaining market share at a double-digit rate 4. Jordan Brand licensed revenue at risk of re-negotiation (2026 franchise renewal) 5. Inventory glut in North America still being worked through Q4 FY26",
       "risks": [
         {
           "rank": 1,
@@ -84,7 +84,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "Nike Inc (NKE) — Entry / Exit Framework\n\nHOLD zone: $39.21–$43.47 — current levels are fairly valued.\nTrim / Take Profits above $43.47 — approaching the 52-week high at $80.17.\nStop-loss: A sustained close below $41.51 (52-week low) would warrant reassessment."
+      "text": "Turnaround speculation — accumulate $38–$44. HOLD $44–$55. REDUCE above $55. Track: Jordan franchise renewal outcome and Q4 FY26 inventory clearance progress. | BUY: Turnaround speculation — accumulate $38–$44. | REDUCE above $55."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -96,16 +96,16 @@
   "scores": {
     "current": {
       "score": 53,
-      "band": "HOLD",
-      "date": "2026-04-11",
+      "band": "REDUCE",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 53,
-        "band": "HOLD",
+        "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"
       }

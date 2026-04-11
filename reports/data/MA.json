@@ -1,16 +1,18 @@
 {
   "meta": {
-    "ticker": "",
+    "ticker": "MA",
     "company": "MA",
     "exchange": "",
     "isin": "",
     "date": "",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 65,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
+      "sp100",
+      "fortune100",
       "watchlist"
     ]
   },
@@ -29,7 +31,7 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Cross-border travel recovery fully normalised — cross-border volume +12% FY24\n    New network services (STEM, open banking connectors) growing 40%+ YoY\n    Acquisition ofRecorded Future (AI cybersecurity threat intel, 2024) — strategic adjacency\n    Buyback authorised: $25bn multi-year programme, ~5% of market cap annually",
+      "text": "Cross-border travel recovery fully normalised — cross-border volume +12% FY24 New network services (STEM, open banking connectors) growing 40%+ YoY Acquisition ofRecorded Future (AI cybersecurity threat intel, 2024) — strategic adjacency Buyback authorised: $25bn multi-year programme, ~5% of market cap annually",
       "items": [
         "Cross-border travel recovery fully normalised — cross-border volume +12% FY24",
         "New network services (STEM, open banking connectors) growing 40%+ YoY",
@@ -38,7 +40,7 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "75\n      Bull\n    \n    \n      65\n      Base\n    \n    \n      50\n      Bear\n    \n    \n      65\n      Conviction",
+      "text": "75 Bull 65 Base 50 Bear 65 Conviction",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -53,7 +55,7 @@
       }
     },
     "keyRisks": {
-      "text": "1. Global regulatory interventions on interchange fees (EU, India, Brazil) could compress take-rates 2. Recession scenario reduces spend volume, directly impacting gross-dollar volume metric 3. Fintec",
+      "text": "1. Global regulatory interventions on interchange fees (EU, India, Brazil) could compress take-rates 2. Recession scenario reduces spend volume, directly impacting gross-dollar volume metric 3. Fintech disruption: Revolut, Stripe, PayPal nibbling at commercial card segments 4. CBDC (Central Bank Digital Currency) development — long-term network displacement risk 5. Valuation: P/E 30x is at historical peak — limited re-rating room",
       "risks": [
         {
           "rank": 1,
@@ -84,7 +86,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "Mastercard (MA) — Entry / Exit Framework\n\nHOLD zone: $458.77–$508.63 — current levels are fairly valued.\nTrim / Take Profits above $508.63 — approaching the 52-week high at $601.77.\nStop-loss: A sustained close below $470.89 (52-week low) would warrant reassessment."
+      "text": "Patient accumulation at $470–$490 (15–20% below 52-week high). HOLD $490–$560. REDUCE above $560. Watch: cross-border volume trends as travel/e-commerce proxy. | BUY: Patient accumulation at $470–$490 (15–20% below 52-week high). | REDUCE above $560."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -97,13 +99,13 @@
     "current": {
       "score": 65,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 65,
         "band": "HOLD",
         "delta": "0",

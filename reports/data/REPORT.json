@@ -5,10 +5,10 @@
     "exchange": "{{EXCHANGE}}",
     "isin": "{{ISIN}}",
     "date": "",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
-    "conviction": 65,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -19,32 +19,23 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "{{EXECUTIVE_SUMMARY}}"
+      "text": ""
     },
     "businessModel": {
-      "text": "{{BUSINESS_MODEL}}"
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "<div id=\"sec-financial-table\"></div>\n            <p id=\"sec-financial-text\" style=\"margin-top:16px;\"></p>\n          </div>\n\n          <!-- 4. Recent Catalysts -->",
+      "text": "",
       "table": []
     },
     "recentCatalysts": {
-      "text": "{{RECENT_CATALYSTS}}"
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Scenario\n                  Probability\n                  Upside / Target\n                  Catalyst\n                \n              \n              \n                \n                  Bull\n                  \n                  \n                  \n                \n                \n                  Base\n                  \n                  \n                  \n                \n                \n                  Bear",
-      "bull": {
-        "scenario": "bull-row\" id=\"row-bull\">\n                  Bull\n                  \n                  \n                  \n                \n                <tr class=\"",
-        "probability": null
-      },
-      "base": {
-        "scenario": "base-row\" id=\"row-base\">\n                  Base\n                  \n                  \n                  \n                \n                <tr class=\"",
-        "probability": null
-      },
-      "bear": {
-        "scenario": "bear-row\" id=\"row-bear\">\n                  Bear",
-        "probability": null
-      }
+      "text": "",
+      "bull": {},
+      "base": {},
+      "bear": {}
     },
     "keyRisks": {
       "text": "",
@@ -57,7 +48,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "Report placeholder \u2014 not yet populated with company data. This report requires manual setup."
+      "text": ""
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -68,16 +59,16 @@
   },
   "scores": {
     "current": {
-      "score": 65,
+      "score": 50,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 65,
+        "date": "",
+        "score": 50,
         "band": "HOLD",
         "delta": "0",
         "reason": "Initial coverage"

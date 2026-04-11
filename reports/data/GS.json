@@ -5,15 +5,15 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 45,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "sp100",
-      "watchlist",
-      "fortune100"
+      "fortune100",
+      "watchlist"
     ]
   },
   "price": {
@@ -24,32 +24,32 @@
       "text": ""
     },
     "businessModel": {
-      "text": "Goldman Sachs operates across four primary business segments:\n  \n    Investment Banking: Advisory (M&amp;A, divestitures, restructurings) and equity/debt underwriting. Goldman is consistently ranked among the top three global M&amp;A advisors and is particularly strong in high-profile, large-cap transactions. Fee revenue is highly cyclical and tied to global M&amp;A and IPO activity levels.\n    FICC and Equities Trading (Global Markets): Fixed-income, currencies, commodities (FICC), and equities trading for institutional clients. This is the highest-revenue segment in absolute terms and provides significant earnings stability through market cycles, though it is sensitive to volatility levels and client activity.\n    Asset and Wealth Management: Traditional and alternative asset management (private equity, hedge funds, real estate, credit) alongside private wealth management for UHNW and HNW individuals. This segment has grown significantly and provides recurring fee revenue with some performance fee upside.\n    Consumer &amp; Wealth Management (Marcus / Personal Finance): The Marcus by Goldman Sachs digital banking platform and personal finance products. After the Apple Card partnership restructuring and exit from Marcus UK, the strategic scope of this segment is narrower than originally envisioned.\n  \n  Goldman's brand, talent density, and client relationships represent a durable competitive moat in investment banking and trading. The franchise's reputation for advising on the most consequential transactions globally is a self-reinforcing competitive advantage."
+      "text": "Goldman Sachs operates across four primary business segments: Investment Banking: Advisory (M&amp;A, divestitures, restructurings) and equity/debt underwriting. Goldman is consistently ranked among the top three global M&amp;A advisors and is particularly strong in high-profile, large-cap transactions. Fee revenue is highly cyclical and tied to global M&amp;A and IPO activity levels. FICC and Equities Trading (Global Markets): Fixed-income, currencies, commodities (FICC), and equities trading for institutional clients. This is the highest-revenue segment in absolute terms and provides significant earnings stability through market cycles, though it is sensitive to volatility levels and client activity. Asset and Wealth Management: Traditional and alternative asset management (private equity, hedge funds, real estate, credit) alongside private wealth management for UHNW and HNW individuals. This segment has grown significantly and provides recurring fee revenue with some performance fee upside. Consumer &amp; Wealth Management (Marcus / Personal Finance): The Marcus by Goldman Sachs digital banking platform and personal finance products. After the Apple Card partnership restructuring and exit from Marcus UK, the strategic scope of this segment is narrower than originally envisioned. Goldman's brand, talent density, and client relationships represent a durable competitive moat in investment banking and trading. The franchise's reputation for advising on the most consequential transactions globally is a self-reinforcing competitive advantage."
     },
     "financialSnapshot": {
-      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$907.80</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$267.8bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">17.7×</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$51.32</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$984.70</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$478.58</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">−7.8%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">1.6m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "text": "Price $907.80 Market Cap $267.8bn P/E Ratio 17.7× EPS (TTM) $51.32 52w High $984.70 52w Low $478.58 Distance from 52wH −7.8% Avg Volume 1.6m",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case\n      75 / 100\n      A sustained M&amp;A and IPO recovery drives Investment Banking revenues significantly above current low baselines. The new CEO articulates a credible growth strategy that re-rates the shares. Marcus pivots to a profitable fintech partnership model without further capital destruction. Goldman's FICC and Equities franchise maintains market share. Shares re-rate to 20×+ earnings, driving 20–25 per cent total returns.\n      Weight: 30%\n    \n    \n      Base Case\n      58 / 100\n      M&amp;A activity recovers modestly but not dramatically — a typical cyclical recovery rather than a structural rebound. Investment Banking contributes mid-single-digit revenue growth. Global Markets holds steady with mid-teens ROE. Asset management fees grow with AUM. EPS grows at 8–12 per cent annually. Shares drift to $950–1,050 range on 17–19× earnings.\n      Weight: 50%\n    \n    \n      Bear Case\n      40 / 100\n      M&amp;A and ECM markets remain subdued as geopolitical uncertainty and rate volatility keep corporate boards cautious. Goldman's consumer finance write-offs continue or worsen. Global Markets revenues decline as reduced volatility and lower client activity compress trading volumes. The CEO transition disrupts strategic execution. Shares fall to $650–750 on 13–15× earnings.\n      Weight: 20%",
+      "text": "Bull Case 75 / 100 A sustained M&amp;A and IPO recovery drives Investment Banking revenues significantly above current low baselines. The new CEO articulates a credible growth strategy that re-rates the shares. Marcus pivots to a profitable fintech partnership model without further capital destruction. Goldman's FICC and Equities franchise maintains market share. Shares re-rate to 20×+ earnings, driving 20–25 per cent total returns. Weight: 30% Base Case 58 / 100 M&amp;A activity recovers modestly but not dramatically — a typical cyclical recovery rather than a structural rebound. Investment Banking contributes mid-single-digit revenue growth. Global Markets holds steady with mid-teens ROE. Asset management fees grow with AUM. EPS grows at 8–12 per cent annually. Shares drift to $950–1,050 range on 17–19× earnings. Weight: 50% Bear Case 40 / 100 M&amp;A and ECM markets remain subdued as geopolitical uncertainty and rate volatility keep corporate boards cautious. Goldman's consumer finance write-offs continue or worsen. Global Markets revenues decline as reduced volatility and lower client activity compress trading volumes. The CEO transition disrupts strategic execution. Shares fall to $650–750 on 13–15× earnings. Weight: 20%",
       "bull": {
-        "scenario": "Bull Case\n      75 / 100\n      A sustained M&amp;A and IPO recovery drives Investment Banking revenues significantly above current low",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case\n      58 / 100\n      M&amp;A activity recovers modestly but not dramatically — a typical cyclical recovery rather than a structural rebound. Investment Banking contributes mid-single-digit revenue growth. Global Markets holds steady with mid-teens ROE. Asset management fees grow with AUM. EPS grows at 8–12 per cent annually. Shares drift to $950–1,050 range on 17–19× earnings.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case\n      40 / 100",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "1 Capital markets cyclicality: Investment banking revenues (M&amp;A advisory, IPO underwriting) are highly sensitive to market conditions and corporate confidence. An adverse macro environment or sust",
+      "text": "1 Capital markets cyclicality: Investment banking revenues (M&amp;A advisory, IPO underwriting) are highly sensitive to market conditions and corporate confidence. An adverse macro environment or sustained rate uncertainty could keep deal volumes depressed for longer, directly impairing Goldman's highest-margin revenue streams. 2 Consumer banking legacy: The Marcus platform and Apple Card partnership have consumed significant capital and management attention with uncertain returns. The restructuring and partnership exit costs have been higher than expected, and the strategic pivot away from consumer banking remains incomplete. 3 CEO succession uncertainty: The transition from David Solomon to a new CEO creates a governance and strategic discontinuity. Markets typically discount leadership transitions in financial services, and the direction of the firm under new leadership is genuinely uncertain. 4 Regulatory capital requirements: As a major US bank holding company, Goldman faces ongoing Basel III endgame capital rulemaking. Materially higher capital requirements could constrain buybacks, dividends, and the flexibility of the trading franchise, impairing the return on equity that supports the current valuation. 5 Competitive pressure in core franchise: JPMorgan continues to take share in investment banking and M&amp;A advisory, supported by its larger consumer banking franchise and balance sheet. Morgan Stanley's wealth management franchise provides a recurring revenue base that Goldman lacks in consumer/wealth.",
       "risks": [
         {
           "rank": 1,
@@ -77,10 +77,10 @@
       "text": "Appropriate For Financial sector investors who want the premier investment banking and capital markets franchise at a reasonable valuation (17.7× earnings) versus the broader bank index Contrarian investors who note the shares are nearly double the 52-week low ($478.58) but still within 8 per cent of 52-week highs — a potential accumulation opportunity ahead of M&amp;A cycle recovery Those who believe the CEO transition creates an opportunity for strategic clarification that the market will positively re-rate once the new leadership team is in place Avoid If Seeking more diversified financial sector exposure — JPMorgan (JPM) has a superior franchise across consumer banking, payments, and investment banking with a more consistent track record of capital return Cannot tolerate CEO succession uncertainty — the leadership transition creates near-term governance risk that the current valuation does not compensate for Strong views that the M&amp;A recovery will be delayed by geopolitical uncertainty and rate volatility, keeping investment banking revenues subdued through 2026"
     },
     "recommendation": {
-      "text": "Conviction Score: 59/100 — REDUCE\n  At 17.7× earnings and 7.8 per cent below the 52-week high, Goldman offers a reasonable valuation for the quality of the franchise but lacks the near-term catalysts to drive a re-rating. The M&amp;A recovery is plausible but uncertain, and the CEO succession adds governance risk. Reduce exposure at current levels; add on weakness below $800.\n  \n    Buy Below$760\n    HOLD Zone$760–$930\n    Reduce Above$930\n    Stop / Sell$700"
+      "text": "Conviction Score: 59/100 — REDUCE At 17.7× earnings and 7.8 per cent below the 52-week high, Goldman offers a reasonable valuation for the quality of the franchise but lacks the near-term catalysts to drive a re-rating. The M&amp;A recovery is plausible but uncertain, and the CEO succession adds governance risk. Reduce exposure at current levels; add on weakness below $800. Buy Below $760 HOLD Zone $760–$930 Reduce Above $930 Stop / Sell $700"
     },
     "entryExit": {
-      "text": "GS — Goldman Sachs Group Inc (GS) — Entry / Exit Framework\n\nReduce / Trim: Above $925.96 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $998.58 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $1004.39 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $532.11 — partial mean reversion toward the middle of the 52-week range."
+      "text": "Buy Below: $760 | HOLD Zone: $760–$930 | Reduce Above: $930 | Stop / Sell: $700 | Reduce exposure at current levels; add on weakness below $800."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -91,16 +91,16 @@
   },
   "scores": {
     "current": {
-      "score": 45,
+      "score": 50,
       "band": "REDUCE",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 45,
+        "date": "",
+        "score": 50,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"

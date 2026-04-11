@@ -8,7 +8,7 @@
     "datePublished": "2026-04-11",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 45,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -25,11 +25,10 @@
       "text": "Allegion plc (ALLE) trades at $144.81 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendation: REDUCE at $144.81."
     },
     "businessModel": {
-      "text": "Allegion plc is a Dublin-headquartered access control and security hardware company operating under the Schlage, Von Duprin, LCN, and Steelcraft brands. Its product portfolio spans mechanical locks, cylindrical and mortise deadbolts, exit devices and panic bars, door closers, and electronic access control hardware including wireless-enabled smart locks and wired IP-accessible readers. The company also offers related software platforms — Schlage NDE and ENG series cloud-managed access management — giving it a foothold in the adjacent software layer, though hardware remains the core revenue driver. This is physical, tactile manufacturing: brass tumbler mechanisms, steel strike plates, aluminium exit devices, and the electronics that integrate them into building networks.",
-      "author": "subagent"
+      "text": "Allegion plc is a Industrials sector company. The investment case rests on diversified revenue streams across industrial, geographic, and product dimensions. Key drivers include operational efficiency, pricing power, and capital allocation discipline."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -61,7 +60,7 @@
       "text": "No major RNS filings in the trailing three to six months. Market-moving news has been limited; any re-rating will likely depend on macro conditions, sector rotation, or company-specific operational milestones."
     },
     "thesisEvaluation": {
-      "text": "ScenarioWeightThesis\n              Bull30%Strong demand, margin expansion and multiple re-rating drive meaningful upside. Target: +30-40% from current levels.\n              Base50%Steady earnings growth in line with long-term averages. Target: +10-15% over 12 months.\n              Bear20%Margin compression, macro headwinds or sector rotation create downside risk. Target: -15-20% from current levels.",
+      "text": "Scenario Weight Thesis Bull 30% Strong demand, margin expansion and multiple re-rating drive meaningful upside. Target: +30-40% from current levels. Base 50% Steady earnings growth in line with long-term averages. Target: +10-15% over 12 months. Bear 20% Margin compression, macro headwinds or sector rotation create downside risk. Target: -15-20% from current levels.",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -76,7 +75,7 @@
       }
     },
     "keyRisks": {
-      "text": "Macroeconomic sensitivity — Sector earnings are correlated with global growth, interest rates, and input cost inflation. Currency risk — GBP/EUR/USD exposure on reported revenues and costs. Competitiv",
+      "text": "Macroeconomic sensitivity — Sector earnings are correlated with global growth, interest rates, and input cost inflation. Currency risk — GBP/EUR/USD exposure on reported revenues and costs. Competitive dynamics — Pricing pressure from peers or new entrants. Liquidity and spread risk — As a non-primary-listing Irish stock, bid/offer spreads may be wide. Regulatory and political risk — Trade policy, FDI screening, and ESG regulation affecting sector.",
       "risks": [
         {
           "rank": 1,
@@ -101,13 +100,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Long-term institutional investors seeking diversified industrial/technology/healthcare exposure with a value tilt. Suitable for portfolios that can tolerate moderate volatility and currency risk. Avoid: Short-term traders seeking momentum. Investors requiring high liquidity or expecting near-term catalysts."
+      "text": "Own: Long-term institutional investors seeking diversified industrial/technology/healthcare exposure with a value tilt. Suitable for portfolios that can tolerate moderate volatility and currency risk. Avoid: Short-term traders seeking momentum. Investors requiring high liquidity or expecting near-term catalysts."
     },
     "recommendation": {
-      "text": "REDUCE — Conviction: 50/100. Enter on pullbacks toward the 52-week low for better risk/reward. Reduce or exit on strength exceeding the 52-week high on volume. No explicit price target is issued; investors should size positions commensurate with conviction level and portfolio risk budget.\n            Entry framework: Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
+      "text": "REDUCE — Conviction: 50/100. Enter on pullbacks toward the 52-week low for better risk/reward. Reduce or exit on strength exceeding the 52-week high on volume. No explicit price target is issued; investors should size positions commensurate with conviction level and portfolio risk budget. Entry framework: Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
     },
     "entryExit": {
-      "text": "Allegion plc (ALLE) — Entry / Exit Framework\n\nReduce / Trim: Above $147.71 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $159.29 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $186.77 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $129.99 — partial mean reversion toward the middle of the 52-week range."
+      "text": "Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -118,7 +117,7 @@
   },
   "scores": {
     "current": {
-      "score": 45,
+      "score": 50,
       "band": "REDUCE",
       "date": "2026-04-11",
       "delta": "0",
@@ -127,7 +126,7 @@
     "history": [
       {
         "date": "2026-04-11",
-        "score": 45,
+        "score": 50,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"
