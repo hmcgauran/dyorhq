@@ -8,12 +8,12 @@
     "datePublished": "",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 50,
+    "conviction": 62,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "sp100",
-      "fortune100",
-      "watchlist"
+      "watchlist",
+      "fortune100"
     ]
   },
   "price": {
@@ -91,7 +91,7 @@
   },
   "scores": {
     "current": {
-      "score": 50,
+      "score": 62,
       "band": "REDUCE",
       "date": "",
       "delta": "0",
@@ -100,7 +100,7 @@
     "history": [
       {
         "date": "",
-        "score": 50,
+        "score": 62,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"
