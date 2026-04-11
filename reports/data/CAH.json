@@ -48,7 +48,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "CAH (CAH) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $219.83 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $237.07 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $238.27 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $139.88 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": "CAH (CAH) — Entry / Exit Framework\n\nReduce / Trim: Above $219.83 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $237.07 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $238.27 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $139.88 — partial mean reversion toward the middle of the 52-week range."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

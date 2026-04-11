@@ -1,0 +1,4296 @@
+{
+  "A5G": {
+    "ticker": "A5G",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AAPL": {
+    "ticker": "AAPL",
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-10",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ABBV": {
+    "ticker": "ABBV",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ABT": {
+    "ticker": "ABT",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 72,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 72,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ABVE": {
+    "ticker": "ABVE",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 31,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 31,
+      "band": "SELL",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ACI": {
+    "ticker": "ACI",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 32,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 32,
+      "band": "SELL",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ACN": {
+    "ticker": "ACN",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ADBE": {
+    "ticker": "ADBE",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ADM": {
+    "ticker": "ADM",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 54,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 54,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ADNT": {
+    "ticker": "ADNT",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ADSE": {
+    "ticker": "ADSE",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 38,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 38,
+      "band": "SELL",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AER": {
+    "ticker": "AER",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AIG": {
+    "ticker": "AIG",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 56,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 56,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ALK.L": {
+    "ticker": "ALK.L",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ALKS": {
+    "ticker": "ALKS",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ALL": {
+    "ticker": "ALL",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 48,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 48,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ALLE": {
+    "ticker": "ALLE",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AMBP": {
+    "ticker": "AMBP",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AMD": {
+    "ticker": "AMD",
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 60,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 60,
+      "band": "HOLD",
+      "date": "2026-04-10",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AMGN": {
+    "ticker": "AMGN",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AMRN": {
+    "ticker": "AMRN",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AMZN": {
+    "ticker": "AMZN",
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 76,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 76,
+      "band": "HOLD",
+      "date": "2026-04-10",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ANET": {
+    "ticker": "ANET",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "APTV": {
+    "ticker": "APTV",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ASTS": {
+    "ticker": "ASTS",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 49,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 49,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AUTL": {
+    "ticker": "AUTL",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 48,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 48,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AVCT.L": {
+    "ticker": "AVCT.L",
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 63,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 63,
+      "band": "HOLD",
+      "date": "2026-04-10",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AVGO": {
+    "ticker": "AVGO",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "AXP": {
+    "ticker": "AXP",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 63,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 63,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "BA": {
+    "ticker": "BA",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 44,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 44,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "BABA": {
+    "ticker": "BABA",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 52,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 52,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "BAC": {
+    "ticker": "BAC",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 60,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 60,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "BIRG": {
+    "ticker": "BIRG",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "BK": {
+    "ticker": "BK",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 72,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 72,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "BKNG": {
+    "ticker": "BKNG",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 81,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 81,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "BLK": {
+    "ticker": "BLK",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 71,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 71,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "BMY": {
+    "ticker": "BMY",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 55,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 55,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "BRK.B": {
+    "ticker": "BRK.B",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 83,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 83,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "BWXT": {
+    "ticker": "BWXT",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 76,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 76,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "C": {
+    "ticker": "C",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "C43": {
+    "ticker": "C43",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "C4X.L": {
+    "ticker": "C4X.L",
+    "history": [
+      {
+        "date": "2026-04-09",
+        "score": 37,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 37,
+      "band": "SELL",
+      "date": "2026-04-09",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CAD · TSX-V": {
+    "ticker": "CAD · TSX-V",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 55,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 55,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CAH": {
+    "ticker": "CAH",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 56,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 56,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CAT": {
+    "ticker": "CAT",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CI": {
+    "ticker": "CI",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 63,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 63,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CL": {
+    "ticker": "CL",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CMCSA": {
+    "ticker": "CMCSA",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 63,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 63,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CMPR": {
+    "ticker": "CMPR",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CNC": {
+    "ticker": "CNC",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 63,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 63,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "COF": {
+    "ticker": "COF",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 78,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 78,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "COIN": {
+    "ticker": "COIN",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 44,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 44,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "COP": {
+    "ticker": "COP",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "COR": {
+    "ticker": "COR",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "COST": {
+    "ticker": "COST",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CRH": {
+    "ticker": "CRH",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 82,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 82,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CRIS": {
+    "ticker": "CRIS",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 40,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 40,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CRM": {
+    "ticker": "CRM",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CRWD": {
+    "ticker": "CRWD",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CSCO": {
+    "ticker": "CSCO",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CVS": {
+    "ticker": "CVS",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 52,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 52,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "CVX": {
+    "ticker": "CVX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DAL": {
+    "ticker": "DAL",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 79,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 79,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DCC": {
+    "ticker": "DCC",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 80,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 80,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DCC.L": {
+    "ticker": "DCC.L",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DE": {
+    "ticker": "DE",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DELL": {
+    "ticker": "DELL",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DESP.L": {
+    "ticker": "DESP.L",
+    "history": [
+      {
+        "date": "2026-04-09",
+        "score": 41,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 41,
+      "band": "REDUCE",
+      "date": "2026-04-09",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DGE.L": {
+    "ticker": "DGE.L",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DHR": {
+    "ticker": "DHR",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 53,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 53,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DIS": {
+    "ticker": "DIS",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DOLE": {
+    "ticker": "DOLE",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DOW": {
+    "ticker": "DOW",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 30,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 30,
+      "band": "SELL",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "DUK": {
+    "ticker": "DUK",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ELV": {
+    "ticker": "ELV",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 55,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 55,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "EMR": {
+    "ticker": "EMR",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 76,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 76,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "EPD": {
+    "ticker": "EPD",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 38,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 38,
+      "band": "SELL",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ET": {
+    "ticker": "ET",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ETL.PA (EURONEXT PARIS) / ETL.L (LSE)": {
+    "ticker": "ETL.PA (EURONEXT PARIS) / ETL.L (LSE)",
+    "history": [
+      {
+        "date": "2026-04-07",
+        "score": 41,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 41,
+      "band": "REDUCE",
+      "date": "2026-04-07",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ETN": {
+    "ticker": "ETN",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "EXPGF": {
+    "ticker": "EXPGF",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 48,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 48,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "F": {
+    "ticker": "F",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 40,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 40,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "FDX": {
+    "ticker": "FDX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "FFAI": {
+    "ticker": "FFAI",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 18,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 18,
+      "band": "SELL",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "FLUT": {
+    "ticker": "FLUT",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "FOBK": {
+    "ticker": "FOBK",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 28,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 28,
+      "band": "SELL",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "FTNT": {
+    "ticker": "FTNT",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 55,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 55,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GD": {
+    "ticker": "GD",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 66,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 66,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GE": {
+    "ticker": "GE",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 56,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 56,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GEV": {
+    "ticker": "GEV",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 74,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 74,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GFTU": {
+    "ticker": "GFTU",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GFTU.L": {
+    "ticker": "GFTU.L",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GGP.L": {
+    "ticker": "GGP.L",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 57,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 57,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GHRS": {
+    "ticker": "GHRS",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 46,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 46,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GILD": {
+    "ticker": "GILD",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GL9": {
+    "ticker": "GL9",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GLEN.L": {
+    "ticker": "GLEN.L",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GM": {
+    "ticker": "GM",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GOOG": {
+    "ticker": "GOOG",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GOOGL": {
+    "ticker": "GOOGL",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "GS": {
+    "ticker": "GS",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 59,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 59,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "HCA": {
+    "ticker": "HCA",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 73,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 73,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "HD": {
+    "ticker": "HD",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 54,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 54,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "HON": {
+    "ticker": "HON",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 51,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 51,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "HUM": {
+    "ticker": "HUM",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 46,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 46,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "IBM": {
+    "ticker": "IBM",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 72,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 72,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ICLR": {
+    "ticker": "ICLR",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "INTC": {
+    "ticker": "INTC",
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 27,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 27,
+      "band": "SELL",
+      "date": "2026-04-10",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "INTU": {
+    "ticker": "INTU",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 66,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 66,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "IONQ": {
+    "ticker": "IONQ",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 47,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 47,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "IR": {
+    "ticker": "IR",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "IREN": {
+    "ticker": "IREN",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ISRG": {
+    "ticker": "ISRG",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ITRMF": {
+    "ticker": "ITRMF",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 4,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 4,
+      "band": "SELL",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "JAZZ": {
+    "ticker": "JAZZ",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "JCI": {
+    "ticker": "JCI",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 66,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 66,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "JHX": {
+    "ticker": "JHX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "JNJ": {
+    "ticker": "JNJ",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "JPM": {
+    "ticker": "JPM",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 78,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 78,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "KBGGY · NO": {
+    "ticker": "KBGGY · NO",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "KGSPY": {
+    "ticker": "KGSPY",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 84,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 84,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "KO": {
+    "ticker": "KO",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "KOG.OL · NO": {
+    "ticker": "KOG.OL · NO",
+    "history": [
+      {
+        "date": "2026-04-09",
+        "score": 73,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 73,
+      "band": "HOLD",
+      "date": "2026-04-09",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "KR": {
+    "ticker": "KR",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 42,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 42,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "KRX": {
+    "ticker": "KRX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "KRZ": {
+    "ticker": "KRZ",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "KYGA.L (LSE) / KRZ (ISE)": {
+    "ticker": "KYGA.L (LSE) / KRZ (ISE)",
+    "history": [
+      {
+        "date": "2026-04-07",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "2026-04-07",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "LIN": {
+    "ticker": "LIN",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "LLY": {
+    "ticker": "LLY",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "LMT": {
+    "ticker": "LMT",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 74,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 74,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "LND": {
+    "ticker": "LND",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 34,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 34,
+      "band": "SELL",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "LOW": {
+    "ticker": "LOW",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "LRCX": {
+    "ticker": "LRCX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 59,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 59,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MA": {
+    "ticker": "MA",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 75,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 75,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MCD": {
+    "ticker": "MCD",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 66,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 66,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MCK": {
+    "ticker": "MCK",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 71,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 71,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MDB": {
+    "ticker": "MDB",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MDLZ": {
+    "ticker": "MDLZ",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 66,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 66,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MDT": {
+    "ticker": "MDT",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 63,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 63,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MET": {
+    "ticker": "MET",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 60,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 60,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "META": {
+    "ticker": "META",
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 81,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 81,
+      "band": "BUY",
+      "date": "2026-04-10",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MKA.L": {
+    "ticker": "MKA.L",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MMM": {
+    "ticker": "MMM",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MO": {
+    "ticker": "MO",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MPC": {
+    "ticker": "MPC",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MRK": {
+    "ticker": "MRK",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MRSN": {
+    "ticker": "MRSN",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 38,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 38,
+      "band": "SELL",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MS": {
+    "ticker": "MS",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 72,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 72,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MSFT": {
+    "ticker": "MSFT",
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 69,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 69,
+      "band": "HOLD",
+      "date": "2026-04-10",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "MU": {
+    "ticker": "MU",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "NEE": {
+    "ticker": "NEE",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "NFLX": {
+    "ticker": "NFLX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "NIO": {
+    "ticker": "NIO",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 38,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 38,
+      "band": "SELL",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "NKE": {
+    "ticker": "NKE",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "NOC": {
+    "ticker": "NOC",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 76,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 76,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "NOW": {
+    "ticker": "NOW",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "NVDA": {
+    "ticker": "NVDA",
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-10",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "NVTS": {
+    "ticker": "NVTS",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "OKLO": {
+    "ticker": "OKLO",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ONDO": {
+    "ticker": "ONDO",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 48,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 48,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ORCL": {
+    "ticker": "ORCL",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PALM.L": {
+    "ticker": "PALM.L",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 43,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 43,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PANW": {
+    "ticker": "PANW",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 74,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 74,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PEP": {
+    "ticker": "PEP",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PFE": {
+    "ticker": "PFE",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 48,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 48,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PG": {
+    "ticker": "PG",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 63,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 63,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PGR": {
+    "ticker": "PGR",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PL": {
+    "ticker": "PL",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 43,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 43,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PLCE · NASDAQ": {
+    "ticker": "PLCE · NASDAQ",
+    "history": [
+      {
+        "date": "2026-04-09",
+        "score": 32,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 32,
+      "band": "SELL",
+      "date": "2026-04-09",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PLTR": {
+    "ticker": "PLTR",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 72,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 72,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PM": {
+    "ticker": "PM",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "POLXF": {
+    "ticker": "POLXF",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 28,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 28,
+      "band": "SELL",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PRGO": {
+    "ticker": "PRGO",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PRTA": {
+    "ticker": "PRTA",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PRU": {
+    "ticker": "PRU",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 63,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 63,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PSX": {
+    "ticker": "PSX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "PXEN.L": {
+    "ticker": "PXEN.L",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "QBTS": {
+    "ticker": "QBTS",
+    "history": [
+      {
+        "date": "2026-04-09",
+        "score": 44,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 44,
+      "band": "REDUCE",
+      "date": "2026-04-09",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "QCOM": {
+    "ticker": "QCOM",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "QED.L": {
+    "ticker": "QED.L",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 56,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 56,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "RGTI": {
+    "ticker": "RGTI",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 46,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 46,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "RTX": {
+    "ticker": "RTX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "RUOC.F (FRA) / OPTT (NYSE AMERICAN)": {
+    "ticker": "RUOC.F (FRA) / OPTT (NYSE AMERICAN)",
+    "history": [
+      {
+        "date": "2026-04-07",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "2026-04-07",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "RYAAY": {
+    "ticker": "RYAAY",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 80,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 80,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SBUX": {
+    "ticker": "SBUX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 46,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 46,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SCHW": {
+    "ticker": "SCHW",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SHOP": {
+    "ticker": "SHOP",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SLMT": {
+    "ticker": "SLMT",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 18,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 18,
+      "band": "SELL",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SMR": {
+    "ticker": "SMR",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 46,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 46,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SNEX": {
+    "ticker": "SNEX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 75,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 75,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SO": {
+    "ticker": "SO",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SOFI": {
+    "ticker": "SOFI",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 42,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 42,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SPG": {
+    "ticker": "SPG",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SPIR": {
+    "ticker": "SPIR",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 60,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 60,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "STE": {
+    "ticker": "STE",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "STX": {
+    "ticker": "STX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 80,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 80,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SW": {
+    "ticker": "SW",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "SYY": {
+    "ticker": "SYY",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "T": {
+    "ticker": "T",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 81,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 81,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "TDY": {
+    "ticker": "TDY",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "TGT": {
+    "ticker": "TGT",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 56,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 56,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "TJX": {
+    "ticker": "TJX",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "TMO": {
+    "ticker": "TMO",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 66,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 66,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "TMUS": {
+    "ticker": "TMUS",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 81,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 81,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "TOM.L": {
+    "ticker": "TOM.L",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 22,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 22,
+      "band": "SELL",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "TRIB": {
+    "ticker": "TRIB",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 12,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 12,
+      "band": "SELL",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "TSLA": {
+    "ticker": "TSLA",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "TT": {
+    "ticker": "TT",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 82,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 82,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "TXN": {
+    "ticker": "TXN",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 73,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 73,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "UAL": {
+    "ticker": "UAL",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 75,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 75,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "UBER": {
+    "ticker": "UBER",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 83,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 83,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "UNH": {
+    "ticker": "UNH",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "UNP": {
+    "ticker": "UNP",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 82,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 82,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "UPS": {
+    "ticker": "UPS",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 57,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 57,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "USB": {
+    "ticker": "USB",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "V": {
+    "ticker": "V",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "VEQT.TO (TSX)": {
+    "ticker": "VEQT.TO (TSX)",
+    "history": [
+      {
+        "date": "2026-04-07",
+        "score": 71,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 71,
+      "band": "HOLD",
+      "date": "2026-04-07",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "VLO": {
+    "ticker": "VLO",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "VZ": {
+    "ticker": "VZ",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 47,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 47,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "WBA": {
+    "ticker": "WBA",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 28,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 28,
+      "band": "SELL",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "WFC": {
+    "ticker": "WFC",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 59,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 59,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "WMT": {
+    "ticker": "WMT",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "XOM": {
+    "ticker": "XOM",
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 56,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 56,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "XPEV": {
+    "ticker": "XPEV",
+    "history": [
+      {
+        "date": "2026-04-09",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "2026-04-09",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ZPHR.L": {
+    "ticker": "ZPHR.L",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 57,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 57,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  },
+  "ZYME": {
+    "ticker": "ZYME",
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 60,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ],
+    "current": {
+      "score": 60,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0"
+    },
+    "updated": "2026-04-11"
+  }
+}

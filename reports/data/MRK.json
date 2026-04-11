@@ -29,12 +29,12 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Keytruda: global sales $25bn+ FY24; label expansions ongoing in adjuvant melanoma, bladder, gastric\n    Caplanex acquisition (ADC platform, 2024) adds 3 oncology assets in Phase II\n    Vifor Pharma integration (acquired 2023) \u2014 renal/vascular franchise now contributing $1.8bn\n    Winrevair (sotatercept) approved 2024 for pulmonary arterial hypertension \u2014 c.$3bn peak potential",
+      "text": "Keytruda: global sales $25bn+ FY24; label expansions ongoing in adjuvant melanoma, bladder, gastric\n    Caplanex acquisition (ADC platform, 2024) adds 3 oncology assets in Phase II\n    Vifor Pharma integration (acquired 2023) — renal/vascular franchise now contributing $1.8bn\n    Winrevair (sotatercept) approved 2024 for pulmonary arterial hypertension — c.$3bn peak potential",
       "items": [
         "Keytruda: global sales $25bn+ FY24; label expansions ongoing in adjuvant melanoma, bladder, gastric",
         "Caplanex acquisition (ADC platform, 2024) adds 3 oncology assets in Phase II",
-        "Vifor Pharma integration (acquired 2023) \u2014 renal/vascular franchise now contributing $1.8bn",
-        "Winrevair (sotatercept) approved 2024 for pulmonary arterial hypertension \u2014 c.$3bn peak potential"
+        "Vifor Pharma integration (acquired 2023) — renal/vascular franchise now contributing $1.8bn",
+        "Winrevair (sotatercept) approved 2024 for pulmonary arterial hypertension — c.$3bn peak potential"
       ]
     },
     "thesisEvaluation": {
@@ -53,11 +53,11 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. Keytruda composition-of-matter patent expires 2028 — biosimilar erosion begins immediately 2. US IRA (Inflation Reduction Act) price negotiation reduces revenue on selected drugs in 2026-28 3. Clin",
       "risks": [
         {
           "rank": 1,
-          "risk": "1. Keytruda composition-of-matter patent expires 2028 \u2014 biosimilar erosion begins immediately"
+          "risk": "1. Keytruda composition-of-matter patent expires 2028 — biosimilar erosion begins immediately"
         },
         {
           "rank": 2,
@@ -69,7 +69,7 @@
         },
         {
           "rank": 4,
-          "risk": "4. Vifor integration slower than planned \u2014 $700M synergies not yet realised"
+          "risk": "4. Vifor integration slower than planned — $700M synergies not yet realised"
         },
         {
           "rank": 5,
@@ -78,13 +78,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Pharma-turnaround investor play on pipeline maturation post-Keytruda exclusivity cliff. Healthcare-portfolio diversifier with attractive dividend yield (~2.8%). NOT suitable for investors unable to hold through clinical setbacks or who require near-term revenue growth acceleration."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "Merck & Co (MRK) \u2014 Entry / Exit Framework\n\nHOLD zone: $111.71\u2013$123.85 \u2014 current levels are fairly valued.\nTrim / Take Profits above $123.85 \u2014 approaching the 52-week high at $125.14.\nStop-loss: A sustained close below $71.84 (52-week low) would warrant reassessment."
+      "text": "Merck & Co (MRK) — Entry / Exit Framework\n\nHOLD zone: $111.71–$123.85 — current levels are fairly valued.\nTrim / Take Profits above $123.85 — approaching the 52-week high at $125.14.\nStop-loss: A sustained close below $71.84 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

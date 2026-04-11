@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. Single-prime supplier status creates political scrutiny (anti-competitive concerns) 2. Sentinel programme technical complexity: first test launch delayed to FY27 3. Fire-sale of VSMPOL space system",
       "risks": [
         {
           "rank": 1,
@@ -65,7 +65,7 @@
         },
         {
           "rank": 3,
-          "risk": "3. Fire-sale of VSMPOL space systems division (divested Q4 FY24) \u2014 signals management uncertainty"
+          "risk": "3. Fire-sale of VSMPOL space systems division (divested Q4 FY24) — signals management uncertainty"
         },
         {
           "rank": 4,
@@ -78,13 +78,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Geopolitical risk-on positioning for investors who want direct exposure to the space and nuclear deterrence theme without owning a diversified contractor. NOT suitable for investors requiring high margins or near-term re-rating catalysts."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "Northrop Grumman (NOC) \u2014 Entry / Exit Framework\n\nHOLD zone: $619.83\u2013$687.2 \u2014 current levels are fairly valued.\nTrim / Take Profits above $687.2 \u2014 approaching the 52-week high at $774.00.\nStop-loss: A sustained close below $441.13 (52-week low) would warrant reassessment."
+      "text": "Northrop Grumman (NOC) — Entry / Exit Framework\n\nHOLD zone: $619.83–$687.2 — current levels are fairly valued.\nTrim / Take Profits above $687.2 — approaching the 52-week high at $774.00.\nStop-loss: A sustained close below $441.13 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

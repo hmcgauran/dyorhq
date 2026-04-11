@@ -28,10 +28,10 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "Philip Morris's smoke-free transition is genuinely ahead of schedule, but the shares are fairly valued at 22x P/E and the entry point does not offer the margin of safety needed for a new BUY position \u2014 HOLD is the weighted recommendation."
+      "text": "Philip Morris's smoke-free transition is genuinely ahead of schedule, but the shares are fairly valued at 22x P/E and the entry point does not offer the margin of safety needed for a new BUY position — HOLD is the weighted recommendation."
     },
     "businessModel": {
-      "text": "Philip Morris International is the world's largest international tobacco company, selling cigarettes and smoke-free products in over 180 markets. Its smoke-free product portfolio is anchored by IQOS (heat-not-burn tobacco heating system) and Zyn (oral nicotine pouches). PMI earns the majority of its revenues in international markets outside the US, where Altria holds exclusive rights to IQOS. The company's strategy is a deliberate, multi-decade transition from combustible cigarettes to scientifically validated reduced-harm alternatives. Revenue quality is high \u2014 PMI generates significant free cash flow that funds an aggressive shareholder return programme."
+      "text": "Philip Morris International is the world's largest international tobacco company, selling cigarettes and smoke-free products in over 180 markets. Its smoke-free product portfolio is anchored by IQOS (heat-not-burn tobacco heating system) and Zyn (oral nicotine pouches). PMI earns the majority of its revenues in international markets outside the US, where Altria holds exclusive rights to IQOS. The company's strategy is a deliberate, multi-decade transition from combustible cigarettes to scientifically validated reduced-harm alternatives. Revenue quality is high — PMI generates significant free cash flow that funds an aggressive shareholder return programme."
     },
     "financialSnapshot": {
       "text": "</div>",
@@ -66,22 +66,22 @@
       "text": "Zyn has become the fastest-growing nicotine pouch brand in the US, growingrapid in Convenience stores and online. The US oral nicotine category is expanding structurally as smokers switch from combustible products. IQOS Iluma, PMI's latest-generation heat-not-burn device, continues to gain market share in Japan and South Korea. PMI management targets smoke-free products to represent over 50% of revenues by 2030. The company's Q4 2025 results showed continued strong growth in Zyn and resilience in the IQOS franchise, with full-year revenue guidance maintained."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (68): Zyn nicotine pouches achieve category leadership in the US and expand globally. IQOS Iluma (heat-not-burn) reaches critical mass in key markets (Japan, Korea, Indonesia, Italy). Smoke-free revenue exceeds 35% of total group net revenues. Organic EPS growth of 7\u20139% annually. Price: $175+.\n            Base Case (50): Zyn grows steadily in the US but regulatory headwinds (potential US flavours ban) cap the category. IQOS expands in existing markets without major new country launches. Smoke-free products represent approximately 30% of revenues. EPS grows at 5\u20137% annually. Price: $155\u2013$170.\n            Bear Case (40): US FDA restricts Zyn product formats or imposes flavours bans in key states. IQOS faces IP challenges or competitive heat-not-burn entrants. Currency headwinds re-emerge. EPS growth decelerates to 3\u20134%. Price: below $130.\n            Weighted Score: 68 \u2014 Bull 68 \u00d7 30% + Base 50 \u00d7 50% + Bear 40 \u00d7 20%",
+      "text": "Bull Case (68): Zyn nicotine pouches achieve category leadership in the US and expand globally. IQOS Iluma (heat-not-burn) reaches critical mass in key markets (Japan, Korea, Indonesia, Italy). Smoke-free revenue exceeds 35% of total group net revenues. Organic EPS growth of 7–9% annually. Price: $175+.\n            Base Case (50): Zyn grows steadily in the US but regulatory headwinds (potential US flavours ban) cap the category. IQOS expands in existing markets without major new country launches. Smoke-free products represent approximately 30% of revenues. EPS grows at 5–7% annually. Price: $155–$170.\n            Bear Case (40): US FDA restricts Zyn product formats or imposes flavours bans in key states. IQOS faces IP challenges or competitive heat-not-burn entrants. Currency headwinds re-emerge. EPS growth decelerates to 3–4%. Price: below $130.\n            Weighted Score: 68 — Bull 68 × 30% + Base 50 × 50% + Bear 40 × 20%",
       "bull": {
-        "scenario": "Bull Case (68): Zyn nicotine pouches achieve category leadership in the US and expand globally. IQOS Iluma (heat-not-burn) reaches critical mass in key markets (Japan, Korea, Indonesia, Italy). Smoke-free revenue exceeds 35% of total group net revenues. Organic EPS growth of 7\u20139% annually. Price: $175+.",
+        "scenario": "Bull Case (68): Zyn nicotine pouches achieve category leadership in the US and expand globally. IQOS Iluma (heat-not-burn) reaches critical mass in key markets (Japan, Korea, Indonesia, Italy). Smoke-free revenue exceeds 35% of total group net revenues. Organic EPS growth of 7–9% annually. Price: $175+.",
         "probability": 35
       },
       "base": {
-        "scenario": "Base Case (50): Zyn grows steadily in the US but regulatory headwinds (potential US flavours ban) cap the category. IQOS expands in existing markets without major new country launches. Smoke-free products represent approximately 30% of revenues. EPS grows at 5\u20137% annually. Price: $155\u2013$170.",
+        "scenario": "Base Case (50): Zyn grows steadily in the US but regulatory headwinds (potential US flavours ban) cap the category. IQOS expands in existing markets without major new country launches. Smoke-free products represent approximately 30% of revenues. EPS grows at 5–7% annually. Price: $155–$170.",
         "probability": 30
       },
       "bear": {
-        "scenario": "Bear Case (40): US FDA restricts Zyn product formats or imposes flavours bans in key states. IQOS faces IP challenges or competitive heat-not-burn entrants. Currency headwinds re-emerge. EPS growth decelerates to 3\u20134%. Price: below $130.",
+        "scenario": "Bear Case (40): US FDA restricts Zyn product formats or imposes flavours bans in key states. IQOS faces IP challenges or competitive heat-not-burn entrants. Currency headwinds re-emerge. EPS growth decelerates to 3–4%. Price: below $130.",
         "probability": 4
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "US regulatory risk for Zyn: The US FDA has signalled increasing scrutiny of oral nicotine products, particularly flavoured pouches. Any federal flavours ban or nicotine content caps would directly imp",
       "risks": [
         {
           "rank": 1,
@@ -106,13 +106,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Income investors seeking a high, well-covered dividend yield (approximately 4.5–5%) in a cash-generative consumer staples business. Also suited to investors who believe in the smoke-free transition thesis and want a tobacco-sector proxy for that thematic. Avoiders: Growth investors and ESG-mandated funds that exclude tobacco. Anyone looking for capital appreciation at a reasonable P/E will find better risk-reward in consumer staples peers with stronger pricing power."
     },
     "recommendation": {
-      "text": "HOLD. BUY below $135 (approximately 18x forward P/E on base-case EPS \u2014 below the 5-year historical average). Reduce above $170 (above 23x P/E \u2014 smoke-free optionality is now priced in at this multiple and the entry reward is insufficient)."
+      "text": "HOLD. BUY below $135 (approximately 18x forward P/E on base-case EPS — below the 5-year historical average). Reduce above $170 (above 23x P/E — smoke-free optionality is now priced in at this multiple and the entry reward is insufficient)."
     },
     "entryExit": {
-      "text": "Philip Morris International Inc (PM) \u2014 Entry / Exit Framework\n\nHOLD zone: $147.61\u2013$163.66 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $147.61 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $163.66 \u2014 approaching the 52-week high at $191.30. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $139.27 (52-week low) would warrant reassessment."
+      "text": "Philip Morris International Inc (PM) — Entry / Exit Framework\n\nHOLD zone: $147.61–$163.66 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $147.61 — material pullback that improves risk/reward.\nTrim / Take Profits above $163.66 — approaching the 52-week high at $191.30. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $139.27 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

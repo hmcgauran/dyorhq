@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. Tariff and recession risk could trigger loan-loss provision build in 2H 2026 2. Jamie Dimon announced retirement — succession risk creates governance premium 3. NII is duration-sensitive: Fed rate ",
       "risks": [
         {
           "rank": 1,
@@ -61,7 +61,7 @@
         },
         {
           "rank": 2,
-          "risk": "2. Jamie Dimon announced retirement \u2014 succession risk creates governance premium"
+          "risk": "2. Jamie Dimon announced retirement — succession risk creates governance premium"
         },
         {
           "rank": 3,
@@ -78,13 +78,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Quality-focused investors seeking above-peer ROE with superior franchise durability. Dividend yield (~2.3%) plus buyback provides dual return mechanism. NOT suitable for investors expecting rapid balance-sheet de-levering or those wanting pure investment-bank beta."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "JPMorgan Chase & Co (JPM) \u2014 Entry / Exit Framework\n\nHOLD zone: $285.08\u2013$316.07 \u2014 current levels are fairly valued.\nTrim / Take Profits above $316.07 \u2014 approaching the 52-week high at $337.25.\nStop-loss: A sustained close below $221.81 (52-week low) would warrant reassessment."
+      "text": "JPMorgan Chase & Co (JPM) — Entry / Exit Framework\n\nHOLD zone: $285.08–$316.07 — current levels are fairly valued.\nTrim / Take Profits above $316.07 — approaching the 52-week high at $337.25.\nStop-loss: A sustained close below $221.81 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

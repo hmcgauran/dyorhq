@@ -64,7 +64,7 @@
       "text": "Intuitive Surgical Inc has been navigating the current market environment with its core healthcare franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (83): da Vinci 5 launch accelerates procedure conversions and drives system placements above 15% annual growth. Ion platform achieves meaningful revenue scale. International markets (China, India) open materially. EPS grows to $10+. Price: $530+.\n            Base Case (70): System placements grow in line with procedure volumes at 12-14%. da Vinci 5 ramps successfully. Ion contributes increasingly. ISS and MIS procedure volumes stable. EPS: $8.50-9.50. Price: $460-520.\n            Bear Case (52): da Vinci 5 transition disappoints or capital equipment budget constraints slow system placements in the US and Europe. Chinese domestic robotic surgery competitors (Mazor, Tinavi) accelerate. EPS falls to $7-7.50. Price: below $400.\n            Weighted Score: 70 \u2014 Bull 83 \u00d7 30% + Base 70 \u00d7 50% + Bear 52 \u00d7 20%",
+      "text": "Bull Case (83): da Vinci 5 launch accelerates procedure conversions and drives system placements above 15% annual growth. Ion platform achieves meaningful revenue scale. International markets (China, India) open materially. EPS grows to $10+. Price: $530+.\n            Base Case (70): System placements grow in line with procedure volumes at 12-14%. da Vinci 5 ramps successfully. Ion contributes increasingly. ISS and MIS procedure volumes stable. EPS: $8.50-9.50. Price: $460-520.\n            Bear Case (52): da Vinci 5 transition disappoints or capital equipment budget constraints slow system placements in the US and Europe. Chinese domestic robotic surgery competitors (Mazor, Tinavi) accelerate. EPS falls to $7-7.50. Price: below $400.\n            Weighted Score: 70 — Bull 83 × 30% + Base 70 × 50% + Bear 52 × 20%",
       "bull": {
         "scenario": "Bull Case (83): da Vinci 5 launch accelerates procedure conversions and drives system placements above 15% annual growth. Ion platform achieves meaningful revenue scale. International markets (China, India) open materially. EPS grows to $10+. Price: $530+.",
         "probability": 15
@@ -79,7 +79,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Capital equipment cycle risk: da Vinci systems represent significant capital expenditure for hospitals. Any rationalisation of hospital capital budgets directly impacts system placement volumes. da Vi",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Long-term investors seeking surgical robotics pure-play with an unmatched installed base, recurring service revenue and durable competitive moat. Avoiders: Value investors at current multiples. Investors concerned about competitive disruption from Medtronic Hugo or Chinese domestic alternatives. Short-term traders."
     },
     "recommendation": {
-      "text": "HOLD. BUY below $410 (implies 48x base-case EPS \u2014 still premium but provides some margin of safety for a genuine platform winner).\n            Reduce above $520 (implies 60x+ P/E \u2014 excessive for a company facing the competitive environment that ISRG now confronts)."
+      "text": "HOLD. BUY below $410 (implies 48x base-case EPS — still premium but provides some margin of safety for a genuine platform winner).\n            Reduce above $520 (implies 60x+ P/E — excessive for a company facing the competitive environment that ISRG now confronts)."
     },
     "entryExit": {
-      "text": "Intuitive Surgical Inc (ISRG) \u2014 Entry / Exit Framework\n\nHOLD zone: $414.57\u2013$459.63 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $414.57 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $459.63 \u2014 approaching the 52-week high at $603.88. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $419.28 (52-week low) would warrant reassessment."
+      "text": "Intuitive Surgical Inc (ISRG) — Entry / Exit Framework\n\nHOLD zone: $414.57–$459.63 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $414.57 — material pullback that improves risk/reward.\nTrim / Take Profits above $459.63 — approaching the 52-week high at $603.88. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $419.28 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

@@ -29,11 +29,11 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Cross-border travel recovery fully normalised \u2014 cross-border volume +12% FY24\n    New network services (STEM, open banking connectors) growing 40%+ YoY\n    Acquisition ofRecorded Future (AI cybersecurity threat intel, 2024) \u2014 strategic adjacency\n    Buyback authorised: $25bn multi-year programme, ~5% of market cap annually",
+      "text": "Cross-border travel recovery fully normalised — cross-border volume +12% FY24\n    New network services (STEM, open banking connectors) growing 40%+ YoY\n    Acquisition ofRecorded Future (AI cybersecurity threat intel, 2024) — strategic adjacency\n    Buyback authorised: $25bn multi-year programme, ~5% of market cap annually",
       "items": [
-        "Cross-border travel recovery fully normalised \u2014 cross-border volume +12% FY24",
+        "Cross-border travel recovery fully normalised — cross-border volume +12% FY24",
         "New network services (STEM, open banking connectors) growing 40%+ YoY",
-        "Acquisition ofRecorded Future (AI cybersecurity threat intel, 2024) \u2014 strategic adjacency",
+        "Acquisition ofRecorded Future (AI cybersecurity threat intel, 2024) — strategic adjacency",
         "Buyback authorised: $25bn multi-year programme, ~5% of market cap annually"
       ]
     },
@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. Global regulatory interventions on interchange fees (EU, India, Brazil) could compress take-rates 2. Recession scenario reduces spend volume, directly impacting gross-dollar volume metric 3. Fintec",
       "risks": [
         {
           "rank": 1,
@@ -69,22 +69,22 @@
         },
         {
           "rank": 4,
-          "risk": "4. CBDC (Central Bank Digital Currency) development \u2014 long-term network displacement risk"
+          "risk": "4. CBDC (Central Bank Digital Currency) development — long-term network displacement risk"
         },
         {
           "rank": 5,
-          "risk": "5. Valuation: P/E 30x is at historical peak \u2014 limited re-rating room"
+          "risk": "5. Valuation: P/E 30x is at historical peak — limited re-rating room"
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Long-term compounder investors seeking exposure to secular payment-volume growth. Buy-and-hold wealthbuilder with modest dividend. NOT suitable for investors seeking value or turnaround catalysts; valuations rarely compress."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "Mastercard (MA) \u2014 Entry / Exit Framework\n\nHOLD zone: $458.77\u2013$508.63 \u2014 current levels are fairly valued.\nTrim / Take Profits above $508.63 \u2014 approaching the 52-week high at $601.77.\nStop-loss: A sustained close below $470.89 (52-week low) would warrant reassessment."
+      "text": "Mastercard (MA) — Entry / Exit Framework\n\nHOLD zone: $458.77–$508.63 — current levels are fairly valued.\nTrim / Take Profits above $508.63 — approaching the 52-week high at $601.77.\nStop-loss: A sustained close below $470.89 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

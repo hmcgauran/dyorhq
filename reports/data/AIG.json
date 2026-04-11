@@ -84,17 +84,17 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "# Risk Description 1 Catastrophe loss volatility AIG retains meaningful catastrophe exposure in its General Insurance book. A major US hurricane or earthquake event in a single quarter could wipe out ",
       "risks": []
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Ideal For Avoid Owners Deep-value insurance investors attracted to the sub-15x P/E and active buyback programme Those with high conviction in the commercial lines pricing cycle who want diversified insurer exposure Avoid Quality-focused investors who prefer cleaner, simpler P&amp;C franchises (e.g. PGR, TRV) with better combined ratio track records Investors who require earnings visibility and dislike CAT event risk that can swing quarterly results by 20-30% Growth-oriented investors; AIG is a restructuring story, not a compounding story"
     },
     "recommendation": {
       "text": "Rating: REDUCE\n    AIG has made genuine progress simplifying its business and returning capital to shareholders, and the buyback programme is meaningful at current prices. However, the shares trade near the middle of their 52-week range with a P/E of 14x that leaves little margin of safety. A large catastrophe event or reserve charge could push the shares materially lower, and there are cleaner insurance franchise names available at comparable valuations. Reduce and await a better entry point.\n    \n      FrameworkDetail\n      Entry point$76.87 (current); wait for pullback to $68-70 to initiate new positions\n      Target price (12 months)$82-$87 on 14-15x base case EPS of $5.75-$6.00 (10-15% upside)\n      Stop-loss$67.00 (below the 52-week low; would signal a fundamental deterioration in underwriting or balance sheet confidence)\n      Position sizingReduce; avoid initiating new positions at current levels; preferred P&amp;C alternatives offer better risk/reward\n      Key trigger to upgradeSub-95 combined ratio achieved; clarity on CEO succession; reserve review completed with no deficiencies; pullback to $68-70"
     },
     "entryExit": {
-      "text": "American International Group Inc (AIG) (AIG) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $78.41 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $84.56 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $89.21 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $76.95 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": "American International Group Inc (AIG) (AIG) — Entry / Exit Framework\n\nReduce / Trim: Above $78.41 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $84.56 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $89.21 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $76.95 — partial mean reversion toward the middle of the 52-week range."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

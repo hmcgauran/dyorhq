@@ -1,7 +1,7 @@
 {
   "meta": {
     "ticker": "CSCO",
-    "company": "CSCO \u2014 Cisco Systems Inc",
+    "company": "CSCO — Cisco Systems Inc",
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
@@ -27,20 +27,20 @@
       "text": "Cisco derives revenue from the design, manufacture, and sale of networking equipment and related services across three principal segments:\n  \n    Networking (routers, switches, wireless): the core franchise, providing hardware that connects enterprises, service providers, and data centres globally.\n    Collaboration (Webex, conferencing, messaging): a comprehensive UC&amp;C platform serving hybrid and remote workforces.\n    Security (firewalls, zero-trust, identity): an integrated security portfolio addressing network, cloud, and endpoint threat vectors.\n    Services &amp; Subscriptions: software recurring revenue from telemetry, management, and support contracts, increasingly weighted towards software and SaaS.\n  \n  Cisco is in a managed transition from appliance-heavy capital sales towards software-subscription recurring revenue, with gross margins under modest pressure as this mix shift matures."
     },
     "financialSnapshot": {
-      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$82.22</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$324.8bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">29.6\u00d7</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$2.78</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$88.19</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$53.84</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">\u22126.8%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">17.6m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$82.22</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$324.8bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">29.6×</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$2.78</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$88.19</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$53.84</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">−6.8%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">17.6m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case\n      75 / 100\n      Hyperscaler and enterprise AI workloads drive a multi-year networking infrastructure refresh cycle. Cisco's Silicon One and AI-Fabrics capture significant share in GPU-to-GPU interconnect, offsetting any enterprise routing softness. Subscription mix improves, gross margins expand back above 65 per cent, and the shares re-rate towards 35\u00d7+ earnings.\n      Weight: 30%\n    \n    \n      Base Case\n      60 / 100\n      Steady enterprise networking demand, with AI-driven data-centre revenue partially offsetting competitive pressure from Arista and white-box switch vendors. Webex and Security maintain mid-single-digit growth. Modest dividend income provides floor. Shares drift sideways in a 27\u201333\u00d7 earnings range.\n      Weight: 50%\n    \n    \n      Bear Case\n      45 / 100\n      AI workloads migrate to custom ASICs and purpose-built AI-fabric solutions (Nvidia InfiniBand, custom switch silicon), commoditising Cisco's Ethernet switching franchise. Enterprise IT budgets tighten in a slowdown, and Arista continues to win campus and data-centre share. Margins compress materially below 63 per cent.\n      Weight: 20%",
+      "text": "Bull Case\n      75 / 100\n      Hyperscaler and enterprise AI workloads drive a multi-year networking infrastructure refresh cycle. Cisco's Silicon One and AI-Fabrics capture significant share in GPU-to-GPU interconnect, offsetting any enterprise routing softness. Subscription mix improves, gross margins expand back above 65 per cent, and the shares re-rate towards 35×+ earnings.\n      Weight: 30%\n    \n    \n      Base Case\n      60 / 100\n      Steady enterprise networking demand, with AI-driven data-centre revenue partially offsetting competitive pressure from Arista and white-box switch vendors. Webex and Security maintain mid-single-digit growth. Modest dividend income provides floor. Shares drift sideways in a 27–33× earnings range.\n      Weight: 50%\n    \n    \n      Bear Case\n      45 / 100\n      AI workloads migrate to custom ASICs and purpose-built AI-fabric solutions (Nvidia InfiniBand, custom switch silicon), commoditising Cisco's Ethernet switching franchise. Enterprise IT budgets tighten in a slowdown, and Arista continues to win campus and data-centre share. Margins compress materially below 63 per cent.\n      Weight: 20%",
       "bull": {
-        "scenario": "Bull Case\n      75 / 100\n      Hyperscaler and enterprise AI workloads drive a multi-year networking infrastructure refresh cycle. Cisco's Silicon One and AI-Fabrics capture significant share in GPU-to-GPU interconnect, offsetting any enterprise routing softness. Subscription mix improves, gross margins expand back above 65 per cent, and the shares re-rate towards 35\u00d7+ earnings.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "Bull Case\n      75 / 100\n      Hyperscaler and enterprise AI workloads drive a multi-year networking infrastructure refresh cycle. Cisco's Silicon One and AI-Fabrics capture significant share in GPU-to-GPU interconnect, offsetting any enterprise routing softness. Subscription mix improves, gross margins expand back above 65 per cent, and the shares re-rate towards 35×+ earnings.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
         "probability": 30
       },
       "base": {
-        "scenario": "Base Case\n      60 / 100\n      Steady enterprise networking demand, with AI-driven data-centre revenue partially offsetting competitive pressure from Arista and white-box switch vendors. Webex and Security maintain mid-single-digit growth. Modest dividend income provides floor. Shares drift sideways in a 27\u201333\u00d7 earnings range.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "Base Case\n      60 / 100\n      Steady enterprise networking demand, with AI-driven data-centre revenue partially offsetting competitive pressure from Arista and white-box switch vendors. Webex and Security maintain mid-single-digit growth. Modest dividend income provides floor. Shares drift sideways in a 27–33× earnings range.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
         "probability": 50
       },
       "bear": {
@@ -49,17 +49,38 @@
       }
     },
     "keyRisks": {
-      "text": "",
-      "risks": []
+      "text": "1 AI infrastructure bifurcation: Hyperscalers building proprietary or alternative networking fabrics (Nvidia InfiniBand, Google Allegro, Meta's internal switches) could structurally reduce addressable",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "AI infrastructure bifurcation: Hyperscalers building proprietary or alternative networking fabrics (Nvidia InfiniBand, Google Allegro, Meta's internal switches) could structurally reduce addressable market for Cisco's Ethernet AI-Fabrics."
+        },
+        {
+          "rank": 2,
+          "risk": "Arista competitive encroachment: Arista continues winning campus and metro data-centre switching share at Cisco's expense, sustained by cloud-native software architecture and competitive pricing."
+        },
+        {
+          "rank": 3,
+          "risk": "Enterprise IT spending cycle: Cisco's traditional routing and switching business is exposed to cyclical enterprise IT CapEx. A macro slowdown would weigh directly on segment revenues and margins."
+        },
+        {
+          "rank": 4,
+          "risk": "Margin compression during transition: The shift from appliances to software/subscriptions creates short-term gross margin headwinds as legacy high-margin product lines decline faster than SaaS equivalents scale."
+        },
+        {
+          "rank": 5,
+          "risk": "Geopolitical exposure: Significant revenues from China-adjacent markets and supply-chain concentration in Taiwan create regulatory and supply-risk tail exposure."
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Appropriate For Income investors seeking a ~2.8% dividend yield with 30+ years of consecutive dividend growth Value-oriented portfolios requiring mega-cap tech exposure without pure-growth valuation risk Those who believe AI infrastructure build-out benefits Ethernet networking broadly Avoid If Seeking pure-play AI infrastructure exposure with clearer growth vectors Portfolio already carries significant mega-cap tech exposure Requires high-conviction growth above 15% annual EPS growth"
     },
     "recommendation": {
-      "text": "Conviction Score: 62/100 \u2014 HOLD\n  The shares trade 6.8 per cent below their 52-week high and carry a P/E of 29.6\u00d7, a premium to the market that is justified by AI networking tailwinds but leaves limited near-term re-rating potential. Cisco is a quality business in structural transition \u2014 neither a compelling buy at this level nor a sell.\n  \n    Buy Below$68\n    HOLD Zone$68\u2013$88\n    Reduce Above$88\n    Stop / Sell$54"
+      "text": "Conviction Score: 62/100 — HOLD\n  The shares trade 6.8 per cent below their 52-week high and carry a P/E of 29.6×, a premium to the market that is justified by AI networking tailwinds but leaves limited near-term re-rating potential. Cisco is a quality business in structural transition — neither a compelling buy at this level nor a sell.\n  \n    Buy Below$68\n    HOLD Zone$68–$88\n    Reduce Above$88\n    Stop / Sell$54"
     },
     "entryExit": {
-      "text": "CSCO \u2014 Cisco Systems Inc (CSCO) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $83.86 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $90.44 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $89.95 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $58.14 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": "CSCO — Cisco Systems Inc (CSCO) — Entry / Exit Framework\n\nReduce / Trim: Above $83.86 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $90.44 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $89.95 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $58.14 — partial mean reversion toward the middle of the 52-week range."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

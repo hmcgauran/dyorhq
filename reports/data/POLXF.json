@@ -53,24 +53,24 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1 Capital raise risk: As a pre-commercial company, Polarean will need additional funding. Any announcement of a capital raise would likely be deeply dilutive to existing shareholders given the current",
       "risks": [
         {
           "rank": 1,
-          "risk": "1Capital raise risk: As a pre-commercial company, Polarean will need additional funding. Any announcement of a capital raise would likely be deeply dilutive to existing shareholders given the current share price and market cap."
+          "risk": "1 Capital raise risk: As a pre-commercial company, Polarean will need additional funding. Any announcement of a capital raise would likely be deeply dilutive to existing shareholders given the current share price and market cap."
         },
         {
           "rank": 2,
-          "risk": "2Liquidity and data risk: No live price data available — this is a micro-cap with thin trading. The absence of accessible market data means the position size should be very small regardless of the investment thesis."
+          "risk": "2 Liquidity and data risk: No live price data available — this is a micro-cap with thin trading. The absence of accessible market data means the position size should be very small regardless of the investment thesis."
         },
         {
           "rank": 3,
-          "risk": "3Commercial adoption risk: Hospital adoption of new imaging modalities is notoriously slow. The clinical evidence base needs to develop before widespread adoption can occur."
+          "risk": "3 Commercial adoption risk: Hospital adoption of new imaging modalities is notoriously slow. The clinical evidence base needs to develop before widespread adoption can occur."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: Speculative investors with a very high risk tolerance who have specific insight into hospital adoption rates for lung imaging technology or who are willing to hold through a potentially multi-year commercial ramp. Not suitable for most retail investors. Should avoid: Anyone who cannot tolerate binary outcomes, illiquid positions, or a 70%+ drawdown. Conservative investors, income investors, and anyone who needs accessible data and regular news flow."
     },
     "recommendation": {
       "text": "SELL — SPECULATIVE. The cystic fibrosis niche is real and the FDA approval is a genuine asset, but the commercial path is long and capital-intensive. Without live price data, accurate conviction scoring is impossible. Verify the current share price and position size before making any decision."

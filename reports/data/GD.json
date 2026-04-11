@@ -64,7 +64,7 @@
       "text": "General Dynamics Corporation has been navigating the current market environment with its core industrials franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (78): Submarine and naval shipbuilding demand accelerates further as NATO allies increase defence spending. Gulfstream benefits from continued large-cabin aircraft demand. ACSV and Columbia-class programmes on track. EPS grows to $18+. Price: $390+.\n            Base Case (66): Defence budgets remain supportive but programme execution challenges at Electric Boat and Gulfstream create modest headwinds. EPS grows to $16.50-17.50. Price: $340-375.\n            Bear Case (50): Programme cost overruns (particularly Columbia SSBN and Gulfstream G700 development) compress margins. Defence budget sequestration resurfaces as a political risk. EPS falls to $15-16. Price: below $295.\n            Weighted Score: 66 \u2014 Bull 78 \u00d7 30% + Base 66 \u00d7 50% + Bear 50 \u00d7 20%",
+      "text": "Bull Case (78): Submarine and naval shipbuilding demand accelerates further as NATO allies increase defence spending. Gulfstream benefits from continued large-cabin aircraft demand. ACSV and Columbia-class programmes on track. EPS grows to $18+. Price: $390+.\n            Base Case (66): Defence budgets remain supportive but programme execution challenges at Electric Boat and Gulfstream create modest headwinds. EPS grows to $16.50-17.50. Price: $340-375.\n            Bear Case (50): Programme cost overruns (particularly Columbia SSBN and Gulfstream G700 development) compress margins. Defence budget sequestration resurfaces as a political risk. EPS falls to $15-16. Price: below $295.\n            Weighted Score: 66 — Bull 78 × 30% + Base 66 × 50% + Bear 50 × 20%",
       "bull": {
         "scenario": "Bull Case (78): Submarine and naval shipbuilding demand accelerates further as NATO allies increase defence spending. Gulfstream benefits from continued large-cabin aircraft demand. ACSV and Columbia-class programmes on track. EPS grows to $18+. Price: $390+.",
         "probability": null
@@ -79,7 +79,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Programme cost overrun exposure: Fixed-price development contracts carry inherent risk of cost overruns, particularly in submarine and advanced aircraft programmes. Electric Boat concentration risk: T",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Defensive-minded investors seeking high-quality, dividend-paying US defence exposure with long-cycle backlog visibility. Suitable as a core defence sector holding. Avoiders: Value investors will find cheaper defence peers. Growth investors seeking secular AI-adjacent themes should look elsewhere. Short-horizon investors should avoid due to programme-cycle illiquidity."
     },
     "recommendation": {
-      "text": "HOLD. BUY below $300 (implies 18x P/E on base-case \u2014 provides margin of safety for a quality franchise with record backlog).\n            Reduce above $360 (implies 21x P/E with limited upside to historical ranges given premium multiple)."
+      "text": "HOLD. BUY below $300 (implies 18x P/E on base-case — provides margin of safety for a quality franchise with record backlog).\n            Reduce above $360 (implies 21x P/E with limited upside to historical ranges given premium multiple)."
     },
     "entryExit": {
-      "text": "General Dynamics Corporation (GD) \u2014 Entry / Exit Framework\n\nHOLD zone: $308.34\u2013$341.85 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $308.34 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $341.85 \u2014 approaching the 52-week high at $369.70. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $257.58 (52-week low) would warrant reassessment."
+      "text": "General Dynamics Corporation (GD) — Entry / Exit Framework\n\nHOLD zone: $308.34–$341.85 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $308.34 — material pullback that improves risk/reward.\nTrim / Take Profits above $341.85 — approaching the 52-week high at $369.70. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $257.58 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

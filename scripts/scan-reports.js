@@ -22,27 +22,66 @@ function extractMeta(html) {
   const tickerMatch = html.match(/<meta\s+name="isin"\s+content="([^"]+)"/i);
   const exchangeMatch = html.match(/<meta\s+name="exchange_code"\s+content="([^"]+)"/i);
 
-  // Ticker from filename is more reliable than ISIN for our tickers
   // ISIN gives us the exchange
   const isin = tickerMatch ? tickerMatch[1] : null;
   const exchange = exchangeMatch ? exchangeMatch[1].toUpperCase() : null;
 
-  // Extract ticker from ticker-label div (strip exchange suffix like "· LN")
-  const tickerMeta = html.match(/<div class="ticker-label">([^<]+)<\/div>/);
+  // Extract ticker: ticker-badge (new) > ticker-label (legacy) > h1 (subagent reports)
+  const tickerMeta =
+    html.match(/<div class="ticker-badge">([^<]+)<\/div>/) ||
+    html.match(/<div class="ticker-label">([^<]+)<\/div>/) ||
+    html.match(/<h1>([A-Z]{1,5})\s*—/);
   const rawTicker = tickerMeta ? tickerMeta[1].trim().toUpperCase() : null;
-  const ticker = rawTicker ? rawTicker.replace(EXCHANGE_RE, '').trim() : null;
+  let ticker = rawTicker ? rawTicker.replace(EXCHANGE_RE, '').trim() : null;
+  // Normalise LON: and FRA: prefixes to standard format
+  if (ticker && ticker.startsWith('LON:')) ticker = ticker.slice(4) + '.L';
+  if (ticker && ticker.startsWith('FRA:')) ticker = ticker.slice(4);
 
   // Extract company name
-  const companyMatch = html.match(/<h1>([^<]+)<\/h1>/);
+  const companyMatch =
+    html.match(/<div class="company-name">([^<]+)<\/div>/) ||
+    html.match(/<h1>([^<]+)<\/h1>/);
   const company = companyMatch ? companyMatch[1].trim() : null;
 
-  // Extract recommendation
-  const recMatch = html.match(/<span class="rec-badge[^"]*">([^<]+)<\/span>/);
-  const recommendation = recMatch ? recMatch[1].trim().toUpperCase() : null;
+  // Extract recommendation: handles score-badge, rec-badge, rating-badge, rec-tag, rec-tag
+  const recMatch =
+    html.match(/<span class="score-badge[^>]*>([^<]+)<\/span>/) ||
+    html.match(/<span class="rec-badge[^"]*">([^<]+)<\/span>/) ||
+    html.match(/<span class="rating-badge rating-([^"]+)">([^<]+)<\/span>/) ||
+    html.match(/<div class="rec-tag">([^<]+)<\/div>/) ||
+    html.match(/<div class="rec-buy-box[^>]*>[\s\S]*?<div class="rec-tag">([^<]+)<\/div>/) ||
+    html.match(/<div class="rec-hold-box[^>]*>[\s\S]*?<div class="rec-tag">([^<]+)<\/div>/) ||
+    html.match(/<div class="rec-reduce-box[^>]*>[\s\S]*?<div class="rec-tag">([^<]+)<\/div>/) ||
+    html.match(/<div class="rec-sell-box[^>]*>[\s\S]*?<div class="rec-tag">([^<]+)<\/div>/) ||
+    html.match(/Rating:[^<]*<strong>([^<]+)<\/strong>/) ||
+    html.match(/Rating:\s*<strong>([^<]+)<\/strong>/) ||
+    html.match(/<div class="badge"[^>]*>([^<]+)<\/div>/);
+  let recommendation = null;
+  if (recMatch) {
+    // rating-badge pattern: group 1=rating-class, group 2=text; use group 2
+    // For Rating: <strong>BUY</strong> patterns, strip 'Rating:' prefix
+    let raw = (recMatch[2] || recMatch[1]).trim().toUpperCase();
+    if (raw.startsWith('RATING:')) raw = raw.slice(7).trim();
+    recommendation = raw;
+  }
 
-  // Extract conviction score
-  const convMatch = html.match(/conviction-display[^>]*>[\s\S]*?<div class="score"[^>]*>([^<]+)<\/div>/);
-  const conviction = convMatch ? parseInt(convMatch[1].trim(), 10) : null;
+  // Extract conviction score — try multiple formats (most specific first)
+  let conviction = null;
+  const convPatterns = [
+    /<div class="score">(\d+)\/100<\/div>/,          // WMT format: <div class="score">67/100</div>
+    /Conviction Score:\s*<span[^>]*>(\d+)/,            // new: Conviction Score: <span>X</span>
+    /<span class="conviction-score"[^>]*>(\d+)<\/span>/, // rating-bar: <span class="conviction-score">58</span>
+    /<div class="conviction-value"[^>]*>(\d+)<\/div>/, // new: <div class="conviction-value">78</div>
+    /conviction-display[\s\S]*?<div class="score"[^>]*>(\d+)/, // old: conviction-display > score div
+    /<div class="conviction-[^"]*"[^>]*>(\d+)<\/div>/,  // generic conviction div with number
+    /Conviction[^<]*<[bstrong][^>]*>(\d+)<\/[bstrong]>/, // text: Conviction <strong>72</strong>
+    /width:(\d+)%/,   // fallback: first width % (bar-fill in conviction section)
+    /total[^>]*>[\s\S]*?<div class="val"[^>]*>(\d+)<\/div>/,  // Fortune 100: .total .val
+  ];
+  for (const pat of convPatterns) {
+    const m = html.match(pat);
+    if (m) { conviction = parseInt(m[1], 10); break; }
+  }
 
   // Extract date from meta-item or report date
   const dateMatch = html.match(/(\d{1,2}\s+\w+\s+2026)/);
@@ -53,8 +92,19 @@ function extractMeta(html) {
   const summary = summaryMatch ? summaryMatch[1].trim().replace(/<[^>]+>/g, '').slice(0, 200) : null;
 
   // Extract price
-  const priceMatch = html.match(/meta-item">\$([^<]+)<\/span>/);
-  const price = priceMatch ? parseFloat(priceMatch[1].replace(/[,+$]/g, '')) : null;
+  // New format: <div class="price">$117.89</div> or <div class="price">5170.00 GBX...
+  //   -> only capture the leading numeric part (stops at GBX or space+non-numeric)
+  // Old format: <span class="meta-item">$...
+  let price = null;
+  const priceNew = html.match(/<div class="price"[^>]*>\s*([\d,]+\.?\d*)/);
+  if (priceNew) {
+    price = parseFloat(priceNew[1].replace(/,/g, ''));
+  } else {
+    const priceOld = html.match(/meta-item">\$([^<]+)<\/span>/);
+    if (priceOld) {
+      price = parseFloat(priceOld[1].replace(/[,+$]/g, ''));
+    }
+  }
 
   return { ticker, company, recommendation, conviction, date, summary, price, isin, exchange };
 }
@@ -83,14 +133,14 @@ function buildIndex() {
         recommendation: meta.recommendation || null,
         conviction: meta.conviction || null,
         summary: meta.summary || null,
-        date: datePublished, // ISO format is always parseable; meta.date may be "10 Apr 2026" which new Date() can't parse
+        date: datePublished,
         datePublished,
         lastRefreshed: new Date().toISOString(),
         priceStored: meta.price || null,
         sector: null,
         exchange: meta.exchange || null,
         isin: meta.isin || null,
-        universes: ['watchlist'] // default; will be overridden by enrich-index for sheet-listed tickers
+        universes: ['watchlist']
       };
       entries.push(entry);
     } catch (e) {
@@ -101,7 +151,7 @@ function buildIndex() {
   return { entries, errors };
 }
 
-// ─── Main ────────────────────────────────────────────
+// ─── Main ───────────────────────────────────────────
 
 const { entries, errors } = buildIndex();
 

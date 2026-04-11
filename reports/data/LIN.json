@@ -64,7 +64,7 @@
       "text": "Lincoln Electric Holdings Inc has been navigating the current market environment with its core industrials franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (74): Infrastructure bill implementation drives strong demand for welding equipment in construction and shipbuilding. Automation (Verifast, Cleveland Motion) grows above market. Pricing power sustains healthy margins. EPS grows to $10.50+. Price: $560+.\n            Base Case (62): Welding demand stable with infrastructure and reshoring partially offsetting manufacturing cyclicality. Automation business grows mid-single digit. Pricing covers input inflation. EPS: $9-9.80. Price: $510-550.\n            Bear Case (45): Manufacturing recession reduces fabricated metals and auto welding demand. Infrastructure spending trails implementation timelines. Automation integration disappoints. EPS falls to $7.50-8.00. Price: below $430.\n            Weighted Score: 62 \u2014 Bull 74 \u00d7 30% + Base 62 \u00d7 50% + Bear 45 \u00d7 20%",
+      "text": "Bull Case (74): Infrastructure bill implementation drives strong demand for welding equipment in construction and shipbuilding. Automation (Verifast, Cleveland Motion) grows above market. Pricing power sustains healthy margins. EPS grows to $10.50+. Price: $560+.\n            Base Case (62): Welding demand stable with infrastructure and reshoring partially offsetting manufacturing cyclicality. Automation business grows mid-single digit. Pricing covers input inflation. EPS: $9-9.80. Price: $510-550.\n            Bear Case (45): Manufacturing recession reduces fabricated metals and auto welding demand. Infrastructure spending trails implementation timelines. Automation integration disappoints. EPS falls to $7.50-8.00. Price: below $430.\n            Weighted Score: 62 — Bull 74 × 30% + Base 62 × 50% + Bear 45 × 20%",
       "bull": {
         "scenario": "Bull Case (74): Infrastructure bill implementation drives strong demand for welding equipment in construction and shipbuilding. Automation (Verifast, Cleveland Motion) grows above market. Pricing power sustains healthy margins. EPS grows to $10.50+. Price: $560+.",
         "probability": null
@@ -79,7 +79,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Manufacturing cyclicality: Lincoln's end markets (fabricated metals, automotive, heavy equipment, construction) are highly sensitive to industrial production and capital expenditure cycles. China comp",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Dividend-growth investors seeking a high-quality industrial compounder with strong free cash flow, a 50+ year dividend growth record, and exposure to infrastructure reshoring themes. Avoiders: Growth-oriented investors seeking secular expansion themes. Investors seeking cheap cyclicals will find better risk-reward elsewhere in industrials."
     },
     "recommendation": {
-      "text": "HOLD. BUY below $395 (implies 27x base-case EPS \u2014 provides a more reasonable entry for a steady industrial compounder).\n            Reduce above $510 (implies 35x+ P/E for a cyclical industrial \u2014 not compelling risk-reward given mid-cycle earnings sensitivity)."
+      "text": "HOLD. BUY below $395 (implies 27x base-case EPS — provides a more reasonable entry for a steady industrial compounder).\n            Reduce above $510 (implies 35x+ P/E for a cyclical industrial — not compelling risk-reward given mid-cycle earnings sensitivity)."
     },
     "entryExit": {
-      "text": "Lincoln Electric Holdings Inc (LIN) \u2014 Entry / Exit Framework\n\nHOLD zone: $462.9\u2013$513.21 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $462.9 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $513.21 \u2014 approaching the 52-week high at $510.65. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $380.02 (52-week low) would warrant reassessment."
+      "text": "Lincoln Electric Holdings Inc (LIN) — Entry / Exit Framework\n\nHOLD zone: $462.9–$513.21 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $462.9 — material pullback that improves risk/reward.\nTrim / Take Profits above $513.21 — approaching the 52-week high at $510.65. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $380.02 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

@@ -29,12 +29,12 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Mobile app and loyalty programme: 37M US members, 25% of systemwide sales\n    CosMc's small-format brand launched 2024 \u2014 targeting daypart expansion\n    Alliance Partner platform (Uber Eats, Google, Tiktok) expanding international reach\n    US menu simplification: 30% fewer SKUs \u2192 kitchen throughput improvement",
+      "text": "Mobile app and loyalty programme: 37M US members, 25% of systemwide sales\n    CosMc's small-format brand launched 2024 — targeting daypart expansion\n    Alliance Partner platform (Uber Eats, Google, Tiktok) expanding international reach\n    US menu simplification: 30% fewer SKUs → kitchen throughput improvement",
       "items": [
         "Mobile app and loyalty programme: 37M US members, 25% of systemwide sales",
-        "CosMc's small-format brand launched 2024 \u2014 targeting daypart expansion",
+        "CosMc's small-format brand launched 2024 — targeting daypart expansion",
         "Alliance Partner platform (Uber Eats, Google, Tiktok) expanding international reach",
-        "US menu simplification: 30% fewer SKUs \u2192 kitchen throughput improvement"
+        "US menu simplification: 30% fewer SKUs → kitchen throughput improvement"
       ]
     },
     "thesisEvaluation": {
@@ -53,11 +53,11 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. US comp-sales turn negative in Q3 FY25 — traffic remains below pre-COVID levels 2. $5 meal deal was commercially necessary but structurally damages brand equity 3. Commodity and labour inflation: r",
       "risks": [
         {
           "rank": 1,
-          "risk": "1. US comp-sales turn negative in Q3 FY25 \u2014 traffic remains below pre-COVID levels"
+          "risk": "1. US comp-sales turn negative in Q3 FY25 — traffic remains below pre-COVID levels"
         },
         {
           "rank": 2,
@@ -69,7 +69,7 @@
         },
         {
           "rank": 4,
-          "risk": "4. Wages: US median hourly rate up 20% since 2021 \u2014 structural cost headwind"
+          "risk": "4. Wages: US median hourly rate up 20% since 2021 — structural cost headwind"
         },
         {
           "rank": 5,
@@ -78,13 +78,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Defensive consumer-staples trade for balanced portfolios. Strong brand and global franchise provide FCF floor. NOT suitable for growth investors; turnaround narrative requires patience and execution proof."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "McDonald's (MCD) \u2014 Entry / Exit Framework\n\nHOLD zone: $281.23\u2013$311.79 \u2014 current levels are fairly valued.\nTrim / Take Profits above $311.79 \u2014 approaching the 52-week high at $341.75.\nStop-loss: A sustained close below $277.8 (52-week low) would warrant reassessment."
+      "text": "McDonald's (MCD) — Entry / Exit Framework\n\nHOLD zone: $281.23–$311.79 — current levels are fairly valued.\nTrim / Take Profits above $311.79 — approaching the 52-week high at $341.75.\nStop-loss: A sustained close below $277.8 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

@@ -64,7 +64,7 @@
       "text": "Lam Research Corporation has been navigating the current market environment with its core technology franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (75): HBM4 and advanced packaging demand drives Lam's etch and deposition systems beyond current expectations. Chinese domestic capacity expansion continues. DRAM 3D stacking drives higher system value. EPS grows to $60+. Price: $310+.\n            Base Case (60): Memory upcycle sustains through 2026 with gradual capacity additions. Foundry/logic capex stabilises. China situation remains constructive. EPS: $48-54. Price: $260-295.\n            Bear Case (38): Memory oversupply resurfaces as Samsung and SK Hynix accelerate capacity. AI server memory upgrades plateau. Chinese domestic equipment substitution reduces Lam's addressable market. EPS falls to $38-42. Price: below $215.\n            Weighted Score: 60 \u2014 Bull 75 \u00d7 30% + Base 60 \u00d7 50% + Bear 38 \u00d7 20%",
+      "text": "Bull Case (75): HBM4 and advanced packaging demand drives Lam's etch and deposition systems beyond current expectations. Chinese domestic capacity expansion continues. DRAM 3D stacking drives higher system value. EPS grows to $60+. Price: $310+.\n            Base Case (60): Memory upcycle sustains through 2026 with gradual capacity additions. Foundry/logic capex stabilises. China situation remains constructive. EPS: $48-54. Price: $260-295.\n            Bear Case (38): Memory oversupply resurfaces as Samsung and SK Hynix accelerate capacity. AI server memory upgrades plateau. Chinese domestic equipment substitution reduces Lam's addressable market. EPS falls to $38-42. Price: below $215.\n            Weighted Score: 60 — Bull 75 × 30% + Base 60 × 50% + Bear 38 × 20%",
       "bull": {
         "scenario": "Bull Case (75): HBM4 and advanced packaging demand drives Lam's etch and deposition systems beyond current expectations. Chinese domestic capacity expansion continues. DRAM 3D stacking drives higher system value. EPS grows to $60+. Price: $310+.",
         "probability": null
@@ -79,7 +79,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Memory cyclicality: Lam's revenue is heavily exposed to DRAM and NAND capex cycles. The memory market has historically been highly cyclical with dramatic upcycles and painful downcycles. HBM concentra",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Thematic investors seeking semiconductor capital equipment exposure with memory upcycle optionality and advanced packaging upside. Medium-term holding given memory cycle dynamics. Avoiders: Long-term comp investors should note that Lam's returns are highly cyclical and the multiple rarely sustains premium levels through memory down-cycles."
     },
     "recommendation": {
-      "text": "HOLD. BUY below $215 (implies 36x base-case EPS \u2014 reasonable entry for a quality semiconductor equipment franchise during a memory upcycle).\n            Reduce above $285 (implies 48x+ P/E \u2014 not compelling given cyclical earnings profile and China domestic substitution risk)."
+      "text": "HOLD. BUY below $215 (implies 36x base-case EPS — reasonable entry for a quality semiconductor equipment franchise during a memory upcycle).\n            Reduce above $285 (implies 48x+ P/E — not compelling given cyclical earnings profile and China domestic substitution risk)."
     },
     "entryExit": {
-      "text": "Lam Research Corporation (LRCX) \u2014 Entry / Exit Framework\n\nHOLD zone: $242.57\u2013$268.93 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $242.57 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $268.93 \u2014 approaching the 52-week high at $268.23. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $59.92 (52-week low) would warrant reassessment."
+      "text": "Lam Research Corporation (LRCX) — Entry / Exit Framework\n\nHOLD zone: $242.57–$268.93 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $242.57 — material pullback that improves risk/reward.\nTrim / Take Profits above $268.93 — approaching the 52-week high at $268.23. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $59.92 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

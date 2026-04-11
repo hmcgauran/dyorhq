@@ -64,7 +64,7 @@
       "text": "FedEx Corporation has been navigating the current market environment with its core industrials franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (72): DRIVE programme delivers $4bn+ in structural cost savings by FY2026. Express volume recovery and Ground margin stabilisation drive EPS above $23. Free cash flow reconvergence supports multiple re-rating. Price: $430+.\n            Base Case (58): DRIVE savings partially offset by persistent Express weakness and macroeconomic headwinds for premium shipping. EPS grows to $20-21 on modest volume recovery. Price: $370-400.\n            Bear Case (40): DRIVE savings disappoint or Express volumes continue declining. Competition from UPS and Amazon Logistics intensifies. Economic slowdown crushes premium freight. EPS falls to $17-18. Price: below $310.\n            Weighted Score: 59 \u2014 Bull 72 \u00d7 30% + Base 58 \u00d7 50% + Bear 40 \u00d7 20%",
+      "text": "Bull Case (72): DRIVE programme delivers $4bn+ in structural cost savings by FY2026. Express volume recovery and Ground margin stabilisation drive EPS above $23. Free cash flow reconvergence supports multiple re-rating. Price: $430+.\n            Base Case (58): DRIVE savings partially offset by persistent Express weakness and macroeconomic headwinds for premium shipping. EPS grows to $20-21 on modest volume recovery. Price: $370-400.\n            Bear Case (40): DRIVE savings disappoint or Express volumes continue declining. Competition from UPS and Amazon Logistics intensifies. Economic slowdown crushes premium freight. EPS falls to $17-18. Price: below $310.\n            Weighted Score: 59 — Bull 72 × 30% + Base 58 × 50% + Bear 40 × 20%",
       "bull": {
         "scenario": "Bull Case (72): DRIVE programme delivers $4bn+ in structural cost savings by FY2026. Express volume recovery and Ground margin stabilisation drive EPS above $23. Free cash flow reconvergence supports multiple re-rating. Price: $430+.",
         "probability": null
@@ -79,7 +79,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Express segment structural decline: Premium express volumes continue migrating to ground and deferred options, threatening the high-margin part of the network. DRIVE execution risk: The $4bn cost tran",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Investors seeking a turnaround story with visible cost-savings execution and a decent dividend yield (~1.5%). Suitable for a contrarian industrial position. Avoiders: Growth-focused investors or those seeking pure revenue expansion without the structural margin pressure from Express. Momentum investors should wait for top-line inflections."
     },
     "recommendation": {
-      "text": "HOLD. BUY below $330 (implies 17x P/E on base-case EPS \u2014 reasonable for a restructuring story with cash generation).\n            Reduce on rallies above $395 (implying 20x+ P/E without clear revenue growth catalyst)."
+      "text": "HOLD. BUY below $330 (implies 17x P/E on base-case EPS — reasonable for a restructuring story with cash generation).\n            Reduce on rallies above $395 (implying 20x+ P/E without clear revenue growth catalyst)."
     },
     "entryExit": {
-      "text": "FedEx Corporation (FDX) \u2014 Entry / Exit Framework\n\nHOLD zone: $344.15\u2013$381.56 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $344.15 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $381.56 \u2014 approaching the 52-week high at $392.86. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $195.85 (52-week low) would warrant reassessment."
+      "text": "FedEx Corporation (FDX) — Entry / Exit Framework\n\nHOLD zone: $344.15–$381.56 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $344.15 — material pullback that improves risk/reward.\nTrim / Take Profits above $381.56 — approaching the 52-week high at $392.86. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $195.85 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

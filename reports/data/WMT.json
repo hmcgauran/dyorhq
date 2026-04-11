@@ -50,7 +50,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "WMT (WMT) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $129.31 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $139.45 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $137.38 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $97.86 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": "WMT (WMT) — Entry / Exit Framework\n\nReduce / Trim: Above $129.31 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $139.45 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $137.38 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $97.86 — partial mean reversion toward the middle of the 52-week range."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

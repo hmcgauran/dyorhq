@@ -66,7 +66,7 @@
       "text": "Intuit Inc has been navigating the current market environment with its core technology franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (80): TurboTax Live adoption accelerates as AI-assisted tax preparation becomes mainstream. QuickBooks Online subscribers grow at 20%+ with AI bookkeeping features. Mailchimp monetisation improves. Credit Karma profitable. EPS grows to $19+. Price: $420+.\n            Base Case (67): TurboTax franchise steady with Live growing share. QuickBooks sustains mid-teens subscriber growth. Mailchimp synergies materialise gradually. Credit Karma remains a modest drag. EPS: $16-17.50. Price: $360-410.\n            Bear Case (48): TurboTax faces regulatory threat from IRS Direct File (free government tax preparation). QuickBooks faces intensified competition from Xero and freshbooks. Mailchimp monetisation disappoints. EPS falls to $13-14. Price: below $310.\n            Weighted Score: 67 \u2014 Bull 80 \u00d7 30% + Base 67 \u00d7 50% + Bear 48 \u00d7 20%",
+      "text": "Bull Case (80): TurboTax Live adoption accelerates as AI-assisted tax preparation becomes mainstream. QuickBooks Online subscribers grow at 20%+ with AI bookkeeping features. Mailchimp monetisation improves. Credit Karma profitable. EPS grows to $19+. Price: $420+.\n            Base Case (67): TurboTax franchise steady with Live growing share. QuickBooks sustains mid-teens subscriber growth. Mailchimp synergies materialise gradually. Credit Karma remains a modest drag. EPS: $16-17.50. Price: $360-410.\n            Bear Case (48): TurboTax faces regulatory threat from IRS Direct File (free government tax preparation). QuickBooks faces intensified competition from Xero and freshbooks. Mailchimp monetisation disappoints. EPS falls to $13-14. Price: below $310.\n            Weighted Score: 67 — Bull 80 × 30% + Base 67 × 50% + Bear 48 × 20%",
       "bull": {
         "scenario": "Bull Case (80): TurboTax Live adoption accelerates as AI-assisted tax preparation becomes mainstream. QuickBooks Online subscribers grow at 20%+ with AI bookkeeping features. Mailchimp monetisation improves. Credit Karma profitable. EPS grows to $19+. Price: $420+.",
         "probability": 20
@@ -81,7 +81,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "IRS Direct File threat: The IRS launched a free direct file programme in 2024. Expanded access could structurally impair TurboTax's paid subscriber base and force pricing concessions. QuickBooks compe",
       "risks": [
         {
           "rank": 1,
@@ -106,13 +106,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Long-term investors seeking a compounding software business with a powerful annual subscription engagement model and AI transformation optionality. Avoiders: Value investors will find the multiple demanding. Investors concerned about government competition (IRS Direct File) should limit exposure. Short-horizon investors should await better entry."
     },
     "recommendation": {
-      "text": "HOLD. BUY below $310 (implies 34x base-case EPS \u2014 reasonable for a high-quality SaaS compounding business with AI optionality).\n            Reduce above $400 (implies 44x+ P/E with limited upside to fair value on base case)."
+      "text": "HOLD. BUY below $310 (implies 34x base-case EPS — reasonable for a high-quality SaaS compounding business with AI optionality).\n            Reduce above $400 (implies 44x+ P/E with limited upside to fair value on base case)."
     },
     "entryExit": {
-      "text": "Intuit Inc (INTU) \u2014 Entry / Exit Framework\n\nHOLD zone: $322.86\u2013$357.96 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $322.86 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $357.96 \u2014 approaching the 52-week high at $813.70. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $335.27 (52-week low) would warrant reassessment."
+      "text": "Intuit Inc (INTU) — Entry / Exit Framework\n\nHOLD zone: $322.86–$357.96 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $322.86 — material pullback that improves risk/reward.\nTrim / Take Profits above $357.96 — approaching the 52-week high at $813.70. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $335.27 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

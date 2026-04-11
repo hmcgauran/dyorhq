@@ -55,32 +55,32 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1 Balance sheet insolvency risk: With a debt/equity ratio of -4,698%, shareholder equity is deeply negative. The company is trading on the promise of future profitability — any deterioration in operat",
       "risks": [
         {
           "rank": 1,
-          "risk": "1\n                Balance sheet insolvency risk: With a debt/equity ratio of -4,698%, shareholder equity is deeply negative. The company is trading on the promise of future profitability — any deterioration in operating conditions could trigger a liquidity crisis. This is not a theoretical risk."
+          "risk": "1 Balance sheet insolvency risk: With a debt/equity ratio of -4,698%, shareholder equity is deeply negative. The company is trading on the promise of future profitability — any deterioration in operating conditions could trigger a liquidity crisis. This is not a theoretical risk."
         },
         {
           "rank": 2,
-          "risk": "2\n                Fast-fashion disruption: Shein and Temu have permanently altered the competitive dynamics of children's apparel. The Children's Place's physical-store-heavy model cannot compete on price with these operators, and the digital migration is happening too slowly."
+          "risk": "2 Fast-fashion disruption: Shein and Temu have permanently altered the competitive dynamics of children's apparel. The Children's Place's physical-store-heavy model cannot compete on price with these operators, and the digital migration is happening too slowly."
         },
         {
           "rank": 3,
-          "risk": "3\n                Consumer macro sensitivity: The company's core customer is value-oriented and lower-to-middle income. Any sustained deterioration in US consumer spending — from recession, inflation, or job losses — would disproportionately hit The Children's Place."
+          "risk": "3 Consumer macro sensitivity: The company's core customer is value-oriented and lower-to-middle income. Any sustained deterioration in US consumer spending — from recession, inflation, or job losses — would disproportionately hit The Children's Place."
         },
         {
           "rank": 4,
-          "risk": "4\n                Vendor credit risk: A deeply negative equity balance means suppliers may tighten payment terms or demand letters of credit. This can create a self-reinforcing liquidity spiral."
+          "risk": "4 Vendor credit risk: A deeply negative equity balance means suppliers may tighten payment terms or demand letters of credit. This can create a self-reinforcing liquidity spiral."
         },
         {
           "rank": 5,
-          "risk": "5\n                Equity dilution risk: Any capital raise would likely be at heavily dilutive prices given current market conditions. The market cap of $80M is too small to absorb large capital requirements without massive dilution."
+          "risk": "5 Equity dilution risk: Any capital raise would likely be at heavily dilutive prices given current market conditions. The market cap of $80M is too small to absorb large capital requirements without massive dilution."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: No conventional investor profile fits. Only distressed debt investors or motivated speculators with a specific catalyst thesis (e.g., a strategic buyer, activist investor, or asset sale) should consider this name. Should avoid: Virtually everyone else. Value investors — book value is negative, so classic valuation metrics are irrelevant and misleading. Growth investors — the company is shrinking. Income investors — no dividend. ESG investors — the turnaround requires significant operational restructuring with uncertain outcomes."
     },
     "recommendation": {
       "text": "Conviction score: 32/100.\n              The Children's Place is a deeply distressed retailer with negative earnings, deeply negative shareholder equity,\n              and a structural competitive disadvantage versus fast-fashion operators. The balance sheet is the primary concern —\n              at -4,698% debt/equity, the company is effectively balance-sheet insolvent. The turnaround story is\n              speculative and requires near-perfect execution in a deteriorating competitive environment.\n            \n            \n              SELL at $3.64. This is not a value trap — it is a structurally challenged business\n              with a severely stressed balance sheet. The risk of total capital loss is material. The only plausible\n              bull cases require either activist intervention or a strategic acquisition at a premium — neither of which\n              can be relied upon. If you hold this position, the risk/reward asymmetry argues strongly for an exit."

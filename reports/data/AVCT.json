@@ -55,32 +55,32 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1 Phase I clinical data (binary): This is a binary event. The data for AVA6000 in H1 2026 — and the AACR presentations in April — will determine whether the pre|CISION platform actually works in human",
       "risks": [
         {
           "rank": 1,
-          "risk": "1Phase I clinical data (binary): This is a binary event. The data for AVA6000 in H1 2026 — and the AACR presentations in April — will determine whether the pre|CISION platform actually works in humans. A negative read will cause severe re-pricing."
+          "risk": "1 Phase I clinical data (binary): This is a binary event. The data for AVA6000 in H1 2026 — and the AACR presentations in April — will determine whether the pre|CISION platform actually works in humans. A negative read will cause severe re-pricing."
         },
         {
           "rank": 2,
-          "risk": "2Partnership / NASDAQ timing: Both are strategically sound but timing is uncertain. A US listing at an inopportune moment (pre-data or post-disappointment) could be significantly dilutive or fail entirely. The strategic ambition requires clinical validation first."
+          "risk": "2 Partnership / NASDAQ timing: Both are strategically sound but timing is uncertain. A US listing at an inopportune moment (pre-data or post-disappointment) could be significantly dilutive or fail entirely. The strategic ambition requires clinical validation first."
         },
         {
           "rank": 3,
-          "risk": "3Funding risk: £9.45M provides runway through key data readouts, but a negative Phase I outcome would require a rescue financing or very dilutive raise. Clinical biotech funding conditions remain difficult for unpartnered programmes."
+          "risk": "3 Funding risk: £9.45M provides runway through key data readouts, but a negative Phase I outcome would require a rescue financing or very dilutive raise. Clinical biotech funding conditions remain difficult for unpartnered programmes."
         },
         {
           "rank": 4,
-          "risk": "4FAP expression variability: The pre|CISION mechanism depends on consistent FAP expression in the tumour stroma across patient populations. Variability in FAP expression could limit the clinical utility of the approach in broader tumour types. [1,2]"
+          "risk": "4 FAP expression variability: The pre|CISION mechanism depends on consistent FAP expression in the tumour stroma across patient populations. Variability in FAP expression could limit the clinical utility of the approach in broader tumour types. [1,2]"
         },
         {
           "rank": 5,
-          "risk": "5DOX cardiotoxicity — mechanistic nuance: The primary literature confirms DOX cardiotoxicity runs through FAP activation in cardiac fibroblasts, which supports the pre|CISION thesis. However, this mechanistic link also means that incomplete FAP targeting (sub-therapeutic tumour delivery) could still produce cardiac effects while missing therapeutic benefit — a worst-of-both-worlds outcome. [4]"
+          "risk": "5 DOX cardiotoxicity — mechanistic nuance: The primary literature confirms DOX cardiotoxicity runs through FAP activation in cardiac fibroblasts, which supports the pre|CISION thesis. However, this mechanistic link also means that incomplete FAP targeting (sub-therapeutic tumour delivery) could still produce cardiac effects while missing therapeutic benefit — a worst-of-both-worlds outcome. [4]"
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: Specialist biotech investors who understand clinical binary risk and want genuine early-stage oncology platform exposure with a mechanistic thesis supported by primary literature. Position sizing is critical — this is a clinical data event name, not a steady hold. Size the position for the binary outcome. Should avoid: Anyone who cannot tolerate a 50–70% drawdown if the Phase I data disappoint. Investors who need operating revenue or a timeline to profitability. Anyone who cannot monitor the AACR catalyst in April 2026 closely."
     },
     "recommendation": {
       "text": "HOLD — SPECULATIVE at 70.00p. Hold through AACR (April 17–22), assess the data, and make a binary decision at that point. Do not add before the data without being prepared to act on the outcome.\n        Primary literature conclusion: The mechanistic thesis — FAP targeting to reduce DOX cardiotoxicity while maintaining tumour efficacy — is mechanistically plausible and supported by peer-reviewed literature. The strongest bull case support comes from the FAP PET cardiotoxicity data: DOX activates cardiac FAP from 2 weeks post-treatment, before any functional cardiac change is detectable. This is a genuine clinical problem that pre|CISION could address. [4]\n        AACR ALERT (17–22 April 2026): Two Avacta presentations are confirmed. Review the abstracts when published (usually AACR embargo lift) and the full presentations on-site or via webcast. Decision point: add on positive signal, reduce/hold on mixed data, exit on disappointment. Set a personal rule before the data arrives."

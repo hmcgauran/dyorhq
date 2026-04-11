@@ -53,28 +53,28 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1 Commodity price volatility: Metallurgical coal prices are highly cyclical. A sustained decline in the benchmark price would directly reduce revenues and could make the business unprofitable at lower",
       "risks": [
         {
           "rank": 1,
-          "risk": "1Commodity price volatility: Metallurgical coal prices are highly cyclical. A sustained decline in the benchmark price would directly reduce revenues and could make the business unprofitable at lower price points."
+          "risk": "1 Commodity price volatility: Metallurgical coal prices are highly cyclical. A sustained decline in the benchmark price would directly reduce revenues and could make the business unprofitable at lower price points."
         },
         {
           "rank": 2,
-          "risk": "2Liquidity risk: As a micro-cap TSX-V listed name, Colonial Coal trades on thin volume. A position of any meaningful size is difficult to exit without moving the market."
+          "risk": "2 Liquidity risk: As a micro-cap TSX-V listed name, Colonial Coal trades on thin volume. A position of any meaningful size is difficult to exit without moving the market."
         },
         {
           "rank": 3,
-          "risk": "3Fundamentals data unavailable: Live P/E, EPS, revenue, and debt data are not accessible from public sources for this report. The analysis above is based on asset-level context and commodity assumptions, not confirmed financials."
+          "risk": "3 Fundamentals data unavailable: Live P/E, EPS, revenue, and debt data are not accessible from public sources for this report. The analysis above is based on asset-level context and commodity assumptions, not confirmed financials."
         },
         {
           "rank": 4,
-          "risk": "4ESG and transition risk: Steelmaking is hard-to-abate in the near term, but long-term green steel transition (hydrogen-based direct reduction) is a structural headwind for metallurgical coal demand beyond 2035."
+          "risk": "4 ESG and transition risk: Steelmaking is hard-to-abate in the near term, but long-term green steel transition (hydrogen-based direct reduction) is a structural headwind for metallurgical coal demand beyond 2035."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: Speculative investors with a high commodity risk tolerance who want direct metallurgical coal exposure through a listed vehicle. Those who believe the steelmaking coal supply deficit is structural and not yet fully priced. Investors who can tolerate illiquidity and a binary M&amp;A outcome. Should avoid: Anyone who needs accessible fundamentals, liquidity, or dividend income. ESG-conscious investors (coal is coal). Anyone who cannot tolerate a 40-50% drawdown in a commodity micro-cap."
     },
     "recommendation": {
       "text": "HOLD — SPECULATIVE at $2.77. The jurisdiction advantage and SMC asset are genuinely interesting. The commodity leverage story has merit. But live fundamentals are unavailable, liquidity is thin, and near 52-week highs relative to the historical range make this a hold rather than a buy at current levels."

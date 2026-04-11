@@ -104,7 +104,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "NVIDIA CUDA moat: The single biggest risk is that CUDA ecosystem lock-in is durable enough that AMD's hardware progress cannot convert into meaningful AI accelerator market share. Software ecosystem i",
       "risks": [
         {
           "rank": 1,
@@ -129,7 +129,7 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Own if: You have high conviction that AMD's MI300 series will achieve significant AI accelerator market share gains, you have a 3–5 year horizon, and you are comfortable with elevated volatility at a 94x P/E. Speculative and thematic tech allocators may find the risk-reward compelling here. Avoid or trim if: You are valuation-sensitive or managing risk in a concentrated tech position. The risk of NVIDIA maintaining an insurmountable software moat is underweighted by the market at current levels. A position in AMD should not crowd out exposure to NVIDIA itself in a diversified AI allocation."
     },
     "recommendation": {
       "text": "HOLD — with a narrow margin to REDUCE. AMD is a genuinely good semiconductor business with a credible AI accelerator story. The problem is price: at $245 and a P/E of 94x, almost all the good news appears to be in the stock. The conviction score of 60 reflects this — it sits precisely at the boundary between HOLD and REDUCE.\n            If you already own it from lower levels, holding is reasonable. Initiating a new position here requires either strong conviction in a bull scenario or a willingness to absorb significant volatility."

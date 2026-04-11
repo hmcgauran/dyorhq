@@ -8,7 +8,7 @@
     "datePublished": "2026-04-11",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
-    "conviction": 65,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -19,39 +19,69 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Amarin Corporation plc is a Dublin-headquartered specialty pharma company whose flagship product Vascepa (icosapent ethyl) has a credible cardiovascular risk reduction indication but faces significant commercial execution challenges -- HOLD . HOLD Conviction Score: 65/100 — HOLD"
     },
     "businessModel": {
-      "text": ""
+      "text": "Amarin Corporation plc is a Dublin-headquartered specialty pharmaceutical company focused on cardiovascular and metabolic disease. The lead product is Vascepa (icosapent ethyl, a purified EPA omega-3 fatty acid), approved by the FDA for reduction of cardiovascular events in adults with elevated triglycerides (TG levels 150-499 mg/dL) who have established cardiovascular disease or who have diabetes and two or more additional risk factors. The REDUCE-IT trial demonstrated a 25% relative risk reduction in major adverse cardiovascular events with Vascepa versus placebo, a statistically significant and clinically meaningful result. Amarin's challenge is commercial execution: Vascepa faces significant competition from generic omega-3 fatty acid products, statin therapies, and newer GLP-1 drugs for cardiovascular risk reduction. Revenue geography: United States (~85%), Europe (~10%), Rest of World (~5%)."
     },
     "financialSnapshot": {
-      "text": "",
+      "text": "Current Price $14.48 NASDAQ Market Cap $600M Est. via price x shares Trailing P/E N/A 12-month earnings EPS (TTM) $0.08 Trailing twelve months 52-Week High $20.00 -27.6% from high 52-Week Low $8.00 +81.0% from low",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "",
-      "bull": {},
-      "base": {},
-      "bear": {}
+      "text": "Bull Case 78 Target: $20.00 | EPS: $0.30 European approval and reimbursement in major markets drive meaningful international revenue growth. New clinical data supports the REDUCE-IT efficacy results. EPS approaches $0.30+. Base Case 65 Reports / AMRN AMRN Amarin Corporation plc HOLD 11 April 2026 $$14.48 65 Conviction out of 100 >",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
     },
     "keyRisks": {
       "text": "",
-      "risks": []
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Generic competition in the US:: Generic competition in the US:  The US market for Vascepa is facing direct generic competition from omega-3 fatty acid generics and supplements, which are significantly cheaper for patients."
+        },
+        {
+          "rank": 2,
+          "risk": "GLP-1 drug class competition:: GLP-1 drug class competition:  GLP-1 drugs (Wegovy, Zepbound, Mounjaro) are rapidly growing and demonstrate significant cardiovascular risk reduction, potentially crowding out Vascepa's addressable market."
+        },
+        {
+          "rank": 3,
+          "risk": "European reimbursement risk:: European reimbursement risk:  European healthcare systems are increasingly cost-conscious. Any failure to achieve adequate reimbursement pricing in major EU markets would limit the international revenue opportunity."
+        },
+        {
+          "rank": 4,
+          "risk": "Clinical data interpretation risk:: Clinical data interpretation risk:  Some cardiologists have questioned the interpretation of the REDUCE-IT trial results, suggesting the benefit may be specific to the particular patient population studied."
+        },
+        {
+          "rank": 5,
+          "risk": "Cash and financing risk:: Cash and financing risk:  Amarin's free cash flow is declining as US revenues face generic pressure. Any aggressive investment in international expansion would require additional financing."
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Amarin Corporation plc is a Dublin-headquartered specialty pharma company whose flagship product Vascepa (icosapent ethyl) has a credible cardiovascular risk reduction indication but faces significant commercial execution challenges --  HOLD . Amarin Corporation plc is a Dublin-headquartered specialty pharmaceutical company focused on cardiovascular and metabolic disease. The lead product is Vascepa (icosapent ethyl, a purified EPA omega-3 fatty acid), approved by the FDA for reduction of cardiovascular events in adults with elevated triglycerides (TG levels 150-499 mg/dL) who have established cardiovascular disease or who have diabetes and two or more additional risk factors. The REDUCE-IT trial demonstrated a 25% relative risk reduction in major adverse cardiovascular events with Vascepa versus placebo, a statistically significant and clinically meaningful result. Amarin's challenge is commercial execution: Vascepa faces significant competition from generic omega-3 fatty acid products, statin therapies, and newer GLP-1 drugs for cardiovascular risk reduction. Revenue geography: United States (~85%), Europe (~10%), Rest of World (~5%). Amarin has been restructuring its US commercial operations to improve the efficiency of its Vascepa salesforce, shifting from broad prescriber coverage to a more targeted approach focusing on high-prescribing cardiologists. The company has filed for regulatory approval of Vascepa in several European markets. European reimbursement submissions are ongoing in major markets (Germany, France, UK). The GLP-1 drug class (Wegovy, Zepbound) represents a competitive threat but also validates the cardiovascular risk reduction narrative -- physicians treating obese or diabetic patients may consider both GLP-1s and Vascepa. Recent quarterly results showed US Vascepa revenues declining as expected due to generic competition, with international revenues providing modest growth offset. Amarin Corporation plc is a Dublin-headquartered specialty pharma company whose flagship product Vascepa (icosapent ethyl) has a credible cardiovascular risk reduction indication but faces significant commercial execution challenges --  HOLD . Amarin Corporation plc is a Dublin-headquartered specialty pharmaceutical company focused on cardiovascular and metabolic disease. The lead product is Vascepa (icosapent ethyl, a purified EPA omega-3 fatty acid), approved by the FDA for reduction of cardiovascular events in adults with elevated triglycerides (TG levels 150-499 mg/dL) who have established cardiovascular disease or who have diabetes and two or more additional risk factors. The REDUCE-IT trial demonstrated a 25% relative risk reduction in major adverse cardiovascular events with Vascepa versus placebo, a statistically significant and clinically meaningful result. Amarin's challenge is commercial execution: Vascepa faces significant competition from generic omega-3 fatty acid products, statin therapies, and newer GLP-1 drugs for cardiovascular risk reduction. Revenue geography: United States (~85%), Europe (~10%), Rest of World (~5%). Amarin has been restructuring its US commercial operations to improve the efficiency of its Vascepa salesforce, shifting from broad prescriber coverage to a more targeted approach focusing on high-prescribing cardiologists. The company has filed for regulatory approval of Vascepa in several European markets. European reimbursement submissions are ongoing in major markets (Germany, France, UK). The GLP-1 drug class (Wegovy, Zepbound) represents a competitive threat but also validates the cardiovascular risk reduction narrative -- physicians treating obese or diabetic patients may consider both GLP-1s and Vascepa. Recent quarterly results showed US Vascepa revenues declining as expected due to generic competition, with international revenues providing modest growth offset. Own:  Specialty pharma investors who believe in the long-term cardiovascular risk reduction narrative for purified EPA. The REDUCE-IT data is genuinely compelling for a specific patient population. Avoid:  Investors who believe GLP-1 drugs will broadly displace omega-3 therapies in cardiovascular risk reduction. Investors who require near-term revenue growth."
     },
     "recommendation": {
-      "text": ""
+      "text": "HOLD Score: 65/100 Amarin has a genuinely differentiated product in Vascepa with a compelling clinical dataset, but the commercial environment is increasingly hostile and international expansion is the primary near-term value driver. The risk-reward is balanced. HOLD. Entry Framework: BUY below $9 (Vascepa legacy value with international optionality). HOLD in the $9-$18 range. REDUCE above $18 (US generic erosion is not adequately reflected in the current price). BUY below $19.00 HOLD $14.25-$19.00 REDUCE above $19.00"
     },
     "entryExit": {
-      "text": "Amarin Corporation plc (AMRN) \u2014 Entry / Exit Framework\n\nHOLD zone: $13.32\u2013$14.77 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $13.32 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $14.77 \u2014 approaching the 52-week high at $20.90. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $8.15 (52-week low) would warrant reassessment."
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -59,7 +89,7 @@
   },
   "scores": {
     "current": {
-      "score": 65,
+      "score": 50,
       "band": "HOLD",
       "date": "2026-04-11",
       "delta": "0",
@@ -68,7 +98,7 @@
     "history": [
       {
         "date": "2026-04-11",
-        "score": 65,
+        "score": 50,
         "band": "HOLD",
         "delta": "0",
         "reason": "Initial coverage"

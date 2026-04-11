@@ -1,7 +1,7 @@
 {
   "meta": {
     "ticker": "DHR",
-    "company": "DHR \u2014 Danaher Corp",
+    "company": "DHR — Danaher Corp",
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
@@ -22,23 +22,23 @@
       "text": ""
     },
     "businessModel": {
-      "text": "Danaher operates as a diversified industrial conglomerate with two primary operating segments, following the separation of its Varex imaging business:\n  \n    Life Sciences: Provides instruments, consumables, and software for drug discovery, bioprocessing, and clinical diagnostics. Key brands include Beckman Coulter (clinical diagnostics), Pall (filtration and purification), Cytiva (bioprocessing), and Leica Microsystems (microscopy).\n    Diagnostics &amp; Biotechnology: The broader biotech tools franchise serves pharmaceutical and biotechnology companies across the drug development lifecycle \u2014 from discovery through to clinical manufacturing.\n    DBS (Danaher Business System): Danaher's proprietary operational excellence methodology is embedded across all acquisitions, driving consistent margin improvement post-integration \u2014 this disciplined approach to M&amp;A and operational leverage is the core of the Danaher investment thesis.\n  \n  Danaher is a serial acquirer that uses DBS to systematically improve the margins and competitive positioning of acquired businesses before deploying capital into the next platform acquisition. The model has worked extraordinarily well over 20+ years."
+      "text": "Danaher operates as a diversified industrial conglomerate with two primary operating segments, following the separation of its Varex imaging business:\n  \n    Life Sciences: Provides instruments, consumables, and software for drug discovery, bioprocessing, and clinical diagnostics. Key brands include Beckman Coulter (clinical diagnostics), Pall (filtration and purification), Cytiva (bioprocessing), and Leica Microsystems (microscopy).\n    Diagnostics &amp; Biotechnology: The broader biotech tools franchise serves pharmaceutical and biotechnology companies across the drug development lifecycle — from discovery through to clinical manufacturing.\n    DBS (Danaher Business System): Danaher's proprietary operational excellence methodology is embedded across all acquisitions, driving consistent margin improvement post-integration — this disciplined approach to M&amp;A and operational leverage is the core of the Danaher investment thesis.\n  \n  Danaher is a serial acquirer that uses DBS to systematically improve the margins and competitive positioning of acquired businesses before deploying capital into the next platform acquisition. The model has worked extraordinarily well over 20+ years."
     },
     "financialSnapshot": {
-      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$189.61</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$134.2bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">37.7\u00d7</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$5.03</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$242.80</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$178.78</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">\u221221.9%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">3.2m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$189.61</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$134.2bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">37.7×</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$5.03</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$242.80</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$178.78</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">−21.9%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">3.2m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case\n      68 / 100\n      Biotech funding stabilises and the next wave of GLP-1 and cell/gene therapy drugs drives a multi-year bioprocessing infrastructure buildout, benefiting Cytiva and Pall significantly. DBS drives margin expansion above 28 per cent. New product cycles at Beckman Coulter accelerate consumables revenue. Shares re-rate to 40\u00d7+ earnings as growth re-accelerates.\n      Weight: 30%\n    \n    \n      Base Case\n      52 / 100\n      Biopharma CapEx remains subdued throughout 2026, with modest recovery in 2027. DBS continues to drive incremental margin improvement. EPS grows at mid-single-digit rates as share gains offset industry headwinds. The shares trade in a 33\u201340\u00d7 earnings range with limited multiple expansion available.\n      Weight: 50%\n    \n    \n      Bear Case\n      38 / 100\n      Biotech funding collapse accelerates as interest rates stay elevated and VC funding dries up further. Pharmaceutical customers cut R&amp;D budgets sharply. Danaher's core diagnostics and life sciences revenues decline materially. DBS cannot offset the revenue contraction and margins fall below 24 per cent.\n      Weight: 20%",
+      "text": "Bull Case\n      68 / 100\n      Biotech funding stabilises and the next wave of GLP-1 and cell/gene therapy drugs drives a multi-year bioprocessing infrastructure buildout, benefiting Cytiva and Pall significantly. DBS drives margin expansion above 28 per cent. New product cycles at Beckman Coulter accelerate consumables revenue. Shares re-rate to 40×+ earnings as growth re-accelerates.\n      Weight: 30%\n    \n    \n      Base Case\n      52 / 100\n      Biopharma CapEx remains subdued throughout 2026, with modest recovery in 2027. DBS continues to drive incremental margin improvement. EPS grows at mid-single-digit rates as share gains offset industry headwinds. The shares trade in a 33–40× earnings range with limited multiple expansion available.\n      Weight: 50%\n    \n    \n      Bear Case\n      38 / 100\n      Biotech funding collapse accelerates as interest rates stay elevated and VC funding dries up further. Pharmaceutical customers cut R&amp;D budgets sharply. Danaher's core diagnostics and life sciences revenues decline materially. DBS cannot offset the revenue contraction and margins fall below 24 per cent.\n      Weight: 20%",
       "bull": {
-        "scenario": "Bull Case\n      68 / 100\n      Biotech funding stabilises and the next wave of GLP-1 and cell/gene therapy drugs drives a multi-year bioprocessing infrastructure buildout, benefiting Cytiva and Pall significantly. DBS drives margin expansion above 28 per cent. New product cycles at Beckman Coulter accelerate consumables revenue. Shares re-rate to 40\u00d7+ earnings as growth re-accelerates.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "Bull Case\n      68 / 100\n      Biotech funding stabilises and the next wave of GLP-1 and cell/gene therapy drugs drives a multi-year bioprocessing infrastructure buildout, benefiting Cytiva and Pall significantly. DBS drives margin expansion above 28 per cent. New product cycles at Beckman Coulter accelerate consumables revenue. Shares re-rate to 40×+ earnings as growth re-accelerates.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
         "probability": 30
       },
       "base": {
-        "scenario": "Base Case\n      52 / 100\n      Biopharma CapEx remains subdued throughout 2026, with modest recovery in 2027. DBS continues to drive incremental margin improvement. EPS grows at mid-single-digit rates as share gains offset industry headwinds. The shares trade in a 33\u201340\u00d7 earnings range with limited multiple expansion available.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "Base Case\n      52 / 100\n      Biopharma CapEx remains subdued throughout 2026, with modest recovery in 2027. DBS continues to drive incremental margin improvement. EPS grows at mid-single-digit rates as share gains offset industry headwinds. The shares trade in a 33–40× earnings range with limited multiple expansion available.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
         "probability": 50
       },
       "bear": {
@@ -47,17 +47,38 @@
       }
     },
     "keyRisks": {
-      "text": "",
-      "risks": []
+      "text": "1 Biotech funding cycle: Danaher's Life Sciences segment is highly exposed to the biotechnology funding environment. A sustained downturn in VC-backed biotech or Big Pharma R&amp;D budget cuts would d",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Biotech funding cycle: Danaher's Life Sciences segment is highly exposed to the biotechnology funding environment. A sustained downturn in VC-backed biotech or Big Pharma R&amp;D budget cuts would directly impair the most growth-accretive part of the portfolio."
+        },
+        {
+          "rank": 2,
+          "risk": "GLP-1 cannibalisation concern: If the explosive growth of GLP-1 drugs (Ozempic, Mounjaro) leads to reduced obesity and related comorbidities, long-term pharmaceutical pipelines for other therapeutic areas could shrink, reducing the addressable market for Danaher's tools businesses."
+        },
+        {
+          "rank": 3,
+          "risk": "China regulatory and trade risk: Danaher has significant China exposure across both segments. Geopolitical tensions, domestic Chinese competition, and potential export restrictions on life sciences equipment represent meaningful revenue risk."
+        },
+        {
+          "rank": 4,
+          "risk": "Integration fatigue and M&amp;A quality: As the company scales, finding acquisition targets of sufficient size and quality at reasonable prices becomes incrementally harder; the law of large numbers makes the DBS-driven improvement story increasingly difficult to sustain at historical rates."
+        },
+        {
+          "rank": 5,
+          "risk": "Valuation at a premium: The 37.7× P/E embeds significant execution premium. Any meaningful deceleration in DBS-led margin improvement or acquisition activity would likely trigger de-rating to more sector-appropriate multiples."
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Appropriate For Long-term industrial compounder investors who understand Danaher's DBS-driven M&amp;A flywheel and are comfortable with a 3–5 year holding period to see the thesis play out Those wanting diversified exposure to bioprocessing and life sciences tools without concentration in any single biotech company Investors who believe GLP-1 and cell/gene therapy manufacturing infrastructure buildout will drive a multi-year capital expenditure cycle benefiting Danaher's bioprocessing brands Avoid If Near-term oriented investors who need visible earnings growth acceleration to justify a position — the current biotech spending environment does not provide that Portfolio already holds Thermo Fisher (TMO) or similar life sciences equipment companies — incremental exposure to the same end-market headwinds is limited Strong concerns about China geopolitical escalation and its impact on Danaher's significant China revenues"
     },
     "recommendation": {
-      "text": "Conviction Score: 53/100 \u2014 REDUCE\n  While Danaher is a high-quality business with a demonstrated M&amp;A flywheel, the shares trade 21.9 per cent below their 52-week high at a P/E of 37.7\u00d7. The biotech spending headwind has not fully resolved, and the near-term earnings growth trajectory does not justify the premium valuation. Hold off on new positions until the biopharma CapEx environment shows clearer recovery signs.\n  \n    Buy Below$155\n    HOLD Zone$155\u2013$215\n    Reduce Above$215\n    Stop / Sell$145"
+      "text": "Conviction Score: 53/100 — REDUCE\n  While Danaher is a high-quality business with a demonstrated M&amp;A flywheel, the shares trade 21.9 per cent below their 52-week high at a P/E of 37.7×. The biotech spending headwind has not fully resolved, and the near-term earnings growth trajectory does not justify the premium valuation. Hold off on new positions until the biopharma CapEx environment shows clearer recovery signs.\n  \n    Buy Below$155\n    HOLD Zone$155–$215\n    Reduce Above$215\n    Stop / Sell$145"
     },
     "entryExit": {
-      "text": "DHR \u2014 Danaher Corp (DHR) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $193.4 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $208.57 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $247.66 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $194.43 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": "DHR — Danaher Corp (DHR) — Entry / Exit Framework\n\nReduce / Trim: Above $193.4 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $208.57 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $247.66 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $194.43 — partial mean reversion toward the middle of the 52-week range."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

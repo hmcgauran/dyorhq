@@ -29,10 +29,10 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Pro-desk segment (>40% revenue) growing double-digit as contractor loyalty recovers\n    TinyAI-driven inventory optimisation rolling out chainwide \u2014 reducing stockouts by 22%\n    Lowe's.com marketplace launch Q4 2025 adding third-party SKUs\n    Share-buyback programme authorised: $10bn authorised through FY2026",
+      "text": "Pro-desk segment (>40% revenue) growing double-digit as contractor loyalty recovers\n    TinyAI-driven inventory optimisation rolling out chainwide — reducing stockouts by 22%\n    Lowe's.com marketplace launch Q4 2025 adding third-party SKUs\n    Share-buyback programme authorised: $10bn authorised through FY2026",
       "items": [
         "Pro-desk segment (>40% revenue) growing double-digit as contractor loyalty recovers",
-        "TinyAI-driven inventory optimisation rolling out chainwide \u2014 reducing stockouts by 22%",
+        "TinyAI-driven inventory optimisation rolling out chainwide — reducing stockouts by 22%",
         "Lowe's.com marketplace launch Q4 2025 adding third-party SKUs",
         "Share-buyback programme authorised: $10bn authorised through FY2026"
       ]
@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. US housing-affordability crisis: existing-home sales down 15% YoY Jan 2026 2. Consumer spending shift from big-ticket DIY to repair/maintenance discretionary 3. Home Depot gaining share in pro-cont",
       "risks": [
         {
           "rank": 1,
@@ -65,11 +65,11 @@
         },
         {
           "rank": 3,
-          "risk": "3. Home Depot gaining share in pro-contractor segment \u2014 direct competitive pressure"
+          "risk": "3. Home Depot gaining share in pro-contractor segment — direct competitive pressure"
         },
         {
           "rank": 4,
-          "risk": "4.  tariff pressure on Chinese imported building materials (Lowe's sources ~45% Asia)"
+          "risk": "4. tariff pressure on Chinese imported building materials (Lowe's sources ~45% Asia)"
         },
         {
           "rank": 5,
@@ -78,13 +78,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Home-improvement cyclical trade; best entry on housing-starts contraction signals. Pro-contractor differentiation is the structural tailwind. NOT suitable for risk-off macro positioning or investors needing near-term positive earnings revisions."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "Lowe's (LOW) \u2014 Entry / Exit Framework\n\nHOLD zone: $224.68\u2013$249.1 \u2014 current levels are fairly valued.\nTrim / Take Profits above $249.1 \u2014 approaching the 52-week high at $293.06.\nStop-loss: A sustained close below $206.12 (52-week low) would warrant reassessment."
+      "text": "Lowe's (LOW) — Entry / Exit Framework\n\nHOLD zone: $224.68–$249.1 — current levels are fairly valued.\nTrim / Take Profits above $249.1 — approaching the 52-week high at $293.06.\nStop-loss: A sustained close below $206.12 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

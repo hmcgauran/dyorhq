@@ -29,11 +29,11 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Oracle Cloud Infrastructure (OCI) for AI: 3 new hyperscaler interconnect regions Q1 2025\n    Cerner integration (acquired 2022): $800M synergy run-rate achieved, 15% cross-sell rate\n    Oracle Database 23ai launched 2024 \u2014 vector-native capability for enterprise AI\n    Microsoft Azure Oracle Interconnect: multi-cloud adoption expanding enterprise customer base",
+      "text": "Oracle Cloud Infrastructure (OCI) for AI: 3 new hyperscaler interconnect regions Q1 2025\n    Cerner integration (acquired 2022): $800M synergy run-rate achieved, 15% cross-sell rate\n    Oracle Database 23ai launched 2024 — vector-native capability for enterprise AI\n    Microsoft Azure Oracle Interconnect: multi-cloud adoption expanding enterprise customer base",
       "items": [
         "Oracle Cloud Infrastructure (OCI) for AI: 3 new hyperscaler interconnect regions Q1 2025",
         "Cerner integration (acquired 2022): $800M synergy run-rate achieved, 15% cross-sell rate",
-        "Oracle Database 23ai launched 2024 \u2014 vector-native capability for enterprise AI",
+        "Oracle Database 23ai launched 2024 — vector-native capability for enterprise AI",
         "Microsoft Azure Oracle Interconnect: multi-cloud adoption expanding enterprise customer base"
       ]
     },
@@ -53,15 +53,15 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. Revenue growth 8% (FY24) lags hyperscalers AWS/Azure/GCP — competitive positioning risk 2. Autonomous Database and OCI still 3. Cerner integration complexity: government health data migration proje",
       "risks": [
         {
           "rank": 1,
-          "risk": "1. Revenue growth 8% (FY24) lags hyperscalers AWS/Azure/GCP \u2014 competitive positioning risk"
+          "risk": "1. Revenue growth 8% (FY24) lags hyperscalers AWS/Azure/GCP — competitive positioning risk"
         },
         {
           "rank": 2,
-          "risk": "2. Autonomous Database and OCI still <20% of total revenue \u2014 transition incomplete"
+          "risk": "2. Autonomous Database and OCI still <20% of total revenue — transition incomplete"
         },
         {
           "rank": 3,
@@ -78,13 +78,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Cloud-transition value play: existing database customers migrating to OCI provide long-term annuity base. NOT suitable for growth investors preferring pure hyperscaler exposure."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "Oracle (ORCL) \u2014 Entry / Exit Framework\n\nHOLD zone: $127.04\u2013$140.85 \u2014 current levels are fairly valued.\nTrim / Take Profits above $140.85 \u2014 approaching the 52-week high at $345.72.\nStop-loss: A sustained close below $118.82 (52-week low) would warrant reassessment."
+      "text": "Oracle (ORCL) — Entry / Exit Framework\n\nHOLD zone: $127.04–$140.85 — current levels are fairly valued.\nTrim / Take Profits above $140.85 — approaching the 52-week high at $345.72.\nStop-loss: A sustained close below $118.82 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

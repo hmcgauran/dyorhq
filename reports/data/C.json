@@ -1,7 +1,7 @@
 {
   "meta": {
     "ticker": "C",
-    "company": "C \u2014 Citigroup Inc",
+    "company": "C — Citigroup Inc",
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
@@ -22,23 +22,23 @@
       "text": ""
     },
     "businessModel": {
-      "text": "Citigroup is a global diversified bank operating across five primary segments:\n  \n    Services: Treasury and trade solutions, working capital, and cash management for corporate and institutional clients.\n    Markets: Fixed-income and equities trading, securities services, and prime brokerage \u2014 providing market access and liquidity.\n    Banking: Investment banking, advisory, equity and debt underwriting, and strategic financing for corporate clients.\n    US Personal Banking: Retail branch banking, credit cards, personal loans, and deposits through the US consumer franchise.\n    Wealth Management: Private banking, investment advice, and tailored credit solutions for HNW and ultra-HNW individuals.\n  \n  Citigroup is in the midst of a multi-year efficiency programme under CEO Jane Fraser's leadership, targeting cost reductions and a simplified organisational structure to improve returns on capital."
+      "text": "Citigroup is a global diversified bank operating across five primary segments:\n  \n    Services: Treasury and trade solutions, working capital, and cash management for corporate and institutional clients.\n    Markets: Fixed-income and equities trading, securities services, and prime brokerage — providing market access and liquidity.\n    Banking: Investment banking, advisory, equity and debt underwriting, and strategic financing for corporate clients.\n    US Personal Banking: Retail branch banking, credit cards, personal loans, and deposits through the US consumer franchise.\n    Wealth Management: Private banking, investment advice, and tailored credit solutions for HNW and ultra-HNW individuals.\n  \n  Citigroup is in the midst of a multi-year efficiency programme under CEO Jane Fraser's leadership, targeting cost reductions and a simplified organisational structure to improve returns on capital."
     },
     "financialSnapshot": {
-      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$124.39</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$213.3bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">17.8\u00d7</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$6.99</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$125.48</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$59.92</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">\u22120.9%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">9.0m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$124.39</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$213.3bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">17.8×</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$6.99</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$125.48</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$59.92</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">−0.9%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">9.0m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case\n      72 / 100\n      The transformation programme delivers ahead of schedule, RoTE breaks through 14\u201315 per cent, and the FRB resolution plan is accepted without material capital add-on. M&amp;A and ECM fees recover as capital markets normalise. The valuation discount to peers narrows, driving 20\u201325 per cent upside from current levels.\n      Weight: 30%\n    \n    \n      Base Case\n      58 / 100\n      Transformation continues at measured pace, CRE losses materialise but within consensus estimates, and net interest income holds steady as rate cuts are gradual. The FRB resolution plan remains an ongoing drag but does not trigger forced action. Shares drift within a $100\u2013130 range.\n      Weight: 50%\n    \n    \n      Bear Case\n      35 / 100\n      CRE losses exceed estimates with material office loan defaults, the FRB imposes punitive capital requirements, and the transformation programme stalls. JPMorgan, BofA, and Wells Fargo continue to take share in every business line. Citi's RoTE stays structurally sub-10 per cent, and the dividend is cut.\n      Weight: 20%",
+      "text": "Bull Case\n      72 / 100\n      The transformation programme delivers ahead of schedule, RoTE breaks through 14–15 per cent, and the FRB resolution plan is accepted without material capital add-on. M&amp;A and ECM fees recover as capital markets normalise. The valuation discount to peers narrows, driving 20–25 per cent upside from current levels.\n      Weight: 30%\n    \n    \n      Base Case\n      58 / 100\n      Transformation continues at measured pace, CRE losses materialise but within consensus estimates, and net interest income holds steady as rate cuts are gradual. The FRB resolution plan remains an ongoing drag but does not trigger forced action. Shares drift within a $100–130 range.\n      Weight: 50%\n    \n    \n      Bear Case\n      35 / 100\n      CRE losses exceed estimates with material office loan defaults, the FRB imposes punitive capital requirements, and the transformation programme stalls. JPMorgan, BofA, and Wells Fargo continue to take share in every business line. Citi's RoTE stays structurally sub-10 per cent, and the dividend is cut.\n      Weight: 20%",
       "bull": {
-        "scenario": "Bull Case\n      72 / 100\n      The transformation programme delivers ahead of schedule, RoTE breaks through 14\u201315 per cent, and the FRB resolution plan is accepted without material capital add-on. M&amp;A and ECM fees recover as capital markets normalise. The valuation discount to peers narrows, driving 20\u201325 per cent upside from current levels.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "Bull Case\n      72 / 100\n      The transformation programme delivers ahead of schedule, RoTE breaks through 14–15 per cent, and the FRB resolution plan is accepted without material capital add-on. M&amp;A and ECM fees recover as capital markets normalise. The valuation discount to peers narrows, driving 20–25 per cent upside from current levels.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
         "probability": 30
       },
       "base": {
-        "scenario": "Base Case\n      58 / 100\n      Transformation continues at measured pace, CRE losses materialise but within consensus estimates, and net interest income holds steady as rate cuts are gradual. The FRB resolution plan remains an ongoing drag but does not trigger forced action. Shares drift within a $100\u2013130 range.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "Base Case\n      58 / 100\n      Transformation continues at measured pace, CRE losses materialise but within consensus estimates, and net interest income holds steady as rate cuts are gradual. The FRB resolution plan remains an ongoing drag but does not trigger forced action. Shares drift within a $100–130 range.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
         "probability": 50
       },
       "bear": {
@@ -47,17 +47,38 @@
       }
     },
     "keyRisks": {
-      "text": "",
-      "risks": []
+      "text": "1 Commercial real estate credit: Citi holds a disproportionate share of office-centric CRE loans. A prolonged work-from-home trend and rising vacancy rates could drive significant loan loss provisions",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Commercial real estate credit: Citi holds a disproportionate share of office-centric CRE loans. A prolonged work-from-home trend and rising vacancy rates could drive significant loan loss provisions beyond consensus estimates."
+        },
+        {
+          "rank": 2,
+          "risk": "FRB resolution plan failure: Repeated non-acceptance of the living-will plan by the Federal Reserve could impose operational restrictions, higher capital requirements, or mandated structural changes that impair franchise value."
+        },
+        {
+          "rank": 3,
+          "risk": "Structural competitive disadvantage: JPMorgan and BofA consistently outperform Citi in key revenue pools (investment banking, consumer banking, credit cards), suggesting the franchise is losing ground structurally rather than cyclically."
+        },
+        {
+          "rank": 4,
+          "risk": "Transformation execution risk: The multi-year cost-reduction and simplification programme is running behind original timelines and cost savings targets; further delays erode market confidence and management credibility."
+        },
+        {
+          "rank": 5,
+          "risk": "Macro slowdown: A deterioration in US economic conditions would amplify all the above risks — credit losses, capital markets revenues, and the pace of transformation would all be adversely affected simultaneously."
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Appropriate For Deep-value investors who believe the structural discount will eventually close once the FRB resolution plan is accepted and the transformation programme demonstrates concrete RoTE improvement Those with high conviction in a capital-markets recovery thesis who want exposure to the most beaten-up major US bank Patient, contrarian investors comfortable with idiosyncratic regulatory risk Avoid If Seeking exposure to the US financial sector via higher-quality peers with better capital discipline (JPMorgan, MasterCard) Portfolio is already carrying elevated financial sector risk or CRE-adjacent exposure Requires near-term catalysts or has a short-to-medium investment horizon"
     },
     "recommendation": {
-      "text": "Conviction Score: 58/100 \u2014 REDUCE\n  The shares trade within 1 per cent of their 52-week high at a P/E of 17.8\u00d7, a level that does not adequately compensate for the idiosyncratic risks \u2014 FRB resolution plan, CRE exposure, and structural competitive underperformance \u2014 relative to better-placed peers. Near-term upside is limited; downside risk is asymmetric.\n  \n    Buy Below$85\n    HOLD Zone$85\u2013$110\n    Reduce Above$110\n    Stop / Sell$75"
+      "text": "Conviction Score: 58/100 — REDUCE\n  The shares trade within 1 per cent of their 52-week high at a P/E of 17.8×, a level that does not adequately compensate for the idiosyncratic risks — FRB resolution plan, CRE exposure, and structural competitive underperformance — relative to better-placed peers. Near-term upside is limited; downside risk is asymmetric.\n  \n    Buy Below$85\n    HOLD Zone$85–$110\n    Reduce Above$110\n    Stop / Sell$75"
     },
     "entryExit": {
-      "text": "C \u2014 Citigroup Inc (C) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $126.88 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $136.83 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $127.99 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $66.2 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": "C — Citigroup Inc (C) — Entry / Exit Framework\n\nReduce / Trim: Above $126.88 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $136.83 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $127.99 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $66.2 — partial mean reversion toward the middle of the 52-week range."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

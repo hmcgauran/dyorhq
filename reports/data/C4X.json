@@ -55,32 +55,32 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1 Funding risk (binary): The company's ability to continue as a going concern depends on milestone payments from AstraZeneca arriving on time and on the company securing additional licensing deals or ",
       "risks": [
         {
           "rank": 1,
-          "risk": "1\n                Funding risk (binary): The company's ability to continue as a going concern depends on milestone payments from AstraZeneca arriving on time and on the company securing additional licensing deals or funding. A cash crunch before a material milestone is the primary existential risk."
+          "risk": "1 Funding risk (binary): The company's ability to continue as a going concern depends on milestone payments from AstraZeneca arriving on time and on the company securing additional licensing deals or funding. A cash crunch before a material milestone is the primary existential risk."
         },
         {
           "rank": 2,
-          "risk": "2\n                Binary outcomes from AstraZeneca licence: AstraZeneca controls the development timeline and could deprioritise or terminate the Nrf2 programme at any point. C4X has no control and limited visibility into the partner's priorities."
+          "risk": "2 Binary outcomes from AstraZeneca licence: AstraZeneca controls the development timeline and could deprioritise or terminate the Nrf2 programme at any point. C4X has no control and limited visibility into the partner's priorities."
         },
         {
           "rank": 3,
-          "risk": "3\n                Extreme dilution risk: Any equity fundraising at a sub-£10M market cap would be massively dilutive to existing shareholders. This is standard for AIM biotechs but particularly acute here given the small absolute size of the company."
+          "risk": "3 Extreme dilution risk: Any equity fundraising at a sub-£10M market cap would be massively dilutive to existing shareholders. This is standard for AIM biotechs but particularly acute here given the small absolute size of the company."
         },
         {
           "rank": 4,
-          "risk": "4\n                AIM liquidity and spread risk: At this market cap, the bid-ask spread is likely wide and the stock can move 20-30% on modest volume. This makes entry and exit prices highly uncertain."
+          "risk": "4 AIM liquidity and spread risk: At this market cap, the bid-ask spread is likely wide and the stock can move 20-30% on modest volume. This makes entry and exit prices highly uncertain."
         },
         {
           "rank": 5,
-          "risk": "5\n                Platform execution: The 4D chematics platform is only valuable if it generates licensing deals. Competitive pressure from computational biology approaches at larger biotechs and AI-driven drug discovery companies is increasing."
+          "risk": "5 Platform execution: The 4D chematics platform is only valuable if it generates licensing deals. Competitive pressure from computational biology approaches at larger biotechs and AI-driven drug discovery companies is increasing."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: Specialist biotech investors with a high risk tolerance, a specific timeline for the AstraZeneca Nrf2 milestone, and the ability to sustain a total loss. Those who are specifically following the Nrf2-KEAP1 pathway investment thesis. Should avoid: Conventional investors of any stripe. This is not a value investment, not a growth investment in the conventional sense, and not an income play. Even compared to other AIM biotechs, C4X has an unusually tight cash position and limited external validation of its platform value."
     },
     "recommendation": {
       "text": "Conviction score: 37/100.\n              C4X Discovery is an early-stage biotech with a legitimate scientific platform and one significant\n              out-licensing deal with AstraZeneca. The problem is the combination of binary outcomes, tight cash,\n              and limited visibility into milestone timing. The risk of capital destruction from dilution or\n              programme termination is too high relative to the potential reward for most investors.\n            \n            \n              SELL — SPECULATIVE. Verify current price independently before acting. The\n              AstraZeneca deal is the only thing keeping the equity alive as a going concern. Watch for milestone\n              announcements, RAVs, and any statement about the cash position. This is a binary event trade at best —\n              not a core position for any rational portfolio construction."

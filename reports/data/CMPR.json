@@ -25,7 +25,7 @@
       "text": "Cimpress plc (CMPR) trades at $76.70 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendation: REDUCE at $76.70."
     },
     "businessModel": {
-      "text": "Cimpress operates a mass customisation printing platform built around aggregated production economics. Rather than printing individual orders at full cost, the company batches millions of personalised print orders \u2014 business cards, invitations, marketing collateral, apparel, signage, packaging \u2014 into large production runs across specialised manufacturing facilities. This aggregation is the core mechanic: each order is technically unique, but the batching logic converts high-mix, low-volume work into something that resembles continuous production. The fixed cost base \u2014 presses, finishing equipment, logistics infrastructure \u2014 is amortised across a large order volume, driving unit economics that a local printer cannot replicate at scale.\n\nThe platform is split across distinct brands serving different customer segments. Vista Create (formerly VistaPrint) targets small businesses and consumers directly, offering a design-and-order experience with templates and automated production workflow. It is the demand-generation engine: high traffic, low average order value, strong repeat behaviour from micro-businesses that need business cards, flyers and branded merch on an ongoing basis. Printforge sits at the trade layer, aggregating demand from other printers and distributors who need capacity or specialised capabilities \u2014 essentially a wholesale marketplace for printed goods. This dual structure gives Cimpress both a consumer acquisition channel and a B2B supply-layer play.\n\nThe equity story is more industrial than its platform branding suggests. Cimpress is, fundamentally, a manufacturing business that has invested heavily in production technology and supply chain optimisation. The tech platform framing obscures meaningful fixed costs in printing equipment, facilities and logistics that behave like a traditional manufacturer \u2014 high operating leverage, meaningful capex requirements, and sensitivity to capacity utilisation. The FCF generation at scale is real, but it flows from getting millions of small orders through efficient factory throughput, not from software-style marginal economics. Understanding this distinction is essential to properly sizing the business risk.\n\nAt $76.70, Cimpress trades near the top of its 52-week range ($35.21\u2013$82.43), having recovered strongly from COVID-era lows. The market has been pricing in a consumer discretionary spending recovery that has been slower to materialise than hoped \u2014 small business marketing budgets are discretionary, and customers for whom printed collateral is a routine cost are still under pressure from persistent inflation and higher borrowing costs. The REDUCE rating reflects this disconnect: the upside case requires either a meaningful macro improvement or operational execution gains that are not yet evident in the numbers, while the downside risk is a reversion toward the lower end of the range if consumer spending remains sluggish. The risk/reward at current levels does not justify incremental exposure."
+      "text": "Cimpress operates a mass customisation printing platform built around aggregated production economics. Rather than printing individual orders at full cost, the company batches millions of personalised print orders — business cards, invitations, marketing collateral, apparel, signage, packaging — into large production runs across specialised manufacturing facilities. This aggregation is the core mechanic: each order is technically unique, but the batching logic converts high-mix, low-volume work into something that resembles continuous production. The fixed cost base — presses, finishing equipment, logistics infrastructure — is amortised across a large order volume, driving unit economics that a local printer cannot replicate at scale.\n\nThe platform is split across distinct brands serving different customer segments. Vista Create (formerly VistaPrint) targets small businesses and consumers directly, offering a design-and-order experience with templates and automated production workflow. It is the demand-generation engine: high traffic, low average order value, strong repeat behaviour from micro-businesses that need business cards, flyers and branded merch on an ongoing basis. Printforge sits at the trade layer, aggregating demand from other printers and distributors who need capacity or specialised capabilities — essentially a wholesale marketplace for printed goods. This dual structure gives Cimpress both a consumer acquisition channel and a B2B supply-layer play.\n\nThe equity story is more industrial than its platform branding suggests. Cimpress is, fundamentally, a manufacturing business that has invested heavily in production technology and supply chain optimisation. The tech platform framing obscures meaningful fixed costs in printing equipment, facilities and logistics that behave like a traditional manufacturer — high operating leverage, meaningful capex requirements, and sensitivity to capacity utilisation. The FCF generation at scale is real, but it flows from getting millions of small orders through efficient factory throughput, not from software-style marginal economics. Understanding this distinction is essential to properly sizing the business risk.\n\nAt $76.70, Cimpress trades near the top of its 52-week range ($35.21–$82.43), having recovered strongly from COVID-era lows. The market has been pricing in a consumer discretionary spending recovery that has been slower to materialise than hoped — small business marketing budgets are discretionary, and customers for whom printed collateral is a routine cost are still under pressure from persistent inflation and higher borrowing costs. The REDUCE rating reflects this disconnect: the upside case requires either a meaningful macro improvement or operational execution gains that are not yet evident in the numbers, while the downside risk is a reversion toward the lower end of the range if consumer spending remains sluggish. The risk/reward at current levels does not justify incremental exposure."
     },
     "financialSnapshot": {
       "text": "</div>",
@@ -75,38 +75,38 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Macroeconomic sensitivity — Sector earnings are correlated with global growth, interest rates, and input cost inflation. Currency risk — GBP/EUR/USD exposure on reported revenues and costs. Competitiv",
       "risks": [
         {
           "rank": 1,
-          "risk": "Macroeconomic sensitivity \u2014 Sector earnings are correlated with global growth, interest rates, and input cost inflation."
+          "risk": "Macroeconomic sensitivity — Sector earnings are correlated with global growth, interest rates, and input cost inflation."
         },
         {
           "rank": 2,
-          "risk": "Currency risk \u2014 GBP/EUR/USD exposure on reported revenues and costs."
+          "risk": "Currency risk — GBP/EUR/USD exposure on reported revenues and costs."
         },
         {
           "rank": 3,
-          "risk": "Competitive dynamics \u2014 Pricing pressure from peers or new entrants."
+          "risk": "Competitive dynamics — Pricing pressure from peers or new entrants."
         },
         {
           "rank": 4,
-          "risk": "Liquidity and spread risk \u2014 As a non-primary-listing Irish stock, bid/offer spreads may be wide."
+          "risk": "Liquidity and spread risk — As a non-primary-listing Irish stock, bid/offer spreads may be wide."
         },
         {
           "rank": 5,
-          "risk": "Regulatory and political risk \u2014 Trade policy, FDI screening, and ESG regulation affecting sector."
+          "risk": "Regulatory and political risk — Trade policy, FDI screening, and ESG regulation affecting sector."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Long-term institutional investors seeking diversified industrial/technology/healthcare exposure with a value tilt. Suitable for portfolios that can tolerate moderate volatility and currency risk. Avoid: Short-term traders seeking momentum. Investors requiring high liquidity or expecting near-term catalysts."
     },
     "recommendation": {
-      "text": "REDUCE \u2014 Conviction: 50/100. Enter on pullbacks toward the 52-week low for better risk/reward. Reduce or exit on strength exceeding the 52-week high on volume. No explicit price target is issued; investors should size positions commensurate with conviction level and portfolio risk budget.\n            Entry framework: Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
+      "text": "REDUCE — Conviction: 50/100. Enter on pullbacks toward the 52-week low for better risk/reward. Reduce or exit on strength exceeding the 52-week high on volume. No explicit price target is issued; investors should size positions commensurate with conviction level and portfolio risk budget.\n            Entry framework: Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
     },
     "entryExit": {
-      "text": "Cimpress plc (CMPR) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $78.23 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $84.37 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $84.08 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $38.03 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": "Cimpress plc (CMPR) — Entry / Exit Framework\n\nReduce / Trim: Above $78.23 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $84.37 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $84.08 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $38.03 — partial mean reversion toward the middle of the 52-week range."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

@@ -29,10 +29,10 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Granular AI and data platform growing double-digit; IBM's watsonx portfolio gaining enterprise traction\n    Mainframe renewal cycle remains active \u2014 Z-system software revenue provides visible annuity base\n    HashiCorp acquisition (mid-2024) deepens infrastructure-automation moat\n    Spin-off of Kyndyl completed Q3 2025, sharpening business profile",
+      "text": "Granular AI and data platform growing double-digit; IBM's watsonx portfolio gaining enterprise traction\n    Mainframe renewal cycle remains active — Z-system software revenue provides visible annuity base\n    HashiCorp acquisition (mid-2024) deepens infrastructure-automation moat\n    Spin-off of Kyndyl completed Q3 2025, sharpening business profile",
       "items": [
         "Granular AI and data platform growing double-digit; IBM's watsonx portfolio gaining enterprise traction",
-        "Mainframe renewal cycle remains active \u2014 Z-system software revenue provides visible annuity base",
+        "Mainframe renewal cycle remains active — Z-system software revenue provides visible annuity base",
         "HashiCorp acquisition (mid-2024) deepens infrastructure-automation moat",
         "Spin-off of Kyndyl completed Q3 2025, sharpening business profile"
       ]
@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. Hybrid cloud growth has slowed from peak; watsonx AI services still 2. Revenue has been flat-to-declining for six consecutive quarters (FY24 total $62.8bn) 3. High-margin mainframe software growth ",
       "risks": [
         {
           "rank": 1,
@@ -78,13 +78,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Long-term infrastructure-focused investors seeking modest capital appreciation with defensive yield. Value-oriented allocators comfortable with flat revenue growth in exchange for stable mainframe annuity. NOT suitable for growth investors expecting accelerating top-line expansion."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "IBM (IBM) \u2014 Entry / Exit Framework\n\nHOLD zone: $212.3\u2013$235.38 \u2014 current levels are fairly valued.\nTrim / Take Profits above $235.38 \u2014 approaching the 52-week high at $324.90.\nStop-loss: A sustained close below $216.31 (52-week low) would warrant reassessment."
+      "text": "IBM (IBM) — Entry / Exit Framework\n\nHOLD zone: $212.3–$235.38 — current levels are fairly valued.\nTrim / Take Profits above $235.38 — approaching the 52-week high at $324.90.\nStop-loss: A sustained close below $216.31 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

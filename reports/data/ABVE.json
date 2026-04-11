@@ -52,7 +52,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Balance sheet risk: always central at this scale. Execution risk: little room for error. Liquidity risk: micro-cap trading cuts both ways.",
       "risks": [
         {
           "rank": 1,
@@ -69,7 +69,7 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: only deep-risk micro-cap speculators. Should avoid: almost everyone else."
     },
     "recommendation": {
       "text": "SELL — SPECULATIVE at $0.804. Weak setup, weak financial profile."

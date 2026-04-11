@@ -53,24 +53,24 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1 Valuation not yet justified by fundamentals: At $12.7bn market cap for a company still losing money, the market is pricing in very optimistic future profitability. Any wobble in the path to EBITDA b",
       "risks": [
         {
           "rank": 1,
-          "risk": "1Valuation not yet justified by fundamentals: At $12.7bn market cap for a company still losing money, the market is pricing in very optimistic future profitability. Any wobble in the path to EBITDA breakeven will cause a sharp correction."
+          "risk": "1 Valuation not yet justified by fundamentals: At $12.7bn market cap for a company still losing money, the market is pricing in very optimistic future profitability. Any wobble in the path to EBITDA breakeven will cause a sharp correction."
         },
         {
           "rank": 2,
-          "risk": "2Government budget sensitivity: A significant portion of Planet's revenue comes from US government contracts. Any shift in defence or civilian space priorities could directly impact the top line."
+          "risk": "2 Government budget sensitivity: A significant portion of Planet's revenue comes from US government contracts. Any shift in defence or civilian space priorities could directly impact the top line."
         },
         {
           "rank": 3,
-          "risk": "3Technical mean reversion: The stock has gone from $2.79 to $36.55 in roughly a year. This is a classic speculative re-rating that can reverse sharply when sentiment shifts or growth slows."
+          "risk": "3 Technical mean reversion: The stock has gone from $2.79 to $36.55 in roughly a year. This is a classic speculative re-rating that can reverse sharply when sentiment shifts or growth slows."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: Speculative investors with a high risk tolerance who want direct exposure to the geospatial data theme and who bought closer to the $10-15 level. Growth-oriented investors with a 3-5 year horizon who can withstand 30-40% drawdowns. Should avoid: Anyone buying near current levels. Value investors — this is priced for perfection. Anyone who cannot stomach rapid drawdowns in a high-beta, pre-profit name."
     },
     "recommendation": {
       "text": "REDUCE — SPECULATIVE at $36.55. Fascinating business, genuine moat in revisit frequency, meaningful AI tailwind. But near 52-week highs after a 13× run from the lows is not the time to commit capital. Wait for a pullback to $25-28 or evidence of sustained profitability before increasing exposure."

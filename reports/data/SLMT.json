@@ -8,7 +8,7 @@
     "datePublished": "2026-04-11",
     "recommendation": "SELL",
     "recommendationNote": "SELL",
-    "conviction": 18,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -19,39 +19,69 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "SLM Solutions Group AG ADR is a German additive manufacturing (3D printing) technology company whose shares have collapsed to $0.78 on fundamental deterioration and persistent capital shortage -- SELL . SELL Conviction Score: 18/100 — SELL"
     },
     "businessModel": {
-      "text": ""
+      "text": "SLM Solutions Group AG is a German company specialising in metal powder bed fusion additive manufacturing systems (3D metal printers), used primarily in aerospace, tooling, automotive and medical implant industries. SLM's technology uses a laser to melt metal powder layer by layer, producing complex geometries that are impossible to manufacture with conventional machining. The company manufactures and sells 3D metal printing machines, provides customer training, and generates aftermarket revenue from spare parts, maintenance contracts, and metal powder. SLM competes with other metal AM technology providers including GE Additive, EOS, Trumpf, and Farsoon. Revenue geography: Germany (~30%), North America (~30%), Asia (~25%), Rest of World (~15%). The ADR trades on OTC markets with extremely thin liquidity."
     },
     "financialSnapshot": {
-      "text": "",
+      "text": "Current Price $0.78 OTC Market Cap $120M Est. via price x shares Trailing P/E N/A 12-month earnings EPS (TTM) $-0.18 Trailing twelve months 52-Week High $1.50 -48.0% from high 52-Week Low $0.50 +56.0% from low",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "",
-      "bull": {},
-      "base": {},
-      "bear": {}
+      "text": "Bull Case 32 Target: $1.20 | EPS: $-0.10 SLM wins a major aerospace or medical AM contract. A strategic investor acquires a significant stake or the company. EPS approaches breakeven. Base Case 18 Target: $0.80 | EPS: $-0.20 No meaningful improvement in operational performance. Company continues to burn cash with limited runway. EPS remains deeply negative. Bear Case 8 Target: $0.30 | EPS: $-0.40 Capital runs out. Strategic alternatives Reports / SLMT SLMT SLM Solutions Group AG SELL 11 April 2026 $$0.78 18 Conviction out of 100 >",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Case 8 Target: $0",
+        "probability": 25
+      }
     },
     "keyRisks": {
       "text": "",
-      "risks": []
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Capital exhaustion risk:: Capital exhaustion risk:  SLM has been burning cash for multiple years. Any further equity raises would cause severe dilution to existing shareholders."
+        },
+        {
+          "rank": 2,
+          "risk": "Additive manufacturing market immaturity:: Additive manufacturing market immaturity:  Metal AM remains a niche technology relative to conventional manufacturing. The market growth that was predicted in the 2015-2020 period has not materialised at scale."
+        },
+        {
+          "rank": 3,
+          "risk": "Competitive dynamics:: Competitive dynamics:  SLM competes with large industrial conglomerates (GE, Siemens, Trumpf) that have significantly greater R&D and capital resources."
+        },
+        {
+          "rank": 4,
+          "risk": "Technology obsolescence risk:: Technology obsolescence risk:  Metal AM technology is rapidly evolving. SLM's laser-based technology could be displaced by faster or more cost-effective AM approaches."
+        },
+        {
+          "rank": 5,
+          "risk": "ADR liquidity and spread risk:: ADR liquidity and spread risk:  Trading on OTC markets with extremely thin order books means that the bid/offer spread is prohibitive for any meaningful position sizing."
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "SLM Solutions Group AG ADR is a German additive manufacturing (3D printing) technology company whose shares have collapsed to $0.78 on fundamental deterioration and persistent capital shortage --  SELL . SLM Solutions Group AG is a German company specialising in metal powder bed fusion additive manufacturing systems (3D metal printers), used primarily in aerospace, tooling, automotive and medical implant industries. SLM's technology uses a laser to melt metal powder layer by layer, producing complex geometries that are impossible to manufacture with conventional machining. The company manufactures and sells 3D metal printing machines, provides customer training, and generates aftermarket revenue from spare parts, maintenance contracts, and metal powder. SLM competes with other metal AM technology providers including GE Additive, EOS, Trumpf, and Farsoon. Revenue geography: Germany (~30%), North America (~30%), Asia (~25%), Rest of World (~15%). The ADR trades on OTC markets with extremely thin liquidity. SLM has been undergoing a financial restructuring after years of losses and capital erosion. Recent quarterly results showed revenues declining and continued operating losses. SLM's shareholder base has been diluted through multiple equity raises. The company is reportedly seeking strategic alternatives, potentially including a sale of the business or a significant restructuring of its balance sheet. SLM Solutions Group AG ADR is a German additive manufacturing (3D printing) technology company whose shares have collapsed to $0.78 on fundamental deterioration and persistent capital shortage --  SELL . SLM Solutions Group AG is a German company specialising in metal powder bed fusion additive manufacturing systems (3D metal printers), used primarily in aerospace, tooling, automotive and medical implant industries. SLM's technology uses a laser to melt metal powder layer by layer, producing complex geometries that are impossible to manufacture with conventional machining. The company manufactures and sells 3D metal printing machines, provides customer training, and generates aftermarket revenue from spare parts, maintenance contracts, and metal powder. SLM competes with other metal AM technology providers including GE Additive, EOS, Trumpf, and Farsoon. Revenue geography: Germany (~30%), North America (~30%), Asia (~25%), Rest of World (~15%). The ADR trades on OTC markets with extremely thin liquidity. SLM has been undergoing a financial restructuring after years of losses and capital erosion. Recent quarterly results showed revenues declining and continued operating losses. SLM's shareholder base has been diluted through multiple equity raises. The company is reportedly seeking strategic alternatives, potentially including a sale of the business or a significant restructuring of its balance sheet. Own:  Speculative micro-cap investors with very high risk tolerance and specific knowledge of the additive manufacturing industry. Avoid:  All institutional investors and any investors who cannot tolerate potential total loss of capital."
     },
     "recommendation": {
-      "text": ""
+      "text": "SELL Score: 18/100 SLMT is a failing additive manufacturing company with exhausted capital, persistent losses and no credible near-term path to profitability. SELL. Entry Framework: SELL at all levels above $0.50. Not a viable investment. BUY below $1.32 HOLD $0.88-$1.32 REDUCE above $1.32"
     },
     "entryExit": {
-      "text": "SLM Solutions Group AG (SLMT) \u2014 Entry / Exit Framework\n\nAvoid / Sell: Current levels offer poor risk/reward given the 52-week range of $0.68\u2013$52.95.\nStop-loss (if somehow accumulated): $51.89 \u2014 above the 52-week high would be a meaningful breakdown.\nTarget: $0.71 \u2014 below the 52-week low is the path of least resistance."
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -59,7 +89,7 @@
   },
   "scores": {
     "current": {
-      "score": 18,
+      "score": 50,
       "band": "SELL",
       "date": "2026-04-11",
       "delta": "0",
@@ -68,7 +98,7 @@
     "history": [
       {
         "date": "2026-04-11",
-        "score": 18,
+        "score": 50,
         "band": "SELL",
         "delta": "0",
         "reason": "Initial coverage"

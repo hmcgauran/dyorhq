@@ -26,10 +26,10 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "Union Pacific is the premier US rail franchise with a high-quality asset base, best-in-class operating ratio, significant pricing power and genuine exposure to US manufacturing reshoring and energy transition infrastructure buildout \u2014 the shares offer a rare combination of quality and reasonable valuation at 21x forward P/E \u2014 BUY is the weighted recommendation."
+      "text": "Union Pacific is the premier US rail franchise with a high-quality asset base, best-in-class operating ratio, significant pricing power and genuine exposure to US manufacturing reshoring and energy transition infrastructure buildout — the shares offer a rare combination of quality and reasonable valuation at 21x forward P/E — BUY is the weighted recommendation."
     },
     "businessModel": {
-      "text": "Union Pacific Railroad operates a 33,000-mile rail network covering the western two-thirds of the United States, connecting markets in 23 states and serving major container ports on the Pacific Coast, Gulf Coast and Great Lakes. UNP is a 'precision scheduled railroader' (PSR) \u2014 its operational methodology is focused on maximising asset utilisation, minimising dwell time and optimising train lengths. This has historically produced the best operating ratio in the North American rail industry. UNP transports diverse freight: intermodal containers (approximately 25% of revenues), agricultural commodities, automotive, industrial chemicals, coal and construction materials. Its network position is highly defensive \u2014 the western US rail duopoly with BNSF ( Berkshire Hathaway) is astructural barrier to competition."
+      "text": "Union Pacific Railroad operates a 33,000-mile rail network covering the western two-thirds of the United States, connecting markets in 23 states and serving major container ports on the Pacific Coast, Gulf Coast and Great Lakes. UNP is a 'precision scheduled railroader' (PSR) — its operational methodology is focused on maximising asset utilisation, minimising dwell time and optimising train lengths. This has historically produced the best operating ratio in the North American rail industry. UNP transports diverse freight: intermodal containers (approximately 25% of revenues), agricultural commodities, automotive, industrial chemicals, coal and construction materials. Its network position is highly defensive — the western US rail duopoly with BNSF ( Berkshire Hathaway) is astructural barrier to competition."
     },
     "financialSnapshot": {
       "text": "</div>",
@@ -61,25 +61,25 @@
       ]
     },
     "recentCatalysts": {
-      "text": "UNP has posted record operating ratio (OR of approximately 53%) and record annual earnings in recent years. The precision scheduled railroading methodology continues to drive productivity improvements \u2014 longer trains, reduced terminal dwell and improved asset velocity are structural cost levers. US manufacturing reshoring (onshoring of semiconductor, pharmaceutical and consumer goods production) and the infrastructure provisions of the Inflation Reduction Act are generating incremental rail demand in chemicals, plastics and steel. UNP's $8bn five-year capital investment programme includes digital sensing and inspection technology that is improving safety metrics and reducing unplanned maintenance."
+      "text": "UNP has posted record operating ratio (OR of approximately 53%) and record annual earnings in recent years. The precision scheduled railroading methodology continues to drive productivity improvements — longer trains, reduced terminal dwell and improved asset velocity are structural cost levers. US manufacturing reshoring (onshoring of semiconductor, pharmaceutical and consumer goods production) and the infrastructure provisions of the Inflation Reduction Act are generating incremental rail demand in chemicals, plastics and steel. UNP's $8bn five-year capital investment programme includes digital sensing and inspection technology that is improving safety metrics and reducing unplanned maintenance."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (82): US manufacturing reshoring and infrastructure investment drive rail volume growth above GDP. UNP's precision scheduled railroading methodology continues to improve operating efficiency. Intermodal pricing power is maintained. Diesel fuel cost headwinds are modest. EPS grows at 10\u201312% annually. Price: $295+.\n            Base Case (50): Volumes grow at or slightly above GDP growth through a mix of network efficiency and modestly positive mix effects. Operating ratio (OR) stays in the 53\u201355% range. Pricing increases of 3\u20134% annually are achievable. EPS grows at 8\u201310% annually. Price: $245\u2013$270.\n            Bear Case (40): US economy enters recession and volumes decline by mid-single digits. UNP's service quality metrics deteriorate and customers switch to trucking. Fuel price spikes increase operating costs without freight revenue offset. EPS growth falls to 3\u20135%. Price: below $205.\n            Weighted Score: 82 \u2014 Bull 82 \u00d7 30% + Base 50 \u00d7 50% + Bear 40 \u00d7 20%",
+      "text": "Bull Case (82): US manufacturing reshoring and infrastructure investment drive rail volume growth above GDP. UNP's precision scheduled railroading methodology continues to improve operating efficiency. Intermodal pricing power is maintained. Diesel fuel cost headwinds are modest. EPS grows at 10–12% annually. Price: $295+.\n            Base Case (50): Volumes grow at or slightly above GDP growth through a mix of network efficiency and modestly positive mix effects. Operating ratio (OR) stays in the 53–55% range. Pricing increases of 3–4% annually are achievable. EPS grows at 8–10% annually. Price: $245–$270.\n            Bear Case (40): US economy enters recession and volumes decline by mid-single digits. UNP's service quality metrics deteriorate and customers switch to trucking. Fuel price spikes increase operating costs without freight revenue offset. EPS growth falls to 3–5%. Price: below $205.\n            Weighted Score: 82 — Bull 82 × 30% + Base 50 × 50% + Bear 40 × 20%",
       "bull": {
-        "scenario": "Bull Case (82): US manufacturing reshoring and infrastructure investment drive rail volume growth above GDP. UNP's precision scheduled railroading methodology continues to improve operating efficiency. Intermodal pricing power is maintained. Diesel fuel cost headwinds are modest. EPS grows at 10\u201312% annually. Price: $295+.",
+        "scenario": "Bull Case (82): US manufacturing reshoring and infrastructure investment drive rail volume growth above GDP. UNP's precision scheduled railroading methodology continues to improve operating efficiency. Intermodal pricing power is maintained. Diesel fuel cost headwinds are modest. EPS grows at 10–12% annually. Price: $295+.",
         "probability": 12
       },
       "base": {
-        "scenario": "Base Case (50): Volumes grow at or slightly above GDP growth through a mix of network efficiency and modestly positive mix effects. Operating ratio (OR) stays in the 53\u201355% range. Pricing increases of 3\u20134% annually are achievable. EPS grows at 8\u201310% annually. Price: $245\u2013$270.",
+        "scenario": "Base Case (50): Volumes grow at or slightly above GDP growth through a mix of network efficiency and modestly positive mix effects. Operating ratio (OR) stays in the 53–55% range. Pricing increases of 3–4% annually are achievable. EPS grows at 8–10% annually. Price: $245–$270.",
         "probability": 55
       },
       "bear": {
-        "scenario": "Bear Case (40): US economy enters recession and volumes decline by mid-single digits. UNP's service quality metrics deteriorate and customers switch to trucking. Fuel price spikes increase operating costs without freight revenue offset. EPS growth falls to 3\u20135%. Price: below $205.",
+        "scenario": "Bear Case (40): US economy enters recession and volumes decline by mid-single digits. UNP's service quality metrics deteriorate and customers switch to trucking. Fuel price spikes increase operating costs without freight revenue offset. EPS growth falls to 3–5%. Price: below $205.",
         "probability": 5
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Macroeconomic sensitivity: Rail volumes are highly correlated with industrial production and consumer goods spending. A US recession would reduce volumes meaningfully and could not be fully offset by ",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Quality-focused total return investors seeking defensive, pricing-power industrial exposure. UNP is appropriate as a core holding in a high-quality industrial portfolio — it has delivered consistent top-quartile ROIC and has a demonstrated capital allocation track record (buybacks + dividends). Avoiders: Investors who need near-term momentum or who are bearish on the US industrial economy. Investors with low interest in cyclical industrial names should reduce exposure accordingly."
     },
     "recommendation": {
-      "text": "BUY. BUY below $195 (approximately 17x forward P/E on base-case EPS \u2014 provides a meaningful margin of safety on a best-in-class franchise with demonstrated pricing power). Reduce above $268 (approximately 23x forward P/E \u2014 above UNP's historical premium multiple and requires continued OR improvement to justify)."
+      "text": "BUY. BUY below $195 (approximately 17x forward P/E on base-case EPS — provides a meaningful margin of safety on a best-in-class franchise with demonstrated pricing power). Reduce above $268 (approximately 23x forward P/E — above UNP's historical premium multiple and requires continued OR improvement to justify)."
     },
     "entryExit": {
-      "text": "Union Pacific Corporation (UNP) \u2014 Entry / Exit Framework\n\nAccumulate: $220.45\u2013$237.98 \u2014 pullback zone within the 52-week range. The stock is attractively priced relative to the recent move.\nStop-loss: $196.3 \u2014 a close below the 52-week low would signal fundamental deterioration.\nTarget 1: $227.92 \u2014 mean reversion toward the midpoint of the 52-week range. Near-term catalyst needed to confirm momentum.\nTarget 2: $281.55 \u2014 above the 52-week high on sustained volume. Only appropriate for position-initiation with conviction."
+      "text": "Union Pacific Corporation (UNP) — Entry / Exit Framework\n\nAccumulate: $220.45–$237.98 — pullback zone within the 52-week range. The stock is attractively priced relative to the recent move.\nStop-loss: $196.3 — a close below the 52-week low would signal fundamental deterioration.\nTarget 1: $227.92 — mean reversion toward the midpoint of the 52-week range. Near-term catalyst needed to confirm momentum.\nTarget 2: $281.55 — above the 52-week high on sustained volume. Only appropriate for position-initiation with conviction."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

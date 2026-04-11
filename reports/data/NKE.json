@@ -29,9 +29,9 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "New CEO Elliott Hill appointed October 2024 \u2014 immediate wholesale channel reset initiated\n    Air Innovation pipeline: Air Max 2025 and renewed Jordan franchise in FY26\n    Nike University internal talent programme re-energising product creation teams\n    Cost-savings programme: $2bn efficiency target by FY27 (supply chain + SG&A)",
+      "text": "New CEO Elliott Hill appointed October 2024 — immediate wholesale channel reset initiated\n    Air Innovation pipeline: Air Max 2025 and renewed Jordan franchise in FY26\n    Nike University internal talent programme re-energising product creation teams\n    Cost-savings programme: $2bn efficiency target by FY27 (supply chain + SG&A)",
       "items": [
-        "New CEO Elliott Hill appointed October 2024 \u2014 immediate wholesale channel reset initiated",
+        "New CEO Elliott Hill appointed October 2024 — immediate wholesale channel reset initiated",
         "Air Innovation pipeline: Air Max 2025 and renewed Jordan franchise in FY26",
         "Nike University internal talent programme re-energising product creation teams",
         "Cost-savings programme: $2bn efficiency target by FY27 (supply chain + SG&A)"
@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. Revenue decline FY25 (-1.8%) driven by North America wholesale exit 2. Gross margin at 44.2% FY25 vs 47.6% FY22 — structural compression from DTC channel shift 3. Chinese competitor Anta Sports gai",
       "risks": [
         {
           "rank": 1,
@@ -61,7 +61,7 @@
         },
         {
           "rank": 2,
-          "risk": "2. Gross margin at 44.2% FY25 vs 47.6% FY22 \u2014 structural compression from DTC channel shift"
+          "risk": "2. Gross margin at 44.2% FY25 vs 47.6% FY22 — structural compression from DTC channel shift"
         },
         {
           "rank": 3,
@@ -78,13 +78,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Turnaround play for patient investors who believe in the new CEO's strategic reset. Brand-revival optionality on new product cycle. NOT suitable for risk-off macro investors or those requiring near-term revenue positive revisions."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "Nike Inc (NKE) \u2014 Entry / Exit Framework\n\nHOLD zone: $39.21\u2013$43.47 \u2014 current levels are fairly valued.\nTrim / Take Profits above $43.47 \u2014 approaching the 52-week high at $80.17.\nStop-loss: A sustained close below $41.51 (52-week low) would warrant reassessment."
+      "text": "Nike Inc (NKE) — Entry / Exit Framework\n\nHOLD zone: $39.21–$43.47 — current levels are fairly valued.\nTrim / Take Profits above $43.47 — approaching the 52-week high at $80.17.\nStop-loss: A sustained close below $41.51 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
