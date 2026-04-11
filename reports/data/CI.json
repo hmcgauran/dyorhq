@@ -48,7 +48,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "CI (CI) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $276.68 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $298.38 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $357.0 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $258.67 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": "CI (CI) — Entry / Exit Framework\n\nReduce / Trim: Above $276.68 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $298.38 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $357.0 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $258.67 — partial mean reversion toward the middle of the 52-week range."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

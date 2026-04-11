@@ -19,7 +19,7 @@ const SHEET_ID = '1N3lmSP2KI3pVOI3JlnsCn3YKKEWEKGiTILYKvPAJPoM';
 const CANONICAL_INDEX = path.join(__dirname, '..', 'reports', 'index.json');
 const PUBLIC_INDEX = path.join(__dirname, '..', 'public', 'reports-index.json');
 
-const TABS = ['Fortune 100', 'S&P 100 Companies'];
+const TABS = ['Fortune 100', 'S&P 100 Companies', 'Irish'];
 const WATCHLIST_TAB = 'Sheet1'; // default tab
 
 // ─── Helpers ────────────────────────────────────────
@@ -40,6 +40,7 @@ function normaliseSheetTicker(ticker) {
   if (!ticker) return null;
   const t = String(ticker).trim().toUpperCase();
   if (t.startsWith('LON:')) return t.slice(4) + '.L';
+  if (t.startsWith('FRA:')) return t.slice(4);  // Frankfurt
   if (t.startsWith('ETS:')) return t.slice(4);
   if (t.startsWith('EPA:')) return t.slice(4);
   if (t.startsWith('ETR:')) return t.slice(4);
@@ -101,7 +102,7 @@ function loadTab(tabName) {
     ['sector', 'industry sector'].includes(h)
   );
   const exchangeIdx = headers.findIndex(h =>
-    ['exchange', 'market'].includes(h)
+    ['exchange', 'market', 'trading currency', 'currency'].includes(h)
   );
 
   const quotes = [];
@@ -152,6 +153,18 @@ function buildPriceMap() {
       if (q.exchange) map[q.ticker].exchange = q.exchange;
     } else {
       map[q.ticker] = { ...q, universes: ['sp100'] };
+    }
+  });
+
+  // Irish tab
+  const irish = loadTab('Irish');
+  irish.forEach(q => {
+    if (map[q.ticker]) {
+      if (!map[q.ticker].universes.includes('irish')) map[q.ticker].universes.push('irish');
+      if (q.sector) map[q.ticker].sector = q.sector;
+      if (q.exchange) map[q.ticker].exchange = q.exchange;
+    } else {
+      map[q.ticker] = { ...q, universes: ['irish'] };
     }
   });
 

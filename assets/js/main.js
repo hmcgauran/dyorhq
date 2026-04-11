@@ -14,6 +14,7 @@
   let allReports = [];
   let activeRec = 'ALL';
   let activeUniv = 'all';
+  let activeExchange = '';
   let priceData = {}; // { ticker: price }
 
   // ─── URL State ───────────────────────────────────
@@ -136,6 +137,7 @@
         <div class="card-meta">
           <span class="rec-badge ${cls}">${rec}</span>
           ${freshLabel ? `<span class="fresh-badge">${freshLabel}</span>` : ''}
+          ${report.exchange ? `<span class="exchange-badge">${report.exchange}</span>` : ''}
           <span class="card-date">${formatDate(report.date)}</span>
         </div>
         <p class="card-summary">${report.summary || ''}</p>
@@ -180,6 +182,10 @@
       );
     }
 
+    if (activeExchange) {
+      result = result.filter(r => (r.exchange || '') === activeExchange);
+    }
+
     renderGrid(result);
   }
 
@@ -212,6 +218,15 @@
   // Search
   if (searchInput) {
     searchInput.addEventListener('input', applyFilters);
+  }
+
+  // Exchange filter
+  const exchangeFilter = document.getElementById('exchange-filter');
+  if (exchangeFilter) {
+    exchangeFilter.addEventListener('change', () => {
+      activeExchange = exchangeFilter.value;
+      applyFilters();
+    });
   }
 
   // ─── Star Click — Event Delegation ─────────────────

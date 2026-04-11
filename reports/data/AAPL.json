@@ -5,15 +5,15 @@
     "exchange": "",
     "isin": "",
     "date": "10 Apr 2026",
-    "datePublished": "2026-04-10",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
-    "conviction": 64,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
+      "fortune100",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
@@ -104,7 +104,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "China concentration risk: Both manufacturing and sales exposure to China create a two-sided vulnerability — demand slowdown and supply disruption simultaneously — that the market underprices. Tariff a",
       "risks": [
         {
           "rank": 1,
@@ -129,7 +129,7 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Own if: You want large-cap mega-cap quality exposure with a dominant ecosystem, a growing high-margin Services tail, and a shareholder-friendly capital return policy. The 0.42% yield is modest but the buyback programme is material. Suitable for long-term core holdings in a tech allocation. Avoid or trim if: You are valuation-sensitive and believe the P/E of 33x is demanding for a business growing revenue at mid-single digits. The China risk is asymmetric in a trade war scenario. If your time horizon is under 18 months and you need capital efficiency."
     },
     "recommendation": {
       "text": "HOLD. Apple is an excellent business — the question is price. At $260.48 and a P/E of 33x, the stock is not cheap but it is not absurd given the quality. The iPhone 17 cycle and Services acceleration provide reasonable supports for current levels.\n            A meaningful re-rating requires either a faster Services growth narrative or a resolution of the China/tariff overhang. Neither is a near-term certain catalyst."
@@ -153,16 +153,16 @@
   },
   "scores": {
     "current": {
-      "score": 64,
+      "score": 50,
       "band": "HOLD",
-      "date": "2026-04-10",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-10",
-        "score": 64,
+        "date": "",
+        "score": 50,
         "band": "HOLD",
         "delta": "0",
         "reason": "Initial coverage"

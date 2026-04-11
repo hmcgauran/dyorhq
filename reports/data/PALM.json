@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Exploration risk: the core risk in any junior miner. Dilution risk: likely if progress is to continue. Liquidity risk: small volumes can make exits difficult.",
       "risks": [
         {
           "rank": 1,
@@ -70,7 +70,7 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: only speculative junior mining punters. Should avoid: anyone who wants operating resilience or dependable fundamentals."
     },
     "recommendation": {
       "text": "REDUCE — SPECULATIVE at 80.0p. Exploration optionality exists, but risk dominates."

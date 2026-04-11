@@ -8,7 +8,7 @@
     "datePublished": "2026-04-11",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 48,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -19,39 +19,69 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Experience Technology Group is a small-cap digital transformation and IT services provider with limited public financial history and thin trading liquidity, making it difficult to construct a high-confidence fundamental thesis -- REDUCE . REDUCE Conviction Score: 48/100 — REDUCE"
     },
     "businessModel": {
-      "text": ""
+      "text": "Experience Technology Group provides digital transformation consulting and IT services, focused on customer experience management, cloud migration, and enterprise software implementation. The company operates across mid-market and enterprise clients in North America and Europe. Revenue is project-based consulting revenue, with limited recurring revenue visibility. The competitive landscape in digital transformation services is fragmented, with large global players (Accenture, Deloitte Digital) and numerous niche challengers competing for the same mandates. The company has undergone several restructurings and has a complex corporate history."
     },
     "financialSnapshot": {
-      "text": "",
+      "text": "Current Price $35.04 Pink Sheets Market Cap N/A Est. via price x shares Trailing P/E N/A 12-month earnings EPS (TTM) N/A Trailing twelve months 52-Week High $42.00 -16.6% from high 52-Week Low $22.00 +59.3% from low",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "",
-      "bull": {},
-      "base": {},
-      "bear": {}
+      "text": "Bull Case 68 Target: $45.00 | EPS: $1.50 New management executes a successful turnaround. A major enterprise contract win provides revenue visibility. Digital transformation spending accelerates. EPS reaches $1.50+. Base Case 48 Target: $36.00 | EPS: $0.90 Steady but uninspiring performance in a competitive market. No material new contract wins or losses. EPS ~$0.90. Bear Case 28 Target: $22.00 | EPS: $0.30 Key client relationships are lost to better-capitalised competitors. Management churn disrupts project delivery. EPS falls to $0.30. Conviction Score (Bull Reports / EXPGF EXPGF Experience Technology Group REDUCE 11 April 2026 $$35.04 48 Conviction out of 100 >",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Case 28 Target: $22",
+        "probability": 25
+      }
     },
     "keyRisks": {
       "text": "",
-      "risks": []
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Limited financial disclosure:: Limited financial disclosure:  Publicly available financial information is thin, making independent fundamental analysis difficult. This lack of transparency is itself a risk."
+        },
+        {
+          "rank": 2,
+          "risk": "Competitive dynamics:: Competitive dynamics:  The IT services market is highly competitive. Large global players and well-capitalised challengers can undercut on price while matching on capability."
+        },
+        {
+          "rank": 3,
+          "risk": "Client concentration risk:: Client concentration risk:  Small IT services firms typically have high client concentration. Loss of a major account would be material to revenues."
+        },
+        {
+          "rank": 4,
+          "risk": "Management and governance uncertainty:: Management and governance uncertainty:  The company has a complex restructuring history. Any governance concerns or management instability would be a significant risk factor."
+        },
+        {
+          "rank": 5,
+          "risk": "Liquidity and spread risk:: Liquidity and spread risk:  As a Pink Sheets listed stock, bid/offer spreads are wide and liquidity is thin, making entry and exit at reasonable prices difficult."
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Experience Technology Group is a small-cap digital transformation and IT services provider with limited public financial history and thin trading liquidity, making it difficult to construct a high-confidence fundamental thesis --  REDUCE . Experience Technology Group provides digital transformation consulting and IT services, focused on customer experience management, cloud migration, and enterprise software implementation. The company operates across mid-market and enterprise clients in North America and Europe. Revenue is project-based consulting revenue, with limited recurring revenue visibility. The competitive landscape in digital transformation services is fragmented, with large global players (Accenture, Deloitte Digital) and numerous niche challengers competing for the same mandates. The company has undergone several restructurings and has a complex corporate history. No recent RNS or material corporate announcements identified. The company may be pursuing a strategic review or considering options to maximise shareholder value, but no formal process has been disclosed. Experience Technology Group is a small-cap digital transformation and IT services provider with limited public financial history and thin trading liquidity, making it difficult to construct a high-confidence fundamental thesis --  REDUCE . Experience Technology Group provides digital transformation consulting and IT services, focused on customer experience management, cloud migration, and enterprise software implementation. The company operates across mid-market and enterprise clients in North America and Europe. Revenue is project-based consulting revenue, with limited recurring revenue visibility. The competitive landscape in digital transformation services is fragmented, with large global players (Accenture, Deloitte Digital) and numerous niche challengers competing for the same mandates. The company has undergone several restructurings and has a complex corporate history. No recent RNS or material corporate announcements identified. The company may be pursuing a strategic review or considering options to maximise shareholder value, but no formal process has been disclosed. Own:  Speculative micro-cap investors who believe in the turnaround story and have a high risk tolerance. Avoid:  All institutional investors and any investors who require transparent, liquid investments with high-quality disclosure."
     },
     "recommendation": {
-      "text": ""
+      "text": "REDUCE Score: 48/100 EXPGF is a speculative small-cap IT services company with limited public financial history and thin liquidity. The investment case rests on a turnaround narrative that is difficult to verify independently. The risk-reward at $35.04 is not compelling. REDUCE. Entry Framework: REDUCE at current levels ($35.04). Only accumulate below $22 on explicit positive news flow. BUY below $47.25 HOLD $37.80-$47.25 REDUCE above $47.25"
     },
     "entryExit": {
-      "text": "Experience Technology Group (EXPGF) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $35.74 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $38.54 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $56.3 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $35.64 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -59,7 +89,7 @@
   },
   "scores": {
     "current": {
-      "score": 48,
+      "score": 50,
       "band": "REDUCE",
       "date": "2026-04-11",
       "delta": "0",
@@ -68,7 +98,7 @@
     "history": [
       {
         "date": "2026-04-11",
-        "score": 48,
+        "score": 50,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"

@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Dilution risk: the dominant risk. No operating base: little to anchor valuation. Liquidity and trading risk: tiny moves can be meaningless and illiquid.",
       "risks": [
         {
           "rank": 1,
@@ -70,7 +70,7 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: almost nobody beyond punters knowingly trading lottery-ticket risk. Should avoid: anyone treating public equities like investments rather than punts."
     },
     "recommendation": {
       "text": "SELL — SPECULATIVE at 0.0330p. This is a stub, not a business-quality setup."

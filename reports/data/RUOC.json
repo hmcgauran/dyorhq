@@ -54,40 +54,40 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Cash/burn risk (HIGH): Pre-revenue company burning cash. If backlog conversion slips or pipeline doesn't convert, equity raise at distressed prices will heavily dilute. This is the binary risk. Liquid",
       "risks": [
         {
           "rank": 1,
-          "risk": "Cash/burn risk (HIGH): Pre-revenue company burning cash. If backlog conversion\n                slips or pipeline doesn't convert, equity raise at distressed prices will heavily dilute.\n                This is the binary risk."
+          "risk": "Cash/burn risk (HIGH): Pre-revenue company burning cash. If backlog conversion slips or pipeline doesn't convert, equity raise at distressed prices will heavily dilute. This is the binary risk."
         },
         {
           "rank": 2,
-          "risk": "Liquidity risk (HIGH): Trading on FRA (RUOC.F) as main venue. NYSE is the\n                primary exchange but US investors may face liquidity mismatches. Spreads can be wide.\n                Confirm actual liquid ticker with your broker."
+          "risk": "Liquidity risk (HIGH): Trading on FRA (RUOC.F) as main venue. NYSE is the primary exchange but US investors may face liquidity mismatches. Spreads can be wide. Confirm actual liquid ticker with your broker."
         },
         {
           "rank": 3,
-          "risk": "Pipeline conversion risk (MEDIUM): $163.9M pipeline sounds large but conversion\n                rates in government contracting are uncertain. 10-15% is realistic; 30%+ would be exceptional."
+          "risk": "Pipeline conversion risk (MEDIUM): $163.9M pipeline sounds large but conversion rates in government contracting are uncertain. 10-15% is realistic; 30%+ would be exceptional."
         },
         {
           "rank": 4,
-          "risk": "Contract/timeline risk (MEDIUM): DHS contract is multi-quarter — delivery\n                timing, government budget cycles, and political dynamics can all introduce delays."
+          "risk": "Contract/timeline risk (MEDIUM): DHS contract is multi-quarter — delivery timing, government budget cycles, and political dynamics can all introduce delays."
         },
         {
           "rank": 5,
-          "risk": "Competition risk (MEDIUM): Wave energy is nascent; larger energy majors could\n                enter and outcompete. Defence-USV space is also getting more competitive."
+          "risk": "Competition risk (MEDIUM): Wave energy is nascent; larger energy majors could enter and outcompete. Defence-USV space is also getting more competitive."
         },
         {
           "rank": 6,
-          "risk": "Management/shareholder dilution (MEDIUM): Historical pattern of equity raises\n                suggests further dilution is likely. Check management incentives and cap table."
+          "risk": "Management/shareholder dilution (MEDIUM): Historical pattern of equity raises suggests further dilution is likely. Check management incentives and cap table."
         },
         {
           "rank": 7,
-          "risk": "Volatility risk (HIGH): Micro-cap with news-driven price action. Earnings\n                dates and contract announcements will cause large swings — use this, don't fear it."
+          "risk": "Volatility risk (HIGH): Micro-cap with news-driven price action. Earnings dates and contract announcements will cause large swings — use this, don't fear it."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Current price: €0.2976 52-week range: €0.2195–€0.769 5-day trend: 0.246 → 0.262 → 0.257 → 0.276 → 0.298 (recovering from lows) Distance from 52w low: +35.6% — off the bottom but still near bottom of range Distance from 52w high: −61.3% — massive haircut reflecting sentiment"
     },
     "recommendation": {
       "text": "BUY — SPECULATIVE."

@@ -53,24 +53,24 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1 Contract concentration risk: Revenue is heavily weighted toward a small number of government contracts. The loss of any major contract would be acutely felt and likely cause a significant share pric",
       "risks": [
         {
           "rank": 1,
-          "risk": "1Contract concentration risk: Revenue is heavily weighted toward a small number of government contracts. The loss of any major contract would be acutely felt and likely cause a significant share price decline."
+          "risk": "1 Contract concentration risk: Revenue is heavily weighted toward a small number of government contracts. The loss of any major contract would be acutely felt and likely cause a significant share price decline."
         },
         {
           "rank": 2,
-          "risk": "2Data quality: Live price data is unavailable. The EPS of -$14.08 and the anomalous negative beta reflect data quality issues typical of thinly-traded micro-caps. Verify all figures independently before making any investment decision."
+          "risk": "2 Data quality: Live price data is unavailable. The EPS of -$14.08 and the anomalous negative beta reflect data quality issues typical of thinly-traded micro-caps. Verify all figures independently before making any investment decision."
         },
         {
           "rank": 3,
-          "risk": "3Defence budget sensitivity: A significant portion of revenue is US DoD-funded. Any political shift that reduces defence spending would directly impact the top line."
+          "risk": "3 Defence budget sensitivity: A significant portion of revenue is US DoD-funded. Any political shift that reduces defence spending would directly impact the top line."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: Speculative investors with a high risk tolerance who have a specific thesis on US defence medical training budget growth and who can tolerate binary, contract-driven outcomes. Should avoid: Anyone who needs accessible fundamentals, regular news flow, or dividend income. Those who cannot tolerate a 50%+ drawdown on a single contract cancellation announcement."
     },
     "recommendation": {
       "text": "REDUCE — SPECULATIVE. Verify current price before acting. This is a contract-dependent micro-cap that is not investable for most investors at this stage without a very specific contract catalyst and timeline."

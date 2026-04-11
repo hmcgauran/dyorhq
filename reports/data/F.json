@@ -1,7 +1,7 @@
 {
   "meta": {
     "ticker": "F",
-    "company": "F \u2014 Ford Motor Company",
+    "company": "F — Ford Motor Company",
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
@@ -22,23 +22,23 @@
       "text": ""
     },
     "businessModel": {
-      "text": "Ford operates across three primary vehicle segments following its organisational restructuring:\n  \n    Ford Blue (ICE): Traditional internal combustion engine vehicles \u2014 F-Series trucks, Mustang, Explorer, Bronco \u2014 the cash-generating backbone of the company. Ford Blue generates the profits and free cash flow that funds the EV transition. The segment is in structural long-term decline as consumer preferences shift.\n    Ford Model e (EVs): Electric vehicles including the F-150 Lightning (electric truck), Mustang Mach-E, and E-Transit van. This segment is currently loss-making and is expected to remain so until EV scale reaches the level required to achieve manufacturing cost parity with ICE vehicles.\n    Ford Pro (Commercial): A dedicated commercial vehicle and fleet services business selling ICE and EV commercial vehicles globally, alongside telematics and service contracts. This is a high-margin, sticky business that benefits from the transition to electric commercial fleets.\n    Ford Credit: The captive finance arm provides auto financing and leasing to Ford customers and dealers. It provides a steady earnings contribution and helps support vehicle sales through promotional leasing programmes.\n  \n  Ford's core strategic challenge is managing the simultaneous decline of its ICE cash cow and the losses of its EV growth engine \u2014 a transition that has proven far more difficult and expensive than originally modelled."
+      "text": "Ford operates across three primary vehicle segments following its organisational restructuring:\n  \n    Ford Blue (ICE): Traditional internal combustion engine vehicles — F-Series trucks, Mustang, Explorer, Bronco — the cash-generating backbone of the company. Ford Blue generates the profits and free cash flow that funds the EV transition. The segment is in structural long-term decline as consumer preferences shift.\n    Ford Model e (EVs): Electric vehicles including the F-150 Lightning (electric truck), Mustang Mach-E, and E-Transit van. This segment is currently loss-making and is expected to remain so until EV scale reaches the level required to achieve manufacturing cost parity with ICE vehicles.\n    Ford Pro (Commercial): A dedicated commercial vehicle and fleet services business selling ICE and EV commercial vehicles globally, alongside telematics and service contracts. This is a high-margin, sticky business that benefits from the transition to electric commercial fleets.\n    Ford Credit: The captive finance arm provides auto financing and leasing to Ford customers and dealers. It provides a steady earnings contribution and helps support vehicle sales through promotional leasing programmes.\n  \n  Ford's core strategic challenge is managing the simultaneous decline of its ICE cash cow and the losses of its EV growth engine — a transition that has proven far more difficult and expensive than originally modelled."
     },
     "financialSnapshot": {
-      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$12.13</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$48.7bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">N/A (neg. earnings)</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">-$2.06</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$14.80</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$9.04</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">\u221218.0%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">28.3m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$12.13</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$48.7bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">N/A (neg. earnings)</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">-$2.06</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$14.80</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$9.04</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">−18.0%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">28.3m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case\n      60 / 100\n      Ford Model e achieves breakeven by 2027 as EV manufacturing scale drives costs down. The F-Series remains the best-selling truck in the US, generating strong cash flow to fund the transition. Ford Pro commercial business grows at 10\u201315 per cent annually. The stock re-rates modestly as the market gains confidence in the EV timeline, driving the shares to $14\u201316.\n      Weight: 30%\n    \n    \n      Base Case\n      38 / 100\n      EV losses remain elevated at $3\u20135bn annually through 2027. ICE truck and SUV margins compress further as Chinese EVs enter the US market with affordable options. Ford Blue cash flow is insufficient to fund Ford Model e losses and capital expenditure simultaneously. The dividend is cut or suspended. Shares drift to $9\u201311 as earnings disappointment persists.\n      Weight: 50%\n    \n    \n      Bear Case\n      25 / 100\n      EV adoption slows as charging infrastructure gaps and range anxiety limit consumer uptake. Ford Model e losses become existential, exceeding $6bn annually. Chinese EVs capture 15\u201320 per cent of the US market with low-priced vehicles Ford cannot compete with. Ford Blue cash flow collapses. The company requires emergency capital raise or strategic partnership at distressed terms.\n      Weight: 20%",
+      "text": "Bull Case\n      60 / 100\n      Ford Model e achieves breakeven by 2027 as EV manufacturing scale drives costs down. The F-Series remains the best-selling truck in the US, generating strong cash flow to fund the transition. Ford Pro commercial business grows at 10–15 per cent annually. The stock re-rates modestly as the market gains confidence in the EV timeline, driving the shares to $14–16.\n      Weight: 30%\n    \n    \n      Base Case\n      38 / 100\n      EV losses remain elevated at $3–5bn annually through 2027. ICE truck and SUV margins compress further as Chinese EVs enter the US market with affordable options. Ford Blue cash flow is insufficient to fund Ford Model e losses and capital expenditure simultaneously. The dividend is cut or suspended. Shares drift to $9–11 as earnings disappointment persists.\n      Weight: 50%\n    \n    \n      Bear Case\n      25 / 100\n      EV adoption slows as charging infrastructure gaps and range anxiety limit consumer uptake. Ford Model e losses become existential, exceeding $6bn annually. Chinese EVs capture 15–20 per cent of the US market with low-priced vehicles Ford cannot compete with. Ford Blue cash flow collapses. The company requires emergency capital raise or strategic partnership at distressed terms.\n      Weight: 20%",
       "bull": {
-        "scenario": "Bull Case\n      60 / 100\n      Ford Model e achieves breakeven by 2027 as EV manufacturing scale drives costs down. The F-Series remains the best-selling truck in the US, generating strong cash flow to fund the transition. Ford Pro commercial business grows at 10\u201315 per cent annually. The stock re-rates modestly as the market gains confidence in the EV timeline, driving the shares to $14\u201316.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "Bull Case\n      60 / 100\n      Ford Model e achieves breakeven by 2027 as EV manufacturing scale drives costs down. The F-Series remains the best-selling truck in the US, generating strong cash flow to fund the transition. Ford Pro commercial business grows at 10–15 per cent annually. The stock re-rates modestly as the market gains confidence in the EV timeline, driving the shares to $14–16.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
         "probability": 30
       },
       "base": {
-        "scenario": "Base Case\n      38 / 100\n      EV losses remain elevated at $3\u20135bn annually through 2027. ICE truck and SUV margins compress further as Chinese EVs enter the US market with affordable options. Ford Blue cash flow is insufficient to fund Ford Model e losses and capital expenditure simultaneously. The dividend is cut or suspended. Shares drift to $9\u201311 as earnings disappointment persists.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "Base Case\n      38 / 100\n      EV losses remain elevated at $3–5bn annually through 2027. ICE truck and SUV margins compress further as Chinese EVs enter the US market with affordable options. Ford Blue cash flow is insufficient to fund Ford Model e losses and capital expenditure simultaneously. The dividend is cut or suspended. Shares drift to $9–11 as earnings disappointment persists.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
         "probability": 50
       },
       "bear": {
@@ -47,17 +47,38 @@
       }
     },
     "keyRisks": {
-      "text": "",
-      "risks": []
+      "text": "1 EV transition cash burn: Ford Model e is burning billions of dollars annually without a clear path to breakeven. The longer the transition takes, the more ICE cash flow is consumed, potentially depl",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "EV transition cash burn: Ford Model e is burning billions of dollars annually without a clear path to breakeven. The longer the transition takes, the more ICE cash flow is consumed, potentially depleting the financial reserves needed to fund the transformation before it is complete."
+        },
+        {
+          "rank": 2,
+          "risk": "Chinese OEM competition: BYD, Geely, SAIC, and other Chinese manufacturers have achieved manufacturing cost leadership in EVs that Ford cannot replicate in the near term without dramatically higher volumes. If Chinese EVs flood the US market following tariff relief, Ford faces structural price disadvantage."
+        },
+        {
+          "rank": 3,
+          "risk": "ICE margin compression: The F-Series and core ICE vehicles are Ford's financial foundation. Competitive pressure from Ram, GM Silverado, and Japanese manufacturers, combined with industry-wide incentive escalation, is compressing the margins that fund the EV transition."
+        },
+        {
+          "rank": 4,
+          "risk": "Labour cost structure: The UAW 2023 contract adds approximately $900 per vehicle in costs and creates a challenging competitive position versus non-unionised manufacturers and international brands with lower labour cost structures."
+        },
+        {
+          "rank": 5,
+          "risk": "Technology and software execution: Ford's in-vehicle software (SYNC 4/5) and advanced driver assistance systems (BlueCruise) lag Tesla's FSD and Autopilot in consumer perception. As vehicles become software-defined platforms, this technology gap could become a meaningful competitive disadvantage."
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Appropriate For Deep-value special situations investors who see Ford's brand equity (F-Series truck franchise, Mustang brand) as providing a floor value that is not reflected in the current price Contrarians who believe the EV transition concerns are overdone and that Ford Blue cash flows are more durable than the market is pricing Short-cover squeeze candidates: Ford is one of the most-shorted US equities, creating potential for short-covering rallies on any positive news Avoid If Seeking any quality automotive franchise — GM has managed the EV transition more efficiently and with less capital destruction, making it a structurally superior holding in the sector Cannot tolerate negative earnings and dividend cuts — Ford is loss-making today with significant uncertainty about the timing and magnitude of a recovery Long-term fundamental investors who prefer Tesla's vertical integration strategy or pure EV plays over a managed transition with large legacy liabilities"
     },
     "recommendation": {
-      "text": "Conviction Score: 40/100 \u2014 SELL\n  Ford trades 18 per cent below its 52-week high with negative earnings, expanding EV losses, and Chinese OEM competition intensifying. The ICE cash cow that funds the transition is under pressure from all sides. The risk-reward does not support a buy, and existing holders should use any rallies as opportunities to reduce exposure. The SELL conviction is driven by the combination of near-term losses and structural competitive headwinds.\n  \n    Buy Below$9\n    HOLD Zone$9\u2013$12\n    Reduce Above$12\n    Stop / Sell$8"
+      "text": "Conviction Score: 40/100 — SELL\n  Ford trades 18 per cent below its 52-week high with negative earnings, expanding EV losses, and Chinese OEM competition intensifying. The ICE cash cow that funds the transition is under pressure from all sides. The risk-reward does not support a buy, and existing holders should use any rallies as opportunities to reduce exposure. The SELL conviction is driven by the combination of near-term losses and structural competitive headwinds.\n  \n    Buy Below$9\n    HOLD Zone$9–$12\n    Reduce Above$12\n    Stop / Sell$8"
     },
     "entryExit": {
-      "text": "F \u2014 Ford Motor Company (F) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $12.37 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $13.34 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $15.1 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $9.94 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": "F — Ford Motor Company (F) — Entry / Exit Framework\n\nReduce / Trim: Above $12.37 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $13.34 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $15.1 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $9.94 — partial mean reversion toward the middle of the 52-week range."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

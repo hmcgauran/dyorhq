@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. Multiple equity raises completed FY25: ~$4bn dilution to existing shareholders 2. PACE (popular incentive programme) policy changes could reduce distributed solar demand 3. Hurricane and extreme-we",
       "risks": [
         {
           "rank": 1,
@@ -78,13 +78,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Clean-energy infrastructure play on energy-transition long-term theme. Regulated utility with contracted renewables. NOT suitable for investors requiring high growth, those sensitive to equity dilution, or those needing near-term total return."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "NextEra Energy (NEE) \u2014 Entry / Exit Framework\n\nHOLD zone: $86.55\u2013$95.96 \u2014 current levels are fairly valued.\nTrim / Take Profits above $95.96 \u2014 approaching the 52-week high at $96.21.\nStop-loss: A sustained close below $62.37 (52-week low) would warrant reassessment."
+      "text": "NextEra Energy (NEE) — Entry / Exit Framework\n\nHOLD zone: $86.55–$95.96 — current levels are fairly valued.\nTrim / Take Profits above $95.96 — approaching the 52-week high at $96.21.\nStop-loss: A sustained close below $62.37 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

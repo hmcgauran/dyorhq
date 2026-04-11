@@ -84,17 +84,17 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "# Risk Description 1 Consumer spending deterioration TJX's customers are predominantly middle-income; an economic downturn disproportionately impacts spending at off-price formats despite the value po",
       "risks": []
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Ideal For Avoid Owners Quality-focused investors seeking defensive retail exposure with strong free cash flow generation Long-term compounders who can tolerate near-term valuation risk for the brand equity and sourcing moat Those looking for consumer discretionary exposure with less earnings cyclicality than most peers Avoid Value investors seeking deep-undervalue consumer names; TJX is priced for quality, not cheapness Those concerned about near-term consumer recession and unwilling to accept downside to $115-120 Investors who need high near-term yield; TJX does not pay a dividend"
     },
     "recommendation": {
       "text": "Rating: HOLD\n    TJX is one of the highest-quality retail businesses in the world, with a sourcing moat, proven management team, and strong brand franchise. However, shares trade within 2.5% of their 52-week high at 33x earnings, which leaves little room for error. A meaningful decline to $140-145 would create a more attractive risk/reward for new orpositive momentum positions.\n    \n      FrameworkDetail\n      Entry point$161.60 (current); prefer to wait for a pullback to $140-145 for improved entry\n      Target price (12 months)$178-$188 based on 32-33x base case EPS of $5.50-$5.75\n      Stop-loss$117 (below the 52-week low; would signal material consumer deterioration)\n      Position sizingHigh-quality consumer discretionary holding; 1-1.5% portfolio weight appropriate\n      Key trigger to upgradeComp store sales acceleration above 4%, confirmation that inventory supply remains robust, or meaningful tariff resolution reducing cost uncertainty"
     },
     "entryExit": {
-      "text": "TJX Companies Inc (TJX) (TJX) \u2014 Entry / Exit Framework\n\nHOLD zone: $148.67\u2013$164.83 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $148.67 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $164.83 \u2014 approaching the 52-week high at $165.82. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $117.44 (52-week low) would warrant reassessment."
+      "text": "TJX Companies Inc (TJX) (TJX) — Entry / Exit Framework\n\nHOLD zone: $148.67–$164.83 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $148.67 — material pullback that improves risk/reward.\nTrim / Take Profits above $164.83 — approaching the 52-week high at $165.82. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $117.44 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

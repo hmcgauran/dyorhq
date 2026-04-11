@@ -52,19 +52,19 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1 Valuation is far ahead of current fundamentals. 2 Quantum commercial adoption may take longer than hoped. 3 Equity dilution remains a risk for pre-profit technology firms.",
       "risks": [
         {
           "rank": 1,
-          "risk": "1Valuation is far ahead of current fundamentals."
+          "risk": "1 Valuation is far ahead of current fundamentals."
         },
         {
           "rank": 2,
-          "risk": "2Quantum commercial adoption may take longer than hoped."
+          "risk": "2 Quantum commercial adoption may take longer than hoped."
         },
         {
           "rank": 3,
-          "risk": "3Equity dilution remains a risk for pre-profit technology firms."
+          "risk": "3 Equity dilution remains a risk for pre-profit technology firms."
         }
       ]
     },

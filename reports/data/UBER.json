@@ -26,10 +26,10 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "Uber has achieved the rare combination of profitable growth, positive free cash flow and multiple secular growth drivers \u2014 ride-sharing recovery post-COVID, food delivery market leadership, and autonomous vehicle cost deflation \u2014 and the shares are undervalued relative to the quality of the franchise at 15x forward P/E \u2014 BUY is the weighted recommendation."
+      "text": "Uber has achieved the rare combination of profitable growth, positive free cash flow and multiple secular growth drivers — ride-sharing recovery post-COVID, food delivery market leadership, and autonomous vehicle cost deflation — and the shares are undervalued relative to the quality of the franchise at 15x forward P/E — BUY is the weighted recommendation."
     },
     "businessModel": {
-      "text": "Uber Technologies operates a two-sided marketplace connecting riders with drivers (Mobility) and consumers with restaurants and retailers (Delivery). It is the largest ride-sharing platform globally, with operations in approximately 70 countries, and has also built the leading food delivery marketplace in the US and many international markets. Uber's competitive moat is its network effects \u2014 more riders attract more drivers, more drivers reduce wait times, lower wait times attract more riders \u2014 and its brand as the default urban mobility app in most major cities. The company generates revenues primarily from commissions on trips and orders, advertising within the app, and freight logistics (Uber Freight). The autonomous vehicle development programme represents a potential structural shift in the cost of mobility provision."
+      "text": "Uber Technologies operates a two-sided marketplace connecting riders with drivers (Mobility) and consumers with restaurants and retailers (Delivery). It is the largest ride-sharing platform globally, with operations in approximately 70 countries, and has also built the leading food delivery marketplace in the US and many international markets. Uber's competitive moat is its network effects — more riders attract more drivers, more drivers reduce wait times, lower wait times attract more riders — and its brand as the default urban mobility app in most major cities. The company generates revenues primarily from commissions on trips and orders, advertising within the app, and freight logistics (Uber Freight). The autonomous vehicle development programme represents a potential structural shift in the cost of mobility provision."
     },
     "financialSnapshot": {
       "text": "</div>",
@@ -61,16 +61,16 @@
       ]
     },
     "recentCatalysts": {
-      "text": "Uber posted its first full year of GAAP profitability in 2023 and has maintained positive adjusted EBITDA and free cash flow since. The company's Mobility segment has benefited from a sustained recovery in urban travel post-COVID, with trip volumes and revenue per trip both growing. Delivery has reached a scale where it is sustainably profitable on a segment basis \u2014 a critical milestone that validates the two-sided marketplace model. Uber has secured multiple AV partnerships (Waymo, Cruise, Aurora) to integrate autonomous vehicles into its network before it needs to build its own AV capability. The Uber One membership programme and advertising business are creating higher-margin, recurring revenue streams that improve the overall business quality profile."
+      "text": "Uber posted its first full year of GAAP profitability in 2023 and has maintained positive adjusted EBITDA and free cash flow since. The company's Mobility segment has benefited from a sustained recovery in urban travel post-COVID, with trip volumes and revenue per trip both growing. Delivery has reached a scale where it is sustainably profitable on a segment basis — a critical milestone that validates the two-sided marketplace model. Uber has secured multiple AV partnerships (Waymo, Cruise, Aurora) to integrate autonomous vehicles into its network before it needs to build its own AV capability. The Uber One membership programme and advertising business are creating higher-margin, recurring revenue streams that improve the overall business quality profile."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (83): Autonomous vehicle (AV) deployment reduces cost-per-mile materially, improving unit economics without eliminating the driver model. Uber maintains network effects advantage in mobility and delivery as the platform of record for urban mobility. Advertising revenue grows to $1bn+ annually. EPS exceeds $4.00. Price: $90+.\n            Base Case (50): Ride-sharing continues its steady recovery in developed markets. Delivery (Uber Eats) maintains profitability and market share. AV deployment is gradual and primarily affects long-distance highway segments initially. Driver supply remains adequate. EPS grows to $3.00\u2013$3.50. Price: $72\u2013$82.\n            Bear Case (40): California AB5 regulations and similar 'gig worker' classification rules increase driver costs significantly. AV deployment is faster than expected, disrupting the driver supply model before Uber's platform has adapted. Competitive pressure from Lyft, DoorDash and Waymoerosion network effects. Price: below $58.\n            Weighted Score: 83 \u2014 Bull 83 \u00d7 30% + Base 50 \u00d7 50% + Bear 40 \u00d7 20%",
+      "text": "Bull Case (83): Autonomous vehicle (AV) deployment reduces cost-per-mile materially, improving unit economics without eliminating the driver model. Uber maintains network effects advantage in mobility and delivery as the platform of record for urban mobility. Advertising revenue grows to $1bn+ annually. EPS exceeds $4.00. Price: $90+.\n            Base Case (50): Ride-sharing continues its steady recovery in developed markets. Delivery (Uber Eats) maintains profitability and market share. AV deployment is gradual and primarily affects long-distance highway segments initially. Driver supply remains adequate. EPS grows to $3.00–$3.50. Price: $72–$82.\n            Bear Case (40): California AB5 regulations and similar 'gig worker' classification rules increase driver costs significantly. AV deployment is faster than expected, disrupting the driver supply model before Uber's platform has adapted. Competitive pressure from Lyft, DoorDash and Waymoerosion network effects. Price: below $58.\n            Weighted Score: 83 — Bull 83 × 30% + Base 50 × 50% + Bear 40 × 20%",
       "bull": {
         "scenario": "Bull Case (83): Autonomous vehicle (AV) deployment reduces cost-per-mile materially, improving unit economics without eliminating the driver model. Uber maintains network effects advantage in mobility and delivery as the platform of record for urban mobility. Advertising revenue grows to $1bn+ annually. EPS exceeds $4.00. Price: $90+.",
         "probability": null
       },
       "base": {
-        "scenario": "Base Case (50): Ride-sharing continues its steady recovery in developed markets. Delivery (Uber Eats) maintains profitability and market share. AV deployment is gradual and primarily affects long-distance highway segments initially. Driver supply remains adequate. EPS grows to $3.00\u2013$3.50. Price: $72\u2013$82.",
+        "scenario": "Base Case (50): Ride-sharing continues its steady recovery in developed markets. Delivery (Uber Eats) maintains profitability and market share. AV deployment is gradual and primarily affects long-distance highway segments initially. Driver supply remains adequate. EPS grows to $3.00–$3.50. Price: $72–$82.",
         "probability": null
       },
       "bear": {
@@ -79,7 +79,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Gig worker classification risk: Uber's business model depends on classifying drivers as independent contractors rather than employees. AB5 in California, similar legislation in other US states, and EU",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Growth and total return investors who want exposure to platform-economy businesses with genuine profitability, multiple secular growth levers and a network-effect moat. Uber is the most attractively valued large-cap platform business relative to its growth profile. Avoiders: Investors who require high dividend yields (Uber pays no dividend), ESG-mandated funds that penalise gig economy labour practices, or investors with very low risk tolerance who are uncomfortable with the regulatory risk embedded in the model."
     },
     "recommendation": {
-      "text": "BUY. BUY below $52 (approximately 12x forward P/E on base-case $4 EPS \u2014 below the average P/E of other high-quality platform businesses). Reduce above $82 (approximately 19x forward P/E \u2014 fully prices the AV opportunity and network effects; the margin of safety is insufficient at this level)."
+      "text": "BUY. BUY below $52 (approximately 12x forward P/E on base-case $4 EPS — below the average P/E of other high-quality platform businesses). Reduce above $82 (approximately 19x forward P/E — fully prices the AV opportunity and network effects; the margin of safety is insufficient at this level)."
     },
     "entryExit": {
-      "text": "Uber Technologies Inc (UBER) \u2014 Entry / Exit Framework\n\nAccumulate: $62.02\u2013$66.96 \u2014 pullback zone within the 52-week range. The stock is attractively priced relative to the recent move.\nStop-loss: $65.04 \u2014 a close below the 52-week low would signal fundamental deterioration.\nTarget 1: $86.69 \u2014 mean reversion toward the midpoint of the 52-week range. Near-term catalyst needed to confirm momentum.\nTarget 2: $107.09 \u2014 above the 52-week high on sustained volume. Only appropriate for position-initiation with conviction."
+      "text": "Uber Technologies Inc (UBER) — Entry / Exit Framework\n\nAccumulate: $62.02–$66.96 — pullback zone within the 52-week range. The stock is attractively priced relative to the recent move.\nStop-loss: $65.04 — a close below the 52-week low would signal fundamental deterioration.\nTarget 1: $86.69 — mean reversion toward the midpoint of the 52-week range. Near-term catalyst needed to confirm momentum.\nTarget 2: $107.09 — above the 52-week high on sustained volume. Only appropriate for position-initiation with conviction."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

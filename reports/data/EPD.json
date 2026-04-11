@@ -69,7 +69,7 @@
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "ScenarioScoreProbabilityCommentary\n    \n      Bull4230%NGL export surge, LNG feed-gas demand spikes, successful new project execution drives distribution growth above 4%; EPD trades at 17x+ earnings.\n    \n    \n      Base3850%Stable fee-based earnings; distribution growth in the 2-3% range; modest volume growth; EPD rerates to 15-16x range, in line with peers.\n    \n    \n      Bear3220%Recession crushes energy demand; LNG export cancellations; commodity price collapse reduces throughput; distribution cut risk rises; EPD falls to 11-12x earnings.\n    \n  \n  \n    Conviction Score: 42\u00d70.30 + 38\u00d70.50 + 32\u00d70.20 = 37.6\n    Bear and bull scenarios both pull toward a mid-range HOLD.",
+      "text": "ScenarioScoreProbabilityCommentary\n    \n      Bull4230%NGL export surge, LNG feed-gas demand spikes, successful new project execution drives distribution growth above 4%; EPD trades at 17x+ earnings.\n    \n    \n      Base3850%Stable fee-based earnings; distribution growth in the 2-3% range; modest volume growth; EPD rerates to 15-16x range, in line with peers.\n    \n    \n      Bear3220%Recession crushes energy demand; LNG export cancellations; commodity price collapse reduces throughput; distribution cut risk rises; EPD falls to 11-12x earnings.\n    \n  \n  \n    Conviction Score: 42×0.30 + 38×0.50 + 32×0.20 = 37.6\n    Bear and bull scenarios both pull toward a mid-range HOLD.",
       "bull": {
         "scenario": "bull scenarios both pull toward a mid-range HOLD.",
         "probability": null
@@ -84,17 +84,17 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "# Risk Description 1 Commodity exposure creep Despite fee-based emphasis, EPD retains some direct commodity exposure via keepwhole and percentage-of-proceeds contracts; prolonged low commodity prices ",
       "risks": []
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Ideal For Avoid Owners Income-focused investors seeking MLP exposure with distribution sustainability Long-duration energy infrastructure investors who value fee-based cash flows Those seeking an energy-sector inflation hedge with lower beta than E&amp;P companies Avoid Growth-oriented investors needing capital appreciation in the portfolio Investors seeking exposure to high-conviction energy upside via direct E&amp;P plays Those unwilling to navigate K-1 tax complexity and unrelated business taxable income"
     },
     "recommendation": {
       "text": "Rating: HOLD\n    EPD is a well-managed midstream franchise and one of the highest-quality MLPs in the market. Fee-based contract structures provide meaningful earnings stability, and the distribution has grown uninterrupted for over 25 years. However, the distribution growth rate has decelerated to low single-digits, the shares trade near the top of their 52-week range, and the valuation at ~14x earnings is not compelling relative to the modest capital appreciation potential.\n    \n      FrameworkDetail\n      Entry point$37.35 (current); consider adding on pullbacks below $32.00 for improved risk/reward\n      Target price (12 months)$41.00-$44.00 (13-15% upside), equating to ~17x base case EPS\n      Stop-loss$27.50 (approximately 26% decline from entry; sits below the 52-week low)\n      Position sizingCore energy infrastructure holding; 1-2% portfolio weight appropriate for most\n      Key trigger to upgradeLNG export demand acceleration or meaningful Bayou Bend CCS contract additions that increase fee-based revenue share"
     },
     "entryExit": {
-      "text": "Enterprise Products Partners L.P. (EPD) (EPD) \u2014 Entry / Exit Framework\n\nHOLD zone: $34.36\u2013$38.1 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $34.36 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $38.1 \u2014 approaching the 52-week high at $39.74. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $29.07 (52-week low) would warrant reassessment."
+      "text": "Enterprise Products Partners L.P. (EPD) (EPD) — Entry / Exit Framework\n\nHOLD zone: $34.36–$38.1 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $34.36 — material pullback that improves risk/reward.\nTrim / Take Profits above $38.1 — approaching the 52-week high at $39.74. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $29.07 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

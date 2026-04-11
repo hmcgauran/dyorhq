@@ -29,9 +29,9 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Completed spinoff of Kenvue (consumer health) Q4 2023 \u2014 cleaner P&L profile\n    Carvykti (cilta-cel) BCMA CAR-T approved Q1 2024, showing strong launch trajectory\n    Acquisition of Shockwave Medical (2024) adds $1.1bn coronary IVL franchise\n    Pipeline: lazertinib (Lung cancer), andatorysen (solid tumours) in pivotal trials",
+      "text": "Completed spinoff of Kenvue (consumer health) Q4 2023 — cleaner P&L profile\n    Carvykti (cilta-cel) BCMA CAR-T approved Q1 2024, showing strong launch trajectory\n    Acquisition of Shockwave Medical (2024) adds $1.1bn coronary IVL franchise\n    Pipeline: lazertinib (Lung cancer), andatorysen (solid tumours) in pivotal trials",
       "items": [
-        "Completed spinoff of Kenvue (consumer health) Q4 2023 \u2014 cleaner P&L profile",
+        "Completed spinoff of Kenvue (consumer health) Q4 2023 — cleaner P&L profile",
         "Carvykti (cilta-cel) BCMA CAR-T approved Q1 2024, showing strong launch trajectory",
         "Acquisition of Shockwave Medical (2024) adds $1.1bn coronary IVL franchise",
         "Pipeline: lazertinib (Lung cancer), andatorysen (solid tumours) in pivotal trials"
@@ -53,11 +53,11 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1. Stelara (ustekinumab) lost US exclusivity March 2025 — $10bn+ revenue headwind 2. Darwin acquisition (Imedium) adds operational complexity in med-tech adds operational complexity in med-tech 3. Imm",
       "risks": [
         {
           "rank": 1,
-          "risk": "1. Stelara (ustekinumab) lost US exclusivity March 2025 \u2014 $10bn+ revenue headwind"
+          "risk": "1. Stelara (ustekinumab) lost US exclusivity March 2025 — $10bn+ revenue headwind"
         },
         {
           "rank": 2,
@@ -78,13 +78,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Balanced-approach healthcare allocators seeking mid-single-digit total return with lower volatility than pure pharma. Med-tech exposure without owning a separate device name. NOT suitable for investors requiring near-term revenue growth acceleration."
     },
     "recommendation": {
       "text": ""
     },
     "entryExit": {
-      "text": "Johnson & Johnson (JNJ) \u2014 Entry / Exit Framework\n\nHOLD zone: $219.38\u2013$243.23 \u2014 current levels are fairly valued.\nTrim / Take Profits above $243.23 \u2014 approaching the 52-week high at $251.71.\nStop-loss: A sustained close below $143.2 (52-week low) would warrant reassessment."
+      "text": "Johnson & Johnson (JNJ) — Entry / Exit Framework\n\nHOLD zone: $219.38–$243.23 — current levels are fairly valued.\nTrim / Take Profits above $243.23 — approaching the 52-week high at $251.71.\nStop-loss: A sustained close below $143.2 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

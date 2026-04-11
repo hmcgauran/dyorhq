@@ -26,10 +26,10 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "Texas Instruments is a high-quality analog and embedded semiconductor company with strong free cash flow generation, pricing power derived from its catalog-based model and a long runway of industrial and automotive content growth \u2014 but the current P/E of 39x is not sufficiently discounted for a cyclical business with limited visible secular acceleration \u2014 HOLD is the weighted recommendation."
+      "text": "Texas Instruments is a high-quality analog and embedded semiconductor company with strong free cash flow generation, pricing power derived from its catalog-based model and a long runway of industrial and automotive content growth — but the current P/E of 39x is not sufficiently discounted for a cyclical business with limited visible secular acceleration — HOLD is the weighted recommendation."
     },
     "businessModel": {
-      "text": "Texas Instruments is the world's largest analog semiconductor company by revenue, producing tens of thousands of analog chips, embedded processors and other semiconductor products that are sold through a combination of direct sales channels and distribution. Unlike leading-edge digital chipmakers (NVIDIA, Intel), TI operates in the 'analog and embedded' segment where the competitive moat is built on process technology (proprietary 300mm wafer fabrication), a vast catalog of hard-to-replicate precision parts, and decades of customer design-win relationships. TI's devices are essential components in virtually every electronic system \u2014 power management, signal conditioning, data conversion \u2014 which makes the business a proxy on global industrial and automotive activity. The company is noted for its conservative accounting, high insider ownership, and aggressive share buyback programme funded by robust free cash flow generation."
+      "text": "Texas Instruments is the world's largest analog semiconductor company by revenue, producing tens of thousands of analog chips, embedded processors and other semiconductor products that are sold through a combination of direct sales channels and distribution. Unlike leading-edge digital chipmakers (NVIDIA, Intel), TI operates in the 'analog and embedded' segment where the competitive moat is built on process technology (proprietary 300mm wafer fabrication), a vast catalog of hard-to-replicate precision parts, and decades of customer design-win relationships. TI's devices are essential components in virtually every electronic system — power management, signal conditioning, data conversion — which makes the business a proxy on global industrial and automotive activity. The company is noted for its conservative accounting, high insider ownership, and aggressive share buyback programme funded by robust free cash flow generation."
     },
     "financialSnapshot": {
       "text": "</div>",
@@ -61,16 +61,16 @@
       ]
     },
     "recentCatalysts": {
-      "text": "The analog and embedded semiconductor market is in a post-COVID inventory correction that has weighed on TI's revenues for over 18 months. However, the structural growth drivers \u2014 industrial automation, electric vehicles (which use 3\u20134x more analog content per vehicle versus ICE vehicles), renewable energy infrastructure and the Internet of Things \u2014 remain intact and are expected to drive a recovery in demand once distribution channel inventory normalises. TI's expansion of its 300mm analog capacity (RFAB2, LFAB) is the most significant capital investment programme in the company's history and is expected to expand the company's analog production capacity by approximately 40%, providing a structural cost advantage as volumes recover."
+      "text": "The analog and embedded semiconductor market is in a post-COVID inventory correction that has weighed on TI's revenues for over 18 months. However, the structural growth drivers — industrial automation, electric vehicles (which use 3–4x more analog content per vehicle versus ICE vehicles), renewable energy infrastructure and the Internet of Things — remain intact and are expected to drive a recovery in demand once distribution channel inventory normalises. TI's expansion of its 300mm analog capacity (RFAB2, LFAB) is the most significant capital investment programme in the company's history and is expected to expand the company's analog production capacity by approximately 40%, providing a structural cost advantage as volumes recover."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (73): Analog and embedded semiconductor demand from industrial automation, electric vehicles and renewable energy accelerates beyond current management guidance. Inventory corrections in the distribution channel end. China domestic substitution demand supports revenues. TXN achieves 20%+ operating margins again. EPS grows to $7.50+. Price: $255+.\n            Base Case (50): Industrial end-markets stabilise in H2 2026 without a meaningful recovery. Automotive content growth (EVs require 3\u20134x more analog content per vehicle) provides partial offset. Consumer electronics remains weak. EPS grows at mid-single digits. Price: $200\u2013$225.\n            Bear Case (40): Industrial semiconductor demand falls further as manufacturing activity contracts globally. China domestic substitution demand plateaus as inventory destocking extends. Consumer end-markets deteriorate. TXN's analog content in automotive fails to offset volume declines. EPS falls below $4.50. Price: below $155.\n            Weighted Score: 73 \u2014 Bull 73 \u00d7 30% + Base 50 \u00d7 50% + Bear 40 \u00d7 20%",
+      "text": "Bull Case (73): Analog and embedded semiconductor demand from industrial automation, electric vehicles and renewable energy accelerates beyond current management guidance. Inventory corrections in the distribution channel end. China domestic substitution demand supports revenues. TXN achieves 20%+ operating margins again. EPS grows to $7.50+. Price: $255+.\n            Base Case (50): Industrial end-markets stabilise in H2 2026 without a meaningful recovery. Automotive content growth (EVs require 3–4x more analog content per vehicle) provides partial offset. Consumer electronics remains weak. EPS grows at mid-single digits. Price: $200–$225.\n            Bear Case (40): Industrial semiconductor demand falls further as manufacturing activity contracts globally. China domestic substitution demand plateaus as inventory destocking extends. Consumer end-markets deteriorate. TXN's analog content in automotive fails to offset volume declines. EPS falls below $4.50. Price: below $155.\n            Weighted Score: 73 — Bull 73 × 30% + Base 50 × 50% + Bear 40 × 20%",
       "bull": {
         "scenario": "Bull Case (73): Analog and embedded semiconductor demand from industrial automation, electric vehicles and renewable energy accelerates beyond current management guidance. Inventory corrections in the distribution channel end. China domestic substitution demand supports revenues. TXN achieves 20%+ operating margins again. EPS grows to $7.50+. Price: $255+.",
         "probability": 20
       },
       "base": {
-        "scenario": "Base Case (50): Industrial end-markets stabilise in H2 2026 without a meaningful recovery. Automotive content growth (EVs require 3\u20134x more analog content per vehicle) provides partial offset. Consumer electronics remains weak. EPS grows at mid-single digits. Price: $200\u2013$225.",
+        "scenario": "Base Case (50): Industrial end-markets stabilise in H2 2026 without a meaningful recovery. Automotive content growth (EVs require 3–4x more analog content per vehicle) provides partial offset. Consumer electronics remains weak. EPS grows at mid-single digits. Price: $200–$225.",
         "probability": null
       },
       "bear": {
@@ -79,7 +79,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Industrial cycle risk: TI is a high-quality cyclical. The current inventory correction has been more prolonged than management originally guided. Industrial end-market demand may not recover in 2026, ",
       "risks": [
         {
           "rank": 1,
@@ -91,7 +91,7 @@
         },
         {
           "rank": 3,
-          "risk": "China risk: Approximately 20\u201325% of TI revenues are China-related. US export controls on advanced semiconductor technology, Chinese domestic substitution and potential further escalation of technology export restrictions create meaningful revenue uncertainty in this segment."
+          "risk": "China risk: Approximately 20–25% of TI revenues are China-related. US export controls on advanced semiconductor technology, Chinese domestic substitution and potential further escalation of technology export restrictions create meaningful revenue uncertainty in this segment."
         },
         {
           "rank": 4,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Quality-focused investors seeking a wide-moat semiconductor business with pricing power, strong FCF and a proven long-term capital allocation track record. Appropriate as a core semiconductor holding with a 5+ year horizon. Avoiders: Investors looking for near-term momentum or cyclical recovery timing. TXN has historically not re-rate toward peak multiples during early-cycle recoveries — patience is required. Near-term focused investors will find better risk-reward elsewhere."
     },
     "recommendation": {
-      "text": "HOLD. BUY below $170 (approximately 28x forward P/E on base-case EPS \u2014 near the lower end of TI's historical trading range). Reduce above $240 (approximately 40x forward P/E on base-case \u2014 fully pricing the 300mm capacity investment and leaves no margin of safety for the cyclical recovery thesis)."
+      "text": "HOLD. BUY below $170 (approximately 28x forward P/E on base-case EPS — near the lower end of TI's historical trading range). Reduce above $240 (approximately 40x forward P/E on base-case — fully pricing the 300mm capacity investment and leaves no margin of safety for the cyclical recovery thesis)."
     },
     "entryExit": {
-      "text": "Texas Instruments Inc (TXN) \u2014 Entry / Exit Framework\n\nHOLD zone: $197.55\u2013$219.02 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $197.55 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $219.02 \u2014 approaching the 52-week high at $231.32. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $137.15 (52-week low) would warrant reassessment."
+      "text": "Texas Instruments Inc (TXN) — Entry / Exit Framework\n\nHOLD zone: $197.55–$219.02 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $197.55 — material pullback that improves risk/reward.\nTrim / Take Profits above $219.02 — approaching the 52-week high at $231.32. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $137.15 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

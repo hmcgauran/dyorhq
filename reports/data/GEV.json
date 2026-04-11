@@ -64,7 +64,7 @@
       "text": "GE Vernova Inc has been navigating the current market environment with its core industrials franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (87): Data centre power demand accelerates the gas turbine and grid equipment backlog materially. HVDC and grid automation businesses exceed growth targets. LNG terminal buildout adds incremental revenue. EPS grows to $22+. Price: $1,150+.\n            Base Case (73): Strong grid modernisation and energy transition spending sustains high-single-digit revenue growth. Gas turbine service backlog provides earnings visibility. EPS grows to $19-21. Price: $980-1,080.\n            Bear Case (52): Data centre power demand growth slows as hyperscalers ration capex. Gas turbine new-build orders disappoint. Competition in grid automation (Siemens, ABB) intensifies. EPS falls to $15-16. Price: below $820.\n            Weighted Score: 73 \u2014 Bull 87 \u00d7 30% + Base 73 \u00d7 50% + Bear 52 \u00d7 20%",
+      "text": "Bull Case (87): Data centre power demand accelerates the gas turbine and grid equipment backlog materially. HVDC and grid automation businesses exceed growth targets. LNG terminal buildout adds incremental revenue. EPS grows to $22+. Price: $1,150+.\n            Base Case (73): Strong grid modernisation and energy transition spending sustains high-single-digit revenue growth. Gas turbine service backlog provides earnings visibility. EPS grows to $19-21. Price: $980-1,080.\n            Bear Case (52): Data centre power demand growth slows as hyperscalers ration capex. Gas turbine new-build orders disappoint. Competition in grid automation (Siemens, ABB) intensifies. EPS falls to $15-16. Price: below $820.\n            Weighted Score: 73 — Bull 87 × 30% + Base 73 × 50% + Bear 52 × 20%",
       "bull": {
         "scenario": "Bull Case (87): Data centre power demand accelerates the gas turbine and grid equipment backlog materially. HVDC and grid automation businesses exceed growth targets. LNG terminal buildout adds incremental revenue. EPS grows to $22+. Price: $1,150+.",
         "probability": null
@@ -79,7 +79,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Execution risk on backlog conversion: GE Vernova has a large installed base and ambitious service margin targets. Service profitability assumptions may prove optimistic. Data centre demand cyclicality",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Thematic investors seeking pure-play exposure to the power infrastructure supercycle driven by AI data centre demand, electrification and grid modernisation. Avoiders: Value and mean-reversion investors should avoid at current multiples. Short-term investors with no tolerance for volatility in expensive stocks should sit this out."
     },
     "recommendation": {
       "text": "BUY. BUY with a 12-15% portfolio allocation. Accumulate on pullbacks below $900.\n            Reduce or take profits if multiple re-rates above 65x P/E without EPS revisions."
     },
     "entryExit": {
-      "text": "GE Vernova Inc (GEV) \u2014 Entry / Exit Framework\n\nHOLD zone: $912.01\u2013$1011.15 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $912.01 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $1011.15 \u2014 approaching the 52-week high at $999.43. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $299.88 (52-week low) would warrant reassessment."
+      "text": "GE Vernova Inc (GEV) — Entry / Exit Framework\n\nHOLD zone: $912.01–$1011.15 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $912.01 — material pullback that improves risk/reward.\nTrim / Take Profits above $1011.15 — approaching the 52-week high at $999.43. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $299.88 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

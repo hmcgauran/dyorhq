@@ -75,38 +75,38 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Macroeconomic sensitivity — Sector earnings are correlated with global growth, interest rates, and input cost inflation. Currency risk — GBP/EUR/USD exposure on reported revenues and costs. Competitiv",
       "risks": [
         {
           "rank": 1,
-          "risk": "Macroeconomic sensitivity \u2014 Sector earnings are correlated with global growth, interest rates, and input cost inflation."
+          "risk": "Macroeconomic sensitivity — Sector earnings are correlated with global growth, interest rates, and input cost inflation."
         },
         {
           "rank": 2,
-          "risk": "Currency risk \u2014 GBP/EUR/USD exposure on reported revenues and costs."
+          "risk": "Currency risk — GBP/EUR/USD exposure on reported revenues and costs."
         },
         {
           "rank": 3,
-          "risk": "Competitive dynamics \u2014 Pricing pressure from peers or new entrants."
+          "risk": "Competitive dynamics — Pricing pressure from peers or new entrants."
         },
         {
           "rank": 4,
-          "risk": "Liquidity and spread risk \u2014 As a non-primary-listing Irish stock, bid/offer spreads may be wide."
+          "risk": "Liquidity and spread risk — As a non-primary-listing Irish stock, bid/offer spreads may be wide."
         },
         {
           "rank": 5,
-          "risk": "Regulatory and political risk \u2014 Trade policy, FDI screening, and ESG regulation affecting sector."
+          "risk": "Regulatory and political risk — Trade policy, FDI screening, and ESG regulation affecting sector."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Long-term institutional investors seeking diversified industrial/technology/healthcare exposure with a value tilt. Suitable for portfolios that can tolerate moderate volatility and currency risk. Avoid: Short-term traders seeking momentum. Investors requiring high liquidity or expecting near-term catalysts."
     },
     "recommendation": {
-      "text": "REDUCE \u2014 Conviction: 50/100. Enter on pullbacks toward the 52-week low for better risk/reward. Reduce or exit on strength exceeding the 52-week high on volume. No explicit price target is issued; investors should size positions commensurate with conviction level and portfolio risk budget.\n            Entry framework: Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
+      "text": "REDUCE — Conviction: 50/100. Enter on pullbacks toward the 52-week low for better risk/reward. Reduce or exit on strength exceeding the 52-week high on volume. No explicit price target is issued; investors should size positions commensurate with conviction level and portfolio risk budget.\n            Entry framework: Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
     },
     "entryExit": {
-      "text": "STERIS plc (STE) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $227.03 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $244.84 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $274.83 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $226.78 \u2014 partial mean reversion toward the middle of the 52-week range."
+      "text": "STERIS plc (STE) — Entry / Exit Framework\n\nReduce / Trim: Above $227.03 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $244.84 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $274.83 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $226.78 — partial mean reversion toward the middle of the 52-week range."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

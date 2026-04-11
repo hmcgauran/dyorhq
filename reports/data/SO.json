@@ -28,7 +28,7 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "Southern Company operates a best-in-class regulated utility franchise with visible rate base growth and a constructive regulatory environment in its core Georgia jurisdiction, but the shares trade at a premium P/E for a low-growth business \u2014 HOLD is the weighted recommendation."
+      "text": "Southern Company operates a best-in-class regulated utility franchise with visible rate base growth and a constructive regulatory environment in its core Georgia jurisdiction, but the shares trade at a premium P/E for a low-growth business — HOLD is the weighted recommendation."
     },
     "businessModel": {
       "text": "Southern Company is one of the largest regulated electric utility holding companies in the US, serving approximately 9 million customer accounts across Georgia, Alabama, Mississippi and Florida. Its principal subsidiary, Georgia Power, is the largest of the operating companies and operates under a constructive, forward-looking rate regulation framework with the Georgia Public Service Commission (Georgia PSC). Southern also operates natural gas distribution businesses and owns a competitive generation subsidiary, Southern Power, selling wholesale power. The company's capital investment programme (focused on grid modernisation, reliability and clean generation) is expected to grow the rate base at a mid-single-digit compound annual growth rate over the medium term."
@@ -66,22 +66,22 @@
       "text": "Plant Vogtle Units 3 and 4, the largest new nuclear construction project in US history, reached commercial operation in 2023 and 2024 respectively. While capacity factors have required adjustment periods, the units are now contributing materially to earnings and cash flow. Georgia Power's rate case proceedings are ongoing, with a decision expected in 2026 that could provide additional rate base relief. The Inflation Reduction Act provides investment tax credits for clean generation capex that benefit Southern's renewable buildout programme. Load growth from data centre electrification and reshoring manufacturing is a nascent but meaningful new demand driver for the Georgia grid."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (65): Georgia PSC approves rate case relief consistent with management's request. Plant Vogtle Units 3 and 4 reach stable commercial operation with improved capacity factors. Economy recovers and industrial load growth accelerates. EPS grows at 5\u20136% annually. Price: $105+.\n            Base Case (50): Vogtle Units 3 and 4 operate within adjusted capacity parameters. Rate base growth of 5% annually is achieved in Georgia. Regulatory outcomes are neutral to modestly positive across jurisdictions. EPS grows at 4\u20135% annually. Price: $93\u2013$100.\n            Bear Case (40): Vogtle operational issues persist or require further capital injections. Georgia PSC rules adversely on the next rate case. Economic slowdown reduces industrial load growth. Regulators in other jurisdictions follow a less supportive posture. EPS growth decelerates to 2\u20133%. Price: below $78.\n            Weighted Score: 65 \u2014 Bull 65 \u00d7 30% + Base 50 \u00d7 50% + Bear 40 \u00d7 20%",
+      "text": "Bull Case (65): Georgia PSC approves rate case relief consistent with management's request. Plant Vogtle Units 3 and 4 reach stable commercial operation with improved capacity factors. Economy recovers and industrial load growth accelerates. EPS grows at 5–6% annually. Price: $105+.\n            Base Case (50): Vogtle Units 3 and 4 operate within adjusted capacity parameters. Rate base growth of 5% annually is achieved in Georgia. Regulatory outcomes are neutral to modestly positive across jurisdictions. EPS grows at 4–5% annually. Price: $93–$100.\n            Bear Case (40): Vogtle operational issues persist or require further capital injections. Georgia PSC rules adversely on the next rate case. Economic slowdown reduces industrial load growth. Regulators in other jurisdictions follow a less supportive posture. EPS growth decelerates to 2–3%. Price: below $78.\n            Weighted Score: 65 — Bull 65 × 30% + Base 50 × 50% + Bear 40 × 20%",
       "bull": {
-        "scenario": "Bull Case (65): Georgia PSC approves rate case relief consistent with management's request. Plant Vogtle Units 3 and 4 reach stable commercial operation with improved capacity factors. Economy recovers and industrial load growth accelerates. EPS grows at 5\u20136% annually. Price: $105+.",
+        "scenario": "Bull Case (65): Georgia PSC approves rate case relief consistent with management's request. Plant Vogtle Units 3 and 4 reach stable commercial operation with improved capacity factors. Economy recovers and industrial load growth accelerates. EPS grows at 5–6% annually. Price: $105+.",
         "probability": 6
       },
       "base": {
-        "scenario": "Base Case (50): Vogtle Units 3 and 4 operate within adjusted capacity parameters. Rate base growth of 5% annually is achieved in Georgia. Regulatory outcomes are neutral to modestly positive across jurisdictions. EPS grows at 4\u20135% annually. Price: $93\u2013$100.",
+        "scenario": "Base Case (50): Vogtle Units 3 and 4 operate within adjusted capacity parameters. Rate base growth of 5% annually is achieved in Georgia. Regulatory outcomes are neutral to modestly positive across jurisdictions. EPS grows at 4–5% annually. Price: $93–$100.",
         "probability": 5
       },
       "bear": {
-        "scenario": "Bear Case (40): Vogtle operational issues persist or require further capital injections. Georgia PSC rules adversely on the next rate case. Economic slowdown reduces industrial load growth. Regulators in other jurisdictions follow a less supportive posture. EPS growth decelerates to 2\u20133%. Price: below $78.",
+        "scenario": "Bear Case (40): Vogtle operational issues persist or require further capital injections. Georgia PSC rules adversely on the next rate case. Economic slowdown reduces industrial load growth. Regulators in other jurisdictions follow a less supportive posture. EPS growth decelerates to 2–3%. Price: below $78.",
         "probability": 3
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Vogtle operational and cost risk: Units 3 and 4 have required ongoing operational refinement and have been subject to regulatory dispute over cost overruns. Any further material capital or O&M cost in",
       "risks": [
         {
           "rank": 1,
@@ -101,18 +101,18 @@
         },
         {
           "rank": 5,
-          "risk": "Valuation: At 24.8x trailing P/E, Southern trades at a premium to the regulated utility peer group average of approximately 17\u201319x. The premium is only justified if Vogtle operational performance consistently exceeds expectations."
+          "risk": "Valuation: At 24.8x trailing P/E, Southern trades at a premium to the regulated utility peer group average of approximately 17–19x. The premium is only justified if Vogtle operational performance consistently exceeds expectations."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Owners: Income-focused investors seeking a high-yield regulated electric utility with a constructive regulatory environment and above-average dividend growth prospects within the sector. Appropriate as a core income holding in a utility sleeve. Avoiders: Total return investors and growth-oriented investors will find better risk-reward in faster-growing sectors. The utility regulatory compact constrains capital appreciation potential on any reasonable investment horizon."
     },
     "recommendation": {
-      "text": "HOLD. BUY below $83 (approximately 20x forward P/E on base-case EPS \u2014 in line with peer group average). Reduce above $96 (approximately 23x P/E \u2014 Vogtle execution risk premium is not adequately compensated at this level)."
+      "text": "HOLD. BUY below $83 (approximately 20x forward P/E on base-case EPS — in line with peer group average). Reduce above $96 (approximately 23x P/E — Vogtle execution risk premium is not adequately compensated at this level)."
     },
     "entryExit": {
-      "text": "Southern Company (SO) \u2014 Entry / Exit Framework\n\nHOLD zone: $89.38\u2013$99.09 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $89.38 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $99.09 \u2014 approaching the 52-week high at $100.84. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $81.43 (52-week low) would warrant reassessment."
+      "text": "Southern Company (SO) — Entry / Exit Framework\n\nHOLD zone: $89.38–$99.09 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $89.38 — material pullback that improves risk/reward.\nTrim / Take Profits above $99.09 — approaching the 52-week high at $100.84. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $81.43 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

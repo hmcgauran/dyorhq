@@ -53,24 +53,24 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "1 Crypto market cycle: Coinbase's revenue is directly correlated with crypto asset prices and trading volumes. A sustained crypto bear market would compress earnings dramatically. This is not a busine",
       "risks": [
         {
           "rank": 1,
-          "risk": "1Crypto market cycle: Coinbase's revenue is directly correlated with crypto asset prices and trading volumes. A sustained crypto bear market would compress earnings dramatically. This is not a business that can perform independently of crypto market conditions."
+          "risk": "1 Crypto market cycle: Coinbase's revenue is directly correlated with crypto asset prices and trading volumes. A sustained crypto bear market would compress earnings dramatically. This is not a business that can perform independently of crypto market conditions."
         },
         {
           "rank": 2,
-          "risk": "2SEC regulatory risk: The SEC enforcement action creates ongoing regulatory uncertainty. A worse-than-expected outcome could restrict Coinbase's product offering in the US, which accounts for a significant share of revenue."
+          "risk": "2 SEC regulatory risk: The SEC enforcement action creates ongoing regulatory uncertainty. A worse-than-expected outcome could restrict Coinbase's product offering in the US, which accounts for a significant share of revenue."
         },
         {
           "rank": 3,
-          "risk": "3Custody concentration risk: If the Bitcoin ETFs face redemptions or regulatory restrictions, Coinbase's ETF custody revenue would decline. This is more structural than trading revenue but still crypto-market-dependent."
+          "risk": "3 Custody concentration risk: If the Bitcoin ETFs face redemptions or regulatory restrictions, Coinbase's ETF custody revenue would decline. This is more structural than trading revenue but still crypto-market-dependent."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: Investors who explicitly want high-beta Bitcoin/crypto market exposure through a regulated, liquid listed vehicle. Those who believe in continued Bitcoin appreciation and want to express that view without holding Bitcoin directly. Should avoid: Anyone who thinks they are buying a high-quality financial services business — they are buying a 3.6× Bitcoin proxy. Value investors. ESG mandates that restrict exposure to companies under SEC enforcement action."
     },
     "recommendation": {
       "text": "REDUCE — SPECULATIVE at $178.90. High-quality exchange, genuine regulatory moat, and the Bitcoin ETF custody business is a structural positive. But 3.62 beta makes this a Bitcoin trade, not a quality investment. Position sizing must reflect that."

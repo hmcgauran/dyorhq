@@ -72,11 +72,11 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Data availability risk. Market access risk. Unable to provide structured risk analysis.",
       "risks": []
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Existing holders should await data restoration before making decisions. New investors should defer until live data is available."
     },
     "recommendation": {
       "text": "HOLD - DATA UNAVAILABLE - Conviction: 50/100. Live market data from Yahoo Finance is required before a formal investment thesis can be evaluated."

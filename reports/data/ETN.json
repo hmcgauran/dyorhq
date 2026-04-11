@@ -8,7 +8,7 @@
     "datePublished": "2026-04-11",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
-    "conviction": 68,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -19,39 +19,69 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Eaton Vance is a high-quality asset manager benefiting from strong long-term flows into value and multi-asset strategies, but near-term performance headwinds and market sensitivity leave limited re-rating potential at $403.00 -- HOLD . HOLD Conviction Score: 68/100 — HOLD"
     },
     "businessModel": {
-      "text": ""
+      "text": "Eaton Vance is a diversified asset management group managing $156bn+ in assets across equities, fixed income, and alternative strategies for institutional and retail investors globally. Key strategies include value equity, floating-rate loans, and multi-asset solutions. The firm distributes primarily through financial intermediaries (wealth management platforms, independent advisers) in North America and internationally. Revenue is driven by advisory fees on AUM -- performance fees on certain alternative strategies provide additional upside. The business generates substantial free cash flow and pays a growing dividend. Geographic exposure: North America (~70%), Europe (~20%), Asia-Pacific (~10%)."
     },
     "financialSnapshot": {
-      "text": "",
+      "text": "Current Price $403.00 NYSE Market Cap $22.4B Est. via price x shares Trailing P/E 28.20x 12-month earnings EPS (TTM) $14.27 Trailing twelve months 52-Week High $432.10 -6.7% from high 52-Week Low $315.50 +27.7% from low",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "",
-      "bull": {},
-      "base": {},
-      "bear": {}
+      "text": "Bull Case 80 Target: $480.00 | EPS: $16.00 Morgan Stanley acquisition closes at or above deal price. Value and income equity strategies outperform, driving organic AUM growth. Alternative strategies generate meaningful performance fee income. EPS reaches $16.00+. Base Case 68 Target: $430.00 | EPS: $14.30 Deal closes as expected. AUM is stable in a choppy market. Value strategies deliver modest outperformance. EPS ~$14.30. Reports / ETN ETN Eaton Vance Corporation HOLD 11 April 2026 $$403.00 68 Conviction out of 100 >",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
     },
     "keyRisks": {
       "text": "",
-      "risks": []
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Acquisition deal risk:: Acquisition deal risk:  If the Morgan Stanley deal fails to close (antitrust, financing, or material change), the shares could fall materially below the $35 deal price."
+        },
+        {
+          "rank": 2,
+          "risk": "Market-sensitive AUM:: Market-sensitive AUM:  Eaton's revenues are directly proportional to AUM, which is correlated with equity and credit market levels. A bear market would compress revenues and profitability."
+        },
+        {
+          "rank": 3,
+          "risk": "Performance risk in key strategies:: Performance risk in key strategies:  If value equity strategies underperform over the next 12-18 months, institutional mandates and retail flows could reverse, reducing the AUM base."
+        },
+        {
+          "rank": 4,
+          "risk": "Distribution concentration:: Distribution concentration:  Reliance on intermediary distribution channels creates vulnerability to platform consolidation or fee compression."
+        },
+        {
+          "rank": 5,
+          "risk": "Alternative investment risk:: Alternative investment risk:  Eaton's alternative strategies involve illiquid investments and leverage that could amplify losses in a risk-off environment."
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Eaton Vance is a high-quality asset manager benefiting from strong long-term flows into value and multi-asset strategies, but near-term performance headwinds and market sensitivity leave limited re-rating potential at $403.00 --  HOLD . Eaton Vance is a diversified asset management group managing $156bn+ in assets across equities, fixed income, and alternative strategies for institutional and retail investors globally. Key strategies include value equity, floating-rate loans, and multi-asset solutions. The firm distributes primarily through financial intermediaries (wealth management platforms, independent advisers) in North America and internationally. Revenue is driven by advisory fees on AUM -- performance fees on certain alternative strategies provide additional upside. The business generates substantial free cash flow and pays a growing dividend. Geographic exposure: North America (~70%), Europe (~20%), Asia-Pacific (~10%). The pending acquisition by Morgan Stanley (announced 2024) is the dominant near-term catalyst. The all-cash deal at $35.00 per share (total enterprise value ~$1.4bn) is expected to close in 2026, subject to regulatory approval. Until then, Eaton Vance continues to generate advisory fees on a stable AUM base. Recent quarterly flows showed modest positive net flows despite market volatility, reflecting strength in income strategies. Value equity strategies have begun outperforming growth peers, which historically benefits Eaton's core investment approach. The integration planning with Morgan Stanley is reportedly underway. Eaton Vance is a high-quality asset manager benefiting from strong long-term flows into value and multi-asset strategies, but near-term performance headwinds and market sensitivity leave limited re-rating potential at $403.00 --  HOLD . Eaton Vance is a diversified asset management group managing $156bn+ in assets across equities, fixed income, and alternative strategies for institutional and retail investors globally. Key strategies include value equity, floating-rate loans, and multi-asset solutions. The firm distributes primarily through financial intermediaries (wealth management platforms, independent advisers) in North America and internationally. Revenue is driven by advisory fees on AUM -- performance fees on certain alternative strategies provide additional upside. The business generates substantial free cash flow and pays a growing dividend. Geographic exposure: North America (~70%), Europe (~20%), Asia-Pacific (~10%). The pending acquisition by Morgan Stanley (announced 2024) is the dominant near-term catalyst. The all-cash deal at $35.00 per share (total enterprise value ~$1.4bn) is expected to close in 2026, subject to regulatory approval. Until then, Eaton Vance continues to generate advisory fees on a stable AUM base. Recent quarterly flows showed modest positive net flows despite market volatility, reflecting strength in income strategies. Value equity strategies have begun outperforming growth peers, which historically benefits Eaton's core investment approach. The integration planning with Morgan Stanley is reportedly underway. Own:  Event-driven and M&A arbitrage investors positioning for the Morgan Stanley deal close. Quality income investors who want asset manager exposure with value tilt. Avoid:  Investors who believe the deal will not close or will be renegotiated. Growth-oriented investors who require earnings momentum."
     },
     "recommendation": {
-      "text": ""
+      "text": "HOLD Score: 68/100 Eaton Vance is a high-quality asset manager at an inflection point driven by the Morgan Stanley acquisition. At $403.00 the market appears to be pricing in a high probability of deal completion. HOLD is appropriate given the binary nature of the deal risk. Entry Framework: BUY below $35 (deal-entry territory with defined catalyst). HOLD in the $35-$44 range (deal uncertainty premium). REDUCE above $44 (deal is sufficiently priced in; limited upside from here). BUY below $456.00 HOLD $408.50-$456.00 REDUCE above $456.00"
     },
     "entryExit": {
-      "text": "Eaton Vance Corporation (ETN) \u2014 Entry / Exit Framework\n\nHOLD zone: $370.76\u2013$411.06 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $370.76 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $411.06 \u2014 approaching the 52-week high at $408.45. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $250.0 (52-week low) would warrant reassessment."
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -59,7 +89,7 @@
   },
   "scores": {
     "current": {
-      "score": 68,
+      "score": 50,
       "band": "HOLD",
       "date": "2026-04-11",
       "delta": "0",
@@ -68,7 +98,7 @@
     "history": [
       {
         "date": "2026-04-11",
-        "score": 68,
+        "score": 50,
         "band": "HOLD",
         "delta": "0",
         "reason": "Initial coverage"

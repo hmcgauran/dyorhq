@@ -84,17 +84,17 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "# Risk Description 1 Fuel price volatility Jet fuel is Delta's second-largest cost item; a 20% spike in fuel prices without corresponding ticket price increases would materially compress margins given",
       "risks": []
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Ideal For Avoid Owners Value and yield investors attracted to the under-10x P/E and improving free cash flow generation Cyclical investors who believe the travel secular recovery thesis still has legs Those seeking exposure to the premiumisation of air travel and the SkyMiles monetisation value chain Avoid Risk-averse or capital-preservation investors who cannot tolerate cyclical earnings volatility Those who believe current oil/commodity prices will spike materially in the next 12 months Investors with short holding periods; airline stocks are notoriously mean-reverting and can be rangebound for years"
     },
     "recommendation": {
       "text": "Rating: HOLD\n    Delta is one of the most attractively valued major US airlines, trading at under 10x trailing earnings with improving free cash flow and a world-class loyalty asset. The SkyMiles-American Express partnership renewal removes a major overhang and provides multi-year revenue visibility. The shares offer compelling upside to $85-90 on a 12-month horizon with a meaningful floor provided by the asset-intensive but cash-generative nature of the business at current prices.\n    \n      FrameworkDetail\n      Entry point$67.82 (current); attractive entry at under 10x earnings with improving fundamentals\n      Target price (12 months)$82-$90 based on 11-12x base case EPS of $7.50-$8.00\n      Stop-loss$37.00 (below the 52-week low; would indicate a fundamental deterioration in the travel demand backdrop)\n      Position sizingDeep-value cyclical position; 1.5-2% portfolio weight; do not overload given sector-specific risk\n      Key trigger to upgradeQ1 2026 earnings beat above $1.90 per share; transatlantic summer yields ahead of expectations; confirmation of above-consensus free cash flow generation"
     },
     "entryExit": {
-      "text": "Delta Air Lines Inc (DAL) (DAL) \u2014 Entry / Exit Framework\n\nHOLD zone: $62.39\u2013$69.18 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $62.39 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $69.18 \u2014 approaching the 52-week high at $76.39. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $38.02 (52-week low) would warrant reassessment."
+      "text": "Delta Air Lines Inc (DAL) (DAL) — Entry / Exit Framework\n\nHOLD zone: $62.39–$69.18 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $62.39 — material pullback that improves risk/reward.\nTrim / Take Profits above $69.18 — approaching the 52-week high at $76.39. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $38.02 (52-week low) would warrant reassessment."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",

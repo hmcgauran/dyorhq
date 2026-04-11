@@ -52,7 +52,7 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Clinical risk: the main risk, by far. Funding risk: biotech always carries capital-market sensitivity. Event volatility: valuation can move violently around data.",
       "risks": [
         {
           "rank": 1,
@@ -69,7 +69,7 @@
       ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Should own: biotech investors comfortable underwriting binary data risk. Should avoid: anyone looking for stable fundamentals or low volatility."
     },
     "recommendation": {
       "text": "HOLD — SPECULATIVE at $26.70. Worth watching and possibly holding small, but still a data-led risk asset."

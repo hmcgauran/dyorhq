@@ -8,7 +8,7 @@
     "datePublished": "2026-04-11",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
-    "conviction": 67,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -19,39 +19,69 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Korn Ferry is the world's pre-eminent executive search and talent advisory firm, benefiting from a robust hiring environment at the senior leadership level, but the cyclicality of executive recruitment and elevated valuation combine to produce a neutral risk-reward -- HOLD . HOLD Conviction Score: 67/100 — HOLD"
     },
     "businessModel": {
-      "text": ""
+      "text": "Korn Ferry is a global organisational consulting and executive search firm operating across four segments: Executive Search (retained search for C-suite and board-level positions), RPO (Recruitment Process Outsourcing) and Professional Search, Human Resources Consulting, and Due Diligence (advisory). Executive search is a high-margin, recurring-revenue business: engagements are typically one-off retained mandates, but repeat business from existing clients provides some revenue stability. The RPO business provides more recurring revenue through multi-year outsourcing contracts. Geographic exposure: Americas (~50%), EMEA (~30%), Asia-Pacific (~20%). Korn Ferry is the largest executive search firm globally by revenue."
     },
     "financialSnapshot": {
-      "text": "",
+      "text": "Current Price $67.70 NASDAQ Market Cap $3.8B Est. via price x shares Trailing P/E 12.40x 12-month earnings EPS (TTM) $5.46 Trailing twelve months 52-Week High $85.00 -20.4% from high 52-Week Low $48.00 +41.0% from low",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "",
-      "bull": {},
-      "base": {},
-      "bear": {}
+      "text": "Bull Case 82 Target: $85.00 | EPS: $7.50 Executive hiring environment re-accelerates. Korn Ferry wins major global RPO contracts. Advisory business grows at 15%+. EPS reaches $7.50+. Base Case 67 Target: $72.00 | EPS: $6.00 Modest revenue growth in a stable hiring environment. Operating margins are maintained. EPS ~$6.00. Bear Reports / KRZ KRZ Korn Ferry HOLD 11 April 2026 $$67.70 67 Conviction out of 100 >",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Reports / KRZ KRZ Korn Ferry HOLD 11 April 2026 $$67",
+        "probability": 25
+      }
     },
     "keyRisks": {
       "text": "",
-      "risks": []
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Cyclicality of executive search:: Cyclicality of executive search:  Executive search revenues are directly tied to CEO and board turnover rates, which are cyclical and decline in economic downturns."
+        },
+        {
+          "rank": 2,
+          "risk": "Competition in executive search:: Competition in executive search:  Heidrick & Struggles, Spencer Stuart (lakeside), and dozens of boutique firms compete for the same mandates. Korn Ferry's scale is an advantage but not an insurmountable moat."
+        },
+        {
+          "rank": 3,
+          "risk": "Corporate cost cutting:: Corporate cost cutting:  If companies reduce headcount in a slowdown, Korn Ferry's RPO and consulting businesses would face revenue pressure from reduced hiring activity."
+        },
+        {
+          "rank": 4,
+          "risk": "Automation of recruitment:: Automation of recruitment:  AI-driven recruitment tools are becoming more capable and could reduce the premium clients are willing to pay for executive search services."
+        },
+        {
+          "rank": 5,
+          "risk": "Leveraged balance sheet:: Leveraged balance sheet:  Korn Ferry has carried debt, which increases earnings volatility in a cyclical downturn."
+        }
+      ]
     },
     "whoShouldOwn": {
-      "text": ""
+      "text": "Korn Ferry is the world's pre-eminent executive search and talent advisory firm, benefiting from a robust hiring environment at the senior leadership level, but the cyclicality of executive recruitment and elevated valuation combine to produce a neutral risk-reward --  HOLD . Korn Ferry is a global organisational consulting and executive search firm operating across four segments: Executive Search (retained search for C-suite and board-level positions), RPO (Recruitment Process Outsourcing) and Professional Search, Human Resources Consulting, and Due Diligence (advisory). Executive search is a high-margin, recurring-revenue business: engagements are typically one-off retained mandates, but repeat business from existing clients provides some revenue stability. The RPO business provides more recurring revenue through multi-year outsourcing contracts. Geographic exposure: Americas (~50%), EMEA (~30%), Asia-Pacific (~20%). Korn Ferry is the largest executive search firm globally by revenue. Despite some moderation from the 2021-2022 peak, senior leadership hiring remains elevated as companies continue to prioritise leadership talent in a competitive environment. Korn Ferry's advisory business (human capital consulting) is growing as companies seek help with workforce planning, DEI strategy and leadership development. The shift to hybrid and remote work has created new executive hiring mandates as companies rebuild their leadership teams. Recent quarterly results showed modest revenue growth with operating margin improvement. The RPO business is winning larger, multi-year mandates as companies outsource recruitment functions. Korn Ferry is the world's pre-eminent executive search and talent advisory firm, benefiting from a robust hiring environment at the senior leadership level, but the cyclicality of executive recruitment and elevated valuation combine to produce a neutral risk-reward --  HOLD . Korn Ferry is a global organisational consulting and executive search firm operating across four segments: Executive Search (retained search for C-suite and board-level positions), RPO (Recruitment Process Outsourcing) and Professional Search, Human Resources Consulting, and Due Diligence (advisory). Executive search is a high-margin, recurring-revenue business: engagements are typically one-off retained mandates, but repeat business from existing clients provides some revenue stability. The RPO business provides more recurring revenue through multi-year outsourcing contracts. Geographic exposure: Americas (~50%), EMEA (~30%), Asia-Pacific (~20%). Korn Ferry is the largest executive search firm globally by revenue. Despite some moderation from the 2021-2022 peak, senior leadership hiring remains elevated as companies continue to prioritise leadership talent in a competitive environment. Korn Ferry's advisory business (human capital consulting) is growing as companies seek help with workforce planning, DEI strategy and leadership development. The shift to hybrid and remote work has created new executive hiring mandates as companies rebuild their leadership teams. Recent quarterly results showed modest revenue growth with operating margin improvement. The RPO business is winning larger, multi-year mandates as companies outsource recruitment functions. Own:  Human capital and talent management investors who understand the executive search cycle. The firm is the sector leader with genuine brand equity. Avoid:  Value investors and those who believe the current hiring cycle is late-stage and at risk of mean reversion."
     },
     "recommendation": {
-      "text": ""
+      "text": "HOLD Score: 67/100 Korn Ferry is the world's leading executive search franchise with a credible advisory growth vector. The current cycle is favourable but mature, and the valuation is full. HOLD is appropriate. Entry Framework: BUY below $55 (deep value entry for a quality franchise). HOLD in the $55-$80 range. REDUCE above $80 (cycle is priced in). BUY below $80.75 HOLD $68.40-$80.75 REDUCE above $80.75"
     },
     "entryExit": {
-      "text": "HOLD. Conviction: 67/100. No compelling entry or exit signal without current price data."
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -59,7 +89,7 @@
   },
   "scores": {
     "current": {
-      "score": 67,
+      "score": 50,
       "band": "HOLD",
       "date": "2026-04-11",
       "delta": "0",
@@ -68,7 +98,7 @@
     "history": [
       {
         "date": "2026-04-11",
-        "score": 67,
+        "score": 50,
         "band": "HOLD",
         "delta": "0",
         "reason": "Initial coverage"
