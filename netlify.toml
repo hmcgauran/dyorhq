@@ -1,4 +1,3 @@
 [build]
-  command = "mkdir -p public/reports public/assets/css public/assets/js && cp -rp reports/. public/reports/ && cp -rp assets/. public/assets/ && cp index.html public/ && echo 'Build OK'"
+  command = "cp -rp reports public/ && cp -rp assets public/ && cp index.html public/ && echo 'done'"
   publish = "public"
-  functions = "netlify/functions"
