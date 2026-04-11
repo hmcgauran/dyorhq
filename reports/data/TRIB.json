@@ -5,10 +5,10 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "SELL",
     "recommendationNote": "SELL",
-    "conviction": 50,
+    "conviction": 12,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -29,59 +29,59 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "No recent RNS or material corporate announcements identified. Without credible public disclosure, any investment thesis is unverifiable."
     },
     "thesisEvaluation": {
       "text": "Bull Case 28 Target: $1.50 | EPS: $-0.10 A major pharma partnership is announced for a diagnostic technology. Revenue from product sales accelerates. EPS approaches breakeven. Base Case 12 Target: $0.70 | EPS: $-0.30 Limited disclosure makes performance tracking impossible. No meaningful business development. EPS deeply negative. Bear Case 5 Target: $0.20 | EPS: $-0.60 Cash runs out. Company goes concern. No viable strategic alternatives emerge. EPS falls to -$0.60. Conviction Score (Bull 30% + Base 50% + Bear 20%): 12 / 100 — SELL",
       "bull": {
-        "scenario": "Bull 30% +",
-        "probability": 30
+        "scenario": "A major pharma partnership is announced for a diagnostic technology. Revenue from product sales accelerates. EPS approaches breakeven.",
+        "probability": null
       },
       "base": {
-        "scenario": "Base 50% +",
-        "probability": 50
+        "scenario": "Limited disclosure makes performance tracking impossible. No meaningful business development. EPS deeply negative.",
+        "probability": null
       },
       "bear": {
-        "scenario": "Bear Case 5 Target: $0",
-        "probability": 25
+        "scenario": "Cash runs out. Company goes concern. No viable strategic alternatives emerge. EPS falls to -$0.60.",
+        "probability": null
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Reports / TRIB TRIB Trinity Biosystems SELL 11 April 2026 $$0.71 12 Conviction out of 100 >",
       "risks": [
         {
           "rank": 1,
-          "risk": "Cash runway and capital exhaustion:: Cash runway and capital exhaustion:  Micro-cap life sciences companies typically burn through cash rapidly with no revenues to show for it."
+          "risk": "#1 Cash runway and capital exhaustion: Micro-cap life sciences companies typically burn through cash rapidly with no revenues to show for it."
         },
         {
           "rank": 2,
-          "risk": "Competitive dynamics in diagnostics:: Competitive dynamics in diagnostics:  Life sciences tools and diagnostics is a Danaher/Thermo Fisher-dominated world. Small challengers face an enormous sales, marketing, and distribution challenge."
+          "risk": "#2 Competitive dynamics in diagnostics: Life sciences tools and diagnostics is a Danaher/Thermo Fisher-dominated world. Small challengers face an enormous sales, marketing, and distribution challenge."
         },
         {
           "rank": 3,
-          "risk": "Lack of financial disclosure:: Lack of financial disclosure:  Pink Sheets listing means limited regulatory financial disclosure, making investment analysis unverifiable."
+          "risk": "#3 Lack of financial disclosure: Pink Sheets listing means limited regulatory financial disclosure, making investment analysis unverifiable."
         },
         {
           "rank": 4,
-          "risk": "Regulatory risk in diagnostics:: Regulatory risk in diagnostics:  Any diagnostic products require FDA approval (or equivalent), which is expensive, time-consuming, and uncertain."
+          "risk": "#4 Regulatory risk in diagnostics: Any diagnostic products require FDA approval (or equivalent), which is expensive, time-consuming, and uncertain."
         },
         {
           "rank": 5,
-          "risk": "ADR liquidity:: ADR liquidity:  Extremely thin trading liquidity on OTC markets makes any exit at reasonable prices essentially impossible."
+          "risk": "#5 ADR liquidity: Extremely thin trading liquidity on OTC markets makes any exit at reasonable prices essentially impossible."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": "Trinity Biosystems is a micro-cap life sciences tools company listed on Pink Sheets with no viable investment thesis at $0.71 --  SELL . Trinity Biosystems appears to be a small life sciences tools or diagnostics company, likely developing molecular biology reagents, diagnostic tests, or laboratory equipment. Public information is extremely limited. The life sciences tools and diagnostics market is highly competitive, dominated by large global players (Thermo Fisher, Danaher, Roche) with significantly greater resources for R&D and commercial execution. Micro-cap diagnostics and tools companies face particular challenges in achieving the scale and customer penetration necessary to generate sustainable revenues. No recent RNS or material corporate announcements identified. Without credible public disclosure, any investment thesis is unverifiable. Trinity Biosystems is a micro-cap life sciences tools company listed on Pink Sheets with no viable investment thesis at $0.71 --  SELL . Trinity Biosystems appears to be a small life sciences tools or diagnostics company, likely developing molecular biology reagents, diagnostic tests, or laboratory equipment. Public information is extremely limited. The life sciences tools and diagnostics market is highly competitive, dominated by large global players (Thermo Fisher, Danaher, Roche) with significantly greater resources for R&D and commercial execution. Micro-cap diagnostics and tools companies face particular challenges in achieving the scale and customer penetration necessary to generate sustainable revenues. No recent RNS or material corporate announcements identified. Without credible public disclosure, any investment thesis is unverifiable. Own:  No institutional investor or investor requiring any form of fundamental analysis verification should hold this name. Avoid:  All investors should avoid this name. The micro-cap Pink Sheets listing is itself a disqualifying characteristic for any credible investment process."
+      "text": "Own: No institutional investor or investor requiring any form of fundamental analysis verification should hold this name. Avoid: All investors should avoid this name. The micro-cap Pink Sheets listing is itself a disqualifying characteristic for any credible investment process."
     },
     "recommendation": {
       "text": "SELL Score: 12/100 TRIB is not an investable name for any investor requiring financial transparency, operational viability or market-accessible liquidity. SELL. Entry Framework: SELL at all levels above $0.40. BUY below $1.65 HOLD $0.77-$1.65 REDUCE above $1.65"
     },
     "entryExit": {
-      "text": ""
+      "text": "BUY below $1.65 | HOLD $0.77-$1.65 | REDUCE above $1.65"
     },
     "sources": {
-      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -89,16 +89,16 @@
   },
   "scores": {
     "current": {
-      "score": 50,
+      "score": 12,
       "band": "SELL",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 50,
+        "date": "",
+        "score": 12,
         "band": "SELL",
         "delta": "0",
         "reason": "Initial coverage"

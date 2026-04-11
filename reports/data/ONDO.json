@@ -19,17 +19,17 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is enough for a market handle, but not enough to transform it into a high-conviction investment case without stronger token-level and ecosystem data.Bottom line: REDUCE — SPECULATIVE. Interesting theme, insufficient hard support."
+      "text": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is enough for a market handle, but not enough to transform it into a high-conviction investment case without stronger token-level and ecosystem data. Bottom line: REDUCE — SPECULATIVE . Interesting theme, insufficient hard support."
     },
     "businessModel": {
       "text": "Ondo is tied to tokenised finance and blockchain-based financial infrastructure. The attraction is exposure to a credible secular theme. The problem is that token valuation, platform adoption and regulatory direction can diverge wildly."
     },
     "financialSnapshot": {
-      "text": "<p><strong>Live price:</strong> $0.262<br><strong>Source:</strong> crypto market feed<br><strong>P/E / EPS:</strong> not applicable in the conventional equity sense</p><p>This is not a normal equity valuation exercise. That alone should keep position sizing disciplined.</p></div>",
+      "text": "Live price: $0.262 Source: crypto market feed P/E / EPS: not applicable in the conventional equity sense This is not a normal equity valuation exercise. That alone should keep position sizing disciplined.",
       "table": []
     },
     "recentCatalysts": {
-      "text": "Tokenised real-world asset and on-chain finance narratives remain supportive.Adoption and regulatory clarity are the actual medium-term drivers.Crypto beta and sentiment still dominate near-term pricing.",
+      "text": "Tokenised real-world asset and on-chain finance narratives remain supportive. Adoption and regulatory clarity are the actual medium-term drivers. Crypto beta and sentiment still dominate near-term pricing.",
       "items": [
         "Tokenised real-world asset and on-chain finance narratives remain supportive.",
         "Adoption and regulatory clarity are the actual medium-term drivers.",
@@ -37,18 +37,18 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): tokenisation adoption accelerates and Ondo becomes a meaningful infrastructure beneficiary.Base (45%): thematic progress continues but the token remains sentiment-driven.Bear (30%): adoption disappoints or crypto sentiment weakens.Weighted conviction: 48/100.",
+      "text": "Bull (25%): tokenisation adoption accelerates and Ondo becomes a meaningful infrastructure beneficiary. Base (45%): thematic progress continues but the token remains sentiment-driven. Bear (30%): adoption disappoints or crypto sentiment weakens. Weighted conviction: 48/100.",
       "bull": {
-        "scenario": "Bull (25%): tokenisation adoption accelerates and Ondo becomes a meaningful infrastructure beneficiary.",
+        "scenario": "",
         "probability": 25
       },
       "base": {
-        "scenario": "Base (45%): thematic progress continues but the token remains sentiment-driven.",
-        "probability": 45
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear (30%): adoption disappoints or crypto sentiment weakens.",
-        "probability": 30
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
@@ -75,7 +75,7 @@
       "text": "REDUCE — SPECULATIVE at $0.262. Theme is good, evidence base still thin."
     },
     "entryExit": {
-      "text": "Only with small size: if taking thematic exposureKey trigger: measurable adoption and clearer regulatory support\n            Conviction Trend\n            Latest conviction: 48/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                0255075100\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0848"
+      "text": "Only with small size: if taking thematic exposure Key trigger: measurable adoption and clearer regulatory support Conviction Trend Latest conviction: 48/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 48"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -83,7 +83,10 @@
       "additional": [
         "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
         "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $0.262",
+        "Instrument Crypto asset",
+        "View Speculative"
       ],
       "literature": []
     }

@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 59,
@@ -32,7 +32,7 @@
       "text": "Wells Fargo is one of the 'Big Four' US banks, with approximately $1.9 trillion in assets. The company operates four operating segments: Consumer Banking (checking, savings, credit cards, auto loans), Commercial Banking (corporate lending, treasury management, real estate banking), Investment and Wealth Management (wealth management, brokerage, private banking) and the Fixed Income, Currencies and Commodities (FICC) trading desk. Wells Fargo has a large and sticky deposit base from its consumer banking franchise (approximately 70 million customers). The company is subject to an asset cap (cannot exceed $1.95 trillion in total assets) imposed by the Federal Reserve following the 2016 fake accounts scandal, which has limited its ability to grow its balance sheet."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -64,22 +64,22 @@
       "text": "The Federal Reserve has been gradually easing the asset cap, with the expectation that it could be fully removed in the near term, enabling Wells Fargo to grow its balance sheet and compete more aggressively for corporate lending market share. The net interest margin has been pressured by the inverted yield curve, but a normalisation (shorter-term rates falling relative to longer-term rates) would be a significant tailwind for NII. Credit quality has remained resilient, with charge-off rates lower than feared. The company has been repurchasing shares opportunistically as the stock has traded near the asset cap."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (72): The Fed removes the asset cap, enabling meaningful balance sheet growth and a re-rating. The yield curve normalises, expanding NIM by 20–30 basis points. Credit costs remain benign. The efficiency ratio improves. ROE reaches 15%+ and the P/E re-rates to 16–17x. Price: $105+.\n            Base Case (58): The asset cap is eased but not fully removed in the medium term. NIM stabilises as the yield curve partially normalises. Credit costs remain near current levels. Efficiency initiatives generate modest savings. ROE of 12–13% is maintained. EPS of $6.50–$7.00. Price: $82–$90.\n            Bear Case (40): The asset cap is maintained or tightened. A recession causes credit costs to rise significantly (charge-offs in consumer and CRE books accelerate). The yield curve inversion persists, keeping NIM compressed. Legal and compliance costs remain elevated. EPS falls to $4.50–$5.50. Price: below $65.\n            Weighted Score: 59 — Bull 72 × 30% + Base 58 × 50% + Bear 40 × 20%",
+      "text": "Bull Case (72): The Fed removes the asset cap, enabling meaningful balance sheet growth and a re-rating. The yield curve normalises, expanding NIM by 20–30 basis points. Credit costs remain benign. The efficiency ratio improves. ROE reaches 15%+ and the P/E re-rates to 16–17x. Price: $105+. Base Case (58): The asset cap is eased but not fully removed in the medium term. NIM stabilises as the yield curve partially normalises. Credit costs remain near current levels. Efficiency initiatives generate modest savings. ROE of 12–13% is maintained. EPS of $6.50–$7.00. Price: $82–$90. Bear Case (40): The asset cap is maintained or tightened. A recession causes credit costs to rise significantly (charge-offs in consumer and CRE books accelerate). The yield curve inversion persists, keeping NIM compressed. Legal and compliance costs remain elevated. EPS falls to $4.50–$5.50. Price: below $65. Weighted Score: 59 — Bull 72 × 30% + Base 58 × 50% + Bear 40 × 20%",
       "bull": {
-        "scenario": "Bull Case (72): The Fed removes the asset cap, enabling meaningful balance sheet growth and a re-rating. The yield curve normalises, expanding NIM by 20–30 basis points. Credit costs remain benign. The efficiency ratio improves. ROE reaches 15%+ and the P/E re-rates to 16–17x. Price: $105+.",
-        "probability": 15
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (58): The asset cap is eased but not fully removed in the medium term. NIM stabilises as the yield curve partially normalises. Credit costs remain near current levels. Efficiency initiatives generate modest savings. ROE of 12–13% is maintained. EPS of $6.50–$7.00. Price: $82–$90.",
-        "probability": 13
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (40): The asset cap is maintained or tightened. A recession causes credit costs to rise significantly (charge-offs in consumer and CRE books accelerate). The yield curve inversion persists, keeping NIM compressed. Legal and compliance costs remain elevated. EPS falls to $4.50–$5.50. Price: below $65.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Asset cap uncertainty: The Fed's asset cap on Wells Fargo has been in place since 2018 and has materially constrained the company's growth. Its removal timeline is uncertain, and continued restriction",
+      "text": "Asset cap uncertainty: The Fed's asset cap on Wells Fargo has been in place since 2018 and has materially constrained the company's growth. Its removal timeline is uncertain, and continued restrictions would cap the earnings recovery. Credit cycle risk: Wells Fargo's large commercial real estate (CRE) exposure (particularly office and multi-family) is a concern in a higher-for-longer rate environment. Office vacancy rates in major cities remain elevated. Yield curve sensitivity: As a bank with a large deposit base and significant loan portfolio, Wells Fargo is highly sensitive to the shape of the yield curve. Prolonged inversion compresses NIM and earnings. Historical risk: The 2016 fake accounts scandal, the Enron-era legacy and other compliance failures have resulted in the most restrictive consent order environment for any major US bank, constraining operational flexibility.",
       "risks": [
         {
           "rank": 1,
@@ -100,13 +100,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Value-oriented bank investors who see the asset cap removal as a near-term catalyst and the 13.65x P/E as undemanding relative to book value and earnings potential. Avoiders: Quality bank investors who prefer unencumbered franchises. JPMorgan and Bank of America offer cleaner regulatory stories and stronger management track records."
+      "text": "Own: Value-oriented bank investors who see the asset cap removal as a near-term catalyst and the 13.65x P/E as undemanding relative to book value and earnings potential."
     },
     "recommendation": {
-      "text": "HOLD. Wells Fargo is a solid bank franchise with genuine consumer banking depth. The asset cap removal is a real and important catalyst, but it has been delayed for years and the market is right to discount some uncertainty.\n            Entry framework: BUY below $65 (approximately 10–11x base-case EPS — provides a margin of safety given the credit cycle and regulatory overhang). Reduce above $92 (15x+ P/E on a company with an uncertain regulatory trajectory)."
+      "text": "HOLD. Wells Fargo is a solid bank franchise with genuine consumer banking depth. The asset cap removal is a real and important catalyst, but it has been delayed for years and the market is right to discount some uncertainty. Entry framework: BUY below $65 (approximately 10–11x base-case EPS — provides a margin of safety given the credit cycle and regulatory overhang). Reduce above $92 (15x+ P/E on a company with an uncertain regulatory trajectory)."
     },
     "entryExit": {
-      "text": "BUY below $65 (approximately 10–11x base-case EPS — provides a margin of safety given the credit cycle and regulatory overhang). Reduce above $92 (15x+ P/E on a company with an uncertain regulatory trajectory)."
+      "text": "BUY below $65 (approximately 10–11x base-case EPS — provides a margin of safety given the credit cycle and regulatory overhang). Reduce above $92 (15x+ P/E on a company with an uncertain regulatory trajectory). | Entry framework: BUY below $65 (approximately 10–11x base-case EPS — provides a margin of safety given the credit cycle and regulatory overhang). | Reduce above $92 (15x+ P/E on a company with an uncertain regulatory trajectory)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -119,13 +119,13 @@
     "current": {
       "score": 59,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 59,
         "band": "HOLD",
         "delta": "0",

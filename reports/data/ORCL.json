@@ -1,13 +1,13 @@
 {
   "meta": {
-    "ticker": "",
+    "ticker": "ORCL",
     "company": "ORCL",
     "exchange": "",
     "isin": "",
     "date": "",
-    "datePublished": "2026-04-11",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
     "conviction": 58,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
@@ -29,7 +29,7 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Oracle Cloud Infrastructure (OCI) for AI: 3 new hyperscaler interconnect regions Q1 2025\n    Cerner integration (acquired 2022): $800M synergy run-rate achieved, 15% cross-sell rate\n    Oracle Database 23ai launched 2024 — vector-native capability for enterprise AI\n    Microsoft Azure Oracle Interconnect: multi-cloud adoption expanding enterprise customer base",
+      "text": "Oracle Cloud Infrastructure (OCI) for AI: 3 new hyperscaler interconnect regions Q1 2025 Cerner integration (acquired 2022): $800M synergy run-rate achieved, 15% cross-sell rate Oracle Database 23ai launched 2024 — vector-native capability for enterprise AI Microsoft Azure Oracle Interconnect: multi-cloud adoption expanding enterprise customer base",
       "items": [
         "Oracle Cloud Infrastructure (OCI) for AI: 3 new hyperscaler interconnect regions Q1 2025",
         "Cerner integration (acquired 2022): $800M synergy run-rate achieved, 15% cross-sell rate",
@@ -38,7 +38,7 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "70\n      Bull\n    \n    \n      58\n      Base\n    \n    \n      42\n      Bear\n    \n    \n      58\n      Conviction",
+      "text": "70 Bull 58 Base 42 Bear 58 Conviction",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "1. Revenue growth 8% (FY24) lags hyperscalers AWS/Azure/GCP — competitive positioning risk 2. Autonomous Database and OCI still 3. Cerner integration complexity: government health data migration proje",
+      "text": "1. Revenue growth 8% (FY24) lags hyperscalers AWS/Azure/GCP — competitive positioning risk 2. Autonomous Database and OCI still 3. Cerner integration complexity: government health data migration projects running over budget 4. Acquisition of Sun Microsystems (2010) and Cerner debt still on balance sheet; leverage elevated 5. Oracle's governance structure: Larry Ellison's control through dual-class shares creates agency risk",
       "risks": [
         {
           "rank": 1,
@@ -84,7 +84,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "Oracle (ORCL) — Entry / Exit Framework\n\nHOLD zone: $127.04–$140.85 — current levels are fairly valued.\nTrim / Take Profits above $140.85 — approaching the 52-week high at $345.72.\nStop-loss: A sustained close below $118.82 (52-week low) would warrant reassessment."
+      "text": "Build at $125–$136 (10–15% below 52-week high). HOLD $136–$155. REDUCE above $155. Key driver: OCI revenue as % of total — target 30%+ by FY27. | BUY: Build at $125–$136 (10–15% below 52-week high). | REDUCE above $155."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -96,16 +96,16 @@
   "scores": {
     "current": {
       "score": 58,
-      "band": "HOLD",
-      "date": "2026-04-11",
+      "band": "REDUCE",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 58,
-        "band": "HOLD",
+        "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"
       }

@@ -5,10 +5,10 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
-    "conviction": 65,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -25,7 +25,7 @@
       "text": "Kongregate is a digital games company primarily known for publishing and developing free-to-play browser and mobile games. Key titles have included KartRider Rush+ (mobile), The Battle of Polytopia (mobile), and various other titles published through the Kongregate Play platform. Revenue is generated through in-game purchases (microtransactions), advertising within games (rewarded video, interstitial), and publishing royalties from third-party games. The business is sensitive to game lifecycle dynamics and platform app store policies."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -73,7 +73,12 @@
     },
     "keyRisks": {
       "text": "Data availability risk. Market access risk. Unable to provide structured risk analysis.",
-      "risks": []
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "&larr; All Reports"
+        }
+      ]
     },
     "whoShouldOwn": {
       "text": "Existing holders should await data restoration before making decisions. New investors should defer until live data is available."
@@ -82,7 +87,7 @@
       "text": "HOLD - DATA UNAVAILABLE - Conviction: 50/100. Live market data from Yahoo Finance is required before a formal investment thesis can be evaluated."
     },
     "entryExit": {
-      "text": "HOLD. Conviction: 65/100. No compelling entry or exit signal without current price data."
+      "text": ""
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -93,16 +98,16 @@
   },
   "scores": {
     "current": {
-      "score": 65,
+      "score": 50,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 65,
+        "date": "",
+        "score": 50,
         "band": "HOLD",
         "delta": "0",
         "reason": "Initial coverage"

@@ -19,17 +19,17 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "D-Wave is one of the few listed pure-play quantum names with real commercial customers, but it still trades more on narrative than fundamentals. At $14.56 and a ~$5.4bn market cap, the stock is pricing in a lot of future success today.Bottom line: REDUCE — SPECULATIVE. Real technology, weak valuation support."
+      "text": "D-Wave is one of the few listed pure-play quantum names with real commercial customers, but it still trades more on narrative than fundamentals. At $14.56 and a ~$5.4bn market cap, the stock is pricing in a lot of future success today. Bottom line: REDUCE — SPECULATIVE. Real technology, weak valuation support."
     },
     "businessModel": {
       "text": "D-Wave sells quantum computing systems, cloud quantum access, and professional services. The key question is whether commercial adoption arrives fast enough to justify the current valuation."
     },
     "financialSnapshot": {
-      "text": "<p><strong>Price:</strong> $14.56<br><strong>Market cap:</strong> ~$5.37bn<br><strong>52-week range:</strong> $5.97 – $46.75<br><strong>P/E:</strong> N/A<br><strong>EPS:</strong> -$1.11</p></div>",
+      "text": "Price: $14.56 Market cap: ~$5.37bn 52-week range: $5.97 – $46.75 P/E: N/A EPS: -$1.11",
       "table": []
     },
     "recentCatalysts": {
-      "text": "Quantum sector momentum has driven multiple expansion.Commercial proof points remain limited relative to market expectations.Any slowdown in AI/quantum narrative could compress valuation fast.",
+      "text": "Quantum sector momentum has driven multiple expansion. Commercial proof points remain limited relative to market expectations. Any slowdown in AI/quantum narrative could compress valuation fast.",
       "items": [
         "Quantum sector momentum has driven multiple expansion.",
         "Commercial proof points remain limited relative to market expectations.",
@@ -37,18 +37,18 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "Bull (20%): quantum commercialisation accelerates and commercial contracts surprise to the upside.Base (45%): quantum adoption remains slow; valuation stays elevated and range-bound.Bear (35%): funding pressure or data disappointment; equity erodes toward lower support.Weighted conviction: (20% × 70) + (45% × 45) + (35% × 20) = 14 + 20.25 + 7 = 41 → 44/100.",
+      "text": "Bull (20%): quantum commercialisation accelerates and commercial contracts surprise to the upside. Base (45%): quantum adoption remains slow; valuation stays elevated and range-bound. Bear (35%): funding pressure or data disappointment; equity erodes toward lower support. Weighted conviction: (20% × 70) + (45% × 45) + (35% × 20) = 14 + 20.25 + 7 = 41 → 44/100 .",
       "bull": {
-        "scenario": "Bull (20%): quantum commercialisation accelerates and commercial contracts surprise to the upside.",
-        "probability": 20
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base (45%): quantum adoption remains slow; valuation stays elevated and range-bound.",
-        "probability": 45
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear (35%): funding pressure or data disappointment; equity erodes toward lower support.",
-        "probability": 35
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
@@ -75,16 +75,12 @@
       "text": "REDUCE — SPECULATIVE. Interesting exposure, poor risk/reward after the rerating."
     },
     "entryExit": {
-      "text": "Any spike on quantum/data news: use to reduce or exitOnly with tiny size: if taking binary quantum-event riskKey trigger: clearly positive commercial data and funding clarity required to change the view\n            Conviction Trend\n            Latest conviction: 44/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                0255075100\n                2026-04-09\n              \n            \n            \n              Report dateConviction\n              2026-04-0944"
+      "text": "Any spike on quantum/data news: use to reduce or exit Only with tiny size: if taking binary quantum-event risk Key trigger: clearly positive commercial data and funding clarity required to change the view Conviction Trend Latest conviction: 44/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-09 Report date Conviction 2026-04-09 44"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
-      ],
+      "additional": [],
       "literature": []
     }
   },

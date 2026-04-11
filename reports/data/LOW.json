@@ -1,16 +1,18 @@
 {
   "meta": {
-    "ticker": "",
+    "ticker": "LOW",
     "company": "LOW",
     "exchange": "",
     "isin": "",
     "date": "",
-    "datePublished": "2026-04-11",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
     "conviction": 57,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
+      "sp100",
+      "fortune100",
       "watchlist"
     ]
   },
@@ -29,7 +31,7 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "Pro-desk segment (>40% revenue) growing double-digit as contractor loyalty recovers\n    TinyAI-driven inventory optimisation rolling out chainwide — reducing stockouts by 22%\n    Lowe's.com marketplace launch Q4 2025 adding third-party SKUs\n    Share-buyback programme authorised: $10bn authorised through FY2026",
+      "text": "Pro-desk segment (>40% revenue) growing double-digit as contractor loyalty recovers TinyAI-driven inventory optimisation rolling out chainwide — reducing stockouts by 22% Lowe's.com marketplace launch Q4 2025 adding third-party SKUs Share-buyback programme authorised: $10bn authorised through FY2026",
       "items": [
         "Pro-desk segment (>40% revenue) growing double-digit as contractor loyalty recovers",
         "TinyAI-driven inventory optimisation rolling out chainwide — reducing stockouts by 22%",
@@ -38,7 +40,7 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "68\n      Bull\n    \n    \n      58\n      Base\n    \n    \n      40\n      Bear\n    \n    \n      57\n      Conviction",
+      "text": "68 Bull 58 Base 40 Bear 57 Conviction",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -53,7 +55,7 @@
       }
     },
     "keyRisks": {
-      "text": "1. US housing-affordability crisis: existing-home sales down 15% YoY Jan 2026 2. Consumer spending shift from big-ticket DIY to repair/maintenance discretionary 3. Home Depot gaining share in pro-cont",
+      "text": "1. US housing-affordability crisis: existing-home sales down 15% YoY Jan 2026 2. Consumer spending shift from big-ticket DIY to repair/maintenance discretionary 3. Home Depot gaining share in pro-contractor segment — direct competitive pressure 4. tariff pressure on Chinese imported building materials (Lowe's sources ~45% Asia) 5. Tight labour market: instore service model requires 80k+ seasonal hires annually",
       "risks": [
         {
           "rank": 1,
@@ -84,7 +86,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "Lowe's (LOW) — Entry / Exit Framework\n\nHOLD zone: $224.68–$249.1 — current levels are fairly valued.\nTrim / Take Profits above $249.1 — approaching the 52-week high at $293.06.\nStop-loss: A sustained close below $206.12 (52-week low) would warrant reassessment."
+      "text": "Average in the $220–$230 range (10% above 52-week low). HOLD $230–$255. REDUCE above $255. Monitor: US existing-home sales monthly data as housing-demand proxy. | BUY: Average in the $220–$230 range (10% above 52-week low). | REDUCE above $255."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -96,16 +98,16 @@
   "scores": {
     "current": {
       "score": 57,
-      "band": "HOLD",
-      "date": "2026-04-11",
+      "band": "REDUCE",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 57,
-        "band": "HOLD",
+        "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"
       }

@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 78,
@@ -22,32 +22,32 @@
       "text": "Capital One has transformed from a credit card lender into a diversified technology-powered financial services company; pending regulatory approval for its Discover merger, it stands to become a payments network major, warranting a BUY rating at $193.00."
     },
     "businessModel": {
-      "text": "Capital One operates across three primary segments. Key revenue streams:\n          \n            Credit Card (largest): Generates interchange revenue and interest income on revolving balances. Capital One is one of the largest Visa and Mastercard issuers in the US.\n            Consumer Banking: Auto loans, home loans, and small business banking. Deposit-taking to fund lending operations.\n            Commercial Banking: Corporate lending, treasury management, and investment banking services for mid-to-large corporate clients.\n            Discover Network (pending merger): If approved, Capital One will own the Discover payment network — a structural competitive advantage in payments economics.\n          \n          Capital One is notably technology-forward for a bank, with significant investment in cloud migration and proprietary AI-driven credit decisioning that has historically enabled above-market growth in credit card receivables."
+      "text": "Capital One operates across three primary segments. Key revenue streams: Credit Card (largest): Generates interchange revenue and interest income on revolving balances. Capital One is one of the largest Visa and Mastercard issuers in the US. Consumer Banking: Auto loans, home loans, and small business banking. Deposit-taking to fund lending operations. Commercial Banking: Corporate lending, treasury management, and investment banking services for mid-to-large corporate clients. Discover Network (pending merger): If approved, Capital One will own the Discover payment network — a structural competitive advantage in payments economics. Capital One is notably technology-forward for a bank, with significant investment in cloud migration and proprietary AI-driven credit decisioning that has historically enabled above-market growth in credit card receivables."
     },
     "financialSnapshot": {
-      "text": "</section>\n\n        <!-- 4. Recent Catalysts -->\n        <section class=\"report-section\">",
+      "text": "",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (30% weight)\n              Discover merger closes, creating a full-stack payments competitor with ~100m Discover cardholders and significant network economics; EPS reaches $22–26 as synergies materialise.\n              Target: $260–295\n            \n            \n              Base Case (50% weight)\n              Merger approved with conditions; credit quality normalises post-pandemic; organic credit card growth of 6–8% annually; EPS ~$17.\n              Target: $193–215\n            \n            \n              Bear Case (20% weight)\n              Merger blocked or heavily conditioned; credit deterioration in auto and card portfolios in recessionary environment; EPS falls to $11–12.\n              Target: $118\n            \n          \n          \n            Weighted Conviction Score:\n            78 / 100 — BUY",
+      "text": "Bull Case (30% weight) Discover merger closes, creating a full-stack payments competitor with ~100m Discover cardholders and significant network economics; EPS reaches $22–26 as synergies materialise. Target: $260–295 Base Case (50% weight) Merger approved with conditions; credit quality normalises post-pandemic; organic credit card growth of 6–8% annually; EPS ~$17. Target: $193–215 Bear Case (20% weight) Merger blocked or heavily conditioned; credit deterioration in auto and card portfolios in recessionary environment; EPS falls to $11–12. Target: $118 Weighted Conviction Score: 78 / 100 — BUY",
       "bull": {
-        "scenario": "Bull Case (30% weight)\n              Discover merger closes, creating a full-stack payments competitor with ~100m Discover cardholders and significant network economics; EPS reaches $22–26 as synergies materialise.\n              Target: $260–295\n            \n            <div class=\"scenario-card scenario-",
-        "probability": 30
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (50% weight)\n              Merger approved with conditions; credit quality normalises post-pandemic; organic credit card growth of 6–8% annually; EPS ~$17.\n              Target: $193–215\n            \n            <div class=\"scenario-card scenario-",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (20% weight)\n              Merger blocked or heavily conditioned; credit deterioration in auto and card portfolios in recessionary environment; EPS falls to $11–12.",
-        "probability": 20
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Credit risk: As a major credit card lender, Capital One has high exposure to consumer credit quality. Rising unemployment would directly increase charge-off rates. Merger execution risk: Discover inte",
+      "text": "Credit risk: As a major credit card lender, Capital One has high exposure to consumer credit quality. Rising unemployment would directly increase charge-off rates. Merger execution risk: Discover integration is complex; technology platform migration, customermigration, and regulatory conditions create execution risk even if transaction closes. Regulatory risk: As a systemically important bank, higher capital requirements, stress test failures, or enhanced supervision could constrain capital return. Net interest margin compression: A rapid rate-cutting cycle would compress NII from the bank's loan and deposit franchise faster than volume growth can offset. Competition in credit cards: Fintech challengers (Chime, Affirm) and Apple/Google in payments create long-term disruption risk in the card issuing business.",
       "risks": [
         {
           "rank": 1,
@@ -72,13 +72,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Own It Investors who believe in the Discover merger thesis — the network economics of a full-stack payments company are structurally superior. Those wanting financial sector exposure with a technology differentiation story and reasonable valuation (12.8x P/E). Long-term investors who can hold through merger uncertainty and credit cycle volatility. Avoid It Risk-averse financials investors — credit card cycle risk is high, and charge-offs can rise sharply in recession. Yield-oriented investors — 1.5% dividend is modest and not the primary investment case. Those who believe the Discover merger faces material anti-trust risk — best to wait for closure before buying on the thesis."
+      "text": "Own It:\n• Investors who believe in the Discover merger thesis — the network economics of a full-stack payments company are structurally superior.\n• Those wanting financial sector exposure with a technology differentiation story and reasonable valuation (12.8x P/E).\n• Long-term investors who can hold through merger uncertainty and credit cycle volatility.\n\nAvoid It:\n• Risk-averse financials investors — credit card cycle risk is high, and charge-offs can rise sharply in recession.\n• Yield-oriented investors — 1.5% dividend is modest and not the primary investment case.\n• Those who believe the Discover merger faces material anti-trust risk — best to wait for closure before buying on the thesis."
     },
     "recommendation": {
-      "text": "HOLD\n            The Discover merger creates a structural payments advantage; at 12.8x P/E and near 52-week lows, current price does not reflect the optionality of the merged entity.\n          \n          \n            Entry / Exit Framework\n            \n              Conviction Score78 / 100 — BUY\n              EntryBelow $175 — attractive risk/reward\n              AddBelow $150 — high conviction zone on merger approval\n              Reduce / ExitAbove $270 — merger premium fully priced\n              Time Horizon18–36 months"
+      "text": "HOLD The Discover merger creates a structural payments advantage; at 12.8x P/E and near 52-week lows, current price does not reflect the optionality of the merged entity. Entry / Exit Framework Conviction Score 78 / 100 — BUY Entry Below $175 — attractive risk/reward Add Below $150 — high conviction zone on merger approval Reduce / Exit Above $270 — merger premium fully priced Time Horizon 18–36 months"
     },
     "entryExit": {
-      "text": "Conviction Score: 78 / 100 — BUY\nEntry: Below $175 — attractive risk/reward\nAdd: Below $150 — high conviction zone on merger approval\nReduce / Exit: Above $270 — merger premium fully priced\nTime Horizon: 18–36 months"
+      "text": "Entry / Exit Framework Conviction Score 78 / 100 — BUY Entry Below $175 — attractive risk/reward Add Below $150 — high conviction zone on merger approval Reduce / Exit Above $270 — merger premium fully priced Time Horizon 18–36 months Sources Live market data via DYOR HQ data pipeline Capital One public filings, earnings releases, and investor presentations Federal Reserve and OCC regulatory communications S&amp;P Capital IQ estimates Report generated 11 April 2026. For informational purposes only. Not financial advice."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -91,13 +91,13 @@
     "current": {
       "score": 78,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 78,
         "band": "HOLD",
         "delta": "0",

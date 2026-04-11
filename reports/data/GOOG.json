@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 70,
@@ -32,7 +32,7 @@
       "text": "Alphabet Inc (GOOG) operates in the Communication Services sector and is listed on NASDAQ. The business generates revenue through its core operations in communication services."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -64,22 +64,22 @@
       "text": "Alphabet Inc has been navigating the current market environment with its core communication services franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (82): Gemini Ultra closes the capability gap with GPT-4. Search AI Overviews increase engagement and CPMs without materially impacting click-through rates. YouTube and Cloud sustain 25%+ growth. EPS grows to $13+. Price: $370+.\n            Base Case (70): Search remains dominant with modest AI monetisation upside. YouTube grows advertising revenue in line with digital ad market. Cloud maintains trajectory at 21-23% growth. EPS: $11-12. Price: $320-360.\n            Bear Case (52): AI Overviews disruption to search experience reduces click volumes and CPMs. Cloud competitive losses to AWS/Azure accelerate. Antitrust remedies force structural separation of Search. EPS falls to $9-10. Price: below $270.\n            Weighted Score: 70 — Bull 82 × 30% + Base 70 × 50% + Bear 52 × 20%",
+      "text": "Bull Case (82): Gemini Ultra closes the capability gap with GPT-4. Search AI Overviews increase engagement and CPMs without materially impacting click-through rates. YouTube and Cloud sustain 25%+ growth. EPS grows to $13+. Price: $370+. Base Case (70): Search remains dominant with modest AI monetisation upside. YouTube grows advertising revenue in line with digital ad market. Cloud maintains trajectory at 21-23% growth. EPS: $11-12. Price: $320-360. Bear Case (52): AI Overviews disruption to search experience reduces click volumes and CPMs. Cloud competitive losses to AWS/Azure accelerate. Antitrust remedies force structural separation of Search. EPS falls to $9-10. Price: below $270. Weighted Score: 70 — Bull 82 × 30% + Base 70 × 50% + Bear 52 × 20%",
       "bull": {
-        "scenario": "Bull Case (82): Gemini Ultra closes the capability gap with GPT-4. Search AI Overviews increase engagement and CPMs without materially impacting click-through rates. YouTube and Cloud sustain 25%+ growth. EPS grows to $13+. Price: $370+.",
+        "scenario": "",
         "probability": 25
       },
       "base": {
-        "scenario": "Base Case (70): Search remains dominant with modest AI monetisation upside. YouTube grows advertising revenue in line with digital ad market. Cloud maintains trajectory at 21-23% growth. EPS: $11-12. Price: $320-360.",
-        "probability": 23
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (52): AI Overviews disruption to search experience reduces click volumes and CPMs. Cloud competitive losses to AWS/Azure accelerate. Antitrust remedies force structural separation of Search. EPS falls to $9-10. Price: below $270.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "AI Search disruption risk: If AI Overviews reduce user clicks on search results, Google's core monetisation mechanism is impaired. This is the single largest structural risk to the bull case. Antitrus",
+      "text": "AI Search disruption risk: If AI Overviews reduce user clicks on search results, Google's core monetisation mechanism is impaired. This is the single largest structural risk to the bull case. Antitrust regulatory risk: The US DOJ's search monopoly case has progressed to remedies phase. Structural remedies (divestiture of Android or AdWords) could materially impair the business. Cloud competitive position: AWS and Azure have meaningful scale advantages in enterprise cloud. Google Cloud's path to sustained profitability requires continued outperformance in AI workloads. Capex intensity: AI infrastructure requires enormous and ongoing capital investment. Free cash flow conversion could remain depressed relative to net income for multiple years. Advertiser concentration risk: The top 100 advertisers represent a disproportionate share of search and YouTube ad revenue. Macro slowdown or major advertiser churn has outsized impact.",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Long-term investors seeking high-quality AI infrastructure exposure with the safety of a dominant search monopoly underwriting the transition. Core technology holding. Avoiders: Short-term investors seeking immediate AI monetisation catalysts. Antitrust-focused investors who believe structural remedies are likely and severe."
+      "text": "Own: Long-term investors seeking high-quality AI infrastructure exposure with the safety of a dominant search monopoly underwriting the transition. Core technology holding."
     },
     "recommendation": {
-      "text": "BUY. BUY on any material pullback related to AI Search concerns below $285 (implies 26x base-case EPS — reasonable for the quality of the franchise).\n            Reduce if antitrust structural remedies are confirmed and impose genuine business separation. Monitor AI Overviews click-through rate data carefully."
+      "text": "BUY. BUY on any material pullback related to AI Search concerns below $285 (implies 26x base-case EPS — reasonable for the quality of the franchise). Reduce if antitrust structural remedies are confirmed and impose genuine business separation. Monitor AI Overviews click-through rate data carefully."
     },
     "entryExit": {
-      "text": "Alphabet Inc (GOOG) — Entry / Exit Framework\n\nHOLD zone: $290.46–$322.03 — current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $290.46 — material pullback that improves risk/reward.\nTrim / Take Profits above $322.03 — approaching the 52-week high at $350.15. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $145.43 (52-week low) would warrant reassessment."
+      "text": "BUY on any material pullback related to AI Search concerns below $285 (implies 26x base-case EPS — reasonable for the quality of the franchise)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -123,13 +123,13 @@
     "current": {
       "score": 70,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 70,
         "band": "HOLD",
         "delta": "0",

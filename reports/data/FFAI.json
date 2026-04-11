@@ -19,17 +19,17 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating equity story. It is a distressed speculative stub.Bottom line: SELL — SPECULATIVE. There is no sensible long-only investment case here beyond punting on noise."
+      "text": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating equity story. It is a distressed speculative stub. Bottom line: SELL — SPECULATIVE . There is no sensible long-only investment case here beyond punting on noise."
     },
     "businessModel": {
       "text": "Faraday Future was meant to be a premium EV company. In practice, the equity case is dominated by financing stress, execution failures and survival risk rather than vehicle economics or scaling credibility."
     },
     "financialSnapshot": {
-      "text": "<p><strong>Live price:</strong> $0.2115<br><strong>Market cap:</strong> $45.6M<br><strong>Day range:</strong> $0.2100 – $0.2427<br><strong>P/E:</strong> N/A<br><strong>EPS:</strong> -$5.41<br><strong>Beta:</strong> 5.98</p></div>",
+      "text": "Live price: $0.2115 Market cap: $45.6M Day range: $0.2100 – $0.2427 P/E: N/A EPS: -$5.41 Beta: 5.98",
       "table": []
     },
     "recentCatalysts": {
-      "text": "No clean positive operating catalyst is visible in the live data.At this stage, capital markets and survival matter more than product narrative.Extreme volatility is the norm, not the exception.",
+      "text": "No clean positive operating catalyst is visible in the live data. At this stage, capital markets and survival matter more than product narrative. Extreme volatility is the norm, not the exception.",
       "items": [
         "No clean positive operating catalyst is visible in the live data.",
         "At this stage, capital markets and survival matter more than product narrative.",
@@ -37,18 +37,18 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "Bull (10%): a financing or corporate event triggers a temporary rebound.Base (40%): the equity continues to decay as a distressed micro-cap.Bear (50%): further dilution or breakdown destroys residual value.Weighted conviction: 18/100.",
+      "text": "Bull (10%): a financing or corporate event triggers a temporary rebound. Base (40%): the equity continues to decay as a distressed micro-cap. Bear (50%): further dilution or breakdown destroys residual value. Weighted conviction: 18/100.",
       "bull": {
-        "scenario": "Bull (10%): a financing or corporate event triggers a temporary rebound.",
-        "probability": 10
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base (40%): the equity continues to decay as a distressed micro-cap.",
-        "probability": 40
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear (50%): further dilution or breakdown destroys residual value.",
-        "probability": 50
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
@@ -75,7 +75,7 @@
       "text": "SELL — SPECULATIVE at $0.2115. Distressed stub, not an investment."
     },
     "entryExit": {
-      "text": "Any spike: use to exit or reduceAt current levels: avoid fresh capitalKey trigger: only a genuinely credible rescue would change the view\n            Conviction Trend\n            Latest conviction: 18/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                0255075100\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0818"
+      "text": "Any spike: use to exit or reduce At current levels: avoid fresh capital Key trigger: only a genuinely credible rescue would change the view Conviction Trend Latest conviction: 18/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 18"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -83,7 +83,12 @@
       "additional": [
         "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
         "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $0.2115",
+        "Market Cap $45.6M",
+        "EPS -$5.41",
+        "Day High $0.2427",
+        "Day Low $0.2100"
       ],
       "literature": []
     }

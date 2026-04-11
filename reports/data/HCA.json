@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 73,
@@ -32,7 +32,7 @@
       "text": "HCA operates approximately 180 acute care hospitals and over 2,000 sites of care across 20 states and the United Kingdom, making it the largest hospital operator in the US by revenue and bed count. The business model is grounded in the provision of inpatient hospital services (surgical, medical, emergency/trauma) supplemented by outpatient services, diagnostic centres and a growing physician services platform. Revenue is primarily fee-for-service, reimbursed by Medicare, Medicaid and commercial insurers. HCA's competitive advantages include its scale (negotiating leverage with payers), its concentrated geographic footprint in high-growth Sunbelt markets, its proprietary data on clinical outcomes, and its ability to recruit physicians in markets where it is often the dominant or sole hospital employer. Capital allocation has been disciplined, with regular share buybacks and a growing dividend."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -64,22 +64,22 @@
       "text": "Hospital utilisation has normalised post-pandemic, with occupancy rates above historical averages in key markets. The company has been successful in securing rate increases from commercial payers to offset labour cost inflation — a critical test of its negotiating leverage. Ambulatory surgery centre (ASC) and outpatient expansion has been a strategic priority, reducing the mix of higher-cost inpatient procedures where appropriate. The UK Operations (through its Spire subsidiary) have been a mixed contribution. The stock has had a strong run from its 52-week low of $314.43 to near the current price, representing a gain of approximately 57% from the trough."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (83): Commercial payer rate increases continue to exceed medical cost inflation. Occupancy rates remain above 65% in core markets. The outpatient/ASC strategy improves overall margin profile. UK operations reach profitability. EPS grows to $35+. Price: $560+.\n            Base Case (73): Rate increases and volume growth offset labour inflation. Outpatient mix grows as planned. Medicare reimbursement is neutral. EPS grows to $30-$32. Price: $495-$520.\n            Bear Case (57): A recession reduces elective procedure volumes. Commercial payer rate increases slow as employers push back on insurance costs. Labour inflation accelerates. UK operations continue to drag earnings. EPS falls to $25-$26. Price: $370-$400.\n            Weighted Score: 73 — Bull 83 x 30% + Base 73 x 50% + Bear 57 x 20%",
+      "text": "Bull Case (83): Commercial payer rate increases continue to exceed medical cost inflation. Occupancy rates remain above 65% in core markets. The outpatient/ASC strategy improves overall margin profile. UK operations reach profitability. EPS grows to $35+. Price: $560+. Base Case (73): Rate increases and volume growth offset labour inflation. Outpatient mix grows as planned. Medicare reimbursement is neutral. EPS grows to $30-$32. Price: $495-$520. Bear Case (57): A recession reduces elective procedure volumes. Commercial payer rate increases slow as employers push back on insurance costs. Labour inflation accelerates. UK operations continue to drag earnings. EPS falls to $25-$26. Price: $370-$400. Weighted Score: 73 — Bull 83 x 30% + Base 73 x 50% + Bear 57 x 20%",
       "bull": {
-        "scenario": "Bull Case (83): Commercial payer rate increases continue to exceed medical cost inflation. Occupancy rates remain above 65% in core markets. The outpatient/ASC strategy improves overall margin profile. UK operations reach profitability. EPS grows to $35+. Price: $560+.",
-        "probability": 65
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (73): Rate increases and volume growth offset labour inflation. Outpatient mix grows as planned. Medicare reimbursement is neutral. EPS grows to $30-$32. Price: $495-$520.",
-        "probability": null
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (57): A recession reduces elective procedure volumes. Commercial payer rate increases slow as employers push back on insurance costs. Labour inflation accelerates. UK operations continue to drag earnings. EPS falls to $25-$26. Price: $370-$400.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Healthcare labour cost inflation: Registered nurses, physicians and allied health professionals remain in tight supply. Agency and traveller nurse costs have moderated from post-pandemic peaks but rem",
+      "text": "Healthcare labour cost inflation: Registered nurses, physicians and allied health professionals remain in tight supply. Agency and traveller nurse costs have moderated from post-pandemic peaks but remain elevated and represent a structural margin risk if hospital occupancy normalises. Medicare reimbursement pressure: As a large recipient of Medicare revenue, any legislative or regulatory action to reduce Medicare reimbursement rates would directly impair HCA's revenue and margins. The political environment for hospital pricing reform is a persistent concern. Commercial payer leverage: Large employer consortia and insurers are increasingly scrutinising hospital pricing. If HCA is seen as a high-cost provider in a given market, it risks losing favourable network status, which would directly impact volumes. Outpatient shift and site-of-care competition: The broader shift to outpatient and ambulatory settings is a strategic opportunity but also exposes HCA to competition from independent ASC operators and physician-owned facilities that do not carry the same cost structure. Near 52-week high valuation: The stock has appreciated significantly from its 52-week low and is within 11% of the 52-week high. The 17.5x P/E reflects a high-quality franchise but provides limited margin of safety from current levels.",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Long-term investors seeking exposure to the structural growth in US healthcare utilisation, driven by an aging population and the increasing prevalence of chronic disease. The fundamental business quality is high and the management team has a strong track record of capital allocation. Avoiders: Value investors expecting a margin of safety at 17.5x P/E for a cyclical hospital business may be disappointed. The stock has already rerated significantly from its 52-week low, and near-term upside is limited at current levels."
+      "text": "Own: Long-term investors seeking exposure to the structural growth in US healthcare utilisation, driven by an aging population and the increasing prevalence of chronic disease. The fundamental business quality is high and the management team has a strong track record of capital allocation."
     },
     "recommendation": {
-      "text": "HOLD. HCA is one of the highest-quality operators in US healthcare with genuine competitive advantages and a strong margin track record. The stock has had a significant run from the 52-week low and is approaching fairly valued territory. A large pullback would present a compelling long-term buying opportunity.\n            Entry framework: BUY below $400 (implies 14x P/E on base-case EPS — a meaningful margin of safety for this franchise). Hold between $450 and $530. Reduce on rallies above $545 (within 5% of 52-week high — limited upside at that valuation)."
+      "text": "HOLD. HCA is one of the highest-quality operators in US healthcare with genuine competitive advantages and a strong margin track record. The stock has had a significant run from the 52-week low and is approaching fairly valued territory. A large pullback would present a compelling long-term buying opportunity. Entry framework: BUY below $400 (implies 14x P/E on base-case EPS — a meaningful margin of safety for this franchise). Hold between $450 and $530. Reduce on rallies above $545 (within 5% of 52-week high — limited upside at that valuation)."
     },
     "entryExit": {
-      "text": "BUY below $400 (implies 14x P/E on base-case EPS — a meaningful margin of safety for this franchise). Hold between $450 and $530. Reduce on rallies above $545 (within 5% of 52-week high — limited upside at that valuation)."
+      "text": "BUY below $400 (implies 14x P/E on base-case EPS — a meaningful margin of safety for this franchise). Hold between $450 and $530. Reduce on rallies above $545 (within 5% of 52-week high — limited upside at that valuation). | Entry framework: BUY below $400 (implies 14x P/E on base-case EPS — a meaningful margin of safety for this franchise). | Reduce on rallies above $545 (within 5% of 52-week high — limited upside at that valuation)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -123,13 +123,13 @@
     "current": {
       "score": 73,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 73,
         "band": "HOLD",
         "delta": "0",

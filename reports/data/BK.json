@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 72,
@@ -22,32 +22,32 @@
       "text": "The Bank of New York Mellon is a structurally advantaged custodian bank with fee-based revenues that should benefit from rising interest rates and growing assets under custody, but faces margin pressure and subdued equity markets; HOLD at $127.56."
     },
     "businessModel": {
-      "text": "BNY Mellon is one of the world's largest custodian banks and asset managers. Key revenue streams:\n          \n            Investment Services: Custody, fund administration, clearing, and collateral management — generates the bulk of fees from $50trn+ assets under custody.\n            Investment Management: Traditional and alternative asset management across equities, fixed income, and multi-asset strategies.\n            Issuance Services: Corporate trust, depositary receipts, and employee equity plans.\n            Market &amp; Liquidity: Treasury services, forex, and short-term funding activities.\n          \n          The model is heavily fee-based, providing significant earnings stability regardless of interest rate environment, though net interest income (NII) remains a material contributor."
+      "text": "BNY Mellon is one of the world's largest custodian banks and asset managers. Key revenue streams: Investment Services: Custody, fund administration, clearing, and collateral management — generates the bulk of fees from $50trn+ assets under custody. Investment Management: Traditional and alternative asset management across equities, fixed income, and multi-asset strategies. Issuance Services: Corporate trust, depositary receipts, and employee equity plans. Market &amp; Liquidity: Treasury services, forex, and short-term funding activities. The model is heavily fee-based, providing significant earnings stability regardless of interest rate environment, though net interest income (NII) remains a material contributor."
     },
     "financialSnapshot": {
-      "text": "</section>\n\n        <!-- 4. Recent Catalysts -->\n        <section class=\"report-section\">",
+      "text": "",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (30% weight)\n              Sustained elevated rate environment accelerates NII growth; equity market recovery drives custody fee increase; AI efficiency savings materialise. EPS reaches $10.50+, price re-rates to 16–17x earnings.\n              Target: $168–178\n            \n            \n              Base Case (50% weight)\n              Gradual rate normalisation depresses NII modestly; fee income grows mid-single digits; operating expenses contained. EPS stabilises around $9.20.\n              Target: $128–138\n            \n            \n              Bear Case (20% weight)\n              Rapid rate cuts compress NII significantly; equity outflows reduce AuC; credit deterioration in loan book. EPS falls to $7.50, multiple compresses to 12x.\n              Target: $90\n            \n          \n          \n            Weighted Conviction Score:\n            72 — HOLD",
+      "text": "Bull Case (30% weight) Sustained elevated rate environment accelerates NII growth; equity market recovery drives custody fee increase; AI efficiency savings materialise. EPS reaches $10.50+, price re-rates to 16–17x earnings. Target: $168–178 Base Case (50% weight) Gradual rate normalisation depresses NII modestly; fee income grows mid-single digits; operating expenses contained. EPS stabilises around $9.20. Target: $128–138 Bear Case (20% weight) Rapid rate cuts compress NII significantly; equity outflows reduce AuC; credit deterioration in loan book. EPS falls to $7.50, multiple compresses to 12x. Target: $90 Weighted Conviction Score: 72 — HOLD",
       "bull": {
-        "scenario": "Bull Case (30% weight)\n              Sustained elevated rate environment accelerates NII growth; equity market recovery drives custody fee increase; AI efficiency savings materialise. EPS reaches $10.50+, price re-rates to 16–17x earnings.\n              Target: $168–178\n            \n            <div class=\"scenario-card scenario-",
-        "probability": 30
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (50% weight)\n              Gradual rate normalisation depresses NII modestly; fee income grows mid-single digits; operating expenses contained. EPS stabilises around $9.20.\n              Target: $128–138\n            \n            <div class=\"scenario-card scenario-",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (20% weight)\n              Rapid rate cuts compress NII significantly; equity outflows reduce AuC; credit deterioration in loan book. EPS falls to $7.50, multiple compresses to 12x.",
-        "probability": 20
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Interest rate sensitivity: NII constitutes ~35% of revenue; rate cuts directly compress margins. The single largest variable for earnings. Equity market dependence: Custody and management fees correla",
+      "text": "Interest rate sensitivity: NII constitutes ~35% of revenue; rate cuts directly compress margins. The single largest variable for earnings. Equity market dependence: Custody and management fees correlate with AuC levels and market valuations; drawdowns reduce fee income materially. Competitive pressure: Entrants in digital custody, blockchain-based settlement, and fintech fund administration are targeting BNY's traditional business. Operational risk: As a systemically important institution, any operational failure, cyber incident, or regulatory breach carries reputational and financial penalties. Credit risk: Although primarily a custodial bank, its balance sheet carries credit exposure through its lending and liquidity portfolio.",
       "risks": [
         {
           "rank": 1,
@@ -72,13 +72,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Own It Conservative income investors seeking a quality financial with 2.4% yield and capital appreciation optionality. Institutional investors building mega-cap financial exposure with low volatility profile. Those who believe rates will settle higher for longer — direct beneficiary of persistent NII. Avoid It Growth-oriented investors — limited upside beyond fee volume normalisation. Those expecting rapid rate cuts — NII compression is a structural headwind. Investors wanting operational leverage — BK is a slow-to-adapt institutional bank."
+      "text": "Own It:\n• Conservative income investors seeking a quality financial with 2.4% yield and capital appreciation optionality.\n• Institutional investors building mega-cap financial exposure with low volatility profile.\n• Those who believe rates will settle higher for longer — direct beneficiary of persistent NII.\n\nAvoid It:\n• Growth-oriented investors — limited upside beyond fee volume normalisation.\n• Those expecting rapid rate cuts — NII compression is a structural headwind.\n• Investors wanting operational leverage — BK is a slow-to-adapt institutional bank."
     },
     "recommendation": {
-      "text": "HOLD\n            Structurally sound custodian with improving fee income but material interest rate sensitivity keeps upside capped near current levels.\n          \n          \n            Entry / Exit Framework\n            \n              Conviction Score72 / 100 — HOLD\n              EntryBelow $118 — attractive relative to intrinsic value\n              AddBelow $108 — high conviction buy zone\n              Reduce / ExitAbove $150 — approaches fair value ceiling\n              Time Horizon18–36 months"
+      "text": "HOLD Structurally sound custodian with improving fee income but material interest rate sensitivity keeps upside capped near current levels. Entry / Exit Framework Conviction Score 72 / 100 — HOLD Entry Below $118 — attractive relative to intrinsic value Add Below $108 — high conviction buy zone Reduce / Exit Above $150 — approaches fair value ceiling Time Horizon 18–36 months"
     },
     "entryExit": {
-      "text": "Conviction Score: 72 / 100 — HOLD\nEntry: Below $118 — attractive relative to intrinsic value\nAdd: Below $108 — high conviction buy zone\nReduce / Exit: Above $150 — approaches fair value ceiling\nTime Horizon: 18–36 months"
+      "text": "Entry / Exit Framework Conviction Score 72 / 100 — HOLD Entry Below $118 — attractive relative to intrinsic value Add Below $108 — high conviction buy zone Reduce / Exit Above $150 — approaches fair value ceiling Time Horizon 18–36 months Sources Live market data via DYOR HQ data pipeline Bank of New York Mellon public filings and earnings releases Federal Reserve policy communications S&amp;P Capital IQ estimates Report generated 11 April 2026. For informational purposes only. Not financial advice."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -91,13 +91,13 @@
     "current": {
       "score": 72,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 72,
         "band": "HOLD",
         "delta": "0",

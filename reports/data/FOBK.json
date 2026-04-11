@@ -5,10 +5,10 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "SELL",
     "recommendationNote": "SELL",
-    "conviction": 50,
+    "conviction": 28,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -29,59 +29,59 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "No recent RNS or material corporate announcements identified. Without regular public disclosure, any re-rating catalyst is essentially unknowable."
     },
     "thesisEvaluation": {
       "text": "Bull Case 45 Target: $3.50 | EPS: $0.10 A regional acquisition provides scale. Net interest income grows as rates stay elevated. EPS reaches $0.10+. Base Case 28 Target: $2.40 | EPS: $0.00 Limited financial disclosure makes tracking performance impossible. No material change to operations. EPS ~$0.00. Bear Case 12 Target: $1.20 | EPS: $-0.05 Credit quality deteriorates as loan defaults rise. Net interest margin compression reduces profitability. EPS turns negative. Conviction Score (Bull 30% + Base 50% + Bear 20%): 28 / 100 — SELL",
       "bull": {
-        "scenario": "Bull 30% +",
-        "probability": 30
+        "scenario": "A regional acquisition provides scale. Net interest income grows as rates stay elevated. EPS reaches $0.10+.",
+        "probability": null
       },
       "base": {
-        "scenario": "Base 50% +",
-        "probability": 50
+        "scenario": "Limited financial disclosure makes tracking performance impossible. No material change to operations. EPS ~$0.00.",
+        "probability": null
       },
       "bear": {
-        "scenario": "Bear Case 12 Target: $1",
-        "probability": 25
+        "scenario": "Credit quality deteriorates as loan defaults rise. Net interest margin compression reduces profitability. EPS turns negative.",
+        "probability": null
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "Reports / FOBK FOBK Frontier Financial Holdings SELL 11 April 2026 $$2.26 28 Conviction out of 100 >",
       "risks": [
         {
           "rank": 1,
-          "risk": "Credit risk in loan portfolio:: Credit risk in loan portfolio:  Regional banks and financial services companies are highly exposed to credit cycles. Any economic slowdown in Frontier's operating region would increase loan defaults."
+          "risk": "#1 Credit risk in loan portfolio: Regional banks and financial services companies are highly exposed to credit cycles. Any economic slowdown in Frontier's operating region would increase loan defaults."
         },
         {
           "rank": 2,
-          "risk": "Net interest margin sensitivity:: Net interest margin sensitivity:  As a financial institution, Frontier's earnings are highly sensitive to interest rates. A rapid rate-cutting cycle would compress the net interest margin."
+          "risk": "#2 Net interest margin sensitivity: As a financial institution, Frontier's earnings are highly sensitive to interest rates. A rapid rate-cutting cycle would compress the net interest margin."
         },
         {
           "rank": 3,
-          "risk": "Lack of financial disclosure:: Lack of financial disclosure:  Pink Sheets listing provides minimal disclosure, making independent credit analysis of the loan portfolio impossible."
+          "risk": "#3 Lack of financial disclosure: Pink Sheets listing provides minimal disclosure, making independent credit analysis of the loan portfolio impossible."
         },
         {
           "rank": 4,
-          "risk": "Liquidity risk:: Liquidity risk:  Micro-cap financials on Pink Sheets have extremely limited liquidity, making it difficult to exit positions at reasonable prices."
+          "risk": "#4 Liquidity risk: Micro-cap financials on Pink Sheets have extremely limited liquidity, making it difficult to exit positions at reasonable prices."
         },
         {
           "rank": 5,
-          "risk": "Potential regulatory action:: Potential regulatory action:  Regional financial institutions face ongoing regulatory supervision. Any adverse regulatory finding would be a material risk to the business."
+          "risk": "#5 Potential regulatory action: Regional financial institutions face ongoing regulatory supervision. Any adverse regulatory finding would be a material risk to the business."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": "Frontier Financial Holdings is a micro-cap financial services company listed on Pink Sheets with insufficient public disclosure to conduct a meaningful fundamental analysis --  SELL . Frontier Financial Holdings appears to be a small financial services company, likely operating in regional banking, insurance or financial advisory, with a primary focus on a specific geographic region in the United States. Pink Sheets listing provides minimal regulatory disclosure. The regional banking and financial services sectors in the US face significant headwinds from rising interest rates (which increase funding costs for banks) and potential credit quality deterioration in a slowing economy. No recent RNS or material corporate announcements identified. Without regular public disclosure, any re-rating catalyst is essentially unknowable. Frontier Financial Holdings is a micro-cap financial services company listed on Pink Sheets with insufficient public disclosure to conduct a meaningful fundamental analysis --  SELL . Frontier Financial Holdings appears to be a small financial services company, likely operating in regional banking, insurance or financial advisory, with a primary focus on a specific geographic region in the United States. Pink Sheets listing provides minimal regulatory disclosure. The regional banking and financial services sectors in the US face significant headwinds from rising interest rates (which increase funding costs for banks) and potential credit quality deterioration in a slowing economy. No recent RNS or material corporate announcements identified. Without regular public disclosure, any re-rating catalyst is essentially unknowable. Own:  No institutional investor or investor with reasonable risk tolerance should own this name. Avoid:  All investors should avoid or reduce this position due to the lack of transparent financial information and credit analysis capability."
+      "text": "Own: No institutional investor or investor with reasonable risk tolerance should own this name. Avoid: All investors should avoid or reduce this position due to the lack of transparent financial information and credit analysis capability."
     },
     "recommendation": {
       "text": "SELL Score: 28/100 FOBK is not an assessable investment given the Pink Sheets listing and limited financial disclosure. The risk-reward is negative at $2.26 given the structural challenges in regional financial services. SELL. Entry Framework: SELL at all levels above $1.20. BUY below $3.85 HOLD $2.64-$3.85 REDUCE above $3.85"
     },
     "entryExit": {
-      "text": ""
+      "text": "BUY below $3.85 | HOLD $2.64-$3.85 | REDUCE above $3.85"
     },
     "sources": {
-      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -89,16 +89,16 @@
   },
   "scores": {
     "current": {
-      "score": 50,
+      "score": 28,
       "band": "SELL",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 50,
+        "date": "",
+        "score": 28,
         "band": "SELL",
         "delta": "0",
         "reason": "Initial coverage"

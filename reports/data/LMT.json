@@ -1,11 +1,11 @@
 {
   "meta": {
-    "ticker": "",
+    "ticker": "LMT",
     "company": "LMT",
     "exchange": "",
     "isin": "",
     "date": "",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 65,
@@ -29,7 +29,7 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": "F-35 Block 4+ standard contract awarded Q3 2025 ($8bn lot 17)\n    AUKUS trilateral agreement creates 12+ yr pipeline for nuclear-powered submarine construction\n    Tritorial Battery II Iron Dome award for Middle East allies ($2.2bn)\n    Classified programme revenue grew 18% FY24, now ~35% of total misson",
+      "text": "F-35 Block 4+ standard contract awarded Q3 2025 ($8bn lot 17) AUKUS trilateral agreement creates 12+ yr pipeline for nuclear-powered submarine construction Tritorial Battery II Iron Dome award for Middle East allies ($2.2bn) Classified programme revenue grew 18% FY24, now ~35% of total misson",
       "items": [
         "F-35 Block 4+ standard contract awarded Q3 2025 ($8bn lot 17)",
         "AUKUS trilateral agreement creates 12+ yr pipeline for nuclear-powered submarine construction",
@@ -38,7 +38,7 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "74\n      Bull\n    \n    \n      65\n      Base\n    \n    \n      50\n      Bear\n    \n    \n      65\n      Conviction",
+      "text": "74 Bull 65 Base 50 Bear 65 Conviction",
       "bull": {
         "scenario": "",
         "probability": 25
@@ -53,7 +53,7 @@
       }
     },
     "keyRisks": {
-      "text": "1. DoD budget appropriation risk if US Congress raises debt-ceiling conditions tied to cuts 2. Fixed-price F-35 contracts create margin risk on Block 4 complexity overruns 3. Space sector programme de",
+      "text": "1. DoD budget appropriation risk if US Congress raises debt-ceiling conditions tied to cuts 2. Fixed-price F-35 contracts create margin risk on Block 4 complexity overruns 3. Space sector programme delays (e.g. NTS-3 satellite) add fixed-cost drag 4. Labour cost inflation in maritime sector (Newport News shipyard) compresses margins 5. Foreign Military Sales subject to Congressional review — geopolitical freeze risk",
       "risks": [
         {
           "rank": 1,
@@ -84,7 +84,7 @@
       "text": ""
     },
     "entryExit": {
-      "text": "Lockheed Martin (LMT) — Entry / Exit Framework\n\nHOLD zone: $564.62–$625.99 — current levels are fairly valued.\nTrim / Take Profits above $625.99 — approaching the 52-week high at $692.00.\nStop-loss: A sustained close below $401.91 (52-week low) would warrant reassessment."
+      "text": "Establish at $550–$590 (15–20% below 52-week high). HOLD $590–$650. REDUCE above $650. Programme milestone: Sentinel ICBM test launch Q1 FY27. | BUY: Establish at $550–$590 (15–20% below 52-week high). | REDUCE above $650."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -97,13 +97,13 @@
     "current": {
       "score": 65,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 65,
         "band": "HOLD",
         "delta": "0",

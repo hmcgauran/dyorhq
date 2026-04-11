@@ -5,7 +5,7 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 67,
@@ -32,7 +32,7 @@
       "text": "Progressive is the third-largest personal auto insurer in the United States by market share, famous for its Name Your Price tool and direct-to-consumer digital distribution model. The business operates in three segments: Personal Lines (private passenger auto, which accounts for approximately 85% of earnings), Commercial Lines (small fleet trucking and business auto), and Property (standard and preferred homeowners insurance). Progressive's competitive edge lies in its proprietary pricing algorithms (the Name Your Price portal and its real-time telematics-based Snapshot programme) that allow granular risk selection and pricing precision competitors struggle to match. The combined ratio — a measure of underwriting profitability — has historically been the best in the industry, often below 90%, meaning Progressive earns an underwriting profit rather than relying solely on investment income."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -64,22 +64,22 @@
       "text": "The stock is down materially from its 52-week high of $289.96, trading near its 52-week low of $192.02. This represents a roughly 33% decline from the 52-week high. The market is repricing Progressive based on elevated loss ratios in personal auto — severity (cost per claim) has been running above expectations due to used car prices, medical inflation and jury verdicts in bodily injury claims. Progressive has taken rate increases to compensate, but there is a lag between cost increases and premium repricing. The commercial lines business has been a bright spot with strong premium growth. Investment income has improved as higher interest rates boost the return on the float portfolio."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (78): Auto severity inflation moderates as used car prices stabilise. Progressive's rate increases fully offset cost inflation and the combined ratio returns to below 92%. Commercial Lines continues to grow strongly. The float investment income benefits from sustained higher rates. EPS grows to $23+. Price: $255+.\n            Base Case (67): Severity remains elevated but gradually moderates. Rate increases offset most of the cost pressure. Combined ratio stays in the 94-96% range. Investment income remains a tailwind. EPS grows to $20-$21. Price: $195-$215.\n            Bear Case (50): Auto loss severity worsens materially due to a hard claims environment or litigation explosion. Progressive is forced to take additional large rate increases, causing policy churn. Combined ratio rises above 100%. EPS falls to $16-$17. Price: below $165.\n            Weighted Score: 67 — Bull 78 x 30% + Base 67 x 50% + Bear 50 x 20%",
+      "text": "Bull Case (78): Auto severity inflation moderates as used car prices stabilise. Progressive's rate increases fully offset cost inflation and the combined ratio returns to below 92%. Commercial Lines continues to grow strongly. The float investment income benefits from sustained higher rates. EPS grows to $23+. Price: $255+. Base Case (67): Severity remains elevated but gradually moderates. Rate increases offset most of the cost pressure. Combined ratio stays in the 94-96% range. Investment income remains a tailwind. EPS grows to $20-$21. Price: $195-$215. Bear Case (50): Auto loss severity worsens materially due to a hard claims environment or litigation explosion. Progressive is forced to take additional large rate increases, causing policy churn. Combined ratio rises above 100%. EPS falls to $16-$17. Price: below $165. Weighted Score: 67 — Bull 78 x 30% + Base 67 x 50% + Bear 50 x 20%",
       "bull": {
-        "scenario": "Bull Case (78): Auto severity inflation moderates as used car prices stabilise. Progressive's rate increases fully offset cost inflation and the combined ratio returns to below 92%. Commercial Lines continues to grow strongly. The float investment income benefits from sustained higher rates. EPS grows to $23+. Price: $255+.",
-        "probability": 92
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (67): Severity remains elevated but gradually moderates. Rate increases offset most of the cost pressure. Combined ratio stays in the 94-96% range. Investment income remains a tailwind. EPS grows to $20-$21. Price: $195-$215.",
-        "probability": 96
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (50): Auto loss severity worsens materially due to a hard claims environment or litigation explosion. Progressive is forced to take additional large rate increases, causing policy churn. Combined ratio rises above 100%. EPS falls to $16-$17. Price: below $165.",
-        "probability": 100
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Auto claims severity inflation: The most pressing risk is whether Progressive can maintain its underwriting edge in an environment where bodily injury jury awards, medical costs and vehicle repair cos",
+      "text": "Auto claims severity inflation: The most pressing risk is whether Progressive can maintain its underwriting edge in an environment where bodily injury jury awards, medical costs and vehicle repair costs are all rising faster than historical trends. This directly compresses the combined ratio. Competitive pressure on pricing: If Progressive raises rates aggressively to protect margins, competitors may undercut on price, causing policy churn that reduces the floater and increases loss ratios as risk selection deteriorates. Regulatory and political risk: Auto insurance pricing is subject to state-level regulation. Several states have restricted the use of credit scores and telematics data in underwriting, which could impair Progressive's pricing advantage relative to competitors. Catastrophe exposure in Property: The Property segment exposes Progressive to weather-related catastrophe losses. A severe hurricane season or widespread severe convective storms could materially impact earnings in a single quarter. Valuation re-rating risk: The stock has declined ~33% from its 52-week high. While the P/E of 10.1x looks cheap, it reflects market concern about the severity trajectory. If severity normalises, the re-rating potential is substantial, but the timing is uncertain.",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Patient value investors who understand the insurance cycle and are comfortable holding through the current elevated loss environment. The 10.1x P/E is historically cheap for Progressive, and investors with a 3-5 year horizon may be rewarded as the severity cycle turns. Avoiders: Short-term investors expecting a quick re-rating or those who find better risk-adjusted returns in sectors with cleaner earnings momentum. The near-52-week-low price reflects genuine uncertainty about the loss ratio trajectory."
+      "text": "Own: Patient value investors who understand the insurance cycle and are comfortable holding through the current elevated loss environment. The 10.1x P/E is historically cheap for Progressive, and investors with a 3-5 year horizon may be rewarded as the severity cycle turns."
     },
     "recommendation": {
-      "text": "HOLD. Progressive is one of the best-run insurers in the world, and the 10.1x P/E is historically cheap relative to its long-term track record. However, until the loss severity cycle clearly inflects, the stock lacks the earnings momentum to justify a BUY. The risk-reward is asymmetric to the upside but the timing is uncertain.\n            Entry framework: BUY below $180 (implies single-digit P/E on base-case EPS — historically attractive entry for long-term holders). Hold between $180 and $220. Reduce on rallies above $240 (approaching fair value for a normalised earnings power of $20+ EPS at 12x P/E)."
+      "text": "HOLD. Progressive is one of the best-run insurers in the world, and the 10.1x P/E is historically cheap relative to its long-term track record. However, until the loss severity cycle clearly inflects, the stock lacks the earnings momentum to justify a BUY. The risk-reward is asymmetric to the upside but the timing is uncertain. Entry framework: BUY below $180 (implies single-digit P/E on base-case EPS — historically attractive entry for long-term holders). Hold between $180 and $220. Reduce on rallies above $240 (approaching fair value for a normalised earnings power of $20+ EPS at 12x P/E)."
     },
     "entryExit": {
-      "text": "BUY below $180 (implies single-digit P/E on base-case EPS — historically attractive entry for long-term holders). Hold between $180 and $220. Reduce on rallies above $240 (approaching fair value for a normalised earnings power of $20+ EPS at 12x P/E)."
+      "text": "BUY below $180 (implies single-digit P/E on base-case EPS — historically attractive entry for long-term holders). Hold between $180 and $220. Reduce on rallies above $240 (approaching fair value for a normalised earnings power of $20+ EPS at 12x P/E). | Entry framework: BUY below $180 (implies single-digit P/E on base-case EPS — historically attractive entry for long-term holders). | Reduce on rallies above $240 (approaching fair value for a normalised earnings power of $20+ EPS at 12x P/E)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -123,13 +123,13 @@
     "current": {
       "score": 67,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 67,
         "band": "HOLD",
         "delta": "0",

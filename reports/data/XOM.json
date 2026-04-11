@@ -5,15 +5,15 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 45,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "sp100",
-      "watchlist",
-      "fortune100"
+      "fortune100",
+      "watchlist"
     ]
   },
   "price": {
@@ -24,32 +24,32 @@
       "text": ""
     },
     "businessModel": {
-      "text": "Exxon Mobil is an integrated oil and gas company operating across the full petroleum value chain:\n  \n    Upstream Exploration &amp; Production: Crude oil and natural gas production across five major producing regions: US Permian Basin, Guyana (Stabroek block), Brazil, Middle East, and Australia. Exxon has one of the lowest-breakeven production portfolios in the industry with significant Permian and deepwater barrels.\n    Downstream Refining &amp; Chemicals: One of the world's largest refiners with ~4 million barrels per day of refining capacity across 21 refineries globally. The chemicals segment (ExxonMobil Chemical) is integrated with the refineries and focuses on high-margin specialty chemicals and polyethylene.\n    Low-Carbon Solutions: Carbon capture and storage (CCS), hydrogen, and biofuels investments — still nascent but growing. The strategy is to leverage existing operational capabilities into emerging energy transition markets without significant capital at risk.\n    Permian Basin Leadership: Exxon is the largest acreage holder in the US Permian Basin following the Pioneer Natural Resources acquisition, giving it a dominant position in the lowest-cost US production region.\n  \n  Exxon's integrated model provides a natural hedge — when upstream revenues are pressured by low oil prices, the downstream refining business typically benefits from processing margins. The Permian consolidation and Guyana deepwater discoveries have significantly strengthened the upstream portfolio over the past five years."
+      "text": "Exxon Mobil is an integrated oil and gas company operating across the full petroleum value chain: Upstream Exploration &amp; Production: Crude oil and natural gas production across five major producing regions: US Permian Basin, Guyana (Stabroek block), Brazil, Middle East, and Australia. Exxon has one of the lowest-breakeven production portfolios in the industry with significant Permian and deepwater barrels. Downstream Refining &amp; Chemicals: One of the world's largest refiners with ~4 million barrels per day of refining capacity across 21 refineries globally. The chemicals segment (ExxonMobil Chemical) is integrated with the refineries and focuses on high-margin specialty chemicals and polyethylene. Low-Carbon Solutions: Carbon capture and storage (CCS), hydrogen, and biofuels investments — still nascent but growing. The strategy is to leverage existing operational capabilities into emerging energy transition markets without significant capital at risk. Permian Basin Leadership: Exxon is the largest acreage holder in the US Permian Basin following the Pioneer Natural Resources acquisition, giving it a dominant position in the lowest-cost US production region. Exxon's integrated model provides a natural hedge — when upstream revenues are pressured by low oil prices, the downstream refining business typically benefits from processing margins. The Permian consolidation and Guyana deepwater discoveries have significantly strengthened the upstream portfolio over the past five years."
     },
     "financialSnapshot": {
-      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$152.51</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$633.9bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">22.8×</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$6.69</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$176.41</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$98.79</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">−13.5%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">21.1m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "text": "Price $152.51 Market Cap $633.9bn P/E Ratio 22.8× EPS (TTM) $6.69 52w High $176.41 52w Low $98.79 Distance from 52wH −13.5% Avg Volume 21.1m",
       "table": []
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case\n      72 / 100\n      OPEC+ manages supply effectively and oil prices remain in the $80–95 range, supporting Permian and Guyana free cash flow. Exxon's low break-even (approximately $40–45 WTI) means exceptional margin capture at current prices. Buybacks accelerate to $25bn+ annually. Shares re-rate to 25×+ as the energy transition thesis proves slower than anticipated and the market prices in higher-for-longer oil.\n      Weight: 30%\n    \n    \n      Base Case\n      55 / 100\n      Oil prices average $65–80 WTI as moderate demand growth is met by non-OPEC+ supply growth. Exxon's integrated portfolio generates $30–35bn in annual free cash flow. Buybacks continue at $15–20bn per year. The dividend is maintained and grows modestly. Shares trade in a $140–165 range on 20–24× earnings.\n      Weight: 50%\n    \n    \n      Bear Case\n      35 / 100\n      Global oil demand peaks as electric vehicle adoption accelerates faster than expected. OPEC+ discipline breaks down, driving oil prices below $60 WTI. Exxon's Permian production growth cannot offset the decline in international legacy fields. Free cash flow falls to $20bn or below, forcing a reduction in buybacks and creating dividend pressure. Long-term structural decline begins.\n      Weight: 20%",
+      "text": "Bull Case 72 / 100 OPEC+ manages supply effectively and oil prices remain in the $80–95 range, supporting Permian and Guyana free cash flow. Exxon's low break-even (approximately $40–45 WTI) means exceptional margin capture at current prices. Buybacks accelerate to $25bn+ annually. Shares re-rate to 25×+ as the energy transition thesis proves slower than anticipated and the market prices in higher-for-longer oil. Weight: 30% Base Case 55 / 100 Oil prices average $65–80 WTI as moderate demand growth is met by non-OPEC+ supply growth. Exxon's integrated portfolio generates $30–35bn in annual free cash flow. Buybacks continue at $15–20bn per year. The dividend is maintained and grows modestly. Shares trade in a $140–165 range on 20–24× earnings. Weight: 50% Bear Case 35 / 100 Global oil demand peaks as electric vehicle adoption accelerates faster than expected. OPEC+ discipline breaks down, driving oil prices below $60 WTI. Exxon's Permian production growth cannot offset the decline in international legacy fields. Free cash flow falls to $20bn or below, forcing a reduction in buybacks and creating dividend pressure. Long-term structural decline begins. Weight: 20%",
       "bull": {
-        "scenario": "Bull Case\n      72 / 100\n      OPEC+ manages supply effectively and oil prices remain in the $80–95 range, supporting Permian and Guyana free cash flow. Exxon's low break-even (approximately $40–45 WTI) means exceptional margin capture at current prices. Buybacks accelerate to $25bn+ annually. Shares re-rate to 25×+ as the energy transition thesis proves slower than anticipated and the market prices in higher-for-longer oil.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
-        "probability": 30
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case\n      55 / 100\n      Oil prices average $65–80 WTI as moderate demand growth is met by non-OPEC+ supply growth. Exxon's integrated portfolio generates $30–35bn in annual free cash flow. Buybacks continue at $15–20bn per year. The dividend is maintained and grows modestly. Shares trade in a $140–165 range on 20–24× earnings.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "scenario": "",
         "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case\n      35 / 100",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "1 Peak demand and energy transition: The long-term structural demand for petroleum faces genuine headwinds from electrification. The International Energy Agency's projected peak oil demand by 2030 may",
+      "text": "1 Peak demand and energy transition: The long-term structural demand for petroleum faces genuine headwinds from electrification. The International Energy Agency's projected peak oil demand by 2030 may prove optimistic or pessimistic — the trajectory is directionally clear however, creating long-duration risk for fossil fuel equities. 2 OPEC+ discipline breakdown: A breakdown in OPEC+ production coordination could flood the market with supply, driving oil prices significantly lower. Exxon is the most resilient major to this scenario due to its low breakeven, but free cash flow would still fall materially at $50–60 WTI. 3 ESG and divestment pressure: Institutional investors continue to reduce fossil fuel exposure for ESG and climate reasons. This structural demand reduction from the investor base could keep multiples compressed below historical energy sector averages even if fundamentals are sound. 4 Permian Basin tiering risk: The Permian Basin is a world-class resource, but the best acreage has been picked over. Future drilling inventory quality could deteriorate, increasing production costs per barrel over time and reducing the attractiveness of the Permian relative to Guyana deepwater. 5 Carbon tax and regulatory costs: Unexpected implementation of carbon pricing in the US or globally would increase the effective cost of Exxon's production and refining operations, compressing margins and accelerating the economic case for energy transition investment over traditional hydrocarbon assets.",
       "risks": [
         {
           "rank": 1,
@@ -77,10 +77,10 @@
       "text": "Appropriate For Value-oriented investors who want a high-quality integrated energy business with the lowest break-even production in the sector and a strong capital discipline culture, offering better risk-adjusted returns than pure-play E&amp;P companies Income investors who value a 2.8 per cent dividend with 42 consecutive years of growth and a share buyback programme that compounds returns at high oil prices Contrarians who believe peak oil demand is further away than the consensus expects and that OPEC+ can manage supply effectively enough to keep oil prices in the $75–90 range for the next several years Avoid If Long-duration ESG-conscious investors who cannot hold fossil fuel producers or who face mandates preventing energy sector exposure Investors seeking growth rather than value — the energy transition headwind creates a structural ceiling on the multiple the market will assign to Exxon over a 5–10 year horizon Strong views that peak oil demand is imminent and that OPEC+ will lose control of pricing as EVs capture market share faster than expected"
     },
     "recommendation": {
-      "text": "Conviction Score: 56/100 — REDUCE\n  The shares trade 13.5 per cent below the 52-week high at a P/E of 22.8×, reflecting both the quality of the asset base and the structural uncertainty around long-term oil demand. Buybacks and the growing dividend provide some floor, but the energy transition creates a structural ceiling on the multiple. Hold existing positions; do not initiate new ones at current levels.\n  \n    Buy Below$115\n    HOLD Zone$115–$148\n    Reduce Above$148\n    Stop / Sell$105"
+      "text": "Conviction Score: 56/100 — REDUCE The shares trade 13.5 per cent below the 52-week high at a P/E of 22.8×, reflecting both the quality of the asset base and the structural uncertainty around long-term oil demand. Buybacks and the growing dividend provide some floor, but the energy transition creates a structural ceiling on the multiple. Hold existing positions; do not initiate new ones at current levels. Buy Below $115 HOLD Zone $115–$148 Reduce Above $148 Stop / Sell $105"
     },
     "entryExit": {
-      "text": "XOM — Exxon Mobil Corporation (XOM) — Entry / Exit Framework\n\nReduce / Trim: Above $155.56 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $167.76 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $179.94 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $109.29 — partial mean reversion toward the middle of the 52-week range."
+      "text": "Buy Below: $115 | HOLD Zone: $115–$148 | Reduce Above: $148 | Stop / Sell: $105"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -91,16 +91,16 @@
   },
   "scores": {
     "current": {
-      "score": 45,
+      "score": 50,
       "band": "REDUCE",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 45,
+        "date": "",
+        "score": 50,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"

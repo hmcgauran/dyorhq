@@ -5,10 +5,10 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 50,
+    "conviction": 46,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -29,17 +29,17 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "GXO's recent quarterly results showed revenue declining year-on-year as customer inventory destocking continued and e-commerce volume growth slowed from the pandemic peak. Operating margins were under pressure from wage inflation and lower throughput volumes. New customer wins (including several large consumer electronics and retail accounts) are providing partial offset. GXO management has been vocal about its technology platform investments (warehouse automation, robotics) aimed at improving labour productivity and reducing cost-per-line."
     },
     "thesisEvaluation": {
       "text": "Bull Case 62 Target: $22.00 | EPS: $1.80 Inventory destocking cycle ends. E-commerce volumes re-accelerate. Warehouse automation investments improve productivity measurably. EPS reaches $1.80+. Base Case 46 Target: $17.00 | EPS: $1.20 Logistics volumes stabilise. New customer wins offset existing contract losses. EPS ~$1.20. Reports / GHRS GHRS GXO Holdings Ireland REDUCE 11 April 2026 $$15.72 46 Conviction out of 100 >",
       "bull": {
-        "scenario": "",
-        "probability": 25
+        "scenario": "Inventory destocking cycle ends. E-commerce volumes re-accelerate. Warehouse automation investments improve productivity measurably. EPS reaches $1.80+.",
+        "probability": null
       },
       "base": {
-        "scenario": "",
-        "probability": 50
+        "scenario": "Logistics volumes stabilise. New customer wins offset existing contract losses. EPS ~$1.20.",
+        "probability": null
       },
       "bear": {
         "scenario": "",
@@ -47,41 +47,41 @@
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "#1 Volume-sensitive revenue model: GXO's contract logistics revenues are proportional to customer volumes. Any deterioration in e-commerce or retail volumes directly reduces GXO's revenues and margins. #2 Wage inflation in warehouse operations: Labour costs are GXO's largest cost component. Sustained wage inflation in the US and Europe (minimum wage increases, tight labour markets) compresses margins. #3 Customer concentration risk: GXO's top customers represent a significant share of revenues. Contract losses or volume reductions from major customers would be material. #4 Automation capital requirements: GXO needs to invest heavily in warehouse automation to remain competitive. The capital intensity of this strategy limits free cash flow conversion. #5 Competitive dynamics: Amazon Logistics, XPO (former parent), Deutsche Post/DHL, and Kuehne+Nagel are formidable competitors in contract logistics.",
       "risks": [
         {
           "rank": 1,
-          "risk": "Volume-sensitive revenue model:: Volume-sensitive revenue model:  GXO's contract logistics revenues are proportional to customer volumes. Any deterioration in e-commerce or retail volumes directly reduces GXO's revenues and margins."
+          "risk": "#1 Volume-sensitive revenue model: GXO's contract logistics revenues are proportional to customer volumes. Any deterioration in e-commerce or retail volumes directly reduces GXO's revenues and margins."
         },
         {
           "rank": 2,
-          "risk": "Wage inflation in warehouse operations:: Wage inflation in warehouse operations:  Labour costs are GXO's largest cost component. Sustained wage inflation in the US and Europe (minimum wage increases, tight labour markets) compresses margins."
+          "risk": "#2 Wage inflation in warehouse operations: Labour costs are GXO's largest cost component. Sustained wage inflation in the US and Europe (minimum wage increases, tight labour markets) compresses margins."
         },
         {
           "rank": 3,
-          "risk": "Customer concentration risk:: Customer concentration risk:  GXO's top customers represent a significant share of revenues. Contract losses or volume reductions from major customers would be material."
+          "risk": "#3 Customer concentration risk: GXO's top customers represent a significant share of revenues. Contract losses or volume reductions from major customers would be material."
         },
         {
           "rank": 4,
-          "risk": "Automation capital requirements:: Automation capital requirements:  GXO needs to invest heavily in warehouse automation to remain competitive. The capital intensity of this strategy limits free cash flow conversion."
+          "risk": "#4 Automation capital requirements: GXO needs to invest heavily in warehouse automation to remain competitive. The capital intensity of this strategy limits free cash flow conversion."
         },
         {
           "rank": 5,
-          "risk": "Competitive dynamics:: Competitive dynamics:  Amazon Logistics, XPO (former parent), Deutsche Post/DHL, and Kuehne+Nagel are formidable competitors in contract logistics."
+          "risk": "#5 Competitive dynamics: Amazon Logistics, XPO (former parent), Deutsche Post/DHL, and Kuehne+Nagel are formidable competitors in contract logistics."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": "GXO Holdings Ireland is a global logistics and supply chain management company spun off from XPO Logistics, but the high operational leverage to e-commerce volume trends and a challenging macro environment for contract logistics create a below-average risk-reward at $15.72 --  REDUCE . GXO Logistics is a global logistics and supply chain management company, providing contract logistics services (warehousing, fulfilment, co-packing, transportation management) to enterprise customers across consumer retail, technology, industrial and life sciences sectors. GXO is one of the largest pure-play contract logistics operators globally, with operations across North America, Europe and Asia. The business model involves long-term customer contracts (typically 3-5 years) with GXO operating dedicated or shared-user warehouse facilities on behalf of customers. Revenue is predominantly variable, tied to the volume of goods handled, which creates earnings sensitivity to customer volumes -- a structural limitation of the contract logistics model. Geographic exposure: North America (~50%), Europe (~40%), Asia (~10%). GXO's recent quarterly results showed revenue declining year-on-year as customer inventory destocking continued and e-commerce volume growth slowed from the pandemic peak. Operating margins were under pressure from wage inflation and lower throughput volumes. New customer wins (including several large consumer electronics and retail accounts) are providing partial offset. GXO management has been vocal about its technology platform investments (warehouse automation, robotics) aimed at improving labour productivity and reducing cost-per-line. GXO Holdings Ireland is a global logistics and supply chain management company spun off from XPO Logistics, but the high operational leverage to e-commerce volume trends and a challenging macro environment for contract logistics create a below-average risk-reward at $15.72 --  REDUCE . GXO Logistics is a global logistics and supply chain management company, providing contract logistics services (warehousing, fulfilment, co-packing, transportation management) to enterprise customers across consumer retail, technology, industrial and life sciences sectors. GXO is one of the largest pure-play contract logistics operators globally, with operations across North America, Europe and Asia. The business model involves long-term customer contracts (typically 3-5 years) with GXO operating dedicated or shared-user warehouse facilities on behalf of customers. Revenue is predominantly variable, tied to the volume of goods handled, which creates earnings sensitivity to customer volumes -- a structural limitation of the contract logistics model. Geographic exposure: North America (~50%), Europe (~40%), Asia (~10%). GXO's recent quarterly results showed revenue declining year-on-year as customer inventory destocking continued and e-commerce volume growth slowed from the pandemic peak. Operating margins were under pressure from wage inflation and lower throughput volumes. New customer wins (including several large consumer electronics and retail accounts) are providing partial offset. GXO management has been vocal about its technology platform investments (warehouse automation, robotics) aimed at improving labour productivity and reducing cost-per-line. Own:  Sector rotation investors who want pure-play e-commerce logistics exposure. The pure-play contract logistics model has some merit for investors who believe in secular e-commerce growth. Avoid:  Macro-conscious investors who view GXO's volume sensitivity as a structural risk rather than a feature. Investors who require stable earnings from a capital-intensive logistics business."
+      "text": "Own: Sector rotation investors who want pure-play e-commerce logistics exposure. The pure-play contract logistics model has some merit for investors who believe in secular e-commerce growth. Avoid: Macro-conscious investors who view GXO's volume sensitivity as a structural risk rather than a feature. Investors who require stable earnings from a capital-intensive logistics business."
     },
     "recommendation": {
       "text": "REDUCE Score: 46/100 GXO is a credible contract logistics platform but operates in a structurally difficult environment. Volume-sensitive revenues, labour cost inflation, and automation capital requirements combine to create a challenging margin outlook. The risk-reward at $15.72 is not compelling. REDUCE. Entry Framework: REDUCE at current levels ($15.72). BUY below $11 only if inventory destocking clearly ends and e-commerce volumes stabilise. BUY below $23.10 HOLD $17.85-$23.10 REDUCE above $23.10"
     },
     "entryExit": {
-      "text": ""
+      "text": "BUY below $23.10 | HOLD $17.85-$23.10 | REDUCE above $23.10"
     },
     "sources": {
-      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -89,16 +89,16 @@
   },
   "scores": {
     "current": {
-      "score": 50,
+      "score": 46,
       "band": "REDUCE",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 50,
+        "date": "",
+        "score": 46,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"

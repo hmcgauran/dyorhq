@@ -5,10 +5,10 @@
     "exchange": "",
     "isin": "",
     "date": "11 April 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "SELL",
     "recommendationNote": "SELL",
-    "conviction": 50,
+    "conviction": 18,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -29,59 +29,59 @@
       "table": []
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "SLM has been undergoing a financial restructuring after years of losses and capital erosion. Recent quarterly results showed revenues declining and continued operating losses. SLM's shareholder base has been diluted through multiple equity raises. The company is reportedly seeking strategic alternatives, potentially including a sale of the business or a significant restructuring of its balance sheet."
     },
     "thesisEvaluation": {
       "text": "Bull Case 32 Target: $1.20 | EPS: $-0.10 SLM wins a major aerospace or medical AM contract. A strategic investor acquires a significant stake or the company. EPS approaches breakeven. Base Case 18 Target: $0.80 | EPS: $-0.20 No meaningful improvement in operational performance. Company continues to burn cash with limited runway. EPS remains deeply negative. Bear Case 8 Target: $0.30 | EPS: $-0.40 Capital runs out. Strategic alternatives Reports / SLMT SLMT SLM Solutions Group AG SELL 11 April 2026 $$0.78 18 Conviction out of 100 >",
       "bull": {
-        "scenario": "",
-        "probability": 25
+        "scenario": "SLM wins a major aerospace or medical AM contract. A strategic investor acquires a significant stake or the company. EPS approaches breakeven.",
+        "probability": null
       },
       "base": {
-        "scenario": "",
-        "probability": 50
+        "scenario": "No meaningful improvement in operational performance. Company continues to burn cash with limited runway. EPS remains deeply negative.",
+        "probability": null
       },
       "bear": {
-        "scenario": "Bear Case 8 Target: $0",
-        "probability": 25
+        "scenario": "Capital runs out. Strategic alternatives Reports / SLMT",
+        "probability": null
       }
     },
     "keyRisks": {
-      "text": "",
+      "text": "#1 Capital exhaustion risk: SLM has been burning cash for multiple years. Any further equity raises would cause severe dilution to existing shareholders. #2 Additive manufacturing market immaturity: Metal AM remains a niche technology relative to conventional manufacturing. The market growth that was predicted in the 2015-2020 period has not materialised at scale. #3 Competitive dynamics: SLM competes with large industrial conglomerates (GE, Siemens, Trumpf) that have significantly greater R&D and capital resources. #4 Technology obsolescence risk: Metal AM technology is rapidly evolving. SLM's laser-based technology could be displaced by faster or more cost-effective AM approaches. #5 ADR liquidity and spread risk: Trading on OTC markets with extremely thin order books means that the bid/offer spread is prohibitive for any meaningful position sizing.",
       "risks": [
         {
           "rank": 1,
-          "risk": "Capital exhaustion risk:: Capital exhaustion risk:  SLM has been burning cash for multiple years. Any further equity raises would cause severe dilution to existing shareholders."
+          "risk": "#1 Capital exhaustion risk: SLM has been burning cash for multiple years. Any further equity raises would cause severe dilution to existing shareholders."
         },
         {
           "rank": 2,
-          "risk": "Additive manufacturing market immaturity:: Additive manufacturing market immaturity:  Metal AM remains a niche technology relative to conventional manufacturing. The market growth that was predicted in the 2015-2020 period has not materialised at scale."
+          "risk": "#2 Additive manufacturing market immaturity: Metal AM remains a niche technology relative to conventional manufacturing. The market growth that was predicted in the 2015-2020 period has not materialised at scale."
         },
         {
           "rank": 3,
-          "risk": "Competitive dynamics:: Competitive dynamics:  SLM competes with large industrial conglomerates (GE, Siemens, Trumpf) that have significantly greater R&D and capital resources."
+          "risk": "#3 Competitive dynamics: SLM competes with large industrial conglomerates (GE, Siemens, Trumpf) that have significantly greater R&D and capital resources."
         },
         {
           "rank": 4,
-          "risk": "Technology obsolescence risk:: Technology obsolescence risk:  Metal AM technology is rapidly evolving. SLM's laser-based technology could be displaced by faster or more cost-effective AM approaches."
+          "risk": "#4 Technology obsolescence risk: Metal AM technology is rapidly evolving. SLM's laser-based technology could be displaced by faster or more cost-effective AM approaches."
         },
         {
           "rank": 5,
-          "risk": "ADR liquidity and spread risk:: ADR liquidity and spread risk:  Trading on OTC markets with extremely thin order books means that the bid/offer spread is prohibitive for any meaningful position sizing."
+          "risk": "#5 ADR liquidity and spread risk: Trading on OTC markets with extremely thin order books means that the bid/offer spread is prohibitive for any meaningful position sizing."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": "SLM Solutions Group AG ADR is a German additive manufacturing (3D printing) technology company whose shares have collapsed to $0.78 on fundamental deterioration and persistent capital shortage --  SELL . SLM Solutions Group AG is a German company specialising in metal powder bed fusion additive manufacturing systems (3D metal printers), used primarily in aerospace, tooling, automotive and medical implant industries. SLM's technology uses a laser to melt metal powder layer by layer, producing complex geometries that are impossible to manufacture with conventional machining. The company manufactures and sells 3D metal printing machines, provides customer training, and generates aftermarket revenue from spare parts, maintenance contracts, and metal powder. SLM competes with other metal AM technology providers including GE Additive, EOS, Trumpf, and Farsoon. Revenue geography: Germany (~30%), North America (~30%), Asia (~25%), Rest of World (~15%). The ADR trades on OTC markets with extremely thin liquidity. SLM has been undergoing a financial restructuring after years of losses and capital erosion. Recent quarterly results showed revenues declining and continued operating losses. SLM's shareholder base has been diluted through multiple equity raises. The company is reportedly seeking strategic alternatives, potentially including a sale of the business or a significant restructuring of its balance sheet. SLM Solutions Group AG ADR is a German additive manufacturing (3D printing) technology company whose shares have collapsed to $0.78 on fundamental deterioration and persistent capital shortage --  SELL . SLM Solutions Group AG is a German company specialising in metal powder bed fusion additive manufacturing systems (3D metal printers), used primarily in aerospace, tooling, automotive and medical implant industries. SLM's technology uses a laser to melt metal powder layer by layer, producing complex geometries that are impossible to manufacture with conventional machining. The company manufactures and sells 3D metal printing machines, provides customer training, and generates aftermarket revenue from spare parts, maintenance contracts, and metal powder. SLM competes with other metal AM technology providers including GE Additive, EOS, Trumpf, and Farsoon. Revenue geography: Germany (~30%), North America (~30%), Asia (~25%), Rest of World (~15%). The ADR trades on OTC markets with extremely thin liquidity. SLM has been undergoing a financial restructuring after years of losses and capital erosion. Recent quarterly results showed revenues declining and continued operating losses. SLM's shareholder base has been diluted through multiple equity raises. The company is reportedly seeking strategic alternatives, potentially including a sale of the business or a significant restructuring of its balance sheet. Own:  Speculative micro-cap investors with very high risk tolerance and specific knowledge of the additive manufacturing industry. Avoid:  All institutional investors and any investors who cannot tolerate potential total loss of capital."
+      "text": "Own: Speculative micro-cap investors with very high risk tolerance and specific knowledge of the additive manufacturing industry. Avoid: All institutional investors and any investors who cannot tolerate potential total loss of capital."
     },
     "recommendation": {
       "text": "SELL Score: 18/100 SLMT is a failing additive manufacturing company with exhausted capital, persistent losses and no credible near-term path to profitability. SELL. Entry Framework: SELL at all levels above $0.50. Not a viable investment. BUY below $1.32 HOLD $0.88-$1.32 REDUCE above $1.32"
     },
     "entryExit": {
-      "text": ""
+      "text": "BUY below $1.32 | HOLD $0.88-$1.32 | REDUCE above $1.32"
     },
     "sources": {
-      "marketData": "Live market data via DYOR HQ data pipeline (Google Sheets).",
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
       "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
       "additional": [],
       "literature": []
@@ -89,16 +89,16 @@
   },
   "scores": {
     "current": {
-      "score": 50,
+      "score": 18,
       "band": "SELL",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 50,
+        "date": "",
+        "score": 18,
         "band": "SELL",
         "delta": "0",
         "reason": "Initial coverage"

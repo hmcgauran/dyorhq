@@ -5,10 +5,10 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "REDUCE",
     "recommendationNote": "REDUCE",
-    "conviction": 45,
+    "conviction": 50,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "watchlist"
@@ -32,7 +32,7 @@
       "text": "Simon Property Group is the largest mall operator in the US by gross leasable area and market capitalisation. Its portfolio comprises approximately 140 malls and outlet centres across the US and internationally (including properties in Europe and Asia). SPG owns the real estate underlying its tenants' stores and earns rents under long-term leases. Its tenants are predominantly in the retail sector — apparel, department stores, dining and entertainment — though the company has been actively diversifying into non-retail uses (offices, apartments, medical, experiential retail). SPG is structured as a Real Estate Investment Trust and distributes the majority of its taxable income as dividends."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -64,22 +64,22 @@
       "text": "SPG has been converting excess mall square footage to mixed uses — apartments, hotels, medical offices and entertainment venues — which diversifies the tenant base and supports net operating income. The company has also been active in share buybacks and opportunistic acquisitions of competitor mall assets at distressed valuations. Occupancy rates have recovered to approximately 93–94% post-COVID. Lease rollover risk is manageable over the next 3 years."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (50): Consumer spending remains resilient. Mall occupancy rates stabilise above 95%. SPG's omnichannel initiatives ( curbside pickup, shop-in-shop concepts) drive tenant productivity above pre-COVID levels. Rent growth continues on renewals. NAV grows to $290+. Price: $240+.\n            Base Case (50): Occupancy holds at approximately 93–94%. Lease renewals are negotiated at flat to modestly positive rents. Consumer spending grows at low-single digits. SPG's redevelopment pipeline (mixed-use conversions of excess mall space) adds incremental value. NAV is approximately $220–$235. Price: $195–$210.\n            Bear Case (40): Mall tenant bankruptcies accelerate (Gap, JCPenney, Express and other anchor-dependent retailers fail). Lease termination obligations crystallise. Mall valuations decline by 10–15% from current NAV estimates. NOI falls meaningfully. Price: below $165.\n            Weighted Score: 50 — Bull 50 × 30% + Base 50 × 50% + Bear 40 × 20%",
+      "text": "Bull Case (50): Consumer spending remains resilient. Mall occupancy rates stabilise above 95%. SPG's omnichannel initiatives ( curbside pickup, shop-in-shop concepts) drive tenant productivity above pre-COVID levels. Rent growth continues on renewals. NAV grows to $290+. Price: $240+. Base Case (50): Occupancy holds at approximately 93–94%. Lease renewals are negotiated at flat to modestly positive rents. Consumer spending grows at low-single digits. SPG's redevelopment pipeline (mixed-use conversions of excess mall space) adds incremental value. NAV is approximately $220–$235. Price: $195–$210. Bear Case (40): Mall tenant bankruptcies accelerate (Gap, JCPenney, Express and other anchor-dependent retailers fail). Lease termination obligations crystallise. Mall valuations decline by 10–15% from current NAV estimates. NOI falls meaningfully. Price: below $165. Weighted Score: 50 — Bull 50 × 30% + Base 50 × 50% + Bear 40 × 20%",
       "bull": {
-        "scenario": "Bull Case (50): Consumer spending remains resilient. Mall occupancy rates stabilise above 95%. SPG's omnichannel initiatives ( curbside pickup, shop-in-shop concepts) drive tenant productivity above pre-COVID levels. Rent growth continues on renewals. NAV grows to $290+. Price: $240+.",
-        "probability": 95
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (50): Occupancy holds at approximately 93–94%. Lease renewals are negotiated at flat to modestly positive rents. Consumer spending grows at low-single digits. SPG's redevelopment pipeline (mixed-use conversions of excess mall space) adds incremental value. NAV is approximately $220–$235. Price: $195–$210.",
-        "probability": 94
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (40): Mall tenant bankruptcies accelerate (Gap, JCPenney, Express and other anchor-dependent retailers fail). Lease termination obligations crystallise. Mall valuations decline by 10–15% from current NAV estimates. NOI falls meaningfully. Price: below $165.",
-        "probability": 15
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "E-commerce structural headwind: US retail e-commerce penetration continues to grow and is displacing mall-based retail permanently. This is a decade-long secular trend that no amount of mall repositio",
+      "text": "E-commerce structural headwind: US retail e-commerce penetration continues to grow and is displacing mall-based retail permanently. This is a decade-long secular trend that no amount of mall repositioning fully offsets. Several SPG tenant categories (books, electronics, department stores) are structurally impaired. Tenant credit risk: A wave of retail bankruptcies has already claimed many of SPG's legacy tenants. Remaining tenants in stressed categories (mid-market apparel, discount department stores) remain vulnerable to bankruptcy in a consumer downturn. Valuation at premium to NAV: REIT analysts typically value mall REITs below NAV given the uncertainty in terminal valuations. At approximately $200 versus estimated NAV of $220–$235, SPG is not trading at a sufficiently discounted entry point to compensate for structural sector risk. Cyclical consumer risk: A consumer recession would accelerate tenant failures and compress retailer sales, directly impairing SPG's rental income and lease renewal prospects. Debt maturity and refinancing risk: Mall REITs carry significant floating-rate and near-term debt maturities. Rate environments and credit market conditions affect refinancing costs, particularly if operating performance weakens.",
       "risks": [
         {
           "rank": 1,
@@ -104,13 +104,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Yield-oriented REIT investors who believe in the long-term relevance of physical retail and want the highest-quality mall REIT exposure. SPG is the most defensive mall operator given its scale, global portfolio and asset quality. Avoiders: Total return investors, growth investors and anyone with concern about secular retail trends. The mall REIT sector offers poor risk-reward relative to industrial, data centre or residential REITs at this stage of the cycle."
+      "text": "Own: Yield-oriented REIT investors who believe in the long-term relevance of physical retail and want the highest-quality mall REIT exposure. SPG is the most defensive mall operator given its scale, global portfolio and asset quality."
     },
     "recommendation": {
       "text": "REDUCE. BUY below $160 (approximately 0.70x price-to-NAV — provides a sufficient margin of safety for the structural risk in the sector). Reduce on rallies above $210 (at or above NAV without clear path to NAV expansion — no margin of safety)."
     },
     "entryExit": {
-      "text": "Simon Property Group Inc (SPG) — Entry / Exit Framework\n\nReduce / Trim: Above $204.58 — the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $220.63 — the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $209.22 — a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $153.68 — partial mean reversion toward the middle of the 52-week range."
+      "text": "BUY below $160 (approximately 0. | Reduce on rallies above $210 (at or above NAV without clear path to NAV expansion — no margin of safety)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -121,16 +121,16 @@
   },
   "scores": {
     "current": {
-      "score": 45,
+      "score": 50,
       "band": "REDUCE",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
-        "score": 45,
+        "date": "",
+        "score": 50,
         "band": "REDUCE",
         "delta": "0",
         "reason": "Initial coverage"

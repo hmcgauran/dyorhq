@@ -5,15 +5,15 @@
     "exchange": "",
     "isin": "",
     "date": "11 Apr 2026",
-    "datePublished": "2026-04-11",
+    "datePublished": "",
     "recommendation": "HOLD",
     "recommendationNote": "HOLD",
     "conviction": 64,
     "lastRefreshed": "2026-04-11T10:00:00Z",
     "universes": [
       "sp100",
-      "watchlist",
-      "fortune100"
+      "fortune100",
+      "watchlist"
     ]
   },
   "price": {
@@ -34,7 +34,7 @@
       "text": "Qualcomm operates two complementary businesses. QCT (Qualcomm CDMA Technologies) designs and sells wireless semiconductors: Snapdragon processors for smartphones, RF front-end components, automotive chips (Snapdragon Ride, Snapdragon Car-to-Cloud) and IoT connectivity chips. QTL (Qualcomm Technology Licensing) licenses the company's extensive patent portfolio covering CDMA, 4G and 5G standards, generating substantial royalty revenue. The company serves Apple, Samsung, Xiaomi, OPPO, Vivo and other OEMs globally."
     },
     "financialSnapshot": {
-      "text": "</div>",
+      "text": "",
       "table": [
         {
           "label": "Current Price",
@@ -66,22 +66,22 @@
       "text": "Smartphone unit volumes have recovered from 2022–2023 lows, with 5G penetration continuing to rise globally. Qualcomm resolved its licensing dispute with Arm in 2024, removing a significant overhang. The company's automotive design win pipeline has grown substantially, with Snapdragon Ride adopted by multiple OEMs. AI on-device (on-device AI processing within Snapdragon 8 Gen chips) is a differentiating feature driving premium Android replacement cycles."
     },
     "thesisEvaluation": {
-      "text": "Bull Case (78): AI-driven smartphone replacement cycle drives a multi-year upgrade supercycle. Premium Android volumes recover. Automotive revenue becomes a significant contributor ($2bn+ annually by 2027). QTL licensing grows modestly. EPS reaches $6.50+. Price: $175+.\n            Base Case (65): Smartphone market stabilises with 5G as the baseline. AI features drive modest replacement cycles but unit volumes are flat to low-single-digit growth. Automotive grows but is not transformative. QTL licensing remains roughly flat. EPS grows to $5.50–$6.00. Price: $130–$155.\n            Bear Case (42): Smartphone market weakens in key geographies (China recovery stalls, India growth slows). Competition from MediaTek in mid-tier and in-house custom silicon (Apple, Google) accelerates. QTL faces renewed regulatory scrutiny. EPS falls to $4.00–$4.50. Price: below $110.\n            Weighted Score: 64 — Bull 78 × 30% + Base 65 × 50% + Bear 42 × 20%",
+      "text": "Bull Case (78): AI-driven smartphone replacement cycle drives a multi-year upgrade supercycle. Premium Android volumes recover. Automotive revenue becomes a significant contributor ($2bn+ annually by 2027). QTL licensing grows modestly. EPS reaches $6.50+. Price: $175+. Base Case (65): Smartphone market stabilises with 5G as the baseline. AI features drive modest replacement cycles but unit volumes are flat to low-single-digit growth. Automotive grows but is not transformative. QTL licensing remains roughly flat. EPS grows to $5.50–$6.00. Price: $130–$155. Bear Case (42): Smartphone market weakens in key geographies (China recovery stalls, India growth slows). Competition from MediaTek in mid-tier and in-house custom silicon (Apple, Google) accelerates. QTL faces renewed regulatory scrutiny. EPS falls to $4.00–$4.50. Price: below $110. Weighted Score: 64 — Bull 78 × 30% + Base 65 × 50% + Bear 42 × 20%",
       "bull": {
-        "scenario": "Bull Case (78): AI-driven smartphone replacement cycle drives a multi-year upgrade supercycle. Premium Android volumes recover. Automotive revenue becomes a significant contributor ($2bn+ annually by 2027). QTL licensing grows modestly. EPS reaches $6.50+. Price: $175+.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base Case (65): Smartphone market stabilises with 5G as the baseline. AI features drive modest replacement cycles but unit volumes are flat to low-single-digit growth. Automotive grows but is not transformative. QTL licensing remains roughly flat. EPS grows to $5.50–$6.00. Price: $130–$155.",
-        "probability": null
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear Case (42): Smartphone market weakens in key geographies (China recovery stalls, India growth slows). Competition from MediaTek in mid-tier and in-house custom silicon (Apple, Google) accelerates. QTL faces renewed regulatory scrutiny. EPS falls to $4.00–$4.50. Price: below $110.",
-        "probability": null
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
-      "text": "Smartphone market cyclicality: Qualcomm's fortunes are closely tied to global smartphone unit volumes, which remain cyclical despite 5G upgrades. A sustained downturn in China would significantly impa",
+      "text": "Smartphone market cyclicality: Qualcomm's fortunes are closely tied to global smartphone unit volumes, which remain cyclical despite 5G upgrades. A sustained downturn in China would significantly impact QCT revenues. QTL licensing headwinds: QTL revenues are sensitive to OEM unit volumes and royalty rates. Ongoing disputes or regulatory intervention in key jurisdictions (particularly Asia) could compress royalty income. In-house silicon competition: Apple (custom Bionic), Google (Tensor) and Samsung (Exynos variants) are reducing reliance on Qualcomm in flagship devices, a structural headwind to premium Snapdragon volumes. Automotive execution risk: Qualcomm has built a large automotive pipeline, but converting design wins to revenues on schedule and at target margins requires sustained execution over multiple years.",
       "risks": [
         {
           "rank": 1,
@@ -102,13 +102,13 @@
       ]
     },
     "whoShouldOwn": {
-      "text": "Owners: Investors seeking semiconductor exposure with a dividend yield and a specific angle on 5G and automotive connectivity. QCOM offers more yield than pure-growth semis. Avoiders: Pure AI infrastructure or leading-edge logic investors. For pure-play AI semiconductor upside, dedicated AI accelerator names (NVIDIA, AMD) offer more direct exposure."
+      "text": "Own: Investors seeking semiconductor exposure with a dividend yield and a specific angle on 5G and automotive connectivity. QCOM offers more yield than pure-growth semis."
     },
     "recommendation": {
-      "text": "HOLD. Qualcomm is a well-run wireless franchise with a strong patent moat and a growing automotive optionality. The current 26.45x P/E reflects reasonable expectations but does not offer a clear catalyst for outperformance.\n            Entry framework: BUY below $115 (approximately 21–23x base-case EPS — provides a margin of safety given near-term headwinds). Reduce above $165 (30x+ P/E prices in a bull-case automotive ramp that is not yet certain)."
+      "text": "HOLD. Qualcomm is a well-run wireless franchise with a strong patent moat and a growing automotive optionality. The current 26.45x P/E reflects reasonable expectations but does not offer a clear catalyst for outperformance. Entry framework: BUY below $115 (approximately 21–23x base-case EPS — provides a margin of safety given near-term headwinds). Reduce above $165 (30x+ P/E prices in a bull-case automotive ramp that is not yet certain)."
     },
     "entryExit": {
-      "text": "BUY below $115 (approximately 21–23x base-case EPS — provides a margin of safety given near-term headwinds). Reduce above $165 (30x+ P/E prices in a bull-case automotive ramp that is not yet certain)."
+      "text": "BUY below $115 (approximately 21–23x base-case EPS — provides a margin of safety given near-term headwinds). Reduce above $165 (30x+ P/E prices in a bull-case automotive ramp that is not yet certain). | Entry framework: BUY below $115 (approximately 21–23x base-case EPS — provides a margin of safety given near-term headwinds). | Reduce above $165 (30x+ P/E prices in a bull-case automotive ramp that is not yet certain)."
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -121,13 +121,13 @@
     "current": {
       "score": 64,
       "band": "HOLD",
-      "date": "2026-04-11",
+      "date": "",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "2026-04-11",
+        "date": "",
         "score": 64,
         "band": "HOLD",
         "delta": "0",

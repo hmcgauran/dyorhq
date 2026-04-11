@@ -19,17 +19,17 @@
   },
   "sections": {
     "executiveSummary": {
-      "text": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger zone where modest operational setbacks can matter more than the underlying business narrative.Bottom line: SELL — SPECULATIVE. Too small, too weak, and not enough proof."
+      "text": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger zone where modest operational setbacks can matter more than the underlying business narrative. Bottom line: SELL — SPECULATIVE . Too small, too weak, and not enough proof."
     },
     "businessModel": {
       "text": "Above Food Ingredients is positioned around food and ingredients exposure, but the equity case at this stage is dominated by balance sheet credibility and scale rather than strategic storytelling. For micro-caps, execution and capital access overwhelm everything else."
     },
     "financialSnapshot": {
-      "text": "<p><strong>Live price:</strong> $0.804<br><strong>Market cap:</strong> $44.8M<br><strong>Day range:</strong> $0.7692 – $0.8962<br><strong>P/E:</strong> N/A<br><strong>EPS:</strong> -$3.16<br><strong>Beta:</strong> 0.13</p></div>",
+      "text": "Live price: $0.804 Market cap: $44.8M Day range: $0.7692 – $0.8962 P/E: N/A EPS: -$3.16 Beta: 0.13",
       "table": []
     },
     "recentCatalysts": {
-      "text": "No strong live evidence of a positive re-rating catalyst.Micro-cap food and ingredients stories need execution and funding, not narrative alone.Share price weakness remains the main signal.",
+      "text": "No strong live evidence of a positive re-rating catalyst. Micro-cap food and ingredients stories need execution and funding, not narrative alone. Share price weakness remains the main signal.",
       "items": [
         "No strong live evidence of a positive re-rating catalyst.",
         "Micro-cap food and ingredients stories need execution and funding, not narrative alone.",
@@ -37,18 +37,18 @@
       ]
     },
     "thesisEvaluation": {
-      "text": "Bull (15%): operational progress surprises positively and the stock bounces sharply from a depressed base.Base (45%): the stock remains stuck in micro-cap limbo.Bear (40%): further weakness or financing pressure damages the equity further.Weighted conviction: 31/100.",
+      "text": "Bull (15%): operational progress surprises positively and the stock bounces sharply from a depressed base. Base (45%): the stock remains stuck in micro-cap limbo. Bear (40%): further weakness or financing pressure damages the equity further. Weighted conviction: 31/100.",
       "bull": {
-        "scenario": "Bull (15%): operational progress surprises positively and the stock bounces sharply from a depressed",
-        "probability": 15
+        "scenario": "",
+        "probability": 25
       },
       "base": {
-        "scenario": "Base (45%): the stock remains stuck in micro-cap limbo.",
-        "probability": 45
+        "scenario": "",
+        "probability": 50
       },
       "bear": {
-        "scenario": "Bear (40%): further weakness or financing pressure damages the equity further.",
-        "probability": 40
+        "scenario": "",
+        "probability": 25
       }
     },
     "keyRisks": {
@@ -75,7 +75,7 @@
       "text": "SELL — SPECULATIVE at $0.804. Weak setup, weak financial profile."
     },
     "entryExit": {
-      "text": "Any strength: use to reduceAt current levels: avoid unless explicitly puntingKey trigger: genuine operating and financing improvement\n            Conviction Trend\n            Latest conviction: 31/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                0255075100\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0831"
+      "text": "Any strength: use to reduce At current levels: avoid unless explicitly punting Key trigger: genuine operating and financing improvement Conviction Trend Latest conviction: 31/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 31"
     },
     "sources": {
       "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
@@ -83,7 +83,12 @@
       "additional": [
         "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
         "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $0.804",
+        "Market Cap $44.8M",
+        "EPS -$3.16",
+        "Day High $0.8962",
+        "Day Low $0.7692"
       ],
       "literature": []
     }
