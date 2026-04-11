@@ -158,15 +158,25 @@ def extract_meta(html):
     date_meta = re.search(r'<span class="meta-item">(\d+?\s\w+\s\d{4})<', html)
     price     = re.search(r'<span class="meta-item">(\$[\d.,]+)<', html)
 
-    # Conviction: three possible HTML patterns:
-    #   1. <div class="conviction-display"> ... <div class="score">N</div>   (GE, NFLX)
-    #   2. <div class="conviction-display"> ... <div class="conviction-value">N</div>  (COF, DE)
-    #   3. <div class="score-card total"> ... <div class="val">N</div><div class="lbl">Conviction</div>  (PEP, JNJ, MA)
-    conviction = re.search(r'class="conviction-display"[^>]*>.*?<div[^>]*class="score"[^>]*>\s*(\d+)', html, re.DOTALL)
+    # Conviction: six possible HTML patterns (authoritative-first ordering):
+    #   1. Recommendation text: Conviction Score: <strong>NN</strong>  (authoritative; 15 Fortune-100 reports)
+    #   2. conviction-display → score div          (GE, NFLX, AIG, COF, DE)
+    #   3. conviction-display → conviction-value div  (subagent format)
+    #   4. score-card total → val + Conviction lbl   (PEP, JNJ, MA)
+    #   5. <div class="score">N/100</div>            (WMT format)
+    #   6. Fallback: width bar percentage            (last resort)
+    # Try text-based conviction score FIRST (pattern 1) — it is more authoritative than the display box.
+    conviction = re.search(r'Conviction Score:\s*<strong[^>]*>(\d+)', html)
+    if not conviction:
+        conviction = re.search(r'class="conviction-display"[^>]*>.*?<div[^>]*class="score"[^>]*>\s*(\d+)', html, re.DOTALL)
     if not conviction:
         conviction = re.search(r'class="conviction-display"[^>]*>.*?<div[^>]*class="conviction-value"[^>]*>\s*(\d+)', html, re.DOTALL)
     if not conviction:
         conviction = re.search(r'<div class="score-card total"[^>]*>.*?<div class="val">(\d+)</div>.*?<div class="lbl">Conviction</div>', html, re.DOTALL)
+    if not conviction:
+        conviction = re.search(r'<div class="score">(\d+)/100</div>', html)
+    if not conviction:
+        conviction = re.search(r'width:\s*(\d+)%', html)
 
     ticker_s   = ticker.group(1).strip() if ticker else ''
     company_s  = company.group(1).strip() if company else ''
@@ -555,9 +565,9 @@ def extract_entry_exit(html, fmt):
 
         # 5d. Recommendation paragraphs containing BUY/REDUCE/ACCUMULATE/SELL with price thresholds
         # Handles:
-        #   (i)   <p><strong>HOLD.</strong> BUY below $XXX</p>  — BUY is plain text (GD/GILD/ISRG/LRCX/INTU/LIN/FDX)
-        #   (ii)  <p><strong>BUY|REDUCE</strong> below|above $XXX</p>  — in strong tag (TXN/USB/TMUS style)
-        #   (iii) <p>BUY/HOLD: Fair value zone $XXX</p>   — PEP style
+        #   (i)   <p><strong>HOLD.</strong> BUY below price</p>  — BUY is plain text (GD/GILD/ISRG/LRCX/INTU/LIN/FDX)
+        #   (ii)  <p><strong>BUY|REDUCE</strong> below|above price</p>  — in strong tag (TXN/USB/TMUS style)
+        #   (iii) <p>BUY/HOLD: Fair value zone price</p>   — PEP style
         for p_m in re.finditer(r'<p[^>]*>(.*?)</p>', rec_block, re.DOTALL):
             p_text = p_m.group(1)
             # Must contain a recommendation keyword and a dollar sign
@@ -588,7 +598,7 @@ def extract_entry_exit(html, fmt):
                 if val and any(k in lbl for k in ['entry', 'target', 'stop', 'exit', 'reduce', 'buy', 'sell']):
                     parts.append(f'{_strip_tags(td_label).strip()}: {val}')
 
-        # 5f. rec-detail div (CI, WMT, COR): "Accumulate on dips/pullbacks toward $XXX"
+        # 5f. rec-detail div (CI, WMT, COR): "Accumulate on dips/pullbacks toward price"
         rec_detail = re.search(r'<div[^>]*class="(?:rec-detail|rec-text)"[^>]*>(.*?)</div>\s*</div>', rec_block, re.DOTALL)
         if rec_detail:
             detail_text = _strip_tags(rec_detail.group(1))
