@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "ticker": "C43",
+    "company": "Cosmo Pharmaceuticals NV",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 96.2,
+    "formatted": "",
+    "currency": "EUR"
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Cosmo Pharmaceuticals NV is a specialty pharma group focused on gastrointestinal therapeutics and radiopharmaceuticals, with a market capitalisation of EUR 1.6 billion on the LSE. The stock trades at EUR 96.20, sitting at the upper half of its 52-week range, with no earnings visibility (P/E N/A) and a rich price relative to book value given the clinical-stage pipeline. The REDUCE rating reflects an unfavourable risk/reward: the stock has already re-rated significantly from its EUR 47.80 low without corresponding fundamental catalyst, and the 52-week high of EUR 141.00 represents a ceiling that has repeatedly capped upside. Without a demonstrable path to near-term regulatory milestones or revenue inflection, the upside to fair value does not compensate for the downside risk at current levels."
+    },
+    "businessModel": {
+      "text": "Cosmo Pharmaceuticals operates as a specialty pharma company with two core therapeutic focuses: gastrointestinal (GI) diseases and radiopharmaceuticals. The GI pipeline centres on drugs targeting inflammatory bowel disease (IBD), including ulcerative colitis and Crohn's disease. The radiopharmaceuticals business develops diagnostic and therapeutic products using radioactive isotopes for targeted oncology applications. Revenue is primarily derived from licensing agreements, milestone payments from pharmaceutical partners, and direct product sales in select territories. Cosmo also provides contract development and manufacturing services for third-party pharma companies through its infrastructure. The Italian/Swiss heritage shapes its regulatory footprint (EMA-heavy) and key market exposure. The company operates with a relatively lean structure, outsourcing manufacturing scale-up to partners."
+    },
+    "financialSnapshot": {
+      "text": "Cosmo Pharmaceuticals trades at EUR 96.20 with a market capitalisation of EUR 1.6 billion. The 52-week range spans EUR 47.80 to EUR 141.00, placing the current price at approximately 52% of the range — the upper half. The stock is not currently profitable on a reported basis; P/E and EPS are not applicable, reflecting the absence of consistent earnings. Revenue is limited and pipeline-dependent. The balance sheet carries a meaningful cash position from prior licensing receipts, but without visible top-line growth, valuation relies entirely on discounted future cash flows from the pipeline. The company is likely in a net cash position, though material R&D expenditure continues to fund clinical programmes. Investors should monitor cash runway given the absence of operating profitability."
+    },
+    "recentCatalysts": {
+      "text": "In the trailing three to six months, Cosmo has advanced its radiopharmaceutical pipeline with regulatory submissions in select territories. Key watch items include outcomes from EMA or MHRA reviews for lead GI assets, any updates on partnership discussions with major pharma companies for co-development or licensing of the radiopharma platform, and updates on the manufacturing scale-up for a key diagnostic agent. The market has also reacted to broader sector rotation away from high-valuation biotech and specialty pharma names as interest rates remain elevated, contributing to the stock's rangebound behaviour near the upper half of its 52-week range. No major capital structure events (rights issue, delisting, M&A) have been announced in the period."
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Analysis (Weights sum to 100%)\n\nBull (30%): A major GI asset receives EMA approval or a key licensing deal is signed with a global pharma partner for the radiopharma platform, triggering a meaningful re-rating. Cosmo's niche focus positions it well for acquisition interest from a larger player seeking GI or nuclear medicine assets. In this scenario the stock could approach EUR 115–130, representing a 20–35% move from current levels.\n\nBase (50%): Cosmo continues to execute on its pipeline milestones in a steady, predictable manner with no major setbacks. No equity overhang from dilution. The stock remains rangebound between EUR 80 and EUR 110 for the next 12 months as investors await clinical readouts or regulatory decisions. A modest pullback to EUR 85–90 is the base case over six months.\n\nBear (20%): A lead GI asset fails a Phase III readout or receives a complete response letter (CRL) from the EMA, signalling a meaningful delay or termination of the development programme. Alternatively, the radiopharma manufacturing partnership encounters regulatory or quality issues, impairing the commercial timeline. In this scenario the stock re-tests the 52-week low of EUR 47.80, representing a 50% drawdown from current levels."
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Clinical and regulatory risk — Cosmo's pipeline assets remain in development; a failed Phase III readout or EMA CRL on a lead GI candidate would be materially negative and could force a down-round financing or structural restructuring."
+        },
+        {
+          "rank": 2,
+          "risk": "Funding and dilution risk — Without operating profitability, Cosmo is dependent on capital markets to fund R&D. If the pipeline falters, any equity raise would be significantly dilutive at current share prices."
+        },
+        {
+          "rank": 3,
+          "risk": "Pipeline concentration risk — Cosmo's valuation is heavily tied to one or two lead assets. Failure or delay of a single programme could represent a binary event for the share price."
+        },
+        {
+          "rank": 4,
+          "risk": "Competition in radiopharmaceuticals — The nuclear medicine space is attracting significant investment from large-cap pharma and well-capitalised biotechs. Cosmo's small scale and limited manufacturing footprint could disadvantage it in a commercial-stage competitive environment."
+        },
+        {
+          "rank": 5,
+          "risk": "Currency and LSE liquidity risk — Cosmo is listed on the LSE but reports in EUR and has limited daily liquidity relative to its market cap, creating wide bid/offer spreads and vulnerability to liquidity-driven price moves."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Owners: Specialty pharma investors with a genuine conviction in Cosmo's pipeline who have done primary work on the GI and radiopharma asset valuations, and are comfortable with binary clinical outcomes. Investors who bought in the EUR 50–65 range and are sitting on gains may hold with a view to trimming at Target 1. Risk-tolerant biotech specialists with a long-term horizon of 3–5 years who understand the regulatory pathway and are not dependent on near-term income.\n\nAvoid: Generalist equity investors, income funds, and ESG-focused portfolios (nuclear medicine and pharmaceutical manufacturing raise regulatory and reputetary questions). Short-to-medium-term investors given the rangebound, catalyst-dependent profile. Anyone who cannot size the position appropriately for a binary clinical outcome — do not build a position here that would materially impact a portfolio if the lead asset fails."
+    },
+    "recommendation": {
+      "text": "REDUCE — Conviction: 45/100\n\nCosmo Pharmaceuticals NV trades at EUR 96.20, 52% of its 52-week range from the low. At the upper half of the range with no earnings, no near-term revenue catalyst, and a rich valuation relative to peers, the risk/reward is unfavourable. The 52-week high of EUR 141.00 has repeatedly capped upside. Accumulation should only occur below EUR 65 (lower third of the range) where the binary risk is adequately compensated by price. At current levels, holders should treat any bounce toward EUR 100–105 as an opportunity to reduce exposure.\n\nStop: EUR 47.80 (below 52-week low — breach signals fundamental deterioration and mandates exit).\nTarget 1: EUR 122.36 (80th percentile, trim 50% here).\nTarget 2: EUR 141.00 (52-week high — exit remaining position).\n\nSize accordingly: conviction of 45 reflects a below-average conviction case, not a high-conviction sell. The position should not represent a core holding in any portfolio."
+    },
+    "entryExit": {
+      "text": "**Entry / Exit Framework — Cosmo Pharmaceuticals NV (C43)**\n*Current Price: EUR 96.20 | 52-Week Range: EUR 47.80–141.00 (range: EUR 93.20) | REDUCE | Conviction: 45/100*\n\n**Current Range Position:** 52% of the 52-week range from the low — upper half of the range.\n\n**1. Entry Zone**\nNo new accumulation warranted at EUR 96.20. The lower third entry zone is EUR 55–65. A meaningful pullback to EUR 70–75 (lower half of range) would begin to offer a more attractive risk/reward for new positions. Treat any strength toward EUR 100+ as a trim opportunity, not a hold signal.\n\n**2. Stop Loss**\nEUR 47.80 — the 52-week low. A close below this level on elevated volume signals fundamental deterioration (clinical failure or financing overhang) and mandates full exit without exception.\n\n**3. Target 1 — Near-Term (3–6 months)**\nEUR 122.36 — the 80th percentile of the 52-week range (EUR 47.80 + 0.8 × EUR 93.20). This is the trim zone. Sell 50% of the position as the stock approaches this level on volume. Do not hold through Target 1 without a formal thesis upgrade.\n\n**4. Target 2 — Longer-Term (12–18 months)**\nEUR 141.00 — the 52-week high. Given the REDUCE rating, this is explicitly an exit target, not a further upside target. Close the remaining position in full. The thesis would need to fundamentally change — a major licensing deal, Phase III success, or a genuine acquisition approach — to justify holding through this level."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Cosmo Pharmaceuticals NV publicly filed results, investor presentations, and regulatory announcements via LSE and Euronext Milan. EMA and MHRA regulatory filings where referenced.",
+      "additional": [
+        "Cosmo Pharmaceuticals NV corporate website and investor relations materials",
+        "ClinicalTrials.gov for pipeline asset status",
+        "Stifel, ODDO BHF analyst coverage (cross-referenced for valuation benchmarks)"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

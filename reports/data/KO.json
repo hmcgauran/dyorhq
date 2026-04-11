@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "ticker": "KO",
+    "company": "KO \u2014 Coca-Cola Company",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Coca-Cola operates one of the world's most iconic brand portfolios, generating revenue through the manufacture, marketing, and distribution of beverages across four principal segments:\n  \n    Europe, Middle East &amp; Africa (EMEA): A portfolio of sparkling beverages, juices, water, sports drinks, and energy drinks sold through bottling partners and direct relationships with retail chains.\n    Latin America: Large-scale emerging market distribution with strong per-capita consumption growth, particularly in Brazil, Mexico, and Argentina.\n    North America: Mature market operations including Coca-Cola, Diet Coke, Fanta, Sprite, Dasani, and newer innovations such as Coca-Cola Zero Sugar and AHA sparkling water.\n    Asia Pacific: China, Japan, India, and South-East Asia operations, with significant exposure to evolving consumer taste preferences towards premium and functional beverages.\n  \n  Coca-Cola has been accelerating its move towards higher-margin premium and functional beverages (energy drinks, sports hydration, coffee) while divesting lower-margin legacy brands \u2014 a structurally positive shift for gross margins."
+    },
+    "financialSnapshot": {
+      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$77.47</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$333.4bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">25.5\u00d7</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$3.04</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$82.00</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$65.35</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">\u22125.5%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">11.1m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case\n      70 / 100\n      Consumer spending resilience allows continued organic revenue growth of 5\u20136 per cent, AI-driven productivity savings accelerate margin expansion, and the energy drink and premium beverage portfolio grows to 20 per cent of revenue. The dividend grows high-single digits annually and the shares re-rate to 28\u00d7 earnings.\n      Weight: 30%\n    \n    \n      Base Case\n      62 / 100\n      Steady 4\u20135 per cent organic revenue growth with modest margin improvement. Pricing power holds but volumes in some emerging markets soften slightly. The dividend grows mid-single digits. Shares trade in a 24\u201328\u00d7 earnings range, generating high-single-digit total returns from here.\n      Weight: 50%\n    \n    \n      Bear Case\n      42 / 100\n      Consumer retrenchment in a slowdown leads to volume declines in key markets, particularly Latin America and parts of Asia. Pricing power erodes as private-label and discount brands gain share. The premium beverage acquisitions underperform and impairment charges weigh on earnings.\n      Weight: 20%",
+      "bull": {
+        "scenario": "Bull Case\n      70 / 100\n      Consumer spending resilience allows continued organic revenue growth of 5\u20136 per cent, AI-driven productivity savings accelerate margin expansion, and the energy drink and premium beverage portfolio grows to 20 per cent of revenue. The dividend grows high-single digits annually and the shares re-rate to 28\u00d7 earnings.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
+        "probability": 30
+      },
+      "base": {
+        "scenario": "Base Case\n      62 / 100\n      Steady 4\u20135 per cent organic revenue growth with modest margin improvement. Pricing power holds but volumes in some emerging markets soften slightly. The dividend grows mid-single digits. Shares trade in a 24\u201328\u00d7 earnings range, generating high-single-digit total returns from here.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Case\n      42 / 100",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "Conviction Score: 61/100 \u2014 HOLD\n  The shares trade 5.5 per cent below their 52-week high at a P/E of 25.5\u00d7, a reasonable but not compelling valuation for a business with predictable cash flows and a high-quality brand franchise. The total return profile is likely to be high-single-digit annualised at best from current levels \u2014 acceptable for a defensive slot but not exciting enough to warrant a Buy at this price.\n  \n    Buy Below$66\n    HOLD Zone$66\u2013$82\n    Reduce Above$82\n    Stop / Sell$60"
+    },
+    "entryExit": {
+      "text": "KO \u2014 Coca-Cola Company (KO) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $79.02 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $85.22 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $83.64 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $70.58 \u2014 partial mean reversion toward the middle of the 52-week range."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ticker": "SBUX",
+    "company": "Starbucks Corp",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 46,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 96.6,
+    "marketCap": 110100000000.0,
+    "marketCapFormatted": "$110.10B",
+    "trailingPE": 80.47,
+    "trailingEps": 1.2,
+    "fiftyTwoWeekHigh": 104.82,
+    "fiftyTwoWeekLow": 75.5,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Starbucks faces a combination of menu pricing pressure, traffic recovery challenges and operational reset costs that make the P/E of 80.47x on EPS of $1.20 structurally difficult to justify — REDUCE."
+    },
+    "businessModel": {
+      "text": "Starbucks operates the world's largest chain of specialty coffee shops, with approximately 37,000 stores globally across company-owned and licensed formats. The company generates revenue through beverage sales (espresso-based drinks, cold brew, seasonal specials), food (bakery items, lunch offerings) and licensed store royalties. The Stored Value Card (gift card) programme is a significant source of free cash flow. The growing 'Third Place' concept aims to differentiate the in-store experience from quick-service competitors. Digital channels (mobile order and pay, delivery partnerships) now represent a substantial portion of US transactions."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$96.60"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$110.1 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "80.47x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$1.2"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$104.82"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$75.5"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Starbucks has undergone a significant US operational and cultural reset under new CEO Brian Niccol, who returned to the company in late 2024. The strategy prioritises in-store experience, partner (barista) working conditions and a slowdown of new store openings in saturated US markets. China, once the growth engine, has seen traffic declines as local competitors (Luckin Coffee, Cotti) expand aggressively with value pricing. The menu simplification initiative has removed lower-margin SKUs. However, the reset comes with elevated restructuring costs and near-term earnings pressure."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (58): The US operational reset restores the 'Third Place' experience and drives traffic recovery. Digital acceleration (loyalty programme, mobile order improvements) drives ticket size and frequency. China stabilises. New CEO executes flawlessly. EPS recovers to $4.00+. Price: $115+.\n            Base Case (46): US traffic improves modestly as operational changes take hold. China remains a headwind but manageable. The menu reset stabilises margins. EPS recovers to $3.20–$3.60. Price: $90–$100.\n            Bear Case (30): US traffic fails to recover. China competitive pressure intensifies and same-store sales decline further. Menu reset and store rationalisation costs compress margins more than expected. The cultural reset proves insufficient to address the structural shift in consumer behaviour. EPS falls to $2.40–$2.80. Price: below $75.\n            Weighted Score: 46 — Bull 58 × 30% + Base 46 × 50% + Bear 30 × 20%",
+      "bull": {
+        "scenario": "Bull Case (58): The US operational reset restores the 'Third Place' experience and drives traffic recovery. Digital acceleration (loyalty programme, mobile order improvements) drives ticket size and frequency. China stabilises. New CEO executes flawlessly. EPS recovers to $4.00+. Price: $115+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Base Case (46): US traffic improves modestly as operational changes take hold. China remains a headwind but manageable. The menu reset stabilises margins. EPS recovers to $3.20–$3.60. Price: $90–$100.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Bear Case (30): US traffic fails to recover. China competitive pressure intensifies and same-store sales decline further. Menu reset and store rationalisation costs compress margins more than expected. The cultural reset proves insufficient to address the structural shift in consumer behaviour. EPS falls to $2.40–$2.80. Price: below $75.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Valuation disconnected from earnings: At 80.47x P/E on trailing EPS of $1.20, the shares are pricing in a dramatic recovery in profitability. Even on forward EPS of $3.50, the multiple of 27.6x is elevated for a company with slowing structural growth."
+        },
+        {
+          "rank": 2,
+          "risk": "China headwinds: Starbucks' China business, once a key growth pillar, is now a source of meaningful headwind. Luckin Coffee and Cotti (from the Pizza Hut/Costa parent) are expanding rapidly with value pricing that challenges Starbucks' premium positioning."
+        },
+        {
+          "rank": 3,
+          "risk": "US competitive landscape: Independent specialty coffee, fast-food coffee (McDonald's McCafe, Burger King's Coffee) and premium competitors (Blue Bottle, Philz) are fragmenting the coffee occasions market, particularly in urban cores."
+        },
+        {
+          "rank": 4,
+          "risk": "Reset execution risk: The current CEO's turnaround plan involves significant investment and cultural change. Execution missteps during the reset period would delay the earnings recovery."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "REDUCE. Starbucks is a great brand navigating a genuine strategic challenge. The reset is the right strategy, but it will take time and the current valuation provides no margin of safety for execution missteps.\n            Entry framework: BUY below $78 (approximately 22–24x normalised EPS of $3.20–$3.60 — a reasonable entry for a turnaround story). Reduce above $105 (30x+ P/E on normalised EPS before the turnaround has been demonstrated)."
+    },
+    "entryExit": {
+      "text": "BUY below $78 (approximately 22–24x normalised EPS of $3.20–$3.60 — a reasonable entry for a turnaround story). Reduce above $105 (30x+ P/E on normalised EPS before the turnaround has been demonstrated)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 46,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 46,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

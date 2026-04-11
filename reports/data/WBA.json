@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "ticker": "WBA",
+    "company": "Walgreens Boots Alliance Ord Shs",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 28,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 222.0,
+    "marketCap": 10400000000.0,
+    "marketCapFormatted": "$10.40B",
+    "fiftyTwoWeekHigh": 269.0,
+    "fiftyTwoWeekLow": 161.0,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Walgreens Boots Alliance is navigating a structural crisis in US retail pharmacy — occupancy pressure, pharmacy margin compression and failed international diversification — with no clear path to earnings recovery visible at current levels. The shares have declined materially and the risk-reward remains unfavourable — SELL."
+    },
+    "businessModel": {
+      "text": "Walgreens Boots Alliance operates the largest chain of retail pharmacies in the US by number of locations (approximately 8,500 US stores), with a complementary business in the UK (Boots) and an international wholesale and production arm (Boots Wholesale). In the US, the company fills prescriptions (including a significant Medicare Part D book), sells front-of-store consumer goods and health services. The company has invested heavily in primary care clinics (Village Medical) and health tech (Theranos legacy assets, Shields Health). The Boots UK business is a pharmacy and beauty retail chain with a strong own-brand presence. The Alliance Healthcare wholesale business distributes pharmaceuticals to independent pharmacies across Europe."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$222.00"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$10.4 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$269"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$161"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Walgreens has undertaken a major strategic review, closing approximately 1,200 US stores (approximately 12% of the US fleet) and writing down significant goodwill from the Boots and Village Medical acquisitions. The company has exited the Shields Health pharmacy benefit management joint venture. Boots UK has performed better than the US business, benefiting from the weakness in UK retail competitors. The company has reduced its dividend to preserve capital. Earnings have missed expectations for multiple consecutive quarters."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (38): Store closure programme generates significant cost savings. The remaining pharmacy book stabilises with improved PBM relationships. Boots UK continues to generate stable cash. Village Medical achieves profitability. The equity story stabilises. EPS recovers to $4.00+. Price: $280+.\n            Base Case (27): Store closures generate modest savings but are offset by continued pharmacy margin pressure. Medicare Part D reimbursement headwinds persist. The Village Medical loss continues. Boots UK remains under pressure from UK retail conditions. EPS remains depressed in the $2.00–$3.00 range. Price: $190–$220.\n            Bear Case (15): Store closures accelerate beyond plan. PBM reimbursement reforms (inflation-adjusted generic pricing) further compress pharmacy margins. Village Medical losses widen. Boots UK faces competitive pressure from online beauty. Impairments and restructuring charges continue. Free cash flow is negative. Price: below $150.\n            Weighted Score: 28 — Bull 38 × 30% + Base 27 × 50% + Bear 15 × 20%",
+      "bull": {
+        "scenario": "Bull Case (38): Store closure programme generates significant cost savings. The remaining pharmacy book stabilises with improved PBM relationships. Boots UK continues to generate stable cash. Village Medical achieves profitability. The equity story stabilises. EPS recovers to $4.00+. Price: $280+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Base Case (27): Store closures generate modest savings but are offset by continued pharmacy margin pressure. Medicare Part D reimbursement headwinds persist. The Village Medical loss continues. Boots UK remains under pressure from UK retail conditions. EPS remains depressed in the $2.00–$3.00 range. Price: $190–$220.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Bear Case (15): Store closures accelerate beyond plan. PBM reimbursement reforms (inflation-adjusted generic pricing) further compress pharmacy margins. Village Medical losses widen. Boots UK faces competitive pressure from online beauty. Impairments and restructuring charges continue. Free cash flow is negative. Price: below $150.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Pharmacy margin compression: The core US pharmacy business faces structural headwinds: PBM consolidation reducing bargaining power, generic pricing pressure, and continued Medicaid/Medicare reimbursement rate uncertainty."
+        },
+        {
+          "rank": 2,
+          "risk": "PBM consolidation: Three PBMs (CVS/Caremark, Express Scripts, Optum Rx) now control the vast majority of US pharmacy benefit management. Their negotiating power against Walgreens is substantial."
+        },
+        {
+          "rank": 3,
+          "risk": "Goodwill impairment risk: WBA has written down significant goodwill from the Boots acquisition. Further impairments are possible if the UK business underperforms or the discount rate rises."
+        },
+        {
+          "rank": 4,
+          "risk": "Foot traffic structural decline: Retail pharmacy foot traffic is in structural decline as 90-day mail-order pharmacy, PBM mandatory mail programmes and telehealth reduce the need for in-person pharmacy visits."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "REDUCE. Walgreens faces a genuine structural challenge in US retail pharmacy. The goodwill impairments, store closures and dividend cut signal a company in distress rather than a strategic repositioning. The risk-reward is unfavourable.\n            Entry framework: BUY below $165 (prices in a meaningful restructuring success with some margin of safety). Reduce above $240 (implies the market is pricing in a successful turnaround that has not been demonstrated)."
+    },
+    "entryExit": {
+      "text": "BUY below $165 (prices in a meaningful restructuring success with some margin of safety). Reduce above $240 (implies the market is pricing in a successful turnaround that has not been demonstrated)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 28,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 28,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

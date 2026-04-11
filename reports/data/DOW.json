@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "ticker": "DOW",
+    "company": "Dow Inc (DOW)",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 30,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Dow Inc is a structurally challenged diversified chemicals producer navigating a severe cyclical downturn, with the shares running ahead of fundamentals at current levels and the risk/reward skewed firmly to the downside, warranting a REDUCE."
+    },
+    "businessModel": {
+      "text": "Dow is one of the world's largest diversified chemical companies, spun off from DowDuPont in 2019. It operates across three principal segments:\n    \n      Packaging &amp; Specialty Plastics~45% of revenue; polyethylene, elastomers, parabolic antennas\n      Industrial Intermediates &amp; Infrastructure~30% of revenue; polyurethanes, chlor-alkali, PO\n      Performance Materials &amp; Coatings~25% of revenue; coatings, architectural paints, siloxanes\n    \n    Dow is highly exposed to global GDP growth, particularly in construction, automotive, consumer goods, and packaging. It is a significant energy consumer, with feedstock and fuel costs representing approximately 40% of production costs. The company generates significant free cash flow at the trough of the cycle through cost discipline but requires a constructive macro environment to deliver acceptable returns on capital."
+    },
+    "financialSnapshot": {
+      "text": "<div class=\"warn-box\" style=\"margin-top:14px;\">\n    <p><strong>Note:</strong> The company is currently loss-making on a GAAP basis. The P/E ratio is not meaningful. Any earnings-based valuation framework should be treated with caution until Dow returns to sustainable profitability.</p>\n  </div>\n</div>\n\n<!-- 4. RECENT CATALYSTS -->\n<div class=\"section\">",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$39.01"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$28.1bn"
+        },
+        {
+          "label": "P/E Ratio",
+          "value": "N/A (negative earnings)"
+        },
+        {
+          "label": "Earnings Per Share (TTM)",
+          "value": "-$3.70"
+        },
+        {
+          "label": "Price / Book",
+          "value": "~1.4x (estimated)"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$42.74"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$20.40"
+        },
+        {
+          "label": "Distance from 52w High",
+          "value": "-8.7%"
+        },
+        {
+          "label": "Average Volume",
+          "value": "10.9m"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "ScenarioScoreProbabilityCommentary\n    \n      Bull3830%Global manufacturing PMI returns to expansion; China stimulus drives meaningful demand recovery; European volumes stabilise; Dow returns to $2-3 EPS, re-rates to 20x+.\n    \n    \n      Base3050%Sluggish global demand persists; European headwinds continue; Dow returns to break-even or low-single EPS; shares drift in a $36-$42 range.\n    \n    \n      Bear2020%Global recession triggers demand collapse; chemical oversupply intensifies; Dow books large impairments; balance sheet deteriorates; shares test $15-18.\n    \n  \n  \n    Conviction Score: 38x0.30 + 30x0.50 + 20x0.20 = 30.2\n    Bear-case risk dominates. The loss-making base and persistent cyclical headwinds support a cautious stance.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "base and persistent cyclical headwinds support a cautious stance.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Bear-case risk dominates. The loss-making base and persistent cyclical headwinds support a cautious stance.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "Rating: REDUCE\n    Dow is navigating a deep and prolonged chemical cycle downturn. The shares have bounced from 2025 lows on China stimulus expectations, but the fundamental picture -- loss-making earnings, structurally high European costs, and a heavily oversupplied global market -- does not support the current valuation. The risk/reward is unfavourable relative to the broader materials sector.\n    \n      FrameworkDetail\n      Entry point$39.01 (current); too late for new entry; wait for better risk/reward\n      Target price (12 months)$32.00-$36.00 (base case), $42.00+ requires evidence of sustained demand recovery\n      Stop-loss$19.50 (below the 52-week low; would signal cycle deepening)\n      Position sizingAvoid new positions; trim existing holdings on any rally toward $42-44\n      Key trigger to upgradeSustained global PMI above 52, European chemical destocking completing, or Dow returning to positive EPS with visible recovery path"
+    },
+    "entryExit": {
+      "text": "Dow Inc (DOW) (DOW) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $39.79 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $42.91 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $43.59 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $22.03 \u2014 partial mean reversion toward the middle of the 52-week range."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 30,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 30,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

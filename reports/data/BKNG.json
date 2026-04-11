@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "ticker": "BKNG",
+    "company": "Booking Holdings Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 81,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Booking Holdings is the world's largest online travel agent by revenue, benefiting from structural travel demand recovery and its dominant platform economics; BUY on valuation pullback given strong long-term growth runway."
+    },
+    "businessModel": {
+      "text": "Booking Holdings operates a portfolio of online travel brands. Key revenue streams:\n          \n            Agency Model (primary): Takes a commission on hotel, flight, and experience bookings. Low-risk, high-margin. ~80% of revenues.\n            Merchant Model: Charges travellers directly for booking services, passing costs to accommodation providers. Smaller share, higher risk.\n            Advertising: Meta search traffic acquisition from Google, plus proprietary search and display within platform.\n            Insurance &amp; Ancillary: Trip protection products, car rental, and dynamic packaging.\n          \n          The group operates Booking.com, Priceline, Kayak, OpenTable, and Rentalcars.com. Its business is asset-light, highly cash generative, and benefits from significant network effects in hotel supply."
+    },
+    "financialSnapshot": {
+      "text": "</section>\n\n        <!-- 4. Recent Catalysts -->\n        <section class=\"report-section\">",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (30% weight)\n              Flights expansion succeeds; AI drives conversion uplift; travel recovery fully completes; market re-rates to 28x on earnings momentum.\n              Target: $240–270\n            \n            \n              Base Case (50% weight)\n              Steady double-digit EPS growth; travel volumes normalise post-pandemic; margins hold; fair value implied at 22–24x earnings.\n              Target: $175–195\n            \n            \n              Bear Case (20% weight)\n              Recessionary environment triggers travel spending cuts; Airbnb competitive pressure intensifies; EPS falls to $5.50, multiple to 18x.\n              Target: $99\n            \n          \n          \n            Weighted Conviction Score:\n            81 / 100 — BUY",
+      "bull": {
+        "scenario": "Bull Case (30% weight)\n              Flights expansion succeeds; AI drives conversion uplift; travel recovery fully completes; market re-rates to 28x on earnings momentum.\n              Target: $240–270\n            \n            <div class=\"scenario-card scenario-",
+        "probability": 30
+      },
+      "base": {
+        "scenario": "Base Case (50% weight)\n              Steady double-digit EPS growth; travel volumes normalise post-pandemic; margins hold; fair value implied at 22–24x earnings.\n              Target: $175–195\n            \n            <div class=\"scenario-card scenario-",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Case (20% weight)\n              Recessionary environment triggers travel spending cuts; Airbnb competitive pressure intensifies; EPS falls to $5.50, multiple to 18x.",
+        "probability": 20
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Macro sensitivity: Discretionary travel spend is highly sensitive to consumer confidence, unemployment, and fuel costs. A US recession would directly impair booking volumes."
+        },
+        {
+          "rank": 2,
+          "risk": "Airbnb and short-term rental competition: Structural shift away from traditional hotels towards alternative accommodation is a long-term headwind for Booking's hotel-heavy model."
+        },
+        {
+          "rank": 3,
+          "risk": "Google re-entry risk: Google has expanded its own travel metasearch capabilities; any significant shift in traffic acquisition strategy could materially increase marketing costs."
+        },
+        {
+          "rank": 4,
+          "risk": "Regulatory risk in the EU: DMA (Digital Markets Act) enforcement could require interoperability or reduce exclusive advantages for platform operators."
+        },
+        {
+          "rank": 5,
+          "risk": "Currency headwinds: Significant European revenue exposure creates earnings volatility from EUR/GBP weakness against USD."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "BUY\n            Current price offers an attractive entry given the depth of the pullback from 52-week highs; long-term structural position in travel remains compelling.\n          \n          \n            Entry / Exit Framework\n            \n              Conviction Score81 / 100 — BUY\n              EntryBelow $165 — attractive near-term entry\n              AddBelow $145 — high conviction zone\n              Reduce / ExitAbove $225 — approaches full valuation\n              Time Horizon24–48 months"
+    },
+    "entryExit": {
+      "text": "Conviction Score: 81 / 100 — BUY\nEntry: Below $165 — attractive near-term entry\nAdd: Below $145 — high conviction zone\nReduce / Exit: Above $225 — approaches full valuation\nTime Horizon: 24–48 months"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 81,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 81,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

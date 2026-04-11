@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ticker": "VZ",
+    "company": "Verizon Communications Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 47,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 46.04,
+    "marketCap": 192400000000.0,
+    "marketCapFormatted": "$192.40B",
+    "trailingPE": 11.34,
+    "trailingEps": 4.06,
+    "fiftyTwoWeekHigh": 51.68,
+    "fiftyTwoWeekLow": 38.39,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Verizon's network quality leadership in 5G is genuine, but the debtladen balance sheet, persistent post-paid phone ARPU decline and limited earnings growth visibility make the 11.34x P/E a value trap rather than an opportunity — REDUCE."
+    },
+    "businessModel": {
+      "text": "Verizon operates the largest US wireless network by coverage and the most extensive fibre infrastructure (FiOS) in the Northeast. Wireless is the dominant revenue and cash flow driver, comprising post-paid mobile plans (consumer and business), prepaid plans and the Internet of Things (IoT) connectivity business. The fixed wireless access (FWA) product uses 5G millimetre wave spectrum to deliver home broadband in areas without fibre. Verizon's wireline business includes enterprise networking (MPLS, SD-WAN), voice services and data centre colocation. The company's Media business (Verizon Business, Yahoo, AOL) is a declining residual."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$46.04"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$192.4 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "11.34x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$4.06"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$51.68"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$38.39"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Verizon's C-band 5G spectrum deployment has accelerated, improving network capacity in dense urban areas. The fixed wireless access (FWA) product has added over 5 million subscribers, representing a meaningful new revenue stream for the consumer segment. However, post-paid phone ARPU has continued to decline as promotional intensity in the US wireless market (driven by T-Mobile's aggressive pricing) remains elevated. The company's fibre-to-the-home (Fios) expansion is capital intensive. The dividend is well-covered by free cash flow, but dividend growth has been minimal."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (58): C-band network deployment is complete, reducing capital intensity. FWA subscriber growth continues and ARPU stabilises. Enterprise networking revenue grows as businesses resume IT spending. TheMedia asset is divested, simplifying the story. EPS grows to $4.80+. Price: $54+.\n            Base Case (46): FWA growth continues but at a moderating rate. Post-paid phone ARPU declines modestly. The competitive environment remains rational enough to prevent catastrophic pricing war. Capital intensity moderates from peak 5G investment. EPS grows to $4.30–$4.60. Price: $46–$50.\n            Bear Case (32): T-Mobile and Dish Network (Boost Mobile) pricing aggression intensifies. Post-paid ARPU decline accelerates. FWA subscriber growth stalls as the addressable market saturates. Fibre capex strains free cash flow. Debt reduction stalls. EPS falls to $3.60–$3.90. Price: below $38.\n            Weighted Score: 47 — Bull 58 × 30% + Base 46 × 50% + Bear 32 × 20%",
+      "bull": {
+        "scenario": "Bull Case (58): C-band network deployment is complete, reducing capital intensity. FWA subscriber growth continues and ARPU stabilises. Enterprise networking revenue grows as businesses resume IT spending. TheMedia asset is divested, simplifying the story. EPS grows to $4.80+. Price: $54+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Base Case (46): FWA growth continues but at a moderating rate. Post-paid phone ARPU declines modestly. The competitive environment remains rational enough to prevent catastrophic pricing war. Capital intensity moderates from peak 5G investment. EPS grows to $4.30–$4.60. Price: $46–$50.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Bear Case (32): T-Mobile and Dish Network (Boost Mobile) pricing aggression intensifies. Post-paid ARPU decline accelerates. FWA subscriber growth stalls as the addressable market saturates. Fibre capex strains free cash flow. Debt reduction stalls. EPS falls to $3.60–$3.90. Price: below $38.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "US wireless pricing competition: T-Mobile's aggressive pricing and customer acquisition strategy has permanently shifted consumer expectations of wireless plan pricing. Verizon has struggled to maintain ARPU in this environment."
+        },
+        {
+          "rank": 2,
+          "risk": "Debt burden and capital intensity: Verizon carries approximately $130+ billion in debt from the 2015 Verizon Wireless acquisition, the 2017 Straight Path spectrum purchase and ongoing 5G capex. Debt service constrains financial flexibility."
+        },
+        {
+          "rank": 3,
+          "risk": "Limited earnings growth visibility: The structural ARPU headwind and high capital intensity mean EPS growth is likely to remain low-single-digit at best. This is a mature, capital-intensive infrastructure business."
+        },
+        {
+          "rank": 4,
+          "risk": "Fixed wireless execution: FWA is a meaningful product, but the service is delivered over congested C-band spectrum in some areas, and customer satisfaction with speed consistency is variable."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "REDUCE. Verizon is a high-quality network asset but the path to earnings growth is constrained by pricing competition and capital intensity. The dividend yield is the primary return mechanism, but it is not without risk.\n            Entry framework: BUY below $40 (approximately 9–10x base-case EPS — a more appropriate entry for a mature, debt-laden telecoms franchise). Reduce above $50 (11x+ P/E on a name with limited growth and meaningful competitive headwinds)."
+    },
+    "entryExit": {
+      "text": "BUY below $40 (approximately 9–10x base-case EPS — a more appropriate entry for a mature, debt-laden telecoms franchise). Reduce above $50 (11x+ P/E on a name with limited growth and meaningful competitive headwinds)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 47,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 47,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

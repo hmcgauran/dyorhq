@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "ticker": "DELL",
+    "company": "DELL \u2014 Dell Technologies Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Dell operates across two primary business segments following the VMware spin-off:\n  \n    Infrastructure Solutions Group (ISG): Servers, storage, networking, and data-centre infrastructure. This is the highest-margin and highest-growth segment, particularly driven by AI-optimised server demand (PowerEdge with Nvidia GPU integrations) and enterprise storage arrays. This is the most important segment for the investment thesis.\n    Client Solutions Group (CSG): Commercial and consumer PCs, laptops, and peripherals. A mature, cyclical business with commodity pricing dynamics. Commercial PCs (vs consumer) offer better margin and contract stability through Dell's relationships with large enterprise IT departments.\n    Connected Base Services: After-market services, warranties, and deployment/installation services that provide recurring, high-margin revenue tied to the installed hardware base.\n  \n  The Dell investment case rests heavily on ISG's AI server momentum and whether the company can sustain margin recovery in a competitive infrastructure market against pure-play competitors like HPE and hyperscaler custom silicon."
+    },
+    "financialSnapshot": {
+      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$177.80</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$114.8bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">20.5\u00d7</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$8.68</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$189.75</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$77.96</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">\u22126.3%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">4.3m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case\n      72 / 100\n      AI server orders continue to accelerate as enterprises beyond hyperscalers (sovereign AI, enterprise on-premise AI) build out inference and training infrastructure. ISG revenue grows 15\u201320 per cent in fiscal 2027 and margins expand to 18\u201320 per cent. The P/E re-rates to 25\u00d7+ as the AI infrastructure narrative gains further traction.\n      Weight: 30%\n    \n    \n      Base Case\n      58 / 100\n      AI server momentum continues at a steady pace but not at the explosive rate currently implied by the backlog. ISG grows at high-single to low-double digits. CSG stabilises after the Windows 10 refresh tailwind fades. EPS grows at 8\u201312 per cent annually. Shares drift towards $190\u2013210 as fundamentals improve gradually.\n      Weight: 50%\n    \n    \n      Bear Case\n      40 / 100\n      AI infrastructure spending slows as enterprises and hyperscalers absorb existing GPU capacity. Custom silicon (Nvidia Grace, Google TPU, Amazon Trainium) increasingly replaces commodity x86 servers in AI workloads. CSG revenue declines as the commercial PC refresh cycle completes. Dell faces margin compression in both segments simultaneously.\n      Weight: 20%",
+      "bull": {
+        "scenario": "Bull Case\n      72 / 100\n      AI server orders continue to accelerate as enterprises beyond hyperscalers (sovereign AI, enterprise on-premise AI) build out inference and training infrastructure. ISG revenue grows 15\u201320 per cent in fiscal 2027 and margins expand to 18\u201320 per cent. The P/E re-rates to 25\u00d7+ as the AI infrastructure narrative gains further traction.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
+        "probability": 30
+      },
+      "base": {
+        "scenario": "Base Case\n      58 / 100\n      AI server momentum continues at a steady pace but not at the explosive rate currently implied by the backlog. ISG grows at high-single to low-double digits. CSG stabilises after the Windows 10 refresh tailwind fades. EPS grows at 8\u201312 per cent annually. Shares drift towards $190\u2013210 as fundamentals improve gradually.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Case\n      40 / 100",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "Conviction Score: 58/100 \u2014 REDUCE\n  At 20.5\u00d7 earnings and within 6.3 per cent of the 52-week high, Dell's AI server momentum is largely priced into the current share price. The risk-reward is no longer compelling at this level \u2014 the bull case is plausible but the margin of safety is insufficient for a Buy. Hold existing positions; do not add new ones at current prices.\n  \n    Buy Below$140\n    HOLD Zone$140\u2013$180\n    Reduce Above$180\n    Stop / Sell$125"
+    },
+    "entryExit": {
+      "text": "DELL \u2014 Dell Technologies Inc (DELL) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $181.36 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $195.58 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $193.55 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $87.2 \u2014 partial mean reversion toward the middle of the 52-week range."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "ticker": "DIS",
+    "company": "DIS \u2014 Walt Disney Company",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Disney operates across three interconnected entertainment segments:\n  \n    Disney Entertainment: Television networks (ABC, ESPN majority stake), film studios (Disney, Marvel, Pixar, Lucasfilm, Searchlight), and streaming services (Disney+, Hulu, ESPN+). This segment is in a structural transition as streaming replaces legacy cable distribution.\n    Disney Experiences: Theme parks (Walt Disney World, Disneyland, Disneyland Paris, Hong Kong Disneyland, Shanghai Disney Resort, Tokyo Disney Resort) and cruise ships (Disney Cruise Line). This is the group's highest-margin, most cash-generative business and the financial anchor of the enterprise.\n    Disney Sports: The ESPN franchise \u2014 the leading sports cable network transitioning to a direct-to-consumer streaming platform \u2014 is the most strategically important and capital-intensive bet Disney is making over the next three to five years.\n  \n  The Disney investment thesis centres on whether CEO Bob Iger's second tenure can complete the streaming transition profitably, execute the ESPN streaming reinvention, and sustain the theme park cash flow that funds the entire transformation."
+    },
+    "financialSnapshot": {
+      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$99.17</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$175.7bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">14.6\u00d7</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$6.79</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$124.69</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$82.01</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">\u221220.5%</div></div>\n    <div class=\"snapshot-item\"><div class=\"rec-label\">Avg Volume</div><div class=\"snapshot-value\">6.4m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case\n      78 / 100\n      ESPN streaming launches successfully, capturing cord-cutters and driving a new subscriber base that monetises through advertising and premium tiers. Theme parks continue setting attendance records as new rides open. Streaming becomes a steady high-margin revenue generator. EPS grows to $9\u201310 by fiscal 2027, supporting a 20\u00d7+ re-rating to $120+.\n      Weight: 30%\n    \n    \n      Base Case\n      60 / 100\n      ESPN streaming achieves modest success but not the transformational re-rating bulls hope for. Theme parks hold their elevated attendance and pricing gains. Streaming margins improve but remain below cable equivalents. EPS grows at high-single digits. Shares trade in a $95\u2013115 range on 14\u201317\u00d7 earnings.\n      Weight: 50%\n    \n    \n      Bear Case\n      42 / 100\n      ESPN streaming fails to gain traction against established streaming competitors and Amazon Prime Video's Thursday Night Football dynamic. Cord-cutting accelerates faster than ESPN's D2C migration can compensate. Theme park attendance softens as consumer spending slows. Content costs remain high without proportionate subscriber or ARPU gains.\n      Weight: 20%",
+      "bull": {
+        "scenario": "Bull Case\n      78 / 100\n      ESPN streaming launches successfully, capturing cord-cutters and driving a new subscriber",
+        "probability": null
+      },
+      "base": {
+        "scenario": "base that monetises through advertising and premium tiers. Theme parks continue setting attendance records as new rides open. Streaming becomes a steady high-margin revenue generator. EPS grows to $9\u201310 by fiscal 2027, supporting a 20\u00d7+ re-rating to $120+.\n      Weight: 30%\n    \n    \n      Base Case\n      60 / 100\n      ESPN streaming achieves modest success but not the transformational re-rating bulls hope for. Theme parks hold their elevated attendance and pricing gains. Streaming margins improve but remain below cable equivalents. EPS grows at high-single digits. Shares trade in a $95\u2013115 range on 14\u201317\u00d7 earnings.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "probability": 30
+      },
+      "bear": {
+        "scenario": "Bear Case\n      42 / 100",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "Conviction Score: 61/100 \u2014 HOLD\n  At 14.6\u00d7 earnings with the shares 20.5 per cent below the 52-week high, Disney offers a reasonable entry point for a high-quality media franchise in transition. The streaming profitability milestone is genuine, the theme parks remain exceptional, and the ESPN streaming bet has meaningful optionality. However, the binary nature of the ESPN launch and the uncertainty around Bob Iger's succession limit conviction for a Buy.\n  \n    Buy Below$82\n    HOLD Zone$82\u2013$115\n    Reduce Above$115\n    Stop / Sell$75"
+    },
+    "entryExit": {
+      "text": "DIS \u2014 Walt Disney Company (DIS) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $101.15 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $109.09 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $127.18 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $88.57 \u2014 partial mean reversion toward the middle of the 52-week range."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

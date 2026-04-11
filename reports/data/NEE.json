@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "",
+    "company": "NEE",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 58,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Florida Power & Light (regulated utility, ~55%), NextEra Energy Resources (merchant renewables, ~30%), and Clean Energy (battery storage, LNG terminals, ~15%). Regulated return on equity model."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Installed renewable capacity 60GW+; pipeline extended by 20GW new contracts FY25\n    Manatee terminal (LNG) on track for commissioning Q4 FY26\n    Florida Public Service Commission approved rate case increase of $450M annual revenue\n    New battery storage projects (3.2GW) coming online through 2026-27",
+      "items": [
+        "Installed renewable capacity 60GW+; pipeline extended by 20GW new contracts FY25",
+        "Manatee terminal (LNG) on track for commissioning Q4 FY26",
+        "Florida Public Service Commission approved rate case increase of $450M annual revenue",
+        "New battery storage projects (3.2GW) coming online through 2026-27"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "68\n      Bull\n    \n    \n      58\n      Base\n    \n    \n      42\n      Bear\n    \n    \n      58\n      Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. Multiple equity raises completed FY25: ~$4bn dilution to existing shareholders"
+        },
+        {
+          "rank": 2,
+          "risk": "2. PACE (popular incentive programme) policy changes could reduce distributed solar demand"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Hurricane and extreme-weather exposure: FPL grid hardening capex offsets rate base"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Natural gas storage and LNG trading margin sensitivity to Henry Hub price volatility"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Regulatory lag in cost recovery for transmission interconnection queue delays"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "NextEra Energy (NEE) \u2014 Entry / Exit Framework\n\nHOLD zone: $86.55\u2013$95.96 \u2014 current levels are fairly valued.\nTrim / Take Profits above $95.96 \u2014 approaching the 52-week high at $96.21.\nStop-loss: A sustained close below $62.37 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 58,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 58,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "ticker": "LON:GFTU",
+    "company": "Grafton Group Plc",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": "",
+    "current": 918.2,
+    "currency": "GBp"
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Grafton Group Plc is a UK and Ireland-based building materials distributor operating through its Selco (UK) and Buildbase/Heidelberg Materials (UK) merchanting brands and its Mortar &amp; Screed (retaining systems) division. The stock trades at GBp 918.20 with a market capitalisation of GBp 1.7 billion, at 44% of its 52-week range from the low of GBp 825.10 — mid-range — and a P/E of 13.07x on EPS of GBp 0.70. The REDUCE rating reflects a business with genuine cyclical exposure to UK and Irish residential construction activity, which is currently in a subdued recovery phase. The 13x P/E is not stretched but neither is it compelling: Grafton's earnings quality is cyclically depressed, its UK merchanting business faces structural headwinds from a weak new-build market, and the mid-range price offers neither the value of the lows nor the momentum of a genuine recovery. Holders should trim into any strength back toward the upper half of the range."
+    },
+    "businessModel": {
+      "text": "Grafton Group operates as a building materials merchant and distributor, serving trade professionals (plumbers, electricians, bricklayers, groundworkers, housebuilders) through a network of branches in the UK and Ireland. The model is straightforward: Grafton purchases building materials in bulk from manufacturers and distributes them to trade customers through a network of branches, providing same-day or next-day delivery and credit terms. This is a high-volume, low-margin, capital-intensive business where earnings are driven by volumes (尺尺 driven by RMI — repair, maintenance, and improvement activity — and new build), gross margin management, and branch network efficiency.\n\nKey divisions: (1) Selco Trade — Grafton's flagship UK self-service builder's merchant chain, operating 70+ branches, focused on trade professionals who value range, availability, and speed; (2) Buildbase — traditional merchanting network in the UK, smaller and less differentiated than Selco; (3) Building Materials Distribution (BMD) — focused on the Irish market; and (4) Retaining systems and Civil engineering products — niche specialist products for infrastructure and ground engineering projects. The Mortar &amp; Screed business is a specialist dry mortar and screed products supplier, a relatively defensive niche with long-term supply contracts.\n\nEarnings are highly correlated with UK and Irish construction activity. Private housing starts, RMI spending, and infrastructure investment are the primary volume drivers. The business is operationally leveraged: fixed costs are high relative to variable costs, meaning incremental volumes flow through to EBIT with significant operating gearing."
+    },
+    "financialSnapshot": {
+      "text": "Grafton Group Plc trades at GBp 918.20 with a market capitalisation of GBp 1.7 billion. The 52-week range spans GBp 825.10 to GBp 1,035.60 (range: GBp 210.50), placing the current price at 44% of the range from the low — mid-range. P/E stands at 13.07x and EPS at GBp 0.70. The 13x P/E is undemanding relative to the broader market but reflects the earnings risk inherent in a cyclically exposed merchanting business. Grafton's revenue is predominantly UK-sourced, with meaningful Irish exposure. The UK housing market has been subdued: mortgage affordability remains stretched, transaction volumes are depressed, and new-build housing starts are below the level needed to address the UK's structural housing deficit. This suppresses volumes in the merchanting channel. Grafton has responded with cost discipline, branch network optimisation, and a focus on Selco (the higher-margin, higher-conviction asset). The dividend has been maintained but is not fully covered by free cash flow in the current cycle. Net debt is elevated relative to historical levels. Cash conversion has weakened as working capital has increased."
+    },
+    "recentCatalysts": {
+      "text": "Grafton has traded in a GBp 850–950 range over the trailing 3–6 months, reflecting the subdued UK construction activity and mixed signals on the interest rate outlook. Key recent catalysts and data points: (1) Bank of England rate cut expectations have shifted multiple times, creating volatility in rate-sensitive sectors like housebuilding and building materials; (2) UK H2 2024 RMI data has been mixed — cold weather boosted some winter maintenance activity, but general consumer caution keeps discretionary home improvement spending suppressed; (3) Selco continues to outperform Buildbase on like-for-like sales, a trend management has highlighted as they rebalance the portfolio toward the higher-return Selco format; (4) no M&A or strategic announcements have provided a re-rating catalyst; and (5) the stock is below its 52-week high by approximately 11%, providing a modest ceiling for momentum-driven buying."
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Analysis (Weights sum to 100%)\n\nBull (25%): Bank of England rate cuts materialise, mortgage affordability improves, and UK housing transaction volumes recover in H2 2025. RMI activity accelerates. Grafton's Selco business delivers strong like-for-like growth, driving operating leverage that expands margins. The stock re-rates to 15–16x P/E, targeting GBp 980–1,005 (+7–9%).\n\nBase (50%): The UK housing market remains subdued with gradual, not V-shaped, recovery. Grafton delivers flat to low single-digit volume growth, maintained margins through cost discipline, and the stock drifts in the GBp 880–960 range. The 13x P/E is held. The stock provides no meaningful return from current levels over 12 months without a re-rating catalyst.\n\nBear (25%): UK recession or persistently high rates further depress housing activity and RMI. Grafton's volumes decline. Operating leverage works in reverse, compressing margins. The stock de-rates to 10–11x P/E on lower earnings, targeting GBp 750–800 (-16–22% from current levels), testing or breaking below the 52-week low."
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "UK housing market cyclicality — Grafton's volumes are directly tied to UK new-build housing starts and RMI activity. A prolonged housing downturn (further rate hikes, lender caution, flat prices) would suppress volumes through the branch network for an extended period. The stock's 13x P/E would de-rate further as earnings disappoint."
+        },
+        {
+          "rank": 2,
+          "risk": "Operating leverage risk — Grafton has high fixed costs (branches, fleet, staff). If volumes decline, the cost base does not contract proportionally, and earnings fall faster than revenue. This works in both directions but the current cycle is testing the downside scenario."
+        },
+        {
+          "rank": 3,
+          "risk": "Competition from online and grocery-based merchants — Amazon Business, Wickes (DIY), and B&Q (DIY) are expanding their trade offerings. Grafton's incumbent position in professional merchanting is defensible but not immune to digital disruption and changing procurement habits among smaller trade customers."
+        },
+        {
+          "rank": 4,
+          "risk": "Interest rate and mortgage market sensitivity — Higher rates directly suppress housing transactions, new build starts, and consumer RMI spending. The Bank of England's rate path is the single most important macro variable for Grafton's end markets. Any reversal of expected cuts would be materially negative."
+        },
+        {
+          "rank": 5,
+          "risk": "Irish market exposure — Grafton has meaningful exposure to the Irish construction and housing market. Ireland's property market is smaller and more volatile than the UK, with particular sensitivity to domestic credit conditions, population growth, and Airbnb-driven supply constraints in the rental market."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Owners: Cyclical value investors who bought in the GBp 800–850 range and are managing a gain; UK-focused generalists who want exposure to a potential housing recovery and are willing to accept rangebound performance for 12–18 months; contrarian investors who view the 13x P/E as too cheap for a business with Selco's market position and the potential for operating leverage on a volume recovery.\n\nAvoid: Growth-oriented investors (no credible growth re-rating story at 13x); momentum-sensitive funds (mid-range with no clear catalyst means rangebound behaviour); investors who need income (dividend is not fully covered by FCF in the current cycle); anyone building a position at current levels without a clear thesis on the UK housing recovery timing."
+    },
+    "recommendation": {
+      "text": "REDUCE — Conviction: 45/100\n\nGrafton trades at GBp 918.20, mid-range (44%) of its 52-week range, with a 13x P/E that is fair but not compelling for a cyclically exposed merchanting business. The REDUCE signals that the mid-range price does not offer adequate compensation for the cyclical risks: a UK housing recovery that is taking longer than hoped, operating leverage working against the business in a volume downturn, and an Irish market that adds volatility. Holders should use any strength toward GBp 950–990 as a trim opportunity. New accumulation should await either a clear macro catalyst (Bank of England rate cut) or a pullback toward the lower half of the range.\n\nStop: GBp 825.10 (52-week low — breach signals the cyclical downturn has materially worsened; exit without exception).\nTarget 1: GBp 993.50 (80th percentile, trim 50% here — meaningful gain from mid-range entry).\nTarget 2: GBp 1,035.60 (52-week high — exit remaining position on a test of the highs).\n\nConviction of 45 reflects the rangebound, macro-dependent nature of the thesis."
+    },
+    "entryExit": {
+      "text": "**Entry / Exit Framework — Grafton Group Plc (LON:GFTU)**\n*Current Price: GBp 918.20 | 52-Week Range: GBp 825.10–1,035.60 (range: GBp 210.50) | REDUCE | Conviction: 45/100*\n\n**Current Range Position:** 44% of the 52-week range from the low — mid-range, neither oversold nor extended.\n\n**1. Entry Zone**\nNo new accumulation warranted at GBp 918.20. The stock is in mid-range at 44%, with no clear catalyst for near-term re-rating and genuine cyclical risks to earnings. Treat any bounce toward GBp 960–980 as a trim zone for existing holders. The lower third of the range (GBp 825–900) would be a more compelling entry for a stock where the cyclical thesis is not yet proven wrong.\n\n**2. Stop Loss**\nGBp 825.10 — the 52-week low. A sustained breach of this level on elevated volume would signal a deterioration in the UK housing and construction cycle worse than the base case, mandating full exit without exception.\n\n**3. Target 1 — Near-Term (3–6 months)**\nGBp 993.50 — the 80th percentile of the 52-week range (GBp 825.10 + 0.8 × GBp 210.50). This represents a meaningful gain of approximately 8% from current levels and is the zone to reduce the position by 50%. Do not hold through GBp 993 without a thesis upgrade (Bank of England rate cut, improving UK housing data, or Selco volume beat).\n\n**4. Target 2 — Longer-Term (12–18 months)**\nGBp 1,035.60 — the 52-week high. Given the REDUCE rating, this is an exit target. Close the remaining position if the stock approaches the 52-week high on elevated volume. The thesis would need a material change — a genuine UK housing recovery with evidence in Grafton's weekly/monthly volumes — to justify holding through this level. Do not hold through GBp 1,035 on a mid-cycle base case."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Grafton Group Plc annual reports, half-year results, RNS regulatory announcements, and investor presentations via LSE.",
+      "additional": [
+        "Grafton Group corporate investor relations (graftonplc.com)",
+        "UK NHBC and ONS new build housing statistics for volume trend context",
+        "Liberum, Shore Capital analyst coverage (cross-referenced for consensus estimates and Selco/Bulidbase like-for-like data)"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

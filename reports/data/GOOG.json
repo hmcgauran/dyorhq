@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "GOOG",
+    "company": "Alphabet Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 315.72,
+    "marketCap": 3800000000000.0,
+    "marketCapFormatted": "$3.80T",
+    "trailingPE": 29.18,
+    "trailingEps": 10.82,
+    "fiftyTwoWeekHigh": 350.15,
+    "fiftyTwoWeekLow": 148.4,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Alphabet's search monopoly generates extraordinary cash flows that fully fund its AI infrastructure buildout, Cloud returns to profitability, and the Gemini AI integration into Search and YouTube represents a genuine competitive response to ChatGPT-era threats. HOLD is the weighted recommendation with a conviction score of 70."
+    },
+    "businessModel": {
+      "text": "Alphabet Inc (GOOG) operates in the Communication Services sector and is listed on NASDAQ. The business generates revenue through its core operations in communication services."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$315.72"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$3.8 trillion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "29.18x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$10.82"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$350.15"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$148.40"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Alphabet Inc has been navigating the current market environment with its core communication services franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (82): Gemini Ultra closes the capability gap with GPT-4. Search AI Overviews increase engagement and CPMs without materially impacting click-through rates. YouTube and Cloud sustain 25%+ growth. EPS grows to $13+. Price: $370+.\n            Base Case (70): Search remains dominant with modest AI monetisation upside. YouTube grows advertising revenue in line with digital ad market. Cloud maintains trajectory at 21-23% growth. EPS: $11-12. Price: $320-360.\n            Bear Case (52): AI Overviews disruption to search experience reduces click volumes and CPMs. Cloud competitive losses to AWS/Azure accelerate. Antitrust remedies force structural separation of Search. EPS falls to $9-10. Price: below $270.\n            Weighted Score: 70 \u2014 Bull 82 \u00d7 30% + Base 70 \u00d7 50% + Bear 52 \u00d7 20%",
+      "bull": {
+        "scenario": "Bull Case (82): Gemini Ultra closes the capability gap with GPT-4. Search AI Overviews increase engagement and CPMs without materially impacting click-through rates. YouTube and Cloud sustain 25%+ growth. EPS grows to $13+. Price: $370+.",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "Base Case (70): Search remains dominant with modest AI monetisation upside. YouTube grows advertising revenue in line with digital ad market. Cloud maintains trajectory at 21-23% growth. EPS: $11-12. Price: $320-360.",
+        "probability": 23
+      },
+      "bear": {
+        "scenario": "Bear Case (52): AI Overviews disruption to search experience reduces click volumes and CPMs. Cloud competitive losses to AWS/Azure accelerate. Antitrust remedies force structural separation of Search. EPS falls to $9-10. Price: below $270.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "AI Search disruption risk: If AI Overviews reduce user clicks on search results, Google's core monetisation mechanism is impaired. This is the single largest structural risk to the bull case."
+        },
+        {
+          "rank": 2,
+          "risk": "Antitrust regulatory risk: The US DOJ's search monopoly case has progressed to remedies phase. Structural remedies (divestiture of Android or AdWords) could materially impair the business."
+        },
+        {
+          "rank": 3,
+          "risk": "Cloud competitive position: AWS and Azure have meaningful scale advantages in enterprise cloud. Google Cloud's path to sustained profitability requires continued outperformance in AI workloads."
+        },
+        {
+          "rank": 4,
+          "risk": "Capex intensity: AI infrastructure requires enormous and ongoing capital investment. Free cash flow conversion could remain depressed relative to net income for multiple years."
+        },
+        {
+          "rank": 5,
+          "risk": "Advertiser concentration risk: The top 100 advertisers represent a disproportionate share of search and YouTube ad revenue. Macro slowdown or major advertiser churn has outsized impact."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "BUY. BUY on any material pullback related to AI Search concerns below $285 (implies 26x base-case EPS \u2014 reasonable for the quality of the franchise).\n            Reduce if antitrust structural remedies are confirmed and impose genuine business separation. Monitor AI Overviews click-through rate data carefully."
+    },
+    "entryExit": {
+      "text": "Alphabet Inc (GOOG) \u2014 Entry / Exit Framework\n\nHOLD zone: $290.46\u2013$322.03 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $290.46 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $322.03 \u2014 approaching the 52-week high at $350.15. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $145.43 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "ET",
+    "company": "Energy Transfer LP",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 64,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 19.19,
+    "marketCap": 66000000000.0,
+    "marketCapFormatted": "$66.00B",
+    "trailingPE": 15.86,
+    "trailingEps": 1.21,
+    "fiftyTwoWeekHigh": 19.86,
+    "fiftyTwoWeekLow": 15.41,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Energy Transfer is a high-yield energy infrastructure MLP offering an attractive 7%+ distribution yield supported by fee-based cash flows and a recovering natural gas demand environment, but the unit price is near the top of its 52-week range and near-term upside is limited — HOLD is appropriate at current levels."
+    },
+    "businessModel": {
+      "text": "Energy Transfer operates one of the largest and most diversified midstream energy infrastructure networks in North America. The partnership's assets span natural gas pipelines (over 120,000 miles), crude oil gathering and transmission systems, NGL fractionation and storage, and refined products logistics. Approximately 80% of EBITDA is fee-based or take-or-pay, providing substantial cash flow predictability independent of commodity prices. The distribution model passes through the majority of cash generated to unitholders. Energy Transfer also has meaningful exposure to LNG export demand as US natural gas production continues to grow."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$19.19"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$66.0 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "15.86x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$1.21"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$19.86"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$15.41"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Natural gas demand has recovered as LNG export capacity expands along the US Gulf Coast, with multiple new trains coming online through 2025-2026. Energy Transfer's Gulf Coast natural gas pipeline assets are well-positioned to serve this growing demand. The partnership has maintained distribution coverage above 1.1x through disciplined volume growth and cost management. The stock has recovered from its 52-week low of $15.41, moving to within 3.4% of the 52-week high of $19.86. Leverage has declined toward 4x net debt/EBITDA, reducing balance sheet risk. No major project milestones or material corporate actions have been announced in recent months."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (74): LNG export demand drives a step-change in natural gas throughput across Energy Transfer's pipeline network. New connection projects come online ahead of schedule. The distribution grows at 3-5% annually. LNG-related bolt-on acquisitions are announced. Price: $23+.\n            Base Case (65): LNG export growth materialises broadly as expected. Natural gas domestic demand is stable. Distribution coverage holds above 1.1x. Distribution grows low-single-digit. Price: $19-$21.\n            Bear Case (50): LNG buildout is slower than projected. Natural gas prices remain low, reducing producer drilling and pipeline throughput. Distribution coverage tightens below 1.0x, forcing a distribution cut. Price: $15-$17.\n            Weighted Score: 64 — Bull 74 x 30% + Base 65 x 50% + Bear 50 x 20%",
+      "bull": {
+        "scenario": "Bull Case (74): LNG export demand drives a step-change in natural gas throughput across Energy Transfer's pipeline network. New connection projects come online ahead of schedule. The distribution grows at 3-5% annually. LNG-related bolt-on acquisitions are announced. Price: $23+.",
+        "probability": 5
+      },
+      "base": {
+        "scenario": "Base Case (65): LNG export growth materialises broadly as expected. Natural gas domestic demand is stable. Distribution coverage holds above 1.1x. Distribution grows low-single-digit. Price: $19-$21.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Bear Case (50): LNG buildout is slower than projected. Natural gas prices remain low, reducing producer drilling and pipeline throughput. Distribution coverage tightens below 1.0x, forcing a distribution cut. Price: $15-$17.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Natural gas price volatility: While the majority of cash flows are fee-based, prolonged low natural gas prices reduce producer drilling activity, which can lower throughput volumes and extend the payback period on new pipeline projects."
+        },
+        {
+          "rank": 2,
+          "risk": "LNG project execution risk: The bull case is heavily dependent on new LNG export terminals coming online on schedule. Permitting delays, construction cost overruns or cancellations would impair the throughput growth thesis."
+        },
+        {
+          "rank": 3,
+          "risk": "Distribution sustainability: At current distribution levels, coverage at 1.1x is adequate but not generous. Any material decline in throughput or spike in maintenance capex could pressure the distribution, which MLP investors watch closely."
+        },
+        {
+          "rank": 4,
+          "risk": "Geopolitical and regulatory risk: Pipeline projects face increasing scrutiny from regulators and environmental groups. Permit delays on new infrastructure projects could slow the growth pipeline."
+        },
+        {
+          "rank": 5,
+          "risk": "Valuation near 52-week high: The stock is trading within 3-4% of its 52-week high with limited near-term catalysts for re-rating. The risk-reward from current levels is asymmetric to the downside."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD. Energy Transfer is a well-managed midstream MLP with an attractive distribution yield backed by fee-based cash flows and LNG export tailwinds. At $19.19 the stock is near the top of its 52-week range and the near-term upside is limited, but the distribution is sustainable and the yield is competitive.\n            Entry framework: BUY below $17.00 (near 52-week low — better entry for new positions). Reduce on rallies above $20.50 (approaching 52-week high — distribution yield alone does not compensate for capital loss risk at that level). Hold existing positions at current levels."
+    },
+    "entryExit": {
+      "text": "BUY below $17.00 (near 52-week low — better entry for new positions). Reduce on rallies above $20.50 (approaching 52-week high — distribution yield alone does not compensate for capital loss risk at that level). Hold existing positions at current levels."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

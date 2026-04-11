@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "ticker": "SMR",
+    "company": "NuScale Power Corporation",
+    "exchange": "US",
+    "isin": "US67020B1066",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 46,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "NuScale is one of the most recognisable listed names in advanced nuclear because it carries a real regulatory credential, the first U.S. NRC-approved SMR design. That matters. It gives the company a level of technical and policy credibility many earlier-stage peers do not have.\n            But the equity is telling a harsher story. The live price is $9.16, down 84.0% from the 52 week high of $57.42 and sitting effectively on the 52 week low. This is still a loss-making business with EPS -2.17 an"
+    },
+    "businessModel": {
+      "text": "NuScale is developing small modular reactor systems for utility, industrial and large-load customers. The commercial opportunity is substantial if customers adopt SMRs as part of future energy infrastructure. Revenue should ultimately come from design licensing, engineering services, project participation and long-cycle deployment support.\n            The challenge is that nuclear businesses do not get paid for technical elegance alone. They need financeable projects, committed customers, manageable timelines and confidence that build economics will hold together under real-world conditions."
+    },
+    "financialSnapshot": {
+      "text": "<p><strong>Live price:</strong> $9.16<br>\n            <strong>Market cap:</strong> $3.10bn<br>\n            <strong>EPS:</strong> -2.17<br>\n            <strong>52 week range:</strong> $9.14 to $57.42<br>\n            <strong>3 month share price move:</strong> -53.4%</p>\n            <p>The stock has de-rated hard and quickly. That is not a routine pullback. It reflects investor concern around execution, project viability and the gap between strategic promise and financial delivery.</p>\n          </div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Ongoing relevance to the nuclear-for-grid and nuclear-for-AI electricity demand theme\n              Continuing strategic value from being the first NRC-approved SMR design in the U.S.\n              Reset investor expectations after a severe valuation collapse\n              Heightened scrutiny on whether NuScale can convert design credibility into actual commercial momentum",
+      "items": [
+        "Ongoing relevance to the nuclear-for-grid and nuclear-for-AI electricity demand theme",
+        "Continuing strategic value from being the first NRC-approved SMR design in the U.S.",
+        "Reset investor expectations after a severe valuation collapse",
+        "Heightened scrutiny on whether NuScale can convert design credibility into actual commercial momentum"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%)\n                NuScale converts its regulatory lead into meaningful commercial wins, project financing improves and the stock re-rates sharply from depressed levels.\n              \n              \n                Base (45%)\n                The company stays strategically relevant, but commercial uptake remains slow and the stock trades more on sentiment than on operating progress.\n              \n              \n                Bear (30%)\n                Commercial momentum remains weak, capital requirements rise and investors continue to derate non-profitable reactor developers.\n              \n            \n            The entire investment case rests on whether NuScale can become commercially credible before the market stops caring about its early regulatory lead.",
+      "bull": {
+        "scenario": "Bull (25%)\n                NuScale converts its regulatory lead into meaningful commercial wins, project financing improves and the stock re-rates sharply from depressed levels.",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "Base (45%)\n                The company stays strategically relevant, but commercial uptake remains slow and the stock trades more on sentiment than on operating progress.",
+        "probability": 45
+      },
+      "bear": {
+        "scenario": "Bear (30%)\n                Commercial momentum remains weak, capital requirements rise and investors continue to derate non-profitable reactor developers.",
+        "probability": 30
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Commercial execution risk: projects may remain conceptual rather than contractual."
+        },
+        {
+          "rank": 2,
+          "risk": "Funding risk: prolonged losses may force future dilution."
+        },
+        {
+          "rank": 3,
+          "risk": "Timeline risk: nuclear projects are highly vulnerable to slippage."
+        },
+        {
+          "rank": 4,
+          "risk": "Competitive risk: stronger players elsewhere in the supply chain may capture more of the eventual value."
+        },
+        {
+          "rank": 5,
+          "risk": "Narrative risk: if AI-power enthusiasm fades, NuScale may lose a major sentiment support."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "REDUCE.\n            NuScale still matters strategically, but the stock is not yet earning a high-conviction place in a serious portfolio. The risk is not that the technology is irrelevant. The risk is that commercial traction arrives too slowly and the capital structure absorbs the pain first."
+    },
+    "entryExit": {
+      "text": "Below $9: speculative only, and only with small size\n              $9-$12: avoid adding meaningful size until execution improves\n              $15-$18: first zone where a real recovery starts to look plausible\n              Above $20: reassess - requires concrete commercial traction evidence\n            \n          \n\n          \n            Conviction Trend\n            Latest conviction: 46/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0846"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 46,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 46,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

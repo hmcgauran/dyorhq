@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "ticker": "AAPL",
+    "company": "Apple Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "10 Apr 2026",
+    "datePublished": "2026-04-10",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 64,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 260.48,
+    "marketCap": 3820000000000.0,
+    "marketCapFormatted": "$3.82T",
+    "trailingPE": 32.96,
+    "trailingEps": 7.9,
+    "fiftyTwoWeekHigh": 288.61,
+    "fiftyTwoWeekLow": 186.06,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Apple's ecosystem durability and Services growth are well-established, but the shares are trading near their 52-week high at a P/E of 33x, leaving limited upside at current levels — HOLD is the weighted recommendation."
+    },
+    "businessModel": {
+      "text": "Apple designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories globally, under the iPhone, Mac, iPad, Apple Watch, and AirPods brands. It also operates a high-margin Services segment comprising the App Store, Apple Music, Apple TV+, Apple Arcade, iCloud, Apple Pay, and a growing advertising business.\n            Revenue is geographically diversified across the Americas, Europe, Greater China, Japan, and Rest of Asia Pacific. The company generates the majority of hardware gross profit, but Services now contributes approximately 25–30% of total revenue and carries significantly higher margins — making it the primary earnings-per-share accelerator as hardware upgrade cycles lengthen.\n            iPhone remains the single largest revenue line. The installed base — now exceeding two billion active devices — is the structural moat: switching costs are high, and Services consumption scales with the base. Vision Pro represents a nascent spatial computing category with uncertain commercial scale."
+    },
+    "financialSnapshot": {
+      "text": "<p style=\"font-size:0.85em;color:#666;margin-top:8px;\">Note: Cash and debt figures sourced from last reported balance sheet. FY2025 revenue estimates based on consensus.</p>\n          </div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$260.48"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$3.82 trillion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "32.96x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$7.90"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$288.61"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$186.06"
+        },
+        {
+          "label": "Shares Outstanding",
+          "value": "14.68 billion"
+        },
+        {
+          "label": "Avg Daily Volume",
+          "value": "41.2 million"
+        },
+        {
+          "label": "Revenue (FY2025 est.)",
+          "value": "~$420 billion"
+        },
+        {
+          "label": "CAGR 3-yr (Revenue)",
+          "value": "Mid-single digit"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Tariff risk re-emerged: Renewed US–China trade tensions in Q1 2026 raised concerns over iPhone manufacturing costs, given the concentration of assembly in China. Apple has some pricing power, but margin pressure is a real risk if tariffs escalate.\n              Services acceleration: Apple Intelligence (AI features) drove incremental Services attachment — App Store, iCloud, and Apple TV+ all showed improved growth trajectories in the holiday quarter. Advertising revenue is a fast-growing line often underappreciated by the market.\n              iPhone 17 cycle: The product cycle has been characterised as a meaningful step-up from iPhone 16, with early pre-order data suggesting above-typical upgrade demand. This is the key near-term catalyst for hardware revenue.\n              Buyback pace: Apple continues to repurchase shares aggressively (~$25–30bn per year), mechanically supporting EPS growth independent of revenue expansion.\n              India manufacturing: Diversification away from China continues, with increasing iPhone assembly in India reducing single-country geopolitical exposure over time.",
+      "items": [
+        "Tariff risk re-emerged: Renewed US–China trade tensions in Q1 2026 raised concerns over iPhone manufacturing costs, given the concentration of assembly in China. Apple has some pricing power, but margin pressure is a real risk if tariffs escalate.",
+        "Services acceleration: Apple Intelligence (AI features) drove incremental Services attachment — App Store, iCloud, and Apple TV+ all showed improved growth trajectories in the holiday quarter. Advertising revenue is a fast-growing line often underappreciated by the market.",
+        "iPhone 17 cycle: The product cycle has been characterised as a meaningful step-up from iPhone 16, with early pre-order data suggesting above-typical upgrade demand. This is the key near-term catalyst for hardware revenue.",
+        "Buyback pace: Apple continues to repurchase shares aggressively (~$25–30bn per year), mechanically supporting EPS growth independent of revenue expansion.",
+        "India manufacturing: Diversification away from China continues, with increasing iPhone assembly in India reducing single-country geopolitical exposure over time."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull Scenario (30% weight): iPhone 17 super-cycle drives material revenue acceleration; Services growth re-rates as the market values the high-margin recurring revenue stream at a higher multiple (closer to pure-play SaaS); India ramps to offset China softness; Vision Pro creates a new premium category. Price target ~$310–330. Score: 85\n            Base Scenario (50% weight): Steady iPhone upgrade cycle, Services growing at 12–15% organically, modest China headwinds offset by India. EPS continues to grow at 8–10% annually, supported by buybacks. Re-rating is limited by hardware cyclicality. Price target ~$280–300. Score: 65\n            Bear Scenario (20% weight): Tariff escalation compresses hardware margins significantly; China iPhone ban (government or consumer) accelerates; services growth decelerates as regulatory or competitive pressure mounts; multiple de-rates to 25x P/E. Price target ~$190–210. Score: 35\n            Conviction Score: (85×0.30) + (65×0.50) + (35×0.20) = 63.5 → 64 — HOLD",
+      "bull": {
+        "scenario": "Bull Scenario (30% weight): iPhone 17 super-cycle drives material revenue acceleration; Services growth re-rates as the market values the high-margin recurring revenue stream at a higher multiple (closer to pure-play SaaS); India ramps to offset China softness; Vision Pro creates a new premium category. Price target ~$310–330. Score: 85",
+        "probability": 30
+      },
+      "base": {
+        "scenario": "Base Scenario (50% weight): Steady iPhone upgrade cycle, Services growing at 12–15% organically, modest China headwinds offset by India. EPS continues to grow at 8–10% annually, supported by buybacks. Re-rating is limited by hardware cyclicality. Price target ~$280–300. Score: 65",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Scenario (20% weight): Tariff escalation compresses hardware margins significantly; China iPhone ban (government or consumer) accelerates; services growth decelerates as regulatory or competitive pressure mounts; multiple de-rates to 25x P/E. Price target ~$190–210. Score: 35",
+        "probability": 20
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "China concentration risk: Both manufacturing and sales exposure to China create a two-sided vulnerability — demand slowdown and supply disruption simultaneously — that the market underprices."
+        },
+        {
+          "rank": 2,
+          "risk": "Tariff and trade policy risk: Retaliatory or prophylactic tariffs on electronics could materially compress hardware margins, with limited near-term mitigation given supply chain constraints."
+        },
+        {
+          "rank": 3,
+          "risk": "AI feature gap: Apple Intelligence is a credible product but trails leading-edge AI capability. If the functional gap widens versus Android competitors, upgrade cycle lengthening could accelerate."
+        },
+        {
+          "rank": 4,
+          "risk": "Regulatory and antitrust risk: The EU Digital Markets Act and ongoing US antitrust scrutiny create compliance costs and potential restrictions on App Store economics — the most margin-accretive part of the ecosystem."
+        },
+        {
+          "rank": 5,
+          "risk": "Hardware cyclicality: The P/E of 33x is pricing in a reliable upgrade cycle. If consumers extend device lifetimes further (as they did post-2015–2018), revenue growth disappoints."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD. Apple is an excellent business — the question is price. At $260.48 and a P/E of 33x, the stock is not cheap but it is not absurd given the quality. The iPhone 17 cycle and Services acceleration provide reasonable supports for current levels.\n            A meaningful re-rating requires either a faster Services growth narrative or a resolution of the China/tariff overhang. Neither is a near-term certain catalyst."
+    },
+    "entryExit": {
+      "text": "Add / Initiate: Below $230 — that represents a ~12% pullback to the mid-point of the 52-week range and a P/E of ~29x, which better reflects the growth rate.\n              HOLD zone: $230–$280 — current levels are fairly valued. No compelling reason to add or trim.\n              Trim / Take Profits: Above $285 — approaching the 52-week high of $288.61. At that level the risk/reward is poor for new capital.\n              Stop-loss consideration: A sustained close below $185 (52-week low) would signal a fundamental deterioration worth reassessing."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Apple Inc — Q1 FY2025 earnings release and 10-Q filings",
+        "Consensus estimates via Bloomberg / FactSet (FY2025 EPS $7.90)",
+        "Trading data: Live market data via DYOR HQ data pipeline — captured 10 Apr 2026",
+        "52-week high/low, volume: same source",
+        "EU Digital Markets Act regulatory filings and commentary",
+        "US ITC / antitrust proceedings documentation"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-10",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

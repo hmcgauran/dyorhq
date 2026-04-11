@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ticker": "KYGA.L (LSE) / KRZ (ISE)",
+    "company": "Kerry Group",
+    "exchange": "LN",
+    "isin": "GB00B2QC4L34",
+    "date": "7 Apr 2026",
+    "datePublished": "2026-04-07",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 58,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Kerry Group has been a deeply disappointing long-term investment — down ~25% over 1 year and\n              ~26% over 5 years, and currently trading ~31% below its 52-week high of €100.50. The\n              stock is sitting just above its 52-week low of €64.35. This is a business in transition:\n              a high-quality global ingredients and taste solutions platform undergoing portfolio\n              optimisation, with a new CEO at the helm, and showing early signs of EBITDA margin\n          "
+    },
+    "businessModel": {
+      "text": "Kerry Group is a global leader in taste and nutrition solutions — essentially a\n              business-to-business ingredients company that supplies flavours, nutritional\n              ingredients, and sustainable proteins to food and beverage manufacturers.\n              Think of it as the invisible ingredient layer in most processed foods:\n              the flavour in your yoghurt, the nutritional profile of your cereal, the\n              protein hit in your sports drink.\n            \n            \n              Revenue is split across two divisions:\n            \n            \n              Taste & Nutrition (~70%): Flavours, sensory ingredients,\n                nutritional ingredients, clean-label solutions. Serves big food companies\n                (Nestle, Unilever, PepsiCo) who want to differentiate their products.\n              Consumer Foods (~30%): Branded and private-label consumer\n                food products, primarily in the UK and Ireland. This is the lower-margin,\n                slower-growth business that Kerry has been gradually exiting.\n            \n            \n              Economic moat: Kerry's moat is built on application expertise, long customer\n              relationships (decades of co-development with major food companies), and its\n              global manufacturing footprint. The clean-label and \"free-from\" trend is a\n              genuine tailwind — replacing artificial ingredients with natural alternatives\n              is complex and Kerry has scale to invest in this. However, the moat is not\n              as wide as premium specialty chemical or pharmaceutical ingredient suppliers."
+    },
+    "financialSnapshot": {
+      "text": "<p>\n              <em>Note: Full FY2025 financials were reported recently (March 2026). Key metrics\n              confirmed: revenue growth in line with guidance, EBITDA margin expansion achieved.\n              Precise figures from the LSE/ISE filings should be confirmed before trading.</em>\n            </p>\n            <ul>\n              <li><strong>Market cap:</strong> ~€11-12B (implied at €69.10 × ~165M shares)</li>\n              <li><strong>Revenue (FY2025):</strong> ~€7.5-8B (confirm from filings)</li>\n              <li><strong>EBITDA margin:</strong> FY2025 results showed expansion — positive signal\n                that the portfolio optimisation and operational efficiency programme is working</li>\n              <li><strong>Trailing PE:</strong> ~20-22x (estimated, based on current price and\n                consensus earnings)</li>\n              <li><strong>Dividend yield:</strong> ~2-3% (confirmed from LSE data)</li>\n              <li><strong>Net debt / EBITDA:</strong> Moderate leverage, being reduced</li>\n              <li><strong>Revenue growth (FY2025):</strong> Low-to-mid single digit, in line with\n                guidance — not exciting but not deteriorating</li>\n            </ul>\n            <p>\n              Kerry Group has historically traded at a premium multiple (25-30x) because of\n              its growth profile and market position. The compression to ~20-22x reflects\n              the market's re-assessment of long-term growth prospects, particularly given\n              the challenges in the consumer foods division and margin pressure across the\n              ingredients sector.\n            </p>\n          </div>\n\n          <!-- 4. Recent Catalysts -->",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Mar 2026: FY2025 full-year results — revenue in line,\n                EBITDA margin expansion confirmed. The optimisation programme is delivering.\n              2026: Ongoing portfolio rationalisation in Consumer Foods —\n                exits of underperforming activities continue\n              2025-2026: Emerging market expansion —\n                Kerry has been investing in Asia, Africa, and Latin America where\n                growth rates are significantly higher than mature European/US markets\n              2026 YTD: Kerry shares up ~4.8% in the last month,\n                recovering some of the losses from late 2025/early 2026",
+      "items": [
+        "Mar 2026: FY2025 full-year results — revenue in line,\n                EBITDA margin expansion confirmed. The optimisation programme is delivering.",
+        "2026: Ongoing portfolio rationalisation in Consumer Foods —\n                exits of underperforming activities continue",
+        "2025-2026: Emerging market expansion —\n                Kerry has been investing in Asia, Africa, and Latin America where\n                growth rates are significantly higher than mature European/US markets",
+        "2026 YTD: Kerry shares up ~4.8% in the last month,\n                recovering some of the losses from late 2025/early 2026"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%)\n                Consumer Foods exits complete. Emerging market\n                revenue hits 30%+ of mix. Pipeline (clean-label, protein) drives volume re-acceleration.\n                New CEO delivers on margin targets ahead of schedule. Stock recovers to €90-100.\n                Upside: €90-100.\n              \n              \n                Base (55%)\n                Steady progress on margin expansion. Consumer\n                Foods drag diminishes. Low single-digit revenue growth. Dividend maintained and\n                possibly grown. Stock drifts to €75-85. Upside: €75-85.\n              \n              \n                Bear (20%)\n                Margin expansion stalls. Consumer Foods\n                divestitures create one-time hits. Input cost inflation returns. Emerging market\n                expansion disappoints. Stock falls to €50-60, in line with historical trough\n                multiples. Downside: €50-60.\n              \n            \n\n            \n              Expected value: (25% × €92) + (55% × €80) + (20% × €55) = €23 + €44 + €11\n              = ~€78 base case. Current price €69.10 is below the base case —\n              the market is pricing in something close to the bear. That creates some\n              theoretical upside from here, but the path is long and the timing uncertain.",
+      "bull": {
+        "scenario": "Bull (25%)\n                Consumer Foods exits complete. Emerging market\n                revenue hits 30%+ of mix. Pipeline (clean-label, protein) drives volume re-acceleration.\n                New CEO delivers on margin targets ahead of schedule. Stock recovers to €90-100.\n                Upside: €90-100.",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "Base (55%)\n                Steady progress on margin expansion. Consumer\n                Foods drag diminishes. Low single-digit revenue growth. Dividend maintained and\n                possibly grown. Stock drifts to €75-85. Upside: €75-85.",
+        "probability": 55
+      },
+      "bear": {
+        "scenario": "Bear (20%)\n                Margin expansion stalls. Consumer Foods\n                divestitures create one-time hits. Input cost inflation returns. Emerging market\n                expansion disappoints. Stock falls to €50-60, in line with historical trough\n                multiples. Downside: €50-60.",
+        "probability": 20
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Consumer Foods drag (MEDIUM): The consumer foods division\n                is a lower-margin, slower-growth business. Divesting it creates one-time\n                disruption costs and leaves Kerry more concentrated in ingredients — which\n                is not without its own challenges."
+        },
+        {
+          "rank": 2,
+          "risk": "Customer concentration (MEDIUM): As a B2B supplier,\n                Kerry's top customers are enormous food multinationals with significant\n                bargaining power. Losing a major account or a key product launch would\n                have an outsized impact."
+        },
+        {
+          "rank": 3,
+          "risk": "Input cost volatility (MEDIUM): Commodity inputs\n                (agricultural products, chemicals) are subject to price swings.\n                Kerry can usually pass these on to customers, but with a lag —\n                and big customers will push back."
+        },
+        {
+          "rank": 4,
+          "risk": "Clean-label commoditisation (MEDIUM): The natural/\n                clean-label trend is real, but as it becomes mainstream, more competitors\n                can participate. Kerry needs to stay ahead through innovation and\n                application expertise, not just \"natural ingredients.\""
+        },
+        {
+          "rank": 5,
+          "risk": "Emerging market execution (LOW–MEDIUM): Kerry's growth\n                strategy relies heavily on expanding in Asia, Africa, and Latin America.\n                These markets bring currency risk, regulatory complexity, and local\n                competitors. The payoff is not guaranteed."
+        },
+        {
+          "rank": 6,
+          "risk": "Valuation risk (LOW): At ~20-22x trailing earnings,\n                Kerry is not obviously cheap — it is simply less expensive than it was.\n                If earnings disappoint, the multiple compresses further."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD. The stock is near the bottom of its range but\n              that alone is not a buy signal. Kerry needs to demonstrate that the\n              FY2025 margin expansion is the beginning of a trend, not a one-time\n              event."
+    },
+    "entryExit": {
+      "text": "HOLD. The stock is near the bottom of its range but\n              that alone is not a buy signal. Kerry needs to demonstrate that the\n              FY2025 margin expansion is the beginning of a trend, not a one-time\n              event.\n            \n            \n              Key levels:\n            \n            \n              €64–65 or below: Watch closely — this is the 52w low\n                zone and a potential accumulation area if the fundamental story is\n                intact. A confirmed break below €64 changes the picture negatively.\n              €69–80: Hold and wait. No urgency to add, no reason\n                to sell. The stock is in a recovery attempt but needs catalyst to\n                break through €80 resistance.\n              €80–85: First meaningful resistance. A sustained break\n                above €80 would be the early signal of a re-rating. Trim or take\n                profit if the fundamental story hasn't changed at that point.\n              €90+: Overvalued relative to current growth profile —\n                would require a meaningful upward earnings revision to justify\n            \n            \n              Kerry Group is a classic \"prove it\" stock — the market wants to see\n              the margin expansion and emerging market growth materialize before\n              according it a higher multiple. The next quarterly update or\n              investor day will be worth watching. Hold for now.\n            \n          \n\n          \n            Conviction Trend\n            Latest conviction: 58/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-07\n              \n            \n            \n              Report dateConviction\n              2026-04-0758"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Q1 2026 trading: Confirm margin trajectory",
+        "Consumer Foods divestitures: Complete exits",
+        "Emerging market: Asia/Africa revenue mix",
+        "Pipeline updates: Clean-label, protein innovation",
+        "€64-65: Support / accumulate zone",
+        "€69-80: Hold",
+        "€80-85: Resistance / trim",
+        "€90+: Overvalued",
+        "Consumer Foods drag",
+        "Customer concentration",
+        "Input cost inflation",
+        "Clean-label commoditisation",
+        "Emerging market execution"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 58,
+      "band": "HOLD",
+      "date": "2026-04-07",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-07",
+        "score": 58,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

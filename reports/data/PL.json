@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "PL · US",
+    "company": "Planet Labs PBC",
+    "exchange": "US",
+    "isin": "US72703X1089",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "REDUCE — SPECULATIVE",
+    "recommendationNote": "REDUCE — SPECULATIVE",
+    "conviction": 43,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Planet Labs operates the world's largest commercial fleet of Earth observation satellites — over 200 satellites imaging the entire land surface of Earth every single day. This gives the company a unique, high-revisit data advantage that no competitor can easily replicate. At $36.55, the stock is near the top of its 52-week range after recovering from a low of $2.79, reflecting growing institutional recognition of the commercial potential of daily satellite imagery at scale. However, the company "
+    },
+    "businessModel": {
+      "text": "Planet Labs generates revenue from three streams: Data and Platform (satellite imagery and analytics sold to customers), Subscription/PRO (higher-frequency tasking and analysis products), and Cloud &amp; Partnerships (embedding Planet data into third-party platforms like AWS, Google Cloud, and Esri). The company's crown jewel is its daily revisit rate — competitors like Maxar and Airbus cannot match the frequency at scale, making Planet's data uniquely suited for change detection, agricultural monitoring, and financial intelligence.\n        The company is still loss-making on a net income basis, though it is approaching operating cash flow breakeven. The key metric to watch is remaining performance obligations (RPO) — a measure of contracted future revenue that gives visibility into the pipeline. Management has been guiding toward sustained non-GAAP profitability in the near term."
+    },
+    "financialSnapshot": {
+      "text": "<p><strong>Live price:</strong> $36.55 — up 3.9% today, near 52-week high<br><strong>52-week range:</strong> $2.79 – $37.05 (currently ~99th percentile)<br><strong>Market cap:</strong> $12.7bn<br><strong>P/E:</strong> N/A (not yet profitable)<br><strong>EPS:</strong> -$0.79 TTM<br><strong>Beta:</strong> 1.87 (elevated volatility)</p>\n        <p>The stock has been on a dramatic recovery — up over 1,200% from its $2.79 low — reflecting a re-rating as the market recognises the AI-driven demand for geospatial data. At 99th percentile of the 52-week range, the risk/reward for new entries is poor.</p>\n      </div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "AI-driven geospatial analytics demand: The explosion of AI/ML applications has put Planet's data pipeline in focus. Automated crop yield prediction, infrastructure monitoring, and supply chain intelligence all require the kind of frequent, large-area imagery Planet provides.\n          US government contracts: Planet has significant exposure to USGS, NASA, and DoD imagery contracts. Any expansion of defence or intelligence community usage of commercial satellite imagery is a direct catalyst.\n          Path to profitability: Management has committed to adjusted EBITDA breakeven and is guiding toward sustained profitability. Any delay would be a significant negative.\n          Competition from Axiom and others: Maxar (now private) and a cohort of new entrants are building next-generation imaging constellations. Planet's revisit advantage is durable but not permanent.",
+      "items": [
+        "AI-driven geospatial analytics demand: The explosion of AI/ML applications has put Planet's data pipeline in focus. Automated crop yield prediction, infrastructure monitoring, and supply chain intelligence all require the kind of frequent, large-area imagery Planet provides.",
+        "US government contracts: Planet has significant exposure to USGS, NASA, and DoD imagery contracts. Any expansion of defence or intelligence community usage of commercial satellite imagery is a direct catalyst.",
+        "Path to profitability: Management has committed to adjusted EBITDA breakeven and is guiding toward sustained profitability. Any delay would be a significant negative.",
+        "Competition from Axiom and others: Maxar (now private) and a cohort of new entrants are building next-generation imaging constellations. Planet's revisit advantage is durable but not permanent."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "ScenarioProbabilityPrice TargetKey Drivers\n          Bull25%$50+Government contracts accelerate; AI analytics revenue scales faster than expected; operating leverage drives margin inflection; profitability confirmed\n          Base50%$32–45Steady revenue growth of 15–20%; path to profitability demonstrated but slow; government contracts steady; stock consolidates\n          Bear25%$18–28Profitability delayed again; competitive pressure intensifies; government budget cuts hit contracts; equity raise dilutes shareholders\n        \n        Weighted price target: 25% × 50 + 50% × 38 + 25% × 23 = $37. Essentially at the weighted fair value. Near 52w highs makes this a poor entry. Conviction: 43/100. REDUCE.",
+      "bull": {
+        "scenario": "bull-row\">Bull25%$50+Government contracts accelerate; AI analytics revenue scales faster than expected; operating leverage drives margin inflection; profitability confirmed\n          <tr class=\"",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "base-row\">Base50%$32–45Steady revenue growth of 15–20%; path to profitability demonstrated but slow; government contracts steady; stock consolidates\n          <tr class=\"",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "bear-row\">Bear25%$18–28Profitability delayed again; competitive pressure intensifies; government budget cuts hit contracts; equity raise dilutes shareholders\n        \n        Weighted price target: 25% × 50 + 50% × 38 + 25% × 23 = $37. Essentially at the weighted fair value. Near 52w highs makes this a poor entry. Conviction: 43/100. REDUCE.",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1Valuation not yet justified by fundamentals: At $12.7bn market cap for a company still losing money, the market is pricing in very optimistic future profitability. Any wobble in the path to EBITDA breakeven will cause a sharp correction."
+        },
+        {
+          "rank": 2,
+          "risk": "2Government budget sensitivity: A significant portion of Planet's revenue comes from US government contracts. Any shift in defence or civilian space priorities could directly impact the top line."
+        },
+        {
+          "rank": 3,
+          "risk": "3Technical mean reversion: The stock has gone from $2.79 to $36.55 in roughly a year. This is a classic speculative re-rating that can reverse sharply when sentiment shifts or growth slows."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "REDUCE — SPECULATIVE at $36.55. Fascinating business, genuine moat in revisit frequency, meaningful AI tailwind. But near 52-week highs after a 13× run from the lows is not the time to commit capital. Wait for a pullback to $25-28 or evidence of sustained profitability before increasing exposure."
+    },
+    "entryExit": {
+      "text": "Below $25 — accumulation zone. $25–$38 — hold only for existing positions.Above $42 — take profits.Key triggers: profitability confirmation, major government contract wins,.AI analytics revenue milestones.\n      \n\n          \n            Conviction Trend\n            Latest conviction: 43/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                1007550250\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0843"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 43,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 43,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

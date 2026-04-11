@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "ticker": "BRK.B",
+    "company": "Berkshire Hathaway Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 83,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Berkshire Hathaway is a conglomerate holding company with dominant insurance operations and a disciplined capital allocation philosophy; its intrinsic value growing at above-market rates and significant liquidity make it a compelling long-term hold at $479.90."
+    },
+    "businessModel": {
+      "text": "Berkshire operates a diversified conglomerate with two core segments. Key revenue streams:\n          \n            Insurance underwriting: GEICO, reinsurance (General Re, BRK B reinsurance), and other specialty insurers. Float-funded investments generate investment income.\n            Insurance investment income: Float from insurance operations is invested in equities, bonds, and cash — a significant and growing earnings driver.\n            Railroad (BNSF): One of North America's largest freight railroads, generating stable, capital-intensive cash flows.\n            Utilities (Berkshire Hathaway Energy): Regulated and unregulated energy businesses providing reliable long-term earnings.\n            Manufacturing, Services &amp; Retail: Wide-ranging operations from Precision Castparts to Dairy Queen — diverse, often cyclical.\n            Apple and equity portfolio: Significant minority stakes in publicly traded companies, particularly Apple (~$150bn+ position).\n          \n          The genius of the model is the insurance float — capital collected before claims are paid — deployed at Berkshire's discretion into higher-returning assets."
+    },
+    "financialSnapshot": {
+      "text": "</section>\n\n        <!-- 4. Recent Catalysts -->\n        <section class=\"report-section\">",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (30% weight)\n              Major acquisition or strategic share buyback funded by the $325bn+ cash pile; Apple position continues to appreciate; insurance float compounds at historic rates.\n              Target: $560–610\n            \n            \n              Base Case (50% weight)\n              Steady intrinsic value growth of 8–10% annually driven by insurance earnings and portfolio; stock trades in line with book value growth; modest premium to book persists.\n              Target: $480–520\n            \n            \n              Bear Case (20% weight)\n              Prolonged equity drawdown hits investment portfolio; major catastrophe loss in reinsurance; recession compresses railroad and manufacturing earnings; book value per share falls.\n              Target: $355\n            \n          \n          \n            Weighted Conviction Score:\n            83 / 100 — BUY",
+      "bull": {
+        "scenario": "Bull Case (30% weight)\n              Major acquisition or strategic share buyback funded by the $325bn+ cash pile; Apple position continues to appreciate; insurance float compounds at historic rates.\n              Target: $560–610\n            \n            <div class=\"scenario-card scenario-",
+        "probability": 30
+      },
+      "base": {
+        "scenario": "Base Case (50% weight)\n              Steady intrinsic value growth of 8–10% annually driven by insurance earnings and portfolio; stock trades in line with book value growth; modest premium to book persists.\n              Target: $480–520\n            \n            <div class=\"scenario-card scenario-",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Case (20% weight)\n              Prolonged equity drawdown hits investment portfolio; major catastrophe loss in reinsurance; recession compresses railroad and manufacturing earnings; book value per share falls.",
+        "probability": 20
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Equity market drawdown: ~$400bn+ of the investment portfolio is in publicly traded equities; a 30% market correction would reduce reported book value significantly."
+        },
+        {
+          "rank": 2,
+          "risk": "Succession risk: Post-Buffett, the investment and capital allocation decisions — arguably the most critical ingredient in Berkshire's value — face an execution gap."
+        },
+        {
+          "rank": 3,
+          "risk": "Catastrophe risk: As a major reinsurer, large natural catastrophes or man-made losses can create large, sudden underwriting losses."
+        },
+        {
+          "rank": 4,
+          "risk": "Concentration risk: Apple alone represents ~40% of the equity portfolio; a drawdown in Apple disproportionately affects reported results."
+        },
+        {
+          "rank": 5,
+          "risk": "Overpayment risk: Berkshire's size makes it difficult to deploy capital at attractive rates; acquirers of last resort risk overpaying in competitive processes."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "BUY\n            Trading below 52-week high with a P/E of 11.8x and price/book of 1.23x, Berkshire offers exceptional quality at reasonable valuation; the cash pile and insurance float provide a structural advantage unavailable to most investors.\n          \n          \n            Entry / Exit Framework\n            \n              Conviction Score83 / 100 — BUY\n              EntryBelow $470 — attractive relative to intrinsic value\n              AddBelow $400 — high conviction deep value zone\n              Reduce / ExitAbove $580 — full valuation; shift to less expensive quality\n              Time Horizon36–60 months minimum"
+    },
+    "entryExit": {
+      "text": "Conviction Score: 83 / 100 — BUY\nEntry: Below $470 — attractive relative to intrinsic value\nAdd: Below $400 — high conviction deep value zone\nReduce / Exit: Above $580 — full valuation; shift to less expensive quality\nTime Horizon: 36–60 months minimum"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 83,
+      "band": "BUY",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 83,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

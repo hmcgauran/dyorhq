@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "ticker": "GE",
+    "company": "GE \u2014 General Electric Company",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "General Electric is an industrial conglomerate focused on three core businesses following years of portfolio simplification:\n  \n    GE Aerospace: The crown jewel. Aircraft engines (LEAP, GE9X) and aviation systems for commercial and military aircraft. The LEAP engine (co-produced with Safran) powers the Airbus A320neo family and is in high-demand given the aircraft backlog. GE9X powers the Boeing 777X. This segment generates the highest margins and most durable growth in the portfolio.\n    GE Vernova: Energy infrastructure including gas turbines, steam turbines, power conversion, and grid solutions. The business is a beneficiary of AI data-centre power demand and grid modernisation spending globally. GE Vernova is a separate publicly traded entity following its 2024 spinoff.\n    GE HealthCare: Medical imaging equipment (MRI, CT, X-ray), ultrasound, and digital infrastructure for healthcare. Spun off in January 2023 as a separately traded company. GE retains a meaningful stake.\n  \n  The investment case centres on the GE Aerospace franchise \u2014 one of the few truly dominant industrial franchises globally, with a large installed base generating recurring aftermarket revenue from spare parts, maintenance, and upgrades."
+    },
+    "financialSnapshot": {
+      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$308.35</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$322.2bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">37.7\u00d7</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$8.18</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$348.48</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$175.05</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">\u221211.5%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">3.7m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case\n      75 / 100\n      Global air travel demand grows at 5\u20136 per cent annually, driving sustained LEAP and GE9X engine demand. The aftermarket revenue cycle matures into a multi-decade high-margin stream. GE Aerospace achieves 30\u201335 per cent operating margins. The shares re-rate to 40\u201345\u00d7 earnings as the market fully prices in the secular aviation growth story. Total returns of 15\u201320 per cent annually from here.\n      Weight: 30%\n    \n    \n      Base Case\n      55 / 100\n      Aviation demand grows at 4\u20135 per cent annually, a strong but not exceptional environment. LEAP production stabilises at current rates; aftermarket growth is steady. GE Aerospace margins expand to 28\u201330 per cent. Boeing recovery improves engine ordering. The shares trade at 33\u201340\u00d7 earnings, delivering high-single-digit to low-double-digit annual returns.\n      Weight: 50%\n    \n    \n      Bear Case\n      30 / 100\n      Global economic slowdown reduces air travel demand, causing airlines to defer fleet expansion. Boeing's recovery stalls and 777X delays worsen. New engine development ( hydrogen, SAF-compatible) requires significant R&amp;D spend. GE Aerospace margins compress and the multiple de-rates to 25\u00d7 as the market prices in a more cyclical profile for the aviation franchise.\n      Weight: 20%",
+      "bull": {
+        "scenario": "Bull Case\n      75 / 100\n      Global air travel demand grows at 5\u20136 per cent annually, driving sustained LEAP and GE9X engine demand. The aftermarket revenue cycle matures into a multi-decade high-margin stream. GE Aerospace achieves 30\u201335 per cent operating margins. The shares re-rate to 40\u201345\u00d7 earnings as the market fully prices in the secular aviation growth story. Total returns of 15\u201320 per cent annually from here.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
+        "probability": 30
+      },
+      "base": {
+        "scenario": "Base Case\n      55 / 100\n      Aviation demand grows at 4\u20135 per cent annually, a strong but not exceptional environment. LEAP production stabilises at current rates; aftermarket growth is steady. GE Aerospace margins expand to 28\u201330 per cent. Boeing recovery improves engine ordering. The shares trade at 33\u201340\u00d7 earnings, delivering high-single-digit to low-double-digit annual returns.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Case\n      30 / 100",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "Conviction Score: 56/100 \u2014 REDUCE\n  At 37.7\u00d7 earnings and 11.5 per cent below the 52-week high, the shares are not cheap and do not offer sufficient margin of safety for a high-conviction Buy. The aviation franchise is genuinely exceptional, but the valuation reflects this. Existing holders can maintain positions; new buyers should wait for a more attractive entry point below $260.\n  \n    Buy Below$260\n    HOLD Zone$260\u2013$320\n    Reduce Above$320\n    Stop / Sell$240"
+    },
+    "entryExit": {
+      "text": "GE \u2014 General Electric Company (GE) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $314.52 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $339.19 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $355.45 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $190.1 \u2014 partial mean reversion toward the middle of the 52-week range."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

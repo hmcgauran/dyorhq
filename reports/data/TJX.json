@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "ticker": "TJX",
+    "company": "TJX Companies Inc (TJX)",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "TJX is a high-quality off-price retail business with durable competitive advantages in buyer sourcing and inventory management, trading near the top of its historical valuation range and facing a moderately uncertain consumer backdrop, leaving it fairly valued at current levels and warranting a HOLD."
+    },
+    "businessModel": {
+      "text": "TJX is the world's largest off-price retailer, operating over 4,700 stores across four primary brands. Its competitive model is built on buying excess inventory from brand-name manufacturers at a significant discount and passing those savings on to consumers. Key business drivers:\n    \n      Marmaxx (T.J. Maxx, Marshalls, HomeGoods)~65% of revenue; US off-price apparel and home goods\n      HomeSense / Homesense Canada~10% of revenue; broader home formats\n      TJX Europe (TK Maxx, Homesense UK)~18% of revenue; international expansion\n      TJX Canada (Winners, HomeSense, Marshalls)~7% of revenue\n    \n    TJX's buyer organisation is its core asset: hundreds of expert buyers who source brand-name goods at 20-60% below department store prices. The \"treasure hunt\" in-store experience drives customer visit frequency. TJX does not own manufacturing -- all inventory is purchased from third-party brands seeking to clear excess stock."
+    },
+    "financialSnapshot": {
+      "text": "</div>\n\n<!-- 4. RECENT CATALYSTS -->\n<div class=\"section\">",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$161.60"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$178.9bn"
+        },
+        {
+          "label": "P/E Ratio",
+          "value": "33.18x"
+        },
+        {
+          "label": "Earnings Per Share (TTM)",
+          "value": "$4.87"
+        },
+        {
+          "label": "Price / Book",
+          "value": "~15x (elevated)"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$165.82"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$119.84"
+        },
+        {
+          "label": "Distance from 52w High",
+          "value": "-2.5%"
+        },
+        {
+          "label": "Average Volume",
+          "value": "3.56m"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "ScenarioScoreProbabilityCommentary\n    \n      Bull7830%Off-price share gains accelerate; comps grow 4-5% annually; European and Canadian expansion drives unit growth; TJX reaches $8+ EPS; re-rates to 36-38x, reaching $260+.\n    \n    \n      Base7050%Moderate consumer spending slowdown offset by value migration; comps grow 2-3%; EPS reaches $5.50-6.00; shares drift higher with earnings, reaching $175-185 in 12 months.\n    \n    \n      Bear5520%Recession triggers sharp consumer spending reduction; excess inventory available for TJX to buy shrinks; margin compression from tariff costs; EPS falls to $3.50-4.00; shares test $115-125.\n    \n  \n  \n    Conviction Score: 78x0.30 + 70x0.50 + 55x0.20 = 69.4\n    Conviction falls at the top of the HOLD range. High quality is offset by elevated valuation and consumer cycle risk.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "Rating: HOLD\n    TJX is one of the highest-quality retail businesses in the world, with a sourcing moat, proven management team, and strong brand franchise. However, shares trade within 2.5% of their 52-week high at 33x earnings, which leaves little room for error. A meaningful decline to $140-145 would create a more attractive risk/reward for new orpositive momentum positions.\n    \n      FrameworkDetail\n      Entry point$161.60 (current); prefer to wait for a pullback to $140-145 for improved entry\n      Target price (12 months)$178-$188 based on 32-33x base case EPS of $5.50-$5.75\n      Stop-loss$117 (below the 52-week low; would signal material consumer deterioration)\n      Position sizingHigh-quality consumer discretionary holding; 1-1.5% portfolio weight appropriate\n      Key trigger to upgradeComp store sales acceleration above 4%, confirmation that inventory supply remains robust, or meaningful tariff resolution reducing cost uncertainty"
+    },
+    "entryExit": {
+      "text": "TJX Companies Inc (TJX) (TJX) \u2014 Entry / Exit Framework\n\nHOLD zone: $148.67\u2013$164.83 \u2014 current levels are fairly valued. No compelling reason to add or trim here.\nAdd / Initiate below $148.67 \u2014 material pullback that improves risk/reward.\nTrim / Take Profits above $164.83 \u2014 approaching the 52-week high at $165.82. Risk/reward no longer favourable for new capital.\nStop-loss consideration: A sustained close below $117.44 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

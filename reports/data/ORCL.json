@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "",
+    "company": "ORCL",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 58,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Cloud Services & Licensing (Oracle Cloud infrastructure and database, ~45%), licence support and updates (annuity, ~30%), and Hardware/Services (integrated systems, consulting, ~25%)."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Oracle Cloud Infrastructure (OCI) for AI: 3 new hyperscaler interconnect regions Q1 2025\n    Cerner integration (acquired 2022): $800M synergy run-rate achieved, 15% cross-sell rate\n    Oracle Database 23ai launched 2024 \u2014 vector-native capability for enterprise AI\n    Microsoft Azure Oracle Interconnect: multi-cloud adoption expanding enterprise customer base",
+      "items": [
+        "Oracle Cloud Infrastructure (OCI) for AI: 3 new hyperscaler interconnect regions Q1 2025",
+        "Cerner integration (acquired 2022): $800M synergy run-rate achieved, 15% cross-sell rate",
+        "Oracle Database 23ai launched 2024 \u2014 vector-native capability for enterprise AI",
+        "Microsoft Azure Oracle Interconnect: multi-cloud adoption expanding enterprise customer base"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "70\n      Bull\n    \n    \n      58\n      Base\n    \n    \n      42\n      Bear\n    \n    \n      58\n      Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. Revenue growth 8% (FY24) lags hyperscalers AWS/Azure/GCP \u2014 competitive positioning risk"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Autonomous Database and OCI still <20% of total revenue \u2014 transition incomplete"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Cerner integration complexity: government health data migration projects running over budget"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Acquisition of Sun Microsystems (2010) and Cerner debt still on balance sheet; leverage elevated"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Oracle's governance structure: Larry Ellison's control through dual-class shares creates agency risk"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Oracle (ORCL) \u2014 Entry / Exit Framework\n\nHOLD zone: $127.04\u2013$140.85 \u2014 current levels are fairly valued.\nTrim / Take Profits above $140.85 \u2014 approaching the 52-week high at $345.72.\nStop-loss: A sustained close below $118.82 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 58,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 58,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "ticker": "CMCSA",
+    "company": "CMCSA \u2014 Comcast Corp",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Comcast operates two distinct but interconnected businesses under one corporate umbrella:\n  \n    Cable Communications: The core cable business provides residential broadband internet, video, and voice services across the US. This segment generates highly predictable subscription recurring revenue. Broadband is the primary growth engine as cable TV cord-cutting continues.\n    Media &amp; Studios (NBCUniversal): Film production and distribution (Universal Pictures), theme parks (Universal Studios in Orlando, Hollywood, Japan, Beijing, and Abu Dhabi), broadcast television (NBC), and streaming (Peacock).\n    Peacock Streaming: NBCUniversal's direct-to-consumer streaming service offering premium content including live sports (NFL, Premier League, Olympics), news, and entertainment originals.\n  \n  The cable business remains highly cash-generative, subsidising the losses at Peacock and funding theme park expansion. The strategic question is how long the cable cash cow can sustain the streaming investment."
+    },
+    "financialSnapshot": {
+      "text": "<div class=\"snapshot-grid\">\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Price</div><div class=\"snapshot-value highlight\">$27.93</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Market Cap</div><div class=\"snapshot-value\">$100.5bn</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">P/E Ratio</div><div class=\"snapshot-value\">5.2\u00d7</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">EPS (TTM)</div><div class=\"snapshot-value\">$5.39</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w High</div><div class=\"snapshot-value\">$34.34</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">52w Low</div><div class=\"snapshot-value\">$24.12</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Distance from 52wH</div><div class=\"snapshot-value\">\u221218.7%</div></div>\n    <div class=\"snapshot-item\"><div class=\"snapshot-label\">Avg Volume</div><div class=\"snapshot-value\">18.1m</div></div>\n  </div>\n</div>\n\n<div class=\"section\">",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case\n      78 / 100\n      Peacock achieves profitability ahead of schedule as sports rights drive subscriber scale and ARPU improves. The cable broadband business proves more durable than feared, stabilising cable revenues. Theme parks continue generating strong free cash flow, funding buybacks that are earnings-accretive at a 5\u00d7 P/E. Shares re-rate sharply to 12\u201315\u00d7 earnings.\n      Weight: 30%\n    \n    \n      Base Case\n      60 / 100\n      Cable TV cord-cutting continues at a moderate pace; broadband holds relatively steady. Peacock remains loss-making but does not spiral. Theme parks deliver solid but not exceptional results. The dividend is maintained and buybacks continue at current pace. Shares drift towards $30\u201333 on earnings stability.\n      Weight: 50%\n    \n    \n      Bear Case\n      40 / 100\n      Broadband loses significant net adds as 5G home internet captures market share rapidly. Peacock losses accelerate as sports rights costs escalate without proportionate subscriber growth. Cable capital expenditure requirements rise as DOCSIS 4.0 upgrades become mandatory. Free cash flow collapses, threatening the dividend.\n      Weight: 20%",
+      "bull": {
+        "scenario": "Bull Case\n      78 / 100\n      Peacock achieves profitability ahead of schedule as sports rights drive subscriber scale and ARPU improves. The cable broadband business proves more durable than feared, stabilising cable revenues. Theme parks continue generating strong free cash flow, funding buybacks that are earnings-accretive at a 5\u00d7 P/E. Shares re-rate sharply to 12\u201315\u00d7 earnings.\n      Weight: 30%\n    \n    <div class=\"scenario-card scenario-",
+        "probability": 30
+      },
+      "base": {
+        "scenario": "Base Case\n      60 / 100\n      Cable TV cord-cutting continues at a moderate pace; broadband holds relatively steady. Peacock remains loss-making but does not spiral. Theme parks deliver solid but not exceptional results. The dividend is maintained and buybacks continue at current pace. Shares drift towards $30\u201333 on earnings stability.\n      Weight: 50%\n    \n    <div class=\"scenario-card scenario-",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Case\n      40 / 100",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "Conviction Score: 63/100 \u2014 HOLD\n  At 5.2\u00d7 earnings and ~18.7 per cent below the 52-week high, the stock is pricing in a very negative structural narrative. The cable broadband business is more durable than the market implies, and the dividend yield of approximately 3.5 per cent provides a floor. However, streaming losses and competitive dynamics make this a Lower-Risk Hold rather than a Buy.\n  \n    Buy Below$24\n    HOLD Zone$24\u2013$34\n    Reduce Above$34\n    Stop / Sell$22"
+    },
+    "entryExit": {
+      "text": "CMCSA \u2014 Comcast Corp (CMCSA) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $28.49 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $30.72 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $35.05 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $26.06 \u2014 partial mean reversion toward the middle of the 52-week range."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

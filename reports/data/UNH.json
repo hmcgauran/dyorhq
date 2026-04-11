@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ticker": "UNH",
+    "company": "UnitedHealth Group Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 64,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 304.33,
+    "marketCap": 276200000000.0,
+    "marketCapFormatted": "$276.20B",
+    "trailingPE": 23.0,
+    "trailingEps": 13.23,
+    "fiftyTwoWeekHigh": 606.36,
+    "fiftyTwoWeekLow": 234.6,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "UnitedHealth is the dominant US managed care organisation with Optum's integrated care platform adding a distinctive strategic dimension, but political and regulatory risk around healthcare reform has increased and the P/E of 23.0x warrants a more selective stance — HOLD."
+    },
+    "businessModel": {
+      "text": "UnitedHealth operates two complementary businesses. UnitedHealthcare (UHC) provides managed care health insurance across Medicare Advantage, Medicaid, commercial employer plans and individual exchanges. It serves approximately 50 million Americans. Optum is a health services platform comprising Optum Health (care delivery, value-based care for 100 million people), Optum Insight (healthcare data analytics, PBM services, revenue cycle management) and Optum Rx (pharmacy benefit management, serving 65 million people). The integration of Optum's care delivery with UHC's insurance membership creates a vertically integrated, data-rich healthcare model."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$304.33"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$276.2 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "23x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$13.23"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$606.36"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$234.6"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "UnitedHealth has navigated the Medicaid redetermination (post-COVID eligibility unwind) better than feared, with membership losses at the lower end of guidance. The Star ratings for Medicare Advantage plans have been maintained, protecting quality bonus revenues. Optum Health's value-based care model has continued to add patients and demonstrated strong medical cost management. The Change Healthcare cybersecurity incident in early 2024 had operational impact on Optum Insight but the company has recovered and rebuilt affected systems."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (76): Medicare Advantage enrolment grows to 35 million+ as baby boomers age into the programme. Optum Health's care delivery margin expands as value-based care contracts mature. Optum Rx becomes a more meaningful PBM competitor. AI-driven clinical decision support tools drive medical cost savings. EPS reaches $17.00+. Price: $400+.\n            Base Case (64): Medicare Advantage growth continues at a mid-single digit rate. Medicaid membership stabilises. Optum Health grows revenue and manages medical costs effectively. Optum Rx maintains its PBM position. EPS grows to $14.00–$15.50. Price: $310–$355.\n            Bear Case (45): Medicare Advantage funding cuts (CMS risk score adjustments) reduce plan profitability. Medical cost trend accelerates unexpectedly (post-pandemic utilisation normalisation reversal). Change Healthcare rebuilding costs persist. Political pressure on PBMs and insurers intensifies. EPS falls to $11.50–$12.50. Price: below $250.\n            Weighted Score: 64 — Bull 76 × 30% + Base 64 × 50% + Bear 45 × 20%",
+      "bull": {
+        "scenario": "Bull Case (76): Medicare Advantage enrolment grows to 35 million+ as baby boomers age into the programme. Optum Health's care delivery margin expands as value-",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Base Case (64): Medicare Advantage growth continues at a mid-single digit rate. Medicaid membership stabilises. Optum Health grows revenue and manages medical costs effectively. Optum Rx maintains its PBM position. EPS grows to $14.00–$15.50. Price: $310–$355.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Bear Case (45): Medicare Advantage funding cuts (CMS risk score adjustments) reduce plan profitability. Medical cost trend accelerates unexpectedly (post-pandemic utilisation normalisation reversal). Change Healthcare rebuilding costs persist. Political pressure on PBMs and insurers intensifies. EPS falls to $11.50–$12.50. Price: below $250.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Medicare Advantage political and regulatory risk: CMS has been tightening Medicare Advantage risk score calculations and Star rating criteria. Funding cuts, if implemented, could materially reduce UHC's Medicare Advantage profitability."
+        },
+        {
+          "rank": 2,
+          "risk": "Medical cost trend: UHC's earnings are fundamentally a function of medical loss ratio — the spread between premiums received and claims paid. A sustained acceleration in medical cost trend (driven by GLP-1 drugs, specialty pharmacy, or post-pandemic utilisation normalisation) would compress margins."
+        },
+        {
+          "rank": 3,
+          "risk": "PBM and antitrust scrutiny: UnitedHealth's vertical integration of insurer (UHC), PBM (Optum Rx) and care delivery (Optum Health) has attracted antitrust scrutiny. Regulatory action could force structural separation."
+        },
+        {
+          "rank": 4,
+          "risk": "Political risk: Universal healthcare proposals and drug pricing negotiation powers remain active political issues. While full implementation is unlikely in the near term, the mere existence of these proposals creates a political risk premium."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD. UnitedHealth is an exceptional business with genuine integrated care competitive advantages. The regulatory and political risk environment has, however, shifted, and the 23.0x P/E does not fully discount this elevated uncertainty.\n            Entry framework: BUY below $260 (approximately 19–20x base-case EPS — prices in the regulatory risk and provides a genuine margin of safety). Reduce above $380 (28x+ P/E on a company facing material political and regulatory uncertainty)."
+    },
+    "entryExit": {
+      "text": "BUY below $260 (approximately 19–20x base-case EPS — prices in the regulatory risk and provides a genuine margin of safety). Reduce above $380 (28x+ P/E on a company facing material political and regulatory uncertainty)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

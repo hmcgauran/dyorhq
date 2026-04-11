@@ -1,5 +1,23 @@
 [
   {
+    "ticker": "A5G",
+    "company": "Air France-KLM",
+    "file": "A5G-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Air France-KLM (A5G) trades at $8.85 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendatio",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.258Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
     "ticker": "AAPL",
     "company": "Apple Inc",
     "file": "aapl-2026-04-10.html",
@@ -8,15 +26,13 @@
     "summary": "Apple's ecosystem durability and Services growth are well-established, but the shares are trading near their 52-week high at a P/E of 33x, leaving limited upside at current levels —",
     "date": "2026-04-10",
     "datePublished": "2026-04-10",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
     "priceStored": 260.48,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "watchlist",
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -28,14 +44,13 @@
     "summary": "AbbVie's replacement cycle for Humira through Skyrizi and Rinvoq is the central thesis, but the shares trade at a stretched 88x P/E that prices in near-perfect execution — the risk-reward at current l",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.258Z",
     "priceStored": 207.94,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -47,14 +62,13 @@
     "summary": "Abbott's diversified healthcare franchise — spanning diagnostics, medical devices, nutrition and established pharmaceuticals — is well-positioned to deliver mid-to-high single-digit EPS growth, but th",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.258Z",
     "priceStored": 100.3,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -66,8 +80,8 @@
     "summary": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger ",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 0.73,
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
+    "priceStored": 0.804,
     "sector": null,
     "exchange": "US",
     "isin": "CA00373V1004",
@@ -84,13 +98,13 @@
     "summary": "Albertsons is a mature, highly leveraged grocery retailer that failed to close its proposed merger with Kroger, leaving it as a standalone entity with structural competitive headwinds, negative free c",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.259Z",
     "priceStored": 17.28,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -102,13 +116,13 @@
     "summary": "Accenture's AI-driven transformation services provide a compelling secular tailwind, and the stock trades at a historically low P/E of 15x — but client spending caution and European macro softness cre",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.259Z",
     "priceStored": 179.53,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -120,13 +134,13 @@
     "summary": "Adobe's shift to subscription cloud Creative Cloud and the expansion into digital experience with Experience Manager and Marketo represent a structural transition, but generative AI disruption to its ",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.259Z",
     "priceStored": 225.35,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -138,13 +152,67 @@
     "summary": "ADM is a high-quality agricultural commodities and food processing franchise navigating a cyclical downdraft in grain volumes and margin compression; the shares offer limited upside at 31x P/E and the",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.259Z",
     "priceStored": 69.73,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "ADNT",
+    "company": "Adient plc",
+    "file": "ADNT-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.259Z",
+    "priceStored": 20.42,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "ADSE",
+    "company": "Adseeds International",
+    "file": "ADSE-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 38,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.259Z",
+    "priceStored": 11.8,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "AER",
+    "company": "AeroVironment",
+    "file": "AER-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "AeroVironment (AER) trades at $145.53 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendati",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.259Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -152,17 +220,17 @@
     "company": "American International Group Inc (AIG)",
     "file": "AIG-2026-04-11.html",
     "recommendation": "REDUCE",
-    "conviction": null,
+    "conviction": 56,
     "summary": "AIG is a complex, restructuring multi-line insurer that has made meaningful progress simplifying its operations and strengthening its balance sheet, but the valuation at low-14x earnings is not compel",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 76.87,
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -174,11 +242,29 @@
     "summary": "Alkemy Capital Investments is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania — ",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 333.4,
+    "lastRefreshed": "2026-04-11T20:00:12.273Z",
+    "priceStored": null,
     "sector": null,
     "exchange": "LN",
     "isin": "GB00BMD6C023",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "ALKS",
+    "company": "Alkermes plc",
+    "file": "ALKS-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Alkermes plc (ALKS) trades at $33.36 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendatio",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -192,13 +278,31 @@
     "summary": "Allstate's P/E of 5.5x appears spectacularly cheap on reported earnings, but that figure is distorted by elevated catastrophe losses and one-time items that inflate the denominator; the underlying P&C",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
     "priceStored": 210.99,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "ALLE",
+    "company": "Allegion plc",
+    "file": "ALLE-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Allegion plc (ALLE) trades at $144.81 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendati",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -210,8 +314,8 @@
     "summary": "Ardagh Metal Packaging is a cyclical packaging business rather than a high-growth equity story. The attraction is operational leverage, defensive end-market exposure through beverage cans, and the pos",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 4.12,
+    "lastRefreshed": "2026-04-11T20:00:12.273Z",
+    "priceStored": 3.91,
     "sector": null,
     "exchange": "LN",
     "isin": "JE00BFSP3X59",
@@ -228,14 +332,13 @@
     "summary": "AMD is the most credible alternative to NVIDIA in AI accelerators and has made genuine GPU architecture progress, but at a P/E of 94x the market is already pricing a successful execution of an extreme",
     "date": "2026-04-10",
     "datePublished": "2026-04-10",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.273Z",
     "priceStored": 245.04,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "watchlist",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -247,32 +350,49 @@
     "summary": "Amgen's established biopharma franchise delivers resilient free cash flow, but the obesity pipeline readout and biosimilar portfolio evolution are binary events that could fundamentally change the inv",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
     "priceStored": 351,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "AMRN",
+    "company": "Amarin Corporation plc",
+    "file": "AMRN-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 65,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
+    "priceStored": 14.48,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "AMZN",
     "company": "Amazon.com Inc",
     "file": "amzn-2026-04-10.html",
-    "recommendation": "BUY",
+    "recommendation": "HOLD",
     "conviction": 76,
     "summary": "Amazon is the world's largest e-commerce marketplace and cloud infrastructure provider, operating a network effect business with two dominant platforms — marketplace and AWS — that reinforce each othe",
     "date": "2026-04-10",
     "datePublished": "2026-04-10",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.273Z",
     "priceStored": 238.38,
     "sector": null,
     "exchange": "US",
     "isin": "US0231351067",
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -284,11 +404,29 @@
     "summary": "Arista is one of the cleanest infrastructure beneficiaries of the AI datacentre build-out. Its high-performance cloud networking kit sits directly in the path of hyperscaler capex, and its software-le",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 147.35,
+    "lastRefreshed": "2026-04-11T20:00:12.273Z",
+    "priceStored": 145.26,
     "sector": null,
     "exchange": "US",
     "isin": "US04004R1068",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "APTV",
+    "company": "Aptiv plc",
+    "file": "APTV-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Aptiv plc (APTV) trades at $59.65 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendation:",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -302,8 +440,8 @@
     "summary": "AST SpaceMobile is one of the most exciting and one of the most dangerous names in the watchlist. The concept, direct-to-device satellite broadband using standard mobile phones, is genuinely different",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 94.9,
+    "lastRefreshed": "2026-04-11T20:00:12.274Z",
+    "priceStored": 96.57,
     "sector": null,
     "exchange": "US",
     "isin": "US00217D1000",
@@ -320,7 +458,7 @@
     "summary": "Autolus is a clinical biotech name where the upside exists only if the science and regulatory path work. At $1.49 with a market cap of roughly $362M and negative EPS, the stock is still deep in specul",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.274Z",
     "priceStored": 1.49,
     "sector": null,
     "exchange": "US",
@@ -338,8 +476,8 @@
     "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform — a tumour-targeted prodrug activation technology designed to improve the therapeutic index of cancer drugs by releasin",
     "date": "2026-04-10",
     "datePublished": "2026-04-10",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 70,
+    "lastRefreshed": "2026-04-11T20:00:12.274Z",
+    "priceStored": null,
     "sector": null,
     "exchange": "LN",
     "isin": "GB00BYYW9G87",
@@ -356,13 +494,13 @@
     "summary": "Broadcom's AI networking franchise (Tomahawk ethernet switches, custom AI accelerators, ASICs for hyperscalers) is the defining investment case of the decade, but the 72x P/E demands flawless executio",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
     "priceStored": 371.55,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -374,14 +512,13 @@
     "summary": "American Express's premium consumer and corporate franchise continues to compound earnings reliably, but the shares trade near the top of their 52-week range at 20x P/E with credit normalisation risk ",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
     "priceStored": 313.5,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -393,14 +530,13 @@
     "summary": "Boeing's operational and cultural crisis — following the 737 MAX accidents, production quality failures and the 2024 door plug blowout on Alaska Airlines Flight 1282 — has materially impaired the fran",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
     "priceStored": 217.63,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -412,8 +548,8 @@
     "summary": "Alibaba is a high-quality e-commerce and cloud infrastructure company that has been systematically mispriced by Western markets due to geopolitical risk premium, regulatory overhang from the PRC's tec",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 127.33,
+    "lastRefreshed": "2026-04-11T20:00:12.275Z",
+    "priceStored": 126.1,
     "sector": null,
     "exchange": "US",
     "isin": "US01609W1053",
@@ -430,30 +566,65 @@
     "summary": "Bank of America's net interest income is in structural decline as the Fed rate cycle turns, credit costs are rising from cyclical lows, and the shares are not meaningfully cheap enough to compensate —",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
     "priceStored": 52.54,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
-    "ticker": "BIRG.L · ISE/LSE",
-    "company": "Bank of Ireland Group plc",
-    "file": "birg-2026-04-08.html",
-    "recommendation": "HOLD",
-    "conviction": 66,
-    "summary": "Bank of Ireland is the oldest bank in Ireland and the second-largest by market share in the Republic of Ireland, operating a retail banking franchise, corporate and SME lending, wealth management, and",
-    "date": "2026-04-08",
-    "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "ticker": "BIRG",
+    "company": "Bank of Ireland",
+    "file": "BIRG-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Bank of Ireland (BIRG) trades at $16.45 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommenda",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
     "priceStored": null,
     "sector": null,
-    "exchange": "LN",
-    "isin": "IE00BWFRCW15",
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "BK",
+    "company": "Bank of New York Mellon Corp",
+    "file": "BK-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 72,
+    "summary": "The Bank of New York Mellon is a structurally advantaged custodian bank with fee-based revenues that should benefit from rising interest rates and growing assets under custody, but faces margin pressu",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
+    "priceStored": 127.56,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "BKNG",
+    "company": "Booking Holdings Inc",
+    "file": "BKNG-2026-04-11.html",
+    "recommendation": "BUY",
+    "conviction": 81,
+    "summary": "Booking Holdings is the world's largest online travel agent by revenue, benefiting from structural travel demand recovery and its dominant platform economics; BUY on valuation pullback given strong lo",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.260Z",
+    "priceStored": 173.46,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -467,14 +638,13 @@
     "summary": "BlackRock's unassailable position as the world's largest asset manager — with structural tailwinds from ETF secularisation and growing Aladdin platform revenues — is reflected in a 29x P/E, leaving li",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
     "priceStored": 999.31,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -486,45 +656,44 @@
     "summary": "BMS faces a significant patent cliff on its largest drug (Eliquis faces generic competition from 2026 onwards under the US IRA) and a sparse pipeline that has failed to replace lost revenues — the sha",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
     "priceStored": 58.62,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "BRK.B",
-    "company": null,
+    "company": "Berkshire Hathaway Inc",
     "file": "BRK.B-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": null,
+    "recommendation": "BUY",
+    "conviction": 83,
+    "summary": "Berkshire Hathaway is a conglomerate holding company with dominant insurance operations and a disciplined capital allocation philosophy; its intrinsic value growing at above-market rates and significa",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
     "priceStored": 479.9,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
     "ticker": "BWXT",
     "company": "BWX Technologies, Inc.",
     "file": "bwxt-2026-04-08.html",
-    "recommendation": "BUY",
+    "recommendation": "HOLD",
     "conviction": 76,
     "summary": "BWX Technologies is the strongest quality name in this part of the market because it offers nuclear exposure through a real operating business rather than through a pure future-technology promise. The",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 229.57,
+    "lastRefreshed": "2026-04-11T20:00:12.275Z",
+    "priceStored": 214.44,
     "sector": null,
     "exchange": "US",
     "isin": "US09062M1036",
@@ -536,19 +705,36 @@
     "ticker": "C",
     "company": "C — Citigroup Inc",
     "file": "C-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Citigroup trades at a modest valuation relative to peers but carries elevated credit risk from commercial real estate exposure and ongoing structural reorganisation costs that continue to suppress ret",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 124.39,
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "C43",
+    "company": "Aegon Ltd",
+    "file": "C43-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Aegon Ltd (C43) trades at $96.20 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendation:",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -560,7 +746,7 @@
     "summary": "C4X Discovery Holdings is a UK-based early-stage biotech company focused on drug discovery using its proprietary 4D chematics platform — a physics-based computational approach to identifying novel dru",
     "date": "2026-04-09",
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.275Z",
     "priceStored": null,
     "sector": null,
     "exchange": "LN",
@@ -578,8 +764,8 @@
     "summary": "Colonial Coal International Corp is a Vancouver-listed metallurgical (steelmaking) coal company focused on the Peace River coalfield in north-east British Columbia. The company holds a 60% interest in",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": null,
+    "lastRefreshed": "2026-04-11T20:00:12.275Z",
+    "priceStored": 2.77,
     "sector": null,
     "exchange": "TO",
     "isin": "CA1956151098",
@@ -589,20 +775,20 @@
   },
   {
     "ticker": "CAH",
-    "company": null,
+    "company": "CAH",
     "file": "CAH-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 50,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 215.52,
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -614,51 +800,85 @@
     "summary": "Caterpillar's near-52-week-high price reflects optimism about US infrastructure spending and Chinese stimulus, but the 42x P/E leaves no margin of safety if construction activity decelerates —",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
     "priceStored": 790.66,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "CI",
-    "company": null,
+    "company": "CI",
     "file": "CI-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 50,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 271.25,
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "CL",
+    "company": "Colgate-Palmolive Co",
+    "file": "CL-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 68,
+    "summary": "Colgate-Palmolive is a defensive consumer staples giant with dominant market share in oral care globally, but faces structural headwinds from private label competition and category deceleration in eme",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
+    "priceStored": 84.34,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "CMCSA",
     "company": "CMCSA — Comcast Corp",
     "file": "CMCSA-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Comcast is a deeply depressed media and cable franchise trading at an extraordinarily low 5.2× earnings that more than prices in the structural cord-cutting headwind — the shares offer value at this p",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 27.93,
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "CMPR",
+    "company": "Cimpress plc",
+    "file": "CMPR-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Cimpress plc (CMPR) trades at $76.70 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendatio",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -670,13 +890,31 @@
     "summary": "Centene's turnaround is real but the shares have re-rated aggressively following FY2025 EPS normalisation, leaving the valuation squarely in \"pricing-in-recovery\" territory at 37x normalised EPS —",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
     "priceStored": 37.3,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "COF",
+    "company": "Capital One Financial Corp",
+    "file": "COF-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 78,
+    "summary": "Capital One has transformed from a credit card lender into a diversified technology-powered financial services company; pending regulatory approval for its Discover merger, it stands to become a payme",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.261Z",
+    "priceStored": 193,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -688,8 +926,8 @@
     "summary": "Coinbase is the dominant US cryptocurrency exchange by registered users and volume, operating a regulated platform for retail and institutional crypto trading, custody, and staking. At $178.90, the st",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": null,
+    "lastRefreshed": "2026-04-11T20:00:12.276Z",
+    "priceStored": 178.9,
     "sector": null,
     "exchange": "US",
     "isin": "US17709A1051",
@@ -700,56 +938,73 @@
   {
     "ticker": "COP",
     "company": "ConocoPhillips",
-    "file": "cop-2026-04-08.html",
+    "file": "COP-2026-04-11.html",
     "recommendation": "HOLD",
-    "conviction": 58,
-    "summary": "ConocoPhillips is a high-quality integrated oil and gas major, trading near the top of its 52-week range at $124.39 as geopolitical risk premium in crude oil remains elevated. The Iran nuclear standof",
-    "date": "2026-04-08",
-    "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "conviction": 65,
+    "summary": "ConocoPhillips is one of the world's largest integrated oil and gas explorers, with a low-cost production base concentrated in the Permian Basin and LNG exposure via Freeport LNG; near-term uncertaint",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.262Z",
     "priceStored": 122.55,
     "sector": null,
-    "exchange": "US",
-    "isin": "US20825C1045",
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
   },
   {
     "ticker": "COR",
-    "company": null,
+    "company": "COR",
     "file": "COR-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 50,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 320.82,
+    "lastRefreshed": "2026-04-11T20:00:12.262Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
     "ticker": "COST",
     "company": "COST — Costco Wholesale Corp",
     "file": "COST-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Costco is a best-in-class membership warehouse operator with exceptional pricing power and member loyalty, but the shares trade at a substantial premium valuation — a P/E of 52× that limits total retu",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 998.47,
+    "lastRefreshed": "2026-04-11T20:00:12.262Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "CRH",
+    "company": "CRH plc",
+    "file": "CRH-2026-04-11.html",
+    "recommendation": "BUY",
+    "conviction": 82,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.262Z",
+    "priceStored": 117.89,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -761,8 +1016,8 @@
     "summary": "Curis is a small-cap oncology biotech with the usual combination of scientific optionality and financial fragility. At $0.5535 with a market cap of about $20.8M and negative EPS of -$1.20, the equity ",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 0.5,
+    "lastRefreshed": "2026-04-11T20:00:12.276Z",
+    "priceStored": 0.5535,
     "sector": null,
     "exchange": "US",
     "isin": "US2312693094",
@@ -779,14 +1034,13 @@
     "summary": "Salesforce remains the dominant cloud CRM platform with strong recurring revenue and AI-driven upsell potential, but the shares at 21.15x P/E are not obviously cheap relative to a slowing new logo gro",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.262Z",
     "priceStored": 164.96,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -798,8 +1052,8 @@
     "summary": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 379.02,
+    "lastRefreshed": "2026-04-11T20:00:12.276Z",
+    "priceStored": 428.15,
     "sector": null,
     "exchange": "US",
     "isin": "US22788C1053",
@@ -811,38 +1065,36 @@
     "ticker": "CSCO",
     "company": "CSCO — Cisco Systems Inc",
     "file": "CSCO-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Cisco remains the dominant force in enterprise networking but faces a structural challenge as AI workloads shift traffic patterns in ways that could commoditise its core routing and switching franchis",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 82.22,
+    "lastRefreshed": "2026-04-11T20:00:12.262Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "watchlist",
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "CVS",
-    "company": null,
+    "company": "CVS Health Corp",
     "file": "CVS-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": null,
+    "recommendation": "REDUCE",
+    "conviction": 52,
+    "summary": "CVS Health is a vertically integrated healthcare company spanning retail pharmacy, pharmacy benefit management (PBM), and health insurance (Aetna); the combination of PBM margin pressure, medical bene",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.262Z",
     "priceStored": 79.33,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -854,69 +1106,103 @@
     "summary": "Chevron is a well-managed integrated energy company with a strong Permian Basin position and a disciplined capital allocation framework, but the shares are fairly valued at 28x P/E given the structura",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.262Z",
     "priceStored": 188.55,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "DAL",
     "company": "Delta Air Lines Inc (DAL)",
     "file": "DAL-2026-04-11.html",
-    "recommendation": "BUY",
-    "conviction": null,
+    "recommendation": "HOLD",
+    "conviction": 79,
     "summary": "Delta Air Lines offers an attractive combination of strong pricing power, disciplined capacity management, and an improving balance sheet, trading at a significant discount to intrinsic value on a P/E",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 67.82,
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "DCC",
+    "company": "DCC plc",
+    "file": "DCC-2026-04-11.html",
+    "recommendation": "BUY",
+    "conviction": 80,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
+    "priceStored": 5160,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "DCC.L",
+    "company": "DCC plc",
+    "file": "LON:DCC-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "DCC plc (LON:DCC) trades at GBX 5160.00 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommenda",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "DE",
-    "company": "Deere & Co (DE)",
+    "company": "Deere &amp; Company",
     "file": "DE-2026-04-11.html",
-    "recommendation": "BUY",
-    "conviction": null,
-    "summary": "Deere & Co sits at the intersection of agricultural structural demand and precision farming technology adoption, offering a compelling combination of earnings durability and long-term growth optionali",
+    "recommendation": "HOLD",
+    "conviction": 67,
+    "summary": "Deere is the world's dominant agricultural and construction equipment manufacturer, benefiting from precision farming technology adoption and infrastructure spending; the stock's valuation near 52-wee",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
     "priceStored": 605,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
     "ticker": "DELL",
     "company": "DELL — Dell Technologies Inc",
     "file": "DELL-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Dell is a restructuring tech value story with AI server momentum providing a genuine near-term catalyst, but faces persistent structural headwinds in its legacy PC business and competitive pressures i",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 177.8,
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -928,7 +1214,7 @@
     "summary": "Destiny Pharma is a UK-based clinical-stage biotech focused on anti-infective drug development. Its lead asset,",
     "date": "2026-04-09",
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.276Z",
     "priceStored": null,
     "sector": null,
     "exchange": "LN",
@@ -946,8 +1232,8 @@
     "summary": "Diageo is a quality compounder trading at decade-low valuations following a significant operational reset.\n              The February 2026 H1 results delivered a kitchen-sink moment: dividend halved, ",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 1449,
+    "lastRefreshed": "2026-04-11T20:00:12.276Z",
+    "priceStored": null,
     "sector": null,
     "exchange": "LN",
     "isin": "GB00B7F7S988",
@@ -959,38 +1245,54 @@
     "ticker": "DHR",
     "company": "DHR — Danaher Corp",
     "file": "DHR-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Danaher is a high-quality life sciences and diagnostics franchise that has underperformed the market as biotech customer spending tightened, and while the P/E of 38× is not unreasonable for the qualit",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 189.61,
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "DIS",
     "company": "DIS — Walt Disney Company",
     "file": "DIS-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Disney has successfully turned the corner on its streaming profitability mission and the theme parks continue to demonstrate exceptional pricing power, but the shares are near fair value at current le",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 99.17,
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "DOLE",
+    "company": "Dole plc",
+    "file": "DOLE-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
+    "priceStored": 15.69,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -998,35 +1300,71 @@
     "company": "Dow Inc (DOW)",
     "file": "DOW-2026-04-11.html",
     "recommendation": "REDUCE",
-    "conviction": null,
+    "conviction": 30,
     "summary": "Dow Inc is a structurally challenged diversified chemicals producer navigating a severe cyclical downturn, with the shares running ahead of fundamentals at current levels and the risk/reward skewed fi",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 39.01,
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "DUK",
+    "company": "Duke Energy Corp",
+    "file": "DUK-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 70,
+    "summary": "Duke Energy is a regulated utility operating across the Carolinas, Florida, Ohio, Indiana, and Kentucky; it offers a defensive 3.5% dividend yield supported by rate base growth from grid modernisation",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
+    "priceStored": 131.79,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "ELV",
-    "company": null,
+    "company": "ELV",
     "file": "ELV-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 50,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 311.53,
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "EMR",
+    "company": "Emerson Electric Co",
+    "file": "EMR-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 76,
+    "summary": "Emerson Electric is a global automation and instrumentation leader undergoing a strategic portfolio transformation; its push into discrete automation and hybrid process control aligns with structural ",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.263Z",
+    "priceStored": 143.77,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -1034,17 +1372,17 @@
     "company": "Enterprise Products Partners L.P. (EPD)",
     "file": "EPD-2026-04-11.html",
     "recommendation": "HOLD",
-    "conviction": null,
+    "conviction": 38,
     "summary": "Enterprise Products Partners is a high-quality midstream MLP offering a generous distribution yield underpinned by fee-based contracts and diversified pipeline infrastructure, but limited distribution",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 37.35,
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -1056,13 +1394,13 @@
     "summary": "Energy Transfer is a high-yield energy infrastructure MLP offering an attractive 7%+ distribution yield supported by fee-based cash flows and a recovering natural gas demand environment, but the unit ",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
     "priceStored": 19.19,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -1074,7 +1412,7 @@
     "summary": "Eutelsat has been absolutely destroyed — down ~51% from its 52-week high of €4.74\n              to €2.33. The stock is sitting 47% above its 52-week low of €1.59, having recovered\n              from t",
     "date": "2026-04-07",
     "datePublished": "2026-04-07",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.277Z",
     "priceStored": null,
     "sector": null,
     "exchange": "FP",
@@ -1084,40 +1422,75 @@
     ]
   },
   {
-    "ticker": "F",
-    "company": "F — Ford Motor Company",
-    "file": "F-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Ford is in the most difficult strategic transition of its 120-year history — pivoting from legacy internal combustion vehicles to electric vehicles while simultaneously absorbing massive restructuring",
+    "ticker": "ETN",
+    "company": "Eaton Vance Corporation",
+    "file": "ETN-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 68,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 12.13,
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": 403,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "EXPGF",
+    "company": "Experience Technology Group",
+    "file": "EXPGF-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 48,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": 35.04,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "F",
+    "company": "F — Ford Motor Company",
+    "file": "F-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "FDX",
-    "company": "FedEx Corp",
+    "company": "FedEx Corporation",
     "file": "FDX-2026-04-11.html",
     "recommendation": "HOLD",
-    "conviction": 65,
-    "summary": "FedEx is a high-quality express delivery and logistics franchise with a credible restructuring (DRIVE) story underway, but the shares have recovered strongly from the $200 low and now trade at a valua",
+    "conviction": 58,
+    "summary": "FedEx's DRIVE transformation is delivering tangible cost savings and margin expansion, but the stock trades near fair value with limited upside without evidence of sustained revenue growth.",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
     "priceStored": 374.08,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -1129,11 +1502,47 @@
     "summary": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating e",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 0.32,
+    "lastRefreshed": "2026-04-11T20:00:12.277Z",
+    "priceStored": 0.2115,
     "sector": null,
     "exchange": "US",
     "isin": "US3073598852",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "FLUT",
+    "company": "Flutter Entertainment",
+    "file": "FLUT-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Flutter Entertainment (FLUT) trades at $102.38 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Rec",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "FOBK",
+    "company": "Frontier Financial Holdings",
+    "file": "FOBK-2026-04-11.html",
+    "recommendation": "SELL",
+    "conviction": 28,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": 2.26,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -1147,8 +1556,8 @@
     "summary": "Fortinet is a network security company focused on the mid-market and enterprise segment, selling firewalls, secure access (SD-WAN), and endpoint security through a combination of hardware appliances a",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 76.66,
+    "lastRefreshed": "2026-04-11T20:00:12.277Z",
+    "priceStored": 82.68,
     "sector": null,
     "exchange": "US",
     "isin": "US34959E1091",
@@ -1157,22 +1566,93 @@
     ]
   },
   {
-    "ticker": "GE",
-    "company": "GE — General Electric Company",
-    "file": "GE-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "General Electric has executed a remarkable operational turnaround under CEO Larry Culp, with the aviation franchise proving exceptional, but the shares have re-rated dramatically from their 2020 lows ",
+    "ticker": "GD",
+    "company": "General Dynamics Corporation",
+    "file": "GD-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 66,
+    "summary": "General Dynamics is a high-quality defence prime with a record backlog providing multi-year revenue visibility, but the shares trade at a premium multiple that leaves little room for programme slips.",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 308.35,
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": 335.15,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "GE",
+    "company": "GE — General Electric Company",
+    "file": "GE-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "GEV",
+    "company": "GE Vernova Inc",
+    "file": "GEV-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 74,
+    "summary": "GE Vernova is in the early innings of a power infrastructure supercycle driven by data centre demand, grid modernisation and energy transition investment, but the premium 56x P/E demands near-perfect ",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": 991.32,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "GFTU",
+    "company": "Grafton Group plc",
+    "file": "GFTU-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 65,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": 918.2,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "GFTU.L",
+    "company": "Games Workshop Group",
+    "file": "LON:GFTU-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Games Workshop Group (LON:GFTU) trades at GBX 918.20 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environmen",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -1184,11 +1664,65 @@
     "summary": "Greatland Resources is a UK-listed gold explorer and mining company focused on the prolific Pilbara region of Western Australia and, critically, a flagship partnership with Newmont at the Blackhill jo",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 752.63,
+    "lastRefreshed": "2026-04-11T20:00:12.277Z",
+    "priceStored": null,
     "sector": null,
     "exchange": "LN",
     "isin": "AU0000397705",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "GHRS",
+    "company": "GXO Holdings Ireland",
+    "file": "GHRS-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 46,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": 15.72,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "GILD",
+    "company": "Gilead Sciences Inc",
+    "file": "GILD-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 61,
+    "summary": "Gilead's HIV franchise remains highly cash-generative, long-acting prevention (lenacapavir) is a genuine breakthrough, and the oncology expansion via Trodelvy is gaining traction, but the liver diseas",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": 138.99,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "GL9",
+    "company": "Superdry plc",
+    "file": "GL9-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Superdry plc (GL9) trades at $16.94 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendation",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.265Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -1202,7 +1736,7 @@
     "summary": "Glencore is one of the world's largest diversified commodity groups, operating mining and marketing\n              assets across copper, zinc, cobalt, coal, oil, and agricultural commodities. The compa",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.277Z",
     "priceStored": null,
     "sector": null,
     "exchange": "LN",
@@ -1213,20 +1747,38 @@
   },
   {
     "ticker": "GM",
-    "company": null,
+    "company": "General Motors Company",
     "file": "GM-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": null,
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "General Motors is in the midst of an electric vehicle transformation while simultaneously extracting profitability from its traditional ICE truck and SUV franchise, but the EV losses and UAW cost head",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.265Z",
     "priceStored": 76.42,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "GOOG",
+    "company": "Alphabet Inc",
+    "file": "GOOG-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 70,
+    "summary": "Alphabet's search monopoly generates extraordinary cash flows that fully fund its AI infrastructure buildout, Cloud returns to profitability, and the Gemini AI integration into Search and YouTube repr",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.265Z",
+    "priceStored": 315.72,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -1238,33 +1790,31 @@
     "summary": "Alphabet's search dominance and AI integration across the Google Cloud and advertising ecosystem represent a durable franchise, but the 29x P/E reflects substantial AI competition risk that must be ov",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.265Z",
     "priceStored": 317.26,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "GS",
     "company": "GS — Goldman Sachs Group Inc",
     "file": "GS-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Goldman Sachs is a world-class investment bank and trading franchise trading at a reasonable but not compelling P/E of 17.7×, yet faces structural headwinds in its consumer banking ambitions and near-",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 907.8,
+    "lastRefreshed": "2026-04-11T20:00:12.265Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -1276,51 +1826,49 @@
     "summary": "HCA is the largest hospital operator in the United States with a strong track record of margin expansion, high occupancy rates and meaningful free cash flow generation, but the stock trades near its 5",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.265Z",
     "priceStored": 495.47,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
     "ticker": "HD",
     "company": "HD — Home Depot Inc",
     "file": "HD-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Home Depot is a high-quality franchise with exceptional brand positioning and a strong balance sheet, but the shares are meaningfully below the 52-week high and trade at a P/E of 23.7× in an environme",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 337.34,
+    "lastRefreshed": "2026-04-11T20:00:12.265Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "HON",
     "company": "HON — Honeywell International Inc",
     "file": "HON-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Honeywell is a diversified industrial conglomerate with a strong aerospace franchise but faces a confluence of headwinds — soft automation demand, a slowing energy transition investment cycle, and bel",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 235.06,
+    "lastRefreshed": "2026-04-11T20:00:12.265Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -1332,32 +1880,49 @@
     "summary": "Humana is a high-quality Medicare Advantage franchise but faces an increasingly hostile operating environment — medical cost ratios are rising, Stars ratings are under pressure, and the shares have re",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.265Z",
     "priceStored": 192.15,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
     "ticker": "IBM",
     "company": "IBM",
     "file": "IBM-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "HOLD",
+    "conviction": 72,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 230.76,
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "ICLR",
+    "company": "Icon plc",
+    "file": "ICLR-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Icon plc (ICLR) trades at $106.81 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendation:",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -1369,15 +1934,31 @@
     "summary": "Intel faces a structural competitive disadvantage in AI accelerators, has lost server CPU market share to AMD, and its foundry transformation is capital-intensive with an uncertain payoff — the stock ",
     "date": "2026-04-10",
     "datePublished": "2026-04-10",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.277Z",
     "priceStored": 62.38,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "watchlist",
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "INTU",
+    "company": "Intuit Inc",
+    "file": "INTU-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 66,
+    "summary": "Intuit benefits from the forced annual tax season engagement of 7+ million US TurboTax users and a growing ecosystem in small business software (QuickBooks, Mailchimp), but the 43x P/E demands flawles",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": 350.94,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -1389,11 +1970,29 @@
     "summary": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.5",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 28.79,
+    "lastRefreshed": "2026-04-11T20:00:12.278Z",
+    "priceStored": 29.55,
     "sector": null,
     "exchange": "US",
     "isin": "US46222L1089",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "IR",
+    "company": "Ingersoll Rand Inc.",
+    "file": "IR-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 65,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": 85.38,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -1407,8 +2006,8 @@
     "summary": "Iris Energy is one of the cleaner listed ways to play the intersection of Bitcoin mining, power infrastructure, and AI/HPC optionality. The market likes that combination, which is why the stock sits j",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 39.32,
+    "lastRefreshed": "2026-04-11T20:00:12.278Z",
+    "priceStored": 36.92,
     "sector": null,
     "exchange": "AU",
     "isin": "AU0000185993",
@@ -1417,41 +2016,129 @@
     ]
   },
   {
-    "ticker": "JNJ",
-    "company": "JNJ",
-    "file": "JNJ-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": null,
+    "ticker": "ISRG",
+    "company": "Intuitive Surgical Inc",
+    "file": "ISRG-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 70,
+    "summary": "Intuitive Surgical's da Vinci platform is the undisputed leader in robotic-assisted surgery with exceptional installation base durability, but the 57x trailing P/E prices in a perfection scenario with",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 238.46,
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": 450.62,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "ITRMF",
+    "company": "Italmobiliare S.p.A. (ADR)",
+    "file": "ITRMF-2026-04-11.html",
+    "recommendation": "SELL",
+    "conviction": 4,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": 0.01,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "JAZZ",
+    "company": "Jazz Pharmaceuticals",
+    "file": "JAZZ-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Jazz Pharmaceuticals (JAZZ) trades at $194.20 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Reco",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "JCI",
+    "company": "Johnson Controls International plc",
+    "file": "JCI-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 66,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": 142.53,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "JHX",
+    "company": "James Hardie Industries",
+    "file": "JHX-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "James Hardie Industries (JHX) trades at $21.02 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Rec",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "JNJ",
+    "company": "JNJ",
+    "file": "JNJ-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 70,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "JPM",
     "company": "JPM",
     "file": "JPM-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "HOLD",
+    "conviction": 78,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 309.87,
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -1463,8 +2150,8 @@
     "summary": "Kering is the second-largest luxury goods group in the world, built around the Gucci franchise with\n              supporting positions in Saint Laurent, Bottega Veneta, Balenciaga, and Alessandro Mich",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": null,
+    "lastRefreshed": "2026-04-11T20:00:12.278Z",
+    "priceStored": 21.92,
     "sector": null,
     "exchange": "NO",
     "isin": "NO0013536151",
@@ -1473,34 +2160,51 @@
     ]
   },
   {
-    "ticker": "KO",
-    "company": "KO — Coca-Cola Company",
-    "file": "KO-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Coca-Cola is a high-quality defensive compounder with exceptional brand equity and pricing power, trading at a modest premium to the market — the shares offer limited near-term return potential given ",
+    "ticker": "KGSPY",
+    "company": "Kongsberg Gruppen ASA (ADR)",
+    "file": "KGSPY-2026-04-11.html",
+    "recommendation": "BUY",
+    "conviction": 84,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 77.47,
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": 90.15,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "KO",
+    "company": "KO — Coca-Cola Company",
+    "file": "KO-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.266Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "KOG.OL · NO",
     "company": "Kongsberg Gruppen ASA",
     "file": "kog-2026-04-09.html",
-    "recommendation": "BUY",
+    "recommendation": "HOLD",
     "conviction": 73,
     "summary": "Kongsberg Gruppen is a high-quality Norwegian defence and maritime technology group operating three divisions: Kongsberg Maritime (marine electronics), Kongsberg Defense & Aerospace (military systems)",
     "date": "2026-04-09",
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.279Z",
     "priceStored": null,
     "sector": null,
     "exchange": "NO",
@@ -1518,13 +2222,49 @@
     "summary": "Kroger is a competent, well-run grocery operator with a growing alternative earnings engine (data/loyalty and fuel), but the attempted $24.6 billion Albertsons acquisition has collapsed, leaving the c",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.267Z",
     "priceStored": 67.99,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "KRX",
+    "company": "Kongregate Inc.",
+    "file": "KRX-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 50,
+    "summary": "Kongregate Inc. (KRX) is listed on Nasdaq but Yahoo Finance currently reports no live market data -- the security cannot be reliably priced or analysed at this time. Investors should await data restor",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.267Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "KRZ",
+    "company": "Kerry Group",
+    "file": "FRA:KRZ-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Kerry Group (FRA:KRZ) trades at EUR 67.70 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommen",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.264Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -1536,7 +2276,7 @@
     "summary": "Kerry Group has been a deeply disappointing long-term investment — down ~25% over 1 year and\n              ~26% over 5 years, and currently trading ~31% below its 52-week high of €100.50. The\n        ",
     "date": "2026-04-07",
     "datePublished": "2026-04-07",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.279Z",
     "priceStored": null,
     "sector": null,
     "exchange": "LN",
@@ -1546,41 +2286,57 @@
     ]
   },
   {
-    "ticker": "LLY",
-    "company": "LLY — Eli Lilly and Company",
-    "file": "LLY-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Eli Lilly is the premier GLP-1 franchise with a dominant market position in the most significant pharmaceutical category in a generation, but the shares trade at a P/E of 41× that prices in near-perfe",
+    "ticker": "LIN",
+    "company": "Lincoln Electric Holdings Inc",
+    "file": "LIN-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 61,
+    "summary": "Lincoln Electric is a high-quality, dividend-growing industrial compounder in welding and automated cutting, benefiting from infrastructure spending and reshoring, but the 34x P/E is not cheap relativ",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 939.47,
+    "lastRefreshed": "2026-04-11T20:00:12.267Z",
+    "priceStored": 503.15,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LLY",
+    "company": "LLY — Eli Lilly and Company",
+    "file": "LLY-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "LMT",
     "company": "LMT",
     "file": "LMT-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "HOLD",
+    "conviction": 74,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 613.72,
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -1592,7 +2348,7 @@
     "summary": "Landore sits firmly in the small-cap exploration bucket where the asset story can sound better than the equity outcome. At 2.20p, essentially flat near the top of a very low trading range, the company",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.279Z",
     "priceStored": null,
     "sector": null,
     "exchange": "LN",
@@ -1605,74 +2361,90 @@
     "ticker": "LOW",
     "company": "LOW",
     "file": "LOW-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 68,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 244.22,
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LRCX",
+    "company": "Lam Research Corporation",
+    "file": "LRCX-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 59,
+    "summary": "Lam Research is a critical semiconductor capital equipment provider with exceptional exposure to memory (DRAM and NAND) and advanced packaging, but the 54x trailing P/E reflects a memory upcycle that ",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": 263.66,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "MA",
     "company": "MA",
     "file": "MA-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "HOLD",
+    "conviction": 75,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 498.66,
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "MCD",
     "company": "MCD",
     "file": "MCD-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 66,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 305.68,
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "MCK",
-    "company": null,
+    "company": "MCK",
     "file": "MCK-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 50,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 865.6,
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -1684,8 +2456,8 @@
     "summary": "MongoDB is one of the most developer-trusted database platforms in the world, built on an open-source model that has successfully transitioned into a cloud-first subscription business. Atlas, its full",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 225.95,
+    "lastRefreshed": "2026-04-11T20:00:12.279Z",
+    "priceStored": 249.38,
     "sector": null,
     "exchange": "US",
     "isin": "US6081901042",
@@ -1695,20 +2467,38 @@
   },
   {
     "ticker": "MDLZ",
-    "company": "Mondelez International Inc (MDLZ)",
+    "company": "Mondelez International, Inc.",
     "file": "MDLZ-2026-04-11.html",
-    "recommendation": "REDUCE",
-    "conviction": null,
-    "summary": "Mondelez is a high-quality global snacks franchise with strong brands but faces structural volume headwinds in developed markets and is priced at a premium multiple that leaves insufficient upside to ",
+    "recommendation": "HOLD",
+    "conviction": 66,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
     "priceStored": 59,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "MDT",
+    "company": "Medtronic plc",
+    "file": "MDT-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 63,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": 87.21,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -1720,13 +2510,13 @@
     "summary": "MetLife is a high-quality life insurance franchise with a diverse global product mix and an attractive dividend yield, but structural headwinds in Japan life insurance and variable annuity markets lim",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
     "priceStored": 73.88,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -1738,14 +2528,13 @@
     "summary": "Meta's transformation from a social media company into an AI-first technology platform — with a dominant digital advertising franchise, a rapidly scaling Llama-based open-source ecosystem, and a Reels",
     "date": "2026-04-10",
     "datePublished": "2026-04-10",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.279Z",
     "priceStored": 629.86,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -1757,8 +2546,8 @@
     "summary": "Mkango is a Canadian-listed rare earths and recycling company with two core assets: the Songwe Hill rare earths project in Malawi and the Akokoma magnet recycling joint venture in Poland. The investme",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 39,
+    "lastRefreshed": "2026-04-11T20:00:12.280Z",
+    "priceStored": null,
     "sector": null,
     "exchange": "LN",
     "isin": "CA60686A4090",
@@ -1775,14 +2564,31 @@
     "summary": "3M's diversification across industrial, healthcare and consumer end markets provides residual resilience, but the shares trade near the top of their 52-week range at a P/E of 25x with structural earni",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
     "priceStored": 150.32,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "MO",
+    "company": "Altria Group, Inc.",
+    "file": "MO-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 70,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
+    "priceStored": 67.38,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -1794,32 +2600,31 @@
     "summary": "Marathon Petroleum is the largest US refiner by throughput and a dominant player in Midwest and Gulf Coast refining, generating significant free cash flow at current crude prices — the shares offer a ",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.268Z",
     "priceStored": 222.62,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
     "ticker": "MRK",
     "company": "MRK",
     "file": "MRK-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 62,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 121.42,
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -1831,7 +2636,7 @@
     "summary": "Mission Ready Solutions is a Canadian and US dual-listed provider of pre-hospital medical training, simulation platforms, and medical supplies primarily serving military, law enforcement, and emergenc",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.280Z",
     "priceStored": null,
     "sector": null,
     "exchange": "US",
@@ -1844,19 +2649,18 @@
     "ticker": "MS",
     "company": "MS",
     "file": "MS-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "HOLD",
+    "conviction": 72,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 177.64,
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -1868,33 +2672,67 @@
     "summary": "Microsoft's Azure AI momentum and Copilot monetisation are real and accelerating, but the shares are at a P/E of 23x — reasonable for this quality of business, but leaving limited margin of safety at ",
     "date": "2026-04-10",
     "datePublished": "2026-04-10",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.280Z",
     "priceStored": 370.87,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "watchlist",
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron Technology, Inc.",
+    "file": "MU-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 65,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": 420.59,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "NEE",
     "company": "NEE",
     "file": "NEE-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 68,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 94.08,
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "NFLX",
+    "company": "Netflix, Inc.",
+    "file": "NFLX-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 67,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": 103.01,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -1906,8 +2744,8 @@
     "summary": "NIO is a Chinese premium electric vehicle maker with a battery-as-a-service (BaaS) model and a nationwide swap station network. The investment case rests on NIO's premium brand positioning, its propri",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 6.5,
+    "lastRefreshed": "2026-04-11T20:00:12.280Z",
+    "priceStored": 6.48,
     "sector": null,
     "exchange": "US",
     "isin": "US6541061031",
@@ -1919,54 +2757,52 @@
     "ticker": "NKE",
     "company": "NKE",
     "file": "NKE-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 65,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 42.62,
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "NOC",
     "company": "NOC",
     "file": "NOC-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "HOLD",
+    "conviction": 76,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 673.73,
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
-    "ticker": "NOW (NYSE)",
-    "company": "ServiceNow",
-    "file": "now-2026-04-07.html",
+    "ticker": "NOW",
+    "company": "ServiceNow, Inc.",
+    "file": "NOW-2026-04-11.html",
     "recommendation": "HOLD",
-    "conviction": 64,
-    "summary": "ServiceNow has been absolutely hammered — down ~52% from its 52-week high of $211 to $100.80,\n              trading near its 52-week low. The \"SaaSpocalypse\" narrative has crushed high-growth software",
-    "date": "2026-04-07",
-    "datePublished": "2026-04-07",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": null,
+    "conviction": 68,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": 83,
     "sector": null,
-    "exchange": "US",
-    "isin": "US81762P1021",
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -1980,14 +2816,31 @@
     "summary": "NVIDIA sits at the epicentre of the AI infrastructure buildout, commanding an effective monopoly in AI accelerators via its CUDA ecosystem and the Hopper/Blackwell GPU architecture. At $181.46 the sha",
     "date": "2026-04-10",
     "datePublished": "2026-04-10",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 188.75,
+    "lastRefreshed": "2026-04-11T20:00:12.280Z",
+    "priceStored": 181.46,
     "sector": null,
     "exchange": "US",
     "isin": "US67066G1040",
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "NVTS",
+    "company": "Navitas Semiconductor",
+    "file": "NVTS-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Navitas Semiconductor (NVTS) trades at $9.54 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recom",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -1999,8 +2852,8 @@
     "summary": "Oklo is one of the cleanest listed ways to express the view that AI-era electricity demand will force the market to take advanced nuclear seriously. The company’s appeal is not just “nuclear”, it is",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 50.25,
+    "lastRefreshed": "2026-04-11T20:00:12.280Z",
+    "priceStored": 46.59,
     "sector": null,
     "exchange": "US",
     "isin": "US67987P1059",
@@ -2017,8 +2870,8 @@
     "summary": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is e",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 14.25,
+    "lastRefreshed": "2026-04-11T20:00:12.281Z",
+    "priceStored": 0.262,
     "sector": null,
     "exchange": "CRYPTO",
     "isin": "GB00BNVVGD77",
@@ -2030,19 +2883,18 @@
     "ticker": "ORCL",
     "company": "ORCL",
     "file": "ORCL-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 70,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 138.09,
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -2054,7 +2906,7 @@
     "summary": "Panther Metals is firmly in the small-cap exploration camp where upside can be dramatic, but the path is usually through dilution, volatility and a lot of hope. At 80.0p, up on the day with limited vo",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.281Z",
     "priceStored": null,
     "sector": null,
     "exchange": "LN",
@@ -2067,13 +2919,13 @@
     "ticker": "PANW",
     "company": "Palo Alto Networks Inc",
     "file": "panw-2026-04-08.html",
-    "recommendation": "BUY",
+    "recommendation": "HOLD",
     "conviction": 74,
     "summary": "Palo Alto Networks is the dominant next-generation firewall vendor making the transition to a comprehensive platform company — SASE, cloud security, AI-powered security operations (XSIAM), and SOC aut",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 155.73,
+    "lastRefreshed": "2026-04-11T20:00:12.281Z",
+    "priceStored": 172.83,
     "sector": null,
     "exchange": "US",
     "isin": "US6974351057",
@@ -2085,19 +2937,18 @@
     "ticker": "PEP",
     "company": "PEP",
     "file": "PEP-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 62,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 157.06,
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -2109,14 +2960,13 @@
     "summary": "Pfizer's post-COVID normalisation and patent cliff create a structural earnings headwind that the current valuation of 19.85x P/E does not adequately discount — the balance of risk and reward argues f",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
     "priceStored": 26.92,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -2128,14 +2978,13 @@
     "summary": "Procter & Gamble is a high-quality defensive consumer staples franchise with-pricing power and a strong dividend, but premium valuation of 21.51x P/E limits upside and argues for HOLD at current level",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
     "priceStored": 145.16,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -2147,13 +2996,13 @@
     "summary": "Progressive is an exceptional underwriter with a best-in-class combined ratio and a dominant position in US personal auto insurance, but the stock trades at a stretched 10.1x P/E that appears to price",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
     "priceStored": 194.13,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -2165,8 +3014,8 @@
     "summary": "Planet Labs operates the world's largest commercial fleet of Earth observation satellites — over 200 satellites imaging the entire land surface of Earth every single day. This gives the company a uniq",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 34.67,
+    "lastRefreshed": "2026-04-11T20:00:12.282Z",
+    "priceStored": 36.55,
     "sector": null,
     "exchange": "US",
     "isin": "US72703X1089",
@@ -2183,8 +3032,8 @@
     "summary": "The Children's Place is a US children's specialty apparel retailer operating approximately 600 stores in North America under brands including The Children's Place, Gymboree, Sugar &amp; Jade, and PJ P",
     "date": "2026-04-09",
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": null,
+    "lastRefreshed": "2026-04-11T20:00:12.282Z",
+    "priceStored": 3.64,
     "sector": null,
     "exchange": "US",
     "isin": "US88034P1093",
@@ -2195,17 +3044,35 @@
   {
     "ticker": "PLTR",
     "company": "Palantir Technologies Inc",
-    "file": "pltr-2026-04-08.html",
+    "file": "PLTR-2026-04-11.html",
     "recommendation": "HOLD",
-    "conviction": 59,
-    "summary": "Palantir is one of the few listed companies that can credibly claim to be both a data analytics platform and an AI beneficiary. Its Gotham and Foundry platforms sit directly in thepath of US governmen",
-    "date": "2026-04-08",
-    "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": null,
+    "conviction": 72,
+    "summary": "Palantir's AI-driven revenue acceleration is real and material, but a 203x trailing P/E leaves virtually no room for slippage — the risk-reward is balanced and",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.269Z",
+    "priceStored": 128.06,
     "sector": null,
-    "exchange": "US",
-    "isin": "US88634R1041",
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "PM",
+    "company": "Philip Morris International Inc",
+    "file": "PM-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 68,
+    "summary": "Philip Morris's smoke-free transition is genuinely ahead of schedule, but the shares are fairly valued at 22x P/E and the entry point does not offer the margin of safety needed for a new BUY position ",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": 160.45,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -2219,11 +3086,47 @@
     "summary": "Polarean Imaging is a UK-headquartered medical device company that has developed a proprietary Xenon MRI imaging platform for visualising lung function. The technology enables clinicians to see ventil",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.282Z",
     "priceStored": null,
     "sector": null,
     "exchange": "US",
     "isin": "GB00BF3DT583",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "PRGO",
+    "company": "Perrigo Company plc",
+    "file": "PRGO-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 61,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": 10.86,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "PRTA",
+    "company": "Prothena Corporation plc",
+    "file": "PRTA-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 45,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": 10.5,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -2237,13 +3140,13 @@
     "summary": "Prudential is a well-diversified US life insurance and asset management franchise trading at a modest 9.7x P/E with a 4%+ dividend yield, but structural challenges in its legacy variable annuity book ",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
     "priceStored": 96.9,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -2255,13 +3158,13 @@
     "summary": "Phillips 66 is a high-quality downstream refining and marketing business that has delivered substantial shareholder returns through cycles, but with refining margins moderating from 2022-2023 peaks an",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
     "priceStored": 159.25,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -2273,8 +3176,8 @@
     "summary": "Prospex is a small-cap European gas story, which means the equity case can work when production and pricing line up, but it remains vulnerable to liquidity, operational and funding shocks. At 3.40p on",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 3.32,
+    "lastRefreshed": "2026-04-11T20:00:12.282Z",
+    "priceStored": null,
     "sector": null,
     "exchange": "LN",
     "isin": "GB00BMFZVZ53",
@@ -2291,8 +3194,8 @@
     "summary": "D-Wave is one of the few listed pure-play quantum names with real commercial customers, but it still trades more on narrative than fundamentals. At $14.56 and a ~$5.4bn market cap, the stock is pricin",
     "date": "2026-04-09",
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 14.25,
+    "lastRefreshed": "2026-04-11T20:00:12.282Z",
+    "priceStored": 14.56,
     "sector": null,
     "exchange": "US",
     "isin": "US26740W1099",
@@ -2309,14 +3212,13 @@
     "summary": "Qualcomm's dominance in wireless semiconductors and the AI-driven upgrade cycle in smartphones provide a solid foundation, but the licensing (QTL) business remains structurally challenged and the valu",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
     "priceStored": 128.01,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -2328,11 +3230,29 @@
     "summary": "Quadrise has spent years living in the zone where commercial promise exists, but full validation remains just over the horizon. At 2.70p, up on the day and trading on strong volume, the market is stil",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.282Z",
     "priceStored": null,
     "sector": null,
     "exchange": "LN",
     "isin": "GB00B11DDB67",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "REPORT",
+    "company": null,
+    "file": "report-template.html",
+    "recommendation": null,
+    "conviction": 100,
+    "summary": null,
+    "date": null,
+    "datePublished": null,
+    "lastRefreshed": "2026-04-11T20:00:12.283Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": "{{EXCHANGE}}",
+    "isin": "{{ISIN}}",
     "universes": [
       "watchlist"
     ]
@@ -2346,8 +3266,8 @@
     "summary": "Rigetti is another listed quantum name trading on future possibility rather than current economics. At $14.36 with a market cap near $4.6B and negative EPS, the valuation still reflects thematic enthu",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 14.68,
+    "lastRefreshed": "2026-04-11T20:00:12.283Z",
+    "priceStored": 14.36,
     "sector": null,
     "exchange": "US",
     "isin": "US76655K1034",
@@ -2364,14 +3284,13 @@
     "summary": "Raytheon's successor entity benefits from substantial defence spending tailwinds and Pratt & Whitney's commercial aviation recovery, but the AGT1000 turbine defect issue and elevated P/E of 40.61x cre",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
     "priceStored": 201.56,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -2383,11 +3302,29 @@
     "summary": "Ocean Power Technologies is a pre-revenue marine energy and autonomy company that has just started\n              converting a record backlog into delivery. The stock has been obliterated — down ~61% f",
     "date": "2026-04-07",
     "datePublished": "2026-04-07",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.283Z",
     "priceStored": null,
     "sector": null,
     "exchange": "US",
     "isin": "US6748705067",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "RYAAY",
+    "company": "Ryanair Holdings DAC",
+    "file": "RYAAY-2026-04-11.html",
+    "recommendation": "BUY",
+    "conviction": 80,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": 62.36,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -2401,14 +3338,31 @@
     "summary": "Starbucks faces a combination of menu pricing pressure, traffic recovery challenges and operational reset costs that make the P/E of 80.47x on EPS of $1.20 structurally difficult to justify — REDUCE.",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
     "priceStored": 96.6,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "SCHW",
+    "company": "Charles Schwab Corporation",
+    "file": "SCHW-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 70,
+    "summary": "Charles Schwab is structurally well-positioned in wealth management with the TD Ameritrade integration delivering tangible cost synergies, but a normalisation of net interest margin and slower-than-ex",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": 94.8,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -2420,11 +3374,29 @@
     "summary": "Shopify is the dominant e-commerce platform for small and medium-sized businesses in North America, providing a complete ecosystem of tools — online stores, payments, fulfilment, and marketing — that ",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 110.78,
+    "lastRefreshed": "2026-04-11T20:00:12.283Z",
+    "priceStored": 120.1,
     "sector": null,
     "exchange": "US",
     "isin": "CA82509L1076",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "SLMT",
+    "company": "SLM Solutions Group AG (ADR)",
+    "file": "SLMT-2026-04-11.html",
+    "recommendation": "SELL",
+    "conviction": 18,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": 0.78,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -2438,8 +3410,8 @@
     "summary": "NuScale is one of the most recognisable listed names in advanced nuclear because it carries a real regulatory credential, the first U.S. NRC-approved SMR design. That matters. It gives the company a l",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 9.21,
+    "lastRefreshed": "2026-04-11T20:00:12.284Z",
+    "priceStored": 9.16,
     "sector": null,
     "exchange": "US",
     "isin": "US67020B1066",
@@ -2451,18 +3423,36 @@
     "ticker": "SNEX",
     "company": "Stonex Group Inc",
     "file": "SNEX-2026-04-11.html",
-    "recommendation": "BUY",
+    "recommendation": "HOLD",
     "conviction": 75,
     "summary": "Stonex is a high-quality, diversified commodities financial services firm that has built a genuine market-making franchise across agricultural, energy, and metals markets — the shares have consolidate",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
     "priceStored": 92.9,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "SO",
+    "company": "Southern Company",
+    "file": "SO-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 65,
+    "summary": "Southern Company operates a best-in-class regulated utility franchise with visible rate base growth and a constructive regulatory environment in its core Georgia jurisdiction, but the shares trade at ",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": 97.15,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -2474,11 +3464,29 @@
     "summary": "SoFi is a digital financial services company offering student loan refinancing, personal loans, credit cards, and savings accounts through a mobile-first platform. The company is attempting to transit",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": null,
+    "lastRefreshed": "2026-04-11T20:00:12.284Z",
+    "priceStored": 16.62,
     "sector": null,
     "exchange": "US",
     "isin": "US8341701061",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "SPG",
+    "company": "Simon Property Group Inc",
+    "file": "SPG-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Simon Property Group is a high-quality mall REIT with strong free cash flow generation and an active redevelopment programme, but the structural headwinds facing US mall retail — e-commerce penetratio",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": 200.57,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -2492,11 +3500,65 @@
     "summary": "Spire is one of the more interesting smaller-cap space data names because it sells data and analytics rather than relying entirely on long-dated hardware optionality. The proposition, satellite-derive",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 21.56,
+    "lastRefreshed": "2026-04-11T20:00:12.284Z",
+    "priceStored": 20.36,
     "sector": null,
     "exchange": "US",
     "isin": "US8485603067",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "STE",
+    "company": "STERIS plc",
+    "file": "STE-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "STERIS plc (STE) trades at $222.58 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendation:",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate Technology Holdings plc",
+    "file": "STX-2026-04-11.html",
+    "recommendation": "BUY",
+    "conviction": 80,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": 503.13,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "SW",
+    "company": "Smurfit Westrock",
+    "file": "SW-2026-04-11.html",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": "Smurfit Westrock (SW) trades at $42.06 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendat",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.270Z",
+    "priceStored": null,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
     "universes": [
       "watchlist"
     ]
@@ -2510,13 +3572,13 @@
     "summary": "Sysco is the dominant global food service distributor with a defensive, recession-resistant revenue base and a solid balance sheet, but the stock trades near the top of its 52-week range and the margi",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
     "priceStored": 72.82,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -2528,13 +3590,13 @@
     "summary": "AT&T is a recovering telecom blue chip that has completed its structural reset — the WarnerMedia spin, aggressive network expansion, and dividend reduction have cleared the path to free cash flow grow",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
     "priceStored": 26.46,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -2546,8 +3608,8 @@
     "summary": "Teledyne is a diversified industrial technology conglomerate operating across four segments: Defence Electronics (aerospace and defence electronics), Imaging (sensors, cameras, and image processing), ",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 645.74,
+    "lastRefreshed": "2026-04-11T20:00:12.284Z",
+    "priceStored": 660.31,
     "sector": null,
     "exchange": "US",
     "isin": "US8793601050",
@@ -2564,14 +3626,13 @@
     "summary": "Target's omni-channel retail model and owned-brand portfolio are genuine strengths, and the 14.99x P/E is modest relative to normalised earnings, but the company has struggled with inventory managemen",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
     "priceStored": 121.89,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -2579,17 +3640,17 @@
     "company": "TJX Companies Inc (TJX)",
     "file": "TJX-2026-04-11.html",
     "recommendation": "HOLD",
-    "conviction": null,
+    "conviction": 70,
     "summary": "TJX is a high-quality off-price retail business with durable competitive advantages in buyer sourcing and inventory management, trading near the top of its historical valuation range and facing a mode",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 161.6,
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -2601,14 +3662,31 @@
     "summary": "Thermo Fisher is a best-in-class life sciences tools company with leading positions in analytical instruments, bioprocessing and clinical diagnostics, but the elevated P/E of 27.97x in a post-pandemic",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
     "priceStored": 496.11,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "TMUS",
+    "company": "T-Mobile US Inc",
+    "file": "TMUS-2026-04-11.html",
+    "recommendation": "BUY",
+    "conviction": 81,
+    "summary": "T-Mobile has the most compelling combination of postpaid subscriber growth, free cash flow generation and 5G monetisation optionality among US telecoms, and the shares are undervalued relative to peer",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
+    "priceStored": 195.71,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -2620,8 +3698,8 @@
     "summary": "TomCo is deep in the category of AIM micro-cap optionality where the listed equity often behaves more like a perpetual financing stub than an ownership stake in a developing business. At 0.0330p, with",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 0.03,
+    "lastRefreshed": "2026-04-11T20:00:12.284Z",
+    "priceStored": null,
     "sector": null,
     "exchange": "LN",
     "isin": "IM00BZBXMN96",
@@ -2630,39 +3708,111 @@
     ]
   },
   {
+    "ticker": "TRIB",
+    "company": "Trinity Biosystems",
+    "file": "TRIB-2026-04-11.html",
+    "recommendation": "SELL",
+    "conviction": 12,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
+    "priceStored": 0.71,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
     "ticker": "TSLA",
     "company": "Tesla Inc",
-    "file": "tsla-2026-04-08.html",
-    "recommendation": "REDUCE — SPECULATIVE",
-    "conviction": 48,
-    "summary": "Tesla is the world's largest electric vehicle company by market capitalisation, also operating an energy storage business (Megapack), a solar business, and an autonomous driving / robotics programme (",
-    "date": "2026-04-08",
-    "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 349,
+    "file": "TSLA-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 68,
+    "summary": "Tesla retains the EV market leadership position with the most extensive charging infrastructure, manufacturing scale advantage and AI compute assets, but a 326x trailing P/E and current price at $349 ",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
+    "priceStored": 348.95,
     "sector": null,
-    "exchange": "US",
-    "isin": "US88160R1014",
+    "exchange": null,
+    "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "TT",
+    "company": "Trane Technologies plc",
+    "file": "TT-2026-04-11.html",
+    "recommendation": "BUY",
+    "conviction": 82,
+    "summary": null,
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
+    "priceStored": 465.71,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "TXN",
+    "company": "Texas Instruments Inc",
+    "file": "TXN-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 73,
+    "summary": "Texas Instruments is a high-quality analog and embedded semiconductor company with strong free cash flow generation, pricing power derived from its catalog-based model and a long runway of industrial ",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
+    "priceStored": 214.73,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
     "ticker": "UAL",
     "company": "United Airlines Holdings Inc (UAL)",
     "file": "UAL-2026-04-11.html",
-    "recommendation": "BUY",
-    "conviction": null,
+    "recommendation": "HOLD",
+    "conviction": 75,
     "summary": "United Airlines is a high-quality global network carrier with a compelling international growth trajectory and a P/E under 10x that significantly undervalues its earnings power and asset base, and is ",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 96.4,
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "UBER",
+    "company": "Uber Technologies Inc",
+    "file": "UBER-2026-04-11.html",
+    "recommendation": "BUY",
+    "conviction": 83,
+    "summary": "Uber has achieved the rare combination of profitable growth, positive free cash flow and multiple secular growth drivers — ride-sharing recovery post-COVID, food delivery market leadership, and autono",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
+    "priceStored": 70.48,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -2674,14 +3824,31 @@
     "summary": "UnitedHealth is the dominant US managed care organisation with Optum's integrated care platform adding a distinctive strategic dimension, but political and regulatory risk around healthcare reform has",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
     "priceStored": 304.33,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "UNP",
+    "company": "Union Pacific Corporation",
+    "file": "UNP-2026-04-11.html",
+    "recommendation": "BUY",
+    "conviction": 82,
+    "summary": "Union Pacific is the premier US rail franchise with a high-quality asset base, best-in-class operating ratio, significant pricing power and genuine exposure to US manufacturing reshoring and energy tr",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.271Z",
+    "priceStored": 250.51,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -2693,14 +3860,31 @@
     "summary": "UPS is the world's largest parcel delivery company with an unrivalled integrated global network, but the cyclical softness in US domestic package volumes and the elevated capital requirements of the U",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
     "priceStored": 101.7,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "USB",
+    "company": "US Bancorp",
+    "file": "USB-2026-04-11.html",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "summary": "US Bancorp is a high-quality regional banking franchise with strong deposit market share in the Midwest and West Coast, conservative underwriting standards and a meaningful exposure to net interest in",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
+    "priceStored": 55.66,
+    "sector": null,
+    "exchange": null,
+    "isin": null,
+    "universes": [
+      "watchlist"
     ]
   },
   {
@@ -2712,26 +3896,25 @@
     "summary": "Visa is the pre-eminent global payments network with an exceptional economic moat — unrivaled acceptance network, dominant debit position and sticky B2B payment flows — and the shares at 28.57x P/E ar",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
     "priceStored": 304.36,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "VEQT.TO (TSX)",
     "company": "Vanguard All-Equity ETF Portfolio",
     "file": "veqt-2026-04-07.html",
-    "recommendation": "BUY",
+    "recommendation": "HOLD",
     "conviction": 71,
     "summary": "VEQT is a passive, all-equity index fund-of-funds ETF that holds a diversified portfolio\n              of Vanguard's underlying regional equity ETFs — covering Canada, the US, Europe, Asia,\n          ",
     "date": "2026-04-07",
     "datePublished": "2026-04-07",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.284Z",
     "priceStored": null,
     "sector": null,
     "exchange": "TO",
@@ -2749,13 +3932,13 @@
     "summary": "Valero is a high-quality, geographically advantaged Gulf Coast refiner that has delivered strong shareholder returns, but at 31.5x trailing earnings the market is pricing in a much better refining env",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
     "priceStored": 238.82,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
@@ -2767,14 +3950,13 @@
     "summary": "Verizon's network quality leadership in 5G is genuine, but the debtladen balance sheet, persistent post-paid phone ARPU decline and limited earnings growth visibility make the 11.34x P/E a value trap ",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
     "priceStored": 46.04,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -2786,14 +3968,13 @@
     "summary": "Walgreens Boots Alliance is navigating a structural crisis in US retail pharmacy — occupancy pressure, pharmacy margin compression and failed international diversification — with no clear path to earn",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
     "priceStored": 222,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -2805,51 +3986,49 @@
     "summary": "Wells Fargo is a high-quality US bank benefiting from an improving net interest margin outlook and the gradual removal of asset cap restrictions, but the 13.65x P/E reflects most of the known positive",
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
     "priceStored": 85.4,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
     "ticker": "WMT",
-    "company": null,
+    "company": "WMT",
     "file": "WMT-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
+    "recommendation": "REDUCE",
+    "conviction": 50,
     "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 126.79,
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100"
+      "watchlist"
     ]
   },
   {
     "ticker": "XOM",
     "company": "XOM — Exxon Mobil Corporation",
     "file": "XOM-2026-04-11.html",
-    "recommendation": null,
-    "conviction": null,
-    "summary": "Exxon Mobil is a high-quality energy franchise with the lowest break-even production cost in the industry and exceptional free cash flow generation, but the shares trade 13.5 per cent below their 52-w",
+    "recommendation": "REDUCE",
+    "conviction": 50,
+    "summary": null,
     "date": "2026-04-11",
     "datePublished": "2026-04-11",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 152.51,
+    "lastRefreshed": "2026-04-11T20:00:12.272Z",
+    "priceStored": null,
     "sector": null,
     "exchange": null,
     "isin": null,
     "universes": [
-      "fortune100",
-      "sp100"
+      "watchlist"
     ]
   },
   {
@@ -2861,8 +4040,8 @@
     "summary": "XPeng is a Chinese EV maker with credible software and autonomous driving capability, but it remains trapped in a brutal domestic EV price war. At $17.80, with a ~$16.5bn market cap, the stock sits cl",
     "date": "2026-04-09",
     "datePublished": "2026-04-09",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 17.42,
+    "lastRefreshed": "2026-04-11T20:00:12.284Z",
+    "priceStored": 17.8,
     "sector": null,
     "exchange": "US",
     "isin": "US98422D1054",
@@ -2879,7 +4058,7 @@
     "summary": "Zephyr is another small-cap energy name where project execution matters far more than the broad commodity narrative. At 3.45p, off the session high and on healthy volume, the shares still screen as sp",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
+    "lastRefreshed": "2026-04-11T20:00:12.285Z",
     "priceStored": null,
     "sector": null,
     "exchange": "LN",
@@ -2897,8 +4076,8 @@
     "summary": "Zymeworks is a clinical-stage oncology name with a real scientific platform and the usual biotech caveat: nothing matters more than data. At $26.70, with a market cap around $1.94B and still loss-maki",
     "date": "2026-04-08",
     "datePublished": "2026-04-08",
-    "lastRefreshed": "2026-04-10T23:26:20.295Z",
-    "priceStored": 26.32,
+    "lastRefreshed": "2026-04-11T20:00:12.285Z",
+    "priceStored": 26.7,
     "sector": null,
     "exchange": "US",
     "isin": "US98985Y1082",

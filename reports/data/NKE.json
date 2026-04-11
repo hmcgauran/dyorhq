@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "",
+    "company": "NKE",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 53,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from NIKE brand ( footwear 46%, apparel 33%, equipment 6%) through DTC (owned stores and digital) and wholesale channels. Geographically: North America 38%, Europe/Middle East/Africa 26%, Greater China 17%, Asia Pacific/Latin America 19%."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "New CEO Elliott Hill appointed October 2024 \u2014 immediate wholesale channel reset initiated\n    Air Innovation pipeline: Air Max 2025 and renewed Jordan franchise in FY26\n    Nike University internal talent programme re-energising product creation teams\n    Cost-savings programme: $2bn efficiency target by FY27 (supply chain + SG&A)",
+      "items": [
+        "New CEO Elliott Hill appointed October 2024 \u2014 immediate wholesale channel reset initiated",
+        "Air Innovation pipeline: Air Max 2025 and renewed Jordan franchise in FY26",
+        "Nike University internal talent programme re-energising product creation teams",
+        "Cost-savings programme: $2bn efficiency target by FY27 (supply chain + SG&A)"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "65\n      Bull\n    \n    \n      52\n      Base\n    \n    \n      35\n      Bear\n    \n    \n      53\n      Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. Revenue decline FY25 (-1.8%) driven by North America wholesale exit"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Gross margin at 44.2% FY25 vs 47.6% FY22 \u2014 structural compression from DTC channel shift"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Chinese competitor Anta Sports gaining market share at a double-digit rate"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Jordan Brand licensed revenue at risk of re-negotiation (2026 franchise renewal)"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Inventory glut in North America still being worked through Q4 FY26"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Nike Inc (NKE) \u2014 Entry / Exit Framework\n\nHOLD zone: $39.21\u2013$43.47 \u2014 current levels are fairly valued.\nTrim / Take Profits above $43.47 \u2014 approaching the 52-week high at $80.17.\nStop-loss: A sustained close below $41.51 (52-week low) would warrant reassessment."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 53,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 53,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

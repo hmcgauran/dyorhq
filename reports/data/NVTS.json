@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ticker": "NVTS",
+    "company": "Navitas Semiconductor",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 9.54,
+    "fiftyTwoWeekHigh": 17.79,
+    "fiftyTwoWeekLow": 1.67,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Navitas Semiconductor (NVTS) trades at $9.54 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendation: REDUCE at $9.54."
+    },
+    "businessModel": {
+      "text": "Navitas Semiconductor is a pure-play GaN (gallium nitride) power semiconductor company. GaN is a wide-bandgap material that allows power transistors to switch significantly faster, handle higher voltages, and operate with far lower resistive losses than conventional silicon MOSFETs and IGBTs. In practice this means power adapters, power supplies, and inverters built around GaN can be smaller, lighter, and more efficient -- less energy dissipated as heat, fewer passive components needed, and higher power density. Navitas designs and sells GaN power ICs, discrete GaN transistors, and accompanying gate driver silicon, targeting the full power conversion chain from AC input to DC output. The company's IP portfolio -- built around its proprietary GaN-on-silicon fabrication approach -- is its primary defensible asset.\n\nThe commercial anchor is mobile fast charging, where Navitas has accumulated design wins with adapter OEMs including Xiaomi, Dell, Lenovo, and Samsung. The GaN advantage is most tangible in chargers above 45W where silicon alternatives require larger and heavier magnetic components. As smartphones and laptops move toward higher charging powers (100W+), GaN adoption in OEM and aftermarket adapters is structurally advantaged. Beyond mobile, Navitas has targeted data centre power supplies (replacing silicon AC-DC front-ends), EV onboard chargers and DC-DC converters, and solar/renewable energy inverters. These are large addressable markets but GaN penetration outside of chargers has been slower than the original thesis anticipated -- the data centre and automotive design cycles are long, and Navitas has experienced product delays and some quality holds that have eroded customer confidence.\n\nThe GaN vs SiC (silicon carbide) competition dynamic is the central strategic question. SiC wins on high-voltage robustness (600V-1200V+) and thermal performance in automotive and industrial inverters, where it is now deeply entrenched with suppliers like Wolfspeed and onsemi. GaN's native sweet spot is 15V-650V -- lower voltage applications where switching speed, efficiency at medium power, and BOM cost matter most. Navitas competes in the overlap zone (650V GaN vs 650V SiC) where GaN offers a cost and efficiency advantage, but the differentiation narrows as voltage rises. The risk is that SiC prices are falling fast, and if SiC displaces GaN in the 400V-650V band -- which is precisely where EV onboard chargers operate -- the total addressable market narrative for GaN compresses materially.\n\nNavitas went public via SPAC in October 2021 at approximately $10/share, merging with Live Oak Acquisition Corp. SPACs typically leave behind a complex capital structure and a cash-rich trust that gets consumed over time. In Navitas' case, the SPAC legacy manifests as significant dilution -- shares outstanding are substantially higher than at a conventional IPO -- combined with persistent operating losses and cash burn. As of the most recent filings, the company was burning cash at a rate that gave it roughly 12-18 months of runway without a meaningful improvement in profitability. The stock at $9.54 sits near the bottom of its 52-week range ($1.67-$17.79), having collapsed from its post-SPAC highs. The market is not rewarding GaN adoption because the execution has been poor, the path to sustainable margins is unclear, and the cash balance is a ticking clock. Being near the bottom is not a sufficient value thesis when the balance sheet offers no margin of safety and the fundamental trajectory has not inflected."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$9.54"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "N/A"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$17.79"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$1.67"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "No major RNS filings in the trailing three to six months. Market-moving news has been limited; any re-rating will likely depend on macro conditions, sector rotation, or company-specific operational milestones."
+    },
+    "thesisEvaluation": {
+      "text": "ScenarioWeightThesis\n              Bull30%Strong demand, margin expansion and multiple re-rating drive meaningful upside. Target: +30-40% from current levels.\n              Base50%Steady earnings growth in line with long-term averages. Target: +10-15% over 12 months.\n              Bear20%Margin compression, macro headwinds or sector rotation create downside risk. Target: -15-20% from current levels.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Macroeconomic sensitivity \u2014 Sector earnings are correlated with global growth, interest rates, and input cost inflation."
+        },
+        {
+          "rank": 2,
+          "risk": "Currency risk \u2014 GBP/EUR/USD exposure on reported revenues and costs."
+        },
+        {
+          "rank": 3,
+          "risk": "Competitive dynamics \u2014 Pricing pressure from peers or new entrants."
+        },
+        {
+          "rank": 4,
+          "risk": "Liquidity and spread risk \u2014 As a non-primary-listing Irish stock, bid/offer spreads may be wide."
+        },
+        {
+          "rank": 5,
+          "risk": "Regulatory and political risk \u2014 Trade policy, FDI screening, and ESG regulation affecting sector."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "REDUCE \u2014 Conviction: 50/100. Enter on pullbacks toward the 52-week low for better risk/reward. Reduce or exit on strength exceeding the 52-week high on volume. No explicit price target is issued; investors should size positions commensurate with conviction level and portfolio risk budget.\n            Entry framework: Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
+    },
+    "entryExit": {
+      "text": "Navitas Semiconductor (NVTS) \u2014 Entry / Exit Framework\n\nReduce / Trim: Above $9.73 \u2014 the stock is trading near or above the 52-week high. Capital should be rotated elsewhere.\nTighten or exit on any bounce above $10.49 \u2014 the risk/reward is poor at current levels.\nStop-loss (for remaining exposure): $18.15 \u2014 a close above the 52-week high would confirm the bull case is breaking down.\nTarget: $1.8 \u2014 partial mean reversion toward the middle of the 52-week range."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

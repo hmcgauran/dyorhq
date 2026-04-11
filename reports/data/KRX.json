@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "ticker": "KRX",
+    "company": "Kongregate Inc.",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Kongregate Inc. (KRX) is listed on Nasdaq but Yahoo Finance currently reports no live market data -- the security cannot be reliably priced or analysed at this time. Investors should await data restoration before making investment decisions."
+    },
+    "businessModel": {
+      "text": "Kongregate is a digital games company primarily known for publishing and developing free-to-play browser and mobile games. Key titles have included KartRider Rush+ (mobile), The Battle of Polytopia (mobile), and various other titles published through the Kongregate Play platform. Revenue is generated through in-game purchases (microtransactions), advertising within games (rewarded video, interstitial), and publishing royalties from third-party games. The business is sensitive to game lifecycle dynamics and platform app store policies."
+    },
+    "financialSnapshot": {
+      "text": "</div>",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "Data Unavailable"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "Data Unavailable"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "N/A"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Market data feed currently unavailable. Recent news cannot be reliably sourced."
+    },
+    "thesisEvaluation": {
+      "text": "Insufficient data for scenario analysis. Conviction score set to 50 (HOLD - data-dependent).",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": []
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD - DATA UNAVAILABLE - Conviction: 50/100. Live market data from Yahoo Finance is required before a formal investment thesis can be evaluated."
+    },
+    "entryExit": {
+      "text": "HOLD. Conviction: 65/100. No compelling entry or exit signal without current price data."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

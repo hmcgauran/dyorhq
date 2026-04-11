@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "ticker": "ABVE",
+    "company": "Above Food Ingredients Inc",
+    "exchange": "US",
+    "isin": "CA00373V1004",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "SELL — SPECULATIVE",
+    "recommendationNote": "SELL — SPECULATIVE",
+    "conviction": 31,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger zone where modest operational setbacks can matter more than the underlying business narrative.Bottom line: SELL — SPECULATIVE. Too small, too weak, and not enough proof."
+    },
+    "businessModel": {
+      "text": "Above Food Ingredients is positioned around food and ingredients exposure, but the equity case at this stage is dominated by balance sheet credibility and scale rather than strategic storytelling. For micro-caps, execution and capital access overwhelm everything else."
+    },
+    "financialSnapshot": {
+      "text": "<p><strong>Live price:</strong> $0.804<br><strong>Market cap:</strong> $44.8M<br><strong>Day range:</strong> $0.7692 – $0.8962<br><strong>P/E:</strong> N/A<br><strong>EPS:</strong> -$3.16<br><strong>Beta:</strong> 0.13</p></div>",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "No strong live evidence of a positive re-rating catalyst.Micro-cap food and ingredients stories need execution and funding, not narrative alone.Share price weakness remains the main signal.",
+      "items": [
+        "No strong live evidence of a positive re-rating catalyst.",
+        "Micro-cap food and ingredients stories need execution and funding, not narrative alone.",
+        "Share price weakness remains the main signal."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (15%): operational progress surprises positively and the stock bounces sharply from a depressed base.Base (45%): the stock remains stuck in micro-cap limbo.Bear (40%): further weakness or financing pressure damages the equity further.Weighted conviction: 31/100.",
+      "bull": {
+        "scenario": "Bull (15%): operational progress surprises positively and the stock bounces sharply from a depressed",
+        "probability": 15
+      },
+      "base": {
+        "scenario": "Base (45%): the stock remains stuck in micro-cap limbo.",
+        "probability": 45
+      },
+      "bear": {
+        "scenario": "Bear (40%): further weakness or financing pressure damages the equity further.",
+        "probability": 40
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Balance sheet risk: always central at this scale."
+        },
+        {
+          "rank": 2,
+          "risk": "Execution risk: little room for error."
+        },
+        {
+          "rank": 3,
+          "risk": "Liquidity risk: micro-cap trading cuts both ways."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "SELL — SPECULATIVE at $0.804. Weak setup, weak financial profile."
+    },
+    "entryExit": {
+      "text": "Any strength: use to reduceAt current levels: avoid unless explicitly puntingKey trigger: genuine operating and financing improvement\n            Conviction Trend\n            Latest conviction: 31/100. Trend versus prior report: Flat.\n            \n              \n                \n                \n                \n                0255075100\n                2026-04-08\n              \n            \n            \n              Report dateConviction\n              2026-04-0831"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 31,
+      "band": "SELL",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 31,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

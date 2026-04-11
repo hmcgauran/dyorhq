@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "COP",
+    "company": "ConocoPhillips",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "ConocoPhillips is one of the world's largest integrated oil and gas explorers, with a low-cost production base concentrated in the Permian Basin and LNG exposure via Freeport LNG; near-term uncertainty around OPEC+ supply management and volatile crude prices keep us at HOLD."
+    },
+    "businessModel": {
+      "text": "ConocoPhillips is a global supermajor with a vertically integrated model. Key revenue streams:\n          \n            E&amp;P (Exploration &amp; Production): Produces crude oil, natural gas, and LNG across five core regions: Permian Basin (US), North Sea (UK/Norway), Gulf of Mexico, Canada, and Asia Pacific (LNG).\n            LNG (Freeport LNG): Equity stake in Freeport LNG export facility provides US natural gas access to global LNG markets; benefits from international price arbitrage.\n            Marketing &amp; Refining: Sells refined products and branded fuels internationally; smaller but stabilising influence on earnings.\n            Midstream / Infrastructure: Pipeline and infrastructure interests support core production operations and generate fee income.\n          \n          COP's competitive advantage is scale in low-cost unconventional production, particularly in the Permian, which is among the lowest breakeven basins globally."
+    },
+    "financialSnapshot": {
+      "text": "</section>\n\n        <!-- 4. Recent Catalysts -->\n        <section class=\"report-section\">",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (30% weight)\n              Crude sustains $85+ per barrel; Permian production growth accelerates per-share; LNG volumes expand; disciplined buybacks continue; EPS reaches $12+.\n              Target: $158–175\n            \n            \n              Base Case (50% weight)\n              Brent crude averages $75–80; Permian growth offsets decline elsewhere; Freeport LNG provides stable contribution; EPS ~$9.\n              Target: $120–132\n            \n            \n              Bear Case (20% weight)\n              Global recession drives crude below $65; OPEC+ flooding the market; Permian well productivity disappoints; EPS falls to $5.50; trough valuation of 7–8x earnings.\n              Target: $75\n            \n          \n          \n            Weighted Conviction Score:\n            65 / 100 — HOLD",
+      "bull": {
+        "scenario": "Bull Case (30% weight)\n              Crude sustains $85+ per barrel; Permian production growth accelerates per-share; LNG volumes expand; disciplined buybacks continue; EPS reaches $12+.\n              Target: $158–175\n            \n            <div class=\"scenario-card scenario-",
+        "probability": 30
+      },
+      "base": {
+        "scenario": "Base Case (50% weight)\n              Brent crude averages $75–80; Permian growth offsets decline elsewhere; Freeport LNG provides stable contribution; EPS ~$9.\n              Target: $120–132\n            \n            <div class=\"scenario-card scenario-",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "Bear Case (20% weight)\n              Global recession drives crude below $65; OPEC+ flooding the market; Permian well productivity disappoints; EPS falls to $5.50; trough valuation of 7–8x earnings.",
+        "probability": 20
+      }
+    },
+    "keyRisks": {
+      "text": "",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Crude oil price volatility: The single largest driver of COP earnings. A sustained $10/bbl move in Brent crude changes annual earnings by approximately $4–5bn."
+        },
+        {
+          "rank": 2,
+          "risk": "OPEC+ supply decisions: Saudi Arabia and Russia's production policy can swingsupply by millions of barrels per day, overwhelming COP's operational control."
+        },
+        {
+          "rank": 3,
+          "risk": "Geopolitical risk: Middle East escalation, Russia-Europe energy politics, and South China Sea territorial disputes all threaten supply chains and price stability."
+        },
+        {
+          "rank": 4,
+          "risk": "Energy transition: Long-term structural demand destruction from EVs and decarbonisation policies creates capital allocation uncertainty for oil majors."
+        },
+        {
+          "rank": 5,
+          "risk": "Reserve replacement: Large-cap oil companies face increasing difficulty replacing reserves at economic rates; resource base sustainability is a long-term concern."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "HOLD\n            Good company in a cyclical sector at a fair price; the oil price uncertainty and OPEC+ overhang make us cautious on near-term upside despite operational quality.\n          \n          \n            Entry / Exit Framework\n            \n              Conviction Score65 / 100 — HOLD\n              EntryBelow $108 — better risk/reward within range\n              AddBelow $95 — high conviction on crude oversupply scenario\n              Reduce / ExitAbove $135 — crude cycle premium fully captured\n              Time Horizon12–36 months"
+    },
+    "entryExit": {
+      "text": "Conviction Score: 65 / 100 — HOLD\nEntry: Below $108 — better risk/reward within range\nAdd: Below $95 — high conviction on crude oversupply scenario\nReduce / Exit: Above $135 — crude cycle premium fully captured\nTime Horizon: 12–36 months"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}
