@@ -1,21 +1,33 @@
 /* DYOR HQ — main.js v2 */
 
-(function () {
-  'use strict';
+'use strict';
 
-  const grid = document.getElementById('reports-grid');
-  if (!grid) return; // Not on homepage
+// ── Shared state ──────────────────────────────────────
+let allReports = [];
+let activeRec = 'ALL';
+let activeUniv = 'all';
+let activeExchange = '';
+let priceData = {}; // { ticker: price }
+let searchInput, filterBtns, univTabs, countEl, grid;
 
-  const searchInput = document.getElementById('search');
-  const filterBtns = document.querySelectorAll('.filter-btn[data-rec]');
-  const univTabs = document.querySelectorAll('.univ-tab[data-univ]');
-  const countEl = document.getElementById('report-count');
+// ── Detect page type ──────────────────────────────────
+const isHomepage = !!(document.getElementById('reports-grid'));
 
-  let allReports = [];
-  let activeRec = 'ALL';
-  let activeUniv = 'all';
-  let activeExchange = '';
-  let priceData = {}; // { ticker: price }
+if (isHomepage) {
+  initHomepage();
+} else {
+  // Report page — loadReport is called by the thin-shell page script
+}
+
+// ═══════════════════════════════════════════════════════
+//  HOMEPAGE
+// ═══════════════════════════════════════════════════════
+function initHomepage() {
+  grid = document.getElementById('reports-grid');
+  searchInput = document.getElementById('search');
+  filterBtns = document.querySelectorAll('.filter-btn[data-rec]');
+  univTabs = document.querySelectorAll('.univ-tab[data-univ]');
+  countEl = document.getElementById('report-count');
 
   // ─── URL State ───────────────────────────────────
   function getURLParam(key) {
@@ -24,11 +36,8 @@
   }
   function setURLParam(key, value) {
     const params = new URLSearchParams(window.location.search);
-    if (value && value !== 'all') {
-      params.set(key, value);
-    } else {
-      params.delete(key);
-    }
+    if (value && value !== 'all') { params.set(key, value); }
+    else { params.delete(key); }
     const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
     window.history.replaceState({}, '', newUrl);
   }
@@ -40,18 +49,15 @@
 
   function toggleFav(ticker) {
     const t = ticker.toUpperCase();
-    if (allFavs.includes(t)) {
-      allFavs = allFavs.filter(f => f !== t);
-    } else {
-      allFavs.push(t);
-    }
+    if (allFavs.includes(t)) { allFavs = allFavs.filter(f => f !== t); }
+    else { allFavs.push(t); }
     localStorage.setItem(FAV_KEY, JSON.stringify(allFavs));
     return allFavs.includes(t);
   }
 
   // ─── Freshness ───────────────────────────────────
-  const FRESHNESS_THRESHOLD = 0.15; // 15% price drift
-  const FRESHNESS_WINDOW_DAYS = 30;  // older than 30 days = needs review
+  const FRESHNESS_THRESHOLD = 0.15;
+  const FRESHNESS_WINDOW_DAYS = 30;
 
   function isFresh(report) {
     const livePrice = priceData[report.ticker];
@@ -73,7 +79,7 @@
     return null;
   }
 
-  // ─── Render ──────────────────────────────────────
+  // ─── Render helpers ───────────────────────────────
   const CIRC = 2 * Math.PI * 22;
 
   function recClass(rec) {
@@ -122,8 +128,7 @@
                   stroke-dashoffset="${dashOffset}"/>
               </svg>
               <div class="conviction-label" style="color:${color}">
-                ${report.conviction}
-                <small>/ 100</small>
+                ${report.conviction}<small>/ 100</small>
               </div>
             </div>
             <button class="star-btn${starred ? ' active' : ''}"
@@ -151,14 +156,12 @@
     } else {
       grid.innerHTML = reports.map(renderCard).join('');
     }
-    if (countEl) {
-      countEl.textContent = `${reports.length} of ${allReports.length}`;
-    }
+    if (countEl) countEl.textContent = `${reports.length} of ${allReports.length}`;
   }
 
   // ─── Filtering ───────────────────────────────────
   function applyFilters() {
-    const q = (searchInput ? searchInput.value.toLowerCase().trim() : '');
+    const q = searchInput ? searchInput.value.toLowerCase().trim() : '';
     let result = allReports;
 
     if (activeUniv !== 'all') {
@@ -189,7 +192,6 @@
     renderGrid(result);
   }
 
-  // ─── Universe Tab Handling ─────────────────────────
   function setUniverse(univ) {
     activeUniv = univ;
     setURLParam('universe', univ);
@@ -205,7 +207,6 @@
     tab.addEventListener('click', () => setUniverse(tab.dataset.univ));
   });
 
-  // ─── Recommendation Filter Buttons ────────────────
   filterBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       filterBtns.forEach(b => b.classList.remove('active'));
@@ -215,12 +216,8 @@
     });
   });
 
-  // Search
-  if (searchInput) {
-    searchInput.addEventListener('input', applyFilters);
-  }
+  if (searchInput) searchInput.addEventListener('input', applyFilters);
 
-  // Exchange filter
   const exchangeFilter = document.getElementById('exchange-filter');
   if (exchangeFilter) {
     exchangeFilter.addEventListener('change', () => {
@@ -229,7 +226,7 @@
     });
   }
 
-  // ─── Star Click — Event Delegation ─────────────────
+  // ─── Star click delegation ─────────────────────────
   grid.addEventListener('click', function(e) {
     const btn = e.target.closest('.star-btn');
     if (!btn) return;
@@ -242,7 +239,7 @@
     if (activeRec === 'FAVOURITES') applyFilters();
   });
 
-  // ─── FAVOURITES Button (added dynamically) ────────
+  // ─── FAVOURITES button ─────────────────────────────
   const filterGroup = document.querySelector('.filter-group');
   if (filterGroup) {
     const favBtn = document.createElement('button');
@@ -258,20 +255,18 @@
     });
   }
 
-  // ─── Load Data ────────────────────────────────────
+  // ─── Load data ────────────────────────────────────
   function loadReports() {
     return Promise.all([
       fetch('reports-index.json')
         .then(r => { if (!r.ok) throw new Error('Failed to load reports index'); return r.json(); }),
       fetch('prices.json')
-        .then(r => { if (!r.ok) throw new Error('prices.json not found — run export-prices.js'); return r.json(); })
+        .then(r => { if (!r.ok) throw new Error('prices.json not found'); return r.json(); })
         .catch(() => ({ timestamp: null, prices: {} }))
     ])
       .then(([reports, priceInfo]) => {
         allReports = reports.sort((a, b) => new Date(b.date) - new Date(a.date));
         priceData = priceInfo.prices || {};
-
-        // Restore URL state
         const urlUniv = getURLParam('universe');
         if (urlUniv) setUniverse(urlUniv);
         renderGrid(allReports);
@@ -284,7 +279,7 @@
 
   loadReports();
 
-  // ─── Methodology Toggle ─────────────────────────────
+  // ─── Methodology toggle ────────────────────────────
   const toggle = document.getElementById('methodology-toggle');
   const body = document.getElementById('methodology-body');
   if (toggle && body) {
@@ -294,11 +289,19 @@
       body.hidden = expanded;
     });
   }
+}
 
-// ─── Report Page Loader (called by thin-shell report pages) ───
-async function loadReport(ticker) {
+
+// ═══════════════════════════════════════════════════════
+//  REPORT PAGE
+// ═══════════════════════════════════════════════════════
+async function loadReport() {
+  const raw = document.body.dataset.ticker;
+  // Sanitize for filesystem: strip chars illegal in filenames, map → underscores
+  const safe = raw.replace(/[^A-Za-z0-9.\-]/g, '_').replace(/^_+|_+$/g, '');
+  const ticker = raw.toUpperCase();
   try {
-    const response = await fetch(`../reports/data/${ticker}.json`);
+    const response = await fetch(`../reports/data/${safe}.json`);
     if (!response.ok) throw new Error('Report not found');
     const data = await response.json();
     renderReport(data);
@@ -316,11 +319,9 @@ function renderReport(data) {
   const sections = data.sections;
   const scores = data.scores || {};
 
-  // Conviction colour
   const color = convictionColor(meta.conviction || 50);
   const recCls = recClass(meta.recommendation);
   const date = formatDate(meta.datePublished || meta.date);
-
 
   let html = `
     <div class="report-hero">
@@ -359,7 +360,6 @@ function renderReport(data) {
     entryExit: 'Entry / Exit Framework'
   };
 
-
   for (const key of sectionOrder) {
     const section = sections[key];
     if (!section) continue;
@@ -391,18 +391,14 @@ function renderReport(data) {
     html += `</div>`;
   }
 
-  // Sources
   if (sections.sources) {
     html += `<div class="report-section"><h2>Sources</h2>`;
-    if (sections.sources.text) {
-      html += `<p>${sections.sources.text}</p>`;
-    }
+    if (sections.sources.text) html += `<p>${sections.sources.text}</p>`;
     html += `</div>`;
   }
 
-  html += `</div></div>`; // close report-content + report-body
+  html += `</div></div>`;
 
-  // Conviction history
   const history = scores.history || [];
   if (history.length > 1) {
     html += buildConvictionHistory(scores);
@@ -436,4 +432,3 @@ function buildConvictionHistory(scores) {
   html += `</tbody></table></div></div>`;
   return html;
 }
-());
