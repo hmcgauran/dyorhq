@@ -34,8 +34,8 @@ def get_thin_shell_body(ticker):
   </main>
   <script src="../assets/js/main.js"></script>
   <script>
-    // Extract ticker from URL path — handles both /TMUS-report.html and /tmus-report (Netlify clean URL)
-    const ticker = window.location.pathname.split('/').pop().replace(/(-report)?\.html$/, '');
+    // Extract ticker from URL path — handles /TMUS-report.html and /tmus-report (Netlify strips .html)
+    const ticker = window.location.pathname.split('/').pop().replace(/-report(\.html)?$/, '').toLowerCase();
     document.addEventListener('DOMContentLoaded', () => {{
       if (typeof loadReport === 'function') {{
         loadReport(ticker);
