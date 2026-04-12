@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ticker": "ANET",
+    "company": "Arista Networks Inc",
+    "exchange": "US",
+    "isin": "US04004R1068",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 67,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Arista is one of the cleanest infrastructure beneficiaries of the AI datacentre build-out. Its high-performance cloud networking kit sits directly in the path of hyperscaler capex, and its software-led switching architecture has allowed it to take share from legacy vendors for years. At $145.26, just 0.6% below the 52-week high, the business quality is obvious but so is the valuation. The stock is not cheap at 51.6x trailing earnings, but the market is paying for premium execution, hyperscaler e"
+    },
+    "businessModel": {
+      "text": "Arista sells high-speed cloud networking equipment and network operating software to hyperscalers, cloud providers, and large enterprises. The core moat is EOS, its software layer, combined with strong positioning in high-bandwidth switching for AI clusters and modern datacentres. The business is tied to datacentre architecture spending rather than end-user hardware cycles. That gives it direct leverage to AI infrastructure deployment, but also creates customer concentration risk because a handful of hyperscalers drive a large share of revenue."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $145.26 Market cap: $181.1B 52-week range: $141.12 – $146.16 Position in range: effectively at the top P/E: 51.6x EPS: $2.75 Beta: 1.51 That is premium pricing for a premium operator. The issue is not quality. It is whether enough upside remains when the stock is already pressed against the top of its range.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "AI datacentre spending remains the primary tailwind as hyperscalers continue to expand networking fabric around GPU clusters. 400G and 800G switching demand is supporting product mix and maintaining investor confidence in the growth runway. Enterprise campus and security adjacency broaden the story beyond pure cloud switching, though the AI networking angle still dominates valuation.",
+      "items": [
+        "AI datacentre spending remains the primary tailwind as hyperscalers continue to expand networking fabric around GPU clusters.",
+        "400G and 800G switching demand is supporting product mix and maintaining investor confidence in the growth runway.",
+        "Enterprise campus and security adjacency broaden the story beyond pure cloud switching, though the AI networking angle still dominates valuation."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%): hyperscaler AI capex remains elevated through 2027, Arista keeps taking share, margins hold, and the stock pushes to $170+. Base (55%): revenue growth remains solid but moderates, hyperscaler spending normalises, and the stock stays broadly in the $135–155 range. Bear (20%): spending pauses, concentration risk bites, and the multiple compresses toward 35–40x, pulling the stock back to $110–120. Weighted conviction: 67/100. Strong business, but not a strong setup at this level.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Customer concentration: a small number of hyperscalers matter disproportionately. Multiple compression: 51.6x earnings gives little room for even a modest slowdown. Capex cyclicality: AI infrastructure demand is strong, but datacentre spend is still cyclical.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Customer concentration: a small number of hyperscalers matter disproportionately."
+        },
+        {
+          "rank": 2,
+          "risk": "Multiple compression: 51.6x earnings gives little room for even a modest slowdown."
+        },
+        {
+          "rank": 3,
+          "risk": "Capex cyclicality: AI infrastructure demand is strong, but datacentre spend is still cyclical."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: investors wanting high-quality AI infrastructure exposure without owning the semiconductor names directly. Should avoid: valuation-sensitive buyers and anyone looking for a fresh entry rather than a quality hold."
+    },
+    "recommendation": {
+      "text": "HOLD at $145.26. Arista is one of the best operators in the AI infrastructure stack, but the stock is already priced like the market knows it."
+    },
+    "entryExit": {
+      "text": "Below $130: attractive accumulation zone $130–$145: hold / selective add only Above $150: trim into strength Key trigger: evidence of sustained 800G/AI networking demand without margin erosion Conviction Trend Latest conviction: 67/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 67"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $145.26",
+        "Market Cap $181.1B",
+        "P/E 51.6x",
+        "52w High $146.16",
+        "52w Low $141.12",
+        "Beta 1.51"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

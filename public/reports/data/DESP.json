@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "ticker": "DESP.L · LN",
+    "company": "Destiny Pharma plc",
+    "exchange": "LN",
+    "isin": "GB00BXRWN847",
+    "date": "9 Apr 2026",
+    "datePublished": "2026-04-09",
+    "recommendation": "HOLD — SPECULATIVE",
+    "recommendationNote": "HOLD — SPECULATIVE",
+    "conviction": 41,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Destiny Pharma is a UK-based clinical-stage biotech focused on anti-infective drug development. Its lead asset, XF-73 , is a novel photodynamic antimicrobial agent being developed for the prevention of post-surgical bacterial infections — most notably Staphylococcus aureus (including MRSA) nasal colonisation prior to surgery. The company completed a Phase IIb clinical trial demonstrating statistically significant reduction in S. aureus nasal colonisation and is seeking a strategic partnership or"
+    },
+    "businessModel": {
+      "text": "Destiny Pharma's business model is classic biotech out-licensing. The company develops clinical-stage anti-infective assets and seeks to partner them with large pharmaceutical companies at or before Phase III — generating upfront payments, milestone payments, and royalties rather than attempting to commercialise independently. XF-73 is a cationic porphyrin photosensitiser — a molecule that absorbs light and generates reactive oxygen species (ROS) that kill bacteria on contact. When applied as a nasal spray prior to surgery, XF-73 is designed to eliminate S. aureus nasal colonisation, reducing the risk of surgical site infections that originate from the patient's own bacterial flora. The product has a novel mechanism distinct from antibiotics, which means no known antibiotic resistance cross-profile — a major potential advantage in an era of rising AMR (antimicrobial resistance). The Phase IIb trial demonstrated that XF-73 achieved its primary endpoint of statistically significant reduction in S. aureus nasal colonisation versus placebo. The data package is sufficient to support a Phase III protocol in the view of the company, though a regulatory dialogue with FDA/EMA will be required to align on the design. The company's strategy is explicitly to partner before Phase III rather than run the trial independently, which would require significant capital the company does not currently have. Beyond XF-73, Destiny maintains a pipeline of earlier-stage anti-infective programmes. These are pre-clinical and have limited near-term value without additional funding or partnership."
+    },
+    "financialSnapshot": {
+      "text": "Price: ~2.8p (estimated — live data unavailable at publication; verify before acting) Market cap: ~£12–18M (estimated, based on most recent available disclosures) Cash position: Limited — estimated at £5–10M as of most recent disclosures Burn rate: Estimated at £3–5M per annum Revenue: Nil commercial revenue; income limited to grants and any small milestone payments P/E: N/M (pre-profit) ISIN: GB00BXRWN847 Destiny Pharma is a classic pre-partnership clinical biotech. The balance sheet is thin, the burn rate is manageable in the short term, but XF-73 Phase III costs (likely £50–100M+) cannot be funded from current resources. The company's survival depends on partnership execution — either XF-73 out-licensing or a financing round. The AMR (antimicrobial resistance) thematic is increasingly relevant to large pharma, which creates a reasonable probability of a deal but no certainty on timing or terms.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Phase III partnership announcement: Any announcement of a co-development or out-licensing agreement with a major pharmaceutical company for XF-73 would be a material re-rating event. This is the primary catalyst the market is watching for. Regulatory pre-IND meetings: Any communication from FDA or EMA on the Phase III design and regulatory pathway would either validate or complicate the partnership process. AMR policy developments: The UK and US governments are actively promoting antimicrobial development through new reimbursement models (e.g., subscription-style payments for new antibiotics). Any policy advancement that makes XF-73 more commercially attractive could improve partnership terms. Financing round: Any equity raise would be dilutive but could also signal a strategic investor's due diligence, which can be a positive catalyst in itself. Competitive landscape: Any new clinical data from competing approaches to surgical site infection prevention could either validate or threaten the XF-73 opportunity.",
+      "items": [
+        "Phase III partnership announcement: Any announcement of a co-development or out-licensing agreement with a major pharmaceutical company for XF-73 would be a material re-rating event. This is the primary catalyst the market is watching for.",
+        "Regulatory pre-IND meetings: Any communication from FDA or EMA on the Phase III design and regulatory pathway would either validate or complicate the partnership process.",
+        "AMR policy developments: The UK and US governments are actively promoting antimicrobial development through new reimbursement models (e.g., subscription-style payments for new antibiotics). Any policy advancement that makes XF-73 more commercially attractive could improve partnership terms.",
+        "Financing round: Any equity raise would be dilutive but could also signal a strategic investor's due diligence, which can be a positive catalyst in itself.",
+        "Competitive landscape: Any new clinical data from competing approaches to surgical site infection prevention could either validate or threaten the XF-73 opportunity."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Probability Price Target Key Drivers Bull 20% 8p–15p Major pharma out-licensing deal for XF-73 announced with attractive terms; Phase III protocol agreed with FDA/EMA; equity raise at premium to current valuation Base 45% 2p–4p Partnership discussions ongoing but no deal announced; company manages runway while waiting; equity drifts in AIM thin trading Bear 35% 0.5p–1.5p Partnership process fails to attract major pharma interest; equity raise at heavy dilution; XF-73 programme put on hold; company restructures or seeks acquisition Weighted price target: 20% × 11.5 + 45% × 3.0 + 35% × 1.0 = 4.35p . The estimated ~2.8p sits below the base case mid-point, which means the market is pricing meaningful partnership risk at the current price. Conviction: 41/100 — HOLD. The upside scenario is genuinely compelling but the binary nature means conviction is capped.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Partnership execution risk (binary): The entire thesis rests on finding a major pharma partner willing to fund and conduct Phase III. If no partner materialises, the programme cannot advance without a highly dilutive equity raise that would likely wipe out existing shareholders. 2 Phase III cost and timeline: Even with a partner, Phase III for a surgical site infection prevention product will require thousands of patients and multiple years. The commercial value of XF-73 will not be realised for at least 5–7 years from today. 3 Cash runway: At an estimated ~£5–10M cash and ~£3–5M annual burn, the company likely has 18–24 months of runway. A partnership announcement would provide the long-term answer, but a timing mismatch between cash exhaustion and deal closure could force a distressed equity raise. 4 Regulatory risk: FDA and EMA may require additional Phase III work or non-standard endpoints for a surgical site infection prevention product. The nasal colonisation surrogate endpoint used in Phase II may not be accepted as a Phase III primary endpoint. 5 Antibiotic resistance to XF-73: While XF-73's mechanism is novel and distinct from antibiotics, there is a theoretical risk of resistance emerging to any antimicrobial agent used widely. Long-term surveillance data will be required post-approval.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1 Partnership execution risk (binary): The entire thesis rests on finding a major pharma partner willing to fund and conduct Phase III. If no partner materialises, the programme cannot advance without a highly dilutive equity raise that would likely wipe out existing shareholders."
+        },
+        {
+          "rank": 2,
+          "risk": "2 Phase III cost and timeline: Even with a partner, Phase III for a surgical site infection prevention product will require thousands of patients and multiple years. The commercial value of XF-73 will not be realised for at least 5–7 years from today."
+        },
+        {
+          "rank": 3,
+          "risk": "3 Cash runway: At an estimated ~£5–10M cash and ~£3–5M annual burn, the company likely has 18–24 months of runway. A partnership announcement would provide the long-term answer, but a timing mismatch between cash exhaustion and deal closure could force a distressed equity raise."
+        },
+        {
+          "rank": 4,
+          "risk": "4 Regulatory risk: FDA and EMA may require additional Phase III work or non-standard endpoints for a surgical site infection prevention product. The nasal colonisation surrogate endpoint used in Phase II may not be accepted as a Phase III primary endpoint."
+        },
+        {
+          "rank": 5,
+          "risk": "5 Antibiotic resistance to XF-73: While XF-73's mechanism is novel and distinct from antibiotics, there is a theoretical risk of resistance emerging to any antimicrobial agent used widely. Long-term surveillance data will be required post-approval."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Specialist biotech investors with high risk tolerance, a specific thesis around AMR and XF-73 partnership probability, and the ability to size the position appropriately for a binary outcome. Those who follow the surgical site infection prevention space and have conviction in the XF-73 Phase II data package. Should avoid: Conventional investors of any type. This is not investable under conventional frameworks — it is a binary event-driven speculation on a partnership announcement. Anyone who cannot sustain a total loss of this position should not own it."
+    },
+    "recommendation": {
+      "text": "Conviction score: 41/100 . Destiny Pharma's XF-73 is a scientifically credible, biologically differentiated anti-infective asset in a space where the unmet need is genuine and growing. The Phase II data is a genuine positive. The binding constraint is partnership execution. Until a deal is announced, the equity is a speculative hold — appropriate only for specialists. HOLD — SPECULATIVE at ~2.8p. Verify current price independently before acting. Watch specifically for: any announcement of partnership discussions, equity raise, or FDA/EMA meeting outcomes. The bull case (major pharma deal) is worth watching for, but position sizing must reflect the binary nature of the outcome. Do not add aggressively without a confirmed catalyst."
+    },
+    "entryExit": {
+      "text": "Below 2.0p: Possible accumulation zone for specialists — partnership optionality is underpriced 2.0p–4.0p: Hold zone — fair range for current pipeline status 4.0p–7.0p: Trim — deal expectations are priced in but no deal confirmed yet Above 7.0p: Take profit — substantial deal premium already in the price Key triggers: XF-73 out-licensing announcement; FDA/EMA regulatory meeting; equity raise (watch dilution); new clinical data from competitors in surgical site infection prevention Conviction Trend Latest conviction: 41/100 . Trend versus prior report: New . 0 25 50 75 100 2026-04-09 Report date Conviction 2026-04-09 41"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Market data: Live market data was not accessible at time of publication. All price and market cap figures are estimates from most recently publicly disclosed data. Users must verify current prices independently before making investment decisions.",
+        "Company disclosures: Public filings, RNS announcements (London Stock Exchange), investor presentations.",
+        "XF-73 clinical data: Phase IIb trial results as disclosed in company RNS and investor presentations.",
+        "AMR policy context: Publicly available information on UK NHS and US government AMR incentive programmes."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 41,
+      "band": "HOLD",
+      "date": "2026-04-09",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-09",
+        "score": 41,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

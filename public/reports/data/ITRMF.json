@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "ticker": "ITRMF",
+    "company": "Italmobiliare S.p.A.",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "SELL",
+    "recommendationNote": "SELL",
+    "conviction": 4,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Italmobiliare S.p.A. ADR trades at $0.01 per share, effectively implying either an extremely distressed micro-cap situation or a deeply subordinated security with no credible investment case -- SELL . SELL Conviction Score: 4/100 — SELL"
+    },
+    "businessModel": {
+      "text": "The Italmobiliare ADR at $0.01 suggests an extremely distressed situation. The parent company Italmobiliare S.p.A. is an Italian investment company historically active in concession holders, automotive distribution, and private equity. The ADR listing appears to represent an extremely thinly traded, deeply subordinated instrument. The price of $0.01 per share implies a market capitalisation of approximately $50,000-100,000, which is essentially meaningless in terms of fundamental valuation and implies that any investment would be effectively irrecoverable in the event of adverse developments."
+    },
+    "financialSnapshot": {
+      "text": "Current Price $0.01 Pink Sheets Market Cap N/A Est. via price x shares Trailing P/E N/A 12-month earnings EPS (TTM) N/A Trailing twelve months 52-Week High $0.05 -80.0% from high 52-Week Low $0.01 +100.0% from low",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "No investment-grade information is available. A $0.01 price is inconsistent with any functioning capital markets and likely reflects a combination of extreme liquidity collapse, ticker confusion, or administrative pricing anomaly."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 15 Target: $0.05 | EPS: $0.00 Liquidity is restored and price discovers a meaningful level. Any positive corporate development has outsized impact. EPS reaches breakeven. Base Case 4 Target: $0.01 | EPS: $-0.01 No credible business information available. Price remains at $0.01 in extreme illiquidity. EPS ~-$0.01. Bear Case 2 Target: $0.00 | EPS: $-0.05 Company is delisted or ceases reporting. Investment is entirely lost with no recovery mechanism. Conviction Score (Bull 30% + Base 50% + Bear 20%): 4 / 100 Reports / ITRMF ITRMF Italmobiliare S.p.A. SELL 11 April 2026 $$0.01 4 Conviction out of 100 >",
+      "bull": {
+        "scenario": "Liquidity is restored and price discovers a meaningful level. Any positive corporate development has outsized impact. EPS reaches breakeven.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "No credible business information available. Price remains at $0.01 in extreme illiquidity. EPS ~-$0.01.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Company is delisted or ceases reporting. Investment is entirely lost with no recovery mechanism.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Complete loss of investment: Investing at $0.01 per share is effectively gifting capital to the counterparty. There is no credible scenario in which a $0.01 ADR represents a sound risk-adjusted investment. #2 Liquidity trap: Once a security trades at $0.01 on OTC markets, it is functionally impossible to exit a meaningful position at any price. #3 Corporate governance: At this price level, corporate governance standards have effectively broken down. Minority shareholders have no realistic recourse. #4 Ticker confusion risk: A $0.01 price may reflect a different class of security (e.g. warrants, rights, preferred) or a ticker/corporate action anomaly rather than the underlying equity price. #5 Delisting risk: SEC enforcement actions against OTC marketing schemes frequently target tickers at sub-penny prices.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Complete loss of investment: Investing at $0.01 per share is effectively gifting capital to the counterparty. There is no credible scenario in which a $0.01 ADR represents a sound risk-adjusted investment."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 Liquidity trap: Once a security trades at $0.01 on OTC markets, it is functionally impossible to exit a meaningful position at any price."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Corporate governance: At this price level, corporate governance standards have effectively broken down. Minority shareholders have no realistic recourse."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 Ticker confusion risk: A $0.01 price may reflect a different class of security (e.g. warrants, rights, preferred) or a ticker/corporate action anomaly rather than the underlying equity price."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Delisting risk: SEC enforcement actions against OTC marketing schemes frequently target tickers at sub-penny prices."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: No investor. Under no circumstances should any investor hold ITRMF as a core or satellite position. Avoid: All investors should treat ITRMF as a toxic exposure to be exited immediately if held."
+    },
+    "recommendation": {
+      "text": "SELL Score: 4/100 ITRMF at $0.01 is not a viable investment. The price reflects either an extreme distress scenario or a data anomaly. No investment framework supports purchase at current levels. SELL. Entry Framework: SELL. No BUY entry point is appropriate at any price above $0. BUY below $0.06 HOLD $0.01-$0.06 REDUCE above $0.06"
+    },
+    "entryExit": {
+      "text": "BUY below $0.06 | HOLD $0.01-$0.06 | REDUCE above $0.06"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 4,
+      "band": "SELL",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 4,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

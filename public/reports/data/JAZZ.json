@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ticker": "JAZZ",
+    "company": "Jazz Pharmaceuticals",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 194.2,
+    "fiftyTwoWeekHigh": 200.24,
+    "fiftyTwoWeekLow": 97.5,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Jazz Pharmaceuticals (JAZZ) trades at $194.20 with moderate upside scenarios and limited downside on the downside; the base case assumes stable earnings in a normalised macroeconomic environment. Recommendation: REDUCE at $194.20."
+    },
+    "businessModel": {
+      "text": "Jazz Pharmaceuticals is a Healthcare sector company. The investment case rests on diversified revenue streams across industrial, geographic, and product dimensions. Key drivers include operational efficiency, pricing power, and capital allocation discipline."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$194.20"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "N/A"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$200.24"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$97.50"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "No major RNS filings in the trailing three to six months. Market-moving news has been limited; any re-rating will likely depend on macro conditions, sector rotation, or company-specific operational milestones."
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Weight Thesis Bull 30% Strong demand, margin expansion and multiple re-rating drive meaningful upside. Target: +30-40% from current levels. Base 50% Steady earnings growth in line with long-term averages. Target: +10-15% over 12 months. Bear 20% Margin compression, macro headwinds or sector rotation create downside risk. Target: -15-20% from current levels.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Macroeconomic sensitivity — Sector earnings are correlated with global growth, interest rates, and input cost inflation. Currency risk — GBP/EUR/USD exposure on reported revenues and costs. Competitive dynamics — Pricing pressure from peers or new entrants. Liquidity and spread risk — As a non-primary-listing Irish stock, bid/offer spreads may be wide. Regulatory and political risk — Trade policy, FDI screening, and ESG regulation affecting sector.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Macroeconomic sensitivity — Sector earnings are correlated with global growth, interest rates, and input cost inflation."
+        },
+        {
+          "rank": 2,
+          "risk": "Currency risk — GBP/EUR/USD exposure on reported revenues and costs."
+        },
+        {
+          "rank": 3,
+          "risk": "Competitive dynamics — Pricing pressure from peers or new entrants."
+        },
+        {
+          "rank": 4,
+          "risk": "Liquidity and spread risk — As a non-primary-listing Irish stock, bid/offer spreads may be wide."
+        },
+        {
+          "rank": 5,
+          "risk": "Regulatory and political risk — Trade policy, FDI screening, and ESG regulation affecting sector."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Long-term institutional investors seeking diversified industrial/technology/healthcare exposure with a value tilt. Suitable for portfolios that can tolerate moderate volatility and currency risk. Avoid: Short-term traders seeking momentum. Investors requiring high liquidity or expecting near-term catalysts."
+    },
+    "recommendation": {
+      "text": "REDUCE — Conviction: 50/100. Enter on pullbacks toward the 52-week low for better risk/reward. Reduce or exit on strength exceeding the 52-week high on volume. No explicit price target is issued; investors should size positions commensurate with conviction level and portfolio risk budget. Entry framework: Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
+    },
+    "entryExit": {
+      "text": "Accumulate on weakness below the 52-week low or on break above the 52-week high on elevated volume."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

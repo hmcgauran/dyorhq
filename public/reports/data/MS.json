@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "MS",
+    "company": "MS",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 62,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Wealth Management (advisory and brokerage fees, ~45%), Investment Banking (M&A advisory, ECM, debt underwriting, ~25%), and Institutional Securities (sales & trading, equity research, ~30%)."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Wealth Management net new assets +$200bn+ per year; fee-based revenue now 50% of div WM income E*Trade integration completed Q2 FY25 — $3.2tn in client assets Investment Banking revenue surged +26% YoY Q1 2025 on M&A and IPO pipeline MTU (Medium-term note) programme expanding into Asia retail structured products",
+      "items": [
+        "Wealth Management net new assets +$200bn+ per year; fee-based revenue now 50% of div WM income",
+        "E*Trade integration completed Q2 FY25 — $3.2tn in client assets",
+        "Investment Banking revenue surged +26% YoY Q1 2025 on M&A and IPO pipeline",
+        "MTU (Medium-term note) programme expanding into Asia retail structured products"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "72 Bull 62 Base 46 Bear 62 Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1. Balance-sheet sensitive to Q3/Q4 2026 rate volatility if Fed resumes hiking 2. Wealth-management front-book revenue depends on equity market levels 3. E*Trade retail client base is lower-margin and rate-sensitive (cash drag) 4. Credit quality in investment bank's leveraged loan book — potential deterioration in stress scenario 5. Technology spend: platform rebuild costing $800M incremental annually through FY26",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. Balance-sheet sensitive to Q3/Q4 2026 rate volatility if Fed resumes hiking"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Wealth-management front-book revenue depends on equity market levels"
+        },
+        {
+          "rank": 3,
+          "risk": "3. E*Trade retail client base is lower-margin and rate-sensitive (cash drag)"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Credit quality in investment bank's leveraged loan book — potential deterioration in stress scenario"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Technology spend: platform rebuild costing $800M incremental annually through FY26"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Wealth-management secular growth thesis combined with investment-banking cyclical upside. Hybrid bank-technology positioning. NOT suitable for pure rate-squeeze plays or investors needing margin expansion clarity in near term."
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Accumulate at $160–$172 (10–15% from 52-week low). HOLD $172–$190. REDUCE above $190. Track: wealth management net new assets and investment banking fee trends. | Accumulate at $160–$172 (10–15% from 52-week low). | REDUCE above $190."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

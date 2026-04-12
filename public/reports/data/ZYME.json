@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ticker": "ZYME",
+    "company": "Zymeworks Inc",
+    "exchange": "US",
+    "isin": "US98985Y1082",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD — SPECULATIVE",
+    "recommendationNote": "HOLD — SPECULATIVE",
+    "conviction": 60,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Zymeworks is a clinical-stage oncology name with a real scientific platform and the usual biotech caveat: nothing matters more than data. At $26.70, with a market cap around $1.94B and still loss-making, the stock sits in the familiar zone where platform promise is investable only if you accept binary clinical risk. Bottom line: HOLD — SPECULATIVE . Credible biotech optionality, but still fundamentally a catalyst trade."
+    },
+    "businessModel": {
+      "text": "Zymeworks develops antibody-based therapeutics in oncology, aiming to create value through internal pipeline progress, partnerships and licensing. This is not a cash-flow business yet. It is a platform and clinical execution story. The moat comes from scientific quality and pipeline breadth if validated in the clinic. Until then, valuation remains fragile and event-driven."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $26.70 Market cap: $1.94B Day range available: $25.90 – $26.88 P/E: N/A EPS: -$1.08 Beta: 1.21",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Pipeline data remains the core driver of value. Partner validation would significantly improve market confidence. Biotech sentiment is improving selectively, but stock-specific data still dominate.",
+      "items": [
+        "Pipeline data remains the core driver of value.",
+        "Partner validation would significantly improve market confidence.",
+        "Biotech sentiment is improving selectively, but stock-specific data still dominate."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%): strong clinical readouts and partnership validation rerate the stock sharply. Base (50%): steady progress but no decisive de-risking, leaving the shares range-bound. Bear (25%): clinical disappointment or timeline slippage materially damages the case. Weighted conviction: 60/100.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Clinical risk: the main risk, by far. Funding risk: biotech always carries capital-market sensitivity. Event volatility: valuation can move violently around data.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Clinical risk: the main risk, by far."
+        },
+        {
+          "rank": 2,
+          "risk": "Funding risk: biotech always carries capital-market sensitivity."
+        },
+        {
+          "rank": 3,
+          "risk": "Event volatility: valuation can move violently around data."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: biotech investors comfortable underwriting binary data risk. Should avoid: anyone looking for stable fundamentals or low volatility."
+    },
+    "recommendation": {
+      "text": "HOLD — SPECULATIVE at $26.70. Worth watching and possibly holding small, but still a data-led risk asset."
+    },
+    "entryExit": {
+      "text": "Below $22: more attractive $22–$28: hold zone Above $30 without major data improvement: trim Key trigger: clearly positive clinical data Conviction Trend Latest conviction: 60/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 60"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $26.70",
+        "Market Cap $1.94B",
+        "EPS -$1.08",
+        "Day High $26.88",
+        "Day Low $25.90",
+        "Beta 1.21"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 60,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 60,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

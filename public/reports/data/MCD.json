@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ticker": "MCD",
+    "company": "MCD",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 56,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from franchise royalties (45% of systemwide sales), company-operated restaurant sales (35%), and Other (Prima, McPlant, delivery commissions, ~20%). 93% of global restaurants are franchisee-owned."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Mobile app and loyalty programme: 37M US members, 25% of systemwide sales CosMc's small-format brand launched 2024 — targeting daypart expansion Alliance Partner platform (Uber Eats, Google, Tiktok) expanding international reach US menu simplification: 30% fewer SKUs → kitchen throughput improvement",
+      "items": [
+        "Mobile app and loyalty programme: 37M US members, 25% of systemwide sales",
+        "CosMc's small-format brand launched 2024 — targeting daypart expansion",
+        "Alliance Partner platform (Uber Eats, Google, Tiktok) expanding international reach",
+        "US menu simplification: 30% fewer SKUs → kitchen throughput improvement"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "66 Bull 56 Base 42 Bear 56 Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1. US comp-sales turn negative in Q3 FY25 — traffic remains below pre-COVID levels 2. $5 meal deal was commercially necessary but structurally damages brand equity 3. Commodity and labour inflation: restaurant margin 18.2% vs 21.5% pre-inflation era 4. Wages: US median hourly rate up 20% since 2021 — structural cost headwind 5. Tariffs on imported produce and packaging (~$900M exposure)",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. US comp-sales turn negative in Q3 FY25 — traffic remains below pre-COVID levels"
+        },
+        {
+          "rank": 2,
+          "risk": "2. $5 meal deal was commercially necessary but structurally damages brand equity"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Commodity and labour inflation: restaurant margin 18.2% vs 21.5% pre-inflation era"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Wages: US median hourly rate up 20% since 2021 — structural cost headwind"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Tariffs on imported produce and packaging (~$900M exposure)"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Defensive consumer-staples trade for balanced portfolios. Strong brand and global franchise provide FCF floor. NOT suitable for growth investors; turnaround narrative requires patience and execution proof."
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Build position $295–$310. HOLD $310–$328. REDUCE above $328. Track: US comparable sales and monthly traffic data. Key inflection: Q4 FY25 comp normalisation. | BUY: Build position $295–$310. | REDUCE above $328."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 56,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 56,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

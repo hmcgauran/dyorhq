@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ticker": "TGT",
+    "company": "Target Corp",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 56,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 121.89,
+    "marketCap": 55200000000.0,
+    "marketCapFormatted": "$55.20B",
+    "trailingPE": 14.99,
+    "trailingEps": 8.13,
+    "fiftyTwoWeekHigh": 126.0,
+    "fiftyTwoWeekLow": 83.44,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Target's omni-channel retail model and owned-brand portfolio are genuine strengths, and the 14.99x P/E is modest relative to normalised earnings, but the company has struggled with inventory management and consumer spending sensitivity — HOLD."
+    },
+    "businessModel": {
+      "text": "Target operates approximately 1,900 full-line department stores across the United States, complemented by a substantial digital presence (Target.com, same-day delivery via Shipt, Drive Up, in-store pickup). The company's owned brands (Cat & Jack, Good & Gather, Hearth & Hand, All in Motion) drive category differentiation and higher margins than national brands. Target's beauty, home, apparel and essentials categories are the core traffic drivers. Revenue is generated through merchandise sales and, to a lesser extent, credit card revenues via a partnership with TD Bank."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$121.89"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$55.2 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "14.99x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$8.13"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$126"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$83.44"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Target has been executing a multi-year inventory management improvement programme following the 2022 theft incident that required significant markdowns. The owned-brand portfolio has been expanded and repositioned upmarket. The company has invested heavily in supply chain and fulfilment capabilities (sortation centres, micro-fulfilment). Target Circle loyalty programme has reached over 100 million members, providing valuable purchase data. However, consumer spending in the low-mid income bracket has been pressured, and Target has not fully escaped the cyclical retail headwind."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (68): Consumer spending stabilises at current levels. Target's owned-brand growth drives margin improvement above historical averages. The inventory management programme eliminates the markdown volatility that has weighed on margins.EPS reaches $10.50+. Price: $145+. Base Case (55): Consumer spending is steady but not strong. Owned brands grow share but national brand competition limits margin expansion. Inventory remains manageable. The loyalty programme drives incremental traffic. EPS grows to $8.50–$9.50. Price: $118–$132. Bear Case (38): Consumer spending deteriorates, particularly in low-mid income brackets where Target is overweight. Inventory build-up returns, requiring elevated markdowns. Competitive pressure from Walmart and dollar format intensifies. Free cash flow compression. EPS falls to $7.00–$7.50. Price: below $90. Weighted Score: 56 — Bull 68 × 30% + Base 55 × 50% + Bear 38 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Consumer spending sensitivity: Target is heavily exposed to the US low-to-mid income consumer. A sustained consumer slowdown or recession disproportionately affects discretionary retail traffic and basket size. Inventory management: The 2022 theft and subsequent markdown cycle highlighted the operational risk in Target's inventory management. A recurrence would significantly impair margins and free cash flow. Competitive pressure: Walmart's aggressive pricing and improving retail experience, Amazon's delivery speed, and dollar store expansion collectively pressure Target's value proposition. Capital intensity: Target's multi-year supply chain investment (sortation centres, store remodels, loyalty technology) is capital intensive. Returns on this investment are not guaranteed.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Consumer spending sensitivity: Target is heavily exposed to the US low-to-mid income consumer. A sustained consumer slowdown or recession disproportionately affects discretionary retail traffic and basket size."
+        },
+        {
+          "rank": 2,
+          "risk": "Inventory management: The 2022 theft and subsequent markdown cycle highlighted the operational risk in Target's inventory management. A recurrence would significantly impair margins and free cash flow."
+        },
+        {
+          "rank": 3,
+          "risk": "Competitive pressure: Walmart's aggressive pricing and improving retail experience, Amazon's delivery speed, and dollar store expansion collectively pressure Target's value proposition."
+        },
+        {
+          "rank": 4,
+          "risk": "Capital intensity: Target's multi-year supply chain investment (sortation centres, store remodels, loyalty technology) is capital intensive. Returns on this investment are not guaranteed."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Omni-channel retail investors who appreciate Target's owned-brand strategy and loyalty programme moat. Value-oriented investors who see the 14.99x P/E as undemanding."
+    },
+    "recommendation": {
+      "text": "HOLD. Target is a competent omni-channel retailer with genuine owned-brand strengths. The valuation at 14.99x P/E is modest, but the company has not demonstrated the operational consistency to command a sustained re-rating. Entry framework: BUY below $90 (approximately 10–11x base-case EPS — a genuine value entry for a turnaround story). Reduce above $120 (16x+ P/E for a cyclically challenged retailer with no clear re-rating catalyst)."
+    },
+    "entryExit": {
+      "text": "BUY below $90 (approximately 10–11x base-case EPS — a genuine value entry for a turnaround story). Reduce above $120 (16x+ P/E for a cyclically challenged retailer with no clear re-rating catalyst). | Entry framework: BUY below $90 (approximately 10–11x base-case EPS — a genuine value entry for a turnaround story). | Reduce above $120 (16x+ P/E for a cyclically challenged retailer with no clear re-rating catalyst)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 56,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 56,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

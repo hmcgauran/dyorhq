@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ticker": "NEE",
+    "company": "NEE",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 58,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Florida Power & Light (regulated utility, ~55%), NextEra Energy Resources (merchant renewables, ~30%), and Clean Energy (battery storage, LNG terminals, ~15%). Regulated return on equity model."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Installed renewable capacity 60GW+; pipeline extended by 20GW new contracts FY25 Manatee terminal (LNG) on track for commissioning Q4 FY26 Florida Public Service Commission approved rate case increase of $450M annual revenue New battery storage projects (3.2GW) coming online through 2026-27",
+      "items": [
+        "Installed renewable capacity 60GW+; pipeline extended by 20GW new contracts FY25",
+        "Manatee terminal (LNG) on track for commissioning Q4 FY26",
+        "Florida Public Service Commission approved rate case increase of $450M annual revenue",
+        "New battery storage projects (3.2GW) coming online through 2026-27"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "68 Bull 58 Base 42 Bear 58 Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1. Multiple equity raises completed FY25: ~$4bn dilution to existing shareholders 2. PACE (popular incentive programme) policy changes could reduce distributed solar demand 3. Hurricane and extreme-weather exposure: FPL grid hardening capex offsets rate base 4. Natural gas storage and LNG trading margin sensitivity to Henry Hub price volatility 5. Regulatory lag in cost recovery for transmission interconnection queue delays",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. Multiple equity raises completed FY25: ~$4bn dilution to existing shareholders"
+        },
+        {
+          "rank": 2,
+          "risk": "2. PACE (popular incentive programme) policy changes could reduce distributed solar demand"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Hurricane and extreme-weather exposure: FPL grid hardening capex offsets rate base"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Natural gas storage and LNG trading margin sensitivity to Henry Hub price volatility"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Regulatory lag in cost recovery for transmission interconnection queue delays"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Clean-energy infrastructure play on energy-transition long-term theme. Regulated utility with contracted renewables. NOT suitable for investors requiring high growth, those sensitive to equity dilution, or those needing near-term total return."
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Average in at $80–$86 (10–15% below 52-week high). HOLD $86–$94. REDUCE above $94. Watch: LNG terminal commissioning timeline and FPL rate case progress. | BUY: Average in at $80–$86 (10–15% below 52-week high). | REDUCE above $94."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

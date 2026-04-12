@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "MDT",
+    "company": "Medtronic plc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 63,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Medtronic's dominant medical device franchise faces a credible recovery path through Hugo surgical robotics, pulse field ablation in cardiac care and an improving diabetes pipeline, but the pace of normalisation does not justify re-rating from current levels -- HOLD . HOLD Conviction Score: 63/100 — HOLD"
+    },
+    "businessModel": {
+      "text": "Medtronic is the world's largest medical device company, operating across four segments: Cardiovascular (~35% of revenues), Medical Surgical (~24%), Neuroscience (~28%), and Diabetes (~11%). Key franchises include pacemakers and ICDs (cardiac rhythm management), coronary stents and balloons, MiniMed insulin pumps, Hugo surgical robotics, spinal implants, and nerve stimulation devices. The business is characterised by high switching costs (implanted devices create long-term patient and clinician relationships), strong pricing power under DRG systems in the US, and substantial R&D requirements that act as a moat. Revenues: ~35% US, ~25% Europe, ~25% Asia-Pacific, ~15% Other. The mix of capital equipment, implantables and recurring consumables provides some balance against procedure volume cycles."
+    },
+    "financialSnapshot": {
+      "text": "Market Cap $112.0B NYSE Trailing P/E 24.36x 12-month earnings EPS (TTM) $3.58 Trailing twelve months 52-Week High $106.33 -18.0% from high 52-Week Low $79.93 From low: +9.1% vs 52-Week High -18.0% Distance to high",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "The FDA warning letter for the Northridge diabetes facility has been resolved, ending a multi-year headwind. The Hugo surgical robot has received CE Mark and Japan regulatory approval, gaining procedures in Europe and Asia. Pulse field ablation (PFA) for atrial fibrillation is a breakthrough technology where Medtronic is investing heavily -- PFA is faster and safer than traditional thermal ablation and is considered the fastest-growing segment in electrophysiology. Recent Q3 FY2025 results showed improving revenue growth (low-mid single digit) as supply normalisation accelerates. Management guided to improved momentum in FY2026. The next-generation MiniMed 780G insulin pump continues to gain patients, and the company has a significant pipeline in CGM (continuous glucose monitoring)."
+    },
+    "thesisEvaluation": {
+      "text": "Reports / MDT MDT Medtronic plc HOLD 11 April 2026 $$87.21 63 Conviction out of 100 >",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Supply chain recovery timing: The FDA warning letter has been lifted, but rebuilding channel inventory and clinician confidence takes time. Revenue headwinds may persist through FY2026. #2 Diabetes franchise competition: Insulet, Tandem Diabetes and Dexcom are gaining share in the insulin pump and CGM market. Medtronic's MiniMed 780G is competitive but not clearly superior. #3 PFA competition: Boston Scientific's FARAPULSE has a significant head start in Europe and the US. Abbott also has a PFA programme. Medtronic's competitive position is credible but not yet proven. #4 China volume and geopolitical risk: Post-tender pricing pressure and volume growth in China are uncertain amid geopolitical tensions and domestic competition from local manufacturers. #5 Litigation exposure: Medtronic has faced product liability litigation that creates unpredictable financial risk.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Supply chain recovery timing: The FDA warning letter has been lifted, but rebuilding channel inventory and clinician confidence takes time. Revenue headwinds may persist through FY2026."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 Diabetes franchise competition: Insulet, Tandem Diabetes and Dexcom are gaining share in the insulin pump and CGM market. Medtronic's MiniMed 780G is competitive but not clearly superior."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 PFA competition: Boston Scientific's FARAPULSE has a significant head start in Europe and the US. Abbott also has a PFA programme. Medtronic's competitive position is credible but not yet proven."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 China volume and geopolitical risk: Post-tender pricing pressure and volume growth in China are uncertain amid geopolitical tensions and domestic competition from local manufacturers."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Litigation exposure: Medtronic has faced product liability litigation that creates unpredictable financial risk."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Long-term healthcare investors seeking broad medical device quality with a dividend (~3.1% yield). The recovery narrative and new product cycle provide a credible path to improved revenue growth. Avoid: Investors seeking high-growth medtech or diabetes pure-plays will prefer smaller, faster-growing competitors. Those requiring near-term earnings momentum will be frustrated."
+    },
+    "recommendation": {
+      "text": "HOLD Score: 63/100 Medtronic is a recovery story with genuine assets. The new product cycle (Hugo, PFA, MiniMed 780G) is credible. However, the recovery has been slower than hoped and the stock offers a neutral risk-reward. HOLD. Entry Framework: BUY below $78 (historically cheap for Medtronic). Reduce above $100. HOLD in the $78-$100 range. BUY below $63 HOLD $$84-$103 REDUCE above $113"
+    },
+    "entryExit": {
+      "text": "BUY below $63 | HOLD $$84-$103 | REDUCE above $113"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 63,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 63,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ticker": "WMT",
+    "company": "WMT",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Walmart's relentless omnichannel expansion and membership traction underpin a solid if richly valued base case, with tariff sensitivity and US consumer stress the primary downside vectors."
+    },
+    "businessModel": {
+      "text": "Walmart operates across three segments: US Walmart (general merchandise, groceries, sundries across ~4,600 stores); Sam's Club (membership-only warehouse clubs); and Walmart International (operations in 19 countries including Flipkart in India and Asda in the UK). Revenue is generated through retail sales, e-commerce marketplace fees, advertising income, and membership subscriptions (Walmart+ at $12.95/month). Grocery is the anchor category, representing approximately 60% of US net sales, providing defensive, high-frequency traffic that drives basket completion in higher-margin general merchandise."
+    },
+    "financialSnapshot": {
+      "text": "Price $126.79 Market Cap $1.01tn P/E Ratio 46.46 EPS (TTM) $2.73 52w High $134.69 5.9% from high 52w Low $90.01 40.9% above low Volume (avg) 13.9m",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Walmart+ membership surpassed 50 million members in Q4 FY2025 (ended Jan 2025), driving recurring subscription revenue and higher basket frequency. E-commerce and curbside pickup growth of approximately 23% YoY in FY2025, with marketplace third-party seller mix expanding margins. Acquisition of Vizio completed in FY2025, adding advertising platform revenue (Walmart Connect) with high-margin programmatic ad dollars. India operations (Flipkart) reached profitability for the first time in FY2025, unlocking significant embedded optionality. US consumer shift from traditional grocery toward Walmart's value proposition accelerated in Q1 2026 amid tariff-driven inflation.",
+      "items": [
+        "Walmart+ membership surpassed 50 million members in Q4 FY2025 (ended Jan 2025), driving recurring subscription revenue and higher basket frequency.",
+        "E-commerce and curbside pickup growth of approximately 23% YoY in FY2025, with marketplace third-party seller mix expanding margins.",
+        "Acquisition of Vizio completed in FY2025, adding advertising platform revenue (Walmart Connect) with high-margin programmatic ad dollars.",
+        "India operations (Flipkart) reached profitability for the first time in FY2025, unlocking significant embedded optionality.",
+        "US consumer shift from traditional grocery toward Walmart's value proposition accelerated in Q1 2026 amid tariff-driven inflation."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case $155 Upside: +22% | Weight: 30% Base Case $135 Upside: +6% | Weight: 50% Bear Case $100 Downside: -21% | Weight: 20% Walmart's combination of grocery dominance, e-commerce acceleration, and advertising monetisation creates a diversified revenue stack. The Vizio deal adds a high-margin revenue line that should compound. The primary concern is multiple compression if tariff-driven cost inflation erodes consumer purchasing power, hitting discretionary sales.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Tariff-driven cost inflation squeezes supplier margins and could force price increases that alienate value-sensitive shoppers, hitting same-store sales. 2 US consumer stress deepens as excess savings deplete and credit delinquencies rise, disproportionately impacting Walmart's core low-income shopper base. 3 Intense competition from Target, Amazon, and dollar-format retailers (Dollar General, Dollar Tree) for the value-conscious consumer. 4 Labour cost escalation from federal minimum wage pressure and unionisation campaigns in California and other states. 5 International operations in volatile markets (Argentina, India, South Africa) create currency and regulatory exposure.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1"
+        },
+        {
+          "rank": 2,
+          "risk": "2"
+        },
+        {
+          "rank": 3,
+          "risk": "3"
+        },
+        {
+          "rank": 4,
+          "risk": "4"
+        },
+        {
+          "rank": 5,
+          "risk": "5"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Long-term income and stability investors seeking defensive retail exposure; ESG-mandated institutional holders; inflation-hedging portfolios. | Avoid: You require deep value (P/E of 46x is elevated for retail); you want pure e-commerce exposure without legacy store drag; you are near retirement and cannot tolerate drawdowns."
+    },
+    "recommendation": {
+      "text": "HOLD Accumulate on pullbacks toward $115-$120 (roughly 52-week mid-range). Full position justified at or below $108. Reduce if P/E expands above 52x or if same-store sales miss consensus by 150bps+ in two consecutive quarters."
+    },
+    "entryExit": {
+      "text": "Accumulate on pullbacks toward $115-$120 (roughly 52-week mid-range). | Full position justified at or below $108."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

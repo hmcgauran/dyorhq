@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "ticker": "PRTA",
+    "company": "Prothena Corporation plc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 45,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Prothena Corporation plc is a clinical-stage biotech company with a focused but risky pipeline of amyloid-targeting therapies, trading at a below-$1B valuation with limited cash runway and binary read-outs ahead -- REDUCE . REDUCE Conviction Score: 45/100 — REDUCE"
+    },
+    "businessModel": {
+      "text": "Prothena Corporation plc is a Dublin-headquartered clinical-stage biotech company developing novel therapies for diseases involving protein misfolding, particularly amyloid diseases. Lead pipeline: birapatarn (AL amyloid), birtamimab (amyloid, in earlier-stage development), and a pre-clinical tau programme for neurodegenerative diseases. Prothena's lead indication is AL amyloidosis, a rare disease caused by misfolded light chain proteins deposited in organs including the heart and kidneys. The addressable market is small but the unmet need is high. As a clinical-stage company, Prothena has no marketed products and generates no product revenues. The company funds operations through partnership revenues (from Roche on the birtamimab programme) and its existing cash reserves. Cash runway is the primary operational constraint at this stage."
+    },
+    "financialSnapshot": {
+      "text": "Current Price $10.50 NASDAQ Market Cap $600M Est. via price x shares Trailing P/E N/A 12-month earnings EPS (TTM) $-0.42 Trailing twelve months 52-Week High $18.00 -41.7% from high 52-Week Low $7.00 +50.0% from low",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Prothena announced the readout of its VITAL amyloidosis trial for birinpavilion, but the data read-out had mixed results, creating regulatory uncertainty. The FDA's decision on the regulatory pathway for birinpavilion is expected in the next 12-18 months -- a binary catalyst. Prothena has received a $15M milestone payment from Roche related to the birtamimab programme. Partnership conversations for the pre-clinical tau programme are ongoing. Recent quarterly results showed cash burn of approximately $20M per quarter, providing approximately 6-8 quarters of runway from current cash balances."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 65 Target: $18.00 | EPS: $-0.50 FDA approves birinpavilion for AL amyloidosis (conditional approval or priority review). Roche partnership expands to include tau programme. Birinpavilion peak sales potential of $500M+ in US. EPS approaches breakeven. Base Case 45 Target: $11.00 | EPS: $-0.80 FDA requires additional trial data before approval. Partnership revenues remain modest. EPS remains deeply negative. Reports / PRTA PRTA Prothena Corporation plc REDUCE 11 April 2026 $$10.50 45 Conviction out of 100 >",
+      "bull": {
+        "scenario": "FDA approves birinpavilion for AL amyloidosis (conditional approval or priority review). Roche partnership expands to include tau programme. Birinpavilion peak sales potential of $500M+ in US. EPS approaches breakeven.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "FDA requires additional trial data before approval. Partnership revenues remain modest. EPS remains deeply negative. Reports / PRTA",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Binary clinical and regulatory risk: Clinical-stage biotech has inherently binary outcomes. A failed trial or regulatory rejection would cause a catastrophic share price decline. #2 Cash runway and financing risk: Prothena is burning cash at ~$20M per quarter with no product revenues. Any unexpected delay in milestone payments or regulatory rejection would force a dilutive financing. #3 Partnership dependency: Prothena's financial sustainability depends on the continuation of the Roche partnership for birtamimab. Any termination would accelerate cash burn. #4 Competitive landscape in amyloid: AL ny amyloidosis is being targeted by multiple companies. Any competitive entrant gaining approval first would capture the addressable market. #5 Clinical trial execution risk: Prothena's trials are conducted with small patient populations due to the rarity of the indication. Any enrolment delays or protocol amendments could delay data read-outs by years.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Binary clinical and regulatory risk: Clinical-stage biotech has inherently binary outcomes. A failed trial or regulatory rejection would cause a catastrophic share price decline."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 Cash runway and financing risk: Prothena is burning cash at ~$20M per quarter with no product revenues. Any unexpected delay in milestone payments or regulatory rejection would force a dilutive financing."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Partnership dependency: Prothena's financial sustainability depends on the continuation of the Roche partnership for birtamimab. Any termination would accelerate cash burn."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 Competitive landscape in amyloid: AL ny amyloidosis is being targeted by multiple companies. Any competitive entrant gaining approval first would capture the addressable market."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Clinical trial execution risk: Prothena's trials are conducted with small patient populations due to the rarity of the indication. Any enrolment delays or protocol amendments could delay data read-outs by years."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Speculative biotech investors with high risk tolerance who understand clinical-stage pipeline binary outcomes and have a long investment horizon. Avoid: All institutional investors, risk-averse investors, and any investors who cannot tolerate binary clinical outcomes or potential total loss of investment."
+    },
+    "recommendation": {
+      "text": "REDUCE Score: 45/100 Prothena is a speculative clinical-stage biotech with a focused but risky pipeline in amyloid diseases. The binary nature of the upcoming FDA decision, combined with cash runway constraints, makes the risk-reward at $10.50 unfavourable for all but the highest-risk-tolerant investors. REDUCE. Entry Framework: REDUCE at current levels ($10.50). BUY only below $6 on explicit negative news (e.g. trial failure) that overshoots the price. BUY below $18.90 HOLD $11.55-$18.90 REDUCE above $18.90"
+    },
+    "entryExit": {
+      "text": "BUY below $18.90 | HOLD $11.55-$18.90 | REDUCE above $18.90"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 45,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 45,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

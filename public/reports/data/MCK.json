@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ticker": "MCK",
+    "company": "MCK",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "McKesson's dominant position as the largest US pharmaceutical distributor, combined with accelerating specialty pharmacy growth and robust essential medicines demand, supports a solid hold in a defensive sector with limited downside."
+    },
+    "businessModel": {
+      "text": "McKesson is the largest pharmaceutical distributor in North America and globally, handling approximately 40% of all pharmaceuticals prescribed in the United States. The company operates across two primary segments: (1) US Pharmacy Solutions (dispenses and distributes prescription drugs, over-the-counter products, and health and beauty items to retail chains, independent pharmacies, and health systems); and (2) Medical-Surgical Solutions (distributes medical-surgical supplies, equipment, and gloves to physicians, laboratories, and hospitals). A key growth driver is its Oncology Services platform (US Oncology Network) and specialty pharmacy capabilities, which handle high-value, high-margin biologics and gene therapies. McKesson also owns a controlling interest in Clearroad logistics (consumer health)."
+    },
+    "financialSnapshot": {
+      "text": "Price $865.6 Market Cap $106.0bn P/E Ratio 24.9 EPS (TTM) $34.76 52w High $999 13.4% from high 52w Low $637 35.9% above low Volume (avg) 0.6m",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Specialty pharmacy revenue grew 16% YoY in FY2025 (ended March 2025), driven by oncology and immunology biologics handling growth. US Oncology Network now covers 4,800 oncologists across 40 states, providing recurring revenue from practice management services. WIN rs (Weighing Interests in Pharma) contract renegotiations concluded favourably in FY2025, improving per-prescription economics. FDA approval pipeline for specialty biologics expected to be the highest on record in 2026-27, directly expanding McKesson's handling revenue. Controlled substance (Schedule II) distribution security contracts renewed with major health systems through FY2028.",
+      "items": [
+        "Specialty pharmacy revenue grew 16% YoY in FY2025 (ended March 2025), driven by oncology and immunology biologics handling growth.",
+        "US Oncology Network now covers 4,800 oncologists across 40 states, providing recurring revenue from practice management services.",
+        "WIN rs (Weighing Interests in Pharma) contract renegotiations concluded favourably in FY2025, improving per-prescription economics.",
+        "FDA approval pipeline for specialty biologics expected to be the highest on record in 2026-27, directly expanding McKesson's handling revenue.",
+        "Controlled substance (Schedule II) distribution security contracts renewed with major health systems through FY2028."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case $1,050 Upside: +21% | Weight: 30% Base Case $930 Upside: +7% | Weight: 50% Bear Case $780 Downside: -10% | Weight: 20% McKesson is a high-quality essential-services business with significant barriers to entry (licensing, infrastructure, scale). The specialty pharmacy transition is the most important long-term variable — as more drugs migrate from retail to specialty (particularly oncology and rare disease), McKesson's handling fees and associated services revenue should grow well above GDP. The P/E of 24.9x is reasonable for the defensive nature of the business and consistent mid-teens earnings growth.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Regulatory and legal risk related to opioid litigation — McKesson faces ongoing civil suits from states and municipalities; maximum potential liability is significant though reserves have been established. 2 Pharmaceutical manufacturer consolidation reduces the number of supplier relationships and potentially pressures distribution margins. 3 Drug pricing reform (IRA impact on Part D) could reduce brand medicine volumes and therefore distribution throughput. 4 Generic drug price deflation (particularly for diabetes/obesity generics) compresses distribution revenue per unit. 5 IT and cybersecurity risk — a significant data breach could disrupt pharmaceutical supply chain operations and invite regulatory penalties.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1"
+        },
+        {
+          "rank": 2,
+          "risk": "2"
+        },
+        {
+          "rank": 3,
+          "risk": "3"
+        },
+        {
+          "rank": 4,
+          "risk": "4"
+        },
+        {
+          "rank": 5,
+          "risk": "5"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Defensive healthcare investors; those seeking inflation-resilient essential services exposure; dividend growth investors. | Avoid: You require a dividend yield above 2% (MCK yields approximately 0.7%); you want high-growth technology exposure; you are concerned about opioid litigation tail risk."
+    },
+    "recommendation": {
+      "text": "HOLD HOLD. Long-term accumulation on dips below $780 (5-year average support). The opioid litigation overhang creates uncertainty but is already partially priced in. Appropriate as a 1-2% portfolio position in healthcare mandates."
+    },
+    "entryExit": {
+      "text": "Long-term accumulation on dips below $780 (5-year average support)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

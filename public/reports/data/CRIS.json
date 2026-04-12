@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "CRIS",
+    "company": "Curis Inc",
+    "exchange": "US",
+    "isin": "US2312693094",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "REDUCE — SPECULATIVE",
+    "recommendationNote": "REDUCE — SPECULATIVE",
+    "conviction": 40,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Curis is a small-cap oncology biotech with the usual combination of scientific optionality and financial fragility. At $0.5535 with a market cap of about $20.8M and negative EPS of -$1.20, the equity is deep in speculative territory. These names can bounce hard on data, but the base case is still dominated by funding and clinical risk. Bottom line: REDUCE — SPECULATIVE . Only worth holding small if you deliberately want binary biotech exposure."
+    },
+    "businessModel": {
+      "text": "Curis develops oncology therapeutics. Like most micro-cap biotechs, the value proposition is built around clinical milestones and partnership or regulatory progress rather than current operations. That makes the stock highly sensitive to data quality and funding conditions."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $0.5535 Market cap: $20.8M Day range: $0.5404 – $0.5956 P/E: N/A EPS: -$1.20 Beta: 3.28",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Clinical updates remain the whole story. Funding conditions for micro-cap biotech remain difficult. Price behaviour is consistent with a market assigning low certainty to the pipeline.",
+      "items": [
+        "Clinical updates remain the whole story.",
+        "Funding conditions for micro-cap biotech remain difficult.",
+        "Price behaviour is consistent with a market assigning low certainty to the pipeline."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (20%): positive data or a partnership rerates the stock sharply. Base (45%): continued uncertainty leaves the stock drifting as a binary biotech stub. Bear (35%): financing or data disappointment pressures the equity further. Weighted conviction: 40/100.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Clinical risk: by far the biggest issue. Funding risk: micro-cap biotech capital is hard to secure on good terms. Dilution risk: likely if development continues.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Clinical risk: by far the biggest issue."
+        },
+        {
+          "rank": 2,
+          "risk": "Funding risk: micro-cap biotech capital is hard to secure on good terms."
+        },
+        {
+          "rank": 3,
+          "risk": "Dilution risk: likely if development continues."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: only biotech specialists comfortable with binary outcomes. Should avoid: anyone seeking investable quality or downside protection."
+    },
+    "recommendation": {
+      "text": "REDUCE — SPECULATIVE at $0.5535. There may be event upside, but the baseline is still too fragile."
+    },
+    "entryExit": {
+      "text": "Only with tiny size: if taking clinical-event risk Any sharp spike on data: reassess quickly Key trigger: clearly positive clinical data and funding clarity Conviction Trend Latest conviction: 40/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 40"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $0.5535",
+        "Market Cap $20.8M",
+        "EPS -$1.20",
+        "Day High $0.5956",
+        "Day Low $0.5404"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 40,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 40,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

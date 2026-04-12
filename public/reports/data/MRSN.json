@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "MRSN · US",
+    "company": "Mission Ready Solutions Inc",
+    "exchange": "US",
+    "isin": "CA60511F1027",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "REDUCE — SPECULATIVE",
+    "recommendationNote": "REDUCE — SPECULATIVE",
+    "conviction": 38,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Mission Ready Solutions is a Canadian and US dual-listed provider of pre-hospital medical training, simulation platforms, and medical supplies primarily serving military, law enforcement, and emergency responder markets. The company's platform trains first responders in tactical combat casualty care and emergency medical procedures — a niche that has benefited from increased defence and homeland security spending. At the current market cap of ~$145M, the market is pricing in significant future r"
+    },
+    "businessModel": {
+      "text": "Mission Ready Solutions operates across two segments: Training Services (in-person tactical medical training for military and law enforcement) and Product Sales (proprietary medical simulation hardware, curriculum content, and consumable medical supplies). The company's flagship product is its tactical medical training curriculum, which has been adopted by US Army, US Navy SEALs, and various federal law enforcement agencies. Revenue is heavily weighted toward government defence contracts. This creates lumpy, contract-dependent revenue that is difficult to forecast on a quarterly basis. The company has been investing heavily in expanding its product sales channel while managing training contract cycles. The key metric is contract backlog — any sustained decline in new contract awards is a significant negative signal. The competitive moat is rooted in relationships within the US defence and law enforcement community and a curriculum library built over years of operational delivery. New entrants face significant barriers: government procurement processes, security clearance requirements, and the need for operational track record in live training environments."
+    },
+    "financialSnapshot": {
+      "text": "Live price: N/A (Finnhub showing $0 — verify current price) Market cap: ~$145M (Finnhub) P/E: N/A (not profitable) EPS: -$14.08 TTM (significant losses) Beta: -0.025 (unusual — may reflect very thin or anomalous trading data) Note: Price data unavailable from live sources at time of publication. Verify current price before acting on this analysis. The negative beta is unusual and likely reflects the thin volume and sporadic nature of micro-cap trading data rather than a genuine hedging characteristic. Treat with scepticism.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "US defence budget cycle: Mission Ready's revenue is directly tied to US DoD training budgets. Any increase in tactical medical training appropriations is a direct tailwind. Conversely, budget sequestration or defence spending cuts disproportionately affect niche contractors. New contract awards: The company has historically grown through contract wins. Monitor for RNS or press releases on new US government training contracts. Each major contract award is a potential re-rating catalyst. Revenue diversification: Any shift toward commercial first responder markets (fire departments, EMS, private security) would reduce the binary dependence on government budget cycles. Profitability path: Management has guided toward operating leverage as training delivery scales. Any indication of narrowing losses would be well-received by the market.",
+      "items": [
+        "US defence budget cycle: Mission Ready's revenue is directly tied to US DoD training budgets. Any increase in tactical medical training appropriations is a direct tailwind. Conversely, budget sequestration or defence spending cuts disproportionately affect niche contractors.",
+        "New contract awards: The company has historically grown through contract wins. Monitor for RNS or press releases on new US government training contracts. Each major contract award is a potential re-rating catalyst.",
+        "Revenue diversification: Any shift toward commercial first responder markets (fire departments, EMS, private security) would reduce the binary dependence on government budget cycles.",
+        "Profitability path: Management has guided toward operating leverage as training delivery scales. Any indication of narrowing losses would be well-received by the market."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Probability Price Target Key Drivers Bull 20% $5.00+ Large new DoD training contract; commercial diversification; path to EBITDA breakeven confirmed; defence spending accelerates Base 55% $2.50–4.50 Steady contract flow; no major contract losses; defence budget maintained; stock consolidates at current levels Bear 25% $1.00–2.00 Contract cancellations; defence budget cuts; revenue misses; equity raise required; significant dilution Weighted price target: 20% × 5.00 + 55% × 3.50 + 25% × 1.50 = $3.63 . Conviction: 38/100 . REDUCE.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Contract concentration risk: Revenue is heavily weighted toward a small number of government contracts. The loss of any major contract would be acutely felt and likely cause a significant share price decline. 2 Data quality: Live price data is unavailable. The EPS of -$14.08 and the anomalous negative beta reflect data quality issues typical of thinly-traded micro-caps. Verify all figures independently before making any investment decision. 3 Defence budget sensitivity: A significant portion of revenue is US DoD-funded. Any political shift that reduces defence spending would directly impact the top line.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1 Contract concentration risk: Revenue is heavily weighted toward a small number of government contracts. The loss of any major contract would be acutely felt and likely cause a significant share price decline."
+        },
+        {
+          "rank": 2,
+          "risk": "2 Data quality: Live price data is unavailable. The EPS of -$14.08 and the anomalous negative beta reflect data quality issues typical of thinly-traded micro-caps. Verify all figures independently before making any investment decision."
+        },
+        {
+          "rank": 3,
+          "risk": "3 Defence budget sensitivity: A significant portion of revenue is US DoD-funded. Any political shift that reduces defence spending would directly impact the top line."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Speculative investors with a high risk tolerance who have a specific thesis on US defence medical training budget growth and who can tolerate binary, contract-driven outcomes. Should avoid: Anyone who needs accessible fundamentals, regular news flow, or dividend income. Those who cannot tolerate a 50%+ drawdown on a single contract cancellation announcement."
+    },
+    "recommendation": {
+      "text": "REDUCE — SPECULATIVE. Verify current price before acting. This is a contract-dependent micro-cap that is not investable for most investors at this stage without a very specific contract catalyst and timeline."
+    },
+    "entryExit": {
+      "text": "Requires verified live price before setting entry/exit levels. Key triggers: new DoD contract announcements, defence budget developments, changes in US government procurement priorities. Conviction Trend Latest conviction: 38/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 38"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 38,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 38,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

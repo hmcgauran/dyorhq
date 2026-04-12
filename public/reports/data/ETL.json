@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "ticker": "ETL.PA (Euronext Paris) / ETL.L (LSE)",
+    "company": "Eutelsat Communications",
+    "exchange": "FP",
+    "isin": "FR0010221234",
+    "date": "7 Apr 2026",
+    "datePublished": "2026-04-07",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 41,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Eutelsat has been absolutely destroyed — down ~51% from its 52-week high of €4.74 to €2.33. The stock is sitting 47% above its 52-week low of €1.59, having recovered from the lows but still in a severe downtrend. This is not a value opportunity in the traditional sense — it is a business under structural pressure from multiple directions. The March 2026 contract terminations for Express AT1 and AT2 (Russian satellite capacity, sanctions-related) are a fresh headwind. The €1.5 billion bond refina"
+    },
+    "businessModel": {
+      "text": "Eutelsat is a satellite operator — it owns and operates a fleet of geostationary communications satellites providing video, data, and internet connectivity services to broadcast customers, telecom operators, and enterprise clients globally. Revenue streams: Video & Broadcast (~40%): Satellite capacity for TV broadcasting — the legacy cash cow. Under pressure as viewers migrate to streaming. Government & Enterprise (~35%): Secure communications, military/government contracts, maritime and aviation connectivity. Mobile Connectivity (~15%): Backhaul for mobile networks, aviation and maritime connectivity. OneWeb LEO (~10% and growing): Low Earth Orbit constellation for broadband — the strategic bet. Operational but pre-commercial scale. Economic moat: orbital slots are scarce resources — once Eutelsat holds a geostationary slot, competitors cannot easily replicate it. Long-term contracts with broadcast clients provide revenue visibility. The moat is eroding as LEO constellations (Starlink, OneWeb) offer lower-latency alternatives."
+    },
+    "financialSnapshot": {
+      "text": "Note: precise FY2026 figures from LSE/Euronext filings should be confirmed. Revenue and EBITDA guidance from H1 2025-26 results available in the February 2026 half-year report filed with AMF. Confirm from company filings before trading. Market cap: ~€1.1B (tiny — €2.33 × ~470M shares estimated) Revenue: ~€1.2–1.4B (confirm from filings — declining from prior years) EBITDA margin: ~65–70% historically (satellite operators have high opex leverage) Debt: Significant — the €1.5B bond refinancing in March 2026 addresses near-term maturities but the debt load remains the central issue for this equity Dividend: Likely suspended given financial position and debt burden PE: Not meaningful — equity is in distress territory with restructuring talk A €1.1B market cap on a satellite operator with €1.5B+ in debt is a sign of serious distress. The equity is being treated as a turnaround/restructuring story. That can work — or it can go to zero if the revenue decline accelerates faster than the debt can be reduced.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "March 2026: €1.5 billion senior bond refinancing — closes near-term liquidity risk. This was a necessary move but not a transformative one. March 2026: Contract terminations for Express AT1 and AT2 satellite capacity (Russian satellites, RSCC). Sanctions-related. A revenue headwind on top of an already declining top line. February 2026: €1 billion financing from French export credit agency BPI for OneWeb LEO constellation — validates the strategic investment and provides non-dilutive funding for the OneWeb buildout. February 2026: H1 FY2025-26 half-year report filed with AMF — key document to review for revenue trends and EBITDA trajectory 2025-2026: Video broadcast revenue declining as European and global TV migration to streaming continues",
+      "items": [
+        "March 2026: €1.5 billion senior bond refinancing — closes near-term liquidity risk. This was a necessary move but not a transformative one.",
+        "March 2026: Contract terminations for Express AT1 and AT2 satellite capacity (Russian satellites, RSCC). Sanctions-related. A revenue headwind on top of an already declining top line.",
+        "February 2026: €1 billion financing from French export credit agency BPI for OneWeb LEO constellation — validates the strategic investment and provides non-dilutive funding for the OneWeb buildout.",
+        "February 2026: H1 FY2025-26 half-year report filed with AMF — key document to review for revenue trends and EBITDA trajectory",
+        "2025-2026: Video broadcast revenue declining as European and global TV migration to streaming continues"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (20%) OneWeb achieves commercial scale. Government contracts accelerate. Video business stabilises. Debt reduction plan credible. Satellite connectivity demand grows (IoT, maritime, defence). Stock re-rates to €4-6. Upside: €4-6. Base (45%) Gradual revenue decline. OneWeb neither fails nor flourishes in near term. Debt restructuring continues. Stock drifts sideways in €1.50-3.00 range. Upside: limited, downside: limited but real. Bear (35%) Video revenue accelerates decline. OneWeb burns cash faster than expected. Debt covenant breach. Equity raise at distressed price wipes out existing holders. Stock falls to €0.50-1.00. Downside: -55 to -75%. Expected value: (20% × €5.00) + (45% × €2.25) + (35% × €0.75) = €1.00 + €1.01 + €0.26 = ~€2.27 base case . Essentially at the current price — the market is pricing in exactly this outcome. The bear case has a higher probability weight than the bull. This is not a compelling risk/reward at €2.33.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Debt burden and refinancing risk (HIGH): The €1.5B refinancing addressed near-term maturities but the debt load remains enormous for a declining-revenue business. If EBITDA erodes faster than modelled, covenant breaches become a real possibility. This is the primary equity risk. Revenue decline acceleration (HIGH): Video broadcast is structural decline, not cyclical. Every year, more viewers leave satellite for streaming. Eutelsat's addressable market is shrinking. The pace of decline will determine whether the debt trajectory is manageable. OneWeb execution risk (MEDIUM–HIGH): OneWeb is the only meaningful growth lever. It is capital-intensive, pre-revenue at scale, and faces direct competition from Starlink. French export credit financing is helpful but does not guarantee commercial success. Geopolitical risk (MEDIUM): The Express AT1/AT2 terminations (Russian sanctions) illustrate this. Eutelsat has exposure to markets with geopolitical tension. European government contracts partially offset this. LEO constellation competition (MEDIUM): Starlink has dramatically more satellites deployed and a functioning commercial product. OneWeb is behind and needs to scale fast to be relevant in connectivity. Liquidity / equity raise risk (MEDIUM): A €1.1B market cap and €1.5B+ debt means the equity is thin. If the business needs more capital, an equity raise at these levels would be massively dilutive to existing holders.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Debt burden and refinancing risk (HIGH): The €1.5B refinancing addressed near-term maturities but the debt load remains enormous for a declining-revenue business. If EBITDA erodes faster than modelled, covenant breaches become a real possibility. This is the primary equity risk."
+        },
+        {
+          "rank": 2,
+          "risk": "Revenue decline acceleration (HIGH): Video broadcast is structural decline, not cyclical. Every year, more viewers leave satellite for streaming. Eutelsat's addressable market is shrinking. The pace of decline will determine whether the debt trajectory is manageable."
+        },
+        {
+          "rank": 3,
+          "risk": "OneWeb execution risk (MEDIUM–HIGH): OneWeb is the only meaningful growth lever. It is capital-intensive, pre-revenue at scale, and faces direct competition from Starlink. French export credit financing is helpful but does not guarantee commercial success."
+        },
+        {
+          "rank": 4,
+          "risk": "Geopolitical risk (MEDIUM): The Express AT1/AT2 terminations (Russian sanctions) illustrate this. Eutelsat has exposure to markets with geopolitical tension. European government contracts partially offset this."
+        },
+        {
+          "rank": 5,
+          "risk": "LEO constellation competition (MEDIUM): Starlink has dramatically more satellites deployed and a functioning commercial product. OneWeb is behind and needs to scale fast to be relevant in connectivity."
+        },
+        {
+          "rank": 6,
+          "risk": "Liquidity / equity raise risk (MEDIUM): A €1.1B market cap and €1.5B+ debt means the equity is thin. If the business needs more capital, an equity raise at these levels would be massively dilutive to existing holders."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Current price: €2.33 52-week range: €1.59 – €4.74 Distance from 52w low: +46.5% — recovered significantly from the lows Distance from 52w high: −50.8% — half the peak value gone 5-day trend: €2.115 → €2.045 → €2.175 → €2.31 → €2.33 — attempting a bounce from the €2.00–2.10 support area Market cap: ~€1.1B — micro-cap territory for a former blue chip €1.59 was the 52w low — that level held in early 2026. The bounce to €2.33 is technically positive but the stock is still in a clear downtrend from €4.74. Resistance is at €3.00–3.20 (200-day MA and prior support) and then €3.70–4.00. A sustained break above €4.00 would be the first sign of real trend reversal. Below €1.75 opens to fresh lows."
+    },
+    "recommendation": {
+      "text": "REDUCE. The stock is cheap on an absolute basis and the bounce from €1.59 to €2.33 is notable. But cheap is not the same as undervalued when the business trajectory is declining."
+    },
+    "entryExit": {
+      "text": "REDUCE. The stock is cheap on an absolute basis and the bounce from €1.59 to €2.33 is notable. But cheap is not the same as undervalued when the business trajectory is declining. Key levels: €1.75–2.00: Support zone. The 52w low at €1.59 is the hard floor — between there and €2.00 is where the stock found buyers in early 2026. €2.00–2.50: Current range. Hold only if already in. Not a compelling entry point. €3.00–3.20: First meaningful resistance — 200-day MA and prior support. Would require positive news flow to reach. €3.50–4.00: Overhead resistance from prior support. Break above €4.00 is the early signal of a genuine turnaround. €4.00+: Would require OneWeb commercial traction proof or a structural improvement in video revenue. Not the base case. Eutelsat is a watchlist name for me — not a buy. The OneWeb angle is genuinely interesting and worth tracking. The €1.5B bond refinancing removes the immediate bankruptcy risk. But the equity is not yet at a level where the risk/reward justifies a position. Monitor for OneWeb commercial contract announcements or evidence of stabilising video revenue. Conviction Trend Latest conviction: 41/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-07 Report date Conviction 2026-04-07 41"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Mar 2026: €1.5B senior bond refinancing complete",
+        "Mar 2026: Express AT1/AT2 contract terminations (Russia sanctions)",
+        "Feb 2026: €1B BPI financing for OneWeb LEO",
+        "Feb 2026: H1 FY2025-26 half-year report filed",
+        "OneWeb: Commercial contract announcements",
+        "Government: New defence/telecom contracts",
+        "Debt: Further refinancing milestones",
+        "FY2026 results: Confirm EBITDA trajectory",
+        "€1.75-2.00: Support zone",
+        "€2.00-2.50: Current range",
+        "€3.00-3.20: 200-day MA resistance",
+        "€4.00+: Trend reversal signal",
+        "Debt burden / refinancing",
+        "Revenue decline acceleration",
+        "OneWeb execution",
+        "Geopolitical exposure",
+        "Starlink competition",
+        "Equity raise dilution"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 41,
+      "band": "REDUCE",
+      "date": "2026-04-07",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-07",
+        "score": 41,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ticker": "PFE",
+    "company": "Pfizer Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 48,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 26.92,
+    "marketCap": 153100000000.0,
+    "marketCapFormatted": "$153.10B",
+    "trailingPE": 19.85,
+    "trailingEps": 1.36,
+    "fiftyTwoWeekHigh": 28.75,
+    "fiftyTwoWeekLow": 21.28,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Pfizer's post-COVID normalisation and patent cliff create a structural earnings headwind that the current valuation of 19.85x P/E does not adequately discount — the balance of risk and reward argues for REDUCE."
+    },
+    "businessModel": {
+      "text": "Pfizer discovers, develops and commercialises pharmaceuticals and vaccines. Its portfolio spans oncology, immunology, cardiology, rare diseases and vaccines. Key products include the mRNA-based Comirnaty vaccine (Covid-19) and Paxlovid antiviral, both of which generated extraordinary revenues in 2021–2022. The pipeline includes oncology candidates (amcenestrant, sigvastat), a next-generation pneumococcal vaccine (PCV20) and gene therapies. The company funds R&D through internal discovery and bolt-on licensing deals."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$26.92"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$153.1 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "19.85x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$1.36"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$28.75"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$21.28"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "PaxlovidScript volume has normalised sharply from its 2022 peak. The FDA declined to grant full approval for tanezumab (chronic pain) in 2025, a setback for the partnered asset. Positive Phase III data for PCV20 in adults strengthens theVaccines franchise ahead of a 2026 regulatory filing. Pfizer has announced a multi-year cost restructuring programme targeting $3.5 billion in savings by 2028. The board has maintained the dividend, though free cash flow coverage has tightened."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (60): COVID revenues stabilise at a modest baseline. The pipeline delivers: PCV20 approved and growing, a next-generation mRNA flu vaccine gains traction, and the gene therapy platform produces early read-through data. Operational savings materialise faster than expected. EPS recovers to $2.00+ and the P/E re-rates to 22x. Price: $40+. Base Case (47): COVID franchise declines to a low baseline. PCV20 launches but absorbs time and pricing pressure in paediatrics. The biosimilar erosion on mature products (Celebrex, Chantix) continues. R&D productivity is steady but not transformational. EPS in the $1.60–$1.85 range. Price: $26–$31. Bear Case (30): Pipeline disappointments compound. A major Phase III failure or regulatory rejection hits sentiment. Biosimilar erosion on key products accelerates. Debt service becomes a constraint as cash generation weakens. EPS falls to $1.20–$1.40. Price: below $20. Weighted Score: 48 — Bull 60 × 30% + Base 47 × 50% + Bear 30 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "COVID revenue normalisation: Comirnaty and Paxlovid generated $56 billion combined in 2022. The normalisation to a seasonal, low-single-digit baseline leaves a significant and permanent revenue hole. Patent cliff on key drugs: Several major products face generic or biosimilar entry over the 2026–2028 horizon, including Xeljanz (JAK inhibitor, FDA black-box warning weighing on volumes) and Ibrance (palbociclib) facing CDK4/6 competitive pressure. R&D productivity: Pfizer's pipeline, while broad, has not produced a comparable mega-blockbuster replacement for the COVID franchise. Multiple high-profile Phase III setbacks in recent years suggest execution risk. Valuation does not reflect structural headwinds: At 19.85x P/E, the market appears to be pricing a recovery that requires consistent pipeline successes that are not yet demonstrated.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "COVID revenue normalisation: Comirnaty and Paxlovid generated $56 billion combined in 2022. The normalisation to a seasonal, low-single-digit baseline leaves a significant and permanent revenue hole."
+        },
+        {
+          "rank": 2,
+          "risk": "Patent cliff on key drugs: Several major products face generic or biosimilar entry over the 2026–2028 horizon, including Xeljanz (JAK inhibitor, FDA black-box warning weighing on volumes) and Ibrance (palbociclib) facing CDK4/6 competitive pressure."
+        },
+        {
+          "rank": 3,
+          "risk": "R&D productivity: Pfizer's pipeline, while broad, has not produced a comparable mega-blockbuster replacement for the COVID franchise. Multiple high-profile Phase III setbacks in recent years suggest execution risk."
+        },
+        {
+          "rank": 4,
+          "risk": "Valuation does not reflect structural headwinds: At 19.85x P/E, the market appears to be pricing a recovery that requires consistent pipeline successes that are not yet demonstrated."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Contrarian investors who believe the COVID normalisation is over-discounted and the PCV20/biosimilar portfolio can fill the gap. Those comfortable with a high-yielding equity with uncertain earnings trajectory."
+    },
+    "recommendation": {
+      "text": "REDUCE. Pfizer faces a genuine structural challenge: the extraordinary COVID era revenues are not returning, and replacing that revenue base requires consistent pipeline execution that has not yet been demonstrated at scale. The P/E of 19.85x is not cheap relative to the earnings trajectory. Entry framework: BUY below $22 (provides a margin of safety on base-case EPS of $1.60–$1.85, roughly 16–18x normalised earnings). Reduce above $29 (prices in pipeline success that is not yet assured)."
+    },
+    "entryExit": {
+      "text": "BUY below $22 (provides a margin of safety on base-case EPS of $1.60–$1.85, roughly 16–18x normalised earnings). Reduce above $29 (prices in pipeline success that is not yet assured). | Entry framework: BUY below $22 (provides a margin of safety on base-case EPS of $1. | Reduce above $29 (prices in pipeline success that is not yet assured)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 48,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 48,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

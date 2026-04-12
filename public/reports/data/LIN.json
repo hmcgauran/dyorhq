@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "LIN",
+    "company": "Lincoln Electric Holdings Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 61,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 503.15,
+    "marketCap": 233200000000.0,
+    "marketCapFormatted": "$233.20B",
+    "trailingPE": 34.46,
+    "trailingEps": 14.6,
+    "fiftyTwoWeekHigh": 510.65,
+    "fiftyTwoWeekLow": 387.78,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Lincoln Electric is a high-quality, dividend-growing industrial compounder in welding and automated cutting, benefiting from infrastructure spending and reshoring, but the 34x P/E is not cheap relative to cyclical industrial peers. HOLD is the weighted recommendation with a conviction score of 61."
+    },
+    "businessModel": {
+      "text": "Lincoln Electric Holdings Inc (LIN) operates in the Industrials sector and is listed on NASDAQ. The business generates revenue through its core operations in industrials."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$503.15"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$233.2 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "34.46x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$14.60"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$510.65"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$387.78"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Lincoln Electric Holdings Inc has been navigating the current market environment with its core industrials franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (74): Infrastructure bill implementation drives strong demand for welding equipment in construction and shipbuilding. Automation (Verifast, Cleveland Motion) grows above market. Pricing power sustains healthy margins. EPS grows to $10.50+. Price: $560+. Base Case (62): Welding demand stable with infrastructure and reshoring partially offsetting manufacturing cyclicality. Automation business grows mid-single digit. Pricing covers input inflation. EPS: $9-9.80. Price: $510-550. Bear Case (45): Manufacturing recession reduces fabricated metals and auto welding demand. Infrastructure spending trails implementation timelines. Automation integration disappoints. EPS falls to $7.50-8.00. Price: below $430. Weighted Score: 62 — Bull 74 × 30% + Base 62 × 50% + Bear 45 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Manufacturing cyclicality: Lincoln's end markets (fabricated metals, automotive, heavy equipment, construction) are highly sensitive to industrial production and capital expenditure cycles. China competition risk: Chinese welding equipment manufacturers (OTC, Lincoln Electric's China JFY) represent a long-term competitive threat in entry-level welding markets. Automation acquisition integration: Verifast and Cleveland Motion are bolt-on acquisitions. Integration risk and synergy realisation uncertainty are ongoing. Pricing vs input cost inflation: Welding equipment is a relatively commoditised product in entry-level segments. Sustaining pricing through steel and copper cost cycles requires active management. Thin margins, high operating leverage: Lincoln operates at relatively low EBITDA margins (~14-15%). Any volume decline has outsized impact on earnings due to fixed cost absorption.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Manufacturing cyclicality: Lincoln's end markets (fabricated metals, automotive, heavy equipment, construction) are highly sensitive to industrial production and capital expenditure cycles."
+        },
+        {
+          "rank": 2,
+          "risk": "China competition risk: Chinese welding equipment manufacturers (OTC, Lincoln Electric's China JFY) represent a long-term competitive threat in entry-level welding markets."
+        },
+        {
+          "rank": 3,
+          "risk": "Automation acquisition integration: Verifast and Cleveland Motion are bolt-on acquisitions. Integration risk and synergy realisation uncertainty are ongoing."
+        },
+        {
+          "rank": 4,
+          "risk": "Pricing vs input cost inflation: Welding equipment is a relatively commoditised product in entry-level segments. Sustaining pricing through steel and copper cost cycles requires active management."
+        },
+        {
+          "rank": 5,
+          "risk": "Thin margins, high operating leverage: Lincoln operates at relatively low EBITDA margins (~14-15%). Any volume decline has outsized impact on earnings due to fixed cost absorption."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Dividend-growth investors seeking a high-quality industrial compounder with strong free cash flow, a 50+ year dividend growth record, and exposure to infrastructure reshoring themes."
+    },
+    "recommendation": {
+      "text": "HOLD. BUY below $395 (implies 27x base-case EPS — provides a more reasonable entry for a steady industrial compounder). Reduce above $510 (implies 35x+ P/E for a cyclical industrial — not compelling risk-reward given mid-cycle earnings sensitivity)."
+    },
+    "entryExit": {
+      "text": "BUY below $395 (implies 27x base-case EPS — provides a more reasonable entry for a steady industrial compounder). | Reduce above $510 (implies 35x+ P/E for a cyclical industrial — not compelling risk-reward given mid-cycle earnings sensitivity)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

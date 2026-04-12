@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "QED.L",
+    "company": "Quadrise plc",
+    "exchange": "LN",
+    "isin": "GB00B11DDB67",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD — SPECULATIVE",
+    "recommendationNote": "HOLD — SPECULATIVE",
+    "conviction": 56,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Quadrise has spent years living in the zone where commercial promise exists, but full validation remains just over the horizon. At 2.70p, up on the day and trading on strong volume, the market is still willing to speculate on the fuel technology and licensing story. That does not make it de-risked. Bottom line: HOLD — SPECULATIVE . Interesting technology optionality, but still too dependent on commercial conversion milestones."
+    },
+    "businessModel": {
+      "text": "Quadrise develops fuel technologies intended to improve economics or emissions outcomes in industrial and shipping applications. Value creation depends on proving commercial use cases, signing meaningful agreements and converting pilot work into recurring revenue. This is effectively a technology commercialisation story, not a mature operating business."
+    },
+    "financialSnapshot": {
+      "text": "Live price: 2.70p Day range: 2.40p – 3.00p Volume: 16.66M shares P/E: unavailable on current live pull EPS: unavailable on current live pull High volume tells you people care. It does not tell you the commercial model is proven.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Commercial milestone updates remain the key driver. Shipping and industrial decarbonisation themes provide narrative support. The market is still waiting for cleaner proof of scalable adoption.",
+      "items": [
+        "Commercial milestone updates remain the key driver.",
+        "Shipping and industrial decarbonisation themes provide narrative support.",
+        "The market is still waiting for cleaner proof of scalable adoption."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%): meaningful commercial conversion lands and rerates the stock sharply. Base (50%): progress continues but remains slower than holders want. Bear (25%): timelines stretch again and the market loses patience. Weighted conviction: 56/100.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Commercialisation risk: the main issue is turning pilots into revenue. Execution delay risk: repeated timeline slippage destroys confidence. Funding risk: prolonged development usually means more capital needs.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Commercialisation risk: the main issue is turning pilots into revenue."
+        },
+        {
+          "rank": 2,
+          "risk": "Execution delay risk: repeated timeline slippage destroys confidence."
+        },
+        {
+          "rank": 3,
+          "risk": "Funding risk: prolonged development usually means more capital needs."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: speculative investors who specifically want technology commercialisation upside. Should avoid: anyone looking for already-proven business models."
+    },
+    "recommendation": {
+      "text": "HOLD — SPECULATIVE at 2.70p. Worth keeping on the board, not worth pretending it is de-risked."
+    },
+    "entryExit": {
+      "text": "Below 2.3p: more attractive speculative entry 2.3p–3.0p: hold zone Above 3.2p without hard commercial proof: trim Key trigger: real commercial contract conversion Conviction Trend Latest conviction: 56/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 56"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price 2.70p",
+        "Day High 3.00p",
+        "Day Low 2.40p",
+        "Volume 16.66M"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 56,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 56,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

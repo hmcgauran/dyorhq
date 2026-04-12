@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "ticker": "MU",
+    "company": "Micron Technology, Inc.",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Micron Technology sits at the intersection of AI memory demand and China reshoring, providing exceptional near-term earnings momentum, but the memory cycle's inherent cyclicality and the P/E de-rating risk from HBM supply normalisation make the risk-reward balanced -- HOLD . HOLD Conviction Score: 65/100 — HOLD"
+    },
+    "businessModel": {
+      "text": "Micron Technology is one of the world's three major memory semiconductor companies (with Samsung and SK Hynix), producing DRAM and NAND flash memory used in data centres, PCs, smartphones, automotive and industrial applications. Key product lines: HBM (High Bandwidth Memory) -- critical for AI accelerators (NVIDIA GPUs), LPDDR for mobile devices, DDR for servers and PCs, and NAND for data storage. Micron is the only US-headquartered major memory company and is a key beneficiary of the CHIPS Act and US government subsidies for domestic semiconductor manufacturing. The Idaho and New York fab investments are partially government-funded. Memory is a highly cyclical business characterised by supply-demand imbalances: oversupply crashes ASPs; supply discipline and demand surges (AI) drive sharp recovery. The top customers include NVIDIA, major cloud hyperscalers, Apple and major smartphone OEMs."
+    },
+    "financialSnapshot": {
+      "text": "Market Cap N/A NasdaqGS Trailing P/E N/A 12-month earnings EPS (TTM) N/A Trailing twelve months 52-Week High $471.34 -10.8% from high 52-Week Low $65.65 From low: +540.7% vs 52-Week High -10.8% Distance to high",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "AI demand for HBM has been extraordinary. NVIDIA's H100 and H200 GPUs require HBM3, and Micron has qualified as a key HBM supplier alongside SK Hynix. This qualification is transformative: HBM ASPs are 5-10x conventional DRAM, dramatically improving Micron's revenue and margins. The CHIPS Act grants ($6.4bn+) support Micron's US fab investments, reducing capital intensity and geopolitical risk. China's domestic memory ambitions (CXMT) remain behind leading-edge technology but are improving. Supply discipline from all three major memory makers has helped ASP recovery. Recent quarterly results showed significant margin recovery as HBM mix increased and DRAM/NAND oversupply eased."
+    },
+    "thesisEvaluation": {
+      "text": "Reports / MU MU Micron Technology, Inc. HOLD 11 April 2026 $$420.59 65 Conviction out of 100 >",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Memory cycle cyclicality: Memory is one of the most cyclical semiconductor businesses. Oversupply can rapidly reverse the margin recovery. Investor memory of the 2018-2019 and 2022-2023 downturns should temper optimism. #2 HBM competition from SK Hynix: SK Hynix is the current leader in HBM for AI and has a head start with NVIDIA. Micron has qualified but SK Hynix and Samsung remain formidable competitors for AI memory share. #3 China geopolitical risk: China is both a major market and a potential source of competition. CXMT is advancing domestic memory capabilities and could become a significant competitor in commodity DRAM over the medium term. #4 Capital intensity: Memory manufacturing requires enormous capex. Micron's free cash flow is highly sensitive to the investment cycle and can be negative during upturns. #5 Valuation at cyclical peaks: P/E ratios for memory companies are typically at their lowest during upcycles (high earnings) and most stretched during downcycles (low earnings). Current P/E de-rating risk is meaningful.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Memory cycle cyclicality: Memory is one of the most cyclical semiconductor businesses. Oversupply can rapidly reverse the margin recovery. Investor memory of the 2018-2019 and 2022-2023 downturns should temper optimism."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 HBM competition from SK Hynix: SK Hynix is the current leader in HBM for AI and has a head start with NVIDIA. Micron has qualified but SK Hynix and Samsung remain formidable competitors for AI memory share."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 China geopolitical risk: China is both a major market and a potential source of competition. CXMT is advancing domestic memory capabilities and could become a significant competitor in commodity DRAM over the medium term."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 Capital intensity: Memory manufacturing requires enormous capex. Micron's free cash flow is highly sensitive to the investment cycle and can be negative during upturns."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Valuation at cyclical peaks: P/E ratios for memory companies are typically at their lowest during upcycles (high earnings) and most stretched during downcycles (low earnings). Current P/E de-rating risk is meaningful."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who believe AI infrastructure will sustain memory demand above the typical cycle. The HBM qualification for NVIDIA is a significant structural positive. Also suits investors who want semiconductor exposure with more cyclical beta than a fabless design company. Avoid: Conservative investors and those with a weak stomach for cyclicality should avoid. The memory industry's history of destroying capital during downcycles is real."
+    },
+    "recommendation": {
+      "text": "HOLD Score: 65/100 Micron is a high-quality memory franchise with genuine AI tailwinds and a HBM qualification that matters. However, the memory cycle is real and the current upcycle will eventually turn. At $420.59, the stock prices in considerable AI optimism. HOLD. Entry Framework: BUY below $340 (cyclically depressed, substantial margin of safety). Reduce above $460 (implies consensus fully materialises). HOLD in the $340-$460 range. BUY below $270 HOLD $$396-$484 REDUCE above $504"
+    },
+    "entryExit": {
+      "text": "BUY below $270 | HOLD $$396-$484 | REDUCE above $504"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

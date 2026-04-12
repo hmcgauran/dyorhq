@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ticker": "MRK",
+    "company": "MRK",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 52,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Pharmaceutical (Keytruda, Januvia, Gardasil, ~80%), Animal Health (Vifor integrated, ~12%), and Healthcare Services (Walgreens partnership, ~8%). High-margin proprietary drug portfolio."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Keytruda: global sales $25bn+ FY24; label expansions ongoing in adjuvant melanoma, bladder, gastric Caplanex acquisition (ADC platform, 2024) adds 3 oncology assets in Phase II Vifor Pharma integration (acquired 2023) — renal/vascular franchise now contributing $1.8bn Winrevair (sotatercept) approved 2024 for pulmonary arterial hypertension — c.$3bn peak potential",
+      "items": [
+        "Keytruda: global sales $25bn+ FY24; label expansions ongoing in adjuvant melanoma, bladder, gastric",
+        "Caplanex acquisition (ADC platform, 2024) adds 3 oncology assets in Phase II",
+        "Vifor Pharma integration (acquired 2023) — renal/vascular franchise now contributing $1.8bn",
+        "Winrevair (sotatercept) approved 2024 for pulmonary arterial hypertension — c.$3bn peak potential"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "62 Bull 52 Base 38 Bear 52 Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1. Keytruda composition-of-matter patent expires 2028 — biosimilar erosion begins immediately 2. US IRA (Inflation Reduction Act) price negotiation reduces revenue on selected drugs in 2026-28 3. Clinical setback risk on pembrolizumab combination trials in 1L lung cancer 4. Vifor integration slower than planned — $700M synergies not yet realised 5. Vaccine franchise (Gardasil) faces pricing pressure in US and European Gavi markets",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. Keytruda composition-of-matter patent expires 2028 — biosimilar erosion begins immediately"
+        },
+        {
+          "rank": 2,
+          "risk": "2. US IRA (Inflation Reduction Act) price negotiation reduces revenue on selected drugs in 2026-28"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Clinical setback risk on pembrolizumab combination trials in 1L lung cancer"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Vifor integration slower than planned — $700M synergies not yet realised"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Vaccine franchise (Gardasil) faces pricing pressure in US and European Gavi markets"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Pharma-turnaround investor play on pipeline maturation post-Keytruda exclusivity cliff. Healthcare-portfolio diversifier with attractive dividend yield (~2.8%). NOT suitable for investors unable to hold through clinical setbacks or who require near-term revenue growth acceleration."
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Scale in at $108–$118 (15–20% below 52-week high). HOLD $118–$132. REDUCE above $132. Monitor: Keytruda label expansion approvals and FY26 IRA price negotiation list drugs. | BUY: Scale in at $108–$118 (15–20% below 52-week high). | REDUCE above $132."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 52,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 52,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

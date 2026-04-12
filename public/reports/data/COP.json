@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "COP",
+    "company": "ConocoPhillips",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "ConocoPhillips is one of the world's largest integrated oil and gas explorers, with a low-cost production base concentrated in the Permian Basin and LNG exposure via Freeport LNG; near-term uncertainty around OPEC+ supply management and volatile crude prices keep us at HOLD."
+    },
+    "businessModel": {
+      "text": "ConocoPhillips is a global supermajor with a vertically integrated model. Key revenue streams: E&amp;P (Exploration &amp; Production): Produces crude oil, natural gas, and LNG across five core regions: Permian Basin (US), North Sea (UK/Norway), Gulf of Mexico, Canada, and Asia Pacific (LNG). LNG (Freeport LNG): Equity stake in Freeport LNG export facility provides US natural gas access to global LNG markets; benefits from international price arbitrage. Marketing &amp; Refining: Sells refined products and branded fuels internationally; smaller but stabilising influence on earnings. Midstream / Infrastructure: Pipeline and infrastructure interests support core production operations and generate fee income. COP's competitive advantage is scale in low-cost unconventional production, particularly in the Permian, which is among the lowest breakeven basins globally."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (30% weight) Crude sustains $85+ per barrel; Permian production growth accelerates per-share; LNG volumes expand; disciplined buybacks continue; EPS reaches $12+. Target: $158–175 Base Case (50% weight) Brent crude averages $75–80; Permian growth offsets decline elsewhere; Freeport LNG provides stable contribution; EPS ~$9. Target: $120–132 Bear Case (20% weight) Global recession drives crude below $65; OPEC+ flooding the market; Permian well productivity disappoints; EPS falls to $5.50; trough valuation of 7–8x earnings. Target: $75 Weighted Conviction Score: 65 / 100 — HOLD",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Crude oil price volatility: The single largest driver of COP earnings. A sustained $10/bbl move in Brent crude changes annual earnings by approximately $4–5bn. OPEC+ supply decisions: Saudi Arabia and Russia's production policy can swingsupply by millions of barrels per day, overwhelming COP's operational control. Geopolitical risk: Middle East escalation, Russia-Europe energy politics, and South China Sea territorial disputes all threaten supply chains and price stability. Energy transition: Long-term structural demand destruction from EVs and decarbonisation policies creates capital allocation uncertainty for oil majors. Reserve replacement: Large-cap oil companies face increasing difficulty replacing reserves at economic rates; resource base sustainability is a long-term concern.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Crude oil price volatility: The single largest driver of COP earnings. A sustained $10/bbl move in Brent crude changes annual earnings by approximately $4–5bn."
+        },
+        {
+          "rank": 2,
+          "risk": "OPEC+ supply decisions: Saudi Arabia and Russia's production policy can swingsupply by millions of barrels per day, overwhelming COP's operational control."
+        },
+        {
+          "rank": 3,
+          "risk": "Geopolitical risk: Middle East escalation, Russia-Europe energy politics, and South China Sea territorial disputes all threaten supply chains and price stability."
+        },
+        {
+          "rank": 4,
+          "risk": "Energy transition: Long-term structural demand destruction from EVs and decarbonisation policies creates capital allocation uncertainty for oil majors."
+        },
+        {
+          "rank": 5,
+          "risk": "Reserve replacement: Large-cap oil companies face increasing difficulty replacing reserves at economic rates; resource base sustainability is a long-term concern."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own It:\n• Energy sector investors seeking a high-quality integrated oil name with Permian Basin dominance and LNG optionality.\n• Those who believe oil will sustain $75–85/bbl as energy transition investment lags demand growth.\n• Income investors who want a 1.9% yield with a credible buyback programme supporting capital return.\n\nAvoid It:\n• Pure energy transition investors — COP has limited exposure to renewables beyond token investments.\n• Macro bears expecting crude collapse — COP is a direct lever on oil price direction.\n• Those seeking dividend growth — the yield is modest and the payout ratio fluctuates with commodity prices."
+    },
+    "recommendation": {
+      "text": "HOLD Good company in a cyclical sector at a fair price; the oil price uncertainty and OPEC+ overhang make us cautious on near-term upside despite operational quality. Entry / Exit Framework Conviction Score 65 / 100 — HOLD Entry Below $108 — better risk/reward within range Add Below $95 — high conviction on crude oversupply scenario Reduce / Exit Above $135 — crude cycle premium fully captured Time Horizon 12–36 months"
+    },
+    "entryExit": {
+      "text": "Entry / Exit Framework Conviction Score 65 / 100 — HOLD Entry Below $108 — better risk/reward within range Add Below $95 — high conviction on crude oversupply scenario Reduce / Exit Above $135 — crude cycle premium fully captured Time Horizon 12–36 months Sources Live market data via DYOR HQ data pipeline ConocoPhillips public filings, earnings releases, and investor days US Energy Information Administration (EIA) and IEA reports S&amp;P Capital IQ estimates Report generated 11 April 2026. For informational purposes only. Not financial advice."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

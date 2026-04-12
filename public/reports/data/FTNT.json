@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "ticker": "FTNT",
+    "company": "Fortinet Inc",
+    "exchange": "US",
+    "isin": "US34959E1091",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 55,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Fortinet is a network security company focused on the mid-market and enterprise segment, selling firewalls, secure access (SD-WAN), and endpoint security through a combination of hardware appliances and its FortiOS operating system. The company is in a transition from an appliance model to a subscription/SaaS model, which is creating near-term revenue headwinds as hardware sales slow. At $82.68, the stock is down from its 2024 highs but remains above its 52-week low. The valuation of 33x earning"
+    },
+    "businessModel": {
+      "text": "Fortinet sells network security hardware (FortiGate firewalls), software (FortiOS, FortiManager), and subscription services (FortiGuard AI-powered threat intelligence, FortiCare support). The proprietary ASIC chips (NP7, BT) provide a hardware performance advantage in firewall throughput that competes with Palo Alto and Cisco. Revenue model is approximately 50% products/hardware and 50% services/subscriptions. The services mix is increasing as the company transitions to subscription. This improves revenue quality and gross margins over time."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $82.68 Market cap: $61 billion 52-week range: $76.50 – $95.00 Current position in range: ~60th percentile P/E: 33x Beta: 0.98",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%): Subscription transition completes successfully. FortiGate AI features drive upsell. SD-WAN wins mid-market enterprise deals. Price target $95+. Base (55%): Steady 10–15% revenue growth. Subscription mix improves gradually. Price target $80–90. Bear (20%): Hardware sales collapse faster than expected. Subscription growth decelerates. PANW takes mid-market share. Price target $65–75. Weighted conviction: 55/100. HOLD.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Subscription transition execution (HIGH): The transition from hardware to subscription is complex and creates near-term revenue headwinds. Palo Alto mid-market competition (MEDIUM): PANW's aggressive pricing and platform strategy is targeting Fortinet's mid-market sweet spot.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Subscription transition execution (HIGH): The transition from hardware to subscription is complex and creates near-term revenue headwinds."
+        },
+        {
+          "rank": 2,
+          "risk": "Palo Alto mid-market competition (MEDIUM): PANW's aggressive pricing and platform strategy is targeting Fortinet's mid-market sweet spot."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Investors who want mid-market cybersecurity exposure with a conservative valuation. Those who believe the hardware security niche remains defensible. Should avoid: Growth investors seeking high-conviction cybersecurity plays. Those who prefer platform leaders like PANW or CRWD."
+    },
+    "recommendation": {
+      "text": "HOLD at $82.68. Fair but not compelling. Mid-market cybersecurity at a reasonable valuation. Monitor subscription transition progress."
+    },
+    "entryExit": {
+      "text": "Below $75: Accumulation zone $75–$85: Hold range Above $90: Trim Conviction Trend Latest conviction: 55/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 55"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $82.68",
+        "Market Cap $61B",
+        "P/E 33x",
+        "52w High $95.00",
+        "52w Low $76.50"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 55,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 55,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

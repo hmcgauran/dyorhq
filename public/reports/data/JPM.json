@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ticker": "JPM",
+    "company": "JPM",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 68,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Consumer & Community Banking (retail deposits, cards, auto loans, 40%), Corporate & Investment Bank (advisory, markets, lending, 35%), and Asset & Wealth Management (advisory fees, AUM-based, 25%)."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Full-year 2025 net income ~$55bn; ROTCE consistently above 17% NII (Net Interest Income) guidance raised Q4 2025 to $91.5bn+ for FY25 Investment-banking fees rebounded Q1 2025 (+26% YoY) on M&A and ECM activity BlackRock partnership deepens wealth-management cross-sell (AUM $4.3tn)",
+      "items": [
+        "Full-year 2025 net income ~$55bn; ROTCE consistently above 17%",
+        "NII (Net Interest Income) guidance raised Q4 2025 to $91.5bn+ for FY25",
+        "Investment-banking fees rebounded Q1 2025 (+26% YoY) on M&A and ECM activity",
+        "BlackRock partnership deepens wealth-management cross-sell (AUM $4.3tn)"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "78 Bull 68 Base 52 Bear 68 Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1. Tariff and recession risk could trigger loan-loss provision build in 2H 2026 2. Jamie Dimon announced retirement — succession risk creates governance premium 3. NII is duration-sensitive: Fed rate cuts compress NIM faster than modelled 4. Consumer-credit card charge-offs rising off COVID-era lows (now ~2.8%) 5. Russian/Chinese market exposure: sanctions compliance costs and reputational risk",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. Tariff and recession risk could trigger loan-loss provision build in 2H 2026"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Jamie Dimon announced retirement — succession risk creates governance premium"
+        },
+        {
+          "rank": 3,
+          "risk": "3. NII is duration-sensitive: Fed rate cuts compress NIM faster than modelled"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Consumer-credit card charge-offs rising off COVID-era lows (now ~2.8%)"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Russian/Chinese market exposure: sanctions compliance costs and reputational risk"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Quality-focused investors seeking above-peer ROE with superior franchise durability. Dividend yield (~2.3%) plus buyback provides dual return mechanism. NOT suitable for investors expecting rapid balance-sheet de-levering or those wanting pure investment-bank beta."
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Add on intraday dips below $295 (10% from 52-week low). HOLD $295–$320. REDUCE above $320. Watch: NII quarterly guidance vs consensus for rate sensitivity. | BUY: Add on intraday dips below $295 (10% from 52-week low). | REDUCE above $320."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

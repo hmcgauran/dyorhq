@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "ticker": "ADSE",
+    "company": "Adseeds International",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 38,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Adseeds International is a micro-cap listed on Pink Sheets with very limited public financial disclosure, making independent analysis impossible and the risk-reward unassessable at $11.80 -- REDUCE . REDUCE Conviction Score: 38/100 — REDUCE"
+    },
+    "businessModel": {
+      "text": "Adseeds International appears to be a small marketing or digital advertising technology company, though public information is extremely limited. The company has a complex corporate history and limited analyst coverage. Pink Sheets listing implies no minimum quantitative listing requirements, making the investment highly speculative. The digital advertising technology market is extremely competitive, with dominant players (Google, Meta, Amazon) controlling the vast majority of ad spend."
+    },
+    "financialSnapshot": {
+      "text": "Current Price $11.80 Pink Sheets Market Cap N/A Est. via price x shares Trailing P/E N/A 12-month earnings EPS (TTM) N/A Trailing twelve months 52-Week High $16.00 -26.2% from high 52-Week Low $8.00 +47.5% from low",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "No recent RNS or material corporate announcements identified. Without regular public disclosure, any re-rating catalyst is essentially unknowable."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 58 Target: $16.00 | EPS: $0.50 New management executes a credible strategic turnaround. A major digital advertising platform partnership is announced. EPS reaches $0.50+. Base Case 38 Target: $12.00 | EPS: $0.20 Limited disclosure makes tracking performance impossible. No material change to operations. EPS ~$0.20. Bear Case 18 Target: $7.00 | EPS: $-0.10 Business faces liquidity crisis. Regulatory or governance issues emerge. EPS turns negative. Liquidity is insufficient to exit at reasonable prices. Conviction Score (Bull 30% + Base 50% + Bear 20%): 38 / 100 — REDUCE",
+      "bull": {
+        "scenario": "New management executes a credible strategic turnaround. A major digital advertising platform partnership is announced. EPS reaches $0.50+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Limited disclosure makes tracking performance impossible. No material change to operations. EPS ~$0.20.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Business faces liquidity crisis. Regulatory or governance issues emerge. EPS turns negative. Liquidity is insufficient to exit at reasonable prices.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Extremely limited financial disclosure: Pink Sheets companies are not required to file regular financial statements. The investment case cannot be independently verified. #2 Liquidity and market manipulation risk: Micro-cap stocks on Pink Sheets are highly susceptible to thin trading, wide bid/offer spreads and potential market manipulation. #3 Business model viability: Without credible public information, it is impossible to assess the viability of the business model or competitive position. #4 Governance risk: Small, thinly traded companies often have poor governance standards and related-party transactions that can harm minority shareholders. #5 Regulatory risk: Pink Sheets companies may be subject to regulatory action by the SEC or other authorities, which could affect the company's ability to continue reporting.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Extremely limited financial disclosure: Pink Sheets companies are not required to file regular financial statements. The investment case cannot be independently verified."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 Liquidity and market manipulation risk: Micro-cap stocks on Pink Sheets are highly susceptible to thin trading, wide bid/offer spreads and potential market manipulation."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Business model viability: Without credible public information, it is impossible to assess the viability of the business model or competitive position."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 Governance risk: Small, thinly traded companies often have poor governance standards and related-party transactions that can harm minority shareholders."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Regulatory risk: Pink Sheets companies may be subject to regulatory action by the SEC or other authorities, which could affect the company's ability to continue reporting."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: None. No institutional investor should hold this name given the disclosure and liquidity standards required. Avoid: All investors should avoid or reduce exposure to this name due to the lack of transparent financial information."
+    },
+    "recommendation": {
+      "text": "REDUCE Score: 38/100 ADSE is not a viable investment at $11.80 for any investor requiring financial transparency, liquidity, or independent verification of investment thesis. REDUCE. Entry Framework: REDUCE at all levels above $7. Not suitable for BUY. BUY below $16.80 HOLD $12.60-$16.80 REDUCE above $16.80"
+    },
+    "entryExit": {
+      "text": "BUY below $16.80 | HOLD $12.60-$16.80 | REDUCE above $16.80"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 38,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 38,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

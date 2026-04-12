@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "COST",
+    "company": "COST — Costco Wholesale Corp",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 68,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Costco operates on a high-volume, low-margin membership warehouse model that creates a near-unbreakable competitive moat: Membership Fees: The core economic engine. Costco charges an annual membership fee (Gold Star $65, Business $65, Executive $130) that is nearly pure profit. With ~76 million paid members and a renewal rate exceeding 93 per cent, this is one of the most predictable revenue streams in retail. Warehouse Sales: A curated selection of approximately 4,000 SKUs across groceries, electronics, appliances, apparel, tyres, and home goods. Costco sells at thin gross margins (approximately 11–12 per cent net of membership benefit) but extremely high inventory turnover. E-commerce and ancillary services: Costco.com for home delivery, Costco Travel, optical centres, hearing aid centres, pharmacies, and food courts — all serving to deepen member engagement and increase visit frequency. Kirkland Signature: The proprietary Kirkland Signature brand delivers higher-margin private-label products across food, apparel, and household goods — increasingly important to margin stability. Costco's genius is using ultra-low prices to attract members, then generating nearly all its operating profit from membership fees while the merchandise sales cover costs. It is one of the most capital-efficient retail models ever constructed."
+    },
+    "financialSnapshot": {
+      "text": "Price $998.47 Market Cap $443.0bn P/E Ratio 51.9× EPS (TTM) $19.23 52w High $1,067.08 52w Low $844.06 Distance from 52wH −6.4% Avg Volume 2.3m",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 75 / 100 Member count grows to 85–90 million with rising renewal rates. The Executive membership mix continues to improve, lifting effective per-member revenue. International expansion (particularly in Asia) adds material revenue and profit. The shares re-rate to 55×+ as the market prices in the durability of the franchise. Total annual returns of 12–15 per cent from a combination of comp growth and multiple expansion. Weight: 30% Base Case 65 / 100 Steady mid-single-digit comparable sales growth, membership fee increases every 5–7 years, and continued expansion internationally. EPS grows at 8–10 per cent annually. The P/E remains in the 45–55× range, delivering high-single-digit to low-double-digit annual total returns. A perfectly respectable outcome for a best-in-class retailer. Weight: 50% Bear Case 50 / 100 A consumer spending slowdown disproportionately hits warehouse retailers as middle-income members trade down to discount formats. Sam's Club and BJ's increase competitive pressure. Comp sales turn negative for several quarters. The P/E contracts to 35–40× as growth expectations reset lower. The stock falls 20–25 per cent in a risk-off environment. Weight: 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Valuation stretch: At 52× earnings, the stock prices in near-perfect execution. Any meaningful deceleration in comparable sales or membership growth would likely trigger a significant de-rating given the premium multiples involved. 2 Consumer spending deterioration: Costco's members, while relatively affluent, are not immune to a broad economic slowdown. A severe recession could reduce basket size, visit frequency, and ultimately renewal rates — particularly as $65–130 annual memberships become easier to cancel. 3 Competitive pressure from discount formats: Dollar Tree, Aldi, and regional discount grocers continue expanding, and if consumers trade down permanently from warehouse to discount grocery, Costco's comp trajectory would be structurally impaired. 4 Labour cost inflation: Warehouse retail is labour-intensive. Continued minimum wage increases and union pressure (Costco workers are among the best-paid in the sector) could compress merchandise margins over time. 5 International execution risk: Rapid international expansion — particularly in Asia where supply chains, real estate, and consumer preferences are more complex — creates execution risk that could impair new market productivity and return on invested capital.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Valuation stretch: At 52× earnings, the stock prices in near-perfect execution. Any meaningful deceleration in comparable sales or membership growth would likely trigger a significant de-rating given the premium multiples involved."
+        },
+        {
+          "rank": 2,
+          "risk": "Consumer spending deterioration: Costco's members, while relatively affluent, are not immune to a broad economic slowdown. A severe recession could reduce basket size, visit frequency, and ultimately renewal rates — particularly as $65–130 annual memberships become easier to cancel."
+        },
+        {
+          "rank": 3,
+          "risk": "Competitive pressure from discount formats: Dollar Tree, Aldi, and regional discount grocers continue expanding, and if consumers trade down permanently from warehouse to discount grocery, Costco's comp trajectory would be structurally impaired."
+        },
+        {
+          "rank": 4,
+          "risk": "Labour cost inflation: Warehouse retail is labour-intensive. Continued minimum wage increases and union pressure (Costco workers are among the best-paid in the sector) could compress merchandise margins over time."
+        },
+        {
+          "rank": 5,
+          "risk": "International execution risk: Rapid international expansion — particularly in Asia where supply chains, real estate, and consumer preferences are more complex — creates execution risk that could impair new market productivity and return on invested capital."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Appropriate For Long-term compounders who want best-in-class retail quality with defensible competitive positioning and a management team that has demonstrated consistent execution over decades Investors willing to pay a premium for near-perfect membership economics and the optionality of international expansion Those building a generational portfolio with a 5–10 year horizon who can ride out valuation volatility in exchange for structural franchise value appreciation Avoid If Focused on valuation or near-term total return; the P/E of 52× leaves almost no room for error and limited upside to fair value over a 1–2 year horizon Portfolio already holds other high-quality compounding retail names (e.g., Walmart, Home Depot) — Costco adds less incremental value at this price Strong macro concerns about a US consumer slowdown that would disproportionately impact warehouse-format retailers"
+    },
+    "recommendation": {
+      "text": "Conviction Score: 68/100 — HOLD The shares trade 6.4 per cent below their 52-week high at 51.9× earnings — a premium that is justified by the quality of the franchise but leaves very limited near-term upside. Costco is one of the world's finest retailers, but at this valuation, long-term investors are better off building positions gradually on dips rather than initiating at current levels. Buy Below $870 HOLD Zone $870–$1,067 Reduce Above $1,067 Stop / Sell $800"
+    },
+    "entryExit": {
+      "text": "Buy Below: $870 | HOLD Zone: $870–$1,067 | Reduce Above: $1,067 | Stop / Sell: $800"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 68,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 68,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

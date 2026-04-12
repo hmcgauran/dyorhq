@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "COIN · US",
+    "company": "Coinbase Global Inc",
+    "exchange": "US",
+    "isin": "US17709A1051",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "REDUCE — SPECULATIVE",
+    "recommendationNote": "REDUCE — SPECULATIVE",
+    "conviction": 44,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Coinbase is the dominant US cryptocurrency exchange by registered users and volume, operating a regulated platform for retail and institutional crypto trading, custody, and staking. At $178.90, the stock is 5.6% below its 52-week high of $189.00 — a modest pullback from Bitcoin ETF enthusiasm peaks. The investment case is straightforward: Coinbase is a leveraged play on crypto asset prices and trading volumes. When Bitcoin rises, Coinbase earnings and sentiment rise. When it falls, they fall. Be"
+    },
+    "businessModel": {
+      "text": "Coinbase earns revenue from four streams: (1) retail trading fees (1.5–4% depending on transaction size, higher than most competitors), (2) institutional trading fees (lower per-transaction but higher volume), (3) subscription services including Coinbase One membership and staking, and (4) interest income on customer cash held on platform. The Bitcoin ETF custody business is the structural highlight: Coinbase earns recurring fees as the custodian for major institutional ETF products — this is institutional-quality, recurring revenue that is not directly tied to crypto market volatility. The competitive position is strong in the US (regulatory moat from SEC and state-by-state licensing), but internationally Binance, Kraken, and other global exchanges compete aggressively. The regulatory environment for crypto exchanges in the US remains uncertain — the SEC has pursued enforcement actions against Coinbase, and the broader regulatory framework for digital assets is not yet settled law."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $178.90 52-week range: $95.00 – $189.00 (current: ~93rd percentile) Market cap: $46bn P/E: 37× on trailing earnings — elevated but more reasonable than at crypto-hype peaks Beta: 3.62 — extreme beta means the stock moves 3.6× the broader market Revenue model: heavily tied to crypto market capitalisation and trading volumes; Q4 2023 and Q1 2024 showed the earnings power of a strong crypto cycle The P/E of 37× is more reasonable than at previous peaks but still reflects the market's expectation of continued crypto market strength. A sustained Bitcoin bear market would compress earnings sharply and likely cause the multiple to derate further.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Bitcoin ETF custody revenues: Coinbase earns recurring custody fees as the institutional custodian for BlackRock's iShares Bitcoin Trust (IBIT) and Fidelity's Bitcoin ETF products. These fees are recurring, institutional-quality revenue that does not depend on retail trading volumes. This is the most important structural development in Coinbase's financial model in years. Bitcoin price trajectory: Bitcoin's performance dominates Coinbase's earnings trajectory. At $178.90, Coinbase is effectively pricing in continued Bitcoin strength — a sustained correction would compress trading revenues and custody fee valuations simultaneously. SEC regulatory risk: The SEC has filed charges against Coinbase for operating as an unregistered securities exchange. A resolution of this case (either through settlement or litigation outcome) would remove a major regulatory overhang. Product expansion: Coinbase has been expanding its product suite to include more DeFi access, stablecoin infrastructure, and blockchain-based financial services. These are meaningful optionality bets but do not yet contribute materially to revenue.",
+      "items": [
+        "Bitcoin ETF custody revenues: Coinbase earns recurring custody fees as the institutional custodian for BlackRock's iShares Bitcoin Trust (IBIT) and Fidelity's Bitcoin ETF products. These fees are recurring, institutional-quality revenue that does not depend on retail trading volumes. This is the most important structural development in Coinbase's financial model in years.",
+        "Bitcoin price trajectory: Bitcoin's performance dominates Coinbase's earnings trajectory. At $178.90, Coinbase is effectively pricing in continued Bitcoin strength — a sustained correction would compress trading revenues and custody fee valuations simultaneously.",
+        "SEC regulatory risk: The SEC has filed charges against Coinbase for operating as an unregistered securities exchange. A resolution of this case (either through settlement or litigation outcome) would remove a major regulatory overhang.",
+        "Product expansion: Coinbase has been expanding its product suite to include more DeFi access, stablecoin infrastructure, and blockchain-based financial services. These are meaningful optionality bets but do not yet contribute materially to revenue."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Probability Price Target Key Drivers Bull 25% $250+ Bitcoin reaches $150,000+; ETF assets under management grow to $500bn+; custody revenue becomes dominant earner; regulatory clarity arrives Base 55% $165–195 Bitcoin stabilises $80–120,000 range; trading volumes moderate; ETF custody revenue grows steadily; no regulatory resolution but no escalation Bear 20% $90–120 Crypto winter returns; Bitcoin below $50,000; trading volumes collapse 70–80%; ETF outflows begin; SEC enforcement intensifies Weighted price target: 25% × 250 + 55% × 180 + 20% × 105 = $181 . Essentially at fair value. The recommendation is REDUCE because beta of 3.62 makes this a Bitcoin trade, not a quality investment — the risk/reward at current levels does not compensate for the volatility. Adjusted conviction: 44/100 .",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Crypto market cycle: Coinbase's revenue is directly correlated with crypto asset prices and trading volumes. A sustained crypto bear market would compress earnings dramatically. This is not a business that can perform independently of crypto market conditions. 2 SEC regulatory risk: The SEC enforcement action creates ongoing regulatory uncertainty. A worse-than-expected outcome could restrict Coinbase's product offering in the US, which accounts for a significant share of revenue. 3 Custody concentration risk: If the Bitcoin ETFs face redemptions or regulatory restrictions, Coinbase's ETF custody revenue would decline. This is more structural than trading revenue but still crypto-market-dependent.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1 Crypto market cycle: Coinbase's revenue is directly correlated with crypto asset prices and trading volumes. A sustained crypto bear market would compress earnings dramatically. This is not a business that can perform independently of crypto market conditions."
+        },
+        {
+          "rank": 2,
+          "risk": "2 SEC regulatory risk: The SEC enforcement action creates ongoing regulatory uncertainty. A worse-than-expected outcome could restrict Coinbase's product offering in the US, which accounts for a significant share of revenue."
+        },
+        {
+          "rank": 3,
+          "risk": "3 Custody concentration risk: If the Bitcoin ETFs face redemptions or regulatory restrictions, Coinbase's ETF custody revenue would decline. This is more structural than trading revenue but still crypto-market-dependent."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Investors who explicitly want high-beta Bitcoin/crypto market exposure through a regulated, liquid listed vehicle. Those who believe in continued Bitcoin appreciation and want to express that view without holding Bitcoin directly. Should avoid: Anyone who thinks they are buying a high-quality financial services business — they are buying a 3.6× Bitcoin proxy. Value investors. ESG mandates that restrict exposure to companies under SEC enforcement action."
+    },
+    "recommendation": {
+      "text": "REDUCE — SPECULATIVE at $178.90. High-quality exchange, genuine regulatory moat, and the Bitcoin ETF custody business is a structural positive. But 3.62 beta makes this a Bitcoin trade, not a quality investment. Position sizing must reflect that."
+    },
+    "entryExit": {
+      "text": "Below $140 — more interesting high-beta crypto proxy. $140–$180 — speculative hold only. Above $190 — take profit / reduce significantly. Conviction Trend Latest conviction: 44/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 44"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 44,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 44,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

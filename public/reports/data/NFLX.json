@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "NFLX",
+    "company": "Netflix, Inc.",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 67,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Netflix's ad-supported tier and password-sharing crackdown are delivering strong revenue growth and margin expansion, but the stock has already re-rated significantly on these themes and the P/E now prices in considerable execution success -- HOLD . HOLD Conviction Score: 67/100 — HOLD"
+    },
+    "businessModel": {
+      "text": "Netflix is the world's largest subscription streaming video platform, with approximately 280 million paid subscribers worldwide (as of late 2025). The company generates revenue through monthly subscription fees, charging different tiers: Ad-Supported (cheapest, with advertising), Standard (HD, two simultaneous streams) and Premium (4K UHD, four streams). Revenue streams: subscription fees (~99% of revenue), content licensing to other platforms, and an emerging advertising business from the ad-supported tier. The company is investing in Netflix's advertising technology platform (managed service with Microsoft as ad server partner) to build a meaningful ads business over time. Key content investments: licensed studio content, self-produced series and films. Geographic: global, with the US/Canada, Europe and Latin America as mature markets and Asia-Pacific as the key growth frontier."
+    },
+    "financialSnapshot": {
+      "text": "Market Cap N/A NasdaqGS Trailing P/E N/A 12-month earnings EPS (TTM) N/A Trailing twelve months 52-Week High $134.12 -23.2% from high 52-Week Low $75.01 From low: +37.3% vs 52-Week High -23.2% Distance to high",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "The password-sharing crackdown (rolled out globally through 2023-2024) has driven stronger-than-expected subscriber additions in multiple markets. The ad-supported tier ('Netflix Standard with Ads') has been a genuine surprise, reaching double-digit millions of monthly active users and growing. Advertisers value Netflix's premium, intent-rich viewing environment. Recent quarterly results showed revenue growth re-accelerating to double digits on a constant currency basis, with operating margins expanding to 26%+. Management's long-term operating margin target is 30%+. The company has slowed content spending relative to revenue growth, improving free cash flow significantly. NFLX has also launched a live sports expansion (NFL Christmas games, WWE programming) to attract broad audiences."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 85 Target: $130.00 | EPS: $8.00 Ad tier becomes a major revenue pillar, achieving 40M+ MAU and meaningful CPMs. International subscriber growth accelerates in Asia-Pacific. Live sports expands reach. Operating margins reach 30%+. EPS reaches $8.00+. Base Case 67 Target: $112.00 | EPS: $6.00 Ad tier grows steadily to 20-25M MAU. Subscriber growth normalises to mid-single digit. Content spend discipline sustains margin expansion. EPS ~$6.00. Bear Case 48 Target: $78.00 | EPS: $4.00 Ad-tier growth disappoints as Disney+ and Max compete for premium ad budgets. Subscriber growth stalls in saturated markets. Content costs remain elevated. EPS falls to $4.00. Conviction Score (Bull 30% + Base 50% + Bear 20%): 67 / 100 — HOLD",
+      "bull": {
+        "scenario": "Ad tier becomes a major revenue pillar, achieving 40M+ MAU and meaningful CPMs. International subscriber growth accelerates in Asia-Pacific. Live sports expands reach. Operating margins reach 30%+. EPS reaches $8.00+.",
+        "probability": 30
+      },
+      "base": {
+        "scenario": "Ad tier grows steadily to 20-25M MAU. Subscriber growth normalises to mid-single digit. Content spend discipline sustains margin expansion. EPS ~$6.00.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "Ad-tier growth disappoints as Disney+ and Max compete for premium ad budgets. Subscriber growth stalls in saturated markets. Content costs remain elevated. EPS falls to $4.00.",
+        "probability": null
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Streaming competition: Disney+ (with Hulu), Max (WBD), Paramount+, Peacock and Apple TV+ all compete for the same consumer wallet. An overcrowded streaming market may lead to subscriber saturation and margin pressure across the industry. #2 Advertising market risk: The digital advertising market is sensitive to economic cycles. A recession would impair the nascent Netflix ad business and CPM rates. #3 Content cost inflation: Netflix's content spending ($17B+/year) is substantial. Any missteps in content investment or below-expectation performance of key titles would impair subscriber retention. #4 International expansion challenges: Penetration in Asia-Pacific is constrained by lower ARPU, piracy in some markets, and local language content requirements that increase costs. #5 Valuation: At $103, the stock prices in a lot of execution success. The P/E is demanding for a company that is still navigating the transition from growth to mature phases.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Streaming competition: Disney+ (with Hulu), Max (WBD), Paramount+, Peacock and Apple TV+ all compete for the same consumer wallet. An overcrowded streaming market may lead to subscriber saturation and margin pressure across the industry."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 Advertising market risk: The digital advertising market is sensitive to economic cycles. A recession would impair the nascent Netflix ad business and CPM rates."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Content cost inflation: Netflix's content spending ($17B+/year) is substantial. Any missteps in content investment or below-expectation performance of key titles would impair subscriber retention."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 International expansion challenges: Penetration in Asia-Pacific is constrained by lower ARPU, piracy in some markets, and local language content requirements that increase costs."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Valuation: At $103, the stock prices in a lot of execution success. The P/E is demanding for a company that is still navigating the transition from growth to mature phases."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who believe the ad-supported tier will become a durable second revenue engine and that content investment will sustain subscriber growth globally. The margin expansion story is compelling. Avoid: Value investors will object to the P/E for a company still managing a complex competitive transition. ESG funds may object to the absence of meaningful ESG disclosure relative to peers."
+    },
+    "recommendation": {
+      "text": "HOLD Score: 67/100 Netflix has executed impressively on password sharing, the ad tier and content discipline. The margin expansion story is real and the advertising opportunity is larger than initially expected. However, the stock has done a lot of work already. HOLD. Entry Framework: BUY below $82 (meaningful pullback from current levels). Reduce above $118 (premium for execution quality is fully captured). HOLD in the $82-$118 range. BUY below $70 HOLD $$100-$123 REDUCE above $136"
+    },
+    "entryExit": {
+      "text": "BUY below $70 | HOLD $$100-$123 | REDUCE above $136"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

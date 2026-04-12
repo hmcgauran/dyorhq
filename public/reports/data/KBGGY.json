@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "KBGGY · NO",
+    "company": "Kering SA ADR",
+    "exchange": "NO",
+    "isin": "NO0013536151",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 58,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Kering is the second-largest luxury goods group in the world, built around the Gucci franchise with supporting positions in Saint Laurent, Bottega Veneta, Balenciaga, and Alessandro Michele's legacy brands. At $21.92 (ADR), the stock is up modestly from recent lows but remains well below its 52-week high of $22.20, reflecting the market's continued uncertainty around Gucci's creative and commercial turnaround under new leadership. The bull case centres on Gucci's eventual stabilisation under a r"
+    },
+    "businessModel": {
+      "text": "Kering generates revenue from owned brands across fashion, leather goods, jewellery, and watches. Gucci alone accounts for roughly half of group revenue. The group's strategy has been to shift toward fewer, higher-productivity directly operated stores while cutting wholesale exposure to protect brand equity and margin. The luxury goods moat is brand prestige combined with scarcity and heritage. Kering's challenge is that Gucci, its dominant brand, has been losing share to competitors — particularly LVMH's Louis Vuitton and Hermès — in the post-pandemic luxury boom. Gucci's reset under a new creative director is the central investment question. The group's other brands (Saint Laurent, Bottega Veneta) provide some diversification, but none individually compensates if Gucci underperforms. The portfolio strategy has shifted toward quality over quantity — divesting underperforming brands and focusing investment on the strongest names."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $21.92 52-week range: $21.60 – $22.20 Current position: near the top of the range — limited pullback from recent highs Market cap: ~$26.2bn (ADR) P/E (trailing): 46.5× EPS (TTM): $9.05 Beta: 1.65 The trailing P/E of 46.5× is elevated for a business in brand transition. The stock has not de-rated as much as the underlying Gucci operational weakness might suggest. Forward estimates are likely cut as Gucci's reset progresses.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Gucci creative reset: The appointment of a new creative director to replace Alessandro Michele has been underway. The market is waiting to see whether the new creative direction can restore Gucci's desirability and stop the market-share losses to Louis Vuitton. Luxury sector headwinds: Post-pandemic luxury spending has normalised. Chinese consumer confidence remains weak, affecting the high-spending tourist and aspirational luxury buyer. This has broadly impacted the luxury sector — Kering is not alone. Saint Laurent and Bottega Veneta: These brands have been more stable than Gucci and provide some earnings diversification. Bottega's intrecciato leather goods have built genuine brand equity; Saint Laurent remains a solid mid-tier luxury brand. Balance sheet and capital return: Kering has been divesting non-core assets and returning capital. The balance sheet remains a strength relative to some peers.",
+      "items": [
+        "Gucci creative reset: The appointment of a new creative director to replace Alessandro Michele has been underway. The market is waiting to see whether the new creative direction can restore Gucci's desirability and stop the market-share losses to Louis Vuitton.",
+        "Luxury sector headwinds: Post-pandemic luxury spending has normalised. Chinese consumer confidence remains weak, affecting the high-spending tourist and aspirational luxury buyer. This has broadly impacted the luxury sector — Kering is not alone.",
+        "Saint Laurent and Bottega Veneta: These brands have been more stable than Gucci and provide some earnings diversification. Bottega's intrecciato leather goods have built genuine brand equity; Saint Laurent remains a solid mid-tier luxury brand.",
+        "Balance sheet and capital return: Kering has been divesting non-core assets and returning capital. The balance sheet remains a strength relative to some peers."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Probability Price Target Key Drivers Bull 25% $28+ Gucci creative reset works; market share stabilises; luxury demand recovers; group re-rates to luxury peer average Base 55% $21–26 Gucci reset is gradual; sector stays mixed; no re-rating but no collapse; range-bound Bear 20% $15–19 Gucci reset fails; luxury demand weakens further; Chinadrag on performance persists; earnings fall meaningfully Weighted price target: 25% × 28 + 55% × 23.5 + 20% × 17 = $23.3 . Current price of $21.92 is slightly below base-case fair value, which is why the recommendation is HOLD rather than REDUCE. Adjusted conviction: 58/100 .",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Gucci brand reset risk — This is the dominant single-company risk. If the new creative director fails to restore Gucci's desirability, the group's earnings and multiple will remain under pressure. Gucci accounts for ~50% of group revenue. 2 China and aspirational luxury weakness — Chinese consumers account for a significant share of luxury spending globally. Consumer confidence in China remains soft, and the aspirational luxury buyer — who trades up to Gucci from mid-market — has become more cautious. 3 Luxury sector multiple compression — The luxury sector has re-rated down from 2021–2022 peaks as growth normalised. If growth continues to disappoint, sector multiples compress further, dragging Kering with them. 4 Competition from LVMH — Louis Vuitton has been more resilient than Gucci through the sector's recent softness. LVMH's diversified brand portfolio and strong execution has taken share. If this persists, Kering's competitive position deteriorates structurally.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1 Gucci brand reset risk — This is the dominant single-company risk. If the new creative director fails to restore Gucci's desirability, the group's earnings and multiple will remain under pressure. Gucci accounts for ~50% of group revenue."
+        },
+        {
+          "rank": 2,
+          "risk": "2 China and aspirational luxury weakness — Chinese consumers account for a significant share of luxury spending globally. Consumer confidence in China remains soft, and the aspirational luxury buyer — who trades up to Gucci from mid-market — has become more cautious."
+        },
+        {
+          "rank": 3,
+          "risk": "3 Luxury sector multiple compression — The luxury sector has re-rated down from 2021–2022 peaks as growth normalised. If growth continues to disappoint, sector multiples compress further, dragging Kering with them."
+        },
+        {
+          "rank": 4,
+          "risk": "4 Competition from LVMH — Louis Vuitton has been more resilient than Gucci through the sector's recent softness. LVMH's diversified brand portfolio and strong execution has taken share. If this persists, Kering's competitive position deteriorates structurally."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Investors wanting luxury sector exposure with a turnaround angle. Those who believe the Gucci reset will eventually work and want to own the stock ahead of that catalyst. Long-term luxury category believers who can tolerate a slow-burning recovery. Should avoid: Anyone needing a near-term positive catalyst. Investors who think the luxury sector multiple compression has further to go. Anyone unwilling to accept single-brand concentration risk (Gucci is the dominant variable)."
+    },
+    "recommendation": {
+      "text": "Conviction score: 58/100 . Not a buy, not a sell. Kering is a quality luxury franchise with a clear turnaround story in Gucci — but the turnaround is not de-risked yet and the multiple is still elevated for a business in transition. HOLD at $21.92. Wait for evidence that Gucci's new creative direction is resonating before adding. Preferred entry: Add on pullback below $19 — better risk/reward Add on confirmed Gucci stabilisation signal (sell-through data, store traffic improvement) Avoid chasing above $24 without clear evidence"
+    },
+    "entryExit": {
+      "text": "Below $19: Accumulation zone — turnaround risk/reward improving $19–$22: Hold zone — wait for Gucci stabilisation evidence $22–$24: Neutral — pricing in some recovery but not a compelling new entry Above $24: Trim — extended for a business still in transition Key trigger: Gucci sell-through data and creative direction confirmation Conviction Trend Latest conviction: 58/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 58"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 58,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 58,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

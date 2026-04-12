@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "CAD · TSX-V",
+    "company": "Colonial Coal International Corp",
+    "exchange": "TO",
+    "isin": "CA1956151098",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD — SPECULATIVE",
+    "recommendationNote": "HOLD — SPECULATIVE",
+    "conviction": 55,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Colonial Coal International Corp is a Vancouver-listed metallurgical (steelmaking) coal company focused on the Peace River coalfield in north-east British Columbia. The company holds a 60% interest in the Steelmaking Coal (SMC) joint venture, a producing asset with long-life reserves and established infrastructure, alongside a portfolio of exploration properties. At $2.77 with a market cap of approximately $514m, it is a micro-cap name that trades on minimal liquidity and thin analyst coverage. "
+    },
+    "businessModel": {
+      "text": "Colonial Coal's core asset is the Steelmaking Coal joint venture (SMC), a producing metallurgical coal operation. The SMC produces premium PCI (pulverised coal injection) and coking coal used in steel blast furnaces. Unlike thermal coal, which is burned for power, metallurgical coal commands a significant price premium and is structurally more tightly supplied — new projects take 7-10 years to reach production, making supply inelastic. The company generates revenue from coal sales under offtake agreements, primarily to Japanese and South Korean steelmakers. Pricing is linked to the quarterly benchmark metallurgical coal price, which is volatile but has been supported by Chinese steel production, Australian weather disruptions, and a multi-year underinvestment cycle in new coal supply. The strategic value of Colonial Coal lies not just in the operating asset but in the substantial resource base — the Peace River coalfield is one of the few large, well-understood met coal basins in the Western world with established rail and port infrastructure. This makes it a logical consolidation target."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $2.77 Market cap: ~$514M P/E: N/A — fundamental data unavailable from live sources; this is a known limitation for this report EPS: N/A Currency: CAD or GBX depending on listing (confirm with broker) Note: Financial fundamentals (P/E, EPS, revenue, debt) are unavailable for CAD from all accessible live sources at time of publication. This report is based on publicly known asset-level data and commodity price context. Please verify all figures independently before making investment decisions.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Metallurgical coal price strength: Premium PCI and coking coal prices have been supported by Chinese steel output, Australian supply disruptions, and geopolitical trade flows that have redirected Australian exports away from China toward other Asian markets. Acquisition speculation: Colonial Coal's jurisdiction advantage (stable, G7-listed, well-understood resource) makes it a logical target for major thermal or metallurgical coal producers looking to secure reserves in a stable jurisdiction. Any rumour of strategic interest would be a significant re-rating catalyst. SMC production milestones: Volume growth or cost reduction at the SMC joint venture would be directly value-accretive. Currency: CAD-denominated revenues mean the AUD/CAD and USD/CAD exchange rates materially affect CAD-denominated returns for GBP or USD investors.",
+      "items": [
+        "Metallurgical coal price strength: Premium PCI and coking coal prices have been supported by Chinese steel output, Australian supply disruptions, and geopolitical trade flows that have redirected Australian exports away from China toward other Asian markets.",
+        "Acquisition speculation: Colonial Coal's jurisdiction advantage (stable, G7-listed, well-understood resource) makes it a logical target for major thermal or metallurgical coal producers looking to secure reserves in a stable jurisdiction. Any rumour of strategic interest would be a significant re-rating catalyst.",
+        "SMC production milestones: Volume growth or cost reduction at the SMC joint venture would be directly value-accretive.",
+        "Currency: CAD-denominated revenues mean the AUD/CAD and USD/CAD exchange rates materially affect CAD-denominated returns for GBP or USD investors."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Probability Price Target Key Drivers Bull 25% $4.50+ Acquisition bid or strategic investment from a major coal producer; sustained met coal prices above $250/t; SMC expansion confirmed; CAD strengthens against GBP Base 50% $2.50–3.50 Met coal prices remain elevated but volatile; SMC operates steadily; no M&A catalyst; currency headwinds cap GBP returns Bear 25% $1.50–2.30 Met coal price collapse (global steel output falls, Australian supply returns fully); operating issues at SMC; CAD weakens; equity raise dilutes Weighted price target: 25% × 4.50 + 50% × 3.00 + 25% × 1.90 = $3.22 . Slight upside from $2.77. Conviction: 55/100 . HOLD — SPECULATIVE.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Commodity price volatility: Metallurgical coal prices are highly cyclical. A sustained decline in the benchmark price would directly reduce revenues and could make the business unprofitable at lower price points. 2 Liquidity risk: As a micro-cap TSX-V listed name, Colonial Coal trades on thin volume. A position of any meaningful size is difficult to exit without moving the market. 3 Fundamentals data unavailable: Live P/E, EPS, revenue, and debt data are not accessible from public sources for this report. The analysis above is based on asset-level context and commodity assumptions, not confirmed financials. 4 ESG and transition risk: Steelmaking is hard-to-abate in the near term, but long-term green steel transition (hydrogen-based direct reduction) is a structural headwind for metallurgical coal demand beyond 2035.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1 Commodity price volatility: Metallurgical coal prices are highly cyclical. A sustained decline in the benchmark price would directly reduce revenues and could make the business unprofitable at lower price points."
+        },
+        {
+          "rank": 2,
+          "risk": "2 Liquidity risk: As a micro-cap TSX-V listed name, Colonial Coal trades on thin volume. A position of any meaningful size is difficult to exit without moving the market."
+        },
+        {
+          "rank": 3,
+          "risk": "3 Fundamentals data unavailable: Live P/E, EPS, revenue, and debt data are not accessible from public sources for this report. The analysis above is based on asset-level context and commodity assumptions, not confirmed financials."
+        },
+        {
+          "rank": 4,
+          "risk": "4 ESG and transition risk: Steelmaking is hard-to-abate in the near term, but long-term green steel transition (hydrogen-based direct reduction) is a structural headwind for metallurgical coal demand beyond 2035."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Speculative investors with a high commodity risk tolerance who want direct metallurgical coal exposure through a listed vehicle. Those who believe the steelmaking coal supply deficit is structural and not yet fully priced. Investors who can tolerate illiquidity and a binary M&amp;A outcome. Should avoid: Anyone who needs accessible fundamentals, liquidity, or dividend income. ESG-conscious investors (coal is coal). Anyone who cannot tolerate a 40-50% drawdown in a commodity micro-cap."
+    },
+    "recommendation": {
+      "text": "HOLD — SPECULATIVE at $2.77. The jurisdiction advantage and SMC asset are genuinely interesting. The commodity leverage story has merit. But live fundamentals are unavailable, liquidity is thin, and near 52-week highs relative to the historical range make this a hold rather than a buy at current levels."
+    },
+    "entryExit": {
+      "text": "Below $2.00 — accumulation zone for speculative accounts. $2.00–$3.00 — hold. Above $4.00 — trim or exit on M&amp;A rumour. Key triggers: met coal price moves above $280/t or below $180/t,. SMC JV production updates, any strategic process indication from the board. Conviction Trend Latest conviction: 55/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 55"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 55,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 55,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

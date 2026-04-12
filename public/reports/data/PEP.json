@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ticker": "PEP",
+    "company": "PEP",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 54,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Frito-Lay (snacks North America, ~25%), PepsiCo Beverages North America (~25%), Latin America (~20%), Europe (~15%), and Africa/Asia, Australia, China and New Zealand (~15%)."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Dividend aristocrat: 53 consecutive years of dividend increases; yield ~2.7% $7bn annual buyback programme provides ongoing capital return floor Latin America and Africa emerging markets growing high-single-digit organic revenue Amazon distribution partnership expanding for direct-to-consumer snack delivery",
+      "items": [
+        "Dividend aristocrat: 53 consecutive years of dividend increases; yield ~2.7%",
+        "$7bn annual buyback programme provides ongoing capital return floor",
+        "Latin America and Africa emerging markets growing high-single-digit organic revenue",
+        "Amazon distribution partnership expanding for direct-to-consumer snack delivery"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "62 Bull 54 Base 40 Bear 54 Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1. US beverage and snack volumes negative FY25: consumer trading down in key categories 2. Mexico (Femsa) refranchising overhang: pending transaction could create supply-chain disruption 3. Commodity input costs (corn, sugar, aluminium) elevated — 2-year hedged but FY27 exposure 4. Hart-Scott-Rodino antitrust review on streaming/subscription beverage bundles 5. EU sugary-drink tax expansion reducing revenue-per-litre in European markets",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. US beverage and snack volumes negative FY25: consumer trading down in key categories"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Mexico (Femsa) refranchising overhang: pending transaction could create supply-chain disruption"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Commodity input costs (corn, sugar, aluminium) elevated — 2-year hedged but FY27 exposure"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Hart-Scott-Rodino antitrust review on streaming/subscription beverage bundles"
+        },
+        {
+          "rank": 5,
+          "risk": "5. EU sugary-drink tax expansion reducing revenue-per-litre in European markets"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Defensive income portfolio anchor for investors requiring yield and dividend longevity. NOT suitable for investors seeking growth or those expecting commodity tailwinds for the snack and beverage portfolio."
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "BUY/HOLD: Fair value zone $148–$158 at current growth rates. | REDUCE above $168."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 54,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 54,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

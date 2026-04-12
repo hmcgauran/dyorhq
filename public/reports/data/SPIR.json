@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "ticker": "SPIR",
+    "company": "Spire Global Inc",
+    "exchange": "US",
+    "isin": "US8485603067",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD — SPECULATIVE",
+    "recommendationNote": "HOLD — SPECULATIVE",
+    "conviction": 60,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist",
+      "uk"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Spire is one of the more interesting smaller-cap space data names because it sells data and analytics rather than relying entirely on long-dated hardware optionality. The proposition, satellite-derived weather, maritime and aviation data, is commercially understandable. At $20.36, however, the stock is only 0.7% below its 52-week high, so the market is already giving it a lot of credit. Unlike several speculative peers, Spire at least has a visible commercial use case and a positive earnings pro"
+    },
+    "businessModel": {
+      "text": "Spire operates a constellation of small satellites and monetises the resulting data through subscription analytics products for weather, maritime, aviation and government customers. The core appeal is recurring data revenue rather than one-off hardware wins. The moat is moderate rather than absolute. The company benefits from proprietary data collection infrastructure, but must still prove that its data products are sticky and valuable enough to resist pricing pressure and competitive overlap."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $20.36 Market cap: $545M 52-week range: $16.00 – $20.50 P/E: 10.1x EPS: $1.59 Beta: 2.30 The valuation is not absurd on earnings, but the stock is near the top of the range and still carries high volatility. That limits how aggressive the analyst would be here.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Demand for weather and maritime intelligence remains structurally supportive. Government and defence-related data demand continues to support sector sentiment. The stock has rerated with broader space and satellite interest, leaving less room for disappointment.",
+      "items": [
+        "Demand for weather and maritime intelligence remains structurally supportive.",
+        "Government and defence-related data demand continues to support sector sentiment.",
+        "The stock has rerated with broader space and satellite interest, leaving less room for disappointment."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%): recurring data revenue scales cleanly, margins improve, and the market rerates the name as a credible space-data compounder. Base (50%): steady but unspectacular growth with the stock broadly holding near current levels. Bear (25%): execution slips, growth slows, and the multiple compresses back toward the mid-teens. Weighted conviction: 60/100. Decent model, limited margin of safety.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Execution risk: a small-cap data business still needs steady contract wins and retention. Multiple risk: near-high pricing leaves little room for slower growth. Volatility: beta remains elevated and position sizing matters.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Execution risk: a small-cap data business still needs steady contract wins and retention."
+        },
+        {
+          "rank": 2,
+          "risk": "Multiple risk: near-high pricing leaves little room for slower growth."
+        },
+        {
+          "rank": 3,
+          "risk": "Volatility: beta remains elevated and position sizing matters."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: investors wanting smaller-cap space exposure with a more understandable commercial model. Should avoid: anyone looking for cheap entry, low volatility, or very high conviction."
+    },
+    "recommendation": {
+      "text": "HOLD — SPECULATIVE at $20.36. Better than many theme names, but not a gift at this level."
+    },
+    "entryExit": {
+      "text": "Below $17: more attractive $17–$20: hold zone Above $21: trim Key trigger: recurring data growth with operating leverage Conviction Trend Latest conviction: 60/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 60"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via DYOR HQ data pipeline (Google Sheets + Yahoo Finance). Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ Google Sheet workflow. Fields typically pulled via this route include live price, market capitalisation, 52-week range, EPS, P/E, volume, and other quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $20.36",
+        "Market Cap $545M",
+        "P/E 10.1x",
+        "52w High $20.50",
+        "52w Low $16.00",
+        "Beta 2.30"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 60,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 60,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}
