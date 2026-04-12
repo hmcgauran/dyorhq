@@ -295,8 +295,6 @@
     });
   }
 
-})();
-
 // ─── Report Page Loader (called by thin-shell report pages) ───
 async function loadReport(ticker) {
   try {
@@ -438,3 +436,4 @@ function buildConvictionHistory(scores) {
   html += `</tbody></table></div></div>`;
   return html;
 }
+());
