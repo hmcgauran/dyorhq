@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-11T21:18:38.554Z",
-  "generatedAt": "11/04/2026, 22:18:41",
+  "timestamp": "2026-04-12T06:50:09.221Z",
+  "generatedAt": "12/04/2026, 07:50:12",
   "tickers": {
     "ABVE": {
       "ticker": "ABVE",
@@ -60,7 +60,7 @@
       "marketCap": 462131300000,
       "week52High": 192.67,
       "week52Low": 102.19,
-      "pe": 22.47,
+      "pe": 22.46,
       "eps": 5.67,
       "currency": "USD",
       "exchange": null
@@ -417,8 +417,8 @@
       "marketCap": 42553599663,
       "week52High": 2215,
       "week52Low": 1350,
-      "pe": 17.98,
-      "eps": 0.81,
+      "pe": 18.02,
+      "eps": 0.8,
       "currency": "GBX",
       "exchange": null
     },
@@ -501,7 +501,7 @@
       "marketCap": 66149937036,
       "week52High": 577.26,
       "week52Low": 237.88,
-      "pe": 252.3,
+      "pe": 252.75,
       "eps": 0.02,
       "currency": "GBX",
       "exchange": null
@@ -984,7 +984,7 @@
       "marketCap": 71855620,
       "week52High": 0.08,
       "week52Low": 0.04,
-      "pe": 15.86,
+      "pe": 15.98,
       "eps": 0,
       "currency": "AUD",
       "exchange": null
@@ -1425,7 +1425,7 @@
       "marketCap": 4200418816,
       "week52High": 18.5,
       "week52Low": 8.9,
-      "pe": 27.11,
+      "pe": 27.4,
       "eps": 0.62,
       "currency": "EUR",
       "exchange": null
