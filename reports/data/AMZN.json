@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "ticker": "AMZN",
+    "company": "Amazon.com Inc",
+    "exchange": "US",
+    "isin": "US0231351067",
+    "date": "10 Apr 2026",
+    "datePublished": "2026-04-10",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 76,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Amazon is the world's largest e-commerce marketplace and cloud infrastructure provider, operating a network effect business with two dominant platforms - marketplace and AWS - that reinforce each other. AWS is the leading cloud platform, generating $100B+ in annual revenue with strong growth and significant AI opportunity through Bedrock. The e-commerce marketplace generates massive cash flow that funds AWS's AI infrastructure investment. The stock at $238.38 is 2% below its 52w high and is the "
+    },
+    "businessModel": {
+      "text": "Amazon operates three core businesses: North America e-commerce (approximately 45% of revenue), International e-commerce (approximately 25%), and Amazon Web Services (approximately 25%). The Advertising segment is a high-margin overlay on all three that has become a significant profit driver in its own right. AWS is the dominant cloud platform, competing with Microsoft Azure and Google Cloud. AWS's AI strategy centres on Bedrock - a managed service for building generative AI applications - and Trainium/Inferentia custom AI chips that compete with NVIDIA GPUs. The AI opportunity for AWS is not just compute but the full stack of enterprise AI adoption. The e-commerce marketplace is transitioning from a logistics company that happens to sell goods to a logistics infrastructure provider that monetises its fulfilment network through third-party seller services. This shift is improving margins structurally."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $238.38 Market cap: $2.56 trillion 52-week range: $123.62 - $243.77 Current position in range: ~93rd percentile P/E (trailing): 33.2x Beta: 1.37 Day move: -2% from 52w high The stock has been in a narrow band near its 52w highs for several months. The 52w range is unusually tight ($120.15), suggesting a coiled spring. The P/E of 33.2x reflects AI optimism for AWS without fully pricing in the AI revenue acceleration that is underway.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Q4 2025 earnings (6 Feb 2026): AWS grew 19% YoY, ahead of expectations, as AI workloads drove accelerated adoption of compute and Bedrock. Advertising grew 27%. North America e-commerce margins hit a multi-year high. EPS of $1.89 beat consensus by $0.12. AWS Bedrock momentum: Bedrock is the fastest-growing service in AWS history. Major enterprise customers are using Bedrock to build RAG applications, code generation tools, and customer service AI. This is the primary AI monetisation vehicle. Kuiper satellite broadband launch: Amazon's Project Kuiper satellite constellation is launching, competing with Starlink. The long-term opportunity is significant but capital intensive and multi-year. DOGE/government efficiency focus: Amazon Web Services is a major beneficiary of federal government cloud migration. Any federal efficiency initiatives that drive cloud adoption could be a direct catalyst.",
+      "items": [
+        "Q4 2025 earnings (6 Feb 2026): AWS grew 19% YoY, ahead of expectations, as AI workloads drove accelerated adoption of compute and Bedrock. Advertising grew 27%. North America e-commerce margins hit a multi-year high. EPS of $1.89 beat consensus by $0.12.",
+        "AWS Bedrock momentum: Bedrock is the fastest-growing service in AWS history. Major enterprise customers are using Bedrock to build RAG applications, code generation tools, and customer service AI. This is the primary AI monetisation vehicle.",
+        "Kuiper satellite broadband launch: Amazon's Project Kuiper satellite constellation is launching, competing with Starlink. The long-term opportunity is significant but capital intensive and multi-year.",
+        "DOGE/government efficiency focus: Amazon Web Services is a major beneficiary of federal government cloud migration. Any federal efficiency initiatives that drive cloud adoption could be a direct catalyst."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (30%): AWS AI revenue reaches $50B+ as enterprise AI adoption accelerates. Bedrock becomes the default platform for enterprise GenAI. Kuiper launches successfully. E-commerce margins expand to 8%+. Price target $270+. Base (55%): AWS grows 18-22% on AI compute demand. Advertising sustains 20%+ growth. E-commerce margins improve gradually to 6-7%. Price target $230-255. Bear (15%): Enterprise cloud spending slows. AWS loses share to Azure. E-commerce competition from Temu and Shein intensifies. Price target $190-205. Weighted conviction: (30% × 265) + (55% × 225) + (15% × 200) = 79.5 + 123.75 + 30 = 233 → normalised to 76/100 . Scale advantage, AWS AI positioning, and advertising flywheel justify the quality premium.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Azure competition (MEDIUM): Microsoft Azure's integration with OpenAI and Microsoft 365 is a meaningful competitive advantage in enterprise AI adoption. AWS must demonstrate that Bedrock's model choice and enterprise features can compete effectively. E-commerce competition (MEDIUM): Temu and Shein are taking share in ultra-fast fashion and general merchandise. If they expand categories and logistics capability, they become a structural headwind for Amazon's marketplace. AI capex pressure (MEDIUM): Amazon is investing heavily in custom AI chips and data centre infrastructure. The ROI of this investment is uncertain - if AI adoption is slower than expected, the capex burden will weigh on free cash flow.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Azure competition (MEDIUM): Microsoft Azure's integration with OpenAI and Microsoft 365 is a meaningful competitive advantage in enterprise AI adoption. AWS must demonstrate that Bedrock's model choice and enterprise features can compete effectively."
+        },
+        {
+          "rank": 2,
+          "risk": "E-commerce competition (MEDIUM): Temu and Shein are taking share in ultra-fast fashion and general merchandise. If they expand categories and logistics capability, they become a structural headwind for Amazon's marketplace."
+        },
+        {
+          "rank": 3,
+          "risk": "AI capex pressure (MEDIUM): Amazon is investing heavily in custom AI chips and data centre infrastructure. The ROI of this investment is uncertain - if AI adoption is slower than expected, the capex burden will weigh on free cash flow."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Anyone who wants large-cap technology exposure with the best risk/reward at current prices. Investors who want AI infrastructure exposure through a business with a proven monetisation model. Those who want a business that can sustain 15%+ revenue growth at $2.4T scale. Should avoid: Pure value investors - Amazon's P/E reflects significant AI optimism. Investors who think Azure will definitively win enterprise AI. Those who prefer dividend income - Amazon does not pay a dividend."
+    },
+    "recommendation": {
+      "text": "BUY at $238.38. Amazon offers the best combination of quality, AI exposure, and valuation among the mega-cap technology companies at current levels. The AWS AI growth story is credible, the advertising business is a high-margin flywheel, and the e-commerce profitability improvement is structural. This is a core holding for a technology portfolio."
+    },
+    "entryExit": {
+      "text": "Below $215: High-conviction accumulation zone $215-$225: BUY - attractive risk/reward $225-$235: Hold range Above $235: Trim - approaching 52w highs, extended Key trigger: Q1 2026 earnings - AWS Bedrock revenue growth rate and AI compute demand Conviction Trend Latest conviction: 76/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-10 Report date Conviction 2026-04-10 76"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $238.38",
+        "Market Cap $2.56T",
+        "P/E 33.2x",
+        "52w High $243.77",
+        "52w Low $123.62",
+        "Beta 1.37"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 76,
+      "band": "HOLD",
+      "date": "2026-04-10",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-10",
+        "score": 76,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

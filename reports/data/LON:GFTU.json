@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "ticker": "GFTU.L",
+    "company": "Grafton Group Plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist",
+      "irish"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Grafton Group Plc (GFTU.L) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using N/A as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Grafton Group Plc is exposed to repair, remodel and non-residential building activity, with returns shaped by volume discipline, pricing and product mix. The rebuilt note now matches the corrected company mapping."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "GBX 918.20"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "N/A"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "N/A"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Housing and renovation demand, infrastructure activity, mix improvement and cost recovery are the main operating levers."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Construction activity can soften in a weaker macro backdrop. Input-cost inflation can pressure margins. Volumes can fall faster than pricing adjusts. Acquisition or integration execution can disappoint. Channel destocking can create noisy quarters.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Construction activity can soften in a weaker macro backdrop."
+        },
+        {
+          "rank": 2,
+          "risk": "Input-cost inflation can pressure margins."
+        },
+        {
+          "rank": 3,
+          "risk": "Volumes can fall faster than pricing adjusts."
+        },
+        {
+          "rank": 4,
+          "risk": "Acquisition or integration execution can disappoint."
+        },
+        {
+          "rank": 5,
+          "risk": "Channel destocking can create noisy quarters."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who want cyclical building-products exposure with operating leverage. Avoid: Investors seeking defensive earnings and low macro sensitivity."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ticker": "ELV",
+    "company": "ELV",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Elevance Health (formerly Anthem) sits at an inflection point as Medicare Advantage membership growth is offset by regulatory headwinds and medical cost normalisation, leaving the shares in reduce territory with limited near-term upside."
+    },
+    "businessModel": {
+      "text": "Elevance Health operates its Blue Cross Blue Shield-branded health plans across 14 states plus a national Specialty business and Carelon Services platform. The company covers approximately 48 million members across commercial (employer-sponsored and individual), Medicare Advantage, Medicaid, and Federal Employee Program (FEP). Unlike Cigna or UnitedHealth, Elevance has limited PBM exposure, preferring to partner with third-party PBMs and focus on medical management. The Carelon platform provides integrated pharmacy, behavioural health, and analytics services. Elevance is the second-largest US health insurer by membership and is unique among the Blues plans in operating a multi-state platform model rather than state-specific not-for-profit structures."
+    },
+    "financialSnapshot": {
+      "text": "Price $311.53 Market Cap $69.6bn P/E Ratio N/A EPS (TTM) N/A 52w High $443.29 29.7% from high 52w Low $273.71 13.8% above low Volume (avg) 1.1m",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Medicare Advantage membership grew 11% YoY in the 2025 open enrollment period, significantly ahead of the industry average. Carelon health platform revenue grew 18% YoY in FY2025, with the behavioural health integration initiative reaching 2.3 million attributed lives. FEP (Federal Employee Program) contract retained and expanded for plan year 2025-26, providing a stable ~4.5 million member base. Inaugural share buyback programme of $2.5bn authorised in Q4 2025, signalling management confidence in balance sheet strength. Blue Engage data platform launch connecting 140,000 providers to Elevance's care management algorithms.",
+      "items": [
+        "Medicare Advantage membership grew 11% YoY in the 2025 open enrollment period, significantly ahead of the industry average.",
+        "Carelon health platform revenue grew 18% YoY in FY2025, with the behavioural health integration initiative reaching 2.3 million attributed lives.",
+        "FEP (Federal Employee Program) contract retained and expanded for plan year 2025-26, providing a stable ~4.5 million member base.",
+        "Inaugural share buyback programme of $2.5bn authorised in Q4 2025, signalling management confidence in balance sheet strength.",
+        "Blue Engage data platform launch connecting 140,000 providers to Elevance's care management algorithms."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case $400 Upside: +28% | Weight: 30% Base Case $340 Upside: +9% | Weight: 50% Bear Case $265 Downside: -15% | Weight: 20% Elevance is a high-quality managed care operator with an underappreciated Carelon services franchise. The Medicare Advantage growth story is real, but the sector is entering a period of regulatory headwinds (CMS rate pressure, Star rating recalibration) that could compress margins. The absence of a P/E multiple (N/A in our data) is a concern - it suggests either recent acquisitions with heavy intangible amortisation, or a market expectation that earnings will be lumpy as the company invests in Carelon. The balance of probabilities at current levels skews toward hold/reduce.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Medicare Advantage CMS rate notice for 2027 plan year expected in February 2027 - any cuts to base rates would compress Medicare margins significantly. 2 Star ratings volatility - Elevance had mixed 2025 Star performance; a ratings decline triggers quality bonus reductions affecting EBIT by an estimated $300-500m. 3 Medical cost trend normalisation as deferred care from the pandemic fully normalises, potentially worsening MLR above company guidance. 4 Vertical integration by UnitedHealth (Optum) and Humana into provider services creates a more competitive landscape for Elevance's integrated care model. 5 State-level Medicaid eligibility redetermination unwind as pandemic-era continuous enrollment provisions expire, reducing Medicaid membership.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1"
+        },
+        {
+          "rank": 2,
+          "risk": "2"
+        },
+        {
+          "rank": 3,
+          "risk": "3"
+        },
+        {
+          "rank": 4,
+          "risk": "4"
+        },
+        {
+          "rank": 5,
+          "risk": "5"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Long-term managed care investors with high conviction in Medicare Advantage secular growth; those who want Blues plan exposure without UnitedHealth's complexity. | Avoid: You are risk-averse around Medicare Advantage regulatory headwinds; you want transparent earnings visibility (absent P/E is a concern); you require high dividend yield."
+    },
+    "recommendation": {
+      "text": "REDUCE REDUCE. Medicare Advantage growth is encouraging but regulatory and MLR headwinds are underappreciated by the market. Wait for clearer CMS 2027 rate signals before building positions. If initiating, use a staged approach: initial position at current levels, add on dips below $290."
+    },
+    "entryExit": {
+      "text": "If initiating, use a staged approach: initial position at current levels, add on dips below $290."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

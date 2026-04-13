@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ticker": "CAH",
+    "company": "CAH",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Cardinal Health faces a challenging transition as its core US distribution business battles generic deflation and hospital supply chain pricing pressure, while its Medical segment provides modest diversification - the balance of risks tilts toward reduce."
+    },
+    "businessModel": {
+      "text": "Cardinal Health operates two segments: (1) Pharmaceutical Solutions (distributes specialty and conventional pharmaceuticals, over-the-counter products, and consumer health items to hospitals, retail pharmacies, and physician offices; also provides nuclear medicine and patient-specific oncology services); and (2) Medical (manufactures and distributes surgical gloves, fluid management products, blood pressure monitoring cuffs, and remote patient monitoring devices to hospitals and healthcare systems globally). The Pharmaceutical Solutions segment handles ~30% of US pharmaceutical distribution (third-largest after McKesson and Cencora). Cardinal's Medical segment (which includes the Pontemed and Windstone assets) provides a degree of diversification but with lower margins than pure-play distribution."
+    },
+    "financialSnapshot": {
+      "text": "Price $215.52 Market Cap $50.7bn P/E Ratio 31 EPS (TTM) $6.95 52w High $233.6 7.7% from high 52w Low $128.44 67.8% above low Volume (avg) 1.3m",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Medical segment revenue grew 12% YoY in FY2025 (ended June 2025), driven by US surgical procedure volume recovery. New vendor-managed inventory (VMI) contracts with three major US health systems signed in H1 FY2025, locking in distribution fees through FY2028. Nuclear medicine (Cardinal Health's specialty unit) benefiting from increased PET scan utilisation for prostate and cardiac diagnostics. Strategic partnership withwrinkle-free surgical glove manufacturer expanded into Southeast Asia in Q4 FY2025. Operating margin improvement initiative targeting 50bps improvement annually through FY2027 supply chain automation.",
+      "items": [
+        "Medical segment revenue grew 12% YoY in FY2025 (ended June 2025), driven by US surgical procedure volume recovery.",
+        "New vendor-managed inventory (VMI) contracts with three major US health systems signed in H1 FY2025, locking in distribution fees through FY2028.",
+        "Nuclear medicine (Cardinal Health's specialty unit) benefiting from increased PET scan utilisation for prostate and cardiac diagnostics.",
+        "Strategic partnership withwrinkle-free surgical glove manufacturer expanded into Southeast Asia in Q4 FY2025.",
+        "Operating margin improvement initiative targeting 50bps improvement annually through FY2027 supply chain automation."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case $265 Upside: +23% | Weight: 30% Base Case $225 Upside: +4% | Weight: 50% Bear Case $175 Downside: -19% | Weight: 20% Cardinal Health is a quality essential-services business facing an earnings headwind from generic drug price deflation (particularly the impact of the Humira biosimilar transition on sister product Yuflyma and other adalimumab-adjoining drugs) and hospital budget tightness. The Medical segment is the strategic highlight - surgical procedure volumes are recovering post-pandemic, and the product portfolio (particularly fluid management and gloves) has pricing power in a consolidated hospital market. At 31x P/E, the market is pricing in considerable improvement that may not materialise.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Generic pharmaceutical pricing deflation - the ADC/biosimilar wave is reducing rebate income and per-prescription economics across the distribution network. 2 Hospital consolidation creates powerful GPO (group purchasing organisation) buyers that extract price concessions from Cardinal. 3 Opioid litigation exposure remains a significant legal tail risk with state AG litigation ongoing. 4 Medical segment margins under pressure from raw material (nitrile, latex) price volatility and overseas manufacturing cost inflation. 5 Customer concentration in pharmaceutical distribution - top customer (Cigna/Evernorth) accounts for ~15% of segment revenue.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1"
+        },
+        {
+          "rank": 2,
+          "risk": "2"
+        },
+        {
+          "rank": 3,
+          "risk": "3"
+        },
+        {
+          "rank": 4,
+          "risk": "4"
+        },
+        {
+          "rank": 5,
+          "risk": "5"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Healthcare sector allocators seeking diversified distribution exposure; contrarian investors betting on surgical procedure volume recovery. | Avoid: You are focused on margin quality; you want high-growth healthcare exposure; you are concerned about opioid litigation tail risk."
+    },
+    "recommendation": {
+      "text": "REDUCE REDUCE. The risk-reward does not support new positions at current valuations. Maintain existing positions and trim on any rallies toward $240+. Medical segment recovery thesis has merit but is insufficient to offset pharmaceutical distribution headwinds at a 31x P/E."
+    },
+    "entryExit": {
+      "text": ""
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "ticker": "SOFI",
+    "company": "SoFi Technologies Inc",
+    "exchange": "US",
+    "isin": "US8341701061",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "recommendationNote": "REDUCE - SPECULATIVE",
+    "conviction": 42,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "SoFi is a digital financial services company offering student loan refinancing, personal loans, credit cards, and savings accounts through a mobile-first platform. The company is attempting to transition from a fintech lender to a full financial services platform, competing with traditional banks and neobanks for deposit gathering and lending. At $16.62, the stock has de-rated significantly from its SPAC-era highs. The path to profitability is underway but the interest rate environment creates s"
+    },
+    "businessModel": {
+      "text": "SoFi earns revenue from: (1) net interest income on loans it holds on balance sheet, (2) loan origination fees, (3) membership and subscription fees (SoFi Money, SoFi Invest), and (4) referral fees from third-party financial products. The Galileo banking-as-a-service platform provides B2B revenue from fintech companies using SoFi's infrastructure."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $16.62 Market cap: $20.5 billion 52-week range: $9.25 - $17.85 P/E: 43x Beta: 2.33 Note: Not yet consistently profitable at operating level.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%): SoFi achieves GAAP profitability and sustains it. Member growth accelerates. Interest rate environment normalises. Price target $22+. Base (55%): Steady member growth. Interest income stabilises. Operating leverage improves margins. Price target $15-18. Bear (20%): Loan demand collapses. Credit quality deteriorates. Funding costs remain elevated. Price target $8-11. Weighted conviction: 42/100. REDUCE.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Interest rate sensitivity (HIGH): Rising rates simultaneously increase funding costs and reduce loan demand - the worst possible combination for a fintech lender. Credit quality (MEDIUM): Consumer credit deterioration in a slowdown would hit SoFi's loan portfolio harder than most lenders given the prime borrower focus.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Interest rate sensitivity (HIGH): Rising rates simultaneously increase funding costs and reduce loan demand - the worst possible combination for a fintech lender."
+        },
+        {
+          "rank": 2,
+          "risk": "Credit quality (MEDIUM): Consumer credit deterioration in a slowdown would hit SoFi's loan portfolio harder than most lenders given the prime borrower focus."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": "REDUCE - SPECULATIVE at $16.62. Fintech lending in a high-rate environment is structurally challenged."
+    },
+    "entryExit": {
+      "text": "Below $12: Reassess $12-$16: Speculative only Above $18: Trim Conviction Trend Latest conviction: 42/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 42"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $16.62",
+        "Market Cap $20.5B",
+        "P/E 43x",
+        "52w High $17.85",
+        "52w Low $9.25"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 42,
+      "band": "REDUCE",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 42,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

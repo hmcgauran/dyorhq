@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "ticker": "DCC",
+    "company": "DCC plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 80,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "DCC plc is a high-quality Irish-headquartered international sales, marketing and support services group, trading at 5160.00 GBX (pence) per share (~$66.05 USD equivalent) with a compelling combination of defensive recurring revenue, proven capital allocation discipline, and a valuation discount to higher-quality peers -- BUY . BUY Conviction Score: 80/100 - BUY"
+    },
+    "businessModel": {
+      "text": "DCC plc is a Dublin-headquartered international sales, marketing and support services company operating across three divisions: DCC Technology (consumer electronics, IT and home appliance distribution), DCC Healthcare (medical device and pharmaceutical supply chain), and DCC Energy (oil, LPG and renewable energy distribution and marketing). The company acts as an intermediary between manufacturers and retailers or end customers, providing distribution, logistics, marketing and value-added services. The model is defensive because it generates recurring revenues from established supplier-retailer relationships with high retention rates. DCC typically holds exclusive or semi-exclusive distribution agreements that provide pricing stability and volume visibility. Geographic exposure: UK (~35%), Ireland (~15%), rest of Europe (~40%), Asia-Pacific (~10%). DCC has a strong record of dividend growth and share buybacks, funded by consistent free cash flow generation."
+    },
+    "financialSnapshot": {
+      "text": "Current Price 5,160.00 GBX LSE Market Cap $6.2B Est. via price x shares Trailing P/E 17.50x 12-month earnings EPS (TTM) $294.88 Trailing twelve months 52-Week High 5,580.00 GBX -7.5% from high 52-Week Low 4,200.00 GBX +22.9% from low",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "DCC's energy division is benefiting from increased demand for LPG and renewable energy solutions in Europe, driven by energy security concerns and the transition away from natural gas in off-grid areas. The healthcare division's medical device supply chain business is expanding as healthcare systems outsource procurement and logistics to specialist operators. DCC Technology has been gaining share in premium consumer electronics distribution in Asia. Recent preliminary results showed solid revenue growth across all three divisions with operating profit growth. The company continues to evaluate bolt-on acquisition opportunities in each division."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 88 Target: 6,200.00 GBX | EPS: $330.00 Energy security demand drives volume and pricing in DCC Energy. DCC Healthcare wins major hospital procurement contracts in Europe. Technology division grows at double-digit rates. EPS reaches GBX 330+. Reports / DCC DCC DCC plc BUY 11 April 2026 $5,160.00 GBX ($66.05 USD equiv.) 80 Conviction out of 100 >",
+      "bull": {
+        "scenario": "Energy security demand drives volume and pricing in DCC Energy. DCC Healthcare wins major hospital procurement contracts in Europe. Technology division grows at double-digit rates. EPS reaches GBX 330+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Energy commodity price risk: DCC Energy's margins are exposed to oil product price volatility and cracks. A sharp decline in refining margins would impair DCC Energy's profitability. #2 Key supplier dependency: DCC's distribution businesses depend on maintaining exclusive or semi-exclusive agreements with major consumer electronics, energy and healthcare product manufacturers. #3 Competitive dynamics in distribution: Distribution margins are typically thin. Any change in manufacturer go-to-market strategies (direct-to-retail) could disrupt DCC's position. #4 FX translation risk: With operations across multiple European countries and Asia, DCC reports in GBP and is exposed to EUR, SEK and Asian currency movements. #5 Acquisition integration risk: DCC has a strong M&A track record, but each acquisition carries integration risk and the risk of overpaying in a competitive process.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Energy commodity price risk: DCC Energy's margins are exposed to oil product price volatility and cracks. A sharp decline in refining margins would impair DCC Energy's profitability."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 Key supplier dependency: DCC's distribution businesses depend on maintaining exclusive or semi-exclusive agreements with major consumer electronics, energy and healthcare product manufacturers."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Competitive dynamics in distribution: Distribution margins are typically thin. Any change in manufacturer go-to-market strategies (direct-to-retail) could disrupt DCC's position."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 FX translation risk: With operations across multiple European countries and Asia, DCC reports in GBP and is exposed to EUR, SEK and Asian currency movements."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Acquisition integration risk: DCC has a strong M&A track record, but each acquisition carries integration risk and the risk of overpaying in a competitive process."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Quality-conscious investors seeking an Irish-domiciled compounder with defensive revenue characteristics and strong capital returns. The LSE listing provides institutional accessibility. Avoid: Growth-oriented investors who require high earnings growth momentum. Investors who are concerned about the energy sector's cyclicality within a diversified services model."
+    },
+    "recommendation": {
+      "text": "BUY Score: 80/100 DCC is a high-quality, well-managed Irish services group with a strong track record across multiple distribution cycles. The 5160.00 GBX price provides an attractive entry relative to the quality of the franchise. BUY. Entry Framework: BUY below 4500 GBX (sub-4500 entry with margin of safety). HOLD in the 4500-5700 GBX range. REDUCE above 5700 GBX (quality is priced in). BUY below 5,270.00 GBX HOLD 4,760.00 GBX-5,270.00 GBX REDUCE above 5,270.00 GBX"
+    },
+    "entryExit": {
+      "text": "BUY below 5,270.00 GBX | HOLD 4,760.00 GBX-5,270.00 GBX | REDUCE above 5,270.00 GBX"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 80,
+      "band": "BUY",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 80,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

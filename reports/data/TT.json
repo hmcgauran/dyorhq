@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "ticker": "TT",
+    "company": "Trane Technologies plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 82,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Trane Technologies is a high-quality industrial compounder with dominant positions in HVAC and cold-chain equipment, delivering consistent mid-teens earnings growth backed by structural demand drivers -- BUY . BUY Conviction Score: 82/100 - BUY"
+    },
+    "businessModel": {
+      "text": "Trane Technologies is a world leader in heating, ventilation, air conditioning (HVAC) and cold-chain refrigeration equipment, operating under the Trane and Thermo King brands. The company serves commercial buildings, residential homes, and transport refrigeration markets. Key products: commercial HVAC systems (chillers, air handlers, control systems), residential air conditioning and heat pumps, and transport refrigeration units. Revenue model combines equipment sales with growing recurring revenue from parts, service, controls and software. Geographic exposure: Americas (~65%), Europe (~20%), Asia-Pacific (~15%). Trane has a strong track record of pricing power backed by brand equity, energy efficiency regulation, and the high cost of switching in commercial buildings (long equipment life, embedded controls)."
+    },
+    "financialSnapshot": {
+      "text": "Current Price $465.71 NYSE Market Cap $52.0B Est. via price x shares Trailing P/E 32.10x 12-month earnings EPS (TTM) $14.50 Trailing twelve months 52-Week High $478.00 -2.6% from high 52-Week Low $335.00 +39.0% from low",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Energy efficiency and decarbonisation regulations globally are driving accelerated replacement of older HVAC systems. The IRA (Inflation Reduction Act) provides tax credits for heat pumps and commercial building efficiency upgrades in the US, accelerating demand. Trane's digital building management platform (Trane Building Management Systems) is expanding, providing recurring software and service revenue. The commercial new-build and renovation markets are robust in the US, supported by data-centre and manufacturing reshoring demand. Recent quarterly results showed mid-single-digit organic revenue growth and margin expansion. Management has a strong M&A track record, deploying capital in adjacent HVAC and building automation markets."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 92 Target: $580.00 | EPS: $18.50 IRA-driven heat pump adoption accelerates faster than expected. Trane wins major data-centre cooling contracts globally. Digital services revenue becomes a major earnings driver. EPS reaches $18.50+. Base Case 82 Target: $510.00 | EPS: $15.80 Steady mid-single-digit o Reports / TT TT Trane Technologies plc BUY 11 April 2026 $$465.71 82 Conviction out of 100 >",
+      "bull": {
+        "scenario": "IRA-driven heat pump adoption accelerates faster than expected. Trane wins major data-centre cooling contracts globally. Digital services revenue becomes a major earnings driver. EPS reaches $18.50+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Steady mid-single-digit o Reports / TT",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Commercial real estate exposure: A prolonged weakness in commercial office and retail construction would reduce demand for new HVAC equipment in a meaningful segment of Trane's business. #2 Residential heat pump adoption speed: Despite IRA incentives, consumer adoption of heat pumps in the US has been slower than expected due to installation complexity, climate suitability and upfront cost. #3 Raw material and input cost inflation: HVAC equipment uses significant quantities of copper, steel and refrigerants. Sustained cost inflation could compress margins if not fully offset by pricing. #4 Competitive intensity in commercial HVAC: Daikin, Carrier Global, and Johnson Controls are formidable global competitors. Pricing pressure from competitors could impair Trane's margins. #5 Ireland domicile and tax risk: Trane's Irish domicile and its related tax structures have attracted periodic political scrutiny. Any changes to the tax treatment of non-US earnings could affect reported net income.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Commercial real estate exposure: A prolonged weakness in commercial office and retail construction would reduce demand for new HVAC equipment in a meaningful segment of Trane's business."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 Residential heat pump adoption speed: Despite IRA incentives, consumer adoption of heat pumps in the US has been slower than expected due to installation complexity, climate suitability and upfront cost."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Raw material and input cost inflation: HVAC equipment uses significant quantities of copper, steel and refrigerants. Sustained cost inflation could compress margins if not fully offset by pricing."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 Competitive intensity in commercial HVAC: Daikin, Carrier Global, and Johnson Controls are formidable global competitors. Pricing pressure from competitors could impair Trane's margins."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Ireland domicile and tax risk: Trane's Irish domicile and its related tax structures have attracted periodic political scrutiny. Any changes to the tax treatment of non-US earnings could affect reported net income."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Quality industrial investors seeking consistent earnings growth with a secular decarbonisation tailwind. Long-term compounder investors who appreciate Trane's pricing power and capital allocation discipline. Avoid: Cyclical value investors who view HVAC as a proxy on commercial construction. Those who are concerned about Trane's premium valuation relative to building materials peers."
+    },
+    "recommendation": {
+      "text": "BUY Score: 82/100 Trane Technologies is one of the highest-quality industrials in the universe. The decarbonisation tailwind, IRA support and digital services expansion provide a credible earnings growth runway. The valuation is not cheap but the quality justifies it. BUY. Entry Framework: BUY below $420 (provides 15%+ margin of safety). HOLD in the $420-$510 range. REDUCE above $510 (premium quality is priced in). BUY below $493.00 HOLD $433.50-$493.00 REDUCE above $493.00"
+    },
+    "entryExit": {
+      "text": "BUY below $493.00 | HOLD $433.50-$493.00 | REDUCE above $493.00"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 82,
+      "band": "BUY",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 82,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

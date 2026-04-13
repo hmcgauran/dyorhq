@@ -403,19 +403,62 @@ input[type="search"]::placeholder {
 }
 
 .rec-badge {
+  --rec-badge-color: var(--text-secondary);
+  --rec-badge-bg: rgba(255, 255, 255, 0.04);
+  --rec-badge-border: rgba(255, 255, 255, 0.12);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 28px;
+  padding: 5px 11px;
+  border-radius: 999px;
+  border: 1px solid var(--rec-badge-border);
+  background: var(--rec-badge-bg);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  color: var(--rec-badge-color);
   font-family: var(--font-mono);
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.1em;
-  padding: 3px 8px;
-  border-radius: 3px;
+  line-height: 1;
   text-transform: uppercase;
 }
 
-.rec-badge.buy   { background: rgba(0,255,136,0.12); color: var(--rec-buy); border: 1px solid rgba(0,255,136,0.25); }
-.rec-badge.hold  { background: rgba(240,180,41,0.12); color: var(--rec-hold); border: 1px solid rgba(240,180,41,0.25); }
-.rec-badge.reduce { background: rgba(255,140,0,0.12); color: var(--rec-reduce); border: 1px solid rgba(255,140,0,0.25); }
-.rec-badge.sell  { background: rgba(255,77,77,0.12); color: var(--rec-sell); border: 1px solid rgba(255,77,77,0.25); }
+.rec-badge.buy,
+.rec-badge.rec-buy,
+.rec-badge.BUY,
+.rec-badge.rec-BUY {
+  --rec-badge-color: var(--rec-buy);
+  --rec-badge-bg: rgba(0, 255, 136, 0.14);
+  --rec-badge-border: rgba(0, 255, 136, 0.34);
+}
+
+.rec-badge.hold,
+.rec-badge.rec-hold,
+.rec-badge.HOLD,
+.rec-badge.rec-HOLD {
+  --rec-badge-color: var(--rec-hold);
+  --rec-badge-bg: rgba(240, 180, 41, 0.16);
+  --rec-badge-border: rgba(240, 180, 41, 0.34);
+}
+
+.rec-badge.reduce,
+.rec-badge.rec-reduce,
+.rec-badge.REDUCE,
+.rec-badge.rec-REDUCE {
+  --rec-badge-color: var(--rec-reduce);
+  --rec-badge-bg: rgba(255, 140, 0, 0.16);
+  --rec-badge-border: rgba(255, 140, 0, 0.34);
+}
+
+.rec-badge.sell,
+.rec-badge.rec-sell,
+.rec-badge.SELL,
+.rec-badge.rec-SELL {
+  --rec-badge-color: var(--rec-sell);
+  --rec-badge-bg: rgba(255, 77, 77, 0.15);
+  --rec-badge-border: rgba(255, 77, 77, 0.34);
+}
 
 .card-date {
   font-size: 12px;
@@ -872,6 +915,93 @@ footer {
 }
 
 /* ─── Responsive ──────────────────────────────────── */
+
+
+
+.scenario-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 18px 0 14px;
+}
+
+.scenario-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  border-top-width: 3px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.scenario-card h3 {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.scenario-bull {
+  border-top-color: var(--rec-buy);
+}
+
+.scenario-base {
+  border-top-color: var(--rec-hold);
+}
+
+.scenario-bear {
+  border-top-color: var(--rec-sell);
+}
+
+.scenario-bull h3 {
+  color: var(--rec-buy);
+}
+
+.scenario-base h3 {
+  color: var(--rec-hold);
+}
+
+.scenario-bear h3 {
+  color: var(--rec-sell);
+}
+
+.scenario-card p,
+.scenario-card .scenario-meta,
+.scenario-card .scenario-target {
+  margin: 0;
+  color: var(--text-primary);
+}
+
+.scenario-meta,
+.scenario-target {
+  color: var(--text-muted);
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+.scenario-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: baseline;
+  margin-top: 6px;
+}
+
+.ss-label {
+  color: var(--text-muted);
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.ss-value {
+  color: var(--text-primary);
+  font-weight: 600;
+}
 
 @media (max-width: 900px) {
   .report-body {

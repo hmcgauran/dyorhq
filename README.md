@@ -111,7 +111,7 @@ Levels are specific to each report and reflect: 52-week range, support/resistanc
 - **Stock prices:** sourced live from Yahoo Finance API (v8 chart endpoint). LSE tickers use `.L` suffix. FRA tickers use `.F` suffix.
 - **RNS / news:** via Yahoo Finance RSS feed or direct company IR pages
 - **Email:** Google Workspace (`gog` CLI) for Gmail delivery
-- **Hosting:** static — `index.html` reads `reports/index.json` to render the homepage listing
+- **Hosting:** static — `index.html` reads `reports-index.json`, which is derived from the canonical `reports/index.json`
 
 ## Model Routing
 

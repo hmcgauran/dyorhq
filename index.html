@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="DYOR HQ — AI-powered investment research. Deep-dive reports with conviction scores, risk analysis, and actionable recommendations.">
-  <title>DYOR HQ — AI-Powered Investment Research</title>
+  <meta name="description" content="DYOR HQ - AI-powered investment research. Deep-dive reports with conviction scores, risk analysis, and actionable recommendations.">
+  <title>DYOR HQ - AI-Powered Investment Research</title>
   <link rel="stylesheet" href="assets/css/main.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -52,32 +52,41 @@
             <div class="method-col">
               <h3>Data Sources</h3>
               <ul>
-                <li><strong>Live prices &amp; fundamentals</strong> — Google Sheet (watchlist management, real-time quotes, market cap, P/E, EPS, revenue, cash, debt)</li>
-                <li><strong>News &amp; events</strong> — Yahoo Finance RSS, SEC EDGAR, Investegate (RNS for UK/Irish listed names)</li>
-                <li><strong>Insider activity</strong> — SEC Form 4 filings (US-listed stocks)</li>
+                <li><strong>Live prices &amp; fundamentals</strong> - Proprietary research systems combining market data, company financials, and internal coverage management</li>
+                <li><strong>News &amp; events</strong> - public news and event feeds, regulatory filing databases, regulatory news services (RNS for UK/Irish listed names)</li>
+                <li><strong>Insider activity</strong> - Public insider dealing disclosures for relevant listed companies</li>
               </ul>
             </div>
             <div class="method-col">
-              <h3>AI Models</h3>
+              <h3>AI Assistance</h3>
               <ul>
-                <li><strong>MiniMax M2.7</strong> — Primary model. Analysis, RNS parsing, thesis construction, financial modelling, conviction scoring</li>
-                <li><strong>Ollama (gemma4)</strong> — Lightweight. Routine data pulls, operational tasks, status checks</li>
-                <li><strong>Human review</strong> — Conviction scores and recommendations are AI-assisted with human oversight. Not fully automated.</li>
+                <li><strong>AI-assisted research</strong> - Used to summarise filings, surface patterns, and support draft analysis under editorial review</li>
+                <li><strong>Internal automation</strong> - Used for routine data handling, report preparation, and operational checks</li>
+                <li><strong>Human review</strong> - Every published report is reviewed with editorial judgement. Specific tools, models, pipelines, and scoring methods are proprietary.</li>
               </ul>
             </div>
             <div class="method-col">
               <h3>Conviction Scoring</h3>
               <ul>
-                <li><strong>BUY 80+</strong> — Clear thesis, near-term catalyst, manageable risk</li>
-                <li><strong>HOLD 60–79</strong> — Thesis intact, some execution risk ahead</li>
-                <li><strong>REDUCE 40–59</strong> — Thesis questioned, catalysts distant</li>
-                <li><strong>SELL &lt;40</strong> — Thesis broken or binary outcome</li>
+                <li><strong>BUY 80+</strong> - Clear thesis, near-term catalyst, manageable risk</li>
+                <li><strong>HOLD 60-79</strong> - Thesis intact, some execution risk ahead</li>
+                <li><strong>REDUCE 40-59</strong> - Thesis questioned, catalysts distant</li>
+                <li><strong>SELL &lt;40</strong> - Thesis broken or binary outcome</li>
               </ul>
             </div>
           </div>
-          <p class="methodology-note">This is research, not financial advice. Every report is a structured starting point — always do your own due diligence before making investment decisions.</p>
+          <p class="methodology-note">This is research, not financial advice. Every report is a structured starting point - always do your own due diligence before making investment decisions.</p>
         </div>
       </section>
+
+      <!-- Universe Tabs -->
+      <div class="universe-tabs" role="tablist" aria-label="Report universe">
+        <button class="univ-tab active" data-univ="all" role="tab" aria-selected="true">All</button>
+        <button class="univ-tab" data-univ="fortune100" role="tab" aria-selected="false">Fortune 100</button>
+        <button class="univ-tab" data-univ="sp100" role="tab" aria-selected="false">S&amp;P 100</button>
+        <button class="univ-tab" data-univ="irish" role="tab" aria-selected="false">Irish</button>
+        <button class="univ-tab" data-univ="uk" role="tab" aria-selected="false">UK</button>
+      </div>
 
       <!-- Toolbar -->
       <div class="toolbar">

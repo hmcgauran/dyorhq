@@ -8,10 +8,12 @@
 
   const searchInput = document.getElementById('search');
   const filterBtns = document.querySelectorAll('.filter-btn[data-rec]');
+  const universeTabs = document.querySelectorAll('.univ-tab[data-univ]');
   const countEl = document.getElementById('report-count');
 
   let allReports = [];
   let activeFilter = 'ALL';
+  let activeUniverse = 'all';
 
   // ─── Favourites ─────────────────────────────────────
   const FAV_KEY = 'dyorhq_favourites';
@@ -50,9 +52,19 @@
     return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
   }
 
+  function baseRecommendation(report) {
+    return (report.rating || report.recommendation || 'HOLD').split('—')[0].trim().toUpperCase();
+  }
+
+  function reportUniverses(report) {
+    if (Array.isArray(report.universes)) return report.universes;
+    if (report.universe) return [report.universe];
+    return [];
+  }
+
   function renderCard(report) {
     const rec = report.recommendation || report.rating || 'HOLD';
-    const cls = recClass(rec);
+    const cls = recClass(baseRecommendation(report));
     const color = convictionColor(report.conviction || 50);
     const dashOffset = CIRC * (1 - ((report.conviction || 50) / 100));
     const href = report.report_url || (report.file ? `reports/${report.file}` : '#');
@@ -112,10 +124,14 @@
     const q = (searchInput ? searchInput.value.toLowerCase().trim() : '');
     let result = allReports;
 
+    if (activeUniverse !== 'all') {
+      result = result.filter(report => reportUniverses(report).includes(activeUniverse));
+    }
+
     if (activeFilter === 'FAVOURITES') {
       result = result.filter(r => allFavs.includes((r.ticker || '').toUpperCase()));
     } else if (activeFilter !== 'ALL') {
-      result = result.filter(r => (r.recommendation || r.rating || '').toUpperCase() === activeFilter);
+      result = result.filter(r => baseRecommendation(r) === activeFilter);
     }
 
     if (q) {
@@ -128,6 +144,18 @@
 
     renderGrid(result);
   }
+
+  universeTabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      universeTabs.forEach(button => {
+        const isActive = button === tab;
+        button.classList.toggle('active', isActive);
+        button.setAttribute('aria-selected', String(isActive));
+      });
+      activeUniverse = tab.dataset.univ || 'all';
+      applyFilters();
+    });
+  });
 
   // Filter buttons
   filterBtns.forEach(btn => {

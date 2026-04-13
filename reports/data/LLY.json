@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "LLY",
+    "company": "LLY - Eli Lilly and Company",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Eli Lilly discovers, develops, and commercialises pharmaceutical products across several key therapeutic areas: GLP-1 Agonists (Mounjaro/GIP, Zepbound/GIP-GLP1, Wegovy/GLP1): The crown jewel of the portfolio. Tirzepatide (Mounjaro for diabetes, Zepbound for obesity) and semaglutide (Wegovy) are driving extraordinary revenue growth in what is rapidly becoming the largest pharmaceutical category by revenue globally. Manufacturing scale and pipeline depth are the key competitive moats. Oncology: A growing portfolio including Verzenio (breast cancer), Jaypirca (leukaemia/lymphoma), and several earlier-stage assets. The oncology business is a key earnings growth driver independent of the GLP-1 franchise. Immunology: IL-17 and IL-23 inhibitors (Mirikizumab, Omvoh) competing in immunology, with potential for market share gains in psoriasis and Crohn's disease. Diabetes (beyond GLP-1): Trulicity (dulaglutide), Humalog (insulin), and other legacy diabetes products provide a stable foundation even as GLP-1s capture incremental market share within the diabetes category. Neuroscience: An emerging pipeline in Alzheimer's disease (donanemab under FDA review) and potential psychiatric indications represent meaningful future optionality. Lilly's model combines an exceptional internal discovery engine with a disciplined approach to lifecycle management - extending patent cliffs through formulation improvements and combination therapies."
+    },
+    "financialSnapshot": {
+      "text": "Price $939.47 Market Cap $887.6bn P/E Ratio 40.9× EPS (TTM) $22.95 52w High $1,133.95 52w Low $623.78 Distance from 52wH −17.1% Avg Volume 2.0m",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 80 / 100 Tirzepatide captures 40-50 per cent of the global obesity market as supply constraints ease and payer coverage expands. Pipeline assets (MASH, sleep apnea, Alzheimer's) achieve approval and generate multi-billion-dollar franchises. Manufacturing scale drives gross margins above 82 per cent. EPS grows 25-30 per cent annually for three-plus years. Shares re-rate to 45-50× as the market prices in the durability of the GLP-1 monopoly position. Weight: 30% Base Case 62 / 100 Tirzepatide grows 30-40 per cent annually as the obesity market expands and manufacturing catches up with demand. Amgen's GLP-1 candidate provides competitive pressure but does not fundamentally disrupt Lilly's market position. Pipeline delivers 1-2 additional approvals. EPS grows at 20-25 per cent. Shares trade at 35-45× earnings. Weight: 50% Bear Case 40 / 100 GLP-1 reimbursement headwinds or safety signals emerge that limit payer adoption in obesity. Amgen's or other competitors' oral GLP-1s capture significant market share. Manufacturing scale proves more difficult than expected, keeping supply constrained. MASH and sleep apnea approvals provide less commercial upside than modelled. Multiple de-rates to 30× as growth rates normalise. Weight: 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 GLP-1 safety signals: Long-term safety data for tirzepatide and semaglutide in broad obesity populations is still accumulating. Rare but serious adverse events (pancreatitis, thyroid cancer signals, GI risks) could trigger black box warnings or regulatory restrictions that impair the commercial trajectory. 2 Competitive GLP-1 entrants: Amgen's GLP-1 candidate (AMG 133), Pfizer's oral GLP-1, and Viking Therapeutics' dual agonist are advancing rapidly. Novo Nordisk's oral semaglutide and next-gen assets will also compete aggressively. A superior or cheaper competitor could structurally impair Lilly's market share. 3 Payer reimbursement headwinds: The cost of GLP-1 medications to health systems and insurers is substantial. Pushback from Medicare, pharmacy benefit managers, and international health systems on coverage criteria and pricing could significantly limit the addressable market, particularly for obesity indication. 4 Manufacturing execution risk: Lilly's $10bn+ manufacturing investment is unprecedented in the company's history. Construction delays, regulatory approval of new facilities, and quality control issues at new plants represent meaningful execution risk that could constrain supply and hand market share to competitors. 5 Valuation embeddedness: The P/E of 40.9× prices in near-perfect execution. Any quarter of disappointing revenue, a clinical failure, or safety signal could trigger a sharp de-rating given how much positive news is already embedded in the current price.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "GLP-1 safety signals: Long-term safety data for tirzepatide and semaglutide in broad obesity populations is still accumulating. Rare but serious adverse events (pancreatitis, thyroid cancer signals, GI risks) could trigger black box warnings or regulatory restrictions that impair the commercial trajectory."
+        },
+        {
+          "rank": 2,
+          "risk": "Competitive GLP-1 entrants: Amgen's GLP-1 candidate (AMG 133), Pfizer's oral GLP-1, and Viking Therapeutics' dual agonist are advancing rapidly. Novo Nordisk's oral semaglutide and next-gen assets will also compete aggressively. A superior or cheaper competitor could structurally impair Lilly's market share."
+        },
+        {
+          "rank": 3,
+          "risk": "Payer reimbursement headwinds: The cost of GLP-1 medications to health systems and insurers is substantial. Pushback from Medicare, pharmacy benefit managers, and international health systems on coverage criteria and pricing could significantly limit the addressable market, particularly for obesity indication."
+        },
+        {
+          "rank": 4,
+          "risk": "Manufacturing execution risk: Lilly's $10bn+ manufacturing investment is unprecedented in the company's history. Construction delays, regulatory approval of new facilities, and quality control issues at new plants represent meaningful execution risk that could constrain supply and hand market share to competitors."
+        },
+        {
+          "rank": 5,
+          "risk": "Valuation embeddedness: The P/E of 40.9× prices in near-perfect execution. Any quarter of disappointing revenue, a clinical failure, or safety signal could trigger a sharp de-rating given how much positive news is already embedded in the current price."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Appropriate For Long-term pharmaceutical investors who want the purest GLP-1 exposure in a single publicly traded equity and who have a 5-10 year investment horizon to see the full obesity market build-out play out Growth-at-reasonable-price investors who accept the premium valuation in exchange for a business with a clear multi-year earnings growth runway driven by structural demand rather than cyclical factors Those who want pharmaceutical exposure without binary clinical trial risk - Lilly's pipeline is diversified across multiple therapeutic areas and mechanisms Avoid If Near-term focused investors who need near-term earnings momentum - the GLP-1 growth trajectory is already well-known and priced into a 40.9× P/E, leaving limited catalysts for re-rating in the near term Strong concerns about GLP-1 payer reimbursement or safety signals creating a binary downside that the current valuation does not adequately compensate for Seeking more attractively valued pharmaceutical names - Novo Nordisk trades at a similar premium, and both are expensive relative to the rest of the sector"
+    },
+    "recommendation": {
+      "text": "Conviction Score: 65/100 - HOLD The shares trade 17.1 per cent below the 52-week high at 40.9× earnings - a premium that is warranted by the quality and growth trajectory of the GLP-1 franchise but leaves no margin of safety for disappointment. Eli Lilly is one of the best-positioned pharmaceutical companies in the world; the entry point is simply not compelling enough for a Buy at current levels. Buy Below $770 HOLD Zone $770-$1,050 Reduce Above $1,050 Stop / Sell $700"
+    },
+    "entryExit": {
+      "text": "Buy Below: $770 | HOLD Zone: $770-$1,050 | Reduce Above: $1,050 | Stop / Sell: $700"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 65,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

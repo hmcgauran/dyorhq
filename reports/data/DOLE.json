@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "ticker": "DOLE",
+    "company": "Dole plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 62,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Dole plc is the world's largest fresh produce company with dominant positions in bananas and pineapples, but secular challenges in its core banana business and limited visibility on the portfolio optimisation strategy produce a neutral risk-reward at $15.69 -- HOLD . HOLD Conviction Score: 62/100 - HOLD"
+    },
+    "businessModel": {
+      "text": "Dole plc is the world's largest fresh produce company, marketing and distributing bananas, pineapples, other fresh fruits, vegetables, and packaged foods. Key products: Dole-brand bananas (the world's leading banana brand), Dole Sun Cubes (pineapples), packaged fresh fruit salads, and a range of tropical and organic produce. Dole operates across the full fresh produce supply chain: own farming operations (in the Philippines, Costa Rica, Guatemala and other tropical growing regions), shipping (refrigerated container ships), ripening and distribution facilities, and marketing and sales to grocery retailers, foodservice operators and industrial customers. Revenue geography: North America (~50%), Europe (~35%), Asia-Pacific (~15%). The business generates strong cash flow from its scale and established supply chain, but faces structural headwinds in its core banana franchise."
+    },
+    "financialSnapshot": {
+      "text": "Current Price $15.69 NYSE Market Cap $1.4B Est. via price x shares Trailing P/E 9.20x 12-month earnings EPS (TTM) $1.70 Trailing twelve months 52-Week High $19.00 -17.4% from high 52-Week Low $11.00 +42.6% from low",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Dole has announced a strategic review of its portfolio, potentially separating its high-growthfresh tropical and berries businesses from its more challenged legacy banana franchise. The company has been investing in its berry and tropical fruit businesses, which command higher margins and are growing faster than the core banana market. Recent quarterly results showed revenue broadly stable with positive progress in the higher-margin segments. Dole is expanding its organic and sustainably sourced produce offerings to capture premium pricing. No major M&A announcements recently, but Dole's scale makes it a natural acquirer in fragmented fresh produce."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 78 Target: $21.00 | EPS: $2.20 Portfolio separation is completed, unlocking value in the high-margin businesses. Organic and premium produce sales grow at 15%+. Banana pricing stabilises. EPS reaches $2.20+. Base Case 62 Target: $17.00 | EPS: $1.70 Portfolio re Reports / DOLE DOLE Dole plc HOLD 11 April 2026 $$15.69 62 Conviction out of 100 >",
+      "bull": {
+        "scenario": "Portfolio separation is completed, unlocking value in the high-margin businesses. Organic and premium produce sales grow at 15%+. Banana pricing stabilises. EPS reaches $2.20+.",
+        "probability": 15
+      },
+      "base": {
+        "scenario": "Portfolio re Reports / DOLE",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Banana supply and disease risk: Panama disease (TR4) is a serious threat to global banana cultivation. A significant outbreak in major growing regions would disrupt supply and damage Dole's banana franchise. #2 Fresh produce spoilage and logistics risk: Fresh produce has a short shelf life and requires sophisticated cold chain logistics. Any breakdown in the cold chain results in product losses that directly reduce margins. #3 Customer concentration in retail: Dole's largest customers (Walmart, Tesco, Carrefour) are powerful retailers who can demand pricing concessions that compress Dole's margins. #4 Currency exposure in producing countries: Dole earns revenues in USD but has farming costs in local currencies (PHP, CRC, GTQ). Local currency appreciation against USD would increase production costs. #5 ESG and labour practices scrutiny: The fresh produce industry faces periodic scrutiny of labour practices on banana plantations and farms in developing countries.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Banana supply and disease risk: Panama disease (TR4) is a serious threat to global banana cultivation. A significant outbreak in major growing regions would disrupt supply and damage Dole's banana franchise."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 Fresh produce spoilage and logistics risk: Fresh produce has a short shelf life and requires sophisticated cold chain logistics. Any breakdown in the cold chain results in product losses that directly reduce margins."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Customer concentration in retail: Dole's largest customers (Walmart, Tesco, Carrefour) are powerful retailers who can demand pricing concessions that compress Dole's margins."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 Currency exposure in producing countries: Dole earns revenues in USD but has farming costs in local currencies (PHP, CRC, GTQ). Local currency appreciation against USD would increase production costs."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 ESG and labour practices scrutiny: The fresh produce industry faces periodic scrutiny of labour practices on banana plantations and farms in developing countries."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Agri-food investors seeking global fresh produce exposure with a yield. The portfolio restructuring thesis is potentially interesting for event-driven investors. Avoid: Growth investors who require earnings momentum. Investors who are concerned about the structural decline in core banana demand."
+    },
+    "recommendation": {
+      "text": "HOLD Score: 62/100 Dole is the global leader in fresh produce with genuine scale advantages but structural challenges in its core banana franchise. The portfolio review is a credible attempt to create value but the outcome is uncertain. HOLD. Entry Framework: BUY below $11 (below $12 provides a value entry for a portfolio restructuring story). HOLD in the $11-$19 range. REDUCE above $19 (portfolio restructuring premium is priced in). BUY below $19.95 HOLD $16.15-$19.95 REDUCE above $19.95"
+    },
+    "entryExit": {
+      "text": "BUY below $19.95 | HOLD $16.15-$19.95 | REDUCE above $19.95"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

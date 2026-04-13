@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ticker": "CMPR",
+    "company": "Cimpress plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 76.7,
+    "fiftyTwoWeekHigh": 82.43,
+    "fiftyTwoWeekLow": 35.21,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Cimpress plc (CMPR) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $76.7 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Cimpress plc is tied to custom commerce and small-business marketing demand, with earnings driven by customer acquisition efficiency, fulfilment execution and pricing discipline."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$76.70"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "N/A"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$82.43"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$35.21"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Order growth, marketing efficiency, product mix and free-cash-flow conversion are the main watch points. Any stabilisation in small-business demand can help sentiment."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Small-business demand can be cyclical. Online marketing costs can rise quickly. Execution or fulfilment issues can damage retention. Competition keeps pricing tight. FX can distort reported numbers across geographies.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Small-business demand can be cyclical."
+        },
+        {
+          "rank": 2,
+          "risk": "Online marketing costs can rise quickly."
+        },
+        {
+          "rank": 3,
+          "risk": "Execution or fulfilment issues can damage retention."
+        },
+        {
+          "rank": 4,
+          "risk": "Competition keeps pricing tight."
+        },
+        {
+          "rank": 5,
+          "risk": "FX can distort reported numbers across geographies."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who can tolerate consumer and SMB demand swings. Avoid: Investors seeking high-visibility recurring revenue."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

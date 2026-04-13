@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ticker": "UPS",
+    "company": "United Parcel Service Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 57,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 101.7,
+    "marketCap": 86400000000.0,
+    "marketCapFormatted": "$86.40B",
+    "trailingPE": 15.51,
+    "trailingEps": 6.56,
+    "fiftyTwoWeekHigh": 122.41,
+    "fiftyTwoWeekLow": 82.0,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "UPS is the world's largest parcel delivery company with an unrivalled integrated global network, but the cyclical softness in US domestic package volumes and the elevated capital requirements of the US Forward and My Choice expansion programme create a mixed near-term outlook - HOLD."
+    },
+    "businessModel": {
+      "text": "UPS operates the world's largest parcel delivery network, with approximately 500,000 employees, 500+ aircraft and 100,000+ delivery vehicles. The US Domestic Package segment is the largest revenue contributor, delivering parcels to residential and commercial addresses. International packages (export from US, intra-Europe, Asia-US) benefit from UPS's global integrated network. Supply Chain Solutions (SCS) provides freight forwarding, logistics, customs brokerage and healthcare logistics. UPS's economic moat lies in its integrated aircraft-network-vehicle loop, which enables unmatched time-definite delivery capabilities for premium shippers."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$101.70"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$86.4 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "15.51x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$6.56"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$122.41"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$82"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "US domestic package volumes have been below expectations in 2024-2025, reflecting e-commerce normalisation from the COVID surge and macroeconomic pressure on consumer spending. UPS's US delivery network has seen cost inflation from the Teamster contract (ratified in 2023, covering approximately 330,000 workers) and the suburban delivery route expansion. The company has responded with cost discipline initiatives, including network rationalisation andheadcount management. However, B2B (business-to-business) volumes have been notably weak, suggesting corporate spending caution."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (70): US domestic volumes recover as e-commerce penetration continues to rise and macroeconomic conditions improve. The network rationalisation programme reduces cost per package. International recovers as global trade normalises. SCS grows above-market on healthcare and technology logistics. EPS reaches $8.50+. Price: $125+. Base Case (56): US domestic volumes grow modestly (low-single-digit). International is roughly flat. The network rationalisation partially offsets Teamster contract cost inflation. SCS grows low-single digit. EPS grows to $6.80-$7.40. Price: $100-$112. Bear Case (38): US domestic volumes decline due to consumer spending weakness or B2B deterioration. Network costs remain elevated despite efficiency initiatives. The Teamster contract creates more cost inflation than modelled. International competitive pressure (FedEx, DHL) intensifies. EPS falls to $5.50-$6.00. Price: below $85. Weighted Score: 57 - Bull 70 × 30% + Base 56 × 50% + Bear 38 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Cyclical domestic volume weakness: US package volumes, particularly B2B, have been weaker than expected. A prolonged consumer or business spending slowdown would further impair volumes and network utilisation. Teamster contract cost inflation: The 2023 Teamster contract (highest wage increases in UPS history) is a structural cost headwind. Spreading these costs over flat-to-declining volumes creates margin pressure. Network rationalisation execution: The efficiency programme requires sustained execution. Failure to achieve targeted cost savings would impair free cash flow and the ability to fund the dividend. Competitive pressure: FedEx has been restructuring its Express network, which could improve its competitive positioning in the US domestic market.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Cyclical domestic volume weakness: US package volumes, particularly B2B, have been weaker than expected. A prolonged consumer or business spending slowdown would further impair volumes and network utilisation."
+        },
+        {
+          "rank": 2,
+          "risk": "Teamster contract cost inflation: The 2023 Teamster contract (highest wage increases in UPS history) is a structural cost headwind. Spreading these costs over flat-to-declining volumes creates margin pressure."
+        },
+        {
+          "rank": 3,
+          "risk": "Network rationalisation execution: The efficiency programme requires sustained execution. Failure to achieve targeted cost savings would impair free cash flow and the ability to fund the dividend."
+        },
+        {
+          "rank": 4,
+          "risk": "Competitive pressure: FedEx has been restructuring its Express network, which could improve its competitive positioning in the US domestic market."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Value-oriented investors who see the 15.51x P/E and 5.2% dividend yield as attractive for a company with the quality of UPS's integrated network. Contrarians who believe domestic volume has troughed."
+    },
+    "recommendation": {
+      "text": "HOLD. UPS is a high-quality franchise in a cyclical trough. The valuation is not demanding, but the volume outlook does not provide a clear catalyst for outperformance near-term. Entry framework: BUY below $88 (approximately 13-14x base-case EPS - a value entry with a reasonable yield for a trough-cycle name). Reduce above $118 (18x+ P/E pricing in volume recovery that has not yet materialised)."
+    },
+    "entryExit": {
+      "text": "BUY below $88 (approximately 13-14x base-case EPS - a value entry with a reasonable yield for a trough-cycle name). Reduce above $118 (18x+ P/E pricing in volume recovery that has not yet materialised). | Entry framework: BUY below $88 (approximately 13-14x base-case EPS - a value entry with a reasonable yield for a trough-cycle name). | Reduce above $118 (18x+ P/E pricing in volume recovery that has not yet materialised)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 57,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 57,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

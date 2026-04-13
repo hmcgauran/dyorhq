@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "TOM.L",
+    "company": "TomCo Energy plc",
+    "exchange": "LN",
+    "isin": "IM00BZBXMN96",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "SELL \u2014 SPECULATIVE",
+    "recommendationNote": "SELL \u2014 SPECULATIVE",
+    "conviction": 22,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "uk",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "TomCo is deep in the category of AIM micro-cap optionality where the listed equity often behaves more like a perpetual financing stub than an ownership stake in a developing business. At 0.0330p, with a live range of 0.0310p to 0.0332p, the market is effectively telling you the equity has very little residual credibility. Bottom line: SELL \u2014 SPECULATIVE . This is not a serious long-term holding candidate unless there is a genuinely transformative catalyst, and even then the dilution risk is seve"
+    },
+    "businessModel": {
+      "text": "TomCo is essentially a development-stage energy/project shell story. For practical purposes, valuation depends on future financing and speculative project outcomes rather than on cash-generating operations. That creates a very poor risk/reward setup for ordinary shareholders because any path forward usually requires more capital and more dilution."
+    },
+    "financialSnapshot": {
+      "text": "Live price: 0.0330p Day range available: 0.0310p \u2013 0.0332p P/E: N/A EPS: unavailable on current live pull At this level, the price is a warning, not an opportunity by default.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "No currently visible catalyst on the live pull strong enough to justify a rerating. Micro-cap resource/energy names at this level are usually dependent on financing and corporate activity. Any upside tends to be trading-led rather than fundamentals-led.",
+      "items": [
+        "No currently visible catalyst on the live pull strong enough to justify a rerating.",
+        "Micro-cap resource/energy names at this level are usually dependent on financing and corporate activity.",
+        "Any upside tends to be trading-led rather than fundamentals-led."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (15%): a corporate or project surprise creates a short sharp speculative rerating. Base (45%): the shares drift with negligible fundamental support. Bear (40%): further dilution or stagnation destroys more value. Weighted conviction: 22/100.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Dilution risk: the dominant risk. No operating base: little to anchor valuation. Liquidity and trading risk: tiny moves can be meaningless and illiquid.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Dilution risk: the dominant risk."
+        },
+        {
+          "rank": 2,
+          "risk": "No operating base: little to anchor valuation."
+        },
+        {
+          "rank": 3,
+          "risk": "Liquidity and trading risk: tiny moves can be meaningless and illiquid."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: almost nobody beyond punters knowingly trading lottery-ticket risk. Should avoid: anyone treating public equities like investments rather than punts."
+    },
+    "recommendation": {
+      "text": "SELL \u2014 SPECULATIVE at 0.0330p. This is a stub, not a business-quality setup."
+    },
+    "entryExit": {
+      "text": "Any spike on news: use to reduce or exit At current levels: avoid fresh capital unless explicitly punting Key trigger: only a genuinely financed, credible project shift would change the view Conviction Trend Latest conviction: 22/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 22"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price 0.0330p",
+        "Day High 0.0332p",
+        "Day Low 0.0310p",
+        "P/E N/A"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 22,
+      "band": "SELL",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 22,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

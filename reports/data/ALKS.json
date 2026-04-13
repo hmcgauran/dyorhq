@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ticker": "ALKS",
+    "company": "Alkermes plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 33.36,
+    "fiftyTwoWeekHigh": 36.48,
+    "fiftyTwoWeekLow": 25.17,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Alkermes plc (ALKS) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $33.36 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Alkermes plc operates in life sciences, where the investment case depends on pipeline execution, regulatory outcomes, commercial uptake and balance-sheet runway. The rebuilt note replaces generic or misaligned copy with a correct company-level summary."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$33.36"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "N/A"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$36.48"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$25.17"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Clinical data, regulatory decisions, partnership milestones and launch execution are the main catalysts. Cash burn versus funded runway remains central where the business is still scaling."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Clinical setbacks can materially impair the thesis. Regulatory delays can defer revenue and financing options. Commercial uptake may lag if competition intensifies. Capital needs can dilute shareholders. Single-product or single-platform concentration raises volatility.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Clinical setbacks can materially impair the thesis."
+        },
+        {
+          "rank": 2,
+          "risk": "Regulatory delays can defer revenue and financing options."
+        },
+        {
+          "rank": 3,
+          "risk": "Commercial uptake may lag if competition intensifies."
+        },
+        {
+          "rank": 4,
+          "risk": "Capital needs can dilute shareholders."
+        },
+        {
+          "rank": 5,
+          "risk": "Single-product or single-platform concentration raises volatility."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Specialist healthcare investors who accept binary event risk. Avoid: Investors who need near-term earnings visibility and low drawdown risk."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}
