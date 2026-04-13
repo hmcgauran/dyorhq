@@ -231,7 +231,7 @@ for (const tab of tabs) {
 const output = {
   timestamp,
   generatedAt: new Date().toLocaleString('en-GB', { timeZone: 'Europe/London' }),
-  tickers,
+  prices: tickers,  // key MUST be 'prices' for JS compatibility
   summary: {
     total: Object.keys(tickers).length,
     withPrice: Object.values(tickers).filter(q => q.price !== null).length,
