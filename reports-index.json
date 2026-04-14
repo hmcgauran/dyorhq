@@ -176,7 +176,7 @@
     "file": "adstecenergyplc",
     "report_url": "/reports/adstecenergyplc",
     "conviction": 38,
-    "summary": "Ads-Tec Energy PLC (ADSE) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 38/100, using $11.8 as the latest stored price reference wher...",
+    "summary": "Ads-Tec Energy offers battery-buffered fast chargers that could ease grid bottlenecks, but the shares remain speculative until adoption, channel scale and funding discipline are proven.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -194,7 +194,7 @@
     "file": "aercapholdingsnv",
     "report_url": "/reports/aercapholdingsnv",
     "conviction": 50,
-    "summary": "AerCap Holdings N.V. (AER) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $145.53 as the latest stored price reference w...",
+    "summary": "AerCap is a high-quality aircraft lessor benefiting from tight plane supply and strong lease economics, but the cycle still hinges on travel demand, credit conditions and residual values.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -212,7 +212,7 @@
     "file": "aibgroupplc",
     "report_url": "/reports/aibgroupplc",
     "conviction": 50,
-    "summary": "AIB Group plc (AIB) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using USD 22.29 as the latest stored price reference where...",
+    "summary": "AIB has a solid Irish mortgage and SME franchise, but the story is still mostly about net interest income, deposit behaviour and capital returns rather than durable structural growth.",
     "date": "2026-04-11",
     "universes": [
       "irish"
@@ -264,7 +264,7 @@
     "file": "alkermesplc",
     "report_url": "/reports/alkermesplc",
     "conviction": 50,
-    "summary": "Alkermes plc (ALKS) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $33.36 as the latest stored price reference where ava...",
+    "summary": "Alkermes has a credible commercial neuroscience base and cash to redeploy, but the shares still depend on product durability and management's ability to fund the next leg of growth.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -300,7 +300,7 @@
     "file": "allegionplc",
     "report_url": "/reports/allegionplc",
     "conviction": 50,
-    "summary": "Allegion plc (ALLE) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $144.81 as the latest stored price reference where av...",
+    "summary": "Allegion is a quality security hardware compounder with installed-base strength in locks, doors and access control, but upside depends on electronic growth outpacing construction softness.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -427,7 +427,7 @@
     "file": "aptivplc",
     "report_url": "/reports/aptivplc",
     "conviction": 50,
-    "summary": "Aptiv plc (APTV) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $59.65 as the latest stored price reference where availa...",
+    "summary": "Aptiv has real leverage to vehicle electrification and software architecture, but it still operates in a brutally cyclical auto supply chain where launches and volumes can disappoint.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -589,7 +589,7 @@
     "file": "bankofirelandgroupplc",
     "report_url": "/reports/bankofirelandgroupplc",
     "conviction": 50,
-    "summary": "Bank of Ireland Group plc (BIRG) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $16.45 as the latest stored price refere...",
+    "summary": "Bank of Ireland benefits from a stronger domestic lending market and higher rates, but investors still need confidence that deposit stickiness, credit quality and capital returns will hold.",
     "date": "2026-04-11",
     "universes": [
       "uk",
@@ -753,7 +753,7 @@
     "file": "cosmopharmaceuticalsnv",
     "report_url": "/reports/cosmopharmaceuticalsnv",
     "conviction": 50,
-    "summary": "Cosmo Pharmaceuticals NV (C43) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $96.2 as the latest stored price reference...",
+    "summary": "Cosmo blends specialty pharma, devices and partnerships in a way that creates real niche optionality, but execution still rests on a relatively small number of products and deals.",
     "date": "2026-04-11",
     "universes": [
       "irish"
@@ -877,7 +877,7 @@
     "file": "cimpressplc",
     "report_url": "/reports/cimpressplc",
     "conviction": 50,
-    "summary": "Cimpress plc (CMPR) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $76.7 as the latest stored price reference where avai...",
+    "summary": "Cimpress is more than a legacy print name thanks to Vistaprint, software and fulfilment scale, but returns still depend on disciplined marketing and efficient execution in a mature category.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -1387,7 +1387,7 @@
     "file": "eatoncorporationplc",
     "report_url": "/reports/eatoncorporationplc",
     "conviction": 68,
-    "summary": "Eaton Corporation PLC (ETN) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is HOLD with conviction 68/100, using $403 as the latest stored price reference where...",
+    "summary": "Eaton has become a durable electrification winner with exposure to grid upgrades, data centres and power management, though it still needs to navigate the normal swings of industrial demand.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -1405,7 +1405,7 @@
     "file": "experianplc",
     "report_url": "/reports/experianplc",
     "conviction": 48,
-    "summary": "Experian plc (EXPGF) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 48/100, using $35.04 as the latest stored price reference where av...",
+    "summary": "Experian is a deeply embedded credit and data analytics franchise with recurring revenue and strong cash conversion, though the market already recognises much of that quality.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -1478,7 +1478,7 @@
     "file": "flutterentertainmentplc",
     "report_url": "/reports/flutterentertainmentplc",
     "conviction": 50,
-    "summary": "Flutter Entertainment (FLUT) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $102.38 as the latest stored price reference...",
+    "summary": "Flutter is one of the strongest operators in online betting and gaming, but the shares still hinge on how durable US and international economics remain under constant regulatory pressure.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -1496,7 +1496,7 @@
     "file": "kneatcominc",
     "report_url": "/reports/kneatcominc",
     "conviction": 28,
-    "summary": "Kneat.com Inc (FOBK) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is SELL with conviction 28/100, using $2.26 as the latest stored price reference where avail...",
+    "summary": "Kneat sells sticky validation software into highly regulated manufacturing workflows, but the investment case still turns on whether the company can scale recurring revenue without outrunning costs.",
     "date": "2026-04-11",
     "universes": [
       "irish"
@@ -1619,7 +1619,7 @@
     "file": "ghresearchplc",
     "report_url": "/reports/ghresearchplc",
     "conviction": 46,
-    "summary": "GH Research PLC (GHRS) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 46/100, using $15.72 as the latest stored price reference where...",
+    "summary": "GH Research offers meaningful upside if its psychedelic-derived therapies deliver in the clinic, but this remains an early-stage biotech story where trial evidence must do all the work.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -1655,7 +1655,7 @@
     "file": "glanbiaplc",
     "report_url": "/reports/glanbiaplc",
     "conviction": 50,
-    "summary": "Glanbia plc (GL9) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $16.94 as the latest stored price reference where avail...",
+    "summary": "Glanbia has attractive branded nutrition exposure, but the shares can still be dragged around by dairy-linked sentiment and ingredient volatility when the market loses sight of the better business mix.",
     "date": "2026-04-11",
     "universes": [
       "irish"
@@ -1839,7 +1839,7 @@
     "file": "iconplc",
     "report_url": "/reports/iconplc",
     "conviction": 50,
-    "summary": "Icon plc (ICLR) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $106.81 as the latest stored price reference where availa...",
+    "summary": "ICON remains a leading contract research organisation with structural outsourcing tailwinds, but investors still need to judge how much biopharma spending caution is already in the stock.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -1963,7 +1963,7 @@
     "file": "iterumtherapeuticsplc",
     "report_url": "/reports/iterumtherapeuticsplc",
     "conviction": 4,
-    "summary": "Iterum Therapeutics PLC (ITRMF) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is SELL with conviction 4/100, using $0.01 as the latest stored price reference w...",
+    "summary": "Iterum is a high-risk anti-infectives biotech whose value depends on a narrow set of regulatory and commercial outcomes, making it far more of a special situation than a core investment.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -1981,7 +1981,7 @@
     "file": "jazzpharmaceuticalsplc",
     "report_url": "/reports/jazzpharmaceuticalsplc",
     "conviction": 50,
-    "summary": "Jazz Pharmaceuticals (JAZZ) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $194.2 as the latest stored price reference w...",
+    "summary": "Jazz is a profitable specialty pharma company with solid cash flow, but the shares still depend on portfolio durability and management's ability to replace growth as key products mature.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -2034,7 +2034,7 @@
     "file": "jameshardieindustriesplc",
     "report_url": "/reports/jameshardieindustriesplc",
     "conviction": 50,
-    "summary": "James Hardie Industries (JHX) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $21.02 as the latest stored price reference...",
+    "summary": "James Hardie owns a strong fibre-cement franchise in the US, but even a high-quality business is tied to housing, repair and remodel cycles that can quickly change the entry case.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -2107,7 +2107,7 @@
     "file": "kingspangroupadr",
     "report_url": "/reports/kingspangroupadr",
     "conviction": 84,
-    "summary": "Kingspan Group ADR (KGSPY) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is BUY with conviction 84/100, using $90.15 as the latest stored price reference where...",
+    "summary": "Kingspan combines real franchise quality with structural exposure to energy-efficient buildings, though investors still need to respect the normal cyclicality of construction markets.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -2180,7 +2180,7 @@
     "file": "lindeplc",
     "report_url": "/reports/lindeplc",
     "conviction": 61,
-    "summary": "Linde PLC (LIN) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is HOLD with conviction 61/100, using $503.15 as the latest stored price reference where available.",
+    "summary": "Linde is a premier industrial gases franchise with sticky contracts, pricing discipline and resilient cash generation, even if that quality rarely comes at an obviously cheap valuation.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -2733,7 +2733,7 @@
     "file": "navitassemiconductorcorp",
     "report_url": "/reports/navitassemiconductorcorp",
     "conviction": 50,
-    "summary": "Navitas Semiconductor (NVTS) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $9.54 as the latest stored price reference w...",
+    "summary": "Navitas has an interesting next-generation power semiconductor story in gallium nitride and silicon carbide, but commercial ramps and competitive pressure can stay messy for longer than hoped.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -3232,7 +3232,7 @@
     "file": "breraholdingsplc",
     "report_url": "/reports/breraholdingsplc",
     "conviction": 18,
-    "summary": "Brera Holdings PLC (SLMT) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. Coverage rebuilt as a minimal correct note because the prior page referenced unrelated additive-manufactur...",
+    "summary": "Brera is a micro-cap football ownership vehicle whose valuation depends on asset quality, league outcomes and financing, making it a speculative holding-company story rather than an operating one.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -3339,7 +3339,7 @@
     "file": "sterisplc",
     "report_url": "/reports/sterisplc",
     "conviction": 50,
-    "summary": "STERIS plc (STE) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $222.58 as the latest stored price reference where avail...",
+    "summary": "STERIS is a high-quality sterilisation and infection-prevention compounder with recurring, mission-critical demand, but the shares still need a sensible entry price to justify fresh buying.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -3375,7 +3375,7 @@
     "file": "smurfitwestrockplc",
     "report_url": "/reports/smurfitwestrockplc",
     "conviction": 50,
-    "summary": "Smurfit Westrock (SW) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $42.06 as the latest stored price reference where a...",
+    "summary": "Smurfit Westrock has scale and synergy potential after the merger, but this is still a cyclical packaging story where execution, pricing discipline and energy costs matter.",
     "date": "2026-04-11",
     "universes": [
       "us",
@@ -3538,7 +3538,7 @@
     "file": "trinitybiotechplc",
     "report_url": "/reports/trinitybiotechplc",
     "conviction": 12,
-    "summary": "Trinity Biotech PLC (TRIB) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is SELL with conviction 12/100, using $0.71 as the latest stored price reference where...",
+    "summary": "Trinity Biotech is a small diagnostics turnaround where capital needs and execution dominate the case, leaving the shares speculative until any product platform regains real relevance.",
     "date": "2026-04-11",
     "universes": [
       "us",
