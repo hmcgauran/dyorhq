@@ -473,14 +473,14 @@
     "isin": "GB00BYYW9G87",
     "exchange_code": "LN",
     "exchange": "LN",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
+    "rating": "SPECULATIVE BUY",
+    "recommendation": "SPECULATIVE BUY",
     "company": "Avacta Group plc",
     "file": "avactagroupplc",
     "report_url": "/reports/avactagroupplc",
-    "conviction": 63,
-    "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform - a tumour-targeted prodrug activation technology designed to improve the therapeutic index of cancer drugs by releasin",
-    "date": "2026-04-10",
+    "conviction": 68,
+    "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform, and the latest April 2026 update materially strengthens the thesis: regulators have removed the doxorubicin lifetime dose cap after zero cardiac toxicity observed to date, 90% disease control has been disclosed in chemorefractory salivary gland cancer, and AVA6103 first-patient dosing is now imminent.",
+    "date": "2026-04-14",
     "universes": [
       "uk"
     ]
