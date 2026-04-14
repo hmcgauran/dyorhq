@@ -108,7 +108,9 @@ function validateProject() {
     }
 
     const universes = normaliseUniverses(entry.universes);
-    if (Array.isArray(entry.universes) && universes.length !== entry.universes.length) {
+    // Only flag if non-watchlist/all values were filtered or duplicates existed
+    const nonWatchlistOriginal = (entry.universes || []).filter(u => u !== 'watchlist' && u !== 'all');
+    if (Array.isArray(entry.universes) && universes.length !== nonWatchlistOriginal.length) {
       issues.push(`${label} contains deprecated or duplicate universes.`);
     }
 
