@@ -1,5 +1,24 @@
 [
   {
+    "ticker": "AAPL",
+    "isin": null,
+    "exchange_code": null,
+    "exchange": null,
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Apple Inc",
+    "file": "appleinc",
+    "report_url": "/reports/appleinc",
+    "conviction": 64,
+    "summary": "Apple's ecosystem durability and Services growth are well-established, but the shares are trading near their 52-week high at a P/E of 33x, leaving limited upside at current levels -",
+    "date": "2026-04-10",
+    "universes": [
+      "us",
+      "fortune100",
+      "sp100"
+    ]
+  },
+  {
     "ticker": "ABBV",
     "isin": null,
     "exchange_code": null,
@@ -35,6 +54,23 @@
       "us",
       "fortune100",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "ABVE",
+    "isin": "CA00373V1004",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "SELL - SPECULATIVE",
+    "recommendation": "SELL - SPECULATIVE",
+    "company": "Above Food Ingredients Inc",
+    "file": "abovefoodingredientsinc",
+    "report_url": "/reports/abovefoodingredientsinc",
+    "conviction": 31,
+    "summary": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger ",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -201,6 +237,23 @@
     ]
   },
   {
+    "ticker": "ALK.L",
+    "isin": "GB00BMD6C023",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Alkemy Capital Investments plc",
+    "file": "alkemycapitalinvestmentsplc",
+    "report_url": "/reports/alkemycapitalinvestmentsplc",
+    "conviction": 68,
+    "summary": "Alkemy Capital Investments is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania - ",
+    "date": "2026-04-08",
+    "universes": [
+      "uk"
+    ]
+  },
+  {
     "ticker": "ALKS",
     "isin": null,
     "exchange_code": null,
@@ -255,6 +308,42 @@
     ]
   },
   {
+    "ticker": "AMBP",
+    "isin": "JE00BFSP3X59",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Ardagh Metal Packaging SA",
+    "file": "ardaghmetalpackagingsa",
+    "report_url": "/reports/ardaghmetalpackagingsa",
+    "conviction": 58,
+    "summary": "Ardagh Metal Packaging is a cyclical packaging business rather than a high-growth equity story. The attraction is operational leverage, defensive end-market exposure through beverage cans, and the pos",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
+    "ticker": "AMD",
+    "isin": null,
+    "exchange_code": null,
+    "exchange": null,
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Advanced Micro Devices Inc",
+    "file": "advancedmicrodevicesinc",
+    "report_url": "/reports/advancedmicrodevicesinc",
+    "conviction": 60,
+    "summary": "AMD is the most credible alternative to NVIDIA in AI accelerators and has made genuine GPU architecture progress, but at a P/E of 94x the market is already pricing a successful execution of an extreme",
+    "date": "2026-04-10",
+    "universes": [
+      "us",
+      "fortune100",
+      "sp100"
+    ]
+  },
+  {
     "ticker": "AMGN",
     "isin": null,
     "exchange_code": null,
@@ -292,6 +381,42 @@
     ]
   },
   {
+    "ticker": "AMZN",
+    "isin": "US0231351067",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Amazon.com Inc",
+    "file": "amazoncominc",
+    "report_url": "/reports/amazoncominc",
+    "conviction": 76,
+    "summary": "Amazon is the world's largest e-commerce marketplace and cloud infrastructure provider, operating a network effect business with two dominant platforms - marketplace and AWS - that reinforce each othe",
+    "date": "2026-04-10",
+    "universes": [
+      "us",
+      "fortune100",
+      "sp100"
+    ]
+  },
+  {
+    "ticker": "ANET",
+    "isin": "US04004R1068",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Arista Networks Inc",
+    "file": "aristanetworksinc",
+    "report_url": "/reports/aristanetworksinc",
+    "conviction": 67,
+    "summary": "Arista is one of the cleanest infrastructure beneficiaries of the AI datacentre build-out. Its high-performance cloud networking kit sits directly in the path of hyperscaler capex, and its software-le",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "APTV",
     "isin": null,
     "exchange_code": null,
@@ -307,6 +432,57 @@
     "universes": [
       "us",
       "irish"
+    ]
+  },
+  {
+    "ticker": "ASTS",
+    "isin": "US00217D1000",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "REDUCE - SPECULATIVE",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "company": "AST SpaceMobile Inc",
+    "file": "astspacemobileinc",
+    "report_url": "/reports/astspacemobileinc",
+    "conviction": 49,
+    "summary": "AST SpaceMobile is one of the most exciting and one of the most dangerous names in the watchlist. The concept, direct-to-device satellite broadband using standard mobile phones, is genuinely different",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
+    "ticker": "AUTL",
+    "isin": "US05280R1005",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "REDUCE - SPECULATIVE",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "company": "Autolus Therapeutics plc",
+    "file": "autolustherapeuticsplc",
+    "report_url": "/reports/autolustherapeuticsplc",
+    "conviction": 48,
+    "summary": "Autolus is a clinical biotech name where the upside exists only if the science and regulatory path work. At $1.49 with a market cap of roughly $362M and negative EPS, the stock is still deep in specul",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
+    "ticker": "AVCT.L",
+    "isin": "GB00BYYW9G87",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Avacta Group plc",
+    "file": "avactagroupplc",
+    "report_url": "/reports/avactagroupplc",
+    "conviction": 63,
+    "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform - a tumour-targeted prodrug activation technology designed to improve the therapeutic index of cancer drugs by releasin",
+    "date": "2026-04-10",
+    "universes": [
+      "uk"
     ]
   },
   {
@@ -364,6 +540,23 @@
       "us",
       "fortune100",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "BABA",
+    "isin": "US01609W1053",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Alibaba Group Holding Ltd - ADR",
+    "file": "alibabagroupholdingltdadr",
+    "report_url": "/reports/alibabagroupholdingltdadr",
+    "conviction": 52,
+    "summary": "Alibaba is a high-quality e-commerce and cloud infrastructure company that has been systematically mispriced by Western markets due to geopolitical risk premium, regulatory overhang from the PRC's tec",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -459,6 +652,23 @@
     ]
   },
   {
+    "ticker": "BLOE.L",
+    "isin": null,
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Block Energy PLC",
+    "file": "blockenergyplc",
+    "report_url": "/reports/blockenergyplc",
+    "conviction": 55,
+    "summary": "Block Energy is a high-risk/high-reward Georgian gas developer with a sub-£15M market cap and an independently certified USD 2.2B NPV10 on Project III alone. The binding farm-out of 51% of Project III",
+    "date": "2026-04-14",
+    "universes": [
+      "uk"
+    ]
+  },
+  {
     "ticker": "BMY",
     "isin": null,
     "exchange_code": null,
@@ -497,6 +707,23 @@
     ]
   },
   {
+    "ticker": "BWXT",
+    "isin": "US09062M1036",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "BWX Technologies, Inc.",
+    "file": "bwxtechnologiesinc",
+    "report_url": "/reports/bwxtechnologiesinc",
+    "conviction": 76,
+    "summary": "BWX Technologies is the strongest quality name in this part of the market because it offers nuclear exposure through a real operating business rather than through a pure future-technology promise. The",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "C",
     "isin": null,
     "exchange_code": null,
@@ -531,6 +758,21 @@
     "universes": [
       "irish"
     ]
+  },
+  {
+    "ticker": "CAD · TSX-V",
+    "isin": "CA1956151098",
+    "exchange_code": "TO",
+    "exchange": "TO",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Colonial Coal International Corp",
+    "file": "colonialcoalinternationalcorp",
+    "report_url": "/reports/colonialcoalinternationalcorp",
+    "conviction": 55,
+    "summary": "Colonial Coal International Corp is a Vancouver-listed metallurgical (steelmaking) coal company focused on the Peace River coalfield in north-east British Columbia. The company holds a 60% interest in",
+    "date": "2026-04-08",
+    "universes": []
   },
   {
     "ticker": "CAH",
@@ -753,6 +995,23 @@
     ]
   },
   {
+    "ticker": "CRIS",
+    "isin": "US2312693094",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "REDUCE - SPECULATIVE",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "company": "Curis Inc",
+    "file": "curisinc",
+    "report_url": "/reports/curisinc",
+    "conviction": 40,
+    "summary": "Curis is a small-cap oncology biotech with the usual combination of scientific optionality and financial fragility. At $0.5535 with a market cap of about $20.8M and negative EPS of -$1.20, the equity ",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "CRM",
     "isin": null,
     "exchange_code": null,
@@ -769,6 +1028,23 @@
       "us",
       "fortune100",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "CRWD",
+    "isin": "US22788C1053",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "CrowdStrike Holdings Inc",
+    "file": "crowdstrikeholdingsinc",
+    "report_url": "/reports/crowdstrikeholdingsinc",
+    "conviction": 65,
+    "summary": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -899,6 +1175,23 @@
       "us",
       "fortune100",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "DGE.L",
+    "isin": "GB00B7F7S988",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Diageo plc",
+    "file": "diageoplc",
+    "report_url": "/reports/diageoplc",
+    "conviction": 62,
+    "summary": "Diageo is a quality compounder trading at decade-low valuations following a significant operational reset.\n              The February 2026 H1 results delivered a kitchen-sink moment: dividend halved, ",
+    "date": "2026-04-08",
+    "universes": [
+      "uk"
     ]
   },
   {
@@ -1067,6 +1360,23 @@
     ]
   },
   {
+    "ticker": "ETL.PA (EURONEXT PARIS) / ETL.L (LSE)",
+    "isin": "FR0010221234",
+    "exchange_code": "FP",
+    "exchange": "FP",
+    "rating": "REDUCE",
+    "recommendation": "REDUCE",
+    "company": "Eutelsat Communications",
+    "file": "eutelsatcommunicationssa",
+    "report_url": "/reports/eutelsatcommunicationssa",
+    "conviction": 41,
+    "summary": "Eutelsat has been absolutely destroyed - down ~51% from its 52-week high of €4.74\n              to €2.33. The stock is sitting 47% above its 52-week low of €1.59, having recovered\n              from t",
+    "date": "2026-04-07",
+    "universes": [
+      "uk"
+    ]
+  },
+  {
     "ticker": "ETN",
     "isin": null,
     "exchange_code": null,
@@ -1141,6 +1451,23 @@
     ]
   },
   {
+    "ticker": "FFAI",
+    "isin": "US3073598852",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "SELL - SPECULATIVE",
+    "recommendation": "SELL - SPECULATIVE",
+    "company": "Faraday Future Intelligent Electric Inc",
+    "file": "faradayfutureintelligentelectricinc",
+    "report_url": "/reports/faradayfutureintelligentelectricinc",
+    "conviction": 18,
+    "summary": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating e",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "FLUT",
     "isin": null,
     "exchange_code": null,
@@ -1173,6 +1500,23 @@
     "date": "2026-04-11",
     "universes": [
       "irish"
+    ]
+  },
+  {
+    "ticker": "FTNT",
+    "isin": "US34959E1091",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Fortinet Inc",
+    "file": "fortinetinc",
+    "report_url": "/reports/fortinetinc",
+    "conviction": 55,
+    "summary": "Fortinet is a network security company focused on the mid-market and enterprise segment, selling firewalls, secure access (SD-WAN), and endpoint security through a combination of hardware appliances a",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -1248,6 +1592,23 @@
     ]
   },
   {
+    "ticker": "GGP.L",
+    "isin": "AU0000397705",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Greatland Resources Ltd",
+    "file": "greatlandresourcesltd",
+    "report_url": "/reports/greatlandresourcesltd",
+    "conviction": 57,
+    "summary": "Greatland Resources is a UK-listed gold explorer and mining company focused on the prolific Pilbara region of Western Australia and, critically, a flagship partnership with Newmont at the Blackhill jo",
+    "date": "2026-04-08",
+    "universes": [
+      "uk"
+    ]
+  },
+  {
     "ticker": "GHRS",
     "isin": null,
     "exchange_code": null,
@@ -1298,6 +1659,23 @@
     "date": "2026-04-11",
     "universes": [
       "irish"
+    ]
+  },
+  {
+    "ticker": "GLEN.L",
+    "isin": "JE00B4T3BW27",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Glencore plc",
+    "file": "glencoreplc",
+    "report_url": "/reports/glencoreplc",
+    "conviction": 64,
+    "summary": "Glencore is one of the world's largest diversified commodity groups, operating mining and marketing\n              assets across copper, zinc, cobalt, coal, oil, and agricultural commodities. The compa",
+    "date": "2026-04-08",
+    "universes": [
+      "uk"
     ]
   },
   {
@@ -1469,6 +1847,25 @@
     ]
   },
   {
+    "ticker": "INTC",
+    "isin": null,
+    "exchange_code": null,
+    "exchange": null,
+    "rating": "SELL",
+    "recommendation": "SELL",
+    "company": "Intel Corporation",
+    "file": "intelcorp",
+    "report_url": "/reports/intelcorp",
+    "conviction": 27,
+    "summary": "Intel faces a structural competitive disadvantage in AI accelerators, has lost server CPU market share to AMD, and its foundry transformation is capital-intensive with an uncertain payoff - the stock ",
+    "date": "2026-04-10",
+    "universes": [
+      "us",
+      "fortune100",
+      "sp100"
+    ]
+  },
+  {
     "ticker": "INTU",
     "isin": null,
     "exchange_code": null,
@@ -1488,6 +1885,23 @@
     ]
   },
   {
+    "ticker": "IONQ",
+    "isin": "US46222L1089",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "REDUCE - SPECULATIVE",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "company": "IonQ Inc",
+    "file": "ionqinc",
+    "report_url": "/reports/ionqinc",
+    "conviction": 47,
+    "summary": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.5",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "IR",
     "isin": null,
     "exchange_code": null,
@@ -1504,6 +1918,21 @@
       "us",
       "irish"
     ]
+  },
+  {
+    "ticker": "IREN",
+    "isin": "AU0000185993",
+    "exchange_code": "AU",
+    "exchange": "AU",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Iris Energy Ltd",
+    "file": "irenltd",
+    "report_url": "/reports/irenltd",
+    "conviction": 61,
+    "summary": "Iris Energy is one of the cleaner listed ways to play the intersection of Bitcoin mining, power infrastructure, and AI/HPC optionality. The market likes that combination, which is why the stock sits j",
+    "date": "2026-04-08",
+    "universes": []
   },
   {
     "ticker": "ISRG",
@@ -1578,6 +2007,23 @@
     ]
   },
   {
+    "ticker": "JD",
+    "isin": "US47215P1066",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "JD.com",
+    "file": "jd",
+    "report_url": "/reports/jd",
+    "conviction": 58,
+    "summary": "JD.com is a high-quality, large-scale Chinese e-commerce and logistics platform that has underperformed peers due to a profitability reset in FY2025. Revenue growth of 13% YoY to US$187.2B is respecta",
+    "date": "2026-04-14",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "JHX",
     "isin": null,
     "exchange_code": null,
@@ -1631,6 +2077,23 @@
       "us",
       "fortune100",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "KBGGY · NO",
+    "isin": "NO0013536151",
+    "exchange_code": "NO",
+    "exchange": "NO",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Kongsberg Gruppen ASA",
+    "file": "kongsberggruppenunsponsorednorwayadr",
+    "report_url": "/reports/kongsberggruppenunsponsorednorwayadr",
+    "conviction": 58,
+    "summary": "Kongsberg Gruppen ASA (KBGGY) provides Norwegian defence and maritime technology exposure through an ADR structure, with strong NATO-linked demand support but enough valuation risk to keep the stance at HOLD.",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -1689,6 +2152,24 @@
     ]
   },
   {
+    "ticker": "KYGA.L (LSE) / KRZ (ISE)",
+    "isin": "GB00B2QC4L34",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Kerry Group",
+    "file": "kerrygroupplc",
+    "report_url": "/reports/kerrygroupplc",
+    "conviction": 58,
+    "summary": "Kerry Group has been a deeply disappointing long-term investment - down ~25% over 1 year and\n              ~26% over 5 years, and currently trading ~31% below its 52-week high of €100.50. The\n        ",
+    "date": "2026-04-07",
+    "universes": [
+      "uk",
+      "irish"
+    ]
+  },
+  {
     "ticker": "LIN",
     "isin": null,
     "exchange_code": null,
@@ -1742,6 +2223,40 @@
       "us",
       "fortune100",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "LND",
+    "isin": "GG00BMX4VR69",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "SELL - SPECULATIVE",
+    "recommendation": "SELL - SPECULATIVE",
+    "company": "Landore Resources Ltd",
+    "file": "landoreresourcesltd",
+    "report_url": "/reports/landoreresourcesltd",
+    "conviction": 34,
+    "summary": "Landore sits firmly in the small-cap exploration bucket where the asset story can sound better than the equity outcome. At 2.20p, essentially flat near the top of a very low trading range, the company",
+    "date": "2026-04-08",
+    "universes": [
+      "uk"
+    ]
+  },
+  {
+    "ticker": "LON:CMRS",
+    "isin": null,
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "SELL",
+    "recommendation": "SELL",
+    "company": "Critical Mineral Resources PLC",
+    "file": "cmrs",
+    "report_url": "/reports/cmrs",
+    "conviction": 22,
+    "summary": "Critical Mineral Resources PLC is a UK AIM micro-cap explorer with no revenue, negative equity, and no JORC-compliant resource. Its only material asset is the Agadir Melloul copper-silver project in M",
+    "date": "2026-04-14",
+    "universes": [
+      "uk"
     ]
   },
   {
@@ -1838,6 +2353,23 @@
     ]
   },
   {
+    "ticker": "MDB",
+    "isin": "US6081901042",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "MongoDB Inc",
+    "file": "mongodbinc",
+    "report_url": "/reports/mongodbinc",
+    "conviction": 62,
+    "summary": "MongoDB is one of the most developer-trusted database platforms in the world, built on an open-source model that has successfully transitioned into a cloud-first subscription business. Atlas, its full",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "MDLZ",
     "isin": null,
     "exchange_code": null,
@@ -1892,6 +2424,42 @@
     "universes": [
       "us",
       "fortune100"
+    ]
+  },
+  {
+    "ticker": "META",
+    "isin": null,
+    "exchange_code": null,
+    "exchange": null,
+    "rating": "BUY",
+    "recommendation": "BUY",
+    "company": "Meta Platforms Inc",
+    "file": "metaplatformsinc",
+    "report_url": "/reports/metaplatformsinc",
+    "conviction": 81,
+    "summary": "Meta's transformation from a social media company into an AI-first technology platform - with a dominant digital advertising franchise, a rapidly scaling Llama-based open-source ecosystem, and a Reels",
+    "date": "2026-04-10",
+    "universes": [
+      "us",
+      "fortune100",
+      "sp100"
+    ]
+  },
+  {
+    "ticker": "MKA.L",
+    "isin": "CA60686A4090",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Mkango Resources Ltd",
+    "file": "mkangoresourcesltd",
+    "report_url": "/reports/mkangoresourcesltd",
+    "conviction": 65,
+    "summary": "Mkango is a Canadian-listed rare earths and recycling company with two core assets: the Songwe Hill rare earths project in Malawi and the Akokoma magnet recycling joint venture in Poland. The investme",
+    "date": "2026-04-08",
+    "universes": [
+      "uk"
     ]
   },
   {
@@ -1988,6 +2556,25 @@
     ]
   },
   {
+    "ticker": "MSFT",
+    "isin": null,
+    "exchange_code": null,
+    "exchange": null,
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Microsoft Corporation",
+    "file": "microsoftcorp",
+    "report_url": "/reports/microsoftcorp",
+    "conviction": 69,
+    "summary": "Microsoft's Azure AI momentum and Copilot monetisation are real and accelerating, but the shares are at a P/E of 23x - reasonable for this quality of business, but leaving limited margin of safety at ",
+    "date": "2026-04-10",
+    "universes": [
+      "us",
+      "fortune100",
+      "sp100"
+    ]
+  },
+  {
     "ticker": "MU",
     "isin": null,
     "exchange_code": null,
@@ -2041,6 +2628,23 @@
       "us",
       "fortune100",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "NIO",
+    "isin": "US6541061031",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "REDUCE - SPECULATIVE",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "company": "NIO Inc",
+    "file": "nioincadr",
+    "report_url": "/reports/nioincadr",
+    "conviction": 38,
+    "summary": "NIO is a Chinese premium electric vehicle maker with a battery-as-a-service (BaaS) model and a nationwide swap station network. The investment case rests on NIO's premium brand positioning, its propri",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -2100,6 +2704,25 @@
     ]
   },
   {
+    "ticker": "NVDA",
+    "isin": "US67066G1040",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "NVIDIA Corporation",
+    "file": "nvidiacorp",
+    "report_url": "/reports/nvidiacorp",
+    "conviction": 68,
+    "summary": "NVIDIA sits at the epicentre of the AI infrastructure buildout, commanding an effective monopoly in AI accelerators via its CUDA ecosystem and the Hopper/Blackwell GPU architecture. At $181.46 the sha",
+    "date": "2026-04-10",
+    "universes": [
+      "us",
+      "fortune100",
+      "sp100"
+    ]
+  },
+  {
     "ticker": "NVTS",
     "isin": null,
     "exchange_code": null,
@@ -2118,6 +2741,38 @@
     ]
   },
   {
+    "ticker": "OKLO",
+    "isin": "US67987P1059",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Oklo Inc.",
+    "file": "okloinc",
+    "report_url": "/reports/okloinc",
+    "conviction": 61,
+    "summary": "Oklo is one of the cleanest listed ways to express the view that AI-era electricity demand will force the market to take advanced nuclear seriously. The company’s appeal is not just “nuclear”, it is",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
+    "ticker": "ONDO",
+    "isin": "GB00BNVVGD77",
+    "exchange_code": "CRYPTO",
+    "exchange": "CRYPTO",
+    "rating": "REDUCE - SPECULATIVE",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "company": "Ondo",
+    "file": "ondoinsurtechplc",
+    "report_url": "/reports/ondoinsurtechplc",
+    "conviction": 48,
+    "summary": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is e",
+    "date": "2026-04-08",
+    "universes": []
+  },
+  {
     "ticker": "ORCL",
     "isin": null,
     "exchange_code": null,
@@ -2134,6 +2789,40 @@
       "us",
       "fortune100",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "PALM.L",
+    "isin": "IM00BRF2WV49",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "REDUCE - SPECULATIVE",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "company": "Panther Metals plc",
+    "file": "panthermetalsplc",
+    "report_url": "/reports/panthermetalsplc",
+    "conviction": 43,
+    "summary": "Panther Metals is firmly in the small-cap exploration camp where upside can be dramatic, but the path is usually through dilution, volatility and a lot of hope. At 80.0p, up on the day with limited vo",
+    "date": "2026-04-08",
+    "universes": [
+      "uk"
+    ]
+  },
+  {
+    "ticker": "PANW",
+    "isin": "US6974351057",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Palo Alto Networks Inc",
+    "file": "paloaltonetworksinc",
+    "report_url": "/reports/paloaltonetworksinc",
+    "conviction": 74,
+    "summary": "Palo Alto Networks is the dominant next-generation firewall vendor making the transition to a comprehensive platform company - SASE, cloud security, AI-powered security operations (XSIAM), and SOC aut",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -2209,6 +2898,23 @@
     "universes": [
       "us",
       "fortune100"
+    ]
+  },
+  {
+    "ticker": "PL",
+    "isin": "US72703X1089",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "REDUCE - SPECULATIVE",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "company": "Planet Labs PBC",
+    "file": "planetlabspbc",
+    "report_url": "/reports/planetlabspbc",
+    "conviction": 43,
+    "summary": "Planet Labs operates the world's largest commercial fleet of Earth observation satellites - over 200 satellites imaging the entire land surface of Earth every single day. This gives the company a uniq",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -2321,6 +3027,40 @@
     ]
   },
   {
+    "ticker": "PXEN.L",
+    "isin": "GB00BMFZVZ53",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Prospex Energy plc",
+    "file": "prospexenergyplc",
+    "report_url": "/reports/prospexenergyplc",
+    "conviction": 58,
+    "summary": "Prospex is a small-cap European gas story, which means the equity case can work when production and pricing line up, but it remains vulnerable to liquidity, operational and funding shocks. At 3.40p on",
+    "date": "2026-04-08",
+    "universes": [
+      "uk"
+    ]
+  },
+  {
+    "ticker": "QBTS",
+    "isin": "US26740W1099",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "REDUCE - SPECULATIVE",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "company": "D-Wave Quantum Inc",
+    "file": "dwavequantuminc",
+    "report_url": "/reports/dwavequantuminc",
+    "conviction": 44,
+    "summary": "D-Wave is one of the few listed pure-play quantum names with real commercial customers, but it still trades more on narrative than fundamentals. At $14.56 and a ~$5.4bn market cap, the stock is pricin",
+    "date": "2026-04-09",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "QCOM",
     "isin": null,
     "exchange_code": null,
@@ -2340,6 +3080,40 @@
     ]
   },
   {
+    "ticker": "QED.L",
+    "isin": "GB00B11DDB67",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Quadrise plc",
+    "file": "quadriseplc",
+    "report_url": "/reports/quadriseplc",
+    "conviction": 56,
+    "summary": "Quadrise has spent years living in the zone where commercial promise exists, but full validation remains just over the horizon. At 2.70p, up on the day and trading on strong volume, the market is stil",
+    "date": "2026-04-08",
+    "universes": [
+      "uk"
+    ]
+  },
+  {
+    "ticker": "RGTI",
+    "isin": "US76655K1034",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "REDUCE - SPECULATIVE",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "company": "Rigetti Computing Inc",
+    "file": "rigetticomputinginc",
+    "report_url": "/reports/rigetticomputinginc",
+    "conviction": 46,
+    "summary": "Rigetti is another listed quantum name trading on future possibility rather than current economics. At $14.36 with a market cap near $4.6B and negative EPS, the valuation still reflects thematic enthu",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "RTX",
     "isin": null,
     "exchange_code": null,
@@ -2356,6 +3130,23 @@
       "us",
       "fortune100",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "RUOC.F (FRA) / OPTT (NYSE AMERICAN)",
+    "isin": "US6748705067",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "BUY - SPECULATIVE",
+    "recommendation": "BUY - SPECULATIVE",
+    "company": "Ocean Power Technologies",
+    "file": "oceanpowertechnologiesinc",
+    "report_url": "/reports/oceanpowertechnologiesinc",
+    "conviction": 61,
+    "summary": "Ocean Power Technologies is a pre-revenue marine energy and autonomy company that has just started\n              converting a record backlog into delivery. The stock has been obliterated - down ~61% f",
+    "date": "2026-04-07",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -2414,6 +3205,23 @@
     ]
   },
   {
+    "ticker": "SHOP",
+    "isin": "CA82509L1076",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Shopify Inc",
+    "file": "shopifyinc",
+    "report_url": "/reports/shopifyinc",
+    "conviction": 62,
+    "summary": "Shopify is the dominant e-commerce platform for small and medium-sized businesses in North America, providing a complete ecosystem of tools - online stores, payments, fulfilment, and marketing - that ",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "SLMT",
     "isin": null,
     "exchange_code": null,
@@ -2429,6 +3237,23 @@
     "universes": [
       "us",
       "irish"
+    ]
+  },
+  {
+    "ticker": "SMR",
+    "isin": "US67020B1066",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "REDUCE",
+    "recommendation": "REDUCE",
+    "company": "NuScale Power Corporation",
+    "file": "nuscalepowercorp",
+    "report_url": "/reports/nuscalepowercorp",
+    "conviction": 46,
+    "summary": "NuScale is one of the most recognisable listed names in advanced nuclear because it carries a real regulatory credential, the first U.S. NRC-approved SMR design. That matters. It gives the company a l",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -2484,6 +3309,23 @@
     "universes": [
       "us",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "SPIR",
+    "isin": "US8485603067",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD - SPECULATIVE",
+    "recommendation": "HOLD - SPECULATIVE",
+    "company": "Spire Global Inc",
+    "file": "spireglobalinc",
+    "report_url": "/reports/spireglobalinc",
+    "conviction": 60,
+    "summary": "Spire is one of the more interesting smaller-cap space data names because it sells data and analytics rather than relying entirely on long-dated hardware optionality. The proposition, satellite-derive",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
     ]
   },
   {
@@ -2578,6 +3420,23 @@
     ]
   },
   {
+    "ticker": "TDY",
+    "isin": "US8793601050",
+    "exchange_code": "US",
+    "exchange": "US",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Teledyne Technologies Inc",
+    "file": "teledynetechnologiesinc",
+    "report_url": "/reports/teledynetechnologiesinc",
+    "conviction": 64,
+    "summary": "Teledyne is a diversified industrial technology conglomerate operating across four segments: Defence Electronics (aerospace and defence electronics), Imaging (sensors, cameras, and image processing), ",
+    "date": "2026-04-08",
+    "universes": [
+      "us"
+    ]
+  },
+  {
     "ticker": "TGT",
     "isin": null,
     "exchange_code": null,
@@ -2649,6 +3508,23 @@
     "universes": [
       "us",
       "sp100"
+    ]
+  },
+  {
+    "ticker": "TOM.L",
+    "isin": "IM00BZBXMN96",
+    "exchange_code": "LN",
+    "exchange": "LN",
+    "rating": "SELL - SPECULATIVE",
+    "recommendation": "SELL - SPECULATIVE",
+    "company": "TomCo Energy plc",
+    "file": "tomcoenergyplc",
+    "report_url": "/reports/tomcoenergyplc",
+    "conviction": 22,
+    "summary": "TomCo is deep in the category of AIM micro-cap optionality where the listed equity often behaves more like a perpetual financing stub than an ownership stake in a developing business. At 0.0330p, with",
+    "date": "2026-04-08",
+    "universes": [
+      "uk"
     ]
   },
   {
@@ -2854,6 +3730,21 @@
     ]
   },
   {
+    "ticker": "VEQT.TO (TSX)",
+    "isin": "CA92201C1077",
+    "exchange_code": "TO",
+    "exchange": "TO",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Vanguard All-Equity ETF Portfolio",
+    "file": "vanguardallequityetfportfolio",
+    "report_url": "/reports/vanguardallequityetfportfolio",
+    "conviction": 71,
+    "summary": "VEQT is a passive, all-equity index fund-of-funds ETF that holds a diversified portfolio\n              of Vanguard's underlying regional equity ETFs - covering Canada, the US, Europe, Asia,\n          ",
+    "date": "2026-04-07",
+    "universes": []
+  },
+  {
     "ticker": "VLO",
     "isin": null,
     "exchange_code": null,
@@ -2967,173 +3858,6 @@
     ]
   },
   {
-    "ticker": "AAPL",
-    "isin": null,
-    "exchange_code": null,
-    "exchange": null,
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Apple Inc",
-    "file": "appleinc",
-    "report_url": "/reports/appleinc",
-    "conviction": 64,
-    "summary": "Apple's ecosystem durability and Services growth are well-established, but the shares are trading near their 52-week high at a P/E of 33x, leaving limited upside at current levels -",
-    "date": "2026-04-10",
-    "universes": [
-      "us",
-      "fortune100",
-      "sp100"
-    ]
-  },
-  {
-    "ticker": "AMD",
-    "isin": null,
-    "exchange_code": null,
-    "exchange": null,
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Advanced Micro Devices Inc",
-    "file": "advancedmicrodevicesinc",
-    "report_url": "/reports/advancedmicrodevicesinc",
-    "conviction": 60,
-    "summary": "AMD is the most credible alternative to NVIDIA in AI accelerators and has made genuine GPU architecture progress, but at a P/E of 94x the market is already pricing a successful execution of an extreme",
-    "date": "2026-04-10",
-    "universes": [
-      "us",
-      "fortune100",
-      "sp100"
-    ]
-  },
-  {
-    "ticker": "AMZN",
-    "isin": "US0231351067",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Amazon.com Inc",
-    "file": "amazoncominc",
-    "report_url": "/reports/amazoncominc",
-    "conviction": 76,
-    "summary": "Amazon is the world's largest e-commerce marketplace and cloud infrastructure provider, operating a network effect business with two dominant platforms - marketplace and AWS - that reinforce each othe",
-    "date": "2026-04-10",
-    "universes": [
-      "us",
-      "fortune100",
-      "sp100"
-    ]
-  },
-  {
-    "ticker": "AVCT.L",
-    "isin": "GB00BYYW9G87",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Avacta Group plc",
-    "file": "avactagroupplc",
-    "report_url": "/reports/avactagroupplc",
-    "conviction": 63,
-    "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform - a tumour-targeted prodrug activation technology designed to improve the therapeutic index of cancer drugs by releasin",
-    "date": "2026-04-10",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "INTC",
-    "isin": null,
-    "exchange_code": null,
-    "exchange": null,
-    "rating": "SELL",
-    "recommendation": "SELL",
-    "company": "Intel Corporation",
-    "file": "intelcorp",
-    "report_url": "/reports/intelcorp",
-    "conviction": 27,
-    "summary": "Intel faces a structural competitive disadvantage in AI accelerators, has lost server CPU market share to AMD, and its foundry transformation is capital-intensive with an uncertain payoff - the stock ",
-    "date": "2026-04-10",
-    "universes": [
-      "us",
-      "fortune100",
-      "sp100"
-    ]
-  },
-  {
-    "ticker": "META",
-    "isin": null,
-    "exchange_code": null,
-    "exchange": null,
-    "rating": "BUY",
-    "recommendation": "BUY",
-    "company": "Meta Platforms Inc",
-    "file": "metaplatformsinc",
-    "report_url": "/reports/metaplatformsinc",
-    "conviction": 81,
-    "summary": "Meta's transformation from a social media company into an AI-first technology platform - with a dominant digital advertising franchise, a rapidly scaling Llama-based open-source ecosystem, and a Reels",
-    "date": "2026-04-10",
-    "universes": [
-      "us",
-      "fortune100",
-      "sp100"
-    ]
-  },
-  {
-    "ticker": "MSFT",
-    "isin": null,
-    "exchange_code": null,
-    "exchange": null,
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Microsoft Corporation",
-    "file": "microsoftcorp",
-    "report_url": "/reports/microsoftcorp",
-    "conviction": 69,
-    "summary": "Microsoft's Azure AI momentum and Copilot monetisation are real and accelerating, but the shares are at a P/E of 23x - reasonable for this quality of business, but leaving limited margin of safety at ",
-    "date": "2026-04-10",
-    "universes": [
-      "us",
-      "fortune100",
-      "sp100"
-    ]
-  },
-  {
-    "ticker": "NVDA",
-    "isin": "US67066G1040",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "NVIDIA Corporation",
-    "file": "nvidiacorp",
-    "report_url": "/reports/nvidiacorp",
-    "conviction": 68,
-    "summary": "NVIDIA sits at the epicentre of the AI infrastructure buildout, commanding an effective monopoly in AI accelerators via its CUDA ecosystem and the Hopper/Blackwell GPU architecture. At $181.46 the sha",
-    "date": "2026-04-10",
-    "universes": [
-      "us",
-      "fortune100",
-      "sp100"
-    ]
-  },
-  {
-    "ticker": "QBTS",
-    "isin": "US26740W1099",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "REDUCE - SPECULATIVE",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "company": "D-Wave Quantum Inc",
-    "file": "dwavequantuminc",
-    "report_url": "/reports/dwavequantuminc",
-    "conviction": 44,
-    "summary": "D-Wave is one of the few listed pure-play quantum names with real commercial customers, but it still trades more on narrative than fundamentals. At $14.56 and a ~$5.4bn market cap, the stock is pricin",
-    "date": "2026-04-09",
-    "universes": [
-      "us"
-    ]
-  },
-  {
     "ticker": "XPEV",
     "isin": "US98422D1054",
     "exchange_code": "US",
@@ -3148,612 +3872,6 @@
     "date": "2026-04-09",
     "universes": [
       "us"
-    ]
-  },
-  {
-    "ticker": "ABVE",
-    "isin": "CA00373V1004",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "SELL - SPECULATIVE",
-    "recommendation": "SELL - SPECULATIVE",
-    "company": "Above Food Ingredients Inc",
-    "file": "abovefoodingredientsinc",
-    "report_url": "/reports/abovefoodingredientsinc",
-    "conviction": 31,
-    "summary": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger ",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "ALK.L",
-    "isin": "GB00BMD6C023",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Alkemy Capital Investments plc",
-    "file": "alkemycapitalinvestmentsplc",
-    "report_url": "/reports/alkemycapitalinvestmentsplc",
-    "conviction": 68,
-    "summary": "Alkemy Capital Investments is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania - ",
-    "date": "2026-04-08",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "AMBP",
-    "isin": "JE00BFSP3X59",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Ardagh Metal Packaging SA",
-    "file": "ardaghmetalpackagingsa",
-    "report_url": "/reports/ardaghmetalpackagingsa",
-    "conviction": 58,
-    "summary": "Ardagh Metal Packaging is a cyclical packaging business rather than a high-growth equity story. The attraction is operational leverage, defensive end-market exposure through beverage cans, and the pos",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "ANET",
-    "isin": "US04004R1068",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Arista Networks Inc",
-    "file": "aristanetworksinc",
-    "report_url": "/reports/aristanetworksinc",
-    "conviction": 67,
-    "summary": "Arista is one of the cleanest infrastructure beneficiaries of the AI datacentre build-out. Its high-performance cloud networking kit sits directly in the path of hyperscaler capex, and its software-le",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "ASTS",
-    "isin": "US00217D1000",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "REDUCE - SPECULATIVE",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "company": "AST SpaceMobile Inc",
-    "file": "astspacemobileinc",
-    "report_url": "/reports/astspacemobileinc",
-    "conviction": 49,
-    "summary": "AST SpaceMobile is one of the most exciting and one of the most dangerous names in the watchlist. The concept, direct-to-device satellite broadband using standard mobile phones, is genuinely different",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "AUTL",
-    "isin": "US05280R1005",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "REDUCE - SPECULATIVE",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "company": "Autolus Therapeutics plc",
-    "file": "autolustherapeuticsplc",
-    "report_url": "/reports/autolustherapeuticsplc",
-    "conviction": 48,
-    "summary": "Autolus is a clinical biotech name where the upside exists only if the science and regulatory path work. At $1.49 with a market cap of roughly $362M and negative EPS, the stock is still deep in specul",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "BABA",
-    "isin": "US01609W1053",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Alibaba Group Holding Ltd - ADR",
-    "file": "alibabagroupholdingltdadr",
-    "report_url": "/reports/alibabagroupholdingltdadr",
-    "conviction": 52,
-    "summary": "Alibaba is a high-quality e-commerce and cloud infrastructure company that has been systematically mispriced by Western markets due to geopolitical risk premium, regulatory overhang from the PRC's tec",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "BWXT",
-    "isin": "US09062M1036",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "BWX Technologies, Inc.",
-    "file": "bwxtechnologiesinc",
-    "report_url": "/reports/bwxtechnologiesinc",
-    "conviction": 76,
-    "summary": "BWX Technologies is the strongest quality name in this part of the market because it offers nuclear exposure through a real operating business rather than through a pure future-technology promise. The",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "CAD · TSX-V",
-    "isin": "CA1956151098",
-    "exchange_code": "TO",
-    "exchange": "TO",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Colonial Coal International Corp",
-    "file": "colonialcoalinternationalcorp",
-    "report_url": "/reports/colonialcoalinternationalcorp",
-    "conviction": 55,
-    "summary": "Colonial Coal International Corp is a Vancouver-listed metallurgical (steelmaking) coal company focused on the Peace River coalfield in north-east British Columbia. The company holds a 60% interest in",
-    "date": "2026-04-08",
-    "universes": []
-  },
-  {
-    "ticker": "CRIS",
-    "isin": "US2312693094",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "REDUCE - SPECULATIVE",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "company": "Curis Inc",
-    "file": "curisinc",
-    "report_url": "/reports/curisinc",
-    "conviction": 40,
-    "summary": "Curis is a small-cap oncology biotech with the usual combination of scientific optionality and financial fragility. At $0.5535 with a market cap of about $20.8M and negative EPS of -$1.20, the equity ",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "CRWD",
-    "isin": "US22788C1053",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "CrowdStrike Holdings Inc",
-    "file": "crowdstrikeholdingsinc",
-    "report_url": "/reports/crowdstrikeholdingsinc",
-    "conviction": 65,
-    "summary": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "DGE.L",
-    "isin": "GB00B7F7S988",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Diageo plc",
-    "file": "diageoplc",
-    "report_url": "/reports/diageoplc",
-    "conviction": 62,
-    "summary": "Diageo is a quality compounder trading at decade-low valuations following a significant operational reset.\n              The February 2026 H1 results delivered a kitchen-sink moment: dividend halved, ",
-    "date": "2026-04-08",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "FFAI",
-    "isin": "US3073598852",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "SELL - SPECULATIVE",
-    "recommendation": "SELL - SPECULATIVE",
-    "company": "Faraday Future Intelligent Electric Inc",
-    "file": "faradayfutureintelligentelectricinc",
-    "report_url": "/reports/faradayfutureintelligentelectricinc",
-    "conviction": 18,
-    "summary": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating e",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "FTNT",
-    "isin": "US34959E1091",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Fortinet Inc",
-    "file": "fortinetinc",
-    "report_url": "/reports/fortinetinc",
-    "conviction": 55,
-    "summary": "Fortinet is a network security company focused on the mid-market and enterprise segment, selling firewalls, secure access (SD-WAN), and endpoint security through a combination of hardware appliances a",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "GGP.L",
-    "isin": "AU0000397705",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Greatland Resources Ltd",
-    "file": "greatlandresourcesltd",
-    "report_url": "/reports/greatlandresourcesltd",
-    "conviction": 57,
-    "summary": "Greatland Resources is a UK-listed gold explorer and mining company focused on the prolific Pilbara region of Western Australia and, critically, a flagship partnership with Newmont at the Blackhill jo",
-    "date": "2026-04-08",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "GLEN.L",
-    "isin": "JE00B4T3BW27",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Glencore plc",
-    "file": "glencoreplc",
-    "report_url": "/reports/glencoreplc",
-    "conviction": 64,
-    "summary": "Glencore is one of the world's largest diversified commodity groups, operating mining and marketing\n              assets across copper, zinc, cobalt, coal, oil, and agricultural commodities. The compa",
-    "date": "2026-04-08",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "IONQ",
-    "isin": "US46222L1089",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "REDUCE - SPECULATIVE",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "company": "IonQ Inc",
-    "file": "ionqinc",
-    "report_url": "/reports/ionqinc",
-    "conviction": 47,
-    "summary": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.5",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "IREN",
-    "isin": "AU0000185993",
-    "exchange_code": "AU",
-    "exchange": "AU",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Iris Energy Ltd",
-    "file": "irenltd",
-    "report_url": "/reports/irenltd",
-    "conviction": 61,
-    "summary": "Iris Energy is one of the cleaner listed ways to play the intersection of Bitcoin mining, power infrastructure, and AI/HPC optionality. The market likes that combination, which is why the stock sits j",
-    "date": "2026-04-08",
-    "universes": []
-  },
-  {
-    "ticker": "KBGGY · NO",
-    "isin": "NO0013536151",
-    "exchange_code": "NO",
-    "exchange": "NO",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Kongsberg Gruppen ASA",
-    "file": "kongsberggruppenunsponsorednorwayadr",
-    "report_url": "/reports/kongsberggruppenunsponsorednorwayadr",
-    "conviction": 58,
-    "summary": "Kongsberg Gruppen ASA (KBGGY) provides Norwegian defence and maritime technology exposure through an ADR structure, with strong NATO-linked demand support but enough valuation risk to keep the stance at HOLD.",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "LND",
-    "isin": "GG00BMX4VR69",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "SELL - SPECULATIVE",
-    "recommendation": "SELL - SPECULATIVE",
-    "company": "Landore Resources Ltd",
-    "file": "landoreresourcesltd",
-    "report_url": "/reports/landoreresourcesltd",
-    "conviction": 34,
-    "summary": "Landore sits firmly in the small-cap exploration bucket where the asset story can sound better than the equity outcome. At 2.20p, essentially flat near the top of a very low trading range, the company",
-    "date": "2026-04-08",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "MDB",
-    "isin": "US6081901042",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "MongoDB Inc",
-    "file": "mongodbinc",
-    "report_url": "/reports/mongodbinc",
-    "conviction": 62,
-    "summary": "MongoDB is one of the most developer-trusted database platforms in the world, built on an open-source model that has successfully transitioned into a cloud-first subscription business. Atlas, its full",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "MKA.L",
-    "isin": "CA60686A4090",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Mkango Resources Ltd",
-    "file": "mkangoresourcesltd",
-    "report_url": "/reports/mkangoresourcesltd",
-    "conviction": 65,
-    "summary": "Mkango is a Canadian-listed rare earths and recycling company with two core assets: the Songwe Hill rare earths project in Malawi and the Akokoma magnet recycling joint venture in Poland. The investme",
-    "date": "2026-04-08",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "NIO",
-    "isin": "US6541061031",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "REDUCE - SPECULATIVE",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "company": "NIO Inc",
-    "file": "nioincadr",
-    "report_url": "/reports/nioincadr",
-    "conviction": 38,
-    "summary": "NIO is a Chinese premium electric vehicle maker with a battery-as-a-service (BaaS) model and a nationwide swap station network. The investment case rests on NIO's premium brand positioning, its propri",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "OKLO",
-    "isin": "US67987P1059",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Oklo Inc.",
-    "file": "okloinc",
-    "report_url": "/reports/okloinc",
-    "conviction": 61,
-    "summary": "Oklo is one of the cleanest listed ways to express the view that AI-era electricity demand will force the market to take advanced nuclear seriously. The company’s appeal is not just “nuclear”, it is",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "ONDO",
-    "isin": "GB00BNVVGD77",
-    "exchange_code": "CRYPTO",
-    "exchange": "CRYPTO",
-    "rating": "REDUCE - SPECULATIVE",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "company": "Ondo",
-    "file": "ondoinsurtechplc",
-    "report_url": "/reports/ondoinsurtechplc",
-    "conviction": 48,
-    "summary": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is e",
-    "date": "2026-04-08",
-    "universes": []
-  },
-  {
-    "ticker": "PALM.L",
-    "isin": "IM00BRF2WV49",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "REDUCE - SPECULATIVE",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "company": "Panther Metals plc",
-    "file": "panthermetalsplc",
-    "report_url": "/reports/panthermetalsplc",
-    "conviction": 43,
-    "summary": "Panther Metals is firmly in the small-cap exploration camp where upside can be dramatic, but the path is usually through dilution, volatility and a lot of hope. At 80.0p, up on the day with limited vo",
-    "date": "2026-04-08",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "PANW",
-    "isin": "US6974351057",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Palo Alto Networks Inc",
-    "file": "paloaltonetworksinc",
-    "report_url": "/reports/paloaltonetworksinc",
-    "conviction": 74,
-    "summary": "Palo Alto Networks is the dominant next-generation firewall vendor making the transition to a comprehensive platform company - SASE, cloud security, AI-powered security operations (XSIAM), and SOC aut",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "PL",
-    "isin": "US72703X1089",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "REDUCE - SPECULATIVE",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "company": "Planet Labs PBC",
-    "file": "planetlabspbc",
-    "report_url": "/reports/planetlabspbc",
-    "conviction": 43,
-    "summary": "Planet Labs operates the world's largest commercial fleet of Earth observation satellites - over 200 satellites imaging the entire land surface of Earth every single day. This gives the company a uniq",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "PXEN.L",
-    "isin": "GB00BMFZVZ53",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Prospex Energy plc",
-    "file": "prospexenergyplc",
-    "report_url": "/reports/prospexenergyplc",
-    "conviction": 58,
-    "summary": "Prospex is a small-cap European gas story, which means the equity case can work when production and pricing line up, but it remains vulnerable to liquidity, operational and funding shocks. At 3.40p on",
-    "date": "2026-04-08",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "QED.L",
-    "isin": "GB00B11DDB67",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Quadrise plc",
-    "file": "quadriseplc",
-    "report_url": "/reports/quadriseplc",
-    "conviction": 56,
-    "summary": "Quadrise has spent years living in the zone where commercial promise exists, but full validation remains just over the horizon. At 2.70p, up on the day and trading on strong volume, the market is stil",
-    "date": "2026-04-08",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "RGTI",
-    "isin": "US76655K1034",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "REDUCE - SPECULATIVE",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "company": "Rigetti Computing Inc",
-    "file": "rigetticomputinginc",
-    "report_url": "/reports/rigetticomputinginc",
-    "conviction": 46,
-    "summary": "Rigetti is another listed quantum name trading on future possibility rather than current economics. At $14.36 with a market cap near $4.6B and negative EPS, the valuation still reflects thematic enthu",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "SHOP",
-    "isin": "CA82509L1076",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Shopify Inc",
-    "file": "shopifyinc",
-    "report_url": "/reports/shopifyinc",
-    "conviction": 62,
-    "summary": "Shopify is the dominant e-commerce platform for small and medium-sized businesses in North America, providing a complete ecosystem of tools - online stores, payments, fulfilment, and marketing - that ",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "SMR",
-    "isin": "US67020B1066",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "REDUCE",
-    "recommendation": "REDUCE",
-    "company": "NuScale Power Corporation",
-    "file": "nuscalepowercorp",
-    "report_url": "/reports/nuscalepowercorp",
-    "conviction": 46,
-    "summary": "NuScale is one of the most recognisable listed names in advanced nuclear because it carries a real regulatory credential, the first U.S. NRC-approved SMR design. That matters. It gives the company a l",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "SPIR",
-    "isin": "US8485603067",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD - SPECULATIVE",
-    "recommendation": "HOLD - SPECULATIVE",
-    "company": "Spire Global Inc",
-    "file": "spireglobalinc",
-    "report_url": "/reports/spireglobalinc",
-    "conviction": 60,
-    "summary": "Spire is one of the more interesting smaller-cap space data names because it sells data and analytics rather than relying entirely on long-dated hardware optionality. The proposition, satellite-derive",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "TDY",
-    "isin": "US8793601050",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Teledyne Technologies Inc",
-    "file": "teledynetechnologiesinc",
-    "report_url": "/reports/teledynetechnologiesinc",
-    "conviction": 64,
-    "summary": "Teledyne is a diversified industrial technology conglomerate operating across four segments: Defence Electronics (aerospace and defence electronics), Imaging (sensors, cameras, and image processing), ",
-    "date": "2026-04-08",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "TOM.L",
-    "isin": "IM00BZBXMN96",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "SELL - SPECULATIVE",
-    "recommendation": "SELL - SPECULATIVE",
-    "company": "TomCo Energy plc",
-    "file": "tomcoenergyplc",
-    "report_url": "/reports/tomcoenergyplc",
-    "conviction": 22,
-    "summary": "TomCo is deep in the category of AIM micro-cap optionality where the listed equity often behaves more like a perpetual financing stub than an ownership stake in a developing business. At 0.0330p, with",
-    "date": "2026-04-08",
-    "universes": [
-      "uk"
     ]
   },
   {
@@ -3789,72 +3907,5 @@
     "universes": [
       "us"
     ]
-  },
-  {
-    "ticker": "ETL.PA (EURONEXT PARIS) / ETL.L (LSE)",
-    "isin": "FR0010221234",
-    "exchange_code": "FP",
-    "exchange": "FP",
-    "rating": "REDUCE",
-    "recommendation": "REDUCE",
-    "company": "Eutelsat Communications",
-    "file": "eutelsatcommunicationssa",
-    "report_url": "/reports/eutelsatcommunicationssa",
-    "conviction": 41,
-    "summary": "Eutelsat has been absolutely destroyed - down ~51% from its 52-week high of €4.74\n              to €2.33. The stock is sitting 47% above its 52-week low of €1.59, having recovered\n              from t",
-    "date": "2026-04-07",
-    "universes": [
-      "uk"
-    ]
-  },
-  {
-    "ticker": "KYGA.L (LSE) / KRZ (ISE)",
-    "isin": "GB00B2QC4L34",
-    "exchange_code": "LN",
-    "exchange": "LN",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Kerry Group",
-    "file": "kerrygroupplc",
-    "report_url": "/reports/kerrygroupplc",
-    "conviction": 58,
-    "summary": "Kerry Group has been a deeply disappointing long-term investment - down ~25% over 1 year and\n              ~26% over 5 years, and currently trading ~31% below its 52-week high of €100.50. The\n        ",
-    "date": "2026-04-07",
-    "universes": [
-      "uk",
-      "irish"
-    ]
-  },
-  {
-    "ticker": "RUOC.F (FRA) / OPTT (NYSE AMERICAN)",
-    "isin": "US6748705067",
-    "exchange_code": "US",
-    "exchange": "US",
-    "rating": "BUY - SPECULATIVE",
-    "recommendation": "BUY - SPECULATIVE",
-    "company": "Ocean Power Technologies",
-    "file": "oceanpowertechnologiesinc",
-    "report_url": "/reports/oceanpowertechnologiesinc",
-    "conviction": 61,
-    "summary": "Ocean Power Technologies is a pre-revenue marine energy and autonomy company that has just started\n              converting a record backlog into delivery. The stock has been obliterated - down ~61% f",
-    "date": "2026-04-07",
-    "universes": [
-      "us"
-    ]
-  },
-  {
-    "ticker": "VEQT.TO (TSX)",
-    "isin": "CA92201C1077",
-    "exchange_code": "TO",
-    "exchange": "TO",
-    "rating": "HOLD",
-    "recommendation": "HOLD",
-    "company": "Vanguard All-Equity ETF Portfolio",
-    "file": "vanguardallequityetfportfolio",
-    "report_url": "/reports/vanguardallequityetfportfolio",
-    "conviction": 71,
-    "summary": "VEQT is a passive, all-equity index fund-of-funds ETF that holds a diversified portfolio\n              of Vanguard's underlying regional equity ETFs - covering Canada, the US, Europe, Asia,\n          ",
-    "date": "2026-04-07",
-    "universes": []
   }
 ]
