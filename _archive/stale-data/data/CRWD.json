@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "ticker": "CRWD",
+    "company": "CrowdStrike Holdings Inc",
+    "exchange": "US",
+    "isin": "US22788C1053",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The July 2024 Falcon update incident caused a significant derating, but the stock has recovered well and is now only 4.8% below its 52-week high - reflecting the durability of the subscription model and the stickiness of the customer base. The case for HOLD is anchored in competitive position: no compe"
+    },
+    "businessModel": {
+      "text": "CrowdStrike sells its Falcon platform as a modular SaaS subscription: customers pay an annual subscription fee for individual modules (Endpoint Protection, Cloud Security, Identity Protection, ITDR, Data Security, AI/BIOME). The single-agent architecture means customers can add modules without deploying additional agents, creating a natural land-and-expand revenue dynamic. Revenue model is approximately 75% subscription, 20% professional services, 5% other. Net revenue retention of 115%+ is the key quality metric - existing customers are expanding their deployment by ~15% annually without new customer acquisition. The competitive moat is the data network effect: Falcon processes trillions of security events daily, training the AI models that power its detection engine. The more customers, the better the detection. This flywheel is difficult to replicate."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $428.15 Market cap: $107.3 billion 52-week range: $285.71 - $449.99 Current position in range: ~92nd percentile P/E: N/A (pre-profitability at operating level due to heavy S-1 amortisation; FCF positive and substantial) Beta: 1.05 Day move: -4.8% from 52w high The July 2024 incident (rogue content update that caused ~3.5% of Falcon sensors to crash) was a stress test of the customer relationship. Churn was minimal - under 1% - which validated the platform stickiness argument. The recovery to within 5% of the 52w high is a testament to the underlying business quality.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Q4 FY2025 earnings (3 Dec 2025): CrowdStrike reported 29% YoY revenue growth. AI-native Charlotte AI went GA, adding an AI analyst layer to the Falcon platform. Net new ARR growth re-accelerated. Guidance for FY2026 was above consensus. Charlotte AI expansion: CrowdStrike's AI assistant for security operations is being rapidly adopted. Early monetisation through module attach is contributing to ARR growth. This is the primary new product catalyst. Identity and cloud modules momentum: Identity Protection and Cloud Security are the fastest-growing modules, both posting 50%+ growth. This validates the land-and-expand strategy in adjacent security categories. July 2024 Falcon incident resolution: Fully resolved. Root cause addressed. The post-incident customer sentiment survey showed NPS stable and no meaningful enterprise customer losses beyond the immediate incident window.",
+      "items": [
+        "Q4 FY2025 earnings (3 Dec 2025): CrowdStrike reported 29% YoY revenue growth. AI-native Charlotte AI went GA, adding an AI analyst layer to the Falcon platform. Net new ARR growth re-accelerated. Guidance for FY2026 was above consensus.",
+        "Charlotte AI expansion: CrowdStrike's AI assistant for security operations is being rapidly adopted. Early monetisation through module attach is contributing to ARR growth. This is the primary new product catalyst.",
+        "Identity and cloud modules momentum: Identity Protection and Cloud Security are the fastest-growing modules, both posting 50%+ growth. This validates the land-and-expand strategy in adjacent security categories.",
+        "July 2024 Falcon incident resolution: Fully resolved. Root cause addressed. The post-incident customer sentiment survey showed NPS stable and no meaningful enterprise customer losses beyond the immediate incident window."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%): Charlotte AI drives significant upsell. Identity Protection and Cloud Security modules accelerate to $500M+ ARR each. Net revenue retention holds at 120%+. International expansion in EMEA and APAC drives new logos. Price target $520+. Base (55%): Steady 25-29% revenue growth as AI modules monetise. Customer count grows to 40,000+. Net retention stays above 115%. Competitive pressure from Microsoft Sentinel limits pricing power. Price target $440-490. Bear (20%): Microsoft Defender gains enterprise share. Falcon growth decelerates to sub-20%. Churn rises as enterprise security budgets tighten. A second major incident occurs. Price target $300-340. Weighted conviction: (25% × 490) + (55% × 430) + (20% × 320) = 122.5 + 236.5 + 64 = 423 → normalised to 65/100 . Exceptional product and competitive moat warrant the quality premium.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Microsoft competitive intensity (HIGH): Microsoft Defender and Sentinel are deeply integrated with M365 and Azure. Large enterprises using Microsoft-first environments have a structural incentive to consolidate on Microsoft security. This is the primary existential competitive threat. Guidance-dependent valuation (MEDIUM): The stock is priced for continued outperformance. Any guidance miss - particularly on net new ARR - would cause an immediate and significant de-rating given the multiple expansion already applied. Second major incident risk (MEDIUM): The July 2024 event demonstrated that a single content update can take down millions of endpoints. A repeat incident - particularly one with more severe customer impact - would be more damaging given the stock's recovery narrative. Enterprise budget pressure (MEDIUM): If enterprise security budgets contract in a hard-landing scenario, CrowdStrike's renewal rates would be tested. The stickiness argument has not been stress-tested at scale in a genuine recessionary environment.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Microsoft competitive intensity (HIGH): Microsoft Defender and Sentinel are deeply integrated with M365 and Azure. Large enterprises using Microsoft-first environments have a structural incentive to consolidate on Microsoft security. This is the primary existential competitive threat."
+        },
+        {
+          "rank": 2,
+          "risk": "Guidance-dependent valuation (MEDIUM): The stock is priced for continued outperformance. Any guidance miss - particularly on net new ARR - would cause an immediate and significant de-rating given the multiple expansion already applied."
+        },
+        {
+          "rank": 3,
+          "risk": "Second major incident risk (MEDIUM): The July 2024 event demonstrated that a single content update can take down millions of endpoints. A repeat incident - particularly one with more severe customer impact - would be more damaging given the stock's recovery narrative."
+        },
+        {
+          "rank": 4,
+          "risk": "Enterprise budget pressure (MEDIUM): If enterprise security budgets contract in a hard-landing scenario, CrowdStrike's renewal rates would be tested. The stickiness argument has not been stress-tested at scale in a genuine recessionary environment."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Investors who want pure-play exposure to the AI-powered cybersecurity theme with the market leader in endpoint security. Those who understand that the July 2024 incident was a process failure, not a product failure, and that the recovery validates the underlying stickiness thesis. Long-term investors who can hold through quarterly guidance volatility. Should avoid: Value investors - CrowdStrike does not offer a compelling valuation on any earnings metric. Momentum investors who need near-term catalysts - the stock has recovered well and is near 52w highs. Anyone who thinks Microsoft's integrated security offering will win the enterprise at CrowdStrike's expense."
+    },
+    "recommendation": {
+      "text": "HOLD at $428.15. CrowdStrike is the highest-quality business in cybersecurity. The Falcon platform's breadth, the Charlotte AI layer, and the data network effect create a durable competitive moat. The July 2024 incident was a test the business passed. The stock at $428 is not cheap, but it is not expensive for the quality of the business model. Do not add meaningfully above $440. The 52w high of $450 is resistance and the risk/reward deteriorates above that level. Trim on strength above $480."
+    },
+    "entryExit": {
+      "text": "Below $400: Accumulation zone - better risk/reward for a high-quality holding $400-$450: Fair hold range $450-$480: Trim by 20% - near 52w high, extended Above $480: Take profit - requires continued acceleration in Charlotte AI monetisation Key alert: Any guidance miss or major customer loss triggers immediate reassessment Conviction Trend Latest conviction: 67/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 67"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Price $428.15",
+        "Market Cap $107.3B",
+        "52w High $449.99",
+        "52w Low $285.71",
+        "Beta 1.05"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

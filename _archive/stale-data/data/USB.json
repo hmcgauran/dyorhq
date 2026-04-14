@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "USB",
+    "company": "US Bancorp",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 62,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 55.66,
+    "marketCap": 86500000000.0,
+    "marketCapFormatted": "$86.50B",
+    "trailingPE": 12.05,
+    "trailingEps": 4.62,
+    "fiftyTwoWeekHigh": 61.19,
+    "fiftyTwoWeekLow": 36.48,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "US Bancorp is a high-quality regional banking franchise with strong deposit market share in the Midwest and West Coast, conservative underwriting standards and a meaningful exposure to net interest income in a higher-for-longer rate environment - but the shares offer limited upside and some execution risk from CEO leadership transition - HOLD is the weighted recommendation."
+    },
+    "businessModel": {
+      "text": "US Bancorp is the fifth-largest commercial bank in the United States by assets, with approximately $700bn in total assets, $560bn in deposits and operations across 26 states through its subsidiary US Bank. The company offers a full range of banking products: consumer deposits and lending, commercial banking (corporate lending, treasury management, capital markets), wealth management and payment services (including a significant merchant acquiring business). USB's deposit franchise is a key competitive advantage - strong retail and small business deposit market share in the Midwest and West Coast provides a stable, low-cost funding base. The bank's payments business (including Elavon, its merchant acquiring subsidiary) contributes meaningful non-interest income."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$55.66"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$86.5B"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "12.05x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$4.62"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$61.19"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$36.48"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "USB announced a CEO transition in late 2025, with a new CEO taking the helm in early 2026. This leadership change introduces execution uncertainty but also an opportunity for strategic reset. The company has maintained its expense management discipline through a multi-year efficiency initiative. USB's CRE portfolio (particularly office exposure) has been a focus of investor concern - management has disclosed the portfolio characteristics and has been proactively building reserves. The Fed's higher-for-longer rate environment has been a tailwind for USB's net interest income, though this tailwind will diminish as rate cuts eventually arrive."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (62): Net interest income remains elevated as Fed rate cuts are slower than the market prices. USB's commercial real estate (CRE) portfolio performs within expectations with manageable loan loss provisions. Expense management initiative delivers above-forecast savings. EPS grows to $4.00+. Price: $62+. Base Case (50): Fed rate cuts of 50-75 bps occur in 2026, compressing NIM modestly. CRE credit costs are elevated but manageable within provisions. Expense discipline is maintained. EPS grows at mid-single digits. Price: $50-$55. Bear Case (40): Fed cuts rates more aggressively. CRE office vacancies accelerate and USB's office loan portfolio triggers elevated loan loss provisions. Net interest income falls sharply as asset-sensitive liabilities reprice. EPS falls below $3.50. Price: below $38. Weighted Score: 62 - Bull 62 × 30% + Base 50 × 50% + Bear 40 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Commercial real estate credit risk: USB has meaningful exposure to commercial real estate, particularly office properties in major metropolitan areas. Office vacancy rates have risen significantly post-COVID, and any further deterioration in valuations could trigger elevated loan loss provisions that impair earnings. Net interest income compression from rate cuts: USB's earnings are relatively asset-sensitive. When the Fed cuts rates, USB's loan and investment portfolio reprices downward, compressing NIM. The pace and magnitude of Fed rate cuts in 2026-2027 is the key variable for the earnings outlook. Leadership transition risk: The CEO change introduces execution and strategic uncertainty. Any perceived missteps during the transition period could weigh on the share price, even if fundamental financials remain sound. Expense management execution: USB's efficiency initiative depends on achieving targeted cost savings without sacrificing client service or regulatory compliance. Any shortfall in the initiative would impair the bank's operating leverage case. Competitive pressure on deposits: Fintech challengers and large national banks are competing aggressively for consumer deposits. USB's ability to retain its deposit franchise without excessively increasing deposit costs is a key variable for its funding cost advantage.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Commercial real estate credit risk: USB has meaningful exposure to commercial real estate, particularly office properties in major metropolitan areas. Office vacancy rates have risen significantly post-COVID, and any further deterioration in valuations could trigger elevated loan loss provisions that impair earnings."
+        },
+        {
+          "rank": 2,
+          "risk": "Net interest income compression from rate cuts: USB's earnings are relatively asset-sensitive. When the Fed cuts rates, USB's loan and investment portfolio reprices downward, compressing NIM. The pace and magnitude of Fed rate cuts in 2026-2027 is the key variable for the earnings outlook."
+        },
+        {
+          "rank": 3,
+          "risk": "Leadership transition risk: The CEO change introduces execution and strategic uncertainty. Any perceived missteps during the transition period could weigh on the share price, even if fundamental financials remain sound."
+        },
+        {
+          "rank": 4,
+          "risk": "Expense management execution: USB's efficiency initiative depends on achieving targeted cost savings without sacrificing client service or regulatory compliance. Any shortfall in the initiative would impair the bank's operating leverage case."
+        },
+        {
+          "rank": 5,
+          "risk": "Competitive pressure on deposits: Fintech challengers and large national banks are competing aggressively for consumer deposits. USB's ability to retain its deposit franchise without excessively increasing deposit costs is a key variable for its funding cost advantage."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Income-oriented banking sector investors seeking a regional bank with a strong deposit franchise, high dividend yield (approximately 4.5-5.5%) and above-peer asset quality metrics. Appropriate as a core regional banking holding."
+    },
+    "recommendation": {
+      "text": "HOLD. BUY below $40 (approximately 10x forward P/E on base-case EPS - below USB's book value per share and offers a significant margin of safety against the CRE risk). Reduce above $57 (approximately 14x forward P/E - leadership uncertainty and NIM compression risk are not adequately compensated at this level)."
+    },
+    "entryExit": {
+      "text": "BUY below $40 (approximately 10x forward P/E on base-case EPS - below USB's book value per share and offers a significant margin of safety against the CRE risk). | Reduce above $57 (approximately 14x forward P/E - leadership uncertainty and NIM compression risk are not adequately compensated at this level)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

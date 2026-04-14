@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "LMT",
+    "company": "LMT",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Aeronautics (F-35, F-16, 35%), Missiles & Fire Control (Patriot, HIMARS, 25%), Rotary & Mission Systems (helicopters, 20%), and Space (satellites, classified, 20%). Primarily fixed-price US Government contracts."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "F-35 Block 4+ standard contract awarded Q3 2025 ($8bn lot 17) AUKUS trilateral agreement creates 12+ yr pipeline for nuclear-powered submarine construction Tritorial Battery II Iron Dome award for Middle East allies ($2.2bn) Classified programme revenue grew 18% FY24, now ~35% of total misson",
+      "items": [
+        "F-35 Block 4+ standard contract awarded Q3 2025 ($8bn lot 17)",
+        "AUKUS trilateral agreement creates 12+ yr pipeline for nuclear-powered submarine construction",
+        "Tritorial Battery II Iron Dome award for Middle East allies ($2.2bn)",
+        "Classified programme revenue grew 18% FY24, now ~35% of total misson"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "74 Bull 65 Base 50 Bear 65 Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1. DoD budget appropriation risk if US Congress raises debt-ceiling conditions tied to cuts 2. Fixed-price F-35 contracts create margin risk on Block 4 complexity overruns 3. Space sector programme delays (e.g. NTS-3 satellite) add fixed-cost drag 4. Labour cost inflation in maritime sector (Newport News shipyard) compresses margins 5. Foreign Military Sales subject to Congressional review - geopolitical freeze risk",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. DoD budget appropriation risk if US Congress raises debt-ceiling conditions tied to cuts"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Fixed-price F-35 contracts create margin risk on Block 4 complexity overruns"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Space sector programme delays (e.g. NTS-3 satellite) add fixed-cost drag"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Labour cost inflation in maritime sector (Newport News shipyard) compresses margins"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Foreign Military Sales subject to Congressional review - geopolitical freeze risk"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Defence-budget beneficiaries seeking exposure to NATO-aligned spending. Geopolitical risk-off positioning. Long duration for capital-light defence primes. NOT suitable for investors expecting high growth or margin expansion beyond low-single digits."
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Establish at $550-$590 (15-20% below 52-week high). HOLD $590-$650. REDUCE above $650. Programme milestone: Sentinel ICBM test launch Q1 FY27. | BUY: Establish at $550-$590 (15-20% below 52-week high). | REDUCE above $650."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

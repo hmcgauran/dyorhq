@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "ticker": "KRX",
+    "company": "Kongregate Inc.",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Kongregate Inc. (KRX) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is HOLD with conviction 50/100, using N/A as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Kongregate Inc. supplies food and ingredients markets, where pricing, innovation, customer retention and raw-material management drive returns. The corrected note removes the previous generic placeholder language."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "Data Unavailable"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "Data Unavailable"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "N/A"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Volume recovery, reformulation demand, margin progression and portfolio discipline are the key catalysts."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present hold stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Input-cost swings can affect margins. Customer destocking can pressure volumes. Innovation cycles may not convert as expected. FX can affect reported earnings. A weaker consumer backdrop can reduce end-demand.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Input-cost swings can affect margins."
+        },
+        {
+          "rank": 2,
+          "risk": "Customer destocking can pressure volumes."
+        },
+        {
+          "rank": 3,
+          "risk": "Innovation cycles may not convert as expected."
+        },
+        {
+          "rank": 4,
+          "risk": "FX can affect reported earnings."
+        },
+        {
+          "rank": 5,
+          "risk": "A weaker consumer backdrop can reduce end-demand."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors looking for ingredients exposure with moderate defensive qualities. Avoid: Investors wanting rapid top-line growth or low raw-material sensitivity."
+    },
+    "recommendation": {
+      "text": "HOLD - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a hold stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 50,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

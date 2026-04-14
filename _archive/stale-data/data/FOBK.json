@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "ticker": "FOBK",
+    "company": "Kneat.com Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "SELL",
+    "recommendationNote": "SELL",
+    "conviction": 28,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Kneat.com Inc (FOBK) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is SELL with conviction 28/100, using $2.26 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Kneat.com Inc provides compliance and validation software to regulated industries, so adoption pace, renewals and execution in enterprise sales matter most."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$2.26"
+        },
+        {
+          "label": "Company",
+          "value": "Kneat.com Inc"
+        },
+        {
+          "label": "Recommendation",
+          "value": "SELL"
+        },
+        {
+          "label": "Conviction",
+          "value": "28/100"
+        },
+        {
+          "label": "Universe",
+          "value": "irish"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "New customer wins, upsell into existing accounts and steady subscription growth remain the main catalysts."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present sell stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Small-cap software execution can be uneven. Customer concentration can matter. Long sales cycles can delay growth. Liquidity can be limited. Expectations can move faster than fundamentals.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Small-cap software execution can be uneven."
+        },
+        {
+          "rank": 2,
+          "risk": "Customer concentration can matter."
+        },
+        {
+          "rank": 3,
+          "risk": "Long sales cycles can delay growth."
+        },
+        {
+          "rank": 4,
+          "risk": "Liquidity can be limited."
+        },
+        {
+          "rank": 5,
+          "risk": "Expectations can move faster than fundamentals."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors comfortable with smaller-cap compliance software stories. Avoid: Investors needing deep liquidity and mature software margins."
+    },
+    "recommendation": {
+      "text": "SELL - Conviction: 28/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a sell stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 28,
+      "band": "SELL",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 28,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

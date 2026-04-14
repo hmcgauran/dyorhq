@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "ticker": "AIB",
+    "company": "AIB Group plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 22.29,
+    "formatted": "",
+    "currency": "USD"
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "AIB Group plc (AIB) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using USD 22.29 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "AIB Group plc is a diversified distribution and support-services business where capital allocation, margin discipline and resilient customer relationships matter more than headline growth alone."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$22.29"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$19.8B"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$23.45"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$12.05"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Acquisition execution, energy and healthcare demand, working-capital control and cash returns remain the main drivers."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Distribution margins can be thin and cyclical. Acquisition integration can disappoint. Supplier concentration can raise bargaining risk. Energy and industrial end-markets can soften. FX can move reported earnings around.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Distribution margins can be thin and cyclical."
+        },
+        {
+          "rank": 2,
+          "risk": "Acquisition integration can disappoint."
+        },
+        {
+          "rank": 3,
+          "risk": "Supplier concentration can raise bargaining risk."
+        },
+        {
+          "rank": 4,
+          "risk": "Energy and industrial end-markets can soften."
+        },
+        {
+          "rank": 5,
+          "risk": "FX can move reported earnings around."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Quality-focused investors who like cash-generative distribution models. Avoid: Investors seeking clean secular growth without cycle exposure."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

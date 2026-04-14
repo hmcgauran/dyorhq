@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "NKE",
+    "company": "NKE",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 53,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from NIKE brand ( footwear 46%, apparel 33%, equipment 6%) through DTC (owned stores and digital) and wholesale channels. Geographically: North America 38%, Europe/Middle East/Africa 26%, Greater China 17%, Asia Pacific/Latin America 19%."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "New CEO Elliott Hill appointed October 2024 - immediate wholesale channel reset initiated Air Innovation pipeline: Air Max 2025 and renewed Jordan franchise in FY26 Nike University internal talent programme re-energising product creation teams Cost-savings programme: $2bn efficiency target by FY27 (supply chain + SG&A)",
+      "items": [
+        "New CEO Elliott Hill appointed October 2024 - immediate wholesale channel reset initiated",
+        "Air Innovation pipeline: Air Max 2025 and renewed Jordan franchise in FY26",
+        "Nike University internal talent programme re-energising product creation teams",
+        "Cost-savings programme: $2bn efficiency target by FY27 (supply chain + SG&A)"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "65 Bull 52 Base 35 Bear 53 Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1. Revenue decline FY25 (-1.8%) driven by North America wholesale exit 2. Gross margin at 44.2% FY25 vs 47.6% FY22 - structural compression from DTC channel shift 3. Chinese competitor Anta Sports gaining market share at a double-digit rate 4. Jordan Brand licensed revenue at risk of re-negotiation (2026 franchise renewal) 5. Inventory glut in North America still being worked through Q4 FY26",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. Revenue decline FY25 (-1.8%) driven by North America wholesale exit"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Gross margin at 44.2% FY25 vs 47.6% FY22 - structural compression from DTC channel shift"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Chinese competitor Anta Sports gaining market share at a double-digit rate"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Jordan Brand licensed revenue at risk of re-negotiation (2026 franchise renewal)"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Inventory glut in North America still being worked through Q4 FY26"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Turnaround play for patient investors who believe in the new CEO's strategic reset. Brand-revival optionality on new product cycle. NOT suitable for risk-off macro investors or those requiring near-term revenue positive revisions."
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Turnaround speculation - accumulate $38-$44. HOLD $44-$55. REDUCE above $55. Track: Jordan franchise renewal outcome and Q4 FY26 inventory clearance progress. | BUY: Turnaround speculation - accumulate $38-$44. | REDUCE above $55."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 53,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 53,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "files": [
+      "DCC-2026-04-11.html",
+      "LON:DCC-2026-04-11.html"
+    ],
+    "proposed_slug": "dccplc.html"
+  },
+  {
+    "files": [
+      "GFTU-2026-04-11.html",
+      "LON:GFTU-2026-04-11.html"
+    ],
+    "proposed_slug": "graftongroupplc.html"
+  },
+  {
+    "files": [
+      "FRA:KRZ-2026-04-11.html",
+      "kyga-2026-04-07.html"
+    ],
+    "proposed_slug": "kerrygroupplc.html"
+  }
+]

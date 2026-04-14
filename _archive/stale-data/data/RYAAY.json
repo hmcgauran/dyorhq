@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "ticker": "RYAAY",
+    "company": "Ryanair Holdings PLC",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 80,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Ryanair is Europe's dominant low-cost carrier with a structural cost advantage versus legacy peers, trading at a modest P/E despite a compelling capacity growth runway and strong pricing environment -- BUY . BUY Conviction Score: 80/100 - BUY"
+    },
+    "businessModel": {
+      "text": "Ryanair Holdings DAC is Europe's largest low-cost airline by passenger numbers, operating a point-to-point short-haul network across 40+ countries. The group includes Ryanair (primary brand), Ryanair Sun (Poland), Ryanair UK, and Buzz (Poland). Ryanair's model is characterised by operational discipline: secondary airports, high aircraft utilisation, rapid turnaround times, a single aircraft type (Boeing 737 MAX), and ancillary revenue optimisation. The airline generates revenue from scheduled fares and ancillary charges (priority boarding, checked bags, car hire, hotel booking, travel insurance). The business is structurally profitable -- Ryanair is the only European airline that has consistently generated pre-tax profits through multiple cycles, including the COVID-19 disruption. Geographic exposure: predominantly Europe (EU routes), with some North Africa connectivity."
+    },
+    "financialSnapshot": {
+      "text": "Current Price $62.36 NASDAQ Market Cap $27.0B Est. via price x shares Trailing P/E 14.80x 12-month earnings EPS (TTM) $4.21 Trailing twelve months 52-Week High $68.00 -8.3% from high 52-Week Low $41.00 +52.1% from low",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Boeing 737 MAX deliveries are accelerating, providing the capacity growth that Ryanair needs to meet strong booking demand. Forward bookings for summer 2026 are running ahead of prior year at stable pricing, reflecting robust European travel demand. Ryanair's recent fuel hedging has protected margins while peers face elevated fuel costs. Airports are reporting record passenger volumes across Europe. Ryanair continues to grow its Polish subsidiaries (Ryanair Sun, Buzz) at low CASM (cost per available seat mile). No major RNS recently, but the FY2025 full-year results (April 2025) showed record profit after tax."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 88 Target: $78.00 | EPS: $5.80 Summer 2026 bookings are exceptional, with pricing ahead of expectations. 737 MAX deliveries meet Ryanair's growth targets. Fuel costs moderate, enhancing margins. EPS reaches $5.80+. Base Case 80 Target: $68.00 | EPS: $4.80 Stable pricing environment with solid forward bookings. Capacity grows at guided rates. EPS ~$4.80. Reports / RYAAY RYAAY Ryanair Holdings DAC BUY 11 April 2026 $$62.36 80 Conviction out of 100 >",
+      "bull": {
+        "scenario": "Summer 2026 bookings are exceptional, with pricing ahead of expectations. 737 MAX deliveries meet Ryanair's growth targets. Fuel costs moderate, enhancing margins. EPS reaches $5.80+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Stable pricing environment with solid forward bookings. Capacity grows at guided rates. EPS ~$4.80.",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Fuel price exposure: Ryanair hedges fuel costs but is not immune to sustained oil price spikes, which directly compress unit margins in the short term. #2 Boeing 737 MAX delivery risk: Any further delays in MAX deliveries would constrain Ryanair's capacity growth plans and damage forward scheduling. #3 Regulatory and slot constraints: Ryanair faces periodic regulatory scrutiny of its practices (passenger rights, worker conditions) and slot constraints at prime airports. #4 Airport and ATC cost inflation: Airport charges and ATC fees across Europe are rising, partially offsetting Ryanair's structural cost advantages. #5 Terrorism and geopolitical risk: European travel demand is sensitive to terrorist incidents, geopolitical instability and pandemic recurrence -- all of which can abruptly suppress demand.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Fuel price exposure: Ryanair hedges fuel costs but is not immune to sustained oil price spikes, which directly compress unit margins in the short term."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 Boeing 737 MAX delivery risk: Any further delays in MAX deliveries would constrain Ryanair's capacity growth plans and damage forward scheduling."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Regulatory and slot constraints: Ryanair faces periodic regulatory scrutiny of its practices (passenger rights, worker conditions) and slot constraints at prime airports."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 Airport and ATC cost inflation: Airport charges and ATC fees across Europe are rising, partially offsetting Ryanair's structural cost advantages."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Terrorism and geopolitical risk: European travel demand is sensitive to terrorist incidents, geopolitical instability and pandemic recurrence -- all of which can abruptly suppress demand."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: European transportation investors and aviation enthusiasts who understand Ryanair's structural cost advantage. The airline is a genuine compounder with strong capital allocation discipline. Avoid: ESG-oriented investors who have concerns about aviation's carbon footprint. Investors who view airline stocks as speculative rather than fundamental at this point in the cycle."
+    },
+    "recommendation": {
+      "text": "BUY Score: 80/100 Ryanair is Europe's most operationally excellent airline. The capacity growth from MAX deliveries, combined with strong forward bookings and stable pricing, provides a solid fundamental foundation. The stock is not expensive for the quality. BUY. Entry Framework: BUY below $54 (sub-$55 entry with margin of safety). HOLD in the $54-$72 range. REDUCE above $72 (fully prices in MAX-driven growth cycle). BUY below $66.30 HOLD $57.80-$66.30 REDUCE above $66.30"
+    },
+    "entryExit": {
+      "text": "BUY below $66.30 | HOLD $57.80-$66.30 | REDUCE above $66.30"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 80,
+      "band": "BUY",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 80,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

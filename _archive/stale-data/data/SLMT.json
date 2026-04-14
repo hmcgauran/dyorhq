@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "ticker": "SLMT",
+    "company": "Brera Holdings PLC",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "SELL",
+    "recommendationNote": "SELL",
+    "conviction": 18,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Brera Holdings PLC (SLMT) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. Coverage rebuilt as a minimal correct note because the prior page referenced unrelated additive-manufacturing content. The current stance is SELL with conviction 18/100, using $0.78 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Brera Holdings PLC is best treated as a special-situations sports and entertainment holding vehicle rather than a conventional operating business. This repaired note is intentionally concise because the prior page referenced an unrelated industrial company."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$0.78"
+        },
+        {
+          "label": "Company",
+          "value": "Brera Holdings PLC"
+        },
+        {
+          "label": "Recommendation",
+          "value": "SELL"
+        },
+        {
+          "label": "Conviction",
+          "value": "18/100"
+        },
+        {
+          "label": "Universe",
+          "value": "irish"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Asset transactions, capital raises, sponsorship developments and any improvement in disclosure quality are the main events to watch."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present sell stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Limited disclosure raises fundamental-analysis risk. Liquidity can be very thin. Capital raises can dilute shareholders. Asset values may be hard to verify. Execution risk is elevated for small special-situations vehicles.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Limited disclosure raises fundamental-analysis risk."
+        },
+        {
+          "rank": 2,
+          "risk": "Liquidity can be very thin."
+        },
+        {
+          "rank": 3,
+          "risk": "Capital raises can dilute shareholders."
+        },
+        {
+          "rank": 4,
+          "risk": "Asset values may be hard to verify."
+        },
+        {
+          "rank": 5,
+          "risk": "Execution risk is elevated for small special-situations vehicles."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Special-situations investors who can tolerate very high uncertainty. Avoid: Mainstream equity investors needing transparency and liquidity."
+    },
+    "recommendation": {
+      "text": "SELL - Conviction: 18/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a sell stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 18,
+      "band": "SELL",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 18,
+        "band": "SELL",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

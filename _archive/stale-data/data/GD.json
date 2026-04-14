@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "GD",
+    "company": "General Dynamics Corporation",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 66,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 335.15,
+    "marketCap": 90800000000.0,
+    "marketCapFormatted": "$90.80B",
+    "trailingPE": 21.71,
+    "trailingEps": 15.44,
+    "fiftyTwoWeekHigh": 369.7,
+    "fiftyTwoWeekLow": 262.84,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "General Dynamics is a high-quality defence prime with a record backlog providing multi-year revenue visibility, but the shares trade at a premium multiple that leaves little room for programme slips. HOLD is the weighted recommendation with a conviction score of 66."
+    },
+    "businessModel": {
+      "text": "General Dynamics Corporation (GD) operates in the Industrials sector and is listed on NYSE. The business generates revenue through its core operations in industrials."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$335.15"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$90.8 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "21.71x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$15.44"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$369.70"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$262.84"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "General Dynamics Corporation has been navigating the current market environment with its core industrials franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (78): Submarine and naval shipbuilding demand accelerates further as NATO allies increase defence spending. Gulfstream benefits from continued large-cabin aircraft demand. ACSV and Columbia-class programmes on track. EPS grows to $18+. Price: $390+. Base Case (66): Defence budgets remain supportive but programme execution challenges at Electric Boat and Gulfstream create modest headwinds. EPS grows to $16.50-17.50. Price: $340-375. Bear Case (50): Programme cost overruns (particularly Columbia SSBN and Gulfstream G700 development) compress margins. Defence budget sequestration resurfaces as a political risk. EPS falls to $15-16. Price: below $295. Weighted Score: 66 - Bull 78 × 30% + Base 66 × 50% + Bear 50 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Programme cost overrun exposure: Fixed-price development contracts carry inherent risk of cost overruns, particularly in submarine and advanced aircraft programmes. Electric Boat concentration risk: The Columbia-class submarine programme represents a huge revenue chunk and any disruption (labour, supply chain, design change) has outsized financial impact. Gulfstream cyclicality: Large-cabin business jet demand is sensitive to economic conditions and corporate profit cycles. Defence budget political risk: Bipartisan support for defence spending is generally strong, but periodic budget ceiling debates and sequestration risk create uncertainty. Customer concentration: US Navy and US Army represent the majority of revenues; any shift in DoD priorities could materially affect GD's addressable market.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Programme cost overrun exposure: Fixed-price development contracts carry inherent risk of cost overruns, particularly in submarine and advanced aircraft programmes."
+        },
+        {
+          "rank": 2,
+          "risk": "Electric Boat concentration risk: The Columbia-class submarine programme represents a huge revenue chunk and any disruption (labour, supply chain, design change) has outsized financial impact."
+        },
+        {
+          "rank": 3,
+          "risk": "Gulfstream cyclicality: Large-cabin business jet demand is sensitive to economic conditions and corporate profit cycles."
+        },
+        {
+          "rank": 4,
+          "risk": "Defence budget political risk: Bipartisan support for defence spending is generally strong, but periodic budget ceiling debates and sequestration risk create uncertainty."
+        },
+        {
+          "rank": 5,
+          "risk": "Customer concentration: US Navy and US Army represent the majority of revenues; any shift in DoD priorities could materially affect GD's addressable market."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Defensive-minded investors seeking high-quality, dividend-paying US defence exposure with long-cycle backlog visibility. Suitable as a core defence sector holding."
+    },
+    "recommendation": {
+      "text": "HOLD. BUY below $300 (implies 18x P/E on base-case - provides margin of safety for a quality franchise with record backlog). Reduce above $360 (implies 21x P/E with limited upside to historical ranges given premium multiple)."
+    },
+    "entryExit": {
+      "text": "BUY below $300 (implies 18x P/E on base-case - provides margin of safety for a quality franchise with record backlog). | Reduce above $360 (implies 21x P/E with limited upside to historical ranges given premium multiple)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 66,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 66,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

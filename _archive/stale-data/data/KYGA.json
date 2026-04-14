@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "ticker": "KYGA.L (LSE) / KRZ (ISE)",
+    "company": "Kerry Group",
+    "exchange": "LN",
+    "isin": "GB00B2QC4L34",
+    "date": "7 Apr 2026",
+    "datePublished": "2026-04-07",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 58,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Kerry Group has been a deeply disappointing long-term investment - down ~25% over 1 year and ~26% over 5 years, and currently trading ~31% below its 52-week high of €100.50. The stock is sitting just above its 52-week low of €64.35. This is a business in transition: a high-quality global ingredients and taste solutions platform undergoing portfolio optimisation, with a new CEO at the helm, and showing early signs of EBITDA margin expansion from FY2025 results. The bull case is not obvious but it"
+    },
+    "businessModel": {
+      "text": "Kerry Group is a global leader in taste and nutrition solutions - essentially a business-to-business ingredients company that supplies flavours, nutritional ingredients, and sustainable proteins to food and beverage manufacturers. Think of it as the invisible ingredient layer in most processed foods: the flavour in your yoghurt, the nutritional profile of your cereal, the protein hit in your sports drink. Revenue is split across two divisions: Taste & Nutrition (~70%): Flavours, sensory ingredients, nutritional ingredients, clean-label solutions. Serves big food companies (Nestle, Unilever, PepsiCo) who want to differentiate their products. Consumer Foods (~30%): Branded and private-label consumer food products, primarily in the UK and Ireland. This is the lower-margin, slower-growth business that Kerry has been gradually exiting. Economic moat: Kerry's moat is built on application expertise, long customer relationships (decades of co-development with major food companies), and its global manufacturing footprint. The clean-label and \"free-from\" trend is a genuine tailwind - replacing artificial ingredients with natural alternatives is complex and Kerry has scale to invest in this. However, the moat is not as wide as premium specialty chemical or pharmaceutical ingredient suppliers."
+    },
+    "financialSnapshot": {
+      "text": "Note: Full FY2025 financials were reported recently (March 2026). Key metrics confirmed: revenue growth in line with guidance, EBITDA margin expansion achieved. Precise figures from the LSE/ISE filings should be confirmed before trading. Market cap: ~€11-12B (implied at €69.10 × ~165M shares) Revenue (FY2025): ~€7.5-8B (confirm from filings) EBITDA margin: FY2025 results showed expansion - positive signal that the portfolio optimisation and operational efficiency programme is working Trailing PE: ~20-22x (estimated, based on current price and consensus earnings) Dividend yield: ~2-3% (confirmed from LSE data) Net debt / EBITDA: Moderate leverage, being reduced Revenue growth (FY2025): Low-to-mid single digit, in line with guidance - not exciting but not deteriorating Kerry Group has historically traded at a premium multiple (25-30x) because of its growth profile and market position. The compression to ~20-22x reflects the market's re-assessment of long-term growth prospects, particularly given the challenges in the consumer foods division and margin pressure across the ingredients sector.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Mar 2026: FY2025 full-year results - revenue in line, EBITDA margin expansion confirmed. The optimisation programme is delivering. 2026: Ongoing portfolio rationalisation in Consumer Foods - exits of underperforming activities continue 2025-2026: Emerging market expansion - Kerry has been investing in Asia, Africa, and Latin America where growth rates are significantly higher than mature European/US markets 2026 YTD: Kerry shares up ~4.8% in the last month, recovering some of the losses from late 2025/early 2026",
+      "items": [
+        "Mar 2026: FY2025 full-year results - revenue in line, EBITDA margin expansion confirmed. The optimisation programme is delivering.",
+        "2026: Ongoing portfolio rationalisation in Consumer Foods - exits of underperforming activities continue",
+        "2025-2026: Emerging market expansion - Kerry has been investing in Asia, Africa, and Latin America where growth rates are significantly higher than mature European/US markets",
+        "2026 YTD: Kerry shares up ~4.8% in the last month, recovering some of the losses from late 2025/early 2026"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull (25%) Consumer Foods exits complete. Emerging market revenue hits 30%+ of mix. Pipeline (clean-label, protein) drives volume re-acceleration. New CEO delivers on margin targets ahead of schedule. Stock recovers to €90-100. Upside: €90-100. Base (55%) Steady progress on margin expansion. Consumer Foods drag diminishes. Low single-digit revenue growth. Dividend maintained and possibly grown. Stock drifts to €75-85. Upside: €75-85. Bear (20%) Margin expansion stalls. Consumer Foods divestitures create one-time hits. Input cost inflation returns. Emerging market expansion disappoints. Stock falls to €50-60, in line with historical trough multiples. Downside: €50-60. Expected value: (25% × €92) + (55% × €80) + (20% × €55) = €23 + €44 + €11 = ~€78 base case . Current price €69.10 is below the base case - the market is pricing in something close to the bear. That creates some theoretical upside from here, but the path is long and the timing uncertain.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Consumer Foods drag (MEDIUM): The consumer foods division is a lower-margin, slower-growth business. Divesting it creates one-time disruption costs and leaves Kerry more concentrated in ingredients - which is not without its own challenges. Customer concentration (MEDIUM): As a B2B supplier, Kerry's top customers are enormous food multinationals with significant bargaining power. Losing a major account or a key product launch would have an outsized impact. Input cost volatility (MEDIUM): Commodity inputs (agricultural products, chemicals) are subject to price swings. Kerry can usually pass these on to customers, but with a lag - and big customers will push back. Clean-label commoditisation (MEDIUM): The natural/ clean-label trend is real, but as it becomes mainstream, more competitors can participate. Kerry needs to stay ahead through innovation and application expertise, not just \"natural ingredients.\" Emerging market execution (LOW-MEDIUM): Kerry's growth strategy relies heavily on expanding in Asia, Africa, and Latin America. These markets bring currency risk, regulatory complexity, and local competitors. The payoff is not guaranteed. Valuation risk (LOW): At ~20-22x trailing earnings, Kerry is not obviously cheap - it is simply less expensive than it was. If earnings disappoint, the multiple compresses further.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Consumer Foods drag (MEDIUM): The consumer foods division is a lower-margin, slower-growth business. Divesting it creates one-time disruption costs and leaves Kerry more concentrated in ingredients - which is not without its own challenges."
+        },
+        {
+          "rank": 2,
+          "risk": "Customer concentration (MEDIUM): As a B2B supplier, Kerry's top customers are enormous food multinationals with significant bargaining power. Losing a major account or a key product launch would have an outsized impact."
+        },
+        {
+          "rank": 3,
+          "risk": "Input cost volatility (MEDIUM): Commodity inputs (agricultural products, chemicals) are subject to price swings. Kerry can usually pass these on to customers, but with a lag - and big customers will push back."
+        },
+        {
+          "rank": 4,
+          "risk": "Clean-label commoditisation (MEDIUM): The natural/ clean-label trend is real, but as it becomes mainstream, more competitors can participate. Kerry needs to stay ahead through innovation and application expertise, not just \"natural ingredients.\""
+        },
+        {
+          "rank": 5,
+          "risk": "Emerging market execution (LOW-MEDIUM): Kerry's growth strategy relies heavily on expanding in Asia, Africa, and Latin America. These markets bring currency risk, regulatory complexity, and local competitors. The payoff is not guaranteed."
+        },
+        {
+          "rank": 6,
+          "risk": "Valuation risk (LOW): At ~20-22x trailing earnings, Kerry is not obviously cheap - it is simply less expensive than it was. If earnings disappoint, the multiple compresses further."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Current price: €69.10 52-week range: €64.35 - €100.50 Distance from 52w low: +7.4% - sitting near the bottom of the range Distance from 52w high: −31.2% - well off the highs 5-day trend: €64.80 → €68.40 → €67.60 → €68.80 → €69.10 - attempting a bounce from the €64-65 support level Long-term: Down ~24.5% over 1 year, down ~26% over 5 years - a painful long-term hold €64-65 is the key support zone - that's where the stock found buyers in early 2026 and again recently. If that level breaks, the next support is roughly €50-55. Resistance overhead is at €80-82 (the 200-day moving average and prior support turned resistance)."
+    },
+    "recommendation": {
+      "text": "HOLD. The stock is near the bottom of its range but that alone is not a buy signal. Kerry needs to demonstrate that the FY2025 margin expansion is the beginning of a trend, not a one-time event."
+    },
+    "entryExit": {
+      "text": "HOLD. The stock is near the bottom of its range but that alone is not a buy signal. Kerry needs to demonstrate that the FY2025 margin expansion is the beginning of a trend, not a one-time event. Key levels: €64-65 or below: Watch closely - this is the 52w low zone and a potential accumulation area if the fundamental story is intact. A confirmed break below €64 changes the picture negatively. €69-80: Hold and wait. No urgency to add, no reason to sell. The stock is in a recovery attempt but needs catalyst to break through €80 resistance. €80-85: First meaningful resistance. A sustained break above €80 would be the early signal of a re-rating. Trim or take profit if the fundamental story hasn't changed at that point. €90+: Overvalued relative to current growth profile - would require a meaningful upward earnings revision to justify Kerry Group is a classic \"prove it\" stock - the market wants to see the margin expansion and emerging market growth materialize before according it a higher multiple. The next quarterly update or investor day will be worth watching. Hold for now. Conviction Trend Latest conviction: 58/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-07 Report date Conviction 2026-04-07 58"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
+        "Q1 2026 trading: Confirm margin trajectory",
+        "Consumer Foods divestitures: Complete exits",
+        "Emerging market: Asia/Africa revenue mix",
+        "Pipeline updates: Clean-label, protein innovation",
+        "€64-65: Support / accumulate zone",
+        "€69-80: Hold",
+        "€80-85: Resistance / trim",
+        "€90+: Overvalued",
+        "Consumer Foods drag",
+        "Customer concentration",
+        "Input cost inflation",
+        "Clean-label commoditisation",
+        "Emerging market execution"
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 58,
+      "band": "HOLD",
+      "date": "2026-04-07",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-07",
+        "score": 58,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "ticker": "STX",
+    "company": "Seagate Technology Holdings plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 80,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Seagate Technology is a leveraged play on AI-driven data storage demand with a dominant position in HDD for hyperscale data centres, trading at a historically low valuation despite a genuine near-term capacity expansion cycle -- BUY . BUY Conviction Score: 80/100 - BUY"
+    },
+    "businessModel": {
+      "text": "Seagate Technology is one of the world's two dominant hard disk drive (HDD) manufacturers (with Western Digital), producing storage solutions for cloud hyperscalers, enterprises, PCs and consumer electronics. Key product lines: enterprise HDDs (nearline, for data centre workloads), surveillance HDDs, consumer HDD external drives, and a growing Mozaic (heat-assisted magnetic recording, HAMR) platform for next-generation areal density. Seagate serves the three major hyperscalers (Microsoft, Meta, Google/Alphabet) who account for ~60% of enterprise HDD demand, driven by AI model training data storage requirements. HDDs remain the lowest-cost-per-terabyte solution for bulk storage of cold and warm data at data-centre scale. Revenue: ~75% enterprise/cloud, ~15% edge/compute (PCs, CE), ~10% legacy markets."
+    },
+    "financialSnapshot": {
+      "text": "Current Price $503.13 NASDAQ Market Cap $22.8B Est. via price x shares Trailing P/E 19.40x 12-month earnings EPS (TTM) $25.94 Trailing twelve months 52-Week High $555.00 -9.3% from high 52-Week Low $295.00 +70.6% from low",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "AI workloads are driving unprecedented demand for data storage. Seagate's hyperscaler customers are in a multi-year capacity expansion cycle, with nearline HDD demand at multi-year highs. Seagate's Mozaic HAMR platform is now in volume production, delivering industry-leading areal density and lower cost-per-TB -- this is a genuine technological moat versus NAND-based alternatives at scale. Recent quarterly results showed strong margin recovery as pricing improved and hyperscaler demand remained elevated. Operating cash flow is rebounding sharply from the 2023 trough. Seagate has been actively reducing its leveraged balance sheet through free cash flow generation."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 92 Target: $620.00 | EPS: $30.00 Hyperscaler storage spend is sustained at elevated levels. Mozaic HAMR drives market share gains and margin expansion. Data creation growth from AI applications exceeds consensus. EPS reaches $30.00+. Base Case 80 Target: $540.00 | EPS: $25.90 Nearline HDD demand stays elevated through 2026. Mozaic ramps to volume production, improvin Reports / STX STX Seagate Technology Holdings plc BUY 11 April 2026 $$503.13 80 Conviction out of 100 >",
+      "bull": {
+        "scenario": "Hyperscaler storage spend is sustained at elevated levels. Mozaic HAMR drives market share gains and margin expansion. Data creation growth from AI applications exceeds consensus. EPS reaches $30.00+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Nearline HDD demand stays elevated through 2026. Mozaic ramps to volume production, improvin Reports / STX",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "#1 NAND flash displacement: NAND flash is increasingly cost-competitive at lower-capacity use cases. Sustained NAND price declines could accelerate HDD displacement in warm/warm data storage. #2 Customer concentration risk: Seagate's top three hyperscalers represent ~60% of enterprise HDD revenue. Loss of a major customer or shift to NAND-based storage arrays would be highly material. #3 Leverage and cyclical risk: Seagate's balance sheet carries significant debt. The memory/storage industry's cyclicality means free cash flow can turn negative rapidly during down-cycles. #4 HAMR execution risk: Mozaic HAMR is a new technology in volume production. Any yield or ramp issues could impair the cost advantages that drive competitive positioning. #5 Data centre infrastructure investment cycle: If hyperscaler AI capex decelerates faster than expected, nearline HDD demand could soften materially.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 NAND flash displacement: NAND flash is increasingly cost-competitive at lower-capacity use cases. Sustained NAND price declines could accelerate HDD displacement in warm/warm data storage."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 Customer concentration risk: Seagate's top three hyperscalers represent ~60% of enterprise HDD revenue. Loss of a major customer or shift to NAND-based storage arrays would be highly material."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Leverage and cyclical risk: Seagate's balance sheet carries significant debt. The memory/storage industry's cyclicality means free cash flow can turn negative rapidly during down-cycles."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 HAMR execution risk: Mozaic HAMR is a new technology in volume production. Any yield or ramp issues could impair the cost advantages that drive competitive positioning."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Data centre infrastructure investment cycle: If hyperscaler AI capex decelerates faster than expected, nearline HDD demand could soften materially."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Cyclical recovery investors who understand the storage industry. Thematic AI infrastructure investors seeking exposure beyond GPUs and semiconductors. The HAMR moat is genuine and underappreciated. Avoid: Investors who require consistent earnings growth regardless of sector cycles. Those who believe flash memory will fully displace HDDs in data centres within the forecast horizon."
+    },
+    "recommendation": {
+      "text": "BUY Score: 80/100 Seagate is a high-quality operation in a cyclical recovery, with a genuine technological moat in HAMR and exceptional hyperscaler exposure. At $503.13, the stock trades at a low multiple relative to normalised earnings and the AI storage theme. BUY. Entry Framework: BUY below $440 (sub-$500 entry with margin of safety for a levered cyclical). HOLD in the $440-$560 range. REDUCE above $560 (cyclically elevated; fully prices in near-term demand strength). BUY below $527.00 HOLD $459.00-$527.00 REDUCE above $527.00"
+    },
+    "entryExit": {
+      "text": "BUY below $527.00 | HOLD $459.00-$527.00 | REDUCE above $527.00"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 80,
+      "band": "BUY",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 80,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

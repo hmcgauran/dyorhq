@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ticker": "NVTS",
+    "company": "Navitas Semiconductor",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 9.54,
+    "fiftyTwoWeekHigh": 17.79,
+    "fiftyTwoWeekLow": 1.67,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Navitas Semiconductor (NVTS) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $9.54 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Navitas Semiconductor is exposed to semiconductor content growth, with valuation tied to design wins, adoption curves and margin progression rather than headline narratives alone."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$9.54"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "N/A"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$17.79"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$1.67"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Customer ramps, new platform wins, gross-margin direction and end-market recovery remain the main operating triggers."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Customer concentration can create sharp earnings swings. Technology transitions may take longer than planned. Competition can compress pricing. Inventory corrections can hit near-term demand. Capital-market sentiment toward semis can overshoot fundamentals.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Customer concentration can create sharp earnings swings."
+        },
+        {
+          "rank": 2,
+          "risk": "Technology transitions may take longer than planned."
+        },
+        {
+          "rank": 3,
+          "risk": "Competition can compress pricing."
+        },
+        {
+          "rank": 4,
+          "risk": "Inventory corrections can hit near-term demand."
+        },
+        {
+          "rank": 5,
+          "risk": "Capital-market sentiment toward semis can overshoot fundamentals."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who understand semiconductor adoption cycles. Avoid: Investors seeking steady earnings and low volatility."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

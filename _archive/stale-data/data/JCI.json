@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "ticker": "JCI",
+    "company": "Johnson Controls International plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 66,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Johnson Controls International is a high-quality building efficiency and fire safety franchise with a credible digital buildings strategy, but the current execution cadence and macro-sensitive end markets do not justify further re-rating -- HOLD . HOLD Conviction Score: 66/100 - HOLD"
+    },
+    "businessModel": {
+      "text": "Johnson Controls International is a leading global provider of building efficiency, fire suppression and security solutions. Core segments: Building Solutions (systems integration, controls and software), Fire Safety (extinguishers, detection, suppression), and Industrial Products (air conditioning, refrigeration, refrigeration). Key products include HVAC systems, access control, video surveillance, fire alarms and extinguishers, and the OpenBlue digital buildings platform (IoT-enabled building management). The business operates across commercial, public sector, industrial and residential end markets globally. JCI's competitive advantage rests on its installed base of equipment requiring ongoing service, parts and upgrades -- creating recurring revenue. Revenue geography: North America (~40%), Europe (~30%), Asia (~20%), Rest of World (~10%)."
+    },
+    "financialSnapshot": {
+      "text": "Current Price $142.53 NYSE Market Cap $46.0B Est. via price x shares Trailing P/E 26.50x 12-month earnings EPS (TTM) $5.38 Trailing twelve months 52-Week High $155.00 -8.0% from high 52-Week Low $92.00 +54.9% from low",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "JCI's OpenBlue platform is gaining traction as building owners seek to reduce energy consumption and meet ESG reporting requirements. Data centre cooling is an emerging growth driver -- hyperscalers require sophisticated precision cooling systems that JCI is well-positioned to supply. The fire safety segment is benefiting from increased regulatory enforcement globally, driving demand for upgrades and replacements of aging fire systems. Recent quarterly results showed low-single-digit organic revenue growth with improving margins. JCI has been executing its portfolio rationalisation, divesting underperforming or non-core product lines and focusing on higher-margin systems and services."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 80 Target: $175.00 | EPS: $7.00 OpenBlue platform adoption accelerates across global building portfolios. Data centre cooling contracts become a major revenue stream. Portfolio rationalisation unlocks margin expansion. EPS reaches $7.00+. Base Case 66 Target: $152.00 | EPS: $5.80 Steady perfor Reports / JCI JCI Johnson Controls International plc HOLD 11 April 2026 $$142.53 66 Conviction out of 100 >",
+      "bull": {
+        "scenario": "OpenBlue platform adoption accelerates across global building portfolios. Data centre cooling contracts become a major revenue stream. Portfolio rationalisation unlocks margin expansion. EPS reaches $7.00+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Steady perfor Reports / JCI",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Macro-sensitive end markets: JCI's revenues are tied to commercial construction, renovation and Capex cycles. A sustained slowdown in commercial building would reduce demand across all segments. #2 OpenBlue platform competition: Siemens (Building Robotics), Schneider Electric, and Honeywell are all investing heavily in smart building platforms. JCI's competitive position in digital building management is credible but not dominant. #3 Fire safety product liability: The fire safety industry faces periodic product liability claims and regulatory enforcement actions that create unpredictable financial risk. #4 Currency translation risk: With substantial non-USD revenues, JCI's reported earnings are sensitive to EUR, GBP and Asian currency movements against the dollar. #5 Portfolio rationalisation execution: JCI's strategy of divesting non-core businesses requires disciplined execution. Any execution miscues could leave the remaining portfolio less attractive.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Macro-sensitive end markets: JCI's revenues are tied to commercial construction, renovation and Capex cycles. A sustained slowdown in commercial building would reduce demand across all segments."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 OpenBlue platform competition: Siemens (Building Robotics), Schneider Electric, and Honeywell are all investing heavily in smart building platforms. JCI's competitive position in digital building management is credible but not dominant."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Fire safety product liability: The fire safety industry faces periodic product liability claims and regulatory enforcement actions that create unpredictable financial risk."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 Currency translation risk: With substantial non-USD revenues, JCI's reported earnings are sensitive to EUR, GBP and Asian currency movements against the dollar."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Portfolio rationalisation execution: JCI's strategy of divesting non-core businesses requires disciplined execution. Any execution miscues could leave the remaining portfolio less attractive."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors seeking defensive building technologies exposure with a digital transformation angle. The fire safety franchise provides a degree of earnings stability. Avoid: Growth investors and those seeking a pure-play digital buildings story will find Schneider Electric or Siemens more compelling. Investors concerned about commercial property exposure should also avoid."
+    },
+    "recommendation": {
+      "text": "HOLD Score: 66/100 JCI is a solid but not exceptional building technologies franchise. The OpenBlue digital strategy is credible but faces formidable competition. The current valuation reflects reasonable but uninspiring execution. HOLD. Entry Framework: BUY below $115 (sub-$120 entry with meaningful margin of safety). HOLD in the $115-$160 range. REDUCE above $160 (fully prices in digital buildings theme). BUY below $166.25 HOLD $144.40-$166.25 REDUCE above $166.25"
+    },
+    "entryExit": {
+      "text": "BUY below $166.25 | HOLD $144.40-$166.25 | REDUCE above $166.25"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 66,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 66,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

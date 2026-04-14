@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "ticker": "CI",
+    "company": "CI",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "The Cigna Group's combination of Evernorth health services and disciplined Medicare Advantage growth supports a mid-60s conviction score, but medical cost uncertainty and integration execution risk keep it in hold territory."
+    },
+    "businessModel": {
+      "text": "The Cigna Group operates two divisions: (1) Evernorth Health Services (pharmacy benefit management through Express Scripts; health benefits administration; behavioural health; diagnostic and wellness services) serving ~115 million people; and (2) Cigna Healthcare (medical, dental, and behavioural health insurance for employers and individuals, covering ~17 million medical members in the US). The Evernorth PBM is the third-largest in the US and is strategically important because it steers patients toward Cigna-owned pharmacy networks, generating rebate income and data advantages. The company's strategy emphasises stop-loss and large-group coverage rather than individual ACA exchanges, providing a more predictable medical loss ratio."
+    },
+    "financialSnapshot": {
+      "text": "Price $271.25 Market Cap $71.5bn P/E Ratio 12.23 EPS (TTM) $22.18 52w High $350 22.5% from high 52w Low $239.51 13.3% above low Volume (avg) 0.9m",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Evernorth PBM renegotiated rebate contracts with three major pharma manufacturers in H2 2025, improving per-prescription economics. Medicare Advantage membership grew 9% YoY in 2025 open enrollment, ahead of industry average, supporting premium revenue growth. Separation from the CHS (Cigna Healthcare) real estate joint venture completed Q1 2026, unlocking ~$2.1bn in capital. Initiative to integrate behavioural health services into primary care through Evernorth MD platform, improving chronic condition management. Share repurchase programme of $3.2bn authorised in February 2026, representing ~4.5% of market capitalisation.",
+      "items": [
+        "Evernorth PBM renegotiated rebate contracts with three major pharma manufacturers in H2 2025, improving per-prescription economics.",
+        "Medicare Advantage membership grew 9% YoY in 2025 open enrollment, ahead of industry average, supporting premium revenue growth.",
+        "Separation from the CHS (Cigna Healthcare) real estate joint venture completed Q1 2026, unlocking ~$2.1bn in capital.",
+        "Initiative to integrate behavioural health services into primary care through Evernorth MD platform, improving chronic condition management.",
+        "Share repurchase programme of $3.2bn authorised in February 2026, representing ~4.5% of market capitalisation."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case $340 Upside: +25% | Weight: 30% Base Case $295 Upside: +9% | Weight: 50% Bear Case $240 Downside: -12% | Weight: 20% Cigna is a structurally well-positioned health services and insurance hybrid. The Evernorth PBM provides recurring revenue with significant moat (switching costs for employer clients are high), while the insurance book generates premium income with disciplined MLR management. The valuation (P/E 12.2x) appears inexpensive relative to peers, but this partly reflects MLR uncertainty in Medicare Advantage and concern about medical cost trend normalisation post-COVID. The pending Humira biosimilar transition and potential Star rating headwinds in 2026 are the key near-term variables.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Medical cost trend normalisation - elevated MLR in FY2025 Q4 signals potential deterioration in underwriting margins. 2 Medicare Advantage rate cuts from CMS for 2026 plan year compress per-member revenue and could force benefit reductions. 3 Humira (adalimumab) biosimilar displacement reduces Evernorth rebate income significantly - Cigna estimates ~$400m annual impact. 4 PBM industry regulatory reform (IRA drug pricing, MLR requirements) could disrupt the Evernorth rebate model. 5 Humana and UnitedHealth vertical integration in Medicare Advantage creates a more competitive landscape for Cigna's commercial book.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1"
+        },
+        {
+          "rank": 2,
+          "risk": "2"
+        },
+        {
+          "rank": 3,
+          "risk": "3"
+        },
+        {
+          "rank": 4,
+          "risk": "4"
+        },
+        {
+          "rank": 5,
+          "risk": "5"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Value-oriented healthcare investors; those seeking combined insurance and PBM exposure; contrarian investors who believe MLR concerns are overstated. | Avoid: You want pure managed care without PBM complexity; you are concerned about Medicare Advantage policy headwinds; you require a dividend above 2%."
+    },
+    "recommendation": {
+      "text": "HOLD HOLD. The P/E of 12.2x offers some margin of safety but MLR uncertainty is real. Monitor Q1 2026 earnings closely for MLR trajectory. Accumulate on dips below $250. The $3.2bn buyback provides a floor. Full buy-rated analysts target $330+."
+    },
+    "entryExit": {
+      "text": "Accumulate on dips below $250."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}
