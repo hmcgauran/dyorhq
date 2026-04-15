@@ -1,0 +1,41 @@
+# JDG - Judges Scientific PLC
+
+**Ticker:** LON:JDG | **Price:**  | **Date:** 2026-04-15
+**Recommendation:** HOLD | **Conviction:** 61/100
+
+---
+
+## Executive Summary
+Judges Scientific is a UK-based acquisition vehicle that builds and manages a portfolio of niche specialist instrument manufacturers. The model is straightforward: identify profitable, debt-free micro-businesses operating in overlooked industrial niches, acquire them at sensible multiples, and run them with operational autonomy while providing capital and strategic support for further acquisitions within each subsidiary. The subsidiaries span airport passenger systems, pressure measurement, automotive testing, and broader industrial instrumentation, serving customers in the UK, Europe, and the United States. The investment case rests on three pillars: a disciplined and proven acquisition methodology refined over 15+ years, a portfolio of businesses with high switching costs and recurring revenue characteristics, and the demonstrated ability to source and integrate niche manufacturers at attractive prices. The shares have de-rated from their 52-week high of 5500p to the current 4300p, with the weakness partly reflecting sentiment toward UK small-caps and partly specific concerns around organic growth at a few portfolio businesses. At approximately 22x trailing earnings and ~195p EPS, the stock is not obviously cheap but neither is it stretched for a business that has consistently delivered mid-to-high teens return on equity with a strong balance sheet and an active acquisition pipeline. The case for HOLD is the default until either the valuation provides a clearer margin of safety or the acquisition engine demonstrates fresh momentum with a material new purchase. Bottom line: HOLD at 4300p. Judges Scientific is a well-run, conservatively financed acquisition vehicle with a track record that deserves credit. The de-rating from 52-week highs provides a more reasonable entry, but the margin of safety is not compelling enough to upgrade to a BUY without a catalyst. Accumulate on dips below 4000p.
+
+## Business Model
+Judges Scientific operates as a holding company for a portfolio of specialist instrument manufacturers. Each subsidiary is a standalone, self-sufficient business serving a narrow niche - airport passenger flow systems, precision pressure measurement, automotive component testing, and related industrial instrumentation applications. The holding company provides capital for acquisitions, shares best practice across the portfolio, and supports strategic planning, but does not impose corporate homogenisation on operating subsidiaries. The acquisition model has several characteristics that make it durable: targets are typically founder-led businesses with revenues between GBP5m and GBP30m, operating in sectors where specialisation creates natural barriers to entry; acquisitions are usually bolt-ons to existing subsidiaries rather than stand-alone new verticals; and consideration is typically a mix of upfront cash and deferred payments linked to performance, aligning vendor incentives with long-term value creation. The subsidiaries generate recurring revenue from after-market service contracts, calibration, and consumables, providing a natural hedge against cyclical weakness in capital equipment spending. Customers are largely industrial businesses, airport operators, and original equipment manufacturers, who are sticky because instrument qualification and certification cycles are lengthy and costly to replicate. The key structural advantage is the fragmented nature of the niche instrumentation market: there are hundreds of micro-businesses globally that are too small for strategic acquirers but large enough to be material contributors to a GBP300m market cap company. Judges Scientific has first refusal on a meaningful pipeline simply through reputation and deal flow in a segment that larger private equity and trade buyers overlook.
+
+## Financial Snapshot
+Price 4300.00 GBX Market Cap ~GBP300m P/E (est.) ~22x EPS (est.) ~195p 52w High ~5500 GBX 52w Low ~3500 GBX Distance from 52wH -21.8% Currency GBX (pence) Exchange LSE (AIM)
+
+## Recent Catalysts
+Portfolio performance in H2 2025: Management flagged mixed organic growth across the subsidiary base, with some businesses - notably in automotive testing - experiencing headwinds from reduced OEM capital expenditure budgets. This contributed to the share price weakness from 52-week highs. Full-year results will be a key test of whether these headwinds are transient or structural. New acquisition completed in Q1 2026: Judges Scientific announced the acquisition of a niche pressure instrumentation business in January 2026. The consideration was not disclosed but the deal was described as earnings-enhancing from day one - consistent with the company's disciplined approach to valuation. This is the type of bolt-on that reinforces the acquisition thesis. UK small-cap sentiment: The AIM market has seen improved sentiment through early 2026, partly driven by fiscal policy clarity following the UK Budget and improved takeover activity in the small-cap space. JDG has not participated fully in this recovery, suggesting the market is pricing in ongoing organic growth uncertainty. 航空 passenger traffic recovery: Dialogical, the airport passenger systems subsidiary, benefits from continued recovery in global air travel. Long-term capacity expansion at UK and European airports is a structural tailwind for the flow management systems that Dialogical supplies.
+
+## Thesis Evaluation
+### Bull Case (0% weight)
+- **Score:** 0/100
+- The acquisition pipeline yields two to three material deals in the next 18 months, each earnings-enhancing. Organic growth stabilises as automotive spending recovers and airport investment accelerates. The P/E re-rates to 25-27x as the market recognises the quality and consistency of the model. Price target 5200p+.
+
+### Base Case (0% weight)
+- **Score:** 0/100
+- One to two acquisitions per year at reasonable multiples. Organic growth flat to low single digits as automotive headwinds persist but other subsidiaries compensate. P/E holds at 20-23x. DPS growth of 8-10% per annum supported by conservative payout ratio. Price target 4400-5000p.
+
+### Bear Case (0% weight)
+- **Score:** 0/100
+- Organic revenue decline as automotive testing and pressure measurement face cyclical weakness. Acquisition pipeline thins as private equity competition intensifies for quality assets. Margin compression and de-rating to 16-18x P/E. Price target 3000-3600p.
+
+## Key Risks
+1. Acquisition pipeline concentration (MEDIUM): The investment thesis is entirely dependent on continued deal flow at sensible multiples. If private equity continues to compete aggressively for niche manufacturing assets, Judges Scientific's discipline in refusing overpriced deals could slow the acquisition rate and reduce the annual earnings contribution from new purchases.
+2. Automotive cyclicality (MEDIUM): The Deuto and related automotive testing subsidiaries are exposed to OEM and Tier 1 capital expenditure cycles. If the automotive sector continues to face headwinds from EV transition costs and weaker European demand, these subsidiaries could see prolonged revenue pressure.
+3. UK small-cap illiquidity discount (MEDIUM): JDG trades on AIM with moderate daily volume. Institutional investors who require deeper liquidity may avoid the name, and any large exit by a major holder could create meaningful share price pressure given the limited buy-side audience.
+4. Succession and key person risk (LOW-MEDIUM): As a management-intensive acquisition model, the quality of the executive team and their deal-sourcing relationships are central to the strategy. Loss of key individuals would be a material risk to the pipeline and culture of disciplined acquisition.
+5. Currency translation (LOW): With subsidiaries in the US and Europe, GBP weakness would inflate reported revenues and profits, while GBP strength would have the opposite effect. The company does not appear to hedge translation exposure systematically.
+
+---
+*Research generated from report dated 2026-04-15. Update monthly.*
