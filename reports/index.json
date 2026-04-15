@@ -4928,5 +4928,201 @@
     "universes": [
       "watchlist"
     ]
+  },
+  {
+    "ticker": "LSE:YOU",
+    "company": "YouGov Plc",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "YouGov is a UK-listed online survey and market research company. BUY at 186.4 GBX, P/E 18x, conviction 72.",
+    "file": "yougovplc.html",
+    "report_url": "/reports/yougovplc.html",
+    "isin": "GB00B9D5F0E2",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:VLX",
+    "company": "Volex PLC",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Volex is a power cable and connector manufacturer. BUY at 540.54 GBX, P/E 24.1x, conviction 72.",
+    "file": "volexplc.html",
+    "report_url": "/reports/volexplc.html",
+    "isin": "GB00B2N5DD14",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:TIG",
+    "company": "Team Internet Group PLC",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "Team Internet is a digital advertising and media company. HOLD at 35.2 GBX, conviction 58.",
+    "file": "teaminternetgroupplc.html",
+    "report_url": "/reports/teaminternetgroupplc.html",
+    "isin": "IE00BF499F91",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:TSTL",
+    "company": "Tristel Plc",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Tristel is a UK infection control medical device company. BUY at 383.5 GBX, P/E 23.6x, conviction 72.",
+    "file": "tristelplc.html",
+    "report_url": "/reports/tristelplc.html",
+    "isin": "GB00BNX4FY76",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:RST",
+    "company": "Restore PLC",
+    "recommendation": "REDUCE",
+    "conviction": 38,
+    "date": "2026-04-15",
+    "summary": "Restore is a document management and data destruction services company. REDUCE at 244.5 GBX, P/E 236x, conviction 38.",
+    "file": "restoreplc.html",
+    "report_url": "/reports/restoreplc.html",
+    "isin": "GB00BD0D0272",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:SAG",
+    "company": "Science Group PLC",
+    "recommendation": "HOLD",
+    "conviction": 53,
+    "date": "2026-04-15",
+    "summary": "Science Group is a UK-listed science and engineering consultancy. HOLD at 557.89 GBX, P/E 7.6x, conviction 53.",
+    "file": "sciencegroupplc.html",
+    "report_url": "/reports/sciencegroupplc.html",
+    "isin": "GB00B16MY450",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:VAST",
+    "company": "Vast Resources PLC",
+    "recommendation": "SPECULATIVE BUY",
+    "conviction": 32,
+    "date": "2026-04-15",
+    "summary": "Vast Resources is a AIM-listed mining explorer. SPECULATIVE BUY at 0.13 GBX, conviction 32.",
+    "file": "vastresourcesplc.html",
+    "report_url": "/reports/vastresourcesplc.html",
+    "isin": "GB00B197DC75",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "BME:MRL",
+    "company": "MERLIN Properties SOCIMI SA",
+    "recommendation": "BUY",
+    "conviction": 68,
+    "date": "2026-04-15",
+    "summary": "MERLIN Properties is a Spanish REIT. BUY at EUR 15.22, P/E 10.9x, conviction 68.",
+    "file": "merlinpropertiessocimisa.html",
+    "report_url": "/reports/merlinpropertiessocimisa.html",
+    "isin": "ES0105022002",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "NYSE:RUOC",
+    "company": "Ocean Power Technologies Inc",
+    "recommendation": "HOLD",
+    "conviction": 35,
+    "date": "2026-04-15",
+    "summary": "Ocean Power Technologies is a wave energy technology company. HOLD at USD 0.30, conviction 35.",
+    "file": "oceanpowertechnologiesinc.html",
+    "report_url": "/reports/oceanpowertechnologiesinc.html",
+    "isin": "US6748705015",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "EPA:ETL",
+    "company": "Eutelsat Communications SA",
+    "recommendation": "HOLD",
+    "conviction": 38,
+    "date": "2026-04-15",
+    "summary": "Eutelsat is a satellite operator. HOLD at EUR 2.50, loss-making, conviction 38.",
+    "file": "eutelsatcommunicationssa.html",
+    "report_url": "/reports/eutelsatcommunicationssa.html",
+    "isin": "FR0010221234",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "TSE:VEQT",
+    "company": "Vanguard All-Equity ETF Portfolio",
+    "recommendation": "HOLD",
+    "conviction": 55,
+    "date": "2026-04-15",
+    "summary": "Vanguard All-Equity ETF Portfolio is a Canadian ETF. HOLD at CAD 56.99, conviction 55.",
+    "file": "vanguardallequityetfportfolio.html",
+    "report_url": "/reports/vanguardallequityetfportfolio.html",
+    "isin": "CA92220Y2109",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "NYSE:SPCE",
+    "company": "Virgin Galactic Holdings Inc",
+    "recommendation": "HOLD",
+    "conviction": 28,
+    "date": "2026-04-15",
+    "summary": "Virgin Galactic is a space tourism company. HOLD at USD 2.79, conviction 28.",
+    "file": "virgin galacticholdingsinc.html",
+    "report_url": "/reports/virgin galacticholdingsinc.html",
+    "isin": "US92766K5079",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:GGP",
+    "company": "Glencore Partnership Portfolio",
+    "recommendation": "BUY",
+    "conviction": 65,
+    "date": "2026-04-15",
+    "summary": "Glencore Partnership Portfolio is a diversified investment trust focused on commodities. BUY at 507 GBX, conviction 65.",
+    "file": "glencorepartnershipportfolioplc.html",
+    "report_url": "/reports/glencorepartnershipportfolioplc.html",
+    "isin": "GB00B1HGW147",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "NASDAQ:QED",
+    "company": "QED Oncology Inc",
+    "recommendation": "HOLD",
+    "conviction": 35,
+    "date": "2026-04-15",
+    "summary": "QED Oncology is a clinical-stage biotech focused on cancer therapeutics. HOLD at USD 1.25, conviction 35.",
+    "file": "qedoncologyinc.html",
+    "report_url": "/reports/qedoncologyinc.html",
+    "isin": "US74733J1025",
+    "universes": [
+      "watchlist"
+    ]
   }
 ]
