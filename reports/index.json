@@ -8,7 +8,7 @@
     "summary": "Apple's ecosystem durability and Services growth are well-established, but the shares are trading near their 52-week high at a P/E of 33x, leaving limited upside at current levels - HOLD is the weighted recommendation.",
     "file": "appleinc.html",
     "report_url": "/reports/appleinc.html",
-    "isin": null,
+    "isin": "US0378331005",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -25,7 +25,7 @@
     "summary": "AbbVie's replacement cycle for Humira through Skyrizi and Rinvoq is the central thesis, but the shares trade at a stretched 88x P/E that prices in near-perfect execution - the risk-reward at current levels favours restraint, and REDUCE is the weighted recommendation.",
     "file": "abbviecommonstock.html",
     "report_url": "/reports/abbviecommonstock.html",
-    "isin": null,
+    "isin": "US00287Y1091",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -42,7 +42,7 @@
     "summary": "Abbott's diversified healthcare franchise - spanning diagnostics, medical devices, nutrition and established pharmaceuticals - is well-positioned to deliver mid-to-high single-digit EPS growth, but the shares are fully valued at the top of their 52-week range - HOLD is the weighted recommendation.",
     "file": "abbottlaboratories.html",
     "report_url": "/reports/abbottlaboratories.html",
-    "isin": null,
+    "isin": "US0028241000",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -59,7 +59,7 @@
     "summary": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger zone where modest operational setbacks can matter more than the underlying business narrative.",
     "file": "abovefoodingredientsinc.html",
     "report_url": "/reports/abovefoodingredientsinc.html",
-    "isin": null,
+    "isin": "CA00373V1004",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -75,7 +75,7 @@
     "summary": "Albertsons is a mature, highly leveraged grocery retailer that failed to close its proposed merger with Kroger, leaving it as a standalone entity with structural competitive headwinds, negative free cash flow and a stock near its 52-week low - the risk-reward is poor and SELL is the clear recommenda",
     "file": "albertsonscompaniesinc.html",
     "report_url": "/reports/albertsonscompaniesinc.html",
-    "isin": null,
+    "isin": "US0130911037",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -91,7 +91,7 @@
     "summary": "Accenture's AI-driven transformation services provide a compelling secular tailwind, and the stock trades at a historically low P/E of 15x - but client spending caution and European macro softness create near-term headwinds that make the current valuation only fair, not compelling - HOLD is the weig",
     "file": "accentureplc.html",
     "report_url": "/reports/accentureplc.html",
-    "isin": null,
+    "isin": "IE00B4BNMY34",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -108,7 +108,7 @@
     "summary": "Adobe's shift to subscription cloud Creative Cloud and the expansion into digital experience with Experience Manager and Marketo represent a structural transition, but generative AI disruption to its core creative tools market poses a genuine long-term threat to revenue durability - HOLD is the weig",
     "file": "adobeinc.html",
     "report_url": "/reports/adobeinc.html",
-    "isin": null,
+    "isin": "US00724F1012",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -124,7 +124,7 @@
     "summary": "ADM is a high-quality agricultural commodities and food processing franchise navigating a cyclical downdraft in grain volumes and margin compression; the shares offer limited upside at 31x P/E and the risk-reward supports REDUCE at current levels.",
     "file": "archerdanielsmidlandco.html",
     "report_url": "/reports/archerdanielsmidlandco.html",
-    "isin": null,
+    "isin": "US0394831020",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -140,7 +140,7 @@
     "summary": "Adient plc is a high-quality automotive seating manufacturer with leading global market share, but the automotive production cycle is in a soft phase and elevated raw material costs limit the near-term re-rating potential -- HOLD . HOLD Conviction Score: 62/100 - HOLD",
     "file": "adientplc.html",
     "report_url": "/reports/adientplc.html",
-    "isin": null,
+    "isin": "IE00BD845X29",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -156,7 +156,7 @@
     "summary": "Ads-Tec Energy makes battery-buffered fast charging systems and related energy management software. The interesting part of the story is not simply EV charging demand, but whether the company can prove that its buffer technology solves grid-connection bottlenecks in locations where conventional ultr",
     "file": "adstecenergyplc.html",
     "report_url": "/reports/adstecenergyplc.html",
-    "isin": null,
+    "isin": "IE000DU292E6",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -172,7 +172,7 @@
     "summary": "AerCap is the largest listed aircraft lessor and its investment case is driven by fleet quality, lease yields, funding access and residual value discipline. The company benefits when airlines want capacity but prefer not to own aircraft outright, especially in a market where manufacturer delivery de",
     "file": "aercapholdingsnv.html",
     "report_url": "/reports/aercapholdingsnv.html",
-    "isin": null,
+    "isin": "NL0000687663",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -188,7 +188,7 @@
     "summary": "AIB is a domestic Irish bank with a large mortgage and SME lending franchise, so the story rests on net interest income, deposit behaviour, asset quality and capital returns rather than on rapid structural growth. Irish rates and credit conditions have been supportive, but banks rarely deserve compl",
     "file": "aibgroupplc.html",
     "report_url": "/reports/aibgroupplc.html",
-    "isin": null,
+    "isin": "IE00BF0L3536",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -204,7 +204,7 @@
     "summary": "AIG is a complex, restructuring multi-line insurer that has made meaningful progress simplifying its operations and strengthening its balance sheet, but the valuation at low-14x earnings is not compelling given persistent catastrophe volatility and execution uncertainty, warranting a REDUCE.",
     "file": "americaninternationalgroupinc.html",
     "report_url": "/reports/americaninternationalgroupinc.html",
-    "isin": null,
+    "isin": "US0268747849",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -220,7 +220,7 @@
     "summary": "Alkemy Capital Investments is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania - a hard rock lithium project with a completed Definitive Feasibility Study and a binding Glencore off",
     "file": "alkemycapitalinvestmentsplc.html",
     "report_url": "/reports/alkemycapitalinvestmentsplc.html",
-    "isin": null,
+    "isin": "GB00BMD6C023",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -236,7 +236,7 @@
     "summary": "Alkermes is no longer just a pipeline option on unproven science; it has a commercial neuroscience base and the market now judges it on product durability, margin quality and how management redeploys cash. The opportunity is real if the company can keep its marketed portfolio resilient while buildin",
     "file": "alkermesplc.html",
     "report_url": "/reports/alkermesplc.html",
-    "isin": null,
+    "isin": "IE00B56GVS15",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -252,7 +252,7 @@
     "summary": "Allstate's P/E of 5.5x appears spectacularly cheap on reported earnings, but that figure is distorted by elevated catastrophe losses and one-time items that inflate the denominator; the underlying P&amp;C business faces severe structural headwinds in California wildfire exposure and auto insurance l",
     "file": "allstatecorp.html",
     "report_url": "/reports/allstatecorp.html",
-    "isin": null,
+    "isin": "US0200021014",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -268,7 +268,7 @@
     "summary": "Allegion sells mechanical and electronic security products, especially doors, locks, access control and related hardware, with a strong installed-base advantage in institutional and commercial settings. It is a quality industrial, but the investment case usually hinges on whether electronic security",
     "file": "allegionplc.html",
     "report_url": "/reports/allegionplc.html",
-    "isin": null,
+    "isin": "US5949181045",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -284,7 +284,7 @@
     "summary": "Ardagh Metal Packaging is a cyclical packaging business rather than a high-growth equity story. The attraction is operational leverage, defensive end-market exposure through beverage cans, and the possibility of margin recovery if cost pressure eases and utilisation improves. The live share price is",
     "file": "ardaghmetalpackagingsa.html",
     "report_url": "/reports/ardaghmetalpackagingsa.html",
-    "isin": null,
+    "isin": "LU2319693766",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -300,7 +300,7 @@
     "summary": "AMD is the most credible alternative to NVIDIA in AI accelerators and has made genuine GPU architecture progress, but at a P/E of 94x the market is already pricing a successful execution of an extremely demanding AI trajectory - HOLD is the appropriate recommendation at current levels.",
     "file": "advancedmicrodevicesinc.html",
     "report_url": "/reports/advancedmicrodevicesinc.html",
-    "isin": null,
+    "isin": "US0079031078",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -316,7 +316,7 @@
     "summary": "Amgen's established biopharma franchise delivers resilient free cash flow, but the obesity pipeline readout and biosimilar portfolio evolution are binary events that could fundamentally change the investment thesis - HOLD is the weighted recommendation pending clarity on pipeline outcomes.",
     "file": "amgeninc.html",
     "report_url": "/reports/amgeninc.html",
-    "isin": null,
+    "isin": "US0311621009",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -332,7 +332,7 @@
     "summary": "Amarin Corporation plc is a Dublin-headquartered specialty pharma company whose flagship product Vascepa (icosapent ethyl) has a credible cardiovascular risk reduction indication but faces significant commercial execution challenges -- HOLD . HOLD Conviction Score: 65/100 - HOLD",
     "file": "amarincorporationplc.html",
     "report_url": "/reports/amarincorporationplc.html",
-    "isin": null,
+    "isin": "US0231114044",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -348,7 +348,7 @@
     "summary": "Amazon is the world's largest e-commerce marketplace and cloud infrastructure provider, operating a network effect business with two dominant platforms - marketplace and AWS - that reinforce each other. AWS is the leading cloud platform, generating $100B+ in annual revenue with strong growth and sig",
     "file": "amazoncominc.html",
     "report_url": "/reports/amazoncominc.html",
-    "isin": null,
+    "isin": "US0231351067",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -365,7 +365,7 @@
     "summary": "Arista is one of the cleanest infrastructure beneficiaries of the AI datacentre build-out. Its high-performance cloud networking kit sits directly in the path of hyperscaler capex, and its software-led switching architecture has allowed it to take share from legacy vendors for years. At $145.26, jus",
     "file": "aristanetworksinc.html",
     "report_url": "/reports/aristanetworksinc.html",
-    "isin": null,
+    "isin": "US0404132054",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -381,7 +381,7 @@
     "summary": "Aptiv sits at the intersection of automotive electrification, software architecture and vehicle content growth, but it still operates in a hard car industry where volumes, programme launches and customer concentration can overwhelm the secular story. The appeal is that modern vehicles need more elec",
     "file": "aptivplc.html",
     "report_url": "/reports/aptivplc.html",
-    "isin": null,
+    "isin": "JE00BTDN8H13",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -397,7 +397,7 @@
     "summary": "AST SpaceMobile is one of the most exciting and one of the most dangerous names in the watchlist. The concept, direct-to-device satellite broadband using standard mobile phones, is genuinely differentiated. If it works at global scale, the upside is enormous. At $96.57, however, the market is alread",
     "file": "astspacemobileinc.html",
     "report_url": "/reports/astspacemobileinc.html",
-    "isin": null,
+    "isin": "US00217D1000",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -413,7 +413,7 @@
     "summary": "Autolus is a clinical biotech name where the upside exists only if the science and regulatory path work. At $1.49 with a market cap of roughly $362M and negative EPS, the stock is still deep in speculative territory. This is a pipeline bet, not an operating company.",
     "file": "autolustherapeuticsplc.html",
     "report_url": "/reports/autolustherapeuticsplc.html",
-    "isin": null,
+    "isin": "US05280R1005",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -429,7 +429,7 @@
     "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform - a tumour-targeted prodrug activation technology that releases active drug preferentially in the tumour microenvironment rather than systemically. The core technology uses Fibroblast Activation Protein (FAP), expressed",
     "file": "avactagroupplc.html",
     "report_url": "/reports/avactagroupplc.html",
-    "isin": null,
+    "isin": "GB00BYYW9G87",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -445,7 +445,7 @@
     "summary": "Broadcom's AI networking franchise (Tomahawk ethernet switches, custom AI accelerators, ASICs for hyperscalers) is the defining investment case of the decade, but the 72x P/E demands flawless execution from a company with a complex acquisition-heavy history - HOLD is the weighted recommendation.",
     "file": "broadcominc.html",
     "report_url": "/reports/broadcominc.html",
-    "isin": null,
+    "isin": "US11135F1012",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -461,7 +461,7 @@
     "summary": "American Express's premium consumer and corporate franchise continues to compound earnings reliably, but the shares trade near the top of their 52-week range at 20x P/E with credit normalisation risk on the horizon - HOLD is the weighted recommendation.",
     "file": "americanexpressco.html",
     "report_url": "/reports/americanexpressco.html",
-    "isin": null,
+    "isin": "US0258161092",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -478,7 +478,7 @@
     "summary": "Boeing's operational and cultural crisis - following the 737 MAX accidents, production quality failures and the 2024 door plug blowout on Alaska Airlines Flight 1282 - has materially impaired the franchise, and the 88x trailing P/E is meaningless on deeply depressed near-term earnings - SELL is the ",
     "file": "boeingco.html",
     "report_url": "/reports/boeingco.html",
-    "isin": null,
+    "isin": "US0970231058",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -495,7 +495,7 @@
     "summary": "Alibaba is a high-quality e-commerce and cloud infrastructure company that has been systematically mispriced by Western markets due to geopolitical risk premium, regulatory overhang from the PRC's tech crackdowns, and US-traded ADR uncertainty. At $126.10 with a P/E of 18.7x and a dividend yield app",
     "file": "alibabagroupholdingltdadr.html",
     "report_url": "/reports/alibabagroupholdingltdadr.html",
-    "isin": null,
+    "isin": "US01609W1027",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -511,7 +511,7 @@
     "summary": "Bank of America's net interest income is in structural decline as the Fed rate cycle turns, credit costs are rising from cyclical lows, and the shares are not meaningfully cheap enough to compensate - REDUCE is the weighted recommendation.",
     "file": "bankofamericacorp.html",
     "report_url": "/reports/bankofamericacorp.html",
-    "isin": null,
+    "isin": "US0605051046",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -528,7 +528,7 @@
     "summary": "Bank of Ireland is another core domestic lender whose earnings are currently flattered by higher rates, but the longer-term investment case rests on deposit stickiness, credit discipline and the ability to return capital without inviting a harsher regulatory tone. The bank has benefited from consoli",
     "file": "bankofirelandgroupplc.html",
     "report_url": "/reports/bankofirelandgroupplc.html",
-    "isin": null,
+    "isin": "IE00BD1RP616",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -544,7 +544,7 @@
     "summary": "The Bank of New York Mellon is a structurally advantaged custodian bank with fee-based revenues that should benefit from rising interest rates and growing assets under custody, but faces margin pressure and subdued equity markets; HOLD at $127.56.",
     "file": "bankofnewyorkmelloncorp.html",
     "report_url": "/reports/bankofnewyorkmelloncorp.html",
-    "isin": null,
+    "isin": "US05587G2030",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -560,7 +560,7 @@
     "summary": "Booking Holdings is the world's largest online travel agent by revenue, benefiting from structural travel demand recovery and its dominant platform economics; BUY on valuation pullback given strong long-term growth runway.",
     "file": "bookingholdingsinc.html",
     "report_url": "/reports/bookingholdingsinc.html",
-    "isin": null,
+    "isin": "US09857L1089",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -576,7 +576,7 @@
     "summary": "BlackRock's unassailable position as the world's largest asset manager - with structural tailwinds from ETF secularisation and growing Aladdin platform revenues - is reflected in a 29x P/E, leaving limited near-term upside but a durable long-term compounding franchise - HOLD is the weighted recommen",
     "file": "blackrockinc.html",
     "report_url": "/reports/blackrockinc.html",
-    "isin": null,
+    "isin": "US09247X1019",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -593,7 +593,7 @@
     "summary": "Block Energy is a high-risk/high-reward Georgian gas developer with a sub-&#163;15M market cap and an independently certified USD 2.2B NPV10 on Project III alone. The binding farm-out of 51% of Project III to Zhijiang Sanning Energy removes the funding execution risk and fully funds appraisal &#8212",
     "file": "blockenergyplc.html",
     "report_url": "/reports/blockenergyplc.html",
-    "isin": null,
+    "isin": "GB00BF3TBT48",
     "exchange_code": "LN",
     "exchange": "LN",
     "universes": [
@@ -609,7 +609,7 @@
     "summary": "BMS faces a significant patent cliff on its largest drug (Eliquis faces generic competition from 2026 onwards under the US IRA) and a sparse pipeline that has failed to replace lost revenues - the shares trade at a low P/E of 17x but this may still overstate earnings durability - REDUCE is the weigh",
     "file": "bristolmyerssquibbco.html",
     "report_url": "/reports/bristolmyerssquibbco.html",
-    "isin": null,
+    "isin": "US1101221089",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -626,7 +626,7 @@
     "summary": "Berkshire Hathaway is a conglomerate holding company with dominant insurance operations and a disciplined capital allocation philosophy; its intrinsic value growing at above-market rates and significant liquidity make it a compelling long-term hold at $479.90.",
     "file": "berkshirehathawayincclassb.html",
     "report_url": "/reports/berkshirehathawayincclassb.html",
-    "isin": null,
+    "isin": "US0846707026",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -643,7 +643,7 @@
     "summary": "BWX Technologies is the strongest quality name in this part of the market because it offers nuclear exposure through a real operating business rather than through a pure future-technology promise. The live price is $214.44 , just 3.5% below the 52 week high of $222.29 , which signals strong market c",
     "file": "bwxtechnologiesinc.html",
     "report_url": "/reports/bwxtechnologiesinc.html",
-    "isin": null,
+    "isin": "US05605H1005",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -659,7 +659,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "citigroupinc.html",
     "report_url": "/reports/citigroupinc.html",
-    "isin": null,
+    "isin": "US1729674242",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -676,7 +676,7 @@
     "summary": "Cosmo is unusual because it combines specialty pharma assets, medical device exposure and a history of partnering rather than building a huge broad sales force alone. That can create attractive optionality, but it also means the story depends heavily on execution around a relatively small set of pro",
     "file": "cosmopharmaceuticalsnv.html",
     "report_url": "/reports/cosmopharmaceuticalsnv.html",
-    "isin": null,
+    "isin": "NL0011832936",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -692,7 +692,7 @@
     "summary": "Colonial Coal International Corp is a Vancouver-listed metallurgical (steelmaking) coal company focused on the Peace River coalfield in north-east British Columbia. The company holds a 60% interest in the Steelmaking Coal (SMC) joint venture, a producing asset with long-life reserves and established",
     "file": "colonialcoalinternationalcorp.html",
     "report_url": "/reports/colonialcoalinternationalcorp.html",
-    "isin": null,
+    "isin": "CA1956151098",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -708,7 +708,7 @@
     "summary": "",
     "file": "cardinalhealthinc.html",
     "report_url": "/reports/cardinalhealthinc.html",
-    "isin": null,
+    "isin": "US14149Y1082",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -724,7 +724,7 @@
     "summary": "Caterpillar's near-52-week-high price reflects optimism about US infrastructure spending and Chinese stimulus, but the 42x P/E leaves no margin of safety if construction activity decelerates - HOLD is the weighted recommendation at current levels.",
     "file": "caterpillarinc.html",
     "report_url": "/reports/caterpillarinc.html",
-    "isin": null,
+    "isin": "US1491231015",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -741,7 +741,7 @@
     "summary": "",
     "file": "cignagroup.html",
     "report_url": "/reports/cignagroup.html",
-    "isin": null,
+    "isin": "US1255231003",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -757,7 +757,7 @@
     "summary": "Colgate-Palmolive is a defensive consumer staples giant with dominant market share in oral care globally, but faces structural headwinds from private label competition and category deceleration in emerging markets; HOLD at $84.34.",
     "file": "colgatepalmoliveco.html",
     "report_url": "/reports/colgatepalmoliveco.html",
-    "isin": null,
+    "isin": "JP3980300002",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -773,7 +773,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "comcastcorp.html",
     "report_url": "/reports/comcastcorp.html",
-    "isin": null,
+    "isin": "US20030N1019",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -790,7 +790,7 @@
     "summary": "Cimpress owns online print and mass customisation businesses, most notably Vistaprint, and the debate is whether its platform and customer economics are better than the market assumes for a mature e-commerce print operator. It is more interesting than a simple print label because software, data and ",
     "file": "cimpressplc.html",
     "report_url": "/reports/cimpressplc.html",
-    "isin": null,
+    "isin": "NL0009272269",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -806,7 +806,7 @@
     "summary": "Centene's turnaround is real but the shares have re-rated aggressively following FY2025 EPS normalisation, leaving the valuation squarely in \"pricing-in-recovery\" territory at 37x normalised EPS - HOLD is appropriate at this level; wait for a pullback or evidence of sustained margin expansion before",
     "file": "centenecorp.html",
     "report_url": "/reports/centenecorp.html",
-    "isin": null,
+    "isin": "US15135B1017",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -822,7 +822,7 @@
     "summary": "Capital One has transformed from a credit card lender into a diversified technology-powered financial services company; pending regulatory approval for its Discover merger, it stands to become a payments network major, warranting a BUY rating at $193.00.",
     "file": "capitalonefinancialcorp.html",
     "report_url": "/reports/capitalonefinancialcorp.html",
-    "isin": null,
+    "isin": "US2547091080",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -838,7 +838,7 @@
     "summary": "ConocoPhillips is one of the world's largest integrated oil and gas explorers, with a low-cost production base concentrated in the Permian Basin and LNG exposure via Freeport LNG; near-term uncertainty around OPEC+ supply management and volatile crude prices keep us at HOLD.",
     "file": "conocophillips.html",
     "report_url": "/reports/conocophillips.html",
-    "isin": null,
+    "isin": "US20825C1045",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -854,7 +854,7 @@
     "summary": "",
     "file": "cencorainc.html",
     "report_url": "/reports/cencorainc.html",
-    "isin": null,
+    "isin": "US03073E1029",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -870,7 +870,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "costcowholesalecorp.html",
     "report_url": "/reports/costcowholesalecorp.html",
-    "isin": null,
+    "isin": "US22160K1052",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -887,7 +887,7 @@
     "summary": "CRH plc is a high-quality global building materials champion with exceptional cash flow generation, a disciplined capital allocation record, and a rock-solid balance sheet, trading at a material discount to US-listed peers despite superior returns -- BUY . BUY Conviction Score: 82/100 - BUY",
     "file": "crhplc.html",
     "report_url": "/reports/crhplc.html",
-    "isin": null,
+    "isin": "IE0001827041",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -903,7 +903,7 @@
     "summary": "Curis is a small-cap oncology biotech with the usual combination of scientific optionality and financial fragility. At $0.5535 with a market cap of about $20.8M and negative EPS of -$1.20, the equity is deep in speculative territory. These names can bounce hard on data, but the base case is still do",
     "file": "curisinc.html",
     "report_url": "/reports/curisinc.html",
-    "isin": null,
+    "isin": "US2312693094",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -919,7 +919,7 @@
     "summary": "Salesforce remains the dominant cloud CRM platform with strong recurring revenue and AI-driven upsell potential, but the shares at 21.15x P/E are not obviously cheap relative to a slowing new logo growth rate - HOLD.",
     "file": "salesforceinc.html",
     "report_url": "/reports/salesforceinc.html",
-    "isin": null,
+    "isin": "US79466L3024",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -936,7 +936,7 @@
     "summary": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The July 2024 Falcon update incident caused a significant derating, but the stock has recovered well an",
     "file": "crowdstrikeholdingsinc.html",
     "report_url": "/reports/crowdstrikeholdingsinc.html",
-    "isin": null,
+    "isin": "US22788C1053",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -952,7 +952,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "ciscosystemsinc.html",
     "report_url": "/reports/ciscosystemsinc.html",
-    "isin": null,
+    "isin": "US17275R1023",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -969,7 +969,7 @@
     "summary": "CVS Health is a vertically integrated healthcare company spanning retail pharmacy, pharmacy benefit management (PBM), and health insurance (Aetna); the combination of PBM margin pressure, medical benefit ratio deterioration, and retail headwinds makes REDUCE the appropriate call at $79.33.",
     "file": "cvshealthcorp.html",
     "report_url": "/reports/cvshealthcorp.html",
-    "isin": null,
+    "isin": "US1266501006",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -986,7 +986,7 @@
     "summary": "Chevron is a well-managed integrated energy company with a strong Permian Basin position and a disciplined capital allocation framework, but the shares are fairly valued at 28x P/E given the structural headwinds from energy transition and commodity price volatility - HOLD is the weighted recommendat",
     "file": "chevroncorp.html",
     "report_url": "/reports/chevroncorp.html",
-    "isin": null,
+    "isin": "US1667641005",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1003,7 +1003,7 @@
     "summary": "Delta Air Lines offers an attractive combination of strong pricing power, disciplined capacity management, and an improving balance sheet, trading at a significant discount to intrinsic value on a P/E of under 10x, and is rated HOLD.",
     "file": "deltaairlinesinc.html",
     "report_url": "/reports/deltaairlinesinc.html",
-    "isin": null,
+    "isin": "US2473617023",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1019,7 +1019,7 @@
     "summary": "DCC plc is a high-quality Irish-headquartered international sales, marketing and support services group, trading at 5160.00 GBX (pence) per share (~$66.05 USD equivalent) with a compelling combination of defensive recurring revenue, proven capital allocation discipline, and a valuation discount to h",
     "file": "dccplc.html",
     "report_url": "/reports/dccplc.html",
-    "isin": null,
+    "isin": "IE0002424939",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1035,7 +1035,7 @@
     "summary": "Deere is the world's dominant agricultural and construction equipment manufacturer, benefiting from precision farming technology adoption and infrastructure spending; the stock's valuation near 52-week highs reflects this, leaving limited near-term upside; HOLD at $605.00.",
     "file": "deereco.html",
     "report_url": "/reports/deereco.html",
-    "isin": null,
+    "isin": "US2441991054",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1052,7 +1052,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "delltechnologiesinc.html",
     "report_url": "/reports/delltechnologiesinc.html",
-    "isin": null,
+    "isin": "US24703L1035",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1069,7 +1069,7 @@
     "summary": "Diageo is a quality compounder trading at decade-low valuations following a significant operational reset. The February 2026 H1 results delivered a kitchen-sink moment: dividend halved, organic guidance cut to -2% to -3%, and a frank admission that volume recovery in the US and Asia will take longer",
     "file": "diageoplc.html",
     "report_url": "/reports/diageoplc.html",
-    "isin": null,
+    "isin": "GB0002374006",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1085,7 +1085,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "danahercorp.html",
     "report_url": "/reports/danahercorp.html",
-    "isin": null,
+    "isin": "US2358511028",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1101,7 +1101,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "waltdisneyco.html",
     "report_url": "/reports/waltdisneyco.html",
-    "isin": null,
+    "isin": "US2546871060",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1118,7 +1118,7 @@
     "summary": "Dole plc is the world's largest fresh produce company with dominant positions in bananas and pineapples, but secular challenges in its core banana business and limited visibility on the portfolio optimisation strategy produce a neutral risk-reward at $15.69 -- HOLD . HOLD Conviction Score: 62/100 - ",
     "file": "doleplc.html",
     "report_url": "/reports/doleplc.html",
-    "isin": null,
+    "isin": "IE0003LFZ4U7",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1134,7 +1134,7 @@
     "summary": "Dow Inc is a structurally challenged diversified chemicals producer navigating a severe cyclical downturn, with the shares running ahead of fundamentals at current levels and the risk/reward skewed firmly to the downside, warranting a REDUCE.",
     "file": "dowinc.html",
     "report_url": "/reports/dowinc.html",
-    "isin": null,
+    "isin": "US2605431038",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1150,7 +1150,7 @@
     "summary": "Duke Energy is a regulated utility operating across the Carolinas, Florida, Ohio, Indiana, and Kentucky; it offers a defensive 3.5% dividend yield supported by rate base growth from grid modernisation, but limited capital appreciation potential keeps us at HOLD.",
     "file": "dukeenergycorp.html",
     "report_url": "/reports/dukeenergycorp.html",
-    "isin": null,
+    "isin": "US26441C2044",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1166,7 +1166,7 @@
     "summary": "",
     "file": "elevancehealthinc.html",
     "report_url": "/reports/elevancehealthinc.html",
-    "isin": null,
+    "isin": "US0367521038",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1182,7 +1182,7 @@
     "summary": "Emerson Electric is a global automation and instrumentation leader undergoing a strategic portfolio transformation; its push into discrete automation and hybrid process control aligns with structural manufacturing onshoring and AI-driven factory automation demand; BUY at $143.77.",
     "file": "emersonelectricco.html",
     "report_url": "/reports/emersonelectricco.html",
-    "isin": null,
+    "isin": "US2910111044",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1198,7 +1198,7 @@
     "summary": "Enterprise Products Partners is a high-quality midstream MLP offering a generous distribution yield underpinned by fee-based contracts and diversified pipeline infrastructure, but limited distribution growth and a compressed valuation leave the shares fairly priced at current levels, warranting a HO",
     "file": "enterpriseproductspartnerslp.html",
     "report_url": "/reports/enterpriseproductspartnerslp.html",
-    "isin": null,
+    "isin": "US2937921078",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1214,7 +1214,7 @@
     "summary": "Energy Transfer is a high-yield energy infrastructure MLP offering an attractive 7%+ distribution yield supported by fee-based cash flows and a recovering natural gas demand environment, but the unit price is near the top of its 52-week range and near-term upside is limited - HOLD is appropriate at ",
     "file": "energytransferlpunit.html",
     "report_url": "/reports/energytransferlpunit.html",
-    "isin": null,
+    "isin": "US29273V1008",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1230,7 +1230,7 @@
     "summary": "Eutelsat has been absolutely destroyed - down ~51% from its 52-week high of EUR 4.74 to EUR 2.33. The stock is sitting 47% above its 52-week low of EUR 1.59, having recovered from the lows but still in a severe downtrend. This is not a value opportunity in the traditional sense - it is a business un",
     "file": "eutelsatcommunicationssa.html",
     "report_url": "/reports/eutelsatcommunicationssa.html",
-    "isin": null,
+    "isin": "FR0010221234",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1246,7 +1246,7 @@
     "summary": "Eaton is a well-positioned electrical and power management company benefiting from grid modernisation, data centre power demand, industrial electrification and a generally stronger mix than it had a decade ago. The key attraction is that several growth themes now reinforce each other: utilities need",
     "file": "eatoncorporationplc.html",
     "report_url": "/reports/eatoncorporationplc.html",
-    "isin": null,
+    "isin": "DE000A3GV1U5",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1262,7 +1262,7 @@
     "summary": "Experian is a data and analytics franchise with entrenched positions in credit information, decisioning and identity-related services. It benefits when lenders, insurers and businesses need better underwriting and fraud tools, but the real attraction is that the business is deeply embedded in custom",
     "file": "experianplc.html",
     "report_url": "/reports/experianplc.html",
-    "isin": null,
+    "isin": "GB00B19NLV48",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1278,7 +1278,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "fordmotorco.html",
     "report_url": "/reports/fordmotorco.html",
-    "isin": null,
+    "isin": "US3453708600",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1295,7 +1295,7 @@
     "summary": "FedEx's DRIVE transformation is delivering tangible cost savings and margin expansion, but the stock trades near fair value with limited upside without evidence of sustained revenue growth. HOLD is the weighted recommendation with a conviction score of 58.",
     "file": "fedexcorp.html",
     "report_url": "/reports/fedexcorp.html",
-    "isin": null,
+    "isin": "US31428X1063",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1312,7 +1312,7 @@
     "summary": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating equity story. It is a distressed speculative stub.",
     "file": "faradayfutureintelligentelectricinc.html",
     "report_url": "/reports/faradayfutureintelligentelectricinc.html",
-    "isin": null,
+    "isin": "US3073598852",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1328,7 +1328,7 @@
     "summary": "Flutter is one of the strongest operators in online betting and gaming, with powerful brands, scale advantages and a broad geographic footprint, but it remains an industry where regulation and customer acquisition discipline can change the investment case quickly. The important question is not wheth",
     "file": "flutterentertainmentplc.html",
     "report_url": "/reports/flutterentertainmentplc.html",
-    "isin": null,
+    "isin": "IE00BWT6H894",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1344,7 +1344,7 @@
     "summary": "Kneat develops validation and compliance software for regulated manufacturing, especially life sciences. The attraction is that the product sits inside a painful and highly audited workflow where paper-based or fragmented systems are still common, making digitisation valuable and sticky. The company",
     "file": "kneatcominc.html",
     "report_url": "/reports/kneatcominc.html",
-    "isin": null,
+    "isin": "CA4988241010",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1360,7 +1360,7 @@
     "summary": "Fortinet is a network security company focused on the mid-market and enterprise segment, selling firewalls, secure access (SD-WAN), and endpoint security through a combination of hardware appliances and its FortiOS operating system. The company is in a transition from an appliance model to a subscri",
     "file": "fortinetinc.html",
     "report_url": "/reports/fortinetinc.html",
-    "isin": null,
+    "isin": "US34959E1091",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1376,7 +1376,7 @@
     "summary": "General Dynamics is a high-quality defence prime with a record backlog providing multi-year revenue visibility, but the shares trade at a premium multiple that leaves little room for programme slips. HOLD is the weighted recommendation with a conviction score of 66.",
     "file": "generaldynamicscorp.html",
     "report_url": "/reports/generaldynamicscorp.html",
-    "isin": null,
+    "isin": "US3695501086",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1392,7 +1392,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "generalelectricco.html",
     "report_url": "/reports/generalelectricco.html",
-    "isin": null,
+    "isin": "US3696043013",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1409,7 +1409,7 @@
     "summary": "GE Vernova is in the early innings of a power infrastructure supercycle driven by data centre demand, grid modernisation and energy transition investment, but the premium 56x P/E demands near-perfect execution. HOLD is the weighted recommendation with a conviction score of 74.",
     "file": "gevernovainc.html",
     "report_url": "/reports/gevernovainc.html",
-    "isin": null,
+    "isin": "US36828A1016",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1425,7 +1425,7 @@
     "summary": "Grafton Group plc is a well-positioned Irish-UK building materials distribution business, but the current macro uncertainty in UK and Irish construction and housing markets creates a neutral risk-reward at 918.20 GBX -- HOLD . HOLD Conviction Score: 65/100 - HOLD",
     "file": "graftongroupplc.html",
     "report_url": "/reports/graftongroupplc.html",
-    "isin": null,
+    "isin": "IE00B00MZ448",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1441,7 +1441,7 @@
     "summary": "Greatland Resources is a UK-listed gold explorer and mining company focused on the prolific Pilbara region of Western Australia and, critically, a flagship partnership with Newmont at the Blackhill joint venture. The stock is up 11% today (8 April 2026) following news of a Newmont mining lease ratif",
     "file": "greatlandresourcesltd.html",
     "report_url": "/reports/greatlandresourcesltd.html",
-    "isin": null,
+    "isin": "AU0000397705",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1457,7 +1457,7 @@
     "summary": "GH Research is a clinical-stage neuropsychiatry company focused on psychedelic-derived therapies, so the investment case is driven by clinical signal, safety, trial design and eventual commercial practicality. The upside could be substantial if its approach proves differentiated and scalable, but it",
     "file": "ghresearchplc.html",
     "report_url": "/reports/ghresearchplc.html",
-    "isin": null,
+    "isin": "IE000GID8VI0",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1473,7 +1473,7 @@
     "summary": "Gilead's HIV franchise remains highly cash-generative, long-acting prevention (lenacapavir) is a genuine breakthrough, and the oncology expansion via Trodelvy is gaining traction, but the liver disease franchise faces generic headwinds. HOLD is the weighted recommendation with a conviction score of ",
     "file": "gileadsciencesinc.html",
     "report_url": "/reports/gileadsciencesinc.html",
-    "isin": null,
+    "isin": "US3755581036",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1489,7 +1489,7 @@
     "summary": "Glanbia is a nutrition and dairy-linked business whose better qualities come from brand strength and performance nutrition exposure, while its weaker points stem from ingredient volatility and a market that rarely gives dairy-linked names a generous valuation. The investment case improves when brand",
     "file": "glanbiaplc.html",
     "report_url": "/reports/glanbiaplc.html",
-    "isin": null,
+    "isin": "IE0000669501",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1505,7 +1505,7 @@
     "summary": "Glencore is one of the world's largest diversified commodity groups, operating mining and marketing assets across copper, zinc, cobalt, coal, oil, and agricultural commodities. The company is distinct from pure-play miners because its marketing and trading arm generates significant, relatively stabl",
     "file": "glencoreplc.html",
     "report_url": "/reports/glencoreplc.html",
-    "isin": null,
+    "isin": "JE00B4T3BW64",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1521,7 +1521,7 @@
     "summary": "General Motors is in the midst of an electric vehicle transformation while simultaneously extracting profitability from its traditional ICE truck and SUV franchise, but the EV losses and UAW cost headwinds create a challenging near-term earnings backdrop. REDUCE is the weighted recommendation with a",
     "file": "generalmotorsco.html",
     "report_url": "/reports/generalmotorsco.html",
-    "isin": null,
+    "isin": "US37045V1008",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1538,7 +1538,7 @@
     "summary": "Alphabet's search dominance and AI integration across the Google Cloud and advertising ecosystem represent a durable franchise, but the 29x P/E reflects substantial AI competition risk that must be overcome rather than assumed - HOLD is the weighted recommendation.",
     "file": "alphabetincclassa.html",
     "report_url": "/reports/alphabetincclassa.html",
-    "isin": null,
+    "isin": "US02079K3059",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1554,7 +1554,7 @@
     "summary": "Goldman Sachs operates across four primary business segments:",
     "file": "goldmansachsgroupinc.html",
     "report_url": "/reports/goldmansachsgroupinc.html",
-    "isin": null,
+    "isin": "US38141G1040",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1571,7 +1571,7 @@
     "summary": "HCA is the largest hospital operator in the United States with a strong track record of margin expansion, high occupancy rates and meaningful free cash flow generation, but the stock trades near its 52-week high at a 17.5x P/E that prices in continued operational excellence and leaves limited near-t",
     "file": "hcahealthcareinc.html",
     "report_url": "/reports/hcahealthcareinc.html",
-    "isin": null,
+    "isin": "US40412C1018",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1587,7 +1587,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "homedepotinc.html",
     "report_url": "/reports/homedepotinc.html",
-    "isin": null,
+    "isin": "US4370761029",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1604,7 +1604,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "honeywellinternationalinc.html",
     "report_url": "/reports/honeywellinternationalinc.html",
-    "isin": null,
+    "isin": "US4385161066",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1621,7 +1621,7 @@
     "summary": "Humana is a high-quality Medicare Advantage franchise but faces an increasingly hostile operating environment - medical cost ratios are rising, Stars ratings are under pressure, and the shares have re-rated to a level that prices in near-perfect execution - REDUCE is the appropriate recommendation a",
     "file": "humanainc.html",
     "report_url": "/reports/humanainc.html",
-    "isin": null,
+    "isin": "US4448591028",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1637,7 +1637,7 @@
     "summary": "IBM is mid-transition from legacy infrastructure to hybrid cloud and AI services; the Z-Series mainframes and Red Hat integration provide annuity-like revenue stability while the GenAI services ramp remains the swing variable.",
     "file": "ibmcommonstock.html",
     "report_url": "/reports/ibmcommonstock.html",
-    "isin": null,
+    "isin": "US4592001014",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1654,7 +1654,7 @@
     "summary": "ICON is one of the leading contract research organisations serving the pharmaceutical and biotech industry. The appeal is straightforward: outsourcing remains structural, sponsors still need global trial execution expertise, and scale matters in winning and delivering complex studies. The main issue",
     "file": "iconplc.html",
     "report_url": "/reports/iconplc.html",
-    "isin": null,
+    "isin": "IE0005711209",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1670,7 +1670,7 @@
     "summary": "Intel faces a structural competitive disadvantage in AI accelerators, has lost server CPU market share to AMD, and its foundry transformation is capital-intensive with an uncertain payoff - the stock at $62 is pricing in a level of recovery that requires near-perfect execution across multiple simult",
     "file": "intelcorp.html",
     "report_url": "/reports/intelcorp.html",
-    "isin": null,
+    "isin": "US4581401001",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1687,7 +1687,7 @@
     "summary": "Intuit benefits from the forced annual tax season engagement of 7+ million US TurboTax users and a growing ecosystem in small business software (QuickBooks, Mailchimp), but the 43x P/E demands flawless execution on the AI-assisted accounting vision. HOLD is the weighted recommendation with a convict",
     "file": "intuitinc.html",
     "report_url": "/reports/intuitinc.html",
-    "isin": null,
+    "isin": "US4612021034",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1703,7 +1703,7 @@
     "summary": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.55, only 5% off the 52-week high, the market is valuing the company as if quantum commercialisation i",
     "file": "ionqinc.html",
     "report_url": "/reports/ionqinc.html",
-    "isin": null,
+    "isin": "US46222L1089",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1719,7 +1719,7 @@
     "summary": "Ingersoll Rand is a high-quality industrial franchise focused on mission-critical compressed air and fluid handling equipment, but the acquisition-heavy growth strategy has left a complex balance sheet and the valuation is elevated for a cyclical business -- HOLD . HOLD Conviction Score: 65/100 - HO",
     "file": "ingersollrandinc.html",
     "report_url": "/reports/ingersollrandinc.html",
-    "isin": null,
+    "isin": "US45687V1061",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1735,7 +1735,7 @@
     "summary": "Iris Energy is one of the cleaner listed ways to play the intersection of Bitcoin mining, power infrastructure, and AI/HPC optionality. The market likes that combination, which is why the stock sits just 5.1% below its 52-week high at $36.92. The problem is familiar: when these names are working, th",
     "file": "irenltd.html",
     "report_url": "/reports/irenltd.html",
-    "isin": null,
+    "isin": "AU0000185993",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1751,7 +1751,7 @@
     "summary": "Intuitive Surgical's da Vinci platform is the undisputed leader in robotic-assisted surgery with exceptional installation base durability, but the 57x trailing P/E prices in a perfection scenario with limited room for system placement slowdown. HOLD is the weighted recommendation with a conviction s",
     "file": "intuitivesurgicalinc.html",
     "report_url": "/reports/intuitivesurgicalinc.html",
-    "isin": null,
+    "isin": "US46120E6023",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1767,7 +1767,7 @@
     "summary": "Iterum is a small anti-infectives biotechnology company, and the case rests overwhelmingly on regulatory and commercial outcomes around a limited asset base. Antibiotic development can address real medical need, but it has often been a poor equity category because commercial rewards rarely match sci",
     "file": "iterumtherapeuticsplc.html",
     "report_url": "/reports/iterumtherapeuticsplc.html",
-    "isin": null,
+    "isin": "IE000TTOOBX0",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1783,7 +1783,7 @@
     "summary": "Jazz is a profitable specialty pharmaceutical company with meaningful positions in sleep, epilepsy and oncology, so it sits in a better place than speculative biotech but still faces familiar pharma questions around product concentration and replenishing growth. The market tends to respect the cash ",
     "file": "jazzpharmaceuticalsplc.html",
     "report_url": "/reports/jazzpharmaceuticalsplc.html",
-    "isin": null,
+    "isin": "IE00B4Q5ZN47",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1799,7 +1799,7 @@
     "summary": "Johnson Controls International is a high-quality building efficiency and fire safety franchise with a credible digital buildings strategy, but the current execution cadence and macro-sensitive end markets do not justify further re-rating -- HOLD . HOLD Conviction Score: 66/100 - HOLD",
     "file": "johnsoncontrolsinternationalplc.html",
     "report_url": "/reports/johnsoncontrolsinternationalplc.html",
-    "isin": null,
+    "isin": "IE00BY7QL619",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1815,7 +1815,7 @@
     "summary": "JD.com is a high-quality, large-scale Chinese e-commerce and logistics platform that has underperformed peers due to a profitability reset in FY2025. Revenue growth of 13% YoY to US$187.2B is respectable, but non-GAAP EPS fell 43% as the company absorbed heavy investment in food delivery, aggressive",
     "file": "jd.html",
     "report_url": "/reports/jd.html",
-    "isin": null,
+    "isin": "KYG8208B1014",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1831,7 +1831,7 @@
     "summary": "James Hardie is a building products specialist best known for fibre cement siding, with a strong position in the US market. The company has enviable brand and category strength, but the shares always carry housing-cycle risk because repair, remodel and new-build activity remain central to demand. Th",
     "file": "jameshardieindustriesplc.html",
     "report_url": "/reports/jameshardieindustriesplc.html",
-    "isin": null,
+    "isin": "US47030M1062",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1847,7 +1847,7 @@
     "summary": "Johnson &amp; Johnson is mid-restructuring post-Kenvue spin-off, repositioning as a pure-play med-tech/pharmaceutical conglomerate; Stelara exclusivity losses are partially offset by a deep pipeline but the valuation is not yet re-rated for pipeline success.",
     "file": "johnsonjohnson.html",
     "report_url": "/reports/johnsonjohnson.html",
-    "isin": null,
+    "isin": "US4781601046",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1864,7 +1864,7 @@
     "summary": "JPMorgan Chase is the highest-quality large-cap US bank, running well ahead on NII guidance while credit costs remain near-cycle lows; the Dimon-succession overhang and tariff-related macro headwinds keep the base case range-bound.",
     "file": "jpmorganchaseco.html",
     "report_url": "/reports/jpmorganchaseco.html",
-    "isin": null,
+    "isin": "US46625H1005",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1881,7 +1881,7 @@
     "summary": "Kongsberg Gruppen ASA (KBGGY) gives investors ADR access to a high-quality Norwegian defence and maritime technology franchise. NATO-led demand remains supportive, but the unsponsored ADR structure and sharp rerating keep the stance at HOLD .",
     "file": "kongsberggruppenunsponsorednorwayadr.html",
     "report_url": "/reports/kongsberggruppenunsponsorednorwayadr.html",
-    "isin": null,
+    "isin": "NO0013536151",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1897,7 +1897,7 @@
     "summary": "Kingspan is a leading insulation and building-envelope company with genuine structural exposure to energy efficiency standards, refurbishment and higher-performance buildings. It is still a cyclical construction supplier, but it participates in one of the better parts of that ecosystem because regul",
     "file": "kingspangroupadr.html",
     "report_url": "/reports/kingspangroupadr.html",
-    "isin": null,
+    "isin": "US4964021087",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1913,7 +1913,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "cocacolaco.html",
     "report_url": "/reports/cocacolaco.html",
-    "isin": null,
+    "isin": "US1912161007",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1930,7 +1930,7 @@
     "summary": "Kroger is a competent, well-run grocery operator with a growing alternative earnings engine (data/loyalty and fuel), but the attempted $24.6 billion Albertsons acquisition has collapsed, leaving the company as a pure-play grocery business with a structurally challenged outlook in a fiercely competit",
     "file": "krogerco.html",
     "report_url": "/reports/krogerco.html",
-    "isin": null,
+    "isin": "US5010441013",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1946,7 +1946,7 @@
     "summary": "Kerry Group has been a deeply disappointing long-term investment - down ~25% over 1 year and ~26% over 5 years, and currently trading ~31% below its 52-week high of EUR 100.50. The stock is sitting just above its 52-week low of EUR 64.35. This is a business in transition: a high-quality global ingre",
     "file": "kerrygroupplc.html",
     "report_url": "/reports/kerrygroupplc.html",
-    "isin": null,
+    "isin": "IE0004906560",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1962,7 +1962,7 @@
     "summary": "Linde is one of the highest-quality industrial gas businesses in the world, and that matters because industrial gases are unusually resilient, sticky and cash generative when managed well. The company benefits from long-term on-site contracts, disciplined pricing and exposure to attractive end marke",
     "file": "lindeplc.html",
     "report_url": "/reports/lindeplc.html",
-    "isin": null,
+    "isin": "IE000S9YS762",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1978,7 +1978,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "elilillyandco.html",
     "report_url": "/reports/elilillyandco.html",
-    "isin": null,
+    "isin": "US5324571083",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -1995,7 +1995,7 @@
     "summary": "Lockheed Martin is a premier defence prime with structural budget support from NATO allies and the AUKUS trilateral; F-35 block buy and classified programme growth underpin visibility, but the valuation leaves little room for programme slips.",
     "file": "lockheedmartincorp.html",
     "report_url": "/reports/lockheedmartincorp.html",
-    "isin": null,
+    "isin": "US5398301094",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2012,7 +2012,7 @@
     "summary": "Landore sits firmly in the small-cap exploration bucket where the asset story can sound better than the equity outcome. At 2.20p, essentially flat near the top of a very low trading range, the company remains a speculative resources punt rather than an investable operating business. With negative ea",
     "file": "landoreresourcesltd.html",
     "report_url": "/reports/landoreresourcesltd.html",
-    "isin": null,
+    "isin": "GG00BMX4VR69",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2028,7 +2028,7 @@
     "summary": "Critical Mineral Resources PLC is a UK AIM micro-cap explorer with no revenue, negative equity, and no JORC-compliant resource. Its only material asset is the Agadir Melloul copper-silver project in Morocco, where drilling is underway ahead of a maiden JORC resource estimate targeted for Q3 2026. Th",
     "file": "cmrs.html",
     "report_url": "/reports/cmrs.html",
-    "isin": null,
+    "isin": "GB00BMDQ4L78",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2044,7 +2044,7 @@
     "summary": "Lowe's is executing a supply-chain and pro-customer transformation under CEO Marvin Ellison's second-term mandate; the housing-affordability macro headwind tempers but does not eliminate the operational upside from share-gain against rival Home Depot.",
     "file": "lowescompaniesinc.html",
     "report_url": "/reports/lowescompaniesinc.html",
-    "isin": null,
+    "isin": "US5486611073",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2061,7 +2061,7 @@
     "summary": "Lam Research is a critical semiconductor capital equipment provider with exceptional exposure to memory (DRAM and NAND) and advanced packaging, but the 54x trailing P/E reflects a memory upcycle that is already well underway, limiting upside at current levels. HOLD is the weighted recommendation wit",
     "file": "lamresearchcorp.html",
     "report_url": "/reports/lamresearchcorp.html",
-    "isin": null,
+    "isin": "US5184391044",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2077,7 +2077,7 @@
     "summary": "Mastercard operates a near-ideal network business: high-skill switching costs, strong take-rate discipline, and exposure to the secular shift from cash to digital payments; valuation is stretched but the quality floor is high.",
     "file": "mastercardinc.html",
     "report_url": "/reports/mastercardinc.html",
-    "isin": null,
+    "isin": "US57636Q1040",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2094,7 +2094,7 @@
     "summary": "McDonald's is navigating a demand reset after its $5 meal deal era exposed margin fragility; digital transformation through loyalty (37M US members) and its Alliance Partner platform is real but faces an increasingly aggressive quick-service competitor set.",
     "file": "mcdonaldscorp.html",
     "report_url": "/reports/mcdonaldscorp.html",
-    "isin": null,
+    "isin": "US5801351017",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2110,7 +2110,7 @@
     "summary": "",
     "file": "mckessoncorp.html",
     "report_url": "/reports/mckessoncorp.html",
-    "isin": null,
+    "isin": "US58155Q1031",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2126,7 +2126,7 @@
     "summary": "MongoDB is one of the most developer-trusted database platforms in the world, built on an open-source model that has successfully transitioned into a cloud-first subscription business. Atlas, its fully managed database-as-a-service product, is the primary growth engine and has become the dominant re",
     "file": "mongodbinc.html",
     "report_url": "/reports/mongodbinc.html",
-    "isin": null,
+    "isin": "US60937P1066",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2142,7 +2142,7 @@
     "summary": "Mondelez benefits from structural pricing power and emerging-market snacking growth, but cocoa headwinds and US macro pressure on consumer staples leave little near-term re-rating potential -- HOLD . HOLD Conviction Score: 66/100 - HOLD",
     "file": "mondelezinternationalinccommonstock.html",
     "report_url": "/reports/mondelezinternationalinccommonstock.html",
-    "isin": null,
+    "isin": "US6092071058",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2159,7 +2159,7 @@
     "summary": "Medtronic's dominant medical device franchise faces a credible recovery path through Hugo surgical robotics, pulse field ablation in cardiac care and an improving diabetes pipeline, but the pace of normalisation does not justify re-rating from current levels -- HOLD . HOLD Conviction Score: 63/100 -",
     "file": "medtronicplc.html",
     "report_url": "/reports/medtronicplc.html",
-    "isin": null,
+    "isin": "IE00BTN1Y115",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2176,7 +2176,7 @@
     "summary": "MetLife is a high-quality life insurance franchise with a diverse global product mix and an attractive dividend yield, but structural headwinds in Japan life insurance and variable annuity markets limit the re-rating potential, and the stock offers a balanced but uninspiring risk-reward at current l",
     "file": "metlifeinc.html",
     "report_url": "/reports/metlifeinc.html",
-    "isin": null,
+    "isin": "US59156R1086",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2192,7 +2192,7 @@
     "summary": "Meta's transformation from a social media company into an AI-first technology platform - with a dominant digital advertising franchise, a rapidly scaling Llama-based open-source ecosystem, and a Reels monetisation cycle that is still in early stages - makes it one of the most compelling large-cap te",
     "file": "metaplatformsinc.html",
     "report_url": "/reports/metaplatformsinc.html",
-    "isin": null,
+    "isin": "US30303M1027",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2209,7 +2209,7 @@
     "summary": "Mkango is a Canadian-listed rare earths and recycling company with two core assets: the Songwe Hill rare earths project in Malawi and the Akokoma magnet recycling joint venture in Poland. The investment thesis rests on the secular demand growth for permanent magnets used in EV motors and wind turbin",
     "file": "mkangoresourcesltd.html",
     "report_url": "/reports/mkangoresourcesltd.html",
-    "isin": null,
+    "isin": "CA60686A4090",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2225,7 +2225,7 @@
     "summary": "3M's diversification across industrial, healthcare and consumer end markets provides residual resilience, but the shares trade near the top of their 52-week range at a P/E of 25x with structural earnings headwinds persisting - HOLD is the weighted recommendation.",
     "file": "3mco.html",
     "report_url": "/reports/3mco.html",
-    "isin": null,
+    "isin": "US88579Y1010",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2242,7 +2242,7 @@
     "summary": "Altria's dominant US tobacco franchise provides exceptional cash generation and a 7%+ dividend yield, but secular cigarette volume decline, regulatory pressure and IQOS IPM litigation uncertainty make meaningful re-rating difficult without clearer portfolio diversification -- HOLD . HOLD Conviction ",
     "file": "altriagroupinc.html",
     "report_url": "/reports/altriagroupinc.html",
-    "isin": null,
+    "isin": "US02209S1033",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2258,7 +2258,7 @@
     "summary": "Marathon Petroleum is the largest US refiner by throughput and a dominant player in Midwest and Gulf Coast refining, generating significant free cash flow at current crude prices - the shares offer a reasonable entry point at 16.9x trailing earnings with a ~2% dividend yield and aggressive buybacks,",
     "file": "marathonpetroleumcorp.html",
     "report_url": "/reports/marathonpetroleumcorp.html",
-    "isin": null,
+    "isin": "US56585A1025",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2274,7 +2274,7 @@
     "summary": "Merck faces a significant Keytruda-exposure overhang as US patent expiry approaches (~2028); the oncology franchise is being actively diversified via pipeline acquisitions, but the market is correctly discounting the long-term IP cliff.",
     "file": "merckcoinc.html",
     "report_url": "/reports/merckcoinc.html",
-    "isin": null,
+    "isin": "US58933Y1055",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2291,7 +2291,7 @@
     "summary": "Morgan Stanley's wealth-management franchise is a structural winner in the long-term wealth creation theme; the acquisition of E*Trade (2020) and investment in Eaton Vance (2021) are maturing into fee streams, but the balance sheet remains rate-sensitive.",
     "file": "morganstanley.html",
     "report_url": "/reports/morganstanley.html",
-    "isin": null,
+    "isin": "US6174464486",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2307,7 +2307,7 @@
     "summary": "Microsoft's Azure AI momentum and Copilot monetisation are real and accelerating, but the shares are at a P/E of 23x - reasonable for this quality of business, but leaving limited margin of safety at 52-week high proximity - HOLD is the appropriate recommendation.",
     "file": "microsoftcorp.html",
     "report_url": "/reports/microsoftcorp.html",
-    "isin": null,
+    "isin": "US5949181045",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2324,7 +2324,7 @@
     "summary": "Micron Technology sits at the intersection of AI memory demand and China reshoring, providing exceptional near-term earnings momentum, but the memory cycle's inherent cyclicality and the P/E de-rating risk from HBM supply normalisation make the risk-reward balanced -- HOLD . HOLD Conviction Score: 6",
     "file": "microntechnologyinc.html",
     "report_url": "/reports/microntechnologyinc.html",
-    "isin": null,
+    "isin": "US5951121038",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2340,7 +2340,7 @@
     "summary": "NextEra Energy is the world's largest renewable-energy generator; the contracted utility backlog and LNG export terminal optionality provide long-duration cashflows, but the recent equity raises to fund growth are dilutive and the valuation is demanding.",
     "file": "nexteraenergyinc.html",
     "report_url": "/reports/nexteraenergyinc.html",
-    "isin": null,
+    "isin": "US65339F1012",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2356,7 +2356,7 @@
     "summary": "Netflix's ad-supported tier and password-sharing crackdown are delivering strong revenue growth and margin expansion, but the stock has already re-rated significantly on these themes and the P/E now prices in considerable execution success -- HOLD . HOLD Conviction Score: 67/100 - HOLD",
     "file": "netflixinc.html",
     "report_url": "/reports/netflixinc.html",
-    "isin": null,
+    "isin": "US64110L1061",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2372,7 +2372,7 @@
     "summary": "NIO is a Chinese premium electric vehicle maker with a battery-as-a-service (BaaS) model and a nationwide swap station network. The investment case rests on NIO's premium brand positioning, its proprietary battery swap technology, and the Chinese EV market's continued growth. The problems are severe",
     "file": "nioincadr.html",
     "report_url": "/reports/nioincadr.html",
-    "isin": null,
+    "isin": "US62914V1061",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2388,7 +2388,7 @@
     "summary": "Nike is in the middle of a critical strategic reset: the DTC-first model over-extended gross margins, and the new CEO's Consumer Offense plan is betting on innovation cycles and a revived wholesale relationships to recover pricing power. The stock is under-loved but the execution risk is substantial",
     "file": "nikeinc.html",
     "report_url": "/reports/nikeinc.html",
-    "isin": null,
+    "isin": "US6541061031",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2405,7 +2405,7 @@
     "summary": "Northrop Grumman is the premier US prime for space systems and nuclear deterrence; B-21 Raider production, the Sentinel ICBM programme, and classified space payloads provide 10+ year revenue visibility at high contract-level clarity.",
     "file": "northropgrummancorp.html",
     "report_url": "/reports/northropgrummancorp.html",
-    "isin": null,
+    "isin": "US6668071029",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2422,7 +2422,7 @@
     "summary": "ServiceNow's AI-powered workflow automation platform is exceptionally well-positioned for enterprise AI adoption, but at the current valuation the market is paying for a very optimistic growth trajectory with little room for near-term disappointment -- HOLD . HOLD Conviction Score: 68/100 - HOLD",
     "file": "servicenowinc.html",
     "report_url": "/reports/servicenowinc.html",
-    "isin": null,
+    "isin": "US81762P1021",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2438,7 +2438,7 @@
     "summary": "NVIDIA sits at the epicentre of the AI infrastructure buildout, commanding an effective monopoly in AI accelerators via its CUDA ecosystem and the Hopper/Blackwell GPU architecture. At $181.46 the shares trade at a 38.5x trailing P/E, a meaningful compression from the 2024 multiple expansion but sti",
     "file": "nvidiacorp.html",
     "report_url": "/reports/nvidiacorp.html",
-    "isin": null,
+    "isin": "US67066G1040",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2455,7 +2455,7 @@
     "summary": "Navitas is a power semiconductor company focused on gallium nitride and silicon carbide technologies, so the story depends on whether next-generation materials win enough sockets in chargers, data centres, solar, storage and EV systems to justify the current strategic excitement. The technology case",
     "file": "navitassemiconductorcorp.html",
     "report_url": "/reports/navitassemiconductorcorp.html",
-    "isin": null,
+    "isin": "US63942X1063",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2471,7 +2471,7 @@
     "summary": "Oklo is one of the cleanest listed ways to express the view that AI-era electricity demand will force the market to take advanced nuclear seriously. The company's appeal is not just \"nuclear\", it is power for compute . That positioning matters because it links Oklo directly to one of the strongest s",
     "file": "okloinc.html",
     "report_url": "/reports/okloinc.html",
-    "isin": null,
+    "isin": "US02156V1098",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2487,7 +2487,7 @@
     "summary": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is enough for a market handle, but not enough to transform it into a high-conviction investment case wit",
     "file": "ondoinsurtechplc.html",
     "report_url": "/reports/ondoinsurtechplc.html",
-    "isin": null,
+    "isin": "GB00BNVVGD77",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2503,7 +2503,7 @@
     "summary": "Oracle is transitioning from a legacy database licensor to a full cloud infrastructure and applications suite, anchored by Cerner health-system integrations and OCI sovereign cloud deployments; the OCI infrastructure for AI workloads is the most underappreciated part of the story.",
     "file": "oraclecorp.html",
     "report_url": "/reports/oraclecorp.html",
-    "isin": null,
+    "isin": "US68389X1054",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2520,7 +2520,7 @@
     "summary": "Panther Metals is firmly in the small-cap exploration camp where upside can be dramatic, but the path is usually through dilution, volatility and a lot of hope. At 80.0p, up on the day with limited volume, this is still a speculative mining punt rather than a business-quality investment.",
     "file": "panthermetalsplc.html",
     "report_url": "/reports/panthermetalsplc.html",
-    "isin": null,
+    "isin": "IM00BRF2WV49",
     "exchange_code": "LN",
     "exchange": "LN",
     "universes": [
@@ -2536,7 +2536,7 @@
     "summary": "Palo Alto Networks is the dominant next-generation firewall vendor making the transition to a comprehensive platform company - SASE, cloud security, AI-powered security operations (XSIAM), and SOC automation. The One Platform strategy is paying off: platform consolidation is driving higher deal size",
     "file": "paloaltonetworksinc.html",
     "report_url": "/reports/paloaltonetworksinc.html",
-    "isin": null,
+    "isin": "US6974351057",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2552,7 +2552,7 @@
     "summary": "PepsiCo is a defensive consumer-staples compounder with exceptional free-cash-flow generation; the valuation is fair given modest growth but the dividend aristocrat status and $7bn annual buyback provide a floor in an uncertain macro environment.",
     "file": "pepsicoinc.html",
     "report_url": "/reports/pepsicoinc.html",
-    "isin": null,
+    "isin": "US7134481081",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2569,7 +2569,7 @@
     "summary": "Pfizer's post-COVID normalisation and patent cliff create a structural earnings headwind that the current valuation of 19.85x P/E does not adequately discount - the balance of risk and reward argues for REDUCE.",
     "file": "pfizerinc.html",
     "report_url": "/reports/pfizerinc.html",
-    "isin": null,
+    "isin": "US7170811035",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2586,7 +2586,7 @@
     "summary": "Procter &amp; Gamble is a high-quality defensive consumer staples franchise with-pricing power and a strong dividend, but premium valuation of 21.51x P/E limits upside and argues for HOLD at current levels.",
     "file": "proctergambleco.html",
     "report_url": "/reports/proctergambleco.html",
-    "isin": null,
+    "isin": "US7427181091",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2603,7 +2603,7 @@
     "summary": "Progressive is an exceptional underwriter with a best-in-class combined ratio and a dominant position in US personal auto insurance, but the stock trades at a stretched 10.1x P/E that appears to price in significant catastrophe losses, and the valuation does not provide sufficient upside to a BUY ra",
     "file": "progressivecorp.html",
     "report_url": "/reports/progressivecorp.html",
-    "isin": null,
+    "isin": "US7433151039",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2619,7 +2619,7 @@
     "summary": "Planet Labs operates the world's largest commercial fleet of Earth observation satellites - over 200 satellites imaging the entire land surface of Earth every single day. This gives the company a unique, high-revisit data advantage that no competitor can easily replicate. At $36.55, the stock is nea",
     "file": "planetlabspbc.html",
     "report_url": "/reports/planetlabspbc.html",
-    "isin": null,
+    "isin": "US72703X1063",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2635,7 +2635,7 @@
     "summary": "Palantir's AI-driven revenue acceleration is real and material, but a 203x trailing P/E leaves virtually no room for slippage - the risk-reward is balanced and HOLD is the weighted recommendation.",
     "file": "palantirtechnologiesinc.html",
     "report_url": "/reports/palantirtechnologiesinc.html",
-    "isin": null,
+    "isin": "US69608A1088",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2651,7 +2651,7 @@
     "summary": "Philip Morris's smoke-free transition is genuinely ahead of schedule, but the shares are fairly valued at 22x P/E and the entry point does not offer the margin of safety needed for a new BUY position - HOLD is the weighted recommendation.",
     "file": "philipmorrisinternationalinc.html",
     "report_url": "/reports/philipmorrisinternationalinc.html",
-    "isin": null,
+    "isin": "US7181721090",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2667,7 +2667,7 @@
     "summary": "Perrigo Company plc is a leading consumer self-care franchise with dominant positions in OTC analgesics, infant formula and dermatology, trading at a historically low valuation after significant operational challenges -- HOLD . HOLD Conviction Score: 61/100 - HOLD",
     "file": "perrigocompanyplc.html",
     "report_url": "/reports/perrigocompanyplc.html",
-    "isin": null,
+    "isin": "IE00BGH1M568",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2683,7 +2683,7 @@
     "summary": "Prothena Corporation plc is a clinical-stage biotech company with a focused but risky pipeline of amyloid-targeting therapies, trading at a below-$1B valuation with limited cash runway and binary read-outs ahead -- REDUCE . REDUCE Conviction Score: 45/100 - REDUCE",
     "file": "prothenacorporationplc.html",
     "report_url": "/reports/prothenacorporationplc.html",
-    "isin": null,
+    "isin": "IE00B91XRN20",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2699,7 +2699,7 @@
     "summary": "Prudential is a well-diversified US life insurance and asset management franchise trading at a modest 9.7x P/E with a 4%+ dividend yield, but structural challenges in its legacy variable annuity book and muted growth outlook keep the conviction score below a BUY - HOLD is appropriate for now.",
     "file": "prudentialfinancialinc.html",
     "report_url": "/reports/prudentialfinancialinc.html",
-    "isin": null,
+    "isin": "US7443201022",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2715,7 +2715,7 @@
     "summary": "Phillips 66 is a high-quality downstream refining and marketing business that has delivered substantial shareholder returns through cycles, but with refining margins moderating from 2022-2023 peaks and the shares re-rated at 14.8x earnings, the bull case is largely played out - HOLD is the appropria",
     "file": "phillips66.html",
     "report_url": "/reports/phillips66.html",
-    "isin": null,
+    "isin": "US7185461040",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2731,7 +2731,7 @@
     "summary": "Prospex is a small-cap European gas story, which means the equity case can work when production and pricing line up, but it remains vulnerable to liquidity, operational and funding shocks. At 3.40p on the latest live pull, the shares still sit firmly in speculative territory. The attraction is obvio",
     "file": "prospexenergyplc.html",
     "report_url": "/reports/prospexenergyplc.html",
-    "isin": null,
+    "isin": "GB00BMFZVZ53",
     "exchange_code": "LN",
     "exchange": "LN",
     "universes": [
@@ -2747,7 +2747,7 @@
     "summary": "D-Wave is one of the few listed pure-play quantum names with real commercial customers, but it still trades more on narrative than fundamentals. At $14.56 and a ~$5.4bn market cap, the stock is pricing in a lot of future success today.",
     "file": "dwavequantuminc.html",
     "report_url": "/reports/dwavequantuminc.html",
-    "isin": null,
+    "isin": "US26740W1099",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2763,7 +2763,7 @@
     "summary": "Qualcomm's dominance in wireless semiconductors and the AI-driven upgrade cycle in smartphones provide a solid foundation, but the licensing (QTL) business remains structurally challenged and the valuation at 26.45x P/E is reasonable rather than compelling - HOLD.",
     "file": "qualcomminc.html",
     "report_url": "/reports/qualcomminc.html",
-    "isin": null,
+    "isin": "US7475251036",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2780,7 +2780,7 @@
     "summary": "Quadrise has spent years living in the zone where commercial promise exists, but full validation remains just over the horizon. At 2.70p, up on the day and trading on strong volume, the market is still willing to speculate on the fuel technology and licensing story. That does not make it de-risked.",
     "file": "quadriseplc.html",
     "report_url": "/reports/quadriseplc.html",
-    "isin": null,
+    "isin": "GB00B11DDB67",
     "exchange_code": "LN",
     "exchange": "LN",
     "universes": [
@@ -2796,7 +2796,7 @@
     "summary": "Rigetti is another listed quantum name trading on future possibility rather than current economics. At $14.36 with a market cap near $4.6B and negative EPS, the valuation still reflects thematic enthusiasm more than operating proof.",
     "file": "rigetticomputinginc.html",
     "report_url": "/reports/rigetticomputinginc.html",
-    "isin": null,
+    "isin": "US76655K1034",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2812,7 +2812,7 @@
     "summary": "Raytheon's successor entity benefits from substantial defence spending tailwinds and Pratt &amp; Whitney's commercial aviation recovery, but the AGT1000 turbine defect issue and elevated P/E of 40.61x create a more nuanced risk-reward profile - HOLD.",
     "file": "rtxcorp.html",
     "report_url": "/reports/rtxcorp.html",
-    "isin": null,
+    "isin": "US75513E1010",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2829,7 +2829,7 @@
     "summary": "Ocean Power Technologies is a pre-revenue marine energy and autonomy company that has just started converting a record backlog into delivery. The stock has been obliterated - down ~61% from its 52-week high of EUR 0.769 to EUR 0.2976 - largely on cash burn fears and liquidity concerns. That selloff ",
     "file": "oceanpowertechnologiesinc.html",
     "report_url": "/reports/oceanpowertechnologiesinc.html",
-    "isin": null,
+    "isin": "US6748705067",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2845,7 +2845,7 @@
     "summary": "Ryanair is Europe's dominant low-cost carrier with a structural cost advantage versus legacy peers, trading at a modest P/E despite a compelling capacity growth runway and strong pricing environment -- BUY . BUY Conviction Score: 80/100 - BUY",
     "file": "ryanairholdingsplc.html",
     "report_url": "/reports/ryanairholdingsplc.html",
-    "isin": null,
+    "isin": "US7835132033",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2861,7 +2861,7 @@
     "summary": "Starbucks faces a combination of menu pricing pressure, traffic recovery challenges and operational reset costs that make the P/E of 80.47x on EPS of $1.20 structurally difficult to justify - REDUCE.",
     "file": "starbuckscorp.html",
     "report_url": "/reports/starbuckscorp.html",
-    "isin": null,
+    "isin": "US8552441094",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2878,7 +2878,7 @@
     "summary": "Charles Schwab is structurally well-positioned in wealth management with the TD Ameritrade integration delivering tangible cost synergies, but a normalisation of net interest margin and slower-than-expected transactional revenue growth cap the upside - HOLD is the weighted recommendation.",
     "file": "charlesschwabcorporationcommonstock.html",
     "report_url": "/reports/charlesschwabcorporationcommonstock.html",
-    "isin": null,
+    "isin": "US8085131055",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2894,7 +2894,7 @@
     "summary": "Shopify is the dominant e-commerce platform for small and medium-sized businesses in North America, providing a complete ecosystem of tools - online stores, payments, fulfilment, and marketing - that allows merchants to sell anywhere their customers are. At $120.10, the stock is down 34% from its 52",
     "file": "shopifyinc.html",
     "report_url": "/reports/shopifyinc.html",
-    "isin": null,
+    "isin": "CA82509L1076",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2910,7 +2910,7 @@
     "summary": "Brera is a micro-cap multi-club football ownership story. That makes it speculative by default because valuation depends on asset quality, league outcomes, financing and the companys ability to create real economic value from sports ownership rather than just narrative appeal. Investors should treat",
     "file": "breraholdingsplc.html",
     "report_url": "/reports/breraholdingsplc.html",
-    "isin": null,
+    "isin": "IE0004OVVKF1",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2926,7 +2926,7 @@
     "summary": "NuScale is one of the most recognisable listed names in advanced nuclear because it carries a real regulatory credential, the first U.S. NRC-approved SMR design. That matters. It gives the company a level of technical and policy credibility many earlier-stage peers do not have.",
     "file": "nuscalepowercorp.html",
     "report_url": "/reports/nuscalepowercorp.html",
-    "isin": null,
+    "isin": "US67079K1007",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2942,7 +2942,7 @@
     "summary": "Stonex is a high-quality, diversified commodities financial services firm that has built a genuine market-making franchise across agricultural, energy, and metals markets - the shares have consolidated from a 52-week high and trade at 20.8x earnings for a business with strong earnings momentum, maki",
     "file": "stonexgroupinc.html",
     "report_url": "/reports/stonexgroupinc.html",
-    "isin": null,
+    "isin": "US8618961085",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2958,7 +2958,7 @@
     "summary": "Southern Company operates a best-in-class regulated utility franchise with visible rate base growth and a constructive regulatory environment in its core Georgia jurisdiction, but the shares trade at a premium P/E for a low-growth business - HOLD is the weighted recommendation.",
     "file": "southernco.html",
     "report_url": "/reports/southernco.html",
-    "isin": null,
+    "isin": "AU0000XVGZA3",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2974,7 +2974,7 @@
     "summary": "Simon Property Group is a high-quality mall REIT with strong free cash flow generation and an active redevelopment programme, but the structural headwinds facing US mall retail - e-commerce penetration, retail bankruptcy cycles and cyclical consumer cautiousness - make the risk-reward unfavourable a",
     "file": "simonpropertygroupinc.html",
     "report_url": "/reports/simonpropertygroupinc.html",
-    "isin": null,
+    "isin": "US8288061091",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -2990,7 +2990,7 @@
     "summary": "Spire is one of the more interesting smaller-cap space data names because it sells data and analytics rather than relying entirely on long-dated hardware optionality. The proposition, satellite-derived weather, maritime and aviation data, is commercially understandable. At $20.36, however, the stock",
     "file": "spireglobalinc.html",
     "report_url": "/reports/spireglobalinc.html",
-    "isin": null,
+    "isin": "US8485603067",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3006,7 +3006,7 @@
     "summary": "STERIS is a high-quality healthcare services and equipment company with a strong position in sterilisation, infection prevention and surgical support. The business benefits from recurring demand, regulatory importance and a mission-critical role in healthcare workflows. It is not the sort of company",
     "file": "sterisplc.html",
     "report_url": "/reports/sterisplc.html",
-    "isin": null,
+    "isin": "IE00BFY8C754",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3022,7 +3022,7 @@
     "summary": "Seagate Technology is a leveraged play on AI-driven data storage demand with a dominant position in HDD for hyperscale data centres, trading at a historically low valuation despite a genuine near-term capacity expansion cycle -- BUY . BUY Conviction Score: 80/100 - BUY",
     "file": "seagatetechnologyholdingsplc.html",
     "report_url": "/reports/seagatetechnologyholdingsplc.html",
-    "isin": null,
+    "isin": "IE00BKVD2N49",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3038,7 +3038,7 @@
     "summary": "Smurfit Westrock is a large paper and packaging combination whose appeal rests on scale, geographic breadth and the possibility of extracting meaningful synergies from the merger. Packaging can be a decent business when supply is rational and value-added customer relationships are strong, but it is ",
     "file": "smurfitwestrockplc.html",
     "report_url": "/reports/smurfitwestrockplc.html",
-    "isin": null,
+    "isin": "IE00BFY0GT14",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3054,7 +3054,7 @@
     "summary": "Sysco is the dominant global food service distributor with a defensive, recession-resistant revenue base and a solid balance sheet, but the stock trades near the top of its 52-week range and the margin improvement story has not yet translated into meaningful earnings momentum - HOLD is appropriate h",
     "file": "syscocorp.html",
     "report_url": "/reports/syscocorp.html",
-    "isin": null,
+    "isin": "US8718291078",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3070,7 +3070,7 @@
     "summary": "AT&amp;T is a recovering telecom blue chip that has completed its structural reset - the WarnerMedia spin, aggressive network expansion, and dividend reduction have cleared the path to free cash flow growth - and at 8.67x earnings with a 6%+ dividend yield and a credible fibre monetisation story, th",
     "file": "attinc.html",
     "report_url": "/reports/attinc.html",
-    "isin": null,
+    "isin": "US00206R1023",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3087,7 +3087,7 @@
     "summary": "Teledyne is a diversified industrial technology conglomerate operating across four segments: Defence Electronics (aerospace and defence electronics), Imaging (sensors, cameras, and image processing), Instrumentation (environmental monitoring, test and measurement), and Aerospace (engine components a",
     "file": "teledynetechnologiesinc.html",
     "report_url": "/reports/teledynetechnologiesinc.html",
-    "isin": null,
+    "isin": "US8793601050",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3103,7 +3103,7 @@
     "summary": "Target's omni-channel retail model and owned-brand portfolio are genuine strengths, and the 14.99x P/E is modest relative to normalised earnings, but the company has struggled with inventory management and consumer spending sensitivity - HOLD.",
     "file": "targetcorp.html",
     "report_url": "/reports/targetcorp.html",
-    "isin": null,
+    "isin": "US87612E1064",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3120,7 +3120,7 @@
     "summary": "TJX is a high-quality off-price retail business with durable competitive advantages in buyer sourcing and inventory management, trading near the top of its historical valuation range and facing a moderately uncertain consumer backdrop, leaving it fairly valued at current levels and warranting a HOLD",
     "file": "tjxcompaniesinc.html",
     "report_url": "/reports/tjxcompaniesinc.html",
-    "isin": null,
+    "isin": "US8725401090",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3136,7 +3136,7 @@
     "summary": "Thermo Fisher is a best-in-class life sciences tools company with leading positions in analytical instruments, bioprocessing and clinical diagnostics, but the elevated P/E of 27.97x in a post-pandemic normalised environment argues for HOLD.",
     "file": "thermofisherscientificinc.html",
     "report_url": "/reports/thermofisherscientificinc.html",
-    "isin": null,
+    "isin": "US8835561023",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3153,7 +3153,7 @@
     "summary": "T-Mobile has the most compelling combination of postpaid subscriber growth, free cash flow generation and 5G monetisation optionality among US telecoms, and the shares are undervalued relative to peers at 20x forward P/E - BUY is the weighted recommendation.",
     "file": "tmobileusinc.html",
     "report_url": "/reports/tmobileusinc.html",
-    "isin": null,
+    "isin": "US8725901040",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3169,7 +3169,7 @@
     "summary": "TomCo is deep in the category of AIM micro-cap optionality where the listed equity often behaves more like a perpetual financing stub than an ownership stake in a developing business. At 0.0330p, with a live range of 0.0310p to 0.0332p, the market is effectively telling you the equity has very littl",
     "file": "tomcoenergyplc.html",
     "report_url": "/reports/tomcoenergyplc.html",
-    "isin": null,
+    "isin": "IM00BZBXMN96",
     "exchange_code": "LN",
     "exchange": "LN",
     "universes": [
@@ -3185,7 +3185,7 @@
     "summary": "Trinity Biotech is a small diagnostics company where the investment case is dominated by turnaround execution, capital needs and whether any product platform can regain strategic relevance. Diagnostics can be attractive when a company has scale, installed base and dependable consumables. Trinity doe",
     "file": "trinitybiotechplc.html",
     "report_url": "/reports/trinitybiotechplc.html",
-    "isin": null,
+    "isin": "US8964383066",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3201,7 +3201,7 @@
     "summary": "Tesla retains the EV market leadership position with the most extensive charging infrastructure, manufacturing scale advantage and AI compute assets, but a 326x trailing P/E and current price at $349 prices in a best-case scenario that leaves no room for execution miscues - HOLD is the weighted reco",
     "file": "teslainc.html",
     "report_url": "/reports/teslainc.html",
-    "isin": null,
+    "isin": "US88160R1014",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3218,7 +3218,7 @@
     "summary": "Trane Technologies is a high-quality industrial compounder with dominant positions in HVAC and cold-chain equipment, delivering consistent mid-teens earnings growth backed by structural demand drivers -- BUY . BUY Conviction Score: 82/100 - BUY",
     "file": "tranetechnologiesplc.html",
     "report_url": "/reports/tranetechnologiesplc.html",
-    "isin": null,
+    "isin": "TW0001101004",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3234,7 +3234,7 @@
     "summary": "Texas Instruments is a high-quality analog and embedded semiconductor company with strong free cash flow generation, pricing power derived from its catalog-based model and a long runway of industrial and automotive content growth - but the current P/E of 39x is not sufficiently discounted for a cycl",
     "file": "texasinstrumentsinc.html",
     "report_url": "/reports/texasinstrumentsinc.html",
-    "isin": null,
+    "isin": "US8825081040",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3250,7 +3250,7 @@
     "summary": "United Airlines is a high-quality global network carrier with a compelling international growth trajectory and a P/E under 10x that significantly undervalues its earnings power and asset base, and is rated HOLD.",
     "file": "unitedairlinesholdingsinc.html",
     "report_url": "/reports/unitedairlinesholdingsinc.html",
-    "isin": null,
+    "isin": "US9100471096",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3266,7 +3266,7 @@
     "summary": "Uber has achieved the rare combination of profitable growth, positive free cash flow and multiple secular growth drivers - ride-sharing recovery post-COVID, food delivery market leadership, and autonomous vehicle cost deflation - and the shares are undervalued relative to the quality of the franchis",
     "file": "ubertechnologiesinc.html",
     "report_url": "/reports/ubertechnologiesinc.html",
-    "isin": null,
+    "isin": "US90353T1007",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3282,7 +3282,7 @@
     "summary": "UnitedHealth is the dominant US managed care organisation with Optum's integrated care platform adding a distinctive strategic dimension, but political and regulatory risk around healthcare reform has increased and the P/E of 23.0x warrants a more selective stance - HOLD.",
     "file": "unitedhealthgroupinc.html",
     "report_url": "/reports/unitedhealthgroupinc.html",
-    "isin": null,
+    "isin": "US91324P1021",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3299,7 +3299,7 @@
     "summary": "Union Pacific is the premier US rail franchise with a high-quality asset base, best-in-class operating ratio, significant pricing power and genuine exposure to US manufacturing reshoring and energy transition infrastructure buildout - the shares offer a rare combination of quality and reasonable val",
     "file": "unionpacificcorp.html",
     "report_url": "/reports/unionpacificcorp.html",
-    "isin": null,
+    "isin": "US9078181081",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3315,7 +3315,7 @@
     "summary": "UPS is the world's largest parcel delivery company with an unrivalled integrated global network, but the cyclical softness in US domestic package volumes and the elevated capital requirements of the US Forward and My Choice expansion programme create a mixed near-term outlook - HOLD.",
     "file": "unitedparcelserviceinc.html",
     "report_url": "/reports/unitedparcelserviceinc.html",
-    "isin": null,
+    "isin": "US9113121068",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3332,7 +3332,7 @@
     "summary": "US Bancorp is a high-quality regional banking franchise with strong deposit market share in the Midwest and West Coast, conservative underwriting standards and a meaningful exposure to net interest income in a higher-for-longer rate environment - but the shares offer limited upside and some executio",
     "file": "usbancorp.html",
     "report_url": "/reports/usbancorp.html",
-    "isin": null,
+    "isin": "US9029733048",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3348,7 +3348,7 @@
     "summary": "Visa is the pre-eminent global payments network with an exceptional economic moat - unrivaled acceptance network, dominant debit position and sticky B2B payment flows - and the shares at 28.57x P/E are reasonably valued for a compound of this quality - HOLD.",
     "file": "visainc.html",
     "report_url": "/reports/visainc.html",
-    "isin": null,
+    "isin": "US92826C8394",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3365,7 +3365,7 @@
     "summary": "VEQT is a passive, all-equity index fund-of-funds ETF that holds a diversified portfolio of Vanguard's underlying regional equity ETFs - covering Canada, the US, Europe, Asia, and emerging markets. It offers 100% equity exposure with 13,000+ stocks globally, at a confirmed 0.00% management expense r",
     "file": "vanguardallequityetfportfolio.html",
     "report_url": "/reports/vanguardallequityetfportfolio.html",
-    "isin": null,
+    "isin": "CA92201C1077",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3381,7 +3381,7 @@
     "summary": "Valero is a high-quality, geographically advantaged Gulf Coast refiner that has delivered strong shareholder returns, but at 31.5x trailing earnings the market is pricing in a much better refining environment than currently exists - the risk-reward does not justify new capital at this level, and RED",
     "file": "valeroenergycorp.html",
     "report_url": "/reports/valeroenergycorp.html",
-    "isin": null,
+    "isin": "US91913Y1001",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3397,7 +3397,7 @@
     "summary": "Verizon's network quality leadership in 5G is genuine, but the debtladen balance sheet, persistent post-paid phone ARPU decline and limited earnings growth visibility make the 11.34x P/E a value trap rather than an opportunity - REDUCE.",
     "file": "verizoncommunicationsinc.html",
     "report_url": "/reports/verizoncommunicationsinc.html",
-    "isin": null,
+    "isin": "US92343V1044",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3414,7 +3414,7 @@
     "summary": "Walgreens Boots Alliance is navigating a structural crisis in US retail pharmacy - occupancy pressure, pharmacy margin compression and failed international diversification - with no clear path to earnings recovery visible at current levels. The shares have declined materially and the risk-reward rem",
     "file": "walgreenbootsallianceordshs.html",
     "report_url": "/reports/walgreenbootsallianceordshs.html",
-    "isin": null,
+    "isin": "US9314271084",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3431,7 +3431,7 @@
     "summary": "Wells Fargo is a high-quality US bank benefiting from an improving net interest margin outlook and the gradual removal of asset cap restrictions, but the 13.65x P/E reflects most of the known positives and limited upside remains - HOLD.",
     "file": "wellsfargoco.html",
     "report_url": "/reports/wellsfargoco.html",
-    "isin": null,
+    "isin": "US9497461015",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3448,7 +3448,7 @@
     "summary": "",
     "file": "walmartinc.html",
     "report_url": "/reports/walmartinc.html",
-    "isin": null,
+    "isin": "US9311421039",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3465,7 +3465,7 @@
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "file": "exxonmobilcorp.html",
     "report_url": "/reports/exxonmobilcorp.html",
-    "isin": null,
+    "isin": "US30231G1022",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3482,7 +3482,7 @@
     "summary": "XPeng is a Chinese EV maker with credible software and autonomous driving capability, but it remains trapped in a brutal domestic EV price war. At $17.80, with a ~$16.5bn market cap, the stock sits closer to the bottom of its 52-week range than the top. The core debate is simple: can XPeng translate",
     "file": "xpengincadr.html",
     "report_url": "/reports/xpengincadr.html",
-    "isin": null,
+    "isin": "US98422D1054",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3498,7 +3498,7 @@
     "summary": "Zephyr is another small-cap energy name where project execution matters far more than the broad commodity narrative. At 3.45p, off the session high and on healthy volume, the shares still screen as speculative rather than investable in the conventional sense. There is enough asset-level upside to ke",
     "file": "zephyrenergyplc.html",
     "report_url": "/reports/zephyrenergyplc.html",
-    "isin": null,
+    "isin": "GB00BF44KY60",
     "exchange_code": "LN",
     "exchange": "LN",
     "universes": [
@@ -3514,7 +3514,7 @@
     "summary": "Zymeworks is a clinical-stage oncology name with a real scientific platform and the usual biotech caveat: nothing matters more than data. At $26.70, with a market cap around $1.94B and still loss-making, the stock sits in the familiar zone where platform promise is investable only if you accept bina",
     "file": "zymeworksinc.html",
     "report_url": "/reports/zymeworksinc.html",
-    "isin": null,
+    "isin": "US98985Y1082",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3563,7 +3563,7 @@
     "summary": "Manchester United is one of the world's most valuable sports brands, undergoing an INEOS-led rebuild. The stock trades below its 52-week high but above its 52-week low, reflecting uncertainty around the on-pitch rebuild under Ruben Amorim and the structural headwind of no Champions League football in 2024-25.",
     "file": "manchesterunitedplc.html",
     "report_url": "/reports/manchesterunitedplc.html",
-    "isin": null,
+    "isin": "KYG5784H1065",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3579,7 +3579,7 @@
     "summary": "Cloudflare is a global cloud infrastructure and security company with a differentiated anycast network spanning 300+ data centres. The stock has recovered from 100 to 178 but remains 31% below its 52-week high of 260. Near-free cash flow positive and growing 25-30% annually.",
     "file": "cloudflareinc.html",
     "report_url": "/reports/cloudflareinc.html",
-    "isin": null,
+    "isin": "GB0006277027",
     "exchange_code": null,
     "exchange": null,
     "universes": [
@@ -3597,7 +3597,8 @@
     "report_url": "/reports/abdynamicsplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B9730X38"
   },
   {
     "ticker": "LON:ACSO",
@@ -3610,7 +3611,8 @@
     "report_url": "/reports/accessotechnologygroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0001584001"
   },
   {
     "ticker": "LON:AOM",
@@ -3623,7 +3625,8 @@
     "report_url": "/reports/activeopsplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BN7DR712"
   },
   {
     "ticker": "LON:AMS",
@@ -3636,7 +3639,8 @@
     "report_url": "/reports/advancedmedicalsolutionsgroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0000290642"
   },
   {
     "ticker": "LON:ADVT",
@@ -3649,7 +3653,8 @@
     "report_url": "/reports/advancedadvtltd.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "VGG0103G1028"
   },
   {
     "ticker": "LON:AMRQ",
@@ -3662,7 +3667,8 @@
     "report_url": "/reports/amaroqordshs.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "CA02305R1001"
   },
   {
     "ticker": "LON:AIBG",
@@ -3675,7 +3681,8 @@
     "report_url": "/reports/aibgroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "IE00BF0L3536"
   },
   {
     "ticker": "LON:AAZ",
@@ -3688,7 +3695,8 @@
     "report_url": "/reports/angloasianminingplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B09L0P63"
   },
   {
     "ticker": "LON:ANCR",
@@ -3701,7 +3709,8 @@
     "report_url": "/reports/animalcaregroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0000380369"
   },
   {
     "ticker": "LON:ARBB",
@@ -3714,7 +3723,8 @@
     "report_url": "/reports/arbuthnotbankinggroupordshs.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BJQG9042"
   },
   {
     "ticker": "LON:AVG",
@@ -3727,7 +3737,8 @@
     "report_url": "/reports/avingtransplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0006780301"
   },
   {
     "ticker": "LON:BKS",
@@ -3740,7 +3751,8 @@
     "report_url": "/reports/eeksfinancialcloudgroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BZ0X9T15"
   },
   {
     "ticker": "LON:BPM",
@@ -3753,7 +3765,8 @@
     "report_url": "/reports/bpmarshpartnersplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B13S3X24"
   },
   {
     "ticker": "LON:BOKU",
@@ -3766,7 +3779,8 @@
     "report_url": "/reports/bokuinc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "US0974811016"
   },
   {
     "ticker": "LON:BVXP",
@@ -3779,7 +3793,8 @@
     "report_url": "/reports/bioventixplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B9G7S651"
   },
   {
     "ticker": "LON:BUR",
@@ -3792,7 +3807,8 @@
     "report_url": "/reports/burfordcapitalimited.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GG00B4L84979"
   },
   {
     "ticker": "LON:BRCK",
@@ -3805,7 +3821,8 @@
     "report_url": "/reports/brckgroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BK196024"
   },
   {
     "ticker": "LON:CMCL",
@@ -3818,7 +3835,8 @@
     "report_url": "/reports/caledoniaminingcorporationplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "JE00BF0XVB15"
   },
   {
     "ticker": "LON:CAML",
@@ -3831,7 +3849,8 @@
     "report_url": "/reports/centralasiametalsplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B5M7S709"
   },
   {
     "ticker": "LON:CHRT",
@@ -3844,7 +3863,8 @@
     "report_url": "/reports/cohortplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B09L6660"
   },
   {
     "ticker": "LON:CRW",
@@ -3857,7 +3877,8 @@
     "report_url": "/reports/cranewareplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B1Y76Z14"
   },
   {
     "ticker": "LON:DOTD",
@@ -3870,7 +3891,8 @@
     "report_url": "/reports/dotdigitalgroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B3W7BD22"
   },
   {
     "ticker": "LON:EVPL",
@@ -3883,7 +3905,8 @@
     "report_url": "/reports/everplaygroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BM9D8S55"
   },
   {
     "ticker": "LON:CER",
@@ -3896,7 +3919,8 @@
     "report_url": "/reports/cerillionplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BYW08C11"
   },
   {
     "ticker": "LON:CVSG",
@@ -3909,7 +3933,8 @@
     "report_url": "/reports/cvsgroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B277V327"
   },
   {
     "ticker": "LON:FARN",
@@ -3922,7 +3947,8 @@
     "report_url": "/reports/faronpharmaceuticalsoy.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "FI4000153309"
   },
   {
     "ticker": "LON:FEVR",
@@ -3935,7 +3961,8 @@
     "report_url": "/reports/fevertreedrinksplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BRJ9BJ26"
   },
   {
     "ticker": "LON:FNTL",
@@ -3948,7 +3975,8 @@
     "report_url": "/reports/fintelplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BG6L0J43"
   },
   {
     "ticker": "LON:FRP",
@@ -3961,7 +3989,8 @@
     "report_url": "/reports/frpadvisorygroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BMT96871"
   },
   {
     "ticker": "LON:GTLY",
@@ -3974,7 +4003,8 @@
     "report_url": "/reports/gateleyholdingsplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BWSW0D31"
   },
   {
     "ticker": "LON:TFW",
@@ -3987,7 +4017,8 @@
     "report_url": "/reports/fwthorpeplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0008854357"
   },
   {
     "ticker": "LON:GBG",
@@ -4000,7 +4031,8 @@
     "report_url": "/reports/gbgroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0003664058"
   },
   {
     "ticker": "LON:GRP",
@@ -4013,7 +4045,8 @@
     "report_url": "/reports/greencoatrenewablesplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "IE00BF0L3536"
   },
   {
     "ticker": "LON:HSP",
@@ -4026,7 +4059,8 @@
     "report_url": "/reports/hargreavesservicesplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B1678120"
   },
   {
     "ticker": "LON:GFM",
@@ -4039,7 +4073,8 @@
     "report_url": "/reports/griffinminingltd.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "BMG4162G1155"
   },
   {
     "ticker": "LON:HCM",
@@ -4052,7 +4087,8 @@
     "report_url": "/reports/hutchmedchinaltd.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "KYG4672N1010"
   },
   {
     "ticker": "LON:HUW",
@@ -4065,7 +4101,8 @@
     "report_url": "/reports/heliosunderwritingplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B9698940"
   },
   {
     "ticker": "LON:ITM",
@@ -4078,7 +4115,8 @@
     "report_url": "/reports/itmpowerplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B0130H42"
   },
   {
     "ticker": "LON:IDOX",
@@ -4091,7 +4129,8 @@
     "report_url": "/reports/idoxplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0005581643"
   },
   {
     "ticker": "LON:LTHM",
@@ -4104,7 +4143,8 @@
     "report_url": "/reports/jameshalsteadplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0005080083"
   },
   {
     "ticker": "LON:JET2",
@@ -4117,7 +4157,8 @@
     "report_url": "/reports/jet2plc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B1173858"
   },
   {
     "ticker": "LON:JDG",
@@ -4130,7 +4171,8 @@
     "report_url": "/reports/judgesscientificplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B0G6S875"
   },
   {
     "ticker": "LON:LBG",
@@ -4143,7 +4185,8 @@
     "report_url": "/reports/lbgmediaplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BNG70V26"
   },
   {
     "ticker": "LON:MPE",
@@ -4156,7 +4199,8 @@
     "report_url": "/reports/mpevansgroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0003185344"
   },
   {
     "ticker": "LON:SAA",
@@ -4169,7 +4213,8 @@
     "report_url": "/reports/mcsaatchiplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B1138Y68"
   },
   {
     "ticker": "LON:MIDW",
@@ -4182,7 +4227,8 @@
     "report_url": "/reports/midwichgroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BZC0LM79"
   },
   {
     "ticker": "LON:MTL",
@@ -4195,7 +4241,8 @@
     "report_url": "/reports/metalsexplorationplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B0767905"
   },
   {
     "ticker": "LON:MSI",
@@ -4208,7 +4255,8 @@
     "report_url": "/reports/msinternationalplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0006030996"
   },
   {
     "ticker": "LON:NIOX",
@@ -4221,7 +4269,8 @@
     "report_url": "/reports/nioxgroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BKV3FH31"
   },
   {
     "ticker": "LON:PAF",
@@ -4234,7 +4283,8 @@
     "report_url": "/reports/panafricanresourcesplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0004300496"
   },
   {
     "ticker": "LON:POLR",
@@ -4247,7 +4297,8 @@
     "report_url": "/reports/pensioneeroydsinvestmenttrust.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B1G4B966"
   },
   {
     "ticker": "LON:MAB1",
@@ -4260,7 +4311,8 @@
     "report_url": "/reports/mortgageadvicebureauholdingsplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BQSZYS78"
   },
   {
     "ticker": "LON:RNO",
@@ -4273,7 +4325,8 @@
     "report_url": "/reports/rhiofficegroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB0007323586"
   },
   {
     "ticker": "LON:SMS",
@@ -4286,7 +4339,8 @@
     "report_url": "/reports/smartmeteringsystemsplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00B4X1S107"
   },
   {
     "ticker": "LON:TPFG",
@@ -4299,7 +4353,8 @@
     "report_url": "/reports/thepebblegroupplc.html",
     "universes": [
       "watchlist"
-    ]
+    ],
+    "isin": "GB00BHD69Q04"
   },
   {
     "ticker": "LON:TBN",
@@ -4310,6 +4365,566 @@
     "summary": "Tamboran Resources is an early-stage Australian LNG explorer in Beetaloo Basin. SPECULATIVE BUY at 11 GBX, conviction 42.",
     "file": "tamboranresourcescorp.html",
     "report_url": "/reports/tamboranresourcescorp.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "NYSE:BWXT",
+    "company": "BWX Technologies Inc",
+    "recommendation": "BUY",
+    "conviction": 76,
+    "date": "2026-04-15",
+    "summary": "BWX Technologies is a US nuclear weapons components and medical devices company. BUY at .33, conviction 76.",
+    "file": "bwxtechnologiesinc.html",
+    "report_url": "/reports/bwxtechnologiesinc.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "US05605H1005"
+  },
+  {
+    "ticker": "NYSE:CVX",
+    "company": "Chevron Corp",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "Chevron is a major integrated energy company. HOLD at .02, conviction 62.",
+    "file": "chevroncorp.html",
+    "report_url": "/reports/chevroncorp.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "US1667641005"
+  },
+  {
+    "ticker": "LON:DCC",
+    "company": "DCC plc",
+    "recommendation": "HOLD",
+    "conviction": 60,
+    "date": "2026-04-15",
+    "summary": "DCC is a UK-listed international sales, marketing and distribution group. HOLD at 5105 GBX, conviction 60.",
+    "file": "dccplc.html",
+    "report_url": "/reports/dccplc.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "IE0002424939"
+  },
+  {
+    "ticker": "LON:ALK",
+    "company": "Alkemy Capital Investments PLC",
+    "recommendation": "SPECULATIVE HOLD",
+    "conviction": 48,
+    "date": "2026-04-15",
+    "summary": "Alkemy Capital is an early-stage critical minerals investment vehicle. Speculative HOLD at 316 GBX, conviction 48.",
+    "file": "alkemycapitalinvestmentsplc.html",
+    "report_url": "/reports/alkemycapitalinvestmentsplc.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "GB00BMD6C023"
+  },
+  {
+    "ticker": "LON:AVCT",
+    "company": "Avacta Group Plc",
+    "recommendation": "BUY",
+    "conviction": 68,
+    "date": "2026-04-14",
+    "summary": "Avacta Group is a UK biotech with pre|CISION platform and faridoxorubicin Ph1 data due H1 2026. BUY at 75.20 GBX, conviction 68. AACR catalyst 17-22 April.",
+    "file": "avactagroupplc.html",
+    "report_url": "/reports/avactagroupplc.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "GB00BYYW9G87"
+  },
+  {
+    "ticker": "NYSE:KO",
+    "company": "Coca-Cola Co",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "Coca-Cola is a global beverages giant. HOLD at .29, conviction 62.",
+    "file": "cocacolaco.html",
+    "report_url": "/reports/cocacolaco.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "US1912161007"
+  },
+  {
+    "ticker": "NASDAQ:BOO",
+    "company": "Bloomin' Brands Inc",
+    "recommendation": "HOLD",
+    "conviction": 49,
+    "date": "2026-04-15",
+    "summary": "Bloomin' Brands is a US casual dining restaurant operator (Outback, Carrabba's, Bonefish, Fleming's). HOLD at .39, conviction 49.",
+    "file": "bloominbrandsinc.html",
+    "report_url": "/reports/bloominbrandsinc.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "JE00BG6L7297"
+  },
+  {
+    "ticker": "NYSE:FTC",
+    "company": "First Trust Large Cap Growth AlphaDEX Fund",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "First Trust Large Cap Growth AlphaDEX Fund is an active ETF. HOLD at .09, conviction 58.",
+    "file": "firsttrustlargecapgrowthalphadexfund.html",
+    "report_url": "/reports/firsttrustlargecapgrowthalphadexfund.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "GB0003422267"
+  },
+  {
+    "ticker": "TSXV:GLB",
+    "company": "Goldbank Mining Corp",
+    "recommendation": "HOLD",
+    "conviction": 35,
+    "date": "2026-04-15",
+    "summary": "Goldbank Mining is an early-stage gold explorer. HOLD at CAD 0.34, conviction 35.",
+    "file": "goldbankminingcorp.html",
+    "report_url": "/reports/goldbankminingcorp.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "CA38076A2056"
+  },
+  {
+    "ticker": "FRA:J9J",
+    "company": "Hamak Strategy Ltd",
+    "recommendation": "HOLD",
+    "conviction": 42,
+    "date": "2026-04-15",
+    "summary": "Hamak Strategy Ltd is a micro-cap FRA-listed strategic commodities play. HOLD at EUR 0.80, conviction 42.",
+    "file": "hamakstrategyltd.html",
+    "report_url": "/reports/hamakstrategyltd.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "VGG4256S1048"
+  },
+  {
+    "ticker": "NSE:INDIGO",
+    "company": "Interglobe Aviation Ltd",
+    "recommendation": "HOLD",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Interglobe Aviation (IndiGo) is India's largest airline. HOLD at INR 4620, conviction 72.",
+    "file": "interglobeaviationltd.html",
+    "report_url": "/reports/interglobeaviationltd.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "INE881D01027"
+  },
+  {
+    "ticker": "NASDAQ:JCSE",
+    "company": "JE Cleantech Holdings Ltd",
+    "recommendation": "HOLD",
+    "conviction": 38,
+    "date": "2026-04-15",
+    "summary": "JE Cleantech is a loss-making micro-cap cleantech. HOLD at .21, conviction 38.",
+    "file": "jecleantechholdingsltd.html",
+    "report_url": "/reports/jecleantechholdingsltd.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "KRG508752055"
+  },
+  {
+    "ticker": "EURONEXT:BEG",
+    "company": "Leverage Shares 2X Long BE Daily ETF",
+    "recommendation": "SELL",
+    "conviction": 22,
+    "date": "2026-04-15",
+    "summary": "Leveraged ETF with severe daily compounding decay risk. SELL at .13, conviction 22.",
+    "file": "leverageshares2xlongbedailyetf.html",
+    "report_url": "/reports/leverageshares2xlongbedailyetf.html",
+    "universes": [
+      "watchlist"
+    ],
+    "isin": "GB00B10S0Z05"
+  },
+  {
+    "ticker": "LON:DGE",
+    "company": "Diageo plc",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "Diageo is the world's largest spirits company. HOLD at 1468.8 GBX, P/E 18.4x, conviction 62.",
+    "file": "diageoplc.html",
+    "report_url": "/reports/diageoplc.html",
+    "isin": "GB0002374006",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:GLEN",
+    "company": "Glencore PLC",
+    "recommendation": "HOLD",
+    "conviction": 65,
+    "date": "2026-04-15",
+    "summary": "Glencore is a major diversified commodities trader and producer. HOLD at 558.7 GBX, conviction 65.",
+    "file": "glencoreplc.html",
+    "report_url": "/reports/glencoreplc.html",
+    "isin": "JE00B4T3BW64",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "NASDAQ:SLP",
+    "company": "Simulations Plus Inc",
+    "recommendation": "REDUCE",
+    "conviction": 35,
+    "date": "2026-04-15",
+    "summary": "Simulations Plus is a loss-making pharma modelling software company. REDUCE at .34, conviction 35.",
+    "file": "simulationsplusinc.html",
+    "report_url": "/reports/simulationsplusinc.html",
+    "isin": "US8292263054",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:RWS",
+    "company": "RWS Holdings plc",
+    "recommendation": "HOLD",
+    "conviction": 45,
+    "date": "2026-04-15",
+    "summary": "RWS Holdings is a language translation and localisation services company. HOLD at 79.6 GBX, conviction 45.",
+    "file": "rwsholdingsplc.html",
+    "report_url": "/reports/rwsholdingsplc.html",
+    "isin": "GB00BVFD0193",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "TSX:MKA",
+    "company": "Mkango Resources Ltd",
+    "recommendation": "HOLD",
+    "conviction": 45,
+    "date": "2026-04-15",
+    "summary": "Mkango is a rare earth developer. HOLD at CAD 0.78, conviction 45.",
+    "file": "mkangoresourcesltd.html",
+    "report_url": "/reports/mkangoresourcesltd.html",
+    "isin": "CA60686A4090",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:PXEN",
+    "company": "Prospex Energy PLC",
+    "recommendation": "HOLD",
+    "conviction": 32,
+    "date": "2026-04-15",
+    "summary": "Prospex is a small-cap European gas developer. HOLD at 3.12 GBX, conviction 32.",
+    "file": "prospexenergyplc.html",
+    "report_url": "/reports/prospexenergyplc.html",
+    "isin": "GB00BMFZVZ53",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:SQZ",
+    "company": "Serica Energy Plc",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "Serica Energy is a UK North Sea oil and gas producer. HOLD at 258 GBX, conviction 58.",
+    "file": "sericaenergyplc.html",
+    "report_url": "/reports/sericaenergyplc.html",
+    "isin": "GB00B0H3CZ68",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:BLOE",
+    "company": "Block Energy PLC",
+    "recommendation": "HOLD",
+    "conviction": 35,
+    "date": "2026-04-15",
+    "summary": "Block Energy is a Georgian oil developer. HOLD at 1.42 GBX, conviction 35.",
+    "file": "blockenergyplc.html",
+    "report_url": "/reports/blockenergyplc.html",
+    "isin": "GB00BF3TBT48",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:UPR",
+    "company": "Uniphar PLC",
+    "recommendation": "BUY",
+    "conviction": 68,
+    "date": "2026-04-15",
+    "summary": "Uniphar is an Irish pharma wholesaler/logistics business. BUY at 340 GBX, conviction 68.",
+    "file": "unipharplc.html",
+    "report_url": "/reports/unipharplc.html",
+    "isin": "IE00BDH05663",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:PANR",
+    "company": "Pantheon Resources Plc",
+    "recommendation": "HOLD",
+    "conviction": 45,
+    "date": "2026-04-15",
+    "summary": "Pantheon is a pre-revenue Alaskan oil and gas explorer. HOLD at 10.85 GBX, conviction 45.",
+    "file": "pantheonresourcesplc.html",
+    "report_url": "/reports/pantheonresourcesplc.html",
+    "isin": "GB00BZ3DMC20",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:PALM",
+    "company": "Panther Metals PLC",
+    "recommendation": "SELL",
+    "conviction": 28,
+    "date": "2026-04-13",
+    "summary": "Panther Metals is a speculative gold explorer. SELL, conviction 28.",
+    "file": "panthermetalsplc.html",
+    "report_url": "/reports/panthermetalsplc.html",
+    "isin": "IM00BD3JNS98",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:ZPHR",
+    "company": "Zephyr Energy PLC",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-13",
+    "summary": "Zephyr Energy is a US oil and gas developer. BUY at 3.25 GBX, conviction 72.",
+    "file": "zephyrenergyplc.html",
+    "report_url": "/reports/zephyrenergyplc.html",
+    "isin": "GB00BF44KY60",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:TRCS",
+    "company": "Tracsis Plc",
+    "recommendation": "HOLD",
+    "conviction": 48,
+    "date": "2026-04-15",
+    "summary": "Tracsis is a UK transport technology and services company. HOLD at 320 GBX, conviction 48.",
+    "file": "tracsisplc.html",
+    "report_url": "/reports/tracsisplc.html",
+    "isin": "GB00BMTF9J52",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:RNWH",
+    "company": "Renew Holdings Plc",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "Renew Holdings is a UK rail engineering and infrastructure services company. HOLD at 929 GBX, P/E 16.6x, conviction 62.",
+    "file": "renewholdingsplc.html",
+    "report_url": "/reports/renewholdingsplc.html",
+    "isin": "GB00BMTF9J52",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:YU",
+    "company": "Yu Group PLC",
+    "recommendation": "HOLD",
+    "conviction": 68,
+    "date": "2026-04-15",
+    "summary": "Yu Group is a UK IT services company. HOLD at 1787.5 GBX, P/E 8.9x, conviction 68.",
+    "file": "yugroupplc.html",
+    "report_url": "/reports/yugroupplc.html",
+    "isin": "GB00BD3JNZ54",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:THX",
+    "company": "Thor Explorations Ltd",
+    "recommendation": "BUY",
+    "conviction": 65,
+    "date": "2026-04-15",
+    "summary": "Thor Explorations is a gold producer in Senegal/West Africa. BUY at 81.5 GBX, conviction 65.",
+    "file": "thorexplorationsltd.html",
+    "report_url": "/reports/thorexplorationsltd.html",
+    "isin": "CA8862111081",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:TAM",
+    "company": "Tatton Asset Management PLC",
+    "recommendation": "HOLD",
+    "conviction": 60,
+    "date": "2026-04-15",
+    "summary": "Tatton is a UK discretionary wealth manager. HOLD at 629.87 GBX, P/E 23.1x, conviction 60.",
+    "file": "tattonassetmanagementplc.html",
+    "report_url": "/reports/tattonassetmanagementplc.html",
+    "isin": "GB00BZ4BYG27",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:WSBN",
+    "company": "Wishbone Gold PLC",
+    "recommendation": "HOLD",
+    "conviction": 35,
+    "date": "2026-04-15",
+    "summary": "Wishbone Gold is a micro-cap gold explorer. HOLD at 32 GBX, conviction 35.",
+    "file": "wishbonegoldplc.html",
+    "report_url": "/reports/wishbonegoldplc.html",
+    "isin": "GB00B89GHP06",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:TOM",
+    "company": "TomCo Energy Plc",
+    "recommendation": "HOLD",
+    "conviction": 28,
+    "date": "2026-04-15",
+    "summary": "TomCo Energy is a micro-cap AIM oil and gas play. HOLD at 0.03 GBX, conviction 28.",
+    "file": "tomcoenergyplc.html",
+    "report_url": "/reports/tomcoenergyplc.html",
+    "isin": "IM00BZBXMN96",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "ASX:PVE",
+    "company": "Po Valley Energy Limited",
+    "recommendation": "HOLD",
+    "conviction": 45,
+    "date": "2026-04-15",
+    "summary": "Po Valley Energy is an Italian gas developer. HOLD at AUD 0.07, conviction 45.",
+    "file": "po_valley_energy_limited.html",
+    "report_url": "/reports/po_valley_energy_limited.html",
+    "isin": "AU000000PVE9",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:RCN",
+    "company": "Redcentric PLC",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "Redcentric is a UK IT services company. HOLD at 118 GBX, conviction 58.",
+    "file": "redcentricplc.html",
+    "report_url": "/reports/redcentricplc.html",
+    "isin": "GB00BYXTDQ69",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "ISE:PTSB",
+    "company": "Permanent tsb Group Holdings PLC",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "Permanent tsb is an Irish retail bank. HOLD at EUR 2.87, conviction 52.",
+    "file": "permanenttsbgroupholdingsplc.html",
+    "report_url": "/reports/permanenttsbgroupholdingsplc.html",
+    "isin": "IE00B79ZQ056",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:NICL",
+    "company": "Nichols plc",
+    "recommendation": "HOLD",
+    "conviction": 68,
+    "date": "2026-04-15",
+    "summary": "Nichols is a UK soft drinks and consumer goods company. HOLD at 924 GBX, P/E 15.8x, conviction 68.",
+    "file": "nicholsplc.html",
+    "report_url": "/reports/nicholsplc.html",
+    "isin": "GB00B9LZXB04",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:RKH",
+    "company": "Rockhopper Exploration Plc",
+    "recommendation": "HOLD",
+    "conviction": 45,
+    "date": "2026-04-15",
+    "summary": "Rockhopper is a pre-revenue North Sea gas explorer. HOLD at 83 GBX, conviction 45.",
+    "file": "rockhopperexplorationplc.html",
+    "report_url": "/reports/rockhopperexplorationplc.html",
+    "isin": "GB00B5NZAL88",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:SRC",
+    "company": "Sigmaroc PLC",
+    "recommendation": "HOLD",
+    "conviction": 68,
+    "date": "2026-04-15",
+    "summary": "Sigmaroc is a UK construction materials group. HOLD at 131.9 GBX, P/E 19.5x, conviction 68.",
+    "file": "sigmarocplc.html",
+    "report_url": "/reports/sigmarocplc.html",
+    "isin": "GB00BD09V640",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:YCA",
+    "company": "Yellow Cake PLC",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "Yellow Cake is a uranium holding company. HOLD at 611 GBX, conviction 62.",
+    "file": "yellowcakeplc.html",
+    "report_url": "/reports/yellowcakeplc.html",
+    "isin": "GB00BF99F348",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LSE:SOM",
+    "company": "Somero Enterprises Inc",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Somero is a US-focused concrete printing equipment company. BUY at 186 GBX, P/E 13.7x, conviction 72.",
+    "file": "someroenterprisesinc.html",
+    "report_url": "/reports/someroenterprisesinc.html",
+    "isin": "US83417M1045",
     "universes": [
       "watchlist"
     ]
