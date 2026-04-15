@@ -3671,20 +3671,6 @@
     "isin": "CA02305R1001"
   },
   {
-    "ticker": "LON:AIBG",
-    "company": "AIB Group plc",
-    "recommendation": "HOLD",
-    "conviction": 62,
-    "date": "2026-04-15",
-    "summary": "AIB is one of Ireland's largest banking groups. HOLD at 846 GBX, conviction 62. State-owned (~71%), estimated P/B ~0.8x, 5.2% dividend yield. Irish housing and NIM compression are key risks.",
-    "file": "aibgroupplc.html",
-    "report_url": "/reports/aibgroupplc.html",
-    "universes": [
-      "watchlist"
-    ],
-    "isin": "IE00BF0L3536"
-  },
-  {
     "ticker": "LON:AAZ",
     "company": "Anglo Asian Mining Plc",
     "recommendation": "BUY",
@@ -4370,90 +4356,6 @@
     ]
   },
   {
-    "ticker": "NYSE:BWXT",
-    "company": "BWX Technologies Inc",
-    "recommendation": "BUY",
-    "conviction": 76,
-    "date": "2026-04-15",
-    "summary": "BWX Technologies is a US nuclear weapons components and medical devices company. BUY at .33, conviction 76.",
-    "file": "bwxtechnologiesinc.html",
-    "report_url": "/reports/bwxtechnologiesinc.html",
-    "universes": [
-      "watchlist"
-    ],
-    "isin": "US05605H1005"
-  },
-  {
-    "ticker": "NYSE:CVX",
-    "company": "Chevron Corp",
-    "recommendation": "HOLD",
-    "conviction": 62,
-    "date": "2026-04-15",
-    "summary": "Chevron is a major integrated energy company. HOLD at .02, conviction 62.",
-    "file": "chevroncorp.html",
-    "report_url": "/reports/chevroncorp.html",
-    "universes": [
-      "watchlist"
-    ],
-    "isin": "US1667641005"
-  },
-  {
-    "ticker": "LON:DCC",
-    "company": "DCC plc",
-    "recommendation": "HOLD",
-    "conviction": 60,
-    "date": "2026-04-15",
-    "summary": "DCC is a UK-listed international sales, marketing and distribution group. HOLD at 5105 GBX, conviction 60.",
-    "file": "dccplc.html",
-    "report_url": "/reports/dccplc.html",
-    "universes": [
-      "watchlist"
-    ],
-    "isin": "IE0002424939"
-  },
-  {
-    "ticker": "LON:ALK",
-    "company": "Alkemy Capital Investments PLC",
-    "recommendation": "SPECULATIVE HOLD",
-    "conviction": 48,
-    "date": "2026-04-15",
-    "summary": "Alkemy Capital is an early-stage critical minerals investment vehicle. Speculative HOLD at 316 GBX, conviction 48.",
-    "file": "alkemycapitalinvestmentsplc.html",
-    "report_url": "/reports/alkemycapitalinvestmentsplc.html",
-    "universes": [
-      "watchlist"
-    ],
-    "isin": "GB00BMD6C023"
-  },
-  {
-    "ticker": "LON:AVCT",
-    "company": "Avacta Group Plc",
-    "recommendation": "BUY",
-    "conviction": 68,
-    "date": "2026-04-14",
-    "summary": "Avacta Group is a UK biotech with pre|CISION platform and faridoxorubicin Ph1 data due H1 2026. BUY at 75.20 GBX, conviction 68. AACR catalyst 17-22 April.",
-    "file": "avactagroupplc.html",
-    "report_url": "/reports/avactagroupplc.html",
-    "universes": [
-      "watchlist"
-    ],
-    "isin": "GB00BYYW9G87"
-  },
-  {
-    "ticker": "NYSE:KO",
-    "company": "Coca-Cola Co",
-    "recommendation": "HOLD",
-    "conviction": 62,
-    "date": "2026-04-15",
-    "summary": "Coca-Cola is a global beverages giant. HOLD at .29, conviction 62.",
-    "file": "cocacolaco.html",
-    "report_url": "/reports/cocacolaco.html",
-    "universes": [
-      "watchlist"
-    ],
-    "isin": "US1912161007"
-  },
-  {
     "ticker": "NASDAQ:BOO",
     "company": "Bloomin' Brands Inc",
     "recommendation": "HOLD",
@@ -4552,34 +4454,6 @@
     "isin": "GB00B10S0Z05"
   },
   {
-    "ticker": "LON:DGE",
-    "company": "Diageo plc",
-    "recommendation": "HOLD",
-    "conviction": 62,
-    "date": "2026-04-15",
-    "summary": "Diageo is the world's largest spirits company. HOLD at 1468.8 GBX, P/E 18.4x, conviction 62.",
-    "file": "diageoplc.html",
-    "report_url": "/reports/diageoplc.html",
-    "isin": "GB0002374006",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
-    "ticker": "LON:GLEN",
-    "company": "Glencore PLC",
-    "recommendation": "HOLD",
-    "conviction": 65,
-    "date": "2026-04-15",
-    "summary": "Glencore is a major diversified commodities trader and producer. HOLD at 558.7 GBX, conviction 65.",
-    "file": "glencoreplc.html",
-    "report_url": "/reports/glencoreplc.html",
-    "isin": "JE00B4T3BW64",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
     "ticker": "NASDAQ:SLP",
     "company": "Simulations Plus Inc",
     "recommendation": "REDUCE",
@@ -4608,34 +4482,6 @@
     ]
   },
   {
-    "ticker": "TSX:MKA",
-    "company": "Mkango Resources Ltd",
-    "recommendation": "HOLD",
-    "conviction": 45,
-    "date": "2026-04-15",
-    "summary": "Mkango is a rare earth developer. HOLD at CAD 0.78, conviction 45.",
-    "file": "mkangoresourcesltd.html",
-    "report_url": "/reports/mkangoresourcesltd.html",
-    "isin": "CA60686A4090",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
-    "ticker": "LON:PXEN",
-    "company": "Prospex Energy PLC",
-    "recommendation": "HOLD",
-    "conviction": 32,
-    "date": "2026-04-15",
-    "summary": "Prospex is a small-cap European gas developer. HOLD at 3.12 GBX, conviction 32.",
-    "file": "prospexenergyplc.html",
-    "report_url": "/reports/prospexenergyplc.html",
-    "isin": "GB00BMFZVZ53",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
     "ticker": "LSE:SQZ",
     "company": "Serica Energy Plc",
     "recommendation": "HOLD",
@@ -4645,20 +4491,6 @@
     "file": "sericaenergyplc.html",
     "report_url": "/reports/sericaenergyplc.html",
     "isin": "GB00B0H3CZ68",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
-    "ticker": "LSE:BLOE",
-    "company": "Block Energy PLC",
-    "recommendation": "HOLD",
-    "conviction": 35,
-    "date": "2026-04-15",
-    "summary": "Block Energy is a Georgian oil developer. HOLD at 1.42 GBX, conviction 35.",
-    "file": "blockenergyplc.html",
-    "report_url": "/reports/blockenergyplc.html",
-    "isin": "GB00BF3TBT48",
     "universes": [
       "watchlist"
     ]
@@ -4687,34 +4519,6 @@
     "file": "pantheonresourcesplc.html",
     "report_url": "/reports/pantheonresourcesplc.html",
     "isin": "GB00BZ3DMC20",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
-    "ticker": "LON:PALM",
-    "company": "Panther Metals PLC",
-    "recommendation": "SELL",
-    "conviction": 28,
-    "date": "2026-04-13",
-    "summary": "Panther Metals is a speculative gold explorer. SELL, conviction 28.",
-    "file": "panthermetalsplc.html",
-    "report_url": "/reports/panthermetalsplc.html",
-    "isin": "IM00BD3JNS98",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
-    "ticker": "LON:ZPHR",
-    "company": "Zephyr Energy PLC",
-    "recommendation": "BUY",
-    "conviction": 72,
-    "date": "2026-04-13",
-    "summary": "Zephyr Energy is a US oil and gas developer. BUY at 3.25 GBX, conviction 72.",
-    "file": "zephyrenergyplc.html",
-    "report_url": "/reports/zephyrenergyplc.html",
-    "isin": "GB00BF44KY60",
     "universes": [
       "watchlist"
     ]
@@ -4799,20 +4603,6 @@
     "file": "wishbonegoldplc.html",
     "report_url": "/reports/wishbonegoldplc.html",
     "isin": "GB00B89GHP06",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
-    "ticker": "LSE:TOM",
-    "company": "TomCo Energy Plc",
-    "recommendation": "HOLD",
-    "conviction": 28,
-    "date": "2026-04-15",
-    "summary": "TomCo Energy is a micro-cap AIM oil and gas play. HOLD at 0.03 GBX, conviction 28.",
-    "file": "tomcoenergyplc.html",
-    "report_url": "/reports/tomcoenergyplc.html",
-    "isin": "IM00BZBXMN96",
     "universes": [
       "watchlist"
     ]
@@ -5042,48 +4832,6 @@
     ]
   },
   {
-    "ticker": "NYSE:RUOC",
-    "company": "Ocean Power Technologies Inc",
-    "recommendation": "HOLD",
-    "conviction": 35,
-    "date": "2026-04-15",
-    "summary": "Ocean Power Technologies is a wave energy technology company. HOLD at USD 0.30, conviction 35.",
-    "file": "oceanpowertechnologiesinc.html",
-    "report_url": "/reports/oceanpowertechnologiesinc.html",
-    "isin": "US6748705015",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
-    "ticker": "EPA:ETL",
-    "company": "Eutelsat Communications SA",
-    "recommendation": "HOLD",
-    "conviction": 38,
-    "date": "2026-04-15",
-    "summary": "Eutelsat is a satellite operator. HOLD at EUR 2.50, loss-making, conviction 38.",
-    "file": "eutelsatcommunicationssa.html",
-    "report_url": "/reports/eutelsatcommunicationssa.html",
-    "isin": "FR0010221234",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
-    "ticker": "TSE:VEQT",
-    "company": "Vanguard All-Equity ETF Portfolio",
-    "recommendation": "HOLD",
-    "conviction": 55,
-    "date": "2026-04-15",
-    "summary": "Vanguard All-Equity ETF Portfolio is a Canadian ETF. HOLD at CAD 56.99, conviction 55.",
-    "file": "vanguardallequityetfportfolio.html",
-    "report_url": "/reports/vanguardallequityetfportfolio.html",
-    "isin": "CA92220Y2109",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  {
     "ticker": "NYSE:SPCE",
     "company": "Virgin Galactic Holdings Inc",
     "recommendation": "HOLD",
@@ -5123,6 +4871,38 @@
     "isin": "US74733J1025",
     "universes": [
       "watchlist"
+    ]
+  },
+  {
+    "ticker": "LPTH",
+    "company": "LightPath Technologies Inc",
+    "recommendation": "SPECULATIVE BUY",
+    "conviction": 35,
+    "date": "2026-04-15",
+    "summary": "LPTH is a defence IR optics play at an 8x from 52w lows. Deeply unprofitable, binary outcome.",
+    "file": "lightpathtechnologiesinc.html",
+    "report_url": "/reports/lightpathtechnologiesinc.html",
+    "isin": "US5322578056",
+    "exchange_code": "NASDAQ",
+    "exchange": "NASDAQ",
+    "universes": [
+      "all"
+    ]
+  },
+  {
+    "ticker": "BIG",
+    "company": "Hercules Metals Corp",
+    "recommendation": "HOLD",
+    "conviction": 38,
+    "date": "2026-04-15",
+    "summary": "Canadian explorer on the Lewis Hills iron oxide copper gold project in Newfoundland. Early stage.",
+    "file": "herculesmetalscorp.html",
+    "report_url": "/reports/herculesmetalscorp.html",
+    "isin": "CA42333WAA47",
+    "exchange_code": "TSXV",
+    "exchange": "TSX Venture",
+    "universes": [
+      "all"
     ]
   }
 ]
