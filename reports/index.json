@@ -3520,5 +3520,798 @@
     "universes": [
       "watchlist"
     ]
+  },
+  {
+    "ticker": "GOOG",
+    "company": "Alphabet Inc Class C",
+    "recommendation": "HOLD",
+    "conviction": 70,
+    "date": "2026-04-15",
+    "summary": "Alphabet is the dominant global internet platform: Google Search holds approximately 91% market share, YouTube is the worlds largest video platform, and Google Cloud is the emerging third pillar. The DOJ antitrust victory in August 2024 and the rise of AI-native search alternatives create a credible scenario in which Googles search ad inventory erodes over the next five to ten years.",
+    "file": "alphabetincclassc.html",
+    "report_url": "/reports/alphabetincclassc.html",
+    "isin": "US02079K3059",
+    "exchange_code": null,
+    "exchange": null,
+    "universes": [
+      "sp100",
+      "fortune100"
+    ]
+  },
+  {
+    "ticker": "CHKP",
+    "company": "Check Point Software Technologies Ltd",
+    "recommendation": "HOLD",
+    "conviction": 65,
+    "date": "2026-04-15",
+    "summary": "Check Point is an Israeli enterprise cybersecurity company trading at its 52-week low of $134.78 on elevated volume. The P/E of 14x is cheap relative to cybersecurity peers but reflects structural concerns about traditional firewall business facing cloud-native competition. HOLD is appropriate given valuation support at these levels.",
+    "file": "checkpointsoftwaretechnologiesltd.html",
+    "report_url": "/reports/checkpointsoftwaretechnologiesltd.html",
+    "isin": "IL0010824113",
+    "exchange_code": null,
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "MANU",
+    "company": "Manchester United PLC",
+    "recommendation": "HOLD",
+    "conviction": 48,
+    "date": "2026-04-15",
+    "summary": "Manchester United is one of the world's most valuable sports brands, undergoing an INEOS-led rebuild. The stock trades below its 52-week high but above its 52-week low, reflecting uncertainty around the on-pitch rebuild under Ruben Amorim and the structural headwind of no Champions League football in 2024-25.",
+    "file": "manchesterunitedplc.html",
+    "report_url": "/reports/manchesterunitedplc.html",
+    "isin": null,
+    "exchange_code": null,
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "NET",
+    "company": "Cloudflare Inc",
+    "recommendation": "HOLD",
+    "conviction": 69,
+    "date": "2026-04-15",
+    "summary": "Cloudflare is a global cloud infrastructure and security company with a differentiated anycast network spanning 300+ data centres. The stock has recovered from 100 to 178 but remains 31% below its 52-week high of 260. Near-free cash flow positive and growing 25-30% annually.",
+    "file": "cloudflareinc.html",
+    "report_url": "/reports/cloudflareinc.html",
+    "isin": null,
+    "exchange_code": null,
+    "exchange": null,
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:ABDP",
+    "company": "Ab Dynamics PLC",
+    "recommendation": "HOLD",
+    "conviction": 63,
+    "date": "2026-04-15",
+    "summary": "Ab Dynamics is a UK-based engineering group specialising in automotive testing systems and precision measurement equipment. HOLD at 1115.67 GBX with a conviction score of 63.",
+    "file": "abdynamicsplc.html",
+    "report_url": "/reports/abdynamicsplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:ACSO",
+    "company": "Accesso Technology Group PLC",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "Accesso Technology Group provides queue management and ticketing systems for attractions and leisure venues. SaaS transition underway with improving revenue visibility. HOLD at 249.28 GBX, conviction 62.",
+    "file": "accessotechnologygroupplc.html",
+    "report_url": "/reports/accessotechnologygroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:AOM",
+    "company": "Activeops PLC",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "Activeops is a UK-based SaaS workforce management company. HOLD at 200 GBX, conviction 52. Niche SaaS play in contact centre software with improving fundamentals but constrained by small-cap liquidity.",
+    "file": "activeopsplc.html",
+    "report_url": "/reports/activeopsplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:AMS",
+    "company": "Advanced Medical Solutions Group plc",
+    "recommendation": "HOLD",
+    "conviction": 55,
+    "date": "2026-04-15",
+    "summary": "Advanced Medical Solutions is a UK-based medical device company in advanced wound care and surgical sealing. HOLD at 219 GBX, conviction 55. Distance from 52w high -31.6%.",
+    "file": "advancedmedicalsolutionsgroupplc.html",
+    "report_url": "/reports/advancedmedicalsolutionsgroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:ADVT",
+    "company": "AdvancedAdvT Ltd",
+    "recommendation": "BUY",
+    "conviction": 68,
+    "date": "2026-04-15",
+    "summary": "AdvancedAdvT is a UK-based advertising technology company. BUY at 167.81 GBX, conviction 68. AdTech niche play with improving fundamentals.",
+    "file": "advancedadvtltd.html",
+    "report_url": "/reports/advancedadvtltd.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:AMRQ",
+    "company": "Amaroq Ord Shs",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "Amaroq is a UK-listed investment company focused on the Icelandic market. Trading at a discount to NAV. HOLD at 98.90 GBX, conviction 52.",
+    "file": "amaroqordshs.html",
+    "report_url": "/reports/amaroqordshs.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:AIBG",
+    "company": "AIB Group plc",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "AIB is one of Ireland's largest banking groups. HOLD at 846 GBX, conviction 62. State-owned (~71%), estimated P/B ~0.8x, 5.2% dividend yield. Irish housing and NIM compression are key risks.",
+    "file": "aibgroupplc.html",
+    "report_url": "/reports/aibgroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:AAZ",
+    "company": "Anglo Asian Mining Plc",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Anglo Asian Mining is a UK-listed gold and copper producer in Azerbaijan. BUY at 258.50 GBX, conviction 72. Sub-6x earnings multiple on gold above $2,800/oz. Azerbaijan geopolitical risk discounted. Gyzylarahmet development pipeline provides optionality.",
+    "file": "angloasianminingplc.html",
+    "report_url": "/reports/angloasianminingplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:ANCR",
+    "company": "Animalcare Group Plc",
+    "recommendation": "HOLD",
+    "conviction": 48,
+    "date": "2026-04-15",
+    "summary": "Animalcare is a UK-based animal health company providing veterinary pharmaceuticals and nutrition products. HOLD at 248.50 GBX, conviction 48. Initial coverage.",
+    "file": "animalcaregroupplc.html",
+    "report_url": "/reports/animalcaregroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:ARBB",
+    "company": "Arbuthnot Banking Group Ord Shs",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "Arbuthnot Banking Group provides private banking and wealth management services. HOLD at 895 GBX, conviction 52. Initial coverage.",
+    "file": "arbuthnotbankinggroupordshs.html",
+    "report_url": "/reports/arbuthnotbankinggroupordshs.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:AVG",
+    "company": "Avingtrans PLC",
+    "recommendation": "HOLD",
+    "conviction": 48,
+    "date": "2026-04-15",
+    "summary": "Avingtrans is a UK-based engineering group serving energy, aerospace, and industrial sectors. HOLD at 580 GBX, conviction 48.",
+    "file": "avingtransplc.html",
+    "report_url": "/reports/avingtransplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:BKS",
+    "company": "Beeks Financial Cloud Group PLC",
+    "recommendation": "BUY",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "Beeks Financial Cloud is a UK fintech providing low-latency cloud infrastructure for financial services. BUY at 167.90 GBX, conviction 62.",
+    "file": "eeksfinancialcloudgroupplc.html",
+    "report_url": "/reports/eeksfinancialcloudgroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:BPM",
+    "company": "B.P. Marsh & Partners PLC",
+    "recommendation": "HOLD",
+    "conviction": 56,
+    "date": "2026-04-15",
+    "summary": "B.P. Marsh is a UK venture capital firm focused on financial services fintech and insurance. HOLD at 663.20 GBX, conviction 56. NAV discount ~20-25%, dividend yield ~2.5-3.5%.",
+    "file": "bpmarshpartnersplc.html",
+    "report_url": "/reports/bpmarshpartnersplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:BOKU",
+    "company": "Boku Inc",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Boku is a UK-listed mobile payment and fraud prevention fintech. BUY at 173.25 GBX, conviction 72. High-growth SaaS with major merchant clients (Netflix, Spotify).",
+    "file": "bokuinc.html",
+    "report_url": "/reports/bokuinc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:BVXP",
+    "company": "Bioventix PLC",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "Bioventix is a UK biotech specialising in recombinant antibodies for IVD and research. HOLD at 1825 GBX, conviction 62.",
+    "file": "bioventixplc.html",
+    "report_url": "/reports/bioventixplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:BUR",
+    "company": "Burford Capital Limited",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Burford Capital is the world's largest litigation finance company. BUY at 348.20 GBX, conviction 72. Alternative asset play on legal disputes with strong NAV backing.",
+    "file": "burfordcapitalimited.html",
+    "report_url": "/reports/burfordcapitalimited.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:BRCK",
+    "company": "BRCK Group PLC",
+    "recommendation": "REDUCE",
+    "conviction": 48,
+    "date": "2026-04-15",
+    "summary": "BRCK is a UK-based IoT and edge computing hardware company for emerging markets. Speculative nano-cap at 55 GBX. Conviction 48.",
+    "file": "brckgroupplc.html",
+    "report_url": "/reports/brckgroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:CMCL",
+    "company": "Caledonia Mining Corporation PLC",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "Caledonia Mining is a UK-listed gold producer in Zimbabwe operating the Blanket Mine. HOLD at 1890 GBX, conviction 52. Sub-5x P/E, ~10% dividend yield. Zimbabwe country risk dominant.",
+    "file": "caledoniaminingcorporationplc.html",
+    "report_url": "/reports/caledoniaminingcorporationplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:CAML",
+    "company": "Central Asia Metals PLC",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Central Asia Metals is a UK-listed copper and zinc miner in Kazakhstan. BUY at 155 GBX, conviction 72. Sub-8x P/E, 38% below 52w high. Kazakhstan/China offtake risk.",
+    "file": "centralasiametalsplc.html",
+    "report_url": "/reports/centralasiametalsplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:CHRT",
+    "company": "Cohort PLC",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Cohort is a UK defence and security group in electronic warfare, surveillance, and maritime systems. BUY at 1328 GBX, conviction 72.",
+    "file": "cohortplc.html",
+    "report_url": "/reports/cohortplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:CRW",
+    "company": "Craneware plc",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "Craneware is a UK healthcare tech company providing revenue cycle management software to US hospitals. HOLD at 1429.94 GBX, conviction 52. P/E ~30x.",
+    "file": "cranewareplc.html",
+    "report_url": "/reports/cranewareplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:DOTD",
+    "company": "Dotdigital Group plc",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "Dotdigital is a UK SaaS marketing automation platform. HOLD at 44.90 GBX, conviction 58. Competitive pressures in martech space.",
+    "file": "dotdigitalgroupplc.html",
+    "report_url": "/reports/dotdigitalgroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:EVPL",
+    "company": "Everplay Group PLC",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "Everplay Group is a UK-based DOOH and programmatic advertising tech company. HOLD at 259 GBX, conviction 58.",
+    "file": "everplaygroupplc.html",
+    "report_url": "/reports/everplaygroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:CER",
+    "company": "Cerillion PLC",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Cerillion is a UK SaaS company providing billing and CRM software to telecoms globally. BUY at 1440 GBX, conviction 72.",
+    "file": "cerillionplc.html",
+    "report_url": "/reports/cerillionplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:CVSG",
+    "company": "CVS Group Plc",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "CVS Group is a UK veterinary services group operating across companion, farm animal, and equine practices in UK, Ireland, Australia, and NZ. HOLD at 1203 GBX, conviction 62.",
+    "file": "cvsgroupplc.html",
+    "report_url": "/reports/cvsgroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:FARN",
+    "company": "Faron Pharmaceuticals Oy",
+    "recommendation": "BUY",
+    "conviction": 44,
+    "date": "2026-04-15",
+    "summary": "Faron Pharmaceuticals is a clinical-stage immuno-oncology biotech. Speculative BUY at 44.40 GBX, conviction 44. Bexmarilimab in Phase I/II for MDS/AML.",
+    "file": "faronpharmaceuticalsoy.html",
+    "report_url": "/reports/faronpharmaceuticalsoy.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:FEVR",
+    "company": "Fevertree Drinks PLC",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "Fevertree is a UK premium mixers company. HOLD at 833.50 GBX, conviction 52.",
+    "file": "fevertreedrinksplc.html",
+    "report_url": "/reports/fevertreedrinksplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:FNTL",
+    "company": "Fintel PLC",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "Fintel is a UK financial information and subscription services company. HOLD at 177 GBX, conviction 52.",
+    "file": "fintelplc.html",
+    "report_url": "/reports/fintelplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:FRP",
+    "company": "Frp Advisory Group PLC",
+    "recommendation": "BUY",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "Frp Advisory is a UK restructuring and insolvency firm. Speculative BUY at 117 GBX, conviction 62.",
+    "file": "frpadvisorygroupplc.html",
+    "report_url": "/reports/frpadvisorygroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:GTLY",
+    "company": "Gateley (Holdings) PLC",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "Gateley is a UK legal services group. HOLD at 70 GBX, conviction 52.",
+    "file": "gateleyholdingsplc.html",
+    "report_url": "/reports/gateleyholdingsplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:TFW",
+    "company": "FW Thorpe plc",
+    "recommendation": "HOLD",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "FW Thorpe is a UK specialist lighting company. HOLD at 268 GBX, conviction 62.",
+    "file": "fwthorpeplc.html",
+    "report_url": "/reports/fwthorpeplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:GBG",
+    "company": "GB Group plc",
+    "recommendation": "BUY",
+    "conviction": 71,
+    "date": "2026-04-15",
+    "summary": "GB Group is a UK identity data and fraud prevention fintech. BUY at 201.20 GBX, conviction 71.",
+    "file": "gbgroupplc.html",
+    "report_url": "/reports/gbgroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:GRP",
+    "company": "Greencoat Renewables PLC",
+    "recommendation": "BUY",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "Greencoat Renewables is an Irish-listed wind farm investment company. BUY at EUR 0.72, conviction 62. ~6-7% dividend yield.",
+    "file": "greencoatrenewablesplc.html",
+    "report_url": "/reports/greencoatrenewablesplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:HSP",
+    "company": "Hargreaves Services plc",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "Hargreaves Services is a UK rail and mining services group. HOLD at 798 GBX, conviction 58.",
+    "file": "hargreavesservicesplc.html",
+    "report_url": "/reports/hargreavesservicesplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:GFM",
+    "company": "Griffin Mining Ltd",
+    "recommendation": "BUY",
+    "conviction": 68,
+    "date": "2026-04-15",
+    "summary": "Griffin Mining is a UK gold mining company operating the Caijiaying mine in China. BUY at 278.74 GBX, conviction 68.",
+    "file": "griffinminingltd.html",
+    "report_url": "/reports/griffinminingltd.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:HCM",
+    "company": "HUTCHMED (China) Ltd",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "HUTCHMED is a UK-listed China biotech focused on oncology. HOLD at 222 GBX, conviction 58. China franchise growing, US buildout capital-intensive.",
+    "file": "hutchmedchinaltd.html",
+    "report_url": "/reports/hutchmedchinaltd.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:HUW",
+    "company": "Helios Underwriting PLC",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Helios Underwriting is a UK-listed Lloyd's of London insurance investment company. BUY at 198 GBX, conviction 72. ~20% NAV discount, ~8x P/E.",
+    "file": "heliosunderwritingplc.html",
+    "report_url": "/reports/heliosunderwritingplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:ITM",
+    "company": "ITM Power plc",
+    "recommendation": "HOLD",
+    "conviction": 35,
+    "date": "2026-04-15",
+    "summary": "ITM Power is a UK hydrogen electrolyser company. HOLD at 93 GBX, conviction 35. Loss-making, capital-intensive, speculative hydrogen theme.",
+    "file": "itmpowerplc.html",
+    "report_url": "/reports/itmpowerplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:IDOX",
+    "company": "IDOX plc",
+    "recommendation": "BUY",
+    "conviction": 62,
+    "date": "2026-04-15",
+    "summary": "IDOX is a UK public sector software company. BUY at 69.80 GBX, conviction 62.",
+    "file": "idoxplc.html",
+    "report_url": "/reports/idoxplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:LTHM",
+    "company": "James Halstead PLC",
+    "recommendation": "BUY",
+    "conviction": 68,
+    "date": "2026-04-15",
+    "summary": "James Halstead is a UK commercial flooring manufacturer. BUY at 975 GBX, conviction 68.",
+    "file": "jameshalsteadplc.html",
+    "report_url": "/reports/jameshalsteadplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:JET2",
+    "company": "Jet2 PLC",
+    "recommendation": "HOLD",
+    "conviction": 60,
+    "date": "2026-04-15",
+    "summary": "Jet2 is a UK leisure airline and tour operator. HOLD at 1220 GBX, conviction 60.",
+    "file": "jet2plc.html",
+    "report_url": "/reports/jet2plc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:JDG",
+    "company": "Judges Scientific PLC",
+    "recommendation": "HOLD",
+    "conviction": 61,
+    "date": "2026-04-15",
+    "summary": "Judges Scientific is a UK acquisition-focused engineering group in niche instrumentation. HOLD at 4300 GBX, conviction 61.",
+    "file": "judgesscientificplc.html",
+    "report_url": "/reports/judgesscientificplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:LBG",
+    "company": "LBG Media PLC",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "LBG Media is a UK digital media company operating social media platforms. HOLD at 55 GBX, conviction 52.",
+    "file": "lbgmediaplc.html",
+    "report_url": "/reports/lbgmediaplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:MPE",
+    "company": "M P Evans Group PLC",
+    "recommendation": "HOLD",
+    "conviction": 54,
+    "date": "2026-04-15",
+    "summary": "M P Evans is a UK-listed palm oil investment company in Indonesia. HOLD at 1616 GBX, conviction 54.",
+    "file": "mpevansgroupplc.html",
+    "report_url": "/reports/mpevansgroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:SAA",
+    "company": "M&C Saatchi Plc",
+    "recommendation": "HOLD",
+    "conviction": 44,
+    "date": "2026-04-15",
+    "summary": "M&C Saatchi is a UK advertising and marketing group. HOLD at 115 GBX, conviction 44.",
+    "file": "mcsaatchiplc.html",
+    "report_url": "/reports/mcsaatchiplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:MIDW",
+    "company": "Midwich Group PLC",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "Midwich is a UK AV and broadcast equipment distributor. HOLD at 166.40 GBX, conviction 58.",
+    "file": "midwichgroupplc.html",
+    "report_url": "/reports/midwichgroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:MTL",
+    "company": "Metals Exploration Plc",
+    "recommendation": "HOLD",
+    "conviction": 32,
+    "date": "2026-04-15",
+    "summary": "Metals Exploration is an early-stage mining explorer in Dominican Republic. HOLD at 15 GBX, conviction 32. Binary exploration risk.",
+    "file": "metalsexplorationplc.html",
+    "report_url": "/reports/metalsexplorationplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:MSI",
+    "company": "MS International plc",
+    "recommendation": "HOLD",
+    "conviction": 55,
+    "date": "2026-04-15",
+    "summary": "MS International is a UK defence electronics and specialist connector group. HOLD at 1455 GBX, conviction 55.",
+    "file": "msinternationalplc.html",
+    "report_url": "/reports/msinternationalplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:NIOX",
+    "company": "Niox Group PLC",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Niox Group is a UK medical devices company in asthma diagnostics. BUY at 218 GBX, conviction 72.",
+    "file": "nioxgroupplc.html",
+    "report_url": "/reports/nioxgroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:PAF",
+    "company": "Pan African Resources PLC",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Pan African Resources is a UK-listed gold producer in South Africa. BUY at 32 GBX, conviction 72.",
+    "file": "panafricanresourcesplc.html",
+    "report_url": "/reports/panafricanresourcesplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:POLR",
+    "company": "Pensioneeroyds Investment Trust",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "Pensioneeroyds is a UK multi-asset investment trust. HOLD at 1283 GBX, conviction 58.",
+    "file": "pensioneeroydsinvestmenttrust.html",
+    "report_url": "/reports/pensioneeroydsinvestmenttrust.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:MAB1",
+    "company": "Mortgage Advice Bureau (Holdings) PLC",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "Mortgage Advice Bureau is a UK mortgage and protection insurance network. HOLD at 582.80 GBX, conviction 58.",
+    "file": "mortgageadvicebureauholdingsplc.html",
+    "report_url": "/reports/mortgageadvicebureauholdingsplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:RNO",
+    "company": "Rhi Office Group PLC",
+    "recommendation": "HOLD",
+    "conviction": 52,
+    "date": "2026-04-15",
+    "summary": "Rhi Office Group is a Belgian workplace solutions company. HOLD at 25 EUR, conviction 52.",
+    "file": "rhiofficegroupplc.html",
+    "report_url": "/reports/rhiofficegroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:SMS",
+    "company": "Smart Metering Systems PLC",
+    "recommendation": "BUY",
+    "conviction": 72,
+    "date": "2026-04-15",
+    "summary": "Smart Metering Systems is a UK smart meter installation and management company. BUY at 1315 GBX, conviction 72.",
+    "file": "smartmeteringsystemsplc.html",
+    "report_url": "/reports/smartmeteringsystemsplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:TPFG",
+    "company": "The Pebble Group PLC",
+    "recommendation": "HOLD",
+    "conviction": 58,
+    "date": "2026-04-15",
+    "summary": "The Pebble Group is a UK promotional merchandise and workwear distributor. HOLD at 62.50 GBX, conviction 58.",
+    "file": "thepebblegroupplc.html",
+    "report_url": "/reports/thepebblegroupplc.html",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  {
+    "ticker": "LON:TBN",
+    "company": "Tamboran Resources Corp",
+    "recommendation": "SPECULATIVE BUY",
+    "conviction": 42,
+    "date": "2026-04-15",
+    "summary": "Tamboran Resources is an early-stage Australian LNG explorer in Beetaloo Basin. SPECULATIVE BUY at 11 GBX, conviction 42.",
+    "file": "tamboranresourcescorp.html",
+    "report_url": "/reports/tamboranresourcescorp.html",
+    "universes": [
+      "watchlist"
+    ]
   }
 ]
