@@ -295,7 +295,7 @@
     "ticker": "ALK.L",
     "company": "ALK - Alkemy Capital Investments PLC",
     "date": "2026-04-16",
-    "summary": "Alkemy Capital Investments PLC is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania — a hard rock lithium project with a completed Definitive Feasibility Study and a binding Glencore offtake agreement covering 40% of projected production at competitive pricing. Wates Group has been appointed as the construction partner, FEED is complete, and the project is awaiting Final Investment Decision (FID).",
+    "summary": "Alkemy Capital Investments PLC is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania \u2014 a hard rock lithium project with a completed Definitive Feasibility Study and a binding Glencore offtake agreement covering 40% of projected production at competitive pricing. Wates Group has been appointed as the construction partner, FEED is complete, and the project is awaiting Final Investment Decision (FID).",
     "isin": "",
     "rating": "OPPORTUNISTIC BUY",
     "universes": [
@@ -631,7 +631,7 @@
     "ticker": "ASTS",
     "company": "ASTS - AST SpaceMobile Inc",
     "date": "2026-04-16",
-    "summary": "AST SpaceMobile is a direct-to-device satellite broadband company that connects standard mobile handsets to its space-based network without requiring specialised hardware. The technology is genuinely differentiated and the MNO partnerships (AT&T, Verizon, Vodafone, TELUS, Saudi Telecom) are high-quality. The company has over $1 billion in contracted revenue commitments. The near-term catalyst is the BlueBird 7 satellite launch on New Glenn (~April 19, 2026) — the most important near-term binary event in the portfolio.",
+    "summary": "AST SpaceMobile is a direct-to-device satellite broadband company that connects standard mobile handsets to its space-based network without requiring specialised hardware. The technology is genuinely differentiated and the MNO partnerships (AT&T, Verizon, Vodafone, TELUS, Saudi Telecom) are high-quality. The company has over $1 billion in contracted revenue commitments. The near-term catalyst is the BlueBird 7 satellite launch on New Glenn (~April 19, 2026) \u2014 the most important near-term binary event in the portfolio.",
     "isin": "",
     "rating": "OPPORTUNISTIC BUY",
     "universes": [
@@ -654,22 +654,6 @@
       "watchlist"
     ],
     "price": "$26.46"
-  },
-  {
-    "file": "autolustherapeuticsplc.html",
-    "report_url": "/reports/autolustherapeuticsplc.html",
-    "recommendation": "SPECULATIVE BUY",
-    "conviction": 48,
-    "ticker": "AUTL",
-    "company": "AUTL - Autolus Therapeutics plc",
-    "date": "2026-04-16",
-    "summary": "Autolus is a clinical biotech name where the upside exists only if the science and regulatory path work. At $1.49 with a market cap of roughly $362M and negative EPS, the stock is still deep in speculative territory. This is a pipeline bet, not an operating company.",
-    "isin": "",
-    "rating": "SPECULATIVE BUY",
-    "universes": [
-      "watchlist"
-    ],
-    "price": "$1.49"
   },
   {
     "file": "avactagroupplc.html",
@@ -695,7 +679,7 @@
     "ticker": "LON:AVG",
     "company": "Avingtrans plc",
     "date": "2026-04-16",
-    "summary": "Avingtrans is a UK-listed precision engineering group serving the energy, aerospace, and industrial sectors. The business operates across a niche set of specialist manufacturing capabilities - heat exchangers, precision-machined components, and specialised fabrications - with a customer base spanning UK, US, and European markets. At a market cap of approximately £80m, it sits firmly in the UK small-cap universe where liquidity is thin, institutional coverage is minimal, and the discount to net asset value is a persistent structural feature.",
+    "summary": "Avingtrans is a UK-listed precision engineering group serving the energy, aerospace, and industrial sectors. The business operates across a niche set of specialist manufacturing capabilities - heat exchangers, precision-machined components, and specialised fabrications - with a customer base spanning UK, US, and European markets. At a market cap of approximately \u00a380m, it sits firmly in the UK small-cap universe where liquidity is thin, institutional coverage is minimal, and the discount to net asset value is a persistent structural feature.",
     "isin": "",
     "rating": "SPECULATIVE BUY",
     "universes": [
@@ -1143,7 +1127,7 @@
     "ticker": "CHKP",
     "company": "Check Point Software Technologies Ltd",
     "date": "2026-04-16",
-    "summary": "Check Point Software Technologies has been left at the station. While the rest of the cybersecurity sector re-rated sharply post-2022, CHKP has gone nowhere — and today it is sitting precisely at its 52-week low after a -5.15% single-day drop that demands explanation. The valuation is cheap at 14x earnings against a peer group that commands 50-80x. At these levels, a considerable portion of the bear case is already in the price. HOLD is the weighted recommendation: the downside is largely protected by valuation, but the upside requires execution on product transitions that have not yet materialised.",
+    "summary": "Check Point Software Technologies has been left at the station. While the rest of the cybersecurity sector re-rated sharply post-2022, CHKP has gone nowhere \u2014 and today it is sitting precisely at its 52-week low after a -5.15% single-day drop that demands explanation. The valuation is cheap at 14x earnings against a peer group that commands 50-80x. At these levels, a considerable portion of the bear case is already in the price. HOLD is the weighted recommendation: the downside is largely protected by valuation, but the upside requires execution on product transitions that have not yet materialised.",
     "isin": "",
     "rating": "BUY",
     "universes": [
@@ -1255,7 +1239,7 @@
     "ticker": "LON:CMRS",
     "company": "CMRS - Critical Mineral Resources PLC",
     "date": "2026-04-16",
-    "summary": "CMR is an early-stage copper and critical mineral exploration company building a portfolio of near-term development assets in Morocco — a jurisdiction it considers mining-friendly, well-located to serve European markets, with attractive permitting and fiscal conditions. The company operates through its 80%-owned Moroccan subsidiary Atlantic Research Minerals SARL (ARM), acquired in July 2023.",
+    "summary": "CMR is an early-stage copper and critical mineral exploration company building a portfolio of near-term development assets in Morocco \u2014 a jurisdiction it considers mining-friendly, well-located to serve European markets, with attractive permitting and fiscal conditions. The company operates through its 80%-owned Moroccan subsidiary Atlantic Research Minerals SARL (ARM), acquired in July 2023.",
     "isin": "",
     "rating": "Avoid",
     "universes": [
@@ -1351,7 +1335,7 @@
     "ticker": "COP",
     "company": "ConocoPhillips",
     "date": "2026-04-16",
-    "summary": "ConocoPhillips is a global supermajor with a high-quality, low-cost Permian Basin production base and meaningful LNG upside via its Freeport LNG stake. The Iran peace talks triggered a crude pullback from $131 to $118 — creating a tactical entry point. Jefferies has a $160 price target and Goldman Sachs named COP its #2 energy pick. Q1 2026 earnings on April 30 are the next near-term catalyst. The grok sentiment score of 68/100 reflects constructive energy macro sentiment despite short-term OPEC+ uncertainty.",
+    "summary": "ConocoPhillips is a global supermajor with a high-quality, low-cost Permian Basin production base and meaningful LNG upside via its Freeport LNG stake. The Iran peace talks triggered a crude pullback from $131 to $118 \u2014 creating a tactical entry point. Jefferies has a $160 price target and Goldman Sachs named COP its #2 energy pick. Q1 2026 earnings on April 30 are the next near-term catalyst. The grok sentiment score of 68/100 reflects constructive energy macro sentiment despite short-term OPEC+ uncertainty.",
     "isin": "",
     "rating": "BUY",
     "universes": [
@@ -1431,7 +1415,7 @@
     "ticker": "CRWD",
     "company": "CRWD - CrowdStrike Holdings Inc",
     "date": "2026-04-16",
-    "summary": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The July 2024 Falcon update incident caused a significant derating, but the stock has recovered and is now in a 15-25% pullback from 52-week highs — creating a materially improved entry point following the first-ever GAAP net income in FY2026.",
+    "summary": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The July 2024 Falcon update incident caused a significant derating, but the stock has recovered and is now in a 15-25% pullback from 52-week highs \u2014 creating a materially improved entry point following the first-ever GAAP net income in FY2026.",
     "isin": "",
     "rating": "BUY",
     "universes": [
@@ -1655,7 +1639,7 @@
     "ticker": "QBTS",
     "company": "D-Wave Quantum Inc",
     "date": "2026-04-16",
-    "summary": "D-Wave Quantum is the oldest listed quantum computing company, the only one with both annealing and gate-model quantum systems, and — following the acquisition of Quantum Circuits Inc (QCI) — now a full-stack quantum provider. The April 9 report (conviction 44, REDUCE, $14.56) was a reasonable assessment of an overvalued quantum story. That view now requires material revision.",
+    "summary": "D-Wave Quantum is the oldest listed quantum computing company, the only one with both annealing and gate-model quantum systems, and \u2014 following the acquisition of Quantum Circuits Inc (QCI) \u2014 now a full-stack quantum provider. The April 9 report (conviction 44, REDUCE, $14.56) was a reasonable assessment of an overvalued quantum story. That view now requires material revision.",
     "isin": "",
     "rating": "OPPORTUNISTIC BUY",
     "universes": [
@@ -2199,7 +2183,7 @@
     "ticker": "TSXV:GLB",
     "company": "Goldbank Mining Corp",
     "date": "2026-04-15",
-    "summary": "Goldbank Mining Corp is a TSXV-listed micro-cap exploration company targeting gold mineralisation. With a market capitalisation of approximately CAD 10 million and no current revenue or earnings, the company is a pre-revenue explorer at an early stage of development. The primary investment吸引力 is the potential for a significant resource discovery, balanced against high geological, financing, and market liquidity risk. HOLD recommended pending meaningful exploration progress. Conviction Score: 35/100 - HOLD",
+    "summary": "Goldbank Mining Corp is a TSXV-listed micro-cap exploration company targeting gold mineralisation. With a market capitalisation of approximately CAD 10 million and no current revenue or earnings, the company is a pre-revenue explorer at an early stage of development. The primary investment\u5438\u5f15\u529b is the potential for a significant resource discovery, balanced against high geological, financing, and market liquidity risk. HOLD recommended pending meaningful exploration progress. Conviction Score: 35/100 - HOLD",
     "isin": "",
     "rating": "SPECULATIVE BUY",
     "universes": [
@@ -2567,7 +2551,7 @@
     "ticker": "IONQ",
     "company": "IONQ - IonQ Inc",
     "date": "2026-04-16",
-    "summary": "IonQ is a pure-play quantum computing company trading on the NYSE. The prior report (8 Apr 2026, conviction 47, REDUCE) was written when the stock was at $29.55 — a thoughtful assessment of an overvalued, pre-revenue story. That characterisation is now materially incomplete. The stock has surged over 20% in a single session to $43.25, driven by a photonic interconnect breakthrough, DARPA HARQ program selection, and sector-wide momentum from Nvidia's quantum announcements.",
+    "summary": "IonQ is a pure-play quantum computing company trading on the NYSE. The prior report (8 Apr 2026, conviction 47, REDUCE) was written when the stock was at $29.55 \u2014 a thoughtful assessment of an overvalued, pre-revenue story. That characterisation is now materially incomplete. The stock has surged over 20% in a single session to $43.25, driven by a photonic interconnect breakthrough, DARPA HARQ program selection, and sector-wide momentum from Nvidia's quantum announcements.",
     "isin": "",
     "rating": "BUY",
     "universes": [
@@ -3239,7 +3223,7 @@
     "ticker": "MKA.L",
     "company": "Mkango Resources Ltd",
     "date": "2026-04-16",
-    "summary": "Mkango Resources is a Canadian-listed rare earth elements explorer with a primary asset in Malawi, a UK-based processing technology subsidiary (Maginito), and a new acquisition in Germany through Hypromag. The rare earth secular demand story — driven by EVs, wind turbines, and defence — is genuine. The company has just closed a oversubscribed £12.5m fundraise to acquire and commission Hypromag Germany, a strategic expansion into rare earth magnet recycling that transforms the business from a pre-revenue explorer into an operating clean-tech materials company.",
+    "summary": "Mkango Resources is a Canadian-listed rare earth elements explorer with a primary asset in Malawi, a UK-based processing technology subsidiary (Maginito), and a new acquisition in Germany through Hypromag. The rare earth secular demand story \u2014 driven by EVs, wind turbines, and defence \u2014 is genuine. The company has just closed a oversubscribed \u00a312.5m fundraise to acquire and commission Hypromag Germany, a strategic expansion into rare earth magnet recycling that transforms the business from a pre-revenue explorer into an operating clean-tech materials company.",
     "isin": "",
     "rating": "OPPORTUNISTIC BUY",
     "universes": [
@@ -3431,7 +3415,7 @@
     "ticker": "NIO",
     "company": "NIO - NIO Inc",
     "date": "2026-04-16",
-    "summary": "NIO is a Chinese premium electric vehicle maker with a battery-as-a-service (BaaS) model and a nationwide swap station network. The investment case has materially improved following two pivotal developments: first, NIO reported its first-ever GAAP quarterly net profit in Q4 2025, and second, Q1 2026 deliveries hit records at 83,465 vehicles (+98% YoY). These are not incremental improvements — they represent the first concrete evidence that the business model can work at scale.",
+    "summary": "NIO is a Chinese premium electric vehicle maker with a battery-as-a-service (BaaS) model and a nationwide swap station network. The investment case has materially improved following two pivotal developments: first, NIO reported its first-ever GAAP quarterly net profit in Q4 2025, and second, Q1 2026 deliveries hit records at 83,465 vehicles (+98% YoY). These are not incremental improvements \u2014 they represent the first concrete evidence that the business model can work at scale.",
     "isin": "",
     "rating": "OPPORTUNISTIC BUY",
     "universes": [
@@ -3447,7 +3431,7 @@
     "ticker": "LON:NIOX",
     "company": "Niox Group PLC",
     "date": "2026-04-16",
-    "summary": "Niox Group PLC is a UK-based medical devices company that has built a focused franchise around fractional exhaled nitric oxide (feNO) measurement — a clinically validated biomarker for airway inflammation used in the diagnosis and management of asthma. The company's flagship product, the Niox Vero device, is a portable_feNO analyser enabling point-of-care testing in primary care, pharmacy, and specialist respiratory settings.",
+    "summary": "Niox Group PLC is a UK-based medical devices company that has built a focused franchise around fractional exhaled nitric oxide (feNO) measurement \u2014 a clinically validated biomarker for airway inflammation used in the diagnosis and management of asthma. The company's flagship product, the Niox Vero device, is a portable_feNO analyser enabling point-of-care testing in primary care, pharmacy, and specialist respiratory settings.",
     "isin": "",
     "rating": "BUY",
     "universes": [
@@ -3495,7 +3479,7 @@
     "ticker": "NVDA",
     "company": "NVIDIA Corp",
     "date": "2026-04-16",
-    "summary": "NVIDIA is the defining AI infrastructure company of this decade. Its GPUs power every major AI training cluster from hyperscalers to enterprise AI. The Ising quantum AI model announcement in April 2026 extends NVIDIA's reach into quantum computing acceleration — a new addressable market. Analyst consensus targets of $267-275 imply 35-40% upside from $199. But at 40x forward earnings and a $3 trillion+ market cap, the stock requires continued AI capex acceleration to justify its valuation. The grok sentiment score of 65/100 reflects strong confidence tempered by valuation concerns and geopolitical risk.",
+    "summary": "NVIDIA is the defining AI infrastructure company of this decade. Its GPUs power every major AI training cluster from hyperscalers to enterprise AI. The Ising quantum AI model announcement in April 2026 extends NVIDIA's reach into quantum computing acceleration \u2014 a new addressable market. Analyst consensus targets of $267-275 imply 35-40% upside from $199. But at 40x forward earnings and a $3 trillion+ market cap, the stock requires continued AI capex acceleration to justify its valuation. The grok sentiment score of 65/100 reflects strong confidence tempered by valuation concerns and geopolitical risk.",
     "isin": "",
     "rating": "BUY",
     "universes": [
@@ -3831,7 +3815,7 @@
     "ticker": "PXEN.L",
     "company": "Prospex Energy PLC",
     "date": "2026-04-16",
-    "summary": "Prospex Energy PLC is a micro-cap oil and gas exploration and production company focused on Western Europe. The company operates producing assets in Spain (Viura/Selva) and Italy (Podere Maiar), and is expanding into Poland through a new licence award. At 3.38p, the stock is near the lower end of its 52-week range but has been supported by recent positive news flow — including a San Licence award in Poland (April 2026), an oversubscribed convertible loan note raise, and broker commentary flagging significantly increased cash generation from producing assets.",
+    "summary": "Prospex Energy PLC is a micro-cap oil and gas exploration and production company focused on Western Europe. The company operates producing assets in Spain (Viura/Selva) and Italy (Podere Maiar), and is expanding into Poland through a new licence award. At 3.38p, the stock is near the lower end of its 52-week range but has been supported by recent positive news flow \u2014 including a San Licence award in Poland (April 2026), an oversubscribed convertible loan note raise, and broker commentary flagging significantly increased cash generation from producing assets.",
     "isin": "",
     "rating": "SPECULATIVE BUY",
     "universes": [
@@ -3991,7 +3975,7 @@
     "ticker": "EPA:ALRIB",
     "company": "Riber SA",
     "date": "2026-04-16",
-    "summary": "Riber SA is a French oligopoly in the making. The company designs and manufactures Molecular Beam Epitaxy (MBE) systems — the equipment used to deposit thin semiconductor films with atomic-layer precision. There are two global manufacturers of production-scale MBE systems: Riber and Veeco. That is the entire competitive landscape. Riber's customers include major semiconductor foundries, research institutions, and hyperscalers including Microsoft, for applications in silicon photonics, quantum computing, and advanced RF semiconductors. The grok sentiment score of 82/100 reflects this uniqueness: a profitable, dividend-paying small-cap with genuine oligopoly characteristics and direct exposure to the two most important themes in semiconductors — silicon photonics (data centre AI infrastructure) and quantum computing (qubit fabrication).",
+    "summary": "Riber SA is a French oligopoly in the making. The company designs and manufactures Molecular Beam Epitaxy (MBE) systems \u2014 the equipment used to deposit thin semiconductor films with atomic-layer precision. There are two global manufacturers of production-scale MBE systems: Riber and Veeco. That is the entire competitive landscape. Riber's customers include major semiconductor foundries, research institutions, and hyperscalers including Microsoft, for applications in silicon photonics, quantum computing, and advanced RF semiconductors. The grok sentiment score of 82/100 reflects this uniqueness: a profitable, dividend-paying small-cap with genuine oligopoly characteristics and direct exposure to the two most important themes in semiconductors \u2014 silicon photonics (data centre AI infrastructure) and quantum computing (qubit fabrication).",
     "isin": "",
     "rating": "BUY",
     "universes": [
@@ -4183,7 +4167,7 @@
     "ticker": "LSE:SRC",
     "company": "Sigmaroc PLC",
     "date": "2026-04-15",
-    "summary": "Sigmaroc PLC is a leading UK and Ireland building materials group operating across mortars, screeds, cement, aggregates, concrete products, and考的 building solutions. The company holds strong regional positions in British and Irish construction supply chains, with a diversified customer base spanning housebuilders, infrastructure contractors, and specialist trades. Trading at 131.9 GBX with a market capitalisation of approximately GBP 1,470m and a P/E of 19.53x, Sigmaroc presents a mixed-value case: the fundamental long-term demand backdrop for construction materials remains constructive, but the current rating offers limited upside to the base case and the shares have pulled back circa 18% from their 52-week high. HOLD conviction pending a better entry point. Conviction Score: 68/100 - HOLD (leaning BUY on weakness).",
+    "summary": "Sigmaroc PLC is a leading UK and Ireland building materials group operating across mortars, screeds, cement, aggregates, concrete products, and\u8003\u7684 building solutions. The company holds strong regional positions in British and Irish construction supply chains, with a diversified customer base spanning housebuilders, infrastructure contractors, and specialist trades. Trading at 131.9 GBX with a market capitalisation of approximately GBP 1,470m and a P/E of 19.53x, Sigmaroc presents a mixed-value case: the fundamental long-term demand backdrop for construction materials remains constructive, but the current rating offers limited upside to the base case and the shares have pulled back circa 18% from their 52-week high. HOLD conviction pending a better entry point. Conviction Score: 68/100 - HOLD (leaning BUY on weakness).",
     "isin": "",
     "rating": "BUY",
     "universes": [
@@ -4391,7 +4375,7 @@
     "ticker": "LON:TBN",
     "company": "Tamboran Resources Corp",
     "date": "2026-04-16",
-    "summary": "Tamboran Resources Corp is a micro-cap Australian gas exploration company focused on the Beetaloo Basin in the Northern Territory. With a market capitalisation of approximately £30 million and no material revenue, TBN is a binary catalyst play: success at the Shenandoah-1 and other Beetaloo wells unlocks material value; failure leaves the company requiring additional capital raises that would be highly dilutive at current levels.",
+    "summary": "Tamboran Resources Corp is a micro-cap Australian gas exploration company focused on the Beetaloo Basin in the Northern Territory. With a market capitalisation of approximately \u00a330 million and no material revenue, TBN is a binary catalyst play: success at the Shenandoah-1 and other Beetaloo wells unlocks material value; failure leaves the company requiring additional capital raises that would be highly dilutive at current levels.",
     "isin": "",
     "rating": "SPECULATIVE BUY",
     "universes": [
@@ -5054,5 +5038,65 @@
       "watchlist"
     ],
     "price": "$26.70"
+  },
+  {
+    "ticker": "ART",
+    "company": "Arteche Lantegi Elkartea SA",
+    "sector": "Electrical Equipment / Industrial Technology",
+    "file": "artechelantegielkarteasa.html",
+    "date": "2026-04-16",
+    "recommendation": "OPPORTUNISTIC BUY",
+    "conviction": 55,
+    "exchange": "BME",
+    "isin": "ES0105521001",
+    "marketCap": 1600000000,
+    "currency": "EUR",
+    "price": 28.1,
+    "summary": "Spanish industrial champion with 93% EPS growth in FY2025. Grid equipment and defence electronics niche player with European energy transition tailwind. BUY at EUR 28.10."
+  },
+  {
+    "ticker": "PNG",
+    "company": "Kraken Robotics Inc",
+    "sector": "Defence Technology / Maritime Robotics",
+    "file": "krakenroboticsinc.html",
+    "date": "2026-04-16",
+    "recommendation": "SPECULATIVE BUY",
+    "conviction": 52,
+    "exchange": "TSX-V",
+    "isin": "FR0000075954",
+    "marketCap": 2659250897,
+    "currency": "CAD",
+    "price": 8.68,
+    "summary": "Record FY2025 results: CAD 102M revenue, CAD 25M EBITDA. $615M Covelya acquisition transforms addressable market. $222M Q1 orders. 2026 guidance CAD 165-175M. SPEC BUY at CAD 8.68."
+  },
+  {
+    "ticker": "AUTL",
+    "company": "Autolus Therapeutics PLC",
+    "sector": "Biotechnology / CAR-T Oncology",
+    "file": "autolustherapeuticsplc.html",
+    "date": "2026-04-16",
+    "recommendation": "REDUCE - SPECULATIVE",
+    "conviction": 44,
+    "exchange": "NASDAQ",
+    "isin": "US05280R1005",
+    "marketCap": 428490555,
+    "currency": "USD",
+    "price": 1.61,
+    "summary": "AUCATZYL Year-1 revenue USD 75M, 2026 guidance USD 120-135M. Commercial launch real but facing Tecartus competition. Cash burn and financing risk. REDUCE SPEC at USD 1.61."
+  },
+  {
+    "ticker": "EOS",
+    "company": "Electro Optic Systems Holdings Ltd",
+    "sector": "Defence Technology / Electro-Optics",
+    "file": "electroopticsystemsholdingsltd.html",
+    "date": "2026-04-16",
+    "recommendation": "SPECULATIVE BUY",
+    "conviction": 38,
+    "exchange": "ASX",
+    "isin": null,
+    "marketCap": 2064587433,
+    "currency": "AUD",
+    "price": 10.7,
+    "summary": "Near-10-bagger from AUD 1.10 to AUD 10.70 in 15 months. Counter-drone and space systems momentum. Legal issue resolved. Approaching 52-week highs. SPEC BUY at AUD 10.70, limited margin of safety."
   }
 ]
