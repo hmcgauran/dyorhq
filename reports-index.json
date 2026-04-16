@@ -1762,11 +1762,10 @@
     "company": "IonQ Inc",
     "file": "ionqinc",
     "report_url": "/reports/ionqinc",
-    "conviction": 68,
+    "conviction": 47,
     "summary": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.55, only 5% off the 52-week high, the market is valuing the company as if quantum commercialisation i",
     "date": "2026-04-08",
-    "universes": [],
-    "updated": "2026-04-16"
+    "universes": []
   },
   {
     "ticker": "IR",
