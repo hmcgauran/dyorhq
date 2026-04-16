@@ -52,3 +52,4 @@ console.log('DYOR HQ build complete.');
 console.log(`- Canonical reports: ${canonicalIndex.length}`);
 console.log(`- Browser index entries: ${browserIndex.length}`);
 console.log(`- Output directory: ${PUBLIC_DIR}`);
+require('./generate-sitemap.js');
