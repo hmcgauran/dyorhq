@@ -883,8 +883,8 @@
     "company": "CRH plc",
     "recommendation": "BUY",
     "conviction": 82,
-    "date": "2026-04-11",
-    "summary": "CRH plc is a high-quality global building materials champion with exceptional cash flow generation, a disciplined capital allocation record, and a rock-solid balance sheet, trading at a material discount to US-listed peers despite superior returns -- BUY . BUY Conviction Score: 82/100 - BUY",
+    "date": "2026-04-16",
+    "summary": "CRH plc is a high-quality global building materials champion with exceptional cash flow generation, a disciplined capital allocation record, and a rock-solid balance sheet, trading at a material discount to US-listed peers despite superior returns -- BUY . BUY Conviction Score: 82/100 - BUY LSE delisting announced March 2026: last LSE trading day April 17, 2026; NYSE-only from April 20.",
     "file": "crhplc.html",
     "report_url": "/reports/crhplc.html",
     "isin": "IE0001827041",
@@ -892,7 +892,8 @@
     "exchange": null,
     "universes": [
       "irish"
-    ]
+    ],
+    "datePublished": "2026-04-16"
   },
   {
     "ticker": "CRIS",
@@ -931,9 +932,9 @@
     "ticker": "CRWD",
     "company": "CrowdStrike Holdings Inc",
     "recommendation": "HOLD",
-    "conviction": 65,
-    "date": "2026-04-08",
-    "summary": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The July 2024 Falcon update incident caused a significant derating, but the stock has recovered well an",
+    "conviction": 73,
+    "date": "2026-04-16",
+    "summary": "Record FY2026: $5.25B ARR (+24%), first GAAP net income. Anthropic Glasswing partnership validates AI security positioning. Analyst PTs -520. Pullback to $411 creates improved entry.",
     "file": "crowdstrikeholdingsinc.html",
     "report_url": "/reports/crowdstrikeholdingsinc.html",
     "isin": "US22788C1053",
