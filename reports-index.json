@@ -230,10 +230,11 @@
     "company": "Alkemy Capital Investments plc",
     "file": "alkemycapitalinvestmentsplc",
     "report_url": "/reports/alkemycapitalinvestmentsplc",
-    "conviction": 68,
+    "conviction": 62,
     "summary": "Wates Group appointed construction partner; Glencore offtake binding. Shares pulled back 466p to 301p. FID remains key binary catalyst.",
     "date": "2026-04-16",
-    "universes": []
+    "universes": [],
+    "updated": "2026-04-16"
   },
   {
     "ticker": "ALKS",
@@ -412,10 +413,11 @@
     "company": "AST SpaceMobile Inc",
     "file": "astspacemobileinc",
     "report_url": "/reports/astspacemobileinc",
-    "conviction": 58,
-    "summary": "BB7 launch ~April 19 (New Glenn) — imminent binary catalyst. Amazon Globalstar $11.6B deal creates three-way competition. $1B+ backlog, MNO partners intact.",
+    "conviction": 68,
+    "summary": "BB7 launch ~April 19 (New Glenn) \u2014 imminent binary catalyst. Amazon Globalstar $11.6B deal creates three-way competition. $1B+ backlog, MNO partners intact.",
     "date": "2026-04-16",
-    "universes": []
+    "universes": [],
+    "updated": "2026-04-16"
   },
   {
     "ticker": "AUTL",
@@ -862,16 +864,17 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "HOLD",
-    "recommendation": "HOLD",
+    "recommendation": "BUY",
     "company": "ConocoPhillips",
     "file": "conocophillips",
     "report_url": "/reports/conocophillips",
-    "conviction": 50,
+    "conviction": 68,
     "summary": "ConocoPhillips is one of the world's largest integrated oil and gas explorers, with a low-cost production base concentrated in the Permian Basin and LNG exposure via Freeport LNG; near-term uncertainty around OPEC+ supply management and volatile crude prices keep us at HOLD.",
     "date": "2026-04-11",
     "universes": [
       "sp100"
-    ]
+    ],
+    "updated": "2026-04-16"
   },
   {
     "ticker": "COR",
@@ -971,7 +974,8 @@
     "conviction": 73,
     "summary": "Record FY2026: $5.25B ARR (+24%), first GAAP net income. Anthropic Glasswing partnership validates AI security positioning. Analyst PTs $500-520.",
     "date": "2026-04-16",
-    "universes": []
+    "universes": [],
+    "updated": "2026-04-16"
   },
   {
     "ticker": "CSCO",
@@ -2283,10 +2287,11 @@
     "company": "MKA.L LN - Mkango Resources Ltd",
     "file": "mkangoresourcesltd",
     "report_url": "/reports/mkangoresourcesltd",
-    "conviction": 48,
-    "summary": "£12.5m raise funds Hypromag Germany acquisition. First commissioning underway. Oversubscribed raise signals confidence. Stock 70p to 42p on dilution; thesis intact.",
+    "conviction": 55,
+    "summary": "\u00a312.5m raise funds Hypromag Germany acquisition. First commissioning underway. Oversubscribed raise signals confidence. Stock 70p to 42p on dilution; thesis intact.",
     "date": "2026-04-16",
-    "universes": []
+    "universes": [],
+    "updated": "2026-04-16"
   },
   {
     "ticker": "MMM",
@@ -2505,12 +2510,13 @@
     "company": "ServiceNow, Inc.",
     "file": "servicenowinc",
     "report_url": "/reports/servicenowinc",
-    "conviction": 68,
+    "conviction": 55,
     "summary": "ServiceNow's AI-powered workflow automation platform is exceptionally well-positioned for enterprise AI adoption, but at the current valuation the market is paying for a very optimistic growth trajectory with little room for near-term disappointment -- HOLD . HOLD Conviction Score: 68/100 - HOLD",
     "date": "2026-04-11",
     "universes": [
       "sp100"
-    ]
+    ],
+    "updated": "2026-04-16"
   },
   {
     "ticker": "NVDA",
@@ -2522,13 +2528,14 @@
     "company": "NVIDIA Corporation",
     "file": "nvidiacorp",
     "report_url": "/reports/nvidiacorp",
-    "conviction": 68,
+    "conviction": 65,
     "summary": "NVIDIA sits at the epicentre of the AI infrastructure buildout, commanding an effective monopoly in AI accelerators via its CUDA ecosystem and the Hopper/Blackwell GPU architecture. At $181.46 the shares trade at a 38.5x trailing P/E, a meaningful compression from the 2024 multiple expansion but sti",
     "date": "2026-04-10",
     "universes": [
       "sp100",
       "fortune100"
-    ]
+    ],
+    "updated": "2026-04-16"
   },
   {
     "ticker": "NVTS",
@@ -2568,14 +2575,15 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "REDUCE",
-    "recommendation": "REDUCE",
+    "recommendation": "HOLD",
     "company": "Ondo",
     "file": "ondoinsurtechplc",
     "report_url": "/reports/ondoinsurtechplc",
-    "conviction": 48,
+    "conviction": 58,
     "summary": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is enough for a market handle, but not enough to transform it into a high-conviction investment case wit",
     "date": "2026-04-08",
-    "universes": []
+    "universes": [],
+    "updated": "2026-04-16"
   },
   {
     "ticker": "ORCL",
@@ -2620,10 +2628,11 @@
     "company": "Palo Alto Networks Inc",
     "file": "paloaltonetworksinc",
     "report_url": "/reports/paloaltonetworksinc",
-    "conviction": 74,
+    "conviction": 72,
     "summary": "Palo Alto Networks is the dominant next-generation firewall vendor making the transition to a comprehensive platform company - SASE, cloud security, AI-powered security operations (XSIAM), and SOC automation. The One Platform strategy is paying off: platform consolidation is driving higher deal size",
     "date": "2026-04-08",
-    "universes": []
+    "universes": [],
+    "updated": "2026-04-16"
   },
   {
     "ticker": "PEP",
@@ -2824,9 +2833,10 @@
     "file": "prospexenergyplc",
     "report_url": "/reports/prospexenergyplc",
     "conviction": 40,
-    "summary": "San Licence awarded Poland (April 2026). CLN oversubscribed £2m (25% above target). H&P broker 21p target vs 3.38p. Increased cash generation from Spanish assets.",
+    "summary": "San Licence awarded Poland (April 2026). CLN oversubscribed \u00a32m (25% above target). H&P broker 21p target vs 3.38p. Increased cash generation from Spanish assets.",
     "date": "2026-04-16",
-    "universes": []
+    "universes": [],
+    "updated": "2026-04-16"
   },
   {
     "ticker": "QBTS",
@@ -5120,5 +5130,20 @@
     "summary": "Sivers Semiconductors is a Swedish photonics and mmWave semiconductor company with a 630% stock run from 52w lows driven by AI optical interconnect demand and Jabil 1.6T collaboration. Binary thesis: either 453M pipeline converts or it does not. HOLD 38/100.",
     "date": "2026-04-16",
     "universes": []
+  },
+  {
+    "ticker": "EPA:ALRIB",
+    "isin": "FR0000075954",
+    "exchange_code": null,
+    "exchange": null,
+    "rating": "BUY",
+    "recommendation": "BUY",
+    "company": "Riber SA (EPA:ALRIB)",
+    "file": "ribersa",
+    "report_url": "/reports/ribersa",
+    "conviction": 78,
+    "updated": "2026-04-16",
+    "universe": "us_eq",
+    "summary": "MBE systems oligopoly (Riber + Veeco), net income +27%, ROSIE tech, Microsoft as key quantum/photonics customer. BUY conviction 78."
   }
 ]
