@@ -24,9 +24,9 @@ fi
 
 # 2. Reports index
 echo "[2/5] Reports index..."
-CODE=$(curl -s -o /dev/null -w "%{http_code}" "$SITE/reports/index.json")
+CODE=$(curl -s -o /dev/null -w "%{http_code}" "$SITE/reports-index.json")
 if [ "$CODE" = "200" ]; then
-    COUNT=$(curl -s "$SITE/reports/index.json" | python3 -c "import json,sys; d=json.load(sys.stdin); print(len(d))" 2>/dev/null || echo "0")
+    COUNT=$(curl -s "$SITE/reports-index.json" | python3 -c "import json,sys; d=json.load(sys.stdin); print(len(d))" 2>/dev/null || echo "0")
     echo "  OK — $COUNT reports indexed"
 else
     echo "  FAIL — $CODE"
