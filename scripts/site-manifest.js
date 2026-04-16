@@ -8,7 +8,7 @@ const ROOT = path.resolve(__dirname, '..');
 const REPORTS_DIR = path.join(ROOT, 'reports');
 const CANONICAL_INDEX_PATH = path.join(REPORTS_DIR, 'index.json');
 const BROWSER_INDEX_PATH = path.join(ROOT, 'reports-index.json');
-const SOURCE_PAGES = ['index.html', 'portfolio.html'];
+const SOURCE_PAGES = ['index.html', 'portfolio.html', 'methodology.html'];
 const TEMPLATE_FILES = new Set(['template.html', 'report-template.html']);
 
 function readJson(filePath) {
