@@ -198,10 +198,11 @@
     "company": "AIB Group plc",
     "file": "aibgroupplc",
     "report_url": "/reports/aibgroupplc",
-    "conviction": 58,
+    "conviction": 62,
     "summary": "AIB is a domestic Irish bank with a large mortgage and SME lending franchise, so the story rests on net interest income, deposit behaviour, asset quality and capital returns rather than on rapid structural growth. Irish rates and credit conditions have been supportive, but banks rarely deserve compl",
     "date": "2026-04-11",
-    "universes": []
+    "universes": [],
+    "price": "16 April 2026"
   },
   {
     "ticker": "AIG",
@@ -226,11 +227,11 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "BUY (strong)",
-    "recommendation": "BUY (strong)",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "Alkemy Capital Investments plc",
     "file": "alkemycapitalinvestmentsplc",
     "report_url": "/reports/alkemycapitalinvestmentsplc",
-    "conviction": 68,
+    "conviction": 62,
     "summary": "Wates Group appointed construction partner; Glencore offtake binding. Shares pulled back 466p to 301p. FID remains key binary catalyst.",
     "date": "2026-04-16",
     "universes": []
@@ -608,14 +609,15 @@
     "exchange_code": "LN",
     "exchange": "LN",
     "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "recommendation": "SPECULATIVE BUY",
     "company": "Block Energy PLC",
     "file": "blockenergyplc",
     "report_url": "/reports/blockenergyplc",
-    "conviction": 55,
+    "conviction": 35,
     "summary": "Block Energy is a high-risk/high-reward Georgian gas developer with a sub-&#163;15M market cap and an independently certified USD 2.2B NPV10 on Project III alone. The binding farm-out of 51% of Project III to Zhijiang Sanning Energy removes the funding execution risk and fully funds appraisal &#8212",
     "date": "2026-04-14",
-    "universes": []
+    "universes": [],
+    "price": "2026-04-15"
   },
   {
     "ticker": "BMY",
@@ -862,16 +864,17 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "recommendation": "BUY (strong)",
     "company": "ConocoPhillips",
     "file": "conocophillips",
     "report_url": "/reports/conocophillips",
-    "conviction": 50,
+    "conviction": 68,
     "summary": "ConocoPhillips is one of the world's largest integrated oil and gas explorers, with a low-cost production base concentrated in the Permian Basin and LNG exposure via Freeport LNG; near-term uncertainty around OPEC+ supply management and volatile crude prices keep us at HOLD.",
     "date": "2026-04-11",
     "universes": [
       "sp100"
-    ]
+    ],
+    "price": "16 April 2026"
   },
   {
     "ticker": "COR",
@@ -1050,14 +1053,15 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "BUY",
-    "recommendation": "BUY",
+    "recommendation": "BUY (strong)",
     "company": "DCC plc",
     "file": "dccplc",
     "report_url": "/reports/dccplc",
-    "conviction": 80,
+    "conviction": 71,
     "summary": "DCC plc is a high-quality Irish-headquartered international sales, marketing and support services group, trading at 5160.00 GBX (pence) per share (~$66.05 USD equivalent) with a compelling combination of defensive recurring revenue, proven capital allocation discipline, and a valuation discount to h",
     "date": "2026-04-11",
-    "universes": []
+    "universes": [],
+    "price": "16 April 2026"
   },
   {
     "ticker": "DE",
@@ -1274,10 +1278,11 @@
     "company": "EUTELSAT COMMUNICATIONS SA",
     "file": "eutelsatcommunicationssa",
     "report_url": "/reports/eutelsatcommunicationssa",
-    "conviction": 41,
+    "conviction": 38,
     "summary": "Eutelsat has been absolutely destroyed - down ~51% from its 52-week high of EUR 4.74 to EUR 2.33. The stock is sitting 47% above its 52-week low of EUR 1.59, having recovered from the lows but still in a severe downtrend. This is not a value opportunity in the traditional sense - it is a business un",
     "date": "2026-04-07",
-    "universes": []
+    "universes": [],
+    "price": "2026-04-15"
   },
   {
     "ticker": "ETN",
@@ -1552,14 +1557,15 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "recommendation": "BUY (strong)",
     "company": "GLEN.L LN - Glencore plc",
     "file": "glencoreplc",
     "report_url": "/reports/glencoreplc",
-    "conviction": 64,
+    "conviction": 65,
     "summary": "Glencore is one of the world's largest diversified commodity groups, operating mining and marketing assets across copper, zinc, cobalt, coal, oil, and agricultural commodities. The company is distinct from pure-play miners because its marketing and trading arm generates significant, relatively stabl",
     "date": "2026-04-08",
-    "universes": []
+    "universes": [],
+    "price": "2026-04-15"
   },
   {
     "ticker": "GM",
@@ -1758,14 +1764,15 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "SPECULATIVE BUY",
-    "recommendation": "SPECULATIVE BUY",
+    "recommendation": "BUY (strong)",
     "company": "IonQ Inc",
     "file": "ionqinc",
     "report_url": "/reports/ionqinc",
-    "conviction": 47,
+    "conviction": 68,
     "summary": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.55, only 5% off the 52-week high, the market is valuing the company as if quantum commercialisation i",
     "date": "2026-04-08",
-    "universes": []
+    "universes": [],
+    "price": "16 April 2026"
   },
   {
     "ticker": "IR",
@@ -1977,13 +1984,14 @@
     "company": "Coca-Cola Company",
     "file": "cocacolaco",
     "report_url": "/reports/cocacolaco",
-    "conviction": 50,
+    "conviction": 62,
     "summary": "Legacy live source data is limited in this report revision. The preserved thesis content remains below.",
     "date": "2026-04-11",
     "universes": [
       "sp100",
       "fortune100"
-    ]
+    ],
+    "price": "2026-04-15"
   },
   {
     "ticker": "KR",
@@ -2279,14 +2287,15 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "SPECULATIVE BUY",
-    "recommendation": "SPECULATIVE BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "MKANGO RESOURCES LTD",
     "file": "mkangoresourcesltd",
     "report_url": "/reports/mkangoresourcesltd",
-    "conviction": 48,
+    "conviction": 55,
     "summary": "£12.5m raise funds Hypromag Germany acquisition. First commissioning underway. Oversubscribed raise signals confidence. Stock 70p to 42p on dilution; thesis intact.",
     "date": "2026-04-16",
-    "universes": []
+    "universes": [],
+    "price": "16 April 2026"
   },
   {
     "ticker": "MMM",
@@ -2501,16 +2510,17 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "BUY (strong)",
-    "recommendation": "BUY (strong)",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "ServiceNow, Inc.",
     "file": "servicenowinc",
     "report_url": "/reports/servicenowinc",
-    "conviction": 68,
+    "conviction": 55,
     "summary": "ServiceNow's AI-powered workflow automation platform is exceptionally well-positioned for enterprise AI adoption, but at the current valuation the market is paying for a very optimistic growth trajectory with little room for near-term disappointment -- HOLD . HOLD Conviction Score: 68/100 - HOLD",
     "date": "2026-04-11",
     "universes": [
       "sp100"
-    ]
+    ],
+    "price": "2026-04-11"
   },
   {
     "ticker": "NVDA",
@@ -2522,13 +2532,14 @@
     "company": "NVIDIA Corporation",
     "file": "nvidiacorp",
     "report_url": "/reports/nvidiacorp",
-    "conviction": 68,
+    "conviction": 65,
     "summary": "NVIDIA sits at the epicentre of the AI infrastructure buildout, commanding an effective monopoly in AI accelerators via its CUDA ecosystem and the Hopper/Blackwell GPU architecture. At $181.46 the shares trade at a 38.5x trailing P/E, a meaningful compression from the 2024 multiple expansion but sti",
     "date": "2026-04-10",
     "universes": [
       "sp100",
       "fortune100"
-    ]
+    ],
+    "price": "16 April 2026"
   },
   {
     "ticker": "NVTS",
@@ -2568,14 +2579,15 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "SPECULATIVE BUY",
-    "recommendation": "SPECULATIVE BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "Ondo",
     "file": "ondoinsurtechplc",
     "report_url": "/reports/ondoinsurtechplc",
-    "conviction": 48,
+    "conviction": 58,
     "summary": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is enough for a market handle, but not enough to transform it into a high-conviction investment case wit",
     "date": "2026-04-08",
-    "universes": []
+    "universes": [],
+    "price": "16 April 2026"
   },
   {
     "ticker": "ORCL",
@@ -2834,14 +2846,15 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "SPECULATIVE BUY",
-    "recommendation": "SPECULATIVE BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "D-WAVE QUANTUM INC",
     "file": "dwavequantuminc",
     "report_url": "/reports/dwavequantuminc",
-    "conviction": 44,
+    "conviction": 62,
     "summary": "D-Wave is one of the few listed pure-play quantum names with real commercial customers, but it still trades more on narrative than fundamentals. At $14.56 and a ~$5.4bn market cap, the stock is pricing in a lot of future success today.",
     "date": "2026-04-09",
-    "universes": []
+    "universes": [],
+    "price": "16 April 2026"
   },
   {
     "ticker": "QCOM",
@@ -2915,14 +2928,15 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "recommendation": "SPECULATIVE BUY",
     "company": "OCEAN POWER TECHNOLOGIES INC",
     "file": "oceanpowertechnologiesinc",
     "report_url": "/reports/oceanpowertechnologiesinc",
-    "conviction": 61,
+    "conviction": 35,
     "summary": "Ocean Power Technologies is a pre-revenue marine energy and autonomy company that has just started converting a record backlog into delivery. The stock has been obliterated - down ~61% from its 52-week high of EUR 0.769 to EUR 0.2976 - largely on cash burn fears and liquidity concerns. That selloff ",
     "date": "2026-04-07",
-    "universes": []
+    "universes": [],
+    "price": "2026-04-15"
   },
   {
     "ticker": "RYAAY",
@@ -3270,10 +3284,11 @@
     "company": "TOMCO ENERGY POST CON.",
     "file": "tomcoenergyplc",
     "report_url": "/reports/tomcoenergyplc",
-    "conviction": 22,
+    "conviction": 28,
     "summary": "TomCo is deep in the category of AIM micro-cap optionality where the listed equity often behaves more like a perpetual financing stub than an ownership stake in a developing business. At 0.0330p, with a live range of 0.0310p to 0.0332p, the market is effectively telling you the equity has very littl",
     "date": "2026-04-08",
-    "universes": []
+    "universes": [],
+    "price": "2026-04-15"
   },
   {
     "ticker": "TRIB",
@@ -3472,14 +3487,15 @@
     "exchange_code": null,
     "exchange": null,
     "rating": "BUY (strong)",
-    "recommendation": "BUY (strong)",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "VEQT.TO (TSX) - Vanguard All-Equity ETF Portfolio",
     "file": "vanguardallequityetfportfolio",
     "report_url": "/reports/vanguardallequityetfportfolio",
-    "conviction": 71,
+    "conviction": 55,
     "summary": "VEQT is a passive, all-equity index fund-of-funds ETF that holds a diversified portfolio of Vanguard's underlying regional equity ETFs - covering Canada, the US, Europe, Asia, and emerging markets. It offers 100% equity exposure with 13,000+ stocks globally, at a confirmed 0.00% management expense r",
     "date": "2026-04-07",
-    "universes": []
+    "universes": [],
+    "price": "2026-04-15"
   },
   {
     "ticker": "VLO",
@@ -4501,10 +4517,11 @@
     "company": "The Pebble Group PLC",
     "file": "thepebblegroupplc",
     "report_url": "/reports/thepebblegroupplc",
-    "conviction": 58,
+    "conviction": 52,
     "summary": "The Pebble Group is a UK promotional merchandise and workwear distributor. HOLD at 62.50 GBX, conviction 58.",
     "date": "2026-04-15",
-    "universes": []
+    "universes": [],
+    "price": "16 April 2026"
   },
   {
     "ticker": "LON:TBN",
