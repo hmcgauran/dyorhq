@@ -58,6 +58,24 @@ main { padding: 32px 0 80px; }
 .conviction-display.rec-hold { border-top-color: var(--base); }
 .conviction-display.rec-reduce { border-top-color: #f97316; }
 .conviction-display.rec-sell { border-top-color: var(--bear); }
+
+/* OPPORTUNISTIC BUY - amber/gold, distinct from HOLD */
+.conviction-display.rec-opportunisticbuy, .score.rec-opportunisticbuy {
+  color: var(--gold, #f0b429);
+}
+.conviction-display.rec-opportunisticbuy { border-top-color: var(--gold, #f0b429); }
+
+/* SPECULATIVE BUY - orange, same as reduce */
+.conviction-display.rec-speculativebuy, .score.rec-speculativebuy {
+  color: #f97316;
+}
+.conviction-display.rec-speculativebuy { border-top-color: #f97316; }
+
+/* AVOID - red */
+.conviction-display.rec-avoid, .score.rec-avoid {
+  color: #dc2626;
+}
+.conviction-display.rec-avoid { border-top-color: #dc2626; }
 .conviction-display .score { font-size: 42px; line-height: 1; font-weight: 800; }
 .score-label, .score-sub { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; }
 .score-sub { margin-top: 4px; }

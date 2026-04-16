@@ -19,6 +19,9 @@
   --rec-hold: #f0b429;
   --rec-reduce: #ff8c00;
   --rec-sell: #ff4d4d;
+  --rec-opportunisticbuy: #f0b429;
+  --rec-speculativebuy: #ff8c00;
+  --rec-avoid: #dc2626;
   --font: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, sans-serif;
   --font-mono: "SF Mono", "Fira Code", "Cascadia Code", Consolas, monospace;
   --radius: 6px;
@@ -214,6 +217,28 @@ header {
 .filter-btn.active {
   color: var(--accent-green);
   box-shadow: inset 0 0 0 1px rgba(0, 255, 136, 0.16);
+}
+
+/* Recommendation-specific filter button active colours */
+.filter-btn[data-rec="BUY (strong)"].active {
+  color: var(--rec-buy);
+  border-color: var(--rec-buy);
+  box-shadow: inset 0 0 0 1px rgba(0, 255, 136, 0.16);
+}
+.filter-btn[data-rec="OPPORTUNISTIC BUY"].active {
+  color: #f0b429;
+  border-color: #f0b429;
+  box-shadow: inset 0 0 0 1px rgba(240, 180, 41, 0.16);
+}
+.filter-btn[data-rec="SPECULATIVE BUY"].active {
+  color: #ff8c00;
+  border-color: #ff8c00;
+  box-shadow: inset 0 0 0 1px rgba(255, 140, 0, 0.16);
+}
+.filter-btn[data-rec="Avoid"].active {
+  color: #dc2626;
+  border-color: #dc2626;
+  box-shadow: inset 0 0 0 1px rgba(220, 38, 38, 0.16);
 }
 
 .univ-tab.active::after,
@@ -504,6 +529,40 @@ input[type="search"]::placeholder {
   --rec-badge-color: var(--rec-sell);
   --rec-badge-bg: rgba(255, 77, 77, 0.15);
   --rec-badge-border: rgba(255, 77, 77, 0.34);
+}
+
+.rec-badge.buy-strong,
+.rec-badge.rec-buy-strong,
+.rec-badge.rec-buy \(strong\) {
+  --rec-badge-color: var(--rec-buy);
+  --rec-badge-bg: rgba(0, 255, 136, 0.14);
+  --rec-badge-border: rgba(0, 255, 136, 0.34);
+}
+
+.rec-badge.opportunistic,
+.rec-badge.rec-opportunisticbuy,
+.rec-badge.rec-opportunistic-buy,
+.rec-badge.OPP-BUY {
+  --rec-badge-color: var(--rec-opportunistic);
+  --rec-badge-bg: rgba(255, 180, 0, 0.14);
+  --rec-badge-border: rgba(255, 180, 0, 0.34);
+}
+
+.rec-badge.speculative,
+.rec-badge.rec-speculativebuy,
+.rec-badge.rec-speculative-buy,
+.rec-badge.SPEC-BUY {
+  --rec-badge-color: var(--rec-speculative);
+  --rec-badge-bg: rgba(255, 140, 0, 0.14);
+  --rec-badge-border: rgba(255, 140, 0, 0.34);
+}
+
+.rec-badge.avoid,
+.rec-badge.rec-avoid,
+.rec-badge.AVOID {
+  --rec-badge-color: var(--rec-avoid);
+  --rec-badge-bg: rgba(220, 38, 38, 0.14);
+  --rec-badge-border: rgba(220, 38, 38, 0.34);
 }
 
 .card-date {
