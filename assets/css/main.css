@@ -558,7 +558,7 @@ input[type="search"]::placeholder {
 .rec-badge.rec-opportunisticbuy,
 .rec-badge.rec-opportunistic-buy,
 .rec-badge.OPP-BUY {
-  --rec-badge-color: var(--rec-opportunistic);
+  --rec-badge-color: var(--rec-opportunisticbuy);
   --rec-badge-bg: rgba(255, 180, 0, 0.14);
   --rec-badge-border: rgba(255, 180, 0, 0.34);
 }
@@ -567,7 +567,7 @@ input[type="search"]::placeholder {
 .rec-badge.rec-speculativebuy,
 .rec-badge.rec-speculative-buy,
 .rec-badge.SPEC-BUY {
-  --rec-badge-color: var(--rec-speculative);
+  --rec-badge-color: var(--rec-speculativebuy);
   --rec-badge-bg: rgba(255, 140, 0, 0.14);
   --rec-badge-border: rgba(255, 140, 0, 0.34);
 }

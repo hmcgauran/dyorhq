@@ -36,7 +36,14 @@
 
   function recClass(rec) {
     if (!rec) return 'hold';
-    return rec.toLowerCase().replace(/\s+/g, '-');
+    // Normalise recommendation to CSS class name
+    const r = rec.toUpperCase().trim();
+    if (r === 'BUY (STRONG)') return 'buy-strong';
+    if (r === 'OPPORTUNISTIC BUY') return 'opportunisticbuy';
+    if (r === 'SPECULATIVE BUY') return 'speculativebuy';
+    if (r === 'AVOID') return 'avoid';
+    if (r === 'BUY') return 'buy';
+    return rec.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
   }
 
   function convictionColor(score) {
