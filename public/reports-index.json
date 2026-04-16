@@ -5120,5 +5120,20 @@
     "summary": "Sivers Semiconductors is a Swedish photonics and mmWave semiconductor company with a 630% stock run from 52w lows driven by AI optical interconnect demand and Jabil 1.6T collaboration. Binary thesis: either 453M pipeline converts or it does not. HOLD 38/100.",
     "date": "2026-04-16",
     "universes": []
+  },
+  {
+    "ticker": "RIBERS",
+    "isin": "ES0173902005",
+    "exchange_code": null,
+    "exchange": null,
+    "rating": "BUY",
+    "recommendation": "BUY",
+    "company": "Riber SA",
+    "file": "ribersa",
+    "report_url": "/reports/ribersa",
+    "conviction": 78,
+    "summary": "Riber SA is a leading manufacturer of molecular beam epitaxy (MBE) equipment used in compound semiconductor wafer production. The company benefits from the growing gallium arsenide and indium phosphide wafer market, driven by 5G infrastructure, data centre demand, and defence electronics. Strong backlog, proprietary in-house crystal growth technology, and a recurring service revenue stream support the thesis.",
+    "date": "2026-04-16",
+    "universes": []
   }
 ]

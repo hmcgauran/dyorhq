@@ -26,6 +26,7 @@
         <ul class="nav-links">
           <li><a href="index.html">Reports</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="methodology.html">Methodology</a></li>
         </ul>
       </nav>
     </div>
@@ -68,11 +69,13 @@
             <div class="method-col">
               <h3>Conviction Scoring</h3>
               <ul>
-                <li><strong>BUY 80+</strong> - Clear thesis, near-term catalyst, manageable risk</li>
-                <li><strong>HOLD 60-79</strong> - Thesis intact, some execution risk ahead</li>
-                <li><strong>REDUCE 40-59</strong> - Thesis questioned, catalysts distant</li>
-                <li><strong>SELL &lt;40</strong> - Thesis broken or binary outcome</li>
+                <li><strong>BUY 80-100</strong> — Exceptional case, multiple catalysts</li>
+                <li><strong>BUY (strong) 65-79</strong> — Strong case, full position</li>
+                <li><strong>OPPORTUNISTIC BUY 50-64</strong> — Half position, catalyst required</li>
+                <li><strong>SPECULATIVE BUY 30-49</strong> — Binary event required</li>
+                <li><strong>Avoid 0-29</strong> — Thesis broken</li>
               </ul>
+              <p><a href="methodology.html" style="color:#f0b429;font-size:0.85rem;">Read full methodology &rarr;</a></p>
             </div>
           </div>
           <p class="methodology-note">This is research, not financial advice. Every report is a structured starting point - always do your own due diligence before making investment decisions.</p>
@@ -99,9 +102,10 @@
         <div class="filter-group" role="group" aria-label="Filter by recommendation">
           <button class="filter-btn active" data-rec="ALL">All</button>
           <button class="filter-btn" data-rec="BUY">Buy</button>
-          <button class="filter-btn" data-rec="HOLD">Hold</button>
-          <button class="filter-btn" data-rec="REDUCE">Reduce</button>
-          <button class="filter-btn" data-rec="SELL">Sell</button>
+          <button class="filter-btn" data-rec="BUY (strong)">Buy (strong)</button>
+          <button class="filter-btn" data-rec="OPPORTUNISTIC BUY">Opportunistic</button>
+          <button class="filter-btn" data-rec="SPECULATIVE BUY">Speculative</button>
+          <button class="filter-btn" data-rec="Avoid">Avoid</button>
         </div>
         <span id="report-count" style="font-size:13px;color:var(--text-muted);white-space:nowrap;"></span>
       </div>

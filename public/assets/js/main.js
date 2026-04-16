@@ -131,7 +131,14 @@
     if (activeFilter === 'FAVOURITES') {
       result = result.filter(r => allFavs.includes((r.ticker || '').toUpperCase()));
     } else if (activeFilter !== 'ALL') {
-      result = result.filter(r => baseRecommendation(r) === activeFilter);
+      const filterUpper = activeFilter.toUpperCase();
+      if (filterUpper === 'BUY') {
+        result = result.filter(r => { const b = baseRecommendation(r); return b === 'BUY' || b === 'BUY (STRONG)'; });
+      } else if (filterUpper === 'AVOID') {
+        result = result.filter(r => { const b = baseRecommendation(r); return b === 'AVOID' || b === 'SELL'; });
+      } else {
+        result = result.filter(r => baseRecommendation(r) === activeFilter.toUpperCase());
+      }
     }
 
     if (q) {
