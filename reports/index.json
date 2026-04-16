@@ -390,7 +390,7 @@
   },
   {
     "ticker": "ASTS",
-    "company": "AST SpaceMobile Inc",
+    "company": "AST SPACEMOBILE INC CLASS A",
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 58,
     "date": "2026-04-16",
@@ -685,7 +685,7 @@
   },
   {
     "ticker": "CAD",
-    "company": "CAD TSX-V - Colonial Coal International Corp",
+    "company": "COLONIAL COAL INTERNATIONAL CORP",
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 55,
     "date": "2026-04-08",
@@ -1224,7 +1224,7 @@
   },
   {
     "ticker": "ETL.PA",
-    "company": "ETL.PA (Euronext Paris) / ETL.L (LSE) - Eutelsat Communications",
+    "company": "EUTELSAT COMMUNICATIONS SA",
     "recommendation": "SPECULATIVE BUY",
     "conviction": 41,
     "date": "2026-04-07",
@@ -1306,7 +1306,7 @@
   },
   {
     "ticker": "FFAI",
-    "company": "Faraday Future Intelligent Electric Inc",
+    "company": "FARADAY FUTURE INTELLIGENT ELECT...",
     "recommendation": "Avoid",
     "conviction": 18,
     "date": "2026-04-08",
@@ -1435,7 +1435,7 @@
   },
   {
     "ticker": "GGP.L",
-    "company": "GGP.L LN - Greatland Resources Ltd",
+    "company": "GREATLAND RESOURCES LTD",
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 57,
     "date": "2026-04-08",
@@ -1729,7 +1729,7 @@
   },
   {
     "ticker": "IREN",
-    "company": "Iris Energy Ltd",
+    "company": "IREN LTD",
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 61,
     "date": "2026-04-08",
@@ -1875,7 +1875,7 @@
   },
   {
     "ticker": "KBGGY",
-    "company": "KBGGY NO - Kongsberg Gruppen ASA",
+    "company": "KONGSBERG GRUPPEN ASA",
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 58,
     "date": "2026-04-08",
@@ -2203,7 +2203,7 @@
   },
   {
     "ticker": "MKA.L",
-    "company": "MKA.L LN - Mkango Resources Ltd",
+    "company": "MKANGO RESOURCES LTD",
     "recommendation": "SPECULATIVE BUY",
     "conviction": 48,
     "date": "2026-04-16",
@@ -2741,7 +2741,7 @@
   },
   {
     "ticker": "QBTS",
-    "company": "QBTS US - D-Wave Quantum Inc",
+    "company": "D-WAVE QUANTUM INC",
     "recommendation": "SPECULATIVE BUY",
     "conviction": 44,
     "date": "2026-04-09",
@@ -2823,7 +2823,7 @@
   },
   {
     "ticker": "RUOC.F",
-    "company": "RUOC.F (FRA) / OPTT (NYSE American) - Ocean Power Technologies",
+    "company": "OCEAN POWER TECHNOLOGIES INC",
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 61,
     "date": "2026-04-07",
@@ -2888,7 +2888,7 @@
   },
   {
     "ticker": "SHOP",
-    "company": "SHOP US - Shopify Inc",
+    "company": "SHOPIFY INC CLASS A",
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 62,
     "date": "2026-04-08",
@@ -2984,7 +2984,7 @@
   },
   {
     "ticker": "SPIR",
-    "company": "Spire Global Inc",
+    "company": "SPIRE GLOBAL INC CLASS A",
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 60,
     "date": "2026-04-08",
@@ -3081,7 +3081,7 @@
   },
   {
     "ticker": "TDY",
-    "company": "TDY US - Teledyne Technologies Inc",
+    "company": "TELEDYNE TECHNOLOGIES INC",
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 64,
     "date": "2026-04-08",
@@ -3163,7 +3163,7 @@
   },
   {
     "ticker": "TOM.L",
-    "company": "TomCo Energy plc",
+    "company": "TOMCO ENERGY POST CON.",
     "recommendation": "Avoid",
     "conviction": 22,
     "date": "2026-04-08",
@@ -3476,7 +3476,7 @@
   },
   {
     "ticker": "XPEV",
-    "company": "XPEV US - XPeng Inc",
+    "company": "ADR ON XPENG INC",
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 58,
     "date": "2026-04-09",
@@ -4610,7 +4610,7 @@
   },
   {
     "ticker": "ASX:PVE",
-    "company": "Po Valley Energy Limited",
+    "company": "PO VALLEY ENERGY LTD",
     "recommendation": "SPECULATIVE BUY",
     "conviction": 45,
     "date": "2026-04-15",
