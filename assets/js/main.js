@@ -133,7 +133,7 @@
     } else if (activeFilter !== 'ALL') {
       const filterUpper = activeFilter.toUpperCase();
       if (filterUpper === 'BUY') {
-        result = result.filter(r => { const b = baseRecommendation(r); return b === 'BUY' || b === 'BUY (STRONG)'; });
+        result = result.filter(r => baseRecommendation(r) === 'BUY');
       } else if (filterUpper === 'AVOID') {
         result = result.filter(r => { const b = baseRecommendation(r); return b === 'AVOID' || b === 'SELL'; });
       } else {
