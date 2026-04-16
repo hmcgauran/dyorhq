@@ -5105,5 +5105,20 @@
     "summary": "Canadian explorer on the Lewis Hills iron oxide copper gold project in Newfoundland. Early stage.",
     "date": "2026-04-15",
     "universes": []
+  },
+  {
+    "ticker": "SIVE",
+    "isin": "SE0003917798",
+    "exchange_code": "STO",
+    "exchange": "Nasdaq Stockholm",
+    "rating": "HOLD",
+    "recommendation": "HOLD",
+    "company": "Sivers Semiconductors AB",
+    "file": "siverssemiconductorsab",
+    "report_url": "/reports/siverssemiconductorsab",
+    "conviction": 38,
+    "summary": "Sivers Semiconductors is a Swedish photonics and mmWave semiconductor company with a 630% stock run from 52w lows driven by AI optical interconnect demand and Jabil 1.6T collaboration. Binary thesis: either 453M pipeline converts or it does not. HOLD 38/100.",
+    "date": "2026-04-16",
+    "universes": []
   }
 ]
