@@ -1,5 +1,8 @@
 # DYOR HQ — Report Generation Architecture
 
+> **⚠ PARTIALLY STALE — updated 17 April 2026**
+> Project path is `projects/dyorhq-v4/` (not `projects/dyorhq/`). Active branch is `dyor-v4-work` (not `dyor-v4-work`). Report count is 324 (not 319). For current pipeline and file paths, see `REPORT-GENERATION-SKILL.md`.
+
 > Version 1.0 | 17 April 2026 | For internal review and AI-assisted improvement
 
 ---
@@ -239,13 +242,13 @@ Build aborts on any validation error. No silent failures.
 
 **GitHub remote:** `https://github.com/hmcgauran/dyorhq.git`
 
-**Branch tracked by Netlify:** `dyor-v3-work`
+**Branch tracked by Netlify:** `dyor-v4-work`
 
 ### 6.1 Flow
 
-1. Work committed to `dyor-v3-work`
-2. `git push origin dyor-v3-work`
-3. Netlify detects push on `dyor-v3-work` → triggers build
+1. Work committed to `dyor-v4-work`
+2. `git push origin dyor-v4-work`
+3. Netlify detects push on `dyor-v4-work` → triggers build
 4. `netlify.toml` runs `node scripts/build-site.js`
 5. Built output served from `public/` directory
 
@@ -300,7 +303,7 @@ Write the HTML using the standard 11-section structure. Use MiniMax for content 
 ### Step 6 — Deploy
 
 ```bash
-git add -A && git commit -m "Description" && git push origin dyor-v3-work
+git add -A && git commit -m "Description" && git push origin dyor-v4-work
 ```
 
 Netlify auto-deploys within seconds.

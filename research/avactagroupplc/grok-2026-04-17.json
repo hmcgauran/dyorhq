@@ -2,12 +2,12 @@
   "score": 73,
   "signal": "positive",
   "key_themes": [
-    "therapeutic development",
+    "innovative diagnostics",
     "partnership potential",
     "stock volatility",
-    "clinical trials",
-    "market optimism"
+    "clinical progress",
+    "market expansion"
   ],
-  "summary": "Avacta Group Plc (AVCT) shows positive sentiment driven by promising updates in its therapeutic and diagnostic programs, particularly in cancer treatments, with analysts expressing cautious optimism. Recent price momentum reflects bullish trends, supported by potential near-term catalysts like clinical trial results and partnership announcements.",
-  "raw": "{\n  \"score\": 65,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"therapeutic development\", \"partnership potential\", \"stock volatility\", \"clinical trials\", \"market optimism\"],\n  \"summary\": \"Avacta Group Plc (AVCT) shows positive sentiment driven by promising updates in its therapeutic and diagnostic programs, particularly in cancer treatments, with analysts expressing cautious optimism. Recent price momentum reflects bullish trends, supported by potential near-term catalysts like clinical trial results and partnership announcements.\"\n}"
+  "summary": "Avacta Group Plc (AVCT) shows positive sentiment driven by recent progress in its diagnostics and therapeutics divisions, particularly with its Affimer platform, alongside optimistic analyst commentary on potential partnerships. While price momentum has been volatile, near-term catalysts like clinical trial updates and commercial deals bolster a bullish outlook.",
+  "raw": "{\n  \"score\": 65,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"innovative diagnostics\", \"partnership potential\", \"stock volatility\", \"clinical progress\", \"market expansion\"],\n  \"summary\": \"Avacta Group Plc (AVCT) shows positive sentiment driven by recent progress in its diagnostics and therapeutics divisions, particularly with its Affimer platform, alongside optimistic analyst commentary on potential partnerships. While price momentum has been volatile, near-term catalysts like clinical trial updates and commercial deals bolster a bullish outlook.\"\n}"
 }
