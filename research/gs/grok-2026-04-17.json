@@ -1,20 +1,20 @@
 {
   "ticker": "GS",
   "date": "2026-04-17",
-  "score": 68,
+  "score": 72,
   "signal": "positive",
   "key_themes": [
-    "Strong Q1 2026 earnings beat with record equities trading revenue",
-    "Investment banking momentum and high ROE of 19.8%",
-    "FICC trading weakness causing post-earnings stock pullback",
-    "Constructive 2026 macroeconomic outlook from GS Research",
-    "Profit-taking after strong run amid macro volatility concerns"
+    "Strong Q1 2026 earnings beat with record revenues",
+    "Resurgence in investment banking and M&A fees (+48%)",
+    "Robust trading performance (especially equities) amid volatility",
+    "Significant shareholder returns via buybacks and dividend",
+    "Lingering concerns on FICC miss, capital ratios, and efficiency"
   ],
   "sources": [
-    "10+ news articles (CNBC, Reuters, Seeking Alpha, Yahoo Finance) on Q1 2026 earnings",
-    "20+ recent X posts reacting to earnings and stock movement",
-    "Social sentiment data (AltIndex scores ~72-88/100, positive vs peers)"
+    "15+ recent news articles and earnings reports (Yahoo Finance, WSJ, Goldman IR, CNBC)",
+    "20+ X posts analyzed (Latest and semantic search for $GS earnings)",
+    "Multiple Reddit threads on GS market commentary and hedge fund positioning"
   ],
-  "summary": "Goldman Sachs delivered standout Q1 2026 results, posting its second-highest quarterly revenue and EPS ever ($17.55 beat vs. ~$16.50 expected) on record equities trading and stronger investment banking, achieving a robust 19.8% ROE. The stock dipped initially on a FICC miss and profit-taking but has stabilized near $900, with the firm's own economists forecasting sturdy 2.8% global growth. Investor sentiment is positive overall, underpinned by franchise strength despite short-term macro and segment-specific concerns.",
-  "fetchedAt": "2026-04-17T15:59:06.335Z"
+  "summary": "Goldman Sachs reported exceptional Q1 2026 results on April 13, with EPS of $17.55 (beating estimates), net revenues of $17.23B (+14% YoY), net earnings up 19%, and ROE at 19.8%. Investment banking fees surged 48% on dealmaking recovery while equities trading hit records, though FICC was softer. The stock has delivered strong longer-term gains (roughly +80% over one year) and the firm aggressively returned capital ($5B buybacks + raised dividend), supporting bullish investor views despite some post-earnings profit-taking and commentary on capital metrics. Sentiment is solidly positive on the firm's franchise strength in volatile markets.",
+  "fetchedAt": "2026-04-17T17:04:39.297Z"
 }

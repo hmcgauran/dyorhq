@@ -1,19 +1,21 @@
 {
   "ticker": "HD",
   "date": "2026-04-17",
-  "score": 48,
-  "signal": "positive",
+  "score": -18,
+  "signal": "negative",
   "key_themes": [
-    "Bullish Wall Street consensus with ~23% upside to $408–$415 targets",
-    "Housing market slowdown and cautious FY2026 outlook",
-    "Dividend growth and operational resilience (supply chain, Pro customers)",
-    "Technical support levels and buy-the-dip opportunities",
-    "Mixed recent sales but long-term recovery potential"
+    "Persistent housing market weakness and high interest rates suppressing big-ticket DIY/Pro demand",
+    "Flat comparable sales (0.3% in FY2025) with downward estimate revisions and softer Q4 results",
+    "Dividend hike (1.3% increase, 17th consecutive year) providing resilience and income appeal",
+    "Expensive valuation (26x P/E) leading to 'hold' ratings despite long-term recovery potential",
+    "Technical support testing with mixed trader views on near-term rebound vs. further downside"
   ],
   "sources": [
-    "20+ news/analysis articles (Yahoo Finance, CNBC, Seeking Alpha, TipRanks, MarketBeat, company IR)",
-    "~25 relevant X posts (semantic + keyword searches since early 2025, focus on 2026 discussions)"
+    "20+ web news/analysis articles (Feb-Apr 2026)",
+    "Official Home Depot Q4/FY2025 earnings release (Feb 2026)",
+    "12+ recent X posts (Jan-Apr 2026)",
+    "Multiple Reddit threads (r/dividends, r/ValueInvesting, r/HomeDepot, r/stocks)"
   ],
-  "summary": "Home Depot ($HD) faces near-term pressure from a 'frozen' housing market, modest comparable sales (+0.3% FY2025), and Q4 sales decline (partly calendar-driven), with the stock trading near $337–$342 in mid-April 2026 (YTD and 1-year slightly negative).[[1]](https://www.cnbc.com/quotes/HD)[[2]](https://www.marketwatch.com/investing/stock/hd) However, analysts remain strongly bullish (Strong Buy/Moderate Buy consensus from 39 firms), citing resilience, dividend increases (recent +1.3%), and substantial upside to $408–$415 targets.[[3]](https://tickernerd.com/stock/hd-forecast/)[[4]](https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-story-shifting-230819779.html) Social and investor chatter highlights technical support at long-term trendlines and views current levels as a buying opportunity despite comparisons to Lowe’s.[[5]](https://www.tradingkey.com/news/Market-Movers/261762494-market-movers-hd-20260408)",
-  "fetchedAt": "2026-04-17T15:59:41.726Z"
+  "summary": "Home Depot (HD) sentiment is mildly negative in mid-April 2026 as the stock sits down ~14% YTD amid macro headwinds, minimal comp sales growth, and a challenging housing environment.[[1]](https://www.tikr.com/blog/home-depot-stock-is-down-14-in-2026-heres-whats-driving-hd-after-q4-results)[[2]](https://www.fool.com/investing/2026/03/04/is-home-depot-a-buy-sell-or-hold-in-2026/) FY2025 sales rose 3.2% but earnings declined, with guidance for flat-to-modest growth in 2026; analysts largely recommend 'hold' citing expensive valuation while noting patient long-term optimism tied to eventual rate cuts.[[2]](https://www.fool.com/investing/2026/03/04/is-home-depot-a-buy-sell-or-hold-in-2026/) Dividend growth and technical support levels around $330-345 generate some buyer interest on X and Reddit, but near-term enthusiasm remains muted with comparisons to stronger peer LOW frequently unfavorable.",
+  "fetchedAt": "2026-04-17T17:05:11.622Z"
 }

@@ -1,19 +1,20 @@
 {
   "ticker": "F",
   "date": "2026-04-17",
-  "score": 58,
+  "score": 28,
   "signal": "positive",
   "key_themes": [
-    "Strategic restructuring with new Product Creation and Industrialization organization targeting 8% profit margin by 2029",
-    "Q1 retail market share gains and strong high-margin SUV growth (Explorer +30%, Expedition +30%) despite 8.8% overall sales decline",
-    "UBS upgrade to Buy with $15 target, citing pragmatic EV strategy, domestic production flexibility, and path to >$2 EPS in 2027",
-    "Hybrid sales strength, Ford Pro software subscription growth (+29%), and F-Series truck leadership",
-    "Stock price momentum with recent gains to ~$12.70 and technical breakouts; tariff/China concerns viewed as overdone by bulls"
+    "EV transition struggles with heavy losses and sharp Q1 sales declines (Mach-E down ~60-70%)",
+    "Strength in Ford Pro commercial/truck business offsetting weaknesses",
+    "Organizational restructuring, new Product Creation group, China partnerships, and portfolio refresh targeting 8% EBIT margin by 2029",
+    "Attractive valuation (around 10x earnings) with recent UBS upgrade to Buy and consensus price targets implying upside",
+    "Operational risks including major recalls (1.4M vehicles) and mixed analyst PT adjustments"
   ],
   "sources": [
-    "20+ recent news articles, sales releases, and analyst reports",
-    "20+ X posts and investor discussions (April 2026)"
+    "15+ recent news articles (Yahoo Finance, Benzinga, TipRanks, MarketBeat, Ford Authority)",
+    "20+ X posts (Latest and semantic search since March 2026)",
+    "Multiple Reddit threads (r/stocks, r/dividends, r/MachE, r/ValueInvesting)"
   ],
-  "summary": "Ford is generating moderately positive sentiment among investors and analysts. The company delivered Q1 2026 retail share gains to 11.6% driven by double-digit growth in high-margin large SUVs and maintained F-Series leadership, even as total U.S. sales fell 8.8% amid model transitions and a tough comparison. A major new Product Creation and Industrialization organization was announced alongside leadership changes to accelerate next-gen vehicles, software, and hit an 8% margin target by 2029, while UBS upgraded the stock to Buy with a $15 PT, arguing fears over aluminum tariffs and input costs are overblown given Ford's U.S. production strengths. Shares have risen in April to the $12.60-$12.70 range with bullish social media commentary on breakouts, insider buying signals, and higher price targets ahead of the April 29 earnings release; EV weakness remains a drag but hybrids and commercial software are bright spots.",
-  "fetchedAt": "2026-04-17T15:58:20.871Z"
+  "summary": "Ford stock has declined 9-16% YTD through early April 2026 amid weak Q1 vehicle sales (down ~9% overall, EV sales collapsed), ongoing Model e losses, and recalls, but sentiment is turning cautiously optimistic. Strong Ford Pro performance, a major restructuring to accelerate vehicle/software development, China EV supply-chain partnerships, and a cheap valuation are drawing bullish commentary—highlighted by UBS’s recent upgrade to Buy citing overdone tariff fears and a path to significantly higher EPS longer-term. With Q1 earnings due April 29, investors appear focused on execution, margin recovery, and the shift toward pragmatic electrification rather than pure EV volume.[[1]](https://finance.yahoo.com/markets/stocks/articles/ford-motor-company-f-falls-214502636.html)[[2]](https://www.mexc.com/news/1015590)[[3]](https://x.com/NewsFromWSB/status/2044135900368548239)",
+  "fetchedAt": "2026-04-17T17:03:45.862Z"
 }

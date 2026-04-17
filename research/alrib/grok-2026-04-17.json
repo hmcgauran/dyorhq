@@ -1,0 +1,20 @@
+{
+  "ticker": "ALRIB",
+  "date": "2026-04-17",
+  "score": -25,
+  "signal": "negative",
+  "key_themes": [
+    "Sharp price correction and high volatility after parabolic multi-month gains",
+    "Improved 2025 profitability (net income +27% to €5.2m, better margins) despite modest revenue decline (-2%)",
+    "Growing order book (+24%) and new orders (e.g. MBE 6000 from Japan for quantum-dot lasers in datacom)",
+    "High valuation concerns (elevated P/E vs. low analyst targets around €6) triggering profit-taking",
+    "Momentum tied to semiconductor equipment demand for AI/datacom/quantum applications"
+  ],
+  "sources": [
+    "20+ recent X posts (high volume today discussing drop, halts, and results reaction)",
+    "Multiple news articles and press releases on 2025 full-year results (April 2026), Japan order, and proposed dividend increase",
+    "Yahoo Finance, Simply Wall St, company IR (riber.com), Morningstar, and TradingView coverage"
+  ],
+  "summary": "Riber S.A. (ALRIB.PA), a molecular beam epitaxy (MBE) equipment maker for advanced semiconductors, reported 2025 results with stable-to-slightly-lower revenue (€40.3m, -2%) but significantly improved profitability, 27% higher net income, a 24% larger order book, solid cash, and a proposed 25% dividend increase.[[1]](https://www.globenewswire.com/news-release/2026/04/08/3269808/0/en/RIBER-delivers-strong-earnings-growth-in-2025.html)[[2]](https://www.semiconductor-today.com/news_items/2026/apr/riber-100426.shtml) Positive long-term drivers include repeat orders for its MBE 6000 platform from Japan for quantum-dot laser production aimed at datacom markets.[[3]](https://www.riber.com/financial_documents/riber-receives-a-new-order-from-japan-for-mbe-6000-to-scale-quantum-dot-laser-production-for-datacom/) However, after an explosive run-up (hundreds of percent in the past year from a low base), the stock experienced a sharp correction today with trading halts, significant intraday drops, and heavy social media discussion focused on the revenue miss and profit-taking. Short-term sentiment is negative amid volatility, though the underlying growth narrative in semiconductors remains intact for patient investors.",
+  "fetchedAt": "2026-04-17T17:08:01.297Z"
+}

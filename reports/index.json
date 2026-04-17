@@ -629,19 +629,18 @@
   },
   {
     "ticker": "GOOGL",
-    "company": "GOOGL - Alphabet Inc Class A",
+    "company": "Alphabet Inc Class A",
     "isin": "US02079K3059",
-    "exchange": "",
-    "file": "alphabetincclassa.html",
-    "date": "2026-04-16",
-    "recommendation": "BUY",
-    "conviction": 68,
+    "exchange": "NASDAQ",
+    "file": "googl.html",
+    "date": "2026-04-17",
+    "recommendation": "OPPORTUNISTIC BUY",
+    "conviction": 62,
     "currency": "USD",
-    "price": 317.26,
-    "marketCap": null,
+    "price": 339.07,
+    "marketCap": "$4.08T",
     "summary": "Alphabet's primary business is Google Search, which processes over 8.5 billion queries daily and generates the majority of group profits through targeted advertising. This is supported by the Google Display Network, YouTube advertising (pre-roll, in-stream and Shorts), and Google Network partner revenues. Google Cloud - encompassing Google Workspace productivity tools, GCP infrastructure-as-a-service, and AI platform services - is the second major revenue pillar and the fastest-growing segment.",
     "universes": [
-      "sp100",
       "us",
       "watchlist"
     ],
@@ -650,10 +649,15 @@
     "peAtLastReport": null,
     "convictionHistory": [
       {
-        "date": "2026-04-16",
-        "conviction": 68
+        "date": "2026-04-17",
+        "conviction": 62
       }
-    ]
+    ],
+    "pe": 31.37,
+    "eps": 10.81,
+    "beta": 1.13,
+    "52wHigh": 349,
+    "52wLow": 146.1
   },
   {
     "ticker": "GOOG",
@@ -6997,16 +7001,17 @@
     "ticker": "ALRIB",
     "company": "Riber SA",
     "isin": "FR001400A4K1",
-    "exchange": "",
-    "file": "ribersa.html",
-    "date": "2026-04-16",
-    "recommendation": "BUY",
-    "conviction": 78,
+    "exchange": "EPA",
+    "file": "alrib.html",
+    "date": "2026-04-17",
+    "recommendation": "AVOID",
+    "conviction": 24,
     "currency": "EUR",
-    "price": 15.24,
-    "marketCap": null,
+    "price": 13,
+    "marketCap": "EUR276M",
     "summary": "Riber SA is a French oligopoly in the making. The company designs and manufactures Molecular Beam Epitaxy (MBE) systems — the equipment used to deposit thin semiconductor films with atomic-layer precision. There are two global manufacturers of production-scale MBE systems: Riber and Veeco. That is the entire competitive landscape. Riber's customers include major semiconductor foundries, research institutions, and hyperscalers including Microsoft, for applications in silicon photonics, quantum computing, and advanced RF semiconductors. The grok sentiment score of 82/100 reflects this uniqueness: a profitable, dividend-paying small-cap with genuine oligopoly characteristics and direct exposure to the two most important themes in semiconductors — silicon photonics (data centre AI infrastructure) and quantum computing (qubit fabrication).",
     "universes": [
+      "eu",
       "watchlist"
     ],
     "priceAtLastReport": 15.24,
@@ -7014,10 +7019,15 @@
     "peAtLastReport": null,
     "convictionHistory": [
       {
-        "date": "2026-04-16",
-        "conviction": 78
+        "date": "2026-04-17",
+        "conviction": 24
       }
-    ]
+    ],
+    "pe": 84.81,
+    "eps": 0.15,
+    "beta": null,
+    "52wHigh": 18.5,
+    "52wLow": 2.22
   },
   {
     "ticker": "RGTI",
@@ -7144,7 +7154,7 @@
     "currency": "USD",
     "price": 62.36,
     "marketCap": null,
-    "summary": "Ryanair is Europe's dominant low-cost carrier with a structural cost advantage versus legacy peers, trading at a modest P/E despite a compelling capacity growth runway and strong pricing environment -- BUY . BUY Conviction Score: 80/100 - BUY",
+    "summary": "Ryanair is Europe's dominant low-cost airline with a structural cost advantage versus legacy peers, offering a compelling capacity growth runway and strong pricing power at a modest P/E despite near-term headwinds from aircraft delivery delays.",
     "universes": [
       "irish",
       "watchlist"
@@ -7694,16 +7704,17 @@
     "ticker": "TBN",
     "company": "Tamboran Resources Corp",
     "isin": "AU000000TBN3",
-    "exchange": "",
-    "file": "tamboranresourcescorp.html",
-    "date": "2026-04-16",
+    "exchange": "ASX",
+    "file": "tbn.html",
+    "date": "2026-04-17",
     "recommendation": "SPECULATIVE BUY",
-    "conviction": 42,
-    "currency": "GBX",
-    "price": 11,
-    "marketCap": null,
+    "conviction": 40,
+    "currency": "AUD",
+    "price": 0.26,
+    "marketCap": "AUD915M",
     "summary": "Tamboran Resources Corp is a micro-cap Australian gas exploration company focused on the Beetaloo Basin in the Northern Territory. With a market capitalisation of approximately £30 million and no material revenue, TBN is a binary catalyst play: success at the Shenandoah-1 and other Beetaloo wells unlocks material value; failure leaves the company requiring additional capital raises that would be highly dilutive at current levels.",
     "universes": [
+      "aim",
       "watchlist"
     ],
     "priceAtLastReport": 11,
@@ -7711,10 +7722,15 @@
     "peAtLastReport": null,
     "convictionHistory": [
       {
-        "date": "2026-04-16",
-        "conviction": 42
+        "date": "2026-04-17",
+        "conviction": 40
       }
-    ]
+    ],
+    "pe": null,
+    "eps": null,
+    "beta": null,
+    "52wHigh": 0.34,
+    "52wLow": 0.14
   },
   {
     "ticker": "TGT",
@@ -8609,20 +8625,19 @@
   },
   {
     "ticker": "DIS",
-    "company": "DIS - Walt Disney Company",
+    "company": "Walt Disney Co",
     "isin": "US2546871060",
-    "exchange": "",
-    "file": "waltdisneyco.html",
-    "date": "2026-04-16",
+    "exchange": "NYSE",
+    "file": "dis.html",
+    "date": "2026-04-17",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "conviction": 52,
     "currency": "USD",
-    "price": 100.02,
-    "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "price": 106.15,
+    "marketCap": "$188.1B",
+    "summary": "Disney sits 19% below its 52-week high and trades at a historically modest 15.6x P/E, with aggressive cost restructuring, improving streaming profitability, and record theme park revenues combining to create a compelling risk-reward at current levels - OPPORTUNISTIC BUY is the...",
     "universes": [
       "fortune100",
-      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -8631,14 +8646,15 @@
     "peAtLastReport": null,
     "convictionHistory": [
       {
-        "date": "2026-04-16",
-        "conviction": 61
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "date": "2026-04-17",
+        "conviction": 52
       }
-    ]
+    ],
+    "pe": 15.64,
+    "eps": 6.79,
+    "beta": 1.44,
+    "52wHigh": 124.69,
+    "52wLow": 82.98
   },
   {
     "ticker": "WFC",

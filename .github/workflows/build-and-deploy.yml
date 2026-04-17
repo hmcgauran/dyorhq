@@ -14,21 +14,21 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Install dependencies
-        working-directory: projects/dyorhq
+        working-directory: projects/dyorhq-v4
         run: npm ci
 
       - name: Build site
-        working-directory: projects/dyorhq
+        working-directory: projects/dyorhq-v4
         run: npm run build
 
       - name: Wait for Netlify deploy
         run: sleep 30
 
       - name: Health check
-        working-directory: projects/dyorhq
+        working-directory: projects/dyorhq-v4
         env:
           HEALTH_CHECK_URL: https://dyor-v4-work--dyorhq.netlify.app/reports-index.json
         run: node scripts/health-check.js

@@ -1,19 +1,20 @@
 {
   "ticker": "GE",
   "date": "2026-04-17",
-  "score": 78,
+  "score": 68,
   "signal": "positive",
   "key_themes": [
-    "Record commercial & defense engine orders and massive backlog",
-    "Consistent earnings beats with strong 2026 guidance (mid-teens services growth)",
-    "Aftermarket services revenue moat and recurring revenue visibility",
-    "Benefits from GE split creating a high-margin pure-play aerospace business",
-    "Overwhelmingly bullish analyst coverage with Strong Buy ratings and $330–$350+ price targets"
+    "Record $190B backlog and surging orders providing multi-year revenue visibility",
+    "Strong historical earnings beats with 2026 EPS guidance of $7.10–$7.40",
+    "$1B+ investments in U.S. manufacturing, defense production, and 5,000 new jobs",
+    "Overwhelmingly bullish Wall Street consensus (Strong Buy, ~$340–$350 avg price target)",
+    "Short-term profit-taking and de-risking ahead of April 21, 2026 Q1 earnings"
   ],
   "sources": [
-    "25+ recent news articles & analyst reports (Yahoo Finance, Trefis, Zacks, Seeking Alpha, MarketBeat)",
-    "30+ X posts analyzed (keyword search for $GE + aerospace/earnings/backlog; semantic search on investor opinions)"
+    "12+ recent web news articles (Zacks, Yahoo Finance, Fool, GE press releases, MarketBeat)",
+    "20+ X posts analyzed (semantic + keyword search since Jan 2026)",
+    "Analyst ratings and targets from 12–20 firms (average PT $340–$352)"
   ],
-  "summary": "GE Aerospace (NYSE: GE) is seeing strongly positive financial sentiment in April 2026, driven by an 18%+ revenue increase, record orders (up 74% YoY in recent quarters), a ~$190B backlog, and confident 2026 guidance for $7.10–$7.40 EPS, $9.85–$10.25B operating profit, and mid-teens commercial services growth.[[1]](https://www.trefis.com/stock/ge/articles2/596056/ge-aerospace-stock-surged-80-heres-why/2026-04-08)[[2]](https://www.tikr.com/blog/ge-aerospace-rose-8-in-the-last-month-heres-how-much-the-stock-could-climb-in-2026)[[3]](https://x.com/fiscal_ai/status/2014397697281909075) The stock has surged roughly 70–80% over the past year, reaching all-time highs near $330–$350 earlier in 2026, as the post-split pure-play aerospace focus, defense contract wins, and sticky aftermarket moat (80K+ engine installed base) reward investors.[[4]](https://finance.yahoo.com/news/1-billion-reason-buy-ge-155100607.html)[[5]](https://www.forbes.com/sites/greatspeculations/2026/03/10/whats-behind-ge-stocks-massive-rally/) Ahead of Q1 2026 earnings (April 21), consensus calls for ~$1.63 EPS (+9% YoY) and ~$10.6B revenue (+18%), with analysts maintaining Strong Buy ratings and targets averaging ~$350 (highs to $425). Occasional pullbacks reflect profit-taking or moderated growth expectations, but overall momentum and visibility remain excellent.[[6]](https://www.zacks.com/stock/news/2901334/ahead-of-ge-ge-q1-earnings-get-ready-with-wall-street-estimates-for-key-metrics)[[7]](https://stockanalysis.com/stocks/ge/)",
-  "fetchedAt": "2026-04-17T15:58:46.830Z"
+  "summary": "GE Aerospace (the core business behind the GE ticker post-spin-offs) enjoys strongly positive investor and analyst sentiment driven by aerospace tailwinds. A record ~$190 billion backlog, 74% YoY order growth, consistent earnings beats, and major U.S. manufacturing investments signal robust long-term demand in commercial engines and defense. While the stock saw a ~5% pullback in mid-April 2026 on pre-earnings profit-taking and valuation resets, analysts remain overwhelmingly bullish with Strong Buy ratings and price targets implying 10–15%+ upside from current ~$300 levels.",
+  "fetchedAt": "2026-04-17T17:04:12.890Z"
 }
