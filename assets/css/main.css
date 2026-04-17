@@ -555,6 +555,7 @@ input[type="search"]::placeholder {
 }
 
 .rec-badge.opportunistic,
+.rec-badge.opportunisticbuy,
 .rec-badge.rec-opportunisticbuy,
 .rec-badge.rec-opportunistic-buy,
 .rec-badge.OPP-BUY {
@@ -564,6 +565,7 @@ input[type="search"]::placeholder {
 }
 
 .rec-badge.speculative,
+.rec-badge.speculativebuy,
 .rec-badge.rec-speculativebuy,
 .rec-badge.rec-speculative-buy,
 .rec-badge.SPEC-BUY {
