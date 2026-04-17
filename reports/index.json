@@ -669,6 +669,7 @@
     "marketCap": null,
     "summary": "Alphabet is the dominant global internet platform: Google Search holds approximately 91% market share, YouTube is the world's largest video platform, and Google Cloud is the emerging third pillar of the business. The company sits at the intersection of several secular growth themes - AI, cloud computing, and digital advertising - but faces the most significant structural challenge to its core search franchise since its founding. The DOJ antitrust victory in August 2024 and the rise of AI-native search alternatives (Perplexity AI, OpenAI Search, Claude-powered search) create a credible scenario in which Google's search ad inventory erodes over the next five to ten years.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -810,6 +811,7 @@
     "marketCap": null,
     "summary": "American Express operates a closed-loop payments network - unlike Visa and Mastercard, which facilitate transactions between banks, Amex is itself the issuer and the network. This allows it to capture the full economics of each transaction: interchange fees from merchants, interest income from cardholder revolving balances, and annual fee income from premium card products.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -1151,6 +1153,7 @@
     "marketCap": null,
     "summary": "AT&amp;T is a major US telecommunications provider, historically operating in two distinct segments: Mobility (wireless) and the now-spun-off WarnerMedia (entertainment). The post-2022 AT&amp;T is a focused telecom business built on three pillars:",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -1384,6 +1387,7 @@
     "marketCap": null,
     "summary": "BlackRock manages $10.5 trillion+ in assets under management (AUM) across equities, fixed income, multi-asset, alternatives and cash. The business model generates revenues from advisory fees (basis points on AUM), securities lending, and the Aladdin risk-management technology platform, which is licensed to institutional investors and other asset managers globally.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -1637,6 +1641,7 @@
     "marketCap": null,
     "summary": "Bristol-Myers Squibb is a biopharmaceutical company focused on oncology, immunology, haematology and cardiovascular disease. Key products include Eliquis (apixaban, anticoagulant - BMS share with Pfizer), Opdivo (nivolumab, PD-1 checkpoint inhibitor), Yervoy (ipilimumab, CTLA-4 inhibitor), Revlimid (lenalidomide - multiple myeloma, facing generics), and Pomalone (pomalidomide).",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -2139,6 +2144,7 @@
     "marketCap": null,
     "summary": "Citigroup is a turnaround story at a distressed-looking multiple. Q1 2026 EPS beat estimates by 16% on the back of $5.8B in net income, and JPMorgan sees approximately 30% upside to fair value from current levels",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -2221,6 +2227,7 @@
     "marketCap": null,
     "summary": "Coca-Cola manufactures and distributes alcoholic and non-alcoholic beverages across more than 200 countries. Its portfolio spans carbonated soft drinks (Coca-Cola, Diet Coke, Sprite, Fanta), sports drinks (Powerade), juices and value-added dairy (Minute Maid, Innocent), hydration and tea (smartwater, Costa Coffee, Ayataka), and energy drinks (Costa Coffee, Monster in certain markets under license). Coca-Cola operates a largely asset-light model: it concentrates on concentrate production and marketing while independent bottlers -- many of them privately held and operating under franchise agreements -- handle manufacturing, distribution, and local sales. This system provides structural operating leverage and capital efficiency. Geographic exposure is broadly diversified: North America (~35% of revenue), Europe/Middle East/Africa (~25%), Asia Pacific (~20%), Latin America (~15%), and Global Ventures (~5%). The business is characterised by significant pricing power, a recurring revenue model, and strong free cash flow generation that comfortably funds the dividend and share buyback programme.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -2341,6 +2348,7 @@
     "marketCap": null,
     "summary": "Comcast presents as a deep value trap or a genuine bargain depending on your prior view of the broadband cord-cutting thesis. At 5.5x earnings, the market is pricing that the earnings decline is structural and permanent",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -3038,8 +3046,8 @@
     "recommendation": "OPPORTUNISTIC BUY",
     "conviction": 55,
     "currency": "USD",
-    "price": 933.34,
-    "marketCap": null,
+    "price": 923.64,
+    "marketCap": "~$670B",
     "summary": "Eli Lilly is the GLP-1 obesity drug franchise with the most comprehensive pipeline and the most aggressive expansion of manufacturing capacity in the space. The approval and launch of Zepbound for obesity is a genuine multi-decade revenue opportunity — potentially the largest...",
     "universes": [
       "fortune100",
@@ -3929,6 +3937,7 @@
     "marketCap": null,
     "summary": "Goldman Sachs is a high-quality investment bank and global financial institution that had an exceptional Q1 2026 — record equity trading revenues, investment banking fees up 48% YoY to $2.84B, and net revenues of $17.23B beating consensus",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -4847,6 +4856,7 @@
     "marketCap": null,
     "summary": "Johnson &amp; Johnson is mid-restructuring post-Kenvue spin-off, repositioning as a pure-play med-tech/pharmaceutical conglomerate; Stelara exclusivity losses are partially offset by a deep pipeline but the valuation is not yet re-rated for pipeline success.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -5272,6 +5282,7 @@
     "marketCap": null,
     "summary": "Lowe's is executing a supply-chain and pro-customer transformation under CEO Marvin Ellison's second-term mandate; the housing-affordability macro headwind tempers but does not eliminate the operational upside from share-gain against rival Home Depot.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -5576,6 +5587,7 @@
     "marketCap": null,
     "summary": "Meta operates the world's largest social media ecosystem: Facebook (2.9 billion monthly active users), Instagram (2 billion+), and WhatsApp (2.7 billion). The primary revenue driver is digital advertising - Meta's ads span News Feed, Stories, Reels, and the Audience Network, targeting users across demographics and behaviours using Meta's Advantage+ AI-powered campaign optimisation system.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -5659,6 +5671,7 @@
     "marketCap": null,
     "summary": "Microsoft's Azure AI momentum and Copilot monetisation are real and accelerating, but the shares are at a P/E of 23x - reasonable for this quality of business, but leaving limited margin of safety at 52-week high proximity",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -5745,6 +5758,7 @@
     "marketCap": null,
     "summary": "Mondelez benefits from structural pricing power and emerging-market snacking growth, but cocoa headwinds and US macro pressure on consumer staples leave little near-term re-rating potential -- HOLD . HOLD Conviction Score: 66/100 - HOLD",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -5994,6 +6008,7 @@
     "marketCap": null,
     "summary": "Nike is in the middle of a critical strategic reset: the DTC-first model over-extended gross margins, and the new CEO's Consumer Offense plan is betting on innovation cycles and a revived wholesale relationships to recover pricing power. The stock is under-loved but the execution risk is substantial.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -6465,6 +6480,7 @@
     "marketCap": null,
     "summary": "PepsiCo is a defensive consumer-staples compounder with exceptional free-cash-flow generation; the valuation is fair given modest growth but the dividend aristocrat status and $7bn annual buyback provide a floor in an uncertain macro environment.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -6682,6 +6698,7 @@
     "marketCap": null,
     "summary": "Procter &amp; Gamble is a high-quality defensive consumer staples franchise with-pricing power and a strong dividend, but premium valuation of 21.51x P/E limits upside and argues for HOLD at current levels.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -7573,6 +7590,7 @@
     "marketCap": null,
     "summary": "Starbucks faces a combination of menu pricing pressure, traffic recovery challenges and operational reset costs that make the P/E of 80.47x on EPS of $1.20 structurally difficult to justify - REDUCE.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -7712,6 +7730,7 @@
     "marketCap": null,
     "summary": "Target's omni-channel retail model and owned-brand portfolio are genuine strengths, and the 14.99x P/E is modest relative to normalised earnings, but the company has struggled with inventory management and consumer spending sensitivity - HOLD.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -8433,6 +8452,7 @@
     "marketCap": null,
     "summary": "Verizon's network quality leadership in 5G is genuine, but the debtladen balance sheet, persistent post-paid phone ARPU decline and limited earnings growth visibility make the 11.34x P/E a value trap rather than an opportunity - REDUCE.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -8487,6 +8507,7 @@
     "marketCap": null,
     "summary": "Visa is the pre-eminent global payments network with an exceptional economic moat - unrivaled acceptance network, dominant debit position and sticky B2B payment flows - and the shares at 28.57x P/E are reasonably valued for a compound of this quality - HOLD.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"
@@ -8542,6 +8563,7 @@
     "marketCap": null,
     "summary": "Walgreens Boots Alliance is navigating a structural crisis in US retail pharmacy - occupancy pressure, pharmacy margin compression and failed international diversification - with no clear path to earnings recovery visible at current levels. The shares have declined materially and the risk-reward remains unfavourable - SELL.",
     "universes": [
+      "fortune100",
       "fortune101",
       "sp100",
       "watchlist"

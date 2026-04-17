@@ -4,8 +4,8 @@
   "isin": "US5324571083",
   "exchange": "NYSE",
   "currency": "USD",
-  "price": 680,
-  "marketCap": "$650B",
+  "price": 923.64,
+  "marketCap": "$872.7B",
   "sector": "Healthcare — Pharmaceuticals",
   "date": "17 April 2026",
   "reportDate": "2026-04-17",
@@ -14,18 +14,24 @@
   "grokScore": 78,
   "grokSignal": "positive",
   "convictionHistory": [
-    {"date": "2026-04-11", "conviction": 50},
-    {"date": "2026-04-17", "conviction": 55}
+    {
+      "date": "2026-04-11",
+      "conviction": 50
+    },
+    {
+      "date": "2026-04-17",
+      "conviction": 55
+    }
   ],
   "analystFlag": {
     "note": "Grok signal score is 78 (positive) while conviction is held at 55 per report specification. Discrepancy reflects the distance between momentum-based scoring and a fundamental valuation framework that prices in 40x P/E execution risk.",
     "action": "Flagged for review"
   },
-  "priceAtLastReport": 933.34,
-  "marketCapAtLastReport": "$883.8bn",
+  "priceAtLastReport": 923.64,
+  "marketCapAtLastReport": "$872.7B",
   "priceChangeNote": "Price decline from ~$933 to ~$680 reflects significant repricing; ~$680 appears to be near 52-week low based on current data",
-  "pe": 40,
-  "eps": 17.00,
+  "pe": 40.26,
+  "eps": 22.95,
   "dividendYield": "1.1%",
   "beta": 0.45,
   "sharesOut": "950M",
