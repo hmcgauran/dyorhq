@@ -16,10 +16,13 @@ const SHEET_ID = '1N3lmSP2KI3pVOI3JlnsCn3YKKEWEKGiTILYKvPAJPoM';
 const INDEX_PATH = path.join(__dirname, '..', 'reports', 'index.json');
 const OUTPUT_PATH = path.join(__dirname, '..', 'state', 'new-tickers.json');
 
-// Strip exchange prefixes for comparison
-const PREFIX_RE = /^(NYSE|NASDAQ|EPA|ASX|LON|LS |LSE|FRA|CVE|BME|TSE|TSX|HKEX):/i;
+// Strip exchange prefixes and suffixes for comparison
+const PREFIX_RE  = /^(NYSE|NASDAQ|EPA|ASX|LON|LSE |FRA|CVE|BME|TSE|TSX|HKEX):/i;
+const SUFFIX_RE  = /\.(L|AX|TO|V)(?=\s|$)/i;
+const SPACE_EX_RE = /\s+(LN|LSE|ISE|TSX|ASE|NYSE|NASDAQ|EPA|ASX|BME|FRA|CVE|TSE|SGX|HKEX)$/i;
+
 function normaliseForMatch(str) {
-  return (str || '').replace(PREFIX_RE, '').trim().toUpperCase();
+  return (str || '').replace(PREFIX_RE, '').replace(SUFFIX_RE, '').replace(SPACE_EX_RE, '').replace(/\s{2,}/g, ' ').trim().toUpperCase();
 }
 function normaliseTicker(str) {
   return (str || '').trim();
@@ -30,8 +33,8 @@ function resolveTicker(sheetTicker, idx) {
   const n = normaliseForMatch(sheetTicker);
   if (!n) return null;
 
-  // Tier 1: exact match on ticker
-  if (idx.find(e => e.ticker.toUpperCase() === n)) return 'exact';
+  // Tier 1: exact match on normalised ticker
+  if (idx.find(e => normaliseForMatch(e.ticker) === n)) return 'exact';
 
   // Tier 2: file slug match
   const slug = n.toLowerCase().replace(/[^a-z0-9]/g, '') + '.html';

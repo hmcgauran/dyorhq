@@ -23,9 +23,12 @@ function normaliseTicker(raw) {
   t = t.replace(/^[A-Z\-]+:/i, '').trim();
   // Remove exchange suffix in parentheses: "(NYSE:KO)", "(LSE)" etc.
   t = t.replace(/\s*\([^)]*\)/g, '').trim();
-  // Remove trailing exchange suffixes: ".L", ".AX", " TSX-V" etc.
+  // Remove trailing exchange suffixes: ".L", ".AX", ".TO", ".V" etc.
   t = t.replace(/\.(L|AX|TO|V)$/i, '').trim();
-  t = t.replace(/\s+(TSX-V|TSX|LSE|NYSE|ISE|ASX|BME)$/i, '').trim();
+  // Remove space-separated exchange codes at the end: " LN", " LSE", " ISE", " TSX", " V", etc.
+  t = t.replace(/\s+(LN|LSE|ISE|TSX|ASE|NYSE|NASDAQ|EPA|ASX|BME|FRA|CVE|TSE|SGX|HKEX)$/i, '').trim();
+  // Collapse multiple spaces
+  t = t.replace(/\s{2,}/g, ' ').trim();
   return t.toUpperCase();
 }
 

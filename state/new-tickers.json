@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-17T17:40:29.134Z",
+  "generatedAt": "2026-04-17T19:05:43.463Z",
   "sheetRows": 327,
-  "matchedCount": 319,
-  "unmatchedCount": 8,
+  "matchedCount": 320,
+  "unmatchedCount": 7,
   "unmatched": [
     {
       "row": 89,
@@ -31,10 +31,6 @@
     {
       "row": 289,
       "ticker": "LON:MSI"
-    },
-    {
-      "row": 292,
-      "ticker": "LON:AVCT"
     }
   ]
 }
