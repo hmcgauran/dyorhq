@@ -1,12 +1,12 @@
 {
   "meta": {
-    "ticker": "AVCT.L · LN",
+    "ticker": "LON:AVCT",
     "company": "Avacta Group plc",
     "exchange": "LN",
     "isin": "GB00BYYW9G87",
     "date": "10 Apr 2026",
     "datePublished": "2026-04-10",
-    "recommendation": "HOLD - SPECULATIVE",
+    "recommendation": "BUY",
     "recommendationNote": "HOLD - SPECULATIVE",
     "conviction": 63,
     "lastRefreshed": "2026-04-11T10:00:00Z",
@@ -42,16 +42,19 @@
     "thesisEvaluation": {
       "text": "Bull case support (primary literature): FAP as pan-tumour target: FAP is confirmed expressed in the stroma of multiple epithelial cancer types. The platform's tumour-agnostic claim is mechanistically justified. [1,2] Cardiotoxicity TAM expansion: This is the strongest literature finding. DOX cardiotoxicity is mechanistically linked to FAP activation in cardiac fibroblasts - FAP PET signal is significantly elevated from 2 weeks post-DOX, versus 10 weeks for standard echocardiography detection. If pre|CISION reduces systemic DOX exposure, it could reduce this cardiotoxicity mechanism, enabling higher/frequent dosing. [4] Exatecan potency: A potent Topo-1 payload with confirmed single-agent efficacy and synergy with DDR inhibitors (ATR, PARP). [3] Bear case support (primary literature): FAP is a stromal, not tumour-cell target: The pre|CISION mechanism depends on stromal penetration and FAP activity at the tumour interface - this is scientifically sound but harder to optimise than direct tumour-cell targeting. Clinical validation is required. \"Most potent Topo-1\" claim: Specific comparative data (Exatecan vs Irinotecan/Topotecan in patients) not confirmed in available literature - this specific claim should be treated as unvalidated. Scenario Probability Price Target Key Drivers Bull 30% 150p+ Phase I data validates FAP tumour-targeting with reduced cardiotoxicity; partnership deal announced; US listing confirmed; platform expands to multiple programmes Base 40% 60-90p Phase I data is encouraging but not conclusive; more clinical work needed; partnership discussions continue but no deal yet; stock stays range-bound until next data catalyst Bear 30% 30-45p Phase I data disappoints; no platform differentiation from standard doxorubicin; partnership unlikely; NASDAQ listing delayed; funding becomes dilutive Weighted price target: 30% × 150 + 40% × 75 + 30% × 37.5 = 88.75p . Current price of 70.00p is below base-case fair value, but the risk remains high because the valuation still depends on clinical validation. Adjusted conviction: 63/100 . This remains a high-conviction speculative position - size accordingly.",
       "bull": {
-        "scenario": "",
-        "probability": 25
+        "probability": 35,
+        "score": 80,
+        "scenario": ""
       },
       "base": {
-        "scenario": "",
-        "probability": 50
+        "probability": 60,
+        "score": 63,
+        "scenario": ""
       },
       "bear": {
-        "scenario": "",
-        "probability": 25
+        "probability": 5,
+        "score": 35,
+        "scenario": ""
       }
     },
     "keyRisks": {
