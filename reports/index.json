@@ -9152,5 +9152,29 @@
         "conviction": 57
       }
     ]
+  },
+  {
+    "ticker": "AVCT",
+    "file": "avactagroupplc.html",
+    "date": "2026-04-17",
+    "price": 0.598,
+    "conviction": 57,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Avacta Group is a UK biotech developing Affimer scaffold proteins for targeted cancer therapy via its pre|CISION platform. Lead programme faridaksorubicin is in Phase 1 with data expected H1 2026. FAP targeting mechanism validated by peer-reviewed literature. AACR 2026 presentations confirmed. Partnership or NASDAQ dual-listing being explored. BUY at 57/100 on partnership/NASDAQ optionality.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": null,
+    "currency": "USD",
+    "company": "Avacta Group Plc",
+    "exchange": "NASDAQ",
+    "isin": "GB00BYYW9G87",
+    "slug": "avct.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-17",
+        "conviction": 57
+      }
+    ]
   }
 ]
