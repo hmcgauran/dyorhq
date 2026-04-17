@@ -2109,17 +2109,17 @@
     "ticker": "CSCO",
     "file": "csco.html",
     "date": "2026-04-17",
-    "price": 86.14,
+    "price": 86.105,
     "conviction": 50,
     "recommendation": "OPPORTUNISTIC BUY",
     "summary": "Cisco is executing a credible AI infrastructure transition, with Q2 FY2026 delivering record $15.3 billion in revenue (+10% YoY) and a sharp acceleration in networking revenue to +21% YoY. AI infrastructure orders hit $2",
     "universes": [
       "watchlist"
     ],
-    "marketCap": "340658532633",
+    "marketCap": 340209001480,
     "currency": "USD",
     "company": "Cisco Systems Inc",
-    "exchange": "#N/A",
+    "exchange": "NASDAQ",
     "isin": "US17275R1023",
     "slug": "csco.html",
     "convictionHistory": [

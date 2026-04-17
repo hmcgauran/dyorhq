@@ -1,0 +1,19 @@
+{
+  "ticker": "CSCO",
+  "date": "2026-04-17",
+  "price": 86.105,
+  "marketCap": 340209001480,
+  "pe": 31.084837545126355,
+  "eps": 2.77,
+  "revenueTTM": 59054000000,
+  "grossMargin": 0.6481356047007824,
+  "week52High": 88.19,
+  "week52Low": 53.83,
+  "sharesOutstanding": 3951094611,
+  "currency": "USD",
+  "exchange": "NASDAQ",
+  "company": "Cisco Systems, Inc.",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "beta": null
+}
