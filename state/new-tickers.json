@@ -1,0 +1,40 @@
+{
+  "generatedAt": "2026-04-17T17:40:29.134Z",
+  "sheetRows": 327,
+  "matchedCount": 319,
+  "unmatchedCount": 8,
+  "unmatched": [
+    {
+      "row": 89,
+      "ticker": "LON:W7L"
+    },
+    {
+      "row": 251,
+      "ticker": "LON:YNGA"
+    },
+    {
+      "row": 270,
+      "ticker": "LON:PTAL"
+    },
+    {
+      "row": 275,
+      "ticker": "LON:SUP"
+    },
+    {
+      "row": 276,
+      "ticker": "LON:JHD"
+    },
+    {
+      "row": 284,
+      "ticker": "LON:VTU"
+    },
+    {
+      "row": 289,
+      "ticker": "LON:MSI"
+    },
+    {
+      "row": 292,
+      "ticker": "LON:AVCT"
+    }
+  ]
+}
