@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "pub sector recovery",
+    "analyst optimism",
+    "share price growth",
+    "economic headwinds"
+  ],
+  "summary": "Young & Co's Brewery (YNGA) shows a positive sentiment with a score of 45, driven by strong recent earnings reports and a recovering pub sector, alongside optimistic analyst coverage. However, broader economic headwinds and inflationary pressures slightly temper the bullish outlook.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"pub sector recovery\", \"analyst optimism\", \"share price growth\", \"economic headwinds\"],\n  \"summary\": \"Young & Co's Brewery (YNGA) shows a positive sentiment with a score of 45, driven by strong recent earnings reports and a recovering pub sector, alongside optimistic analyst coverage. However, broader economic headwinds and inflationary pressures slightly temper the bullish outlook.\"\n}"
+}

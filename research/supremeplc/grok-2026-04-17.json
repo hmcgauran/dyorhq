@@ -1,0 +1,13 @@
+{
+  "score": 73,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "market expansion",
+    "brand strength",
+    "economic headwinds",
+    "upcoming product launches"
+  ],
+  "summary": "Supreme PLC (SUP) exhibits a positive sentiment with a score of 65, driven by strong recent earnings reports and optimism around market expansion. Analyst tone remains largely bullish, supported by positive price momentum, though tempered by broader economic concerns.",
+  "raw": "{\n  \"score\": 65,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"market expansion\", \"brand strength\", \"economic headwinds\", \"upcoming product launches\"],\n  \"summary\": \"Supreme PLC (SUP) exhibits a positive sentiment with a score of 65, driven by strong recent earnings reports and optimism around market expansion. Analyst tone remains largely bullish, supported by positive price momentum, though tempered by broader economic concerns.\"\n}"
+}
