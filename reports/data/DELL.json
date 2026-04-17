@@ -1,108 +1,60 @@
 {
-  "meta": {
-    "ticker": "DELL",
-    "company": "DELL - Dell Technologies Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 April 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 58,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  "price": {
-    "formatted": ""
-  },
+  "ticker": "DELL",
+  "company": "Dell Technologies Inc",
+  "isin": "US24703V2026",
+  "exchange": "NYSE",
+  "currency": "USD",
+  "price": 195.82,
+  "marketCap": "$126.4B",
+  "sector": "Technology — Infrastructure",
+  "date": "17 April 2026",
+  "reportDate": "2026-04-17",
+  "recommendation": "OPPORTUNISTIC BUY",
+  "conviction": 58,
+  "convictionHistory": [{"date": "2026-04-17", "conviction": 58}],
+  "priceAtLastReport": 195.82,
+  "marketCapAtLastReport": "$126.4B",
+  "pe": 22.53,
+  "eps": 8.68,
+  "dividendYield": "2.2%",
+  "beta": 1.10,
+  "sharesOut": "698M",
+  "avgVolume": "8.47M",
+  "52wHigh": 196.78,
+  "52wLow": 95.00,
+  "prevClose": 192.83,
   "sections": {
     "executiveSummary": {
-      "text": ""
-    },
-    "businessModel": {
-      "text": "Dell operates across two primary business segments following the VMware spin-off: Infrastructure Solutions Group (ISG): Servers, storage, networking, and data-centre infrastructure. This is the highest-margin and highest-growth segment, particularly driven by AI-optimised server demand (PowerEdge with Nvidia GPU integrations) and enterprise storage arrays. This is the most important segment for the investment thesis. Client Solutions Group (CSG): Commercial and consumer PCs, laptops, and peripherals. A mature, cyclical business with commodity pricing dynamics. Commercial PCs (vs consumer) offer better margin and contract stability through Dell's relationships with large enterprise IT departments. Connected Base Services: After-market services, warranties, and deployment/installation services that provide recurring, high-margin revenue tied to the installed hardware base. The Dell investment case rests heavily on ISG's AI server momentum and whether the company can sustain margin recovery in a competitive infrastructure market against pure-play competitors like HPE and hyperscaler custom silicon."
-    },
-    "financialSnapshot": {
-      "text": "Price $177.80 Market Cap $114.8bn P/E Ratio 20.5× EPS (TTM) $8.68 52w High $189.75 52w Low $77.96 Distance from 52wH −6.3% Avg Volume 4.3m",
-      "table": []
-    },
-    "recentCatalysts": {
-      "text": ""
-    },
-    "thesisEvaluation": {
-      "text": "Bull Case 72 / 100 AI server orders continue to accelerate as enterprises beyond hyperscalers (sovereign AI, enterprise on-premise AI) build out inference and training infrastructure. ISG revenue grows 15-20 per cent in fiscal 2027 and margins expand to 18-20 per cent. The P/E re-rates to 25×+ as the AI infrastructure narrative gains further traction. Weight: 30% Base Case 58 / 100 AI server momentum continues at a steady pace but not at the explosive rate currently implied by the backlog. ISG grows at high-single to low-double digits. CSG stabilises after the Windows 10 refresh tailwind fades. EPS grows at 8-12 per cent annually. Shares drift towards $190-210 as fundamentals improve gradually. Weight: 50% Bear Case 40 / 100 AI infrastructure spending slows as enterprises and hyperscalers absorb existing GPU capacity. Custom silicon (Nvidia Grace, Google TPU, Amazon Trainium) increasingly replaces commodity x86 servers in AI workloads. CSG revenue declines as the commercial PC refresh cycle completes. Dell faces margin compression in both segments simultaneously. Weight: 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
-    },
-    "keyRisks": {
-      "text": "1 AI infrastructure spending cyclicality: The current AI server demand surge could prove to be a front-loaded build cycle. If hyperscaler CapEx slows as GPU cluster buildouts mature, Dell's ISG backlog could deteriorate rapidly, with limited visibility into downstream demand. 2 Custom silicon displacement: Hyperscalers are increasingly designing their own server silicon (Google TPU, Amazon Graviton, Microsoft Maia), which over time could reduce demand for Dell PowerEdge x86 servers in the highest-growth segment of the market. 3 PC market structural decline: The global PC market has structurally declined post-pandemic as notebook replacement cycles lengthen and enterprise IT budgets face scrutiny. CSG remains a large but declining revenue pool that constrains overall group margins. 4 HPE competitive pressure: Hewlett Packard Enterprise continues to compete aggressively in servers and storage, and Aruba networking provides an integrated infrastructure stack that some enterprises prefer over Dell's point solutions. 5 Post-VMware separation governance: Without VMware's recurring high-margin subscription revenue, Dell's business mix has shifted toward more cyclical, lower-margin hardware - increasing earnings volatility and changing the risk profile of the equity.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "AI infrastructure spending cyclicality: The current AI server demand surge could prove to be a front-loaded build cycle. If hyperscaler CapEx slows as GPU cluster buildouts mature, Dell's ISG backlog could deteriorate rapidly, with limited visibility into downstream demand."
-        },
-        {
-          "rank": 2,
-          "risk": "Custom silicon displacement: Hyperscalers are increasingly designing their own server silicon (Google TPU, Amazon Graviton, Microsoft Maia), which over time could reduce demand for Dell PowerEdge x86 servers in the highest-growth segment of the market."
-        },
-        {
-          "rank": 3,
-          "risk": "PC market structural decline: The global PC market has structurally declined post-pandemic as notebook replacement cycles lengthen and enterprise IT budgets face scrutiny. CSG remains a large but declining revenue pool that constrains overall group margins."
-        },
-        {
-          "rank": 4,
-          "risk": "HPE competitive pressure: Hewlett Packard Enterprise continues to compete aggressively in servers and storage, and Aruba networking provides an integrated infrastructure stack that some enterprises prefer over Dell's point solutions."
-        },
-        {
-          "rank": 5,
-          "risk": "Post-VMware separation governance: Without VMware's recurring high-margin subscription revenue, Dell's business mix has shifted toward more cyclical, lower-margin hardware - increasing earnings volatility and changing the risk profile of the equity."
-        }
-      ]
-    },
-    "whoShouldOwn": {
-      "text": "Appropriate For Value-oriented technology investors who want AI infrastructure exposure at a reasonable valuation (20.5× P/E) versus pure-play AI infrastructure names trading at 40-60×+ revenues Contrarian investors who note the shares are up significantly from their 52-week low ($77.96) and see further upside from the ISG AI momentum thesis Those who believe commercial PC demand will prove more resilient than the market expects Avoid If Seeking pure AI infrastructure exposure without PC business contamination - the CSG legacy business creates earnings volatility that pure-play AI infrastructure investors may not want Requires a clear dividend or buyback commitment - capital allocation has been inconsistent and the balance sheet, while improved, still carries significant debt from the VMware separation-related transactions Strong concerns about custom silicon displacing commodity x86 servers in hyperscaler environments"
-    },
-    "recommendation": {
-      "text": "Conviction Score: 58/100 - REDUCE At 20.5× earnings and within 6.3 per cent of the 52-week high, Dell's AI server momentum is largely priced into the current share price. The risk-reward is no longer compelling at this level - the bull case is plausible but the margin of safety is insufficient for a Buy. Hold existing positions; do not add new ones at current prices. Buy Below $140 HOLD Zone $140-$180 Reduce Above $180 Stop / Sell $125"
-    },
-    "entryExit": {
-      "text": "Buy Below: $140 | HOLD Zone: $140-$180 | Reduce Above: $180 | Stop / Sell: $125"
-    },
-    "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": "Dell Technologies is the dominant US enterprise AI server infrastructure provider, having converted its Dell AI Factory partnerships with NVIDIA into a multi-billion-dollar AI revenue stream. Record FY2026 revenue of $113B and Goldman Sachs upgrading the price target to $215 make the bull case for AI infrastructure spending very concrete. At 22.5x P/E on $8.68 EPS, Dell trades at a reasonable valuation for a business with this kind of AI tailwind — well below the valuation of pure-play AI software names. The OPPORTUNISTIC BUY thesis is that the AI infrastructure buildout is still in its early innings and that Dell's channel relationships, enterprise install base, and supply chain scale create a durable competitive advantage in AI servers that the market is not fully crediting."
     }
   },
-  "scores": {
-    "current": {
-      "score": 58,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+  "thesis": {
+    "bull": {
+      "conviction": 75,
+      "text": "AI server demand accelerates through 2026, Dell AI Factory revenue reaches $50B+, hyperscaler AI orders continue growing, stock re-rates to 28-32x P/E ($235-275)."
     },
-    "history": [
-      {
-        "date": "",
-        "score": 58,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
-      }
-    ]
+    "base": {
+      "conviction": 58,
+      "text": "Steady AI infrastructure growth, traditional enterprise stable, EPS grows to $10-11, stock drifts to $215-240 at 22-25x P/E."
+    },
+    "bear": {
+      "conviction": 35,
+      "text": "Hyperscale capex plateau, AI server competition (HPE/Juniper/custom builders) takes share, margins compress on AI servers, stock falls to $120-140 on 14-17x P/E."
+    }
+  },
+  "risks": [
+    "AI spending cyclicality — hyperscale capex cycles are unpredictable and Dell's AI server revenue is heavily exposed to a small number of large customers",
+    "Intensifying server competition — HPE, Juniper, and custom-built server programmes from hyperscalers are eroding Dell's pricing power in AI infrastructure",
+    "China exposure — Dell has meaningful revenue exposure to China markets where geopolitical tensions and domestic competition pose ongoing headwinds",
+    "Complex EMC/VMware integration — the legacy EMC relationship and ongoing VMware carve-out integration creates ongoing complexity and potential for margin drag",
+    "Margin compression on AI servers — AI server hardware is relatively lower-margin than software and traditional enterprise infrastructure; mix shift could weigh on overall profitability"
+  ],
+  "recommendation": {
+    "action": "OPPORTUNISTIC BUY",
+    "buyBelow": 165,
+    "holdRange": "165-200",
+    "reduceAbove": 200,
+    "target": 215,
+    "text": "BUY below $165. HOLD $165-200. REDUCE above $200 toward Goldman target of $215. The AI infrastructure thesis is real; 22.5x P/E is not demanding for this quality of AI exposure."
   }
 }

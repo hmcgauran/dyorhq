@@ -1,110 +1,90 @@
 {
-  "meta": {
-    "ticker": "XOM",
-    "company": "XOM - Exxon Mobil Corporation",
-    "exchange": "",
-    "isin": "",
-    "date": "11 April 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 56,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
-    "universes": [
-      "sp100",
-      "watchlist",
-      "fortune100"
-    ]
-  },
-  "price": {
-    "formatted": ""
-  },
+  "ticker": "XOM",
+  "company": "Exxon Mobil Corporation",
+  "isin": "US30231G1022",
+  "exchange": "NYSE",
+  "currency": "USD",
+  "price": 143.05,
+  "marketCap": "$591.9B",
+  "sector": "Energy — Integrated Oil and Gas",
+  "date": "17 April 2026",
+  "reportDate": "2026-04-17",
+  "recommendation": "OPPORTUNISTIC BUY",
+  "conviction": 50,
+  "convictionHistory": [
+    {"date": "2026-04-17", "conviction": 50}
+  ],
+  "priceAtLastReport": 143.05,
+  "marketCapAtLastReport": "$591.9B",
+  "pe": 21.36,
+  "eps": 6.69,
+  "dividendYield": "3.2%",
+  "beta": 0.90,
+  "sharesOut": "4.14B",
+  "avgVolume": "24.3M",
+  "52wHigh": 176.41,
+  "52wLow": 95.00,
+  "prevClose": 144.86,
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Exxon Mobil is a world-class integrated oil company that has staged a remarkable recovery from sub-$100 levels to all-time highs near $176, driven by the Middle East conflict premium and a structural undersupply thesis in crude markets. The company's operational leverage means that every $10 move in oil has an outsized impact on earnings — and at $75-80 oil, Exxon generates extraordinary free cash flow that comfortably covers the dividend and buyback programme. The Guyana discovery at Stabroek continues to grow with production expanding toward 1.2 million barrels per day by 2027. The challenge is the same as always: oil is a cyclical commodity, and the stock at $143 is pricing in a geopolitically elevated oil price that may not persist. OPPORTUNISTIC BUY reflects the quality of the asset base and the free cash flow yield but acknowledges that near all-time highs, the risk-reward is more balanced than it was at $100."
     },
     "businessModel": {
-      "text": "Exxon Mobil is an integrated oil and gas company operating across the full petroleum value chain: Upstream Exploration &amp; Production: Crude oil and natural gas production across five major producing regions: US Permian Basin, Guyana (Stabroek block), Brazil, Middle East, and Australia. Exxon has one of the lowest-breakeven production portfolios in the industry with significant Permian and deepwater barrels. Downstream Refining &amp; Chemicals: One of the world's largest refiners with ~4 million barrels per day of refining capacity across 21 refineries globally. The chemicals segment (ExxonMobil Chemical) is integrated with the refineries and focuses on high-margin specialty chemicals and polyethylene. Low-Carbon Solutions: Carbon capture and storage (CCS), hydrogen, and biofuels investments - still nascent but growing. The strategy is to leverage existing operational capabilities into emerging energy transition markets without significant capital at risk. Permian Basin Leadership: Exxon is the largest acreage holder in the US Permian Basin following the Pioneer Natural Resources acquisition, giving it a dominant position in the lowest-cost US production region. Exxon's integrated model provides a natural hedge - when upstream revenues are pressured by low oil prices, the downstream refining business typically benefits from processing margins. The Permian consolidation and Guyana deepwater discoveries have significantly strengthened the upstream portfolio over the past five years."
+      "text": "Exxon Mobil is the largest publicly traded integrated energy company in the world, operating across the full hydrocarbon value chain from upstream exploration and production through to downstream refining, chemicals, and marketing. The company has four core operating divisions: Upstream, covering conventional and unconventional oil and gas production across every major basin; Downstream, encompassing global refining operations and fuels marketing; Chemical, producing olefins, polyolefins, and specialty chemicals; and Low Carbon Solutions, an emerging segment targeting carbon capture, hydrogen, and biofuels. The company's competitive advantage rests on its advantaged asset portfolio — particularly the Permian Basin position in the US and the world-class Stabroek block in Guyana — combined with operational excellence in deepwater development and project execution. At $75-80 oil, Exxon generates $20-25 billion in annual free cash flow, comfortably covering the ~$15 billion annual dividend commitment while funding $17-20 billion in annual share buybacks. The company is also investing in lower-carbon energy solutions, though this remains a small fraction of overall capital allocation."
     },
     "financialSnapshot": {
-      "text": "Price $152.51 Market Cap $633.9bn P/E Ratio 22.8× EPS (TTM) $6.69 52w High $176.41 52w Low $98.79 Distance from 52wH −13.5% Avg Volume 21.1m",
-      "table": []
+      "text": "Exxon posted full-year 2025 earnings of approximately $26.2 billion on revenue of $404 billion. The Upstream segment delivered record earnings of $24 billion driven by strong volumes and cost discipline. Downstream and Chemical segments remained under pressure from margin compression, with combined earnings of ~$5 billion. Capital expenditure was approximately $22 billion, within guidance. Free cash flow after dividends was approximately $12 billion. The balance sheet remains investment grade with net debt of approximately $40 billion. The company returned $14.8 billion to shareholders in 2025 through dividends and buybacks. Guyana production reached approximately 620,000 barrels per day in Q4 2025 and is targeting 1.2 million barrels per day by 2027. Permian production is approximately 650,000 barrels of oil equivalent per day and growing. The 2026 dividend is covered approximately 2.5x by operating cash flow at $70+ oil."
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "The Middle East conflict that escalated in late 2025 provided a geopolitical tailwind that pushed Brent crude above $90 and supported a broad energy sector re-rating. Exxon, as the largest cap integrated, benefited from this premium. The company has continued to execute on its Guyanan growth story, with the Prosperity and Yellowtail developments ramping up as expected. The Permian Basin continues to deliver strong volumes with improving well productivity. Management raised the quarterly dividend by 4% in early 2026, demonstrating confidence in the cash flow trajectory. The buyback programme remains active with $4-5 billion remaining in the current authorisation. OPEC+ production discipline has been a structural support for the oil price, though there are growing signs of quota compliance fatigue among members. US production growth has partially offset OPEC cuts, keeping the market in a supply deficit."
     },
     "thesisEvaluation": {
-      "text": "Bull Case 72 / 100 OPEC+ manages supply effectively and oil prices remain in the $80-95 range, supporting Permian and Guyana free cash flow. Exxon's low break-even (approximately $40-45 WTI) means exceptional margin capture at current prices. Buybacks accelerate to $25bn+ annually. Shares re-rate to 25×+ as the energy transition thesis proves slower than anticipated and the market prices in higher-for-longer oil. Weight: 30% Base Case 55 / 100 Oil prices average $65-80 WTI as moderate demand growth is met by non-OPEC+ supply growth. Exxon's integrated portfolio generates $30-35bn in annual free cash flow. Buybacks continue at $15-20bn per year. The dividend is maintained and grows modestly. Shares trade in a $140-165 range on 20-24× earnings. Weight: 50% Bear Case 35 / 100 Global oil demand peaks as electric vehicle adoption accelerates faster than expected. OPEC+ discipline breaks down, driving oil prices below $60 WTI. Exxon's Permian production growth cannot offset the decline in international legacy fields. Free cash flow falls to $20bn or below, forcing a reduction in buybacks and creating dividend pressure. Long-term structural decline begins. Weight: 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
+      "bullCase": {
+        "conviction": 68,
+        "text": "Oil surges above $100 on geopolitical disruption or OPEC+ breakdown, Guyanan production ramps to 1.2MMbpd as planned, Permian output grows to 750,000+ boepd, chemical and downstream margins recover in a demand upcycle. EPS hits $9-10. Buyback accelerates. Stock reaches $175-195 at 20x earnings. This scenario requires the geopolitical risk premium to persist rather than resolve."
       },
-      "base": {
-        "scenario": "",
-        "probability": 50
+      "baseCase": {
+        "conviction": 50,
+        "text": "Oil stabilises at $70-80, Guyana performs as guidance, Permian offsets natural decline elsewhere, chemical margins normalise, EPS of $7-8. Stock drifts to $145-160 at 20-22x P/E as geopolitical premium slowly fades. The dividend remains secure and the buyback continues. This is the base case scenario."
       },
-      "bear": {
-        "scenario": "",
-        "probability": 25
+      "bearCase": {
+        "conviction": 28,
+        "text": "Oil falls below $60 on demand destruction from recession or OPEC+ breakdown, earnings collapse to $3-4 EPS, dividend becomes stretched and is cut, buyback programme suspended. Stock falls to $70-85 on 10-12x P/E. This is the scenario that bears must identify if they are to profit from it."
       }
     },
-    "keyRisks": {
-      "text": "1 Peak demand and energy transition: The long-term structural demand for petroleum faces genuine headwinds from electrification. The International Energy Agency's projected peak oil demand by 2030 may prove optimistic or pessimistic - the trajectory is directionally clear however, creating long-duration risk for fossil fuel equities. 2 OPEC+ discipline breakdown: A breakdown in OPEC+ production coordination could flood the market with supply, driving oil prices significantly lower. Exxon is the most resilient major to this scenario due to its low breakeven, but free cash flow would still fall materially at $50-60 WTI. 3 ESG and divestment pressure: Institutional investors continue to reduce fossil fuel exposure for ESG and climate reasons. This structural demand reduction from the investor base could keep multiples compressed below historical energy sector averages even if fundamentals are sound. 4 Permian Basin tiering risk: The Permian Basin is a world-class resource, but the best acreage has been picked over. Future drilling inventory quality could deteriorate, increasing production costs per barrel over time and reducing the attractiveness of the Permian relative to Guyana deepwater. 5 Carbon tax and regulatory costs: Unexpected implementation of carbon pricing in the US or globally would increase the effective cost of Exxon's production and refining operations, compressing margins and accelerating the economic case for energy transition investment over traditional hydrocarbon assets.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Peak demand and energy transition: The long-term structural demand for petroleum faces genuine headwinds from electrification. The International Energy Agency's projected peak oil demand by 2030 may prove optimistic or pessimistic - the trajectory is directionally clear however, creating long-duration risk for fossil fuel equities."
-        },
-        {
-          "rank": 2,
-          "risk": "OPEC+ discipline breakdown: A breakdown in OPEC+ production coordination could flood the market with supply, driving oil prices significantly lower. Exxon is the most resilient major to this scenario due to its low breakeven, but free cash flow would still fall materially at $50-60 WTI."
-        },
-        {
-          "rank": 3,
-          "risk": "ESG and divestment pressure: Institutional investors continue to reduce fossil fuel exposure for ESG and climate reasons. This structural demand reduction from the investor base could keep multiples compressed below historical energy sector averages even if fundamentals are sound."
-        },
-        {
-          "rank": 4,
-          "risk": "Permian Basin tiering risk: The Permian Basin is a world-class resource, but the best acreage has been picked over. Future drilling inventory quality could deteriorate, increasing production costs per barrel over time and reducing the attractiveness of the Permian relative to Guyana deepwater."
-        },
-        {
-          "rank": 5,
-          "risk": "Carbon tax and regulatory costs: Unexpected implementation of carbon pricing in the US or globally would increase the effective cost of Exxon's production and refining operations, compressing margins and accelerating the economic case for energy transition investment over traditional hydrocarbon assets."
-        }
-      ]
-    },
-    "whoShouldOwn": {
-      "text": "Appropriate For Value-oriented investors who want a high-quality integrated energy business with the lowest break-even production in the sector and a strong capital discipline culture, offering better risk-adjusted returns than pure-play E&amp;P companies Income investors who value a 2.8 per cent dividend with 42 consecutive years of growth and a share buyback programme that compounds returns at high oil prices Contrarians who believe peak oil demand is further away than the consensus expects and that OPEC+ can manage supply effectively enough to keep oil prices in the $75-90 range for the next several years Avoid If Long-duration ESG-conscious investors who cannot hold fossil fuel producers or who face mandates preventing energy sector exposure Investors seeking growth rather than value - the energy transition headwind creates a structural ceiling on the multiple the market will assign to Exxon over a 5-10 year horizon Strong views that peak oil demand is imminent and that OPEC+ will lose control of pricing as EVs capture market share faster than expected"
+    "keyRisks": [
+      {
+        "risk": "Oil price cyclicality",
+        "description": "Exxon's earnings and cash flow are directly correlated to the oil price. A 10% decline in Brent crude translates to approximately $2-3 billion in lost earnings. The stock has historically traded between 8x and 18x earnings depending on the oil price cycle, making it highly volatile for a company of its size."
+      },
+      {
+        "risk": "Energy transition secular headwind",
+        "description": "The long-term demand destruction from electric vehicles, renewable energy, and energy efficiency improvements creates a structural headwind for fossil fuel demand post-2030. Exxon's massive asset base faces potential stranding risk if policy incentives accelerate the transition. The Low Carbon Solutions division remains too small to offset core business headwinds."
+      },
+      {
+        "risk": "Geopolitical resolution",
+        "description": "The current stock price near $143 reflects a geopolitical risk premium embedded in the oil price. If the Middle East situation stabilises or a ceasefire occurs, oil could fall $10-15 and Exxon's earnings would compress accordingly. This is the single most important near-term risk for the stock."
+      },
+      {
+        "risk": "Guyana execution risk",
+        "description": "The Stabroek block is operated by Exxon with partners Hess and CNOOC. While progress has been excellent, the ambitious 1.2MMbpd target by 2027 requires flawless execution across multiple simultaneously operating FPSOs. Any delay, cost overrun, or operational issue could impair the growth thesis. There is also political risk related to the ongoing border dispute between Guyana and Venezuela."
+      },
+      {
+        "risk": "Carbon tax and tariff risk",
+        "description": "The imposition of carbon border adjustment mechanisms in the EU and potential US carbon taxes could increase the cost structure of Exxon's operations and reduce refining margins. Regulatory compliance costs are rising across all jurisdictions."
+      }
+    ],
+    "whoShouldOwnIt": {
+      "text": "Exxon is appropriate for investors who understand the oil cycle and want to express a view on geopolitical risk and crude supply scarcity. The stock is most attractive as a tactical position at the lower end of the trading range when oil price support is evident. Long-term holders should be aware that the energy transition creates secular demand uncertainty that could impair the business model over a 10-20 year horizon. Yield-oriented investors who want to combine energy exposure with dividend income will find Exxon attractive relative to bond alternatives."
     },
     "recommendation": {
-      "text": "Conviction Score: 56/100 - REDUCE The shares trade 13.5 per cent below the 52-week high at a P/E of 22.8×, reflecting both the quality of the asset base and the structural uncertainty around long-term oil demand. Buybacks and the growing dividend provide some floor, but the energy transition creates a structural ceiling on the multiple. Hold existing positions; do not initiate new ones at current levels. Buy Below $115 HOLD Zone $115-$148 Reduce Above $148 Stop / Sell $105"
-    },
-    "entryExit": {
-      "text": "Buy Below: $115 | HOLD Zone: $115-$148 | Reduce Above: $148 | Stop / Sell: $105"
-    },
-    "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
-    }
-  },
-  "scores": {
-    "current": {
-      "score": 56,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
-    },
-    "history": [
-      {
-        "date": "",
-        "score": 56,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+      "text": "OPPORTUNISTIC BUY. Exxon is a high-quality compounder that generates extraordinary free cash flow at $75+ oil and continues to execute its growth programme. The Guyanan asset base is among the best in the industry. However, at $143 near 52-week highs, the risk-reward is more balanced than it was at $100. The stock is pricing in an elevated oil price that may not persist if geopolitics stabilise.",
+      "entryFramework": {
+        "BUY": "below $115 — high quality asset at a reasonable price with meaningful upside to base case",
+        "ADD": "below $105 —attractive risk-reward with margin of safety",
+        "REDUCE": "above $155 — geopolitical premium fully priced, limited upside to base case",
+        "STOP": "below $95 — fundamental deterioration or prolonged oil bear market"
       }
-    ]
+    }
   }
 }

@@ -2513,11 +2513,11 @@
     "file": "danahercorp.html",
     "date": "2026-04-16",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "conviction": 52,
     "currency": "USD",
     "price": 190.43,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Danaher is a world-class life sciences tools franchise with an excellent track record of scientific instrument and diagnostics portfolio management. Morgan Stanley's upgrade in 2026 reflects growing confidence in a 2026 recovery in biotech capex spending, which directly drives...",
     "universes": [
       "watchlist"
     ],
@@ -2527,11 +2527,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 53
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 52
       }
     ]
   },
@@ -2603,11 +2599,11 @@
     "file": "delltechnologiesinc.html",
     "date": "2026-04-16",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "conviction": 58,
     "currency": "USD",
     "price": 185.4,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Dell Technologies is the dominant US enterprise AI server infrastructure provider, having converted its Dell AI Factory partnerships with NVIDIA into a multi-billion-dollar AI revenue stream. Record FY2026 revenue of $113B and Goldman Sachs upgrading the price target to $215 make...",
     "universes": [
       "watchlist"
     ],
@@ -2618,10 +2614,6 @@
       {
         "date": "2026-04-16",
         "conviction": 58
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
       }
     ]
   },
@@ -2909,11 +2901,11 @@
     "file": "elilillyandco.html",
     "date": "2026-04-16",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "conviction": 55,
     "currency": "USD",
     "price": 933.34,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Eli Lilly is the GLP-1 obesity drug franchise with the most comprehensive pipeline and the most aggressive expansion of manufacturing capacity in the space. The approval and launch of Zepbound for obesity is a genuine multi-decade revenue opportunity — potentially the largest...",
     "universes": [
       "watchlist"
     ],
@@ -2923,11 +2915,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 65
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 55
       }
     ]
   },
@@ -3111,7 +3099,7 @@
     "currency": "USD",
     "price": 153.5,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Exxon Mobil is a world-class integrated oil company that has staged a remarkable recovery from sub-$100 levels to all-time highs near $176, driven by the Middle East conflict premium and a structural undersupply thesis in crude markets. The company's operational leverage means...",
     "universes": [
       "watchlist"
     ],
@@ -3119,10 +3107,6 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
-      {
-        "date": "2026-04-16",
-        "conviction": 56
-      },
       {
         "date": "2026-04-16",
         "conviction": 50
@@ -3326,12 +3310,12 @@
     "exchange": "",
     "file": "fordmotorco.html",
     "date": "2026-04-16",
-    "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "recommendation": "SPECULATIVE BUY",
+    "conviction": 38,
     "currency": "USD",
     "price": 12.11,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Ford is navigating one of the most complex turnarounds in automotive history — simultaneously managing a legacy ICE and hybrid business while funding a large EV development programme that is currently destroying earnings. The UBS upgrade to Buy on improving earnings outlook...",
     "universes": [
       "watchlist"
     ],
@@ -3341,11 +3325,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 40
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 38
       }
     ]
   },
