@@ -4930,12 +4930,12 @@
   },
   {
     "ticker": "KGSPY",
-    "file": "kgspykingspangroupplcadr.html",
+    "file": "kingspangroupadr.html",
     "date": "2026-04-17",
     "price": 97.09,
     "conviction": 74,
     "recommendation": "BUY",
-    "summary": "Kingspan Group is a global leader in insulated panels and green building materials. Serving commercial, industrial and agricultural construction. Structural demand from tightening building regs and data centre buildout. BUY 74/100.",
+    "summary": "Kingspan Group ADR (KGSPY) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is BUY with conviction 84/100, using $90.15 as the latest stored price reference where available",
     "universes": [
       "watchlist"
     ],
@@ -4944,7 +4944,7 @@
     "company": "Kingspan Group ADR",
     "exchange": "OTC",
     "isin": "US4964021087",
-    "slug": "kgspykingspangroupplcadr.html",
+    "slug": "kingspangroupadr.html",
     "convictionHistory": [
       {
         "date": "2026-04-17",
@@ -4953,13 +4953,6 @@
       {
         "date": "2026-04-11",
         "conviction": 74
-      }
-    ],
-    "priceHistory": [
-      {
-        "date": "2026-04-17",
-        "price": 97.09,
-        "source": "sheet"
       }
     ]
   },

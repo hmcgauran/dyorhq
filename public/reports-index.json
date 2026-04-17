@@ -83,7 +83,7 @@
     "report_url": "/reports/abovefoodingredientsinc",
     "conviction": 31,
     "summary": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger zone where modest operational setbacks can matter more than the underlying business narrative.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -178,12 +178,12 @@
     "isin": "IE000DU292E6",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "SPECULATIVE BUY",
+    "recommendation": "SPECULATIVE BUY",
     "company": "ADSE - Ads-Tec Energy PLC",
     "file": "adstecenergyplc",
     "report_url": "/reports/adstecenergyplc",
-    "conviction": 54,
+    "conviction": 38,
     "summary": "Ads-Tec Energy makes battery-buffered fast charging systems and related energy management software. The interesting part of the story is not simply EV charging demand, but whether the company can prove that its buffer technology solves grid-connection bottlenecks in locations where conventional ultra-fast chargers are hard or expensive to install. The shares still look speculative because adoption depends on project execution, channel build-out and funding discipline rather than a long record of recurring cash generation.",
     "date": "2026-04-11",
     "universes": [
@@ -250,7 +250,7 @@
     "company": "AER - AerCap Holdings N.V.",
     "file": "aercapholdingsnv",
     "report_url": "/reports/aercapholdingsnv",
-    "conviction": 63,
+    "conviction": 50,
     "summary": "AerCap is the largest listed aircraft lessor and its investment case is driven by fleet quality, lease yields, funding access and residual value discipline. The company benefits when airlines want capacity but prefer not to own aircraft outright, especially in a market where manufacturer delivery delays keep equipment tight. The question is less about top-line growth than about how long the current favourable supply-demand balance can support lease economics without a credit or travel downturn intervening.",
     "date": "2026-04-11",
     "universes": [
@@ -303,7 +303,7 @@
     "report_url": "/reports/alibabagroupholdingltdadr",
     "conviction": 52,
     "summary": "Alibaba is a high-quality e-commerce and cloud infrastructure company that has been systematically mispriced by Western markets due to geopolitical risk premium, regulatory overhang from the PRC's tech crackdowns, and US-traded ADR uncertainty. At $126.10 with a P/E of 18.7x and a dividend yield approaching 2%, the bull case - domestic consumption recovery in China, AI infrastructure buildout, and global commerce expansion - is asymmetrically attractive at current levels.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -311,14 +311,14 @@
     "isin": "GB00BMD6C023",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "ALK - Alkemy Capital Investments PLC",
     "file": "alkemycapitalinvestmentsplc",
     "report_url": "/reports/alkemycapitalinvestmentsplc",
-    "conviction": 62,
+    "conviction": 68,
     "summary": "Alkemy Capital Investments PLC is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania — a hard rock lithium project with a completed Definitive Feasibility Study and a binding Glencore offtake agreement covering 40% of projected production at competitive pricing. Wates Group has been appointed as the construction partner, FEED is complete, and the project is awaiting Final Investment Decision (FID).",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": [
       "uk"
     ]
@@ -333,7 +333,7 @@
     "company": "ALKS - Alkermes plc",
     "file": "alkermesplc",
     "report_url": "/reports/alkermesplc",
-    "conviction": 57,
+    "conviction": 50,
     "summary": "Alkermes is no longer just a pipeline option on unproven science; it has a commercial neuroscience base and the market now judges it on product durability, margin quality and how management redeploys cash. The opportunity is real if the company can keep its marketed portfolio resilient while building the next leg of growth, but investors should recognise that biotech sentiment can turn quickly when key products mature.",
     "date": "2026-04-11",
     "universes": [
@@ -350,7 +350,7 @@
     "company": "ALLE - Allegion plc",
     "file": "allegionplc",
     "report_url": "/reports/allegionplc",
-    "conviction": 61,
+    "conviction": 50,
     "summary": "Allegion sells mechanical and electronic security products, especially doors, locks, access control and related hardware, with a strong installed-base advantage in institutional and commercial settings. It is a quality industrial, but the investment case usually hinges on whether electronic security growth can outpace any cyclical weakness in non-residential construction. That makes it more of a compounder-at-the-right-price story than a rapid re-rating opportunity.",
     "date": "2026-04-11",
     "universes": [
@@ -471,7 +471,7 @@
     "report_url": "/reports/amazoncominc",
     "conviction": 76,
     "summary": "Amazon is the world's largest e-commerce marketplace and cloud infrastructure provider, operating a network effect business with two dominant platforms - marketplace and AWS - that reinforce each other. AWS is the leading cloud platform, generating $100B+ in annual revenue with strong growth and significant AI opportunity through Bedrock. The e-commerce marketplace generates massive cash flow that funds AWS's AI infrastructure investment. The stock at $238.38 is 2% below its 52w high and is the best-risk-adjusted large-cap tech exposure available.",
-    "date": "2026-04-16",
+    "date": "2026-04-10",
     "universes": [
       "fortune100",
       "fortune101",
@@ -595,7 +595,7 @@
     "company": "APTV - Aptiv plc",
     "file": "aptivplc",
     "report_url": "/reports/aptivplc",
-    "conviction": 56,
+    "conviction": 50,
     "summary": "Aptiv sits at the intersection of automotive electrification, software architecture and vehicle content growth, but it still operates in a hard car industry where volumes, programme launches and customer concentration can overwhelm the secular story. The appeal is that modern vehicles need more electrical distribution, connectivity and software-defined architecture. The risk is that auto suppliers rarely get paid for vision alone if production schedules wobble or EV demand disappoints.",
     "date": "2026-04-11",
     "universes": [
@@ -648,7 +648,7 @@
     "report_url": "/reports/ardaghmetalpackagingsa",
     "conviction": 58,
     "summary": "AMBP manufactures metal beverage cans and related packaging, supplying beverage producers across multiple markets. This is a scale manufacturing business where value comes from production footprint, customer relationships, plant utilisation, raw material management and disciplined capital allocation.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -663,7 +663,7 @@
     "report_url": "/reports/aristanetworksinc",
     "conviction": 67,
     "summary": "Arista is one of the cleanest infrastructure beneficiaries of the AI datacentre build-out. Its high-performance cloud networking kit sits directly in the path of hyperscaler capex, and its software-led switching architecture has allowed it to take share from legacy vendors for years. At $145.26, just 0.6% below the 52-week high, the business quality is obvious but so is the valuation.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -671,14 +671,14 @@
     "isin": "US00217D1000",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "SPECULATIVE BUY",
+    "recommendation": "SPECULATIVE BUY",
     "company": "ASTS - AST SpaceMobile Inc",
     "file": "astspacemobileinc",
     "report_url": "/reports/astspacemobileinc",
-    "conviction": 58,
+    "conviction": 49,
     "summary": "AST SpaceMobile is a direct-to-device satellite broadband company that connects standard mobile handsets to its space-based network without requiring specialised hardware. The technology is genuinely differentiated and the MNO partnerships (AT&T, Verizon, Vodafone, TELUS, Saudi Telecom) are high-quality. The company has over $1 billion in contracted revenue commitments. The near-term catalyst is the BlueBird 7 satellite launch on New Glenn (~April 19, 2026) — the most important near-term binary event in the portfolio.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -746,7 +746,7 @@
     "company": "BIRG - Bank of Ireland Group plc",
     "file": "bankofirelandgroupplc",
     "report_url": "/reports/bankofirelandgroupplc",
-    "conviction": 59,
+    "conviction": 50,
     "summary": "Bank of Ireland is another core domestic lender whose earnings are currently flattered by higher rates, but the longer-term investment case rests on deposit stickiness, credit discipline and the ability to return capital without inviting a harsher regulatory tone. The bank has benefited from consolidation in the Irish market, though investors still need to separate cyclical earnings strength from truly durable franchise improvement.",
     "date": "2026-04-11",
     "universes": [
@@ -758,12 +758,12 @@
     "isin": "US05587G2030",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "BK - Bank of New York Mellon Corp",
     "file": "bankofnewyorkmelloncorp",
     "report_url": "/reports/bankofnewyorkmelloncorp",
-    "conviction": 50,
+    "conviction": 72,
     "summary": "The Bank of New York Mellon is a structurally advantaged custodian bank with fee-based revenues that should benefit from rising interest rates and growing assets under custody, but faces margin pressure and subdued equity markets; HOLD at $127.56.",
     "date": "2026-04-16",
     "universes": [
@@ -775,12 +775,12 @@
     "isin": "US0846707026",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY (STRONG)",
+    "recommendation": "BUY (STRONG)",
     "company": "BRK.B - Berkshire Hathaway Inc",
     "file": "berkshirehathawayincclassb",
     "report_url": "/reports/berkshirehathawayincclassb",
-    "conviction": 50,
+    "conviction": 83,
     "summary": "Berkshire Hathaway is a conglomerate holding company with dominant insurance operations and a disciplined capital allocation philosophy; its intrinsic value growing at above-market rates and significant liquidity make it a compelling long-term hold at $479.90.",
     "date": "2026-04-16",
     "universes": [
@@ -898,12 +898,12 @@
     "isin": "US09857L1089",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY (STRONG)",
+    "recommendation": "BUY (STRONG)",
     "company": "BKNG - Booking Holdings Inc",
     "file": "bookingholdingsinc",
     "report_url": "/reports/bookingholdingsinc",
-    "conviction": 50,
+    "conviction": 81,
     "summary": "Booking Holdings is the world's largest online travel agent by revenue, benefiting from structural travel demand recovery and its dominant platform economics; BUY on valuation pullback given strong long-term growth runway.",
     "date": "2026-04-16",
     "universes": [
@@ -954,7 +954,7 @@
     "company": "SLMT - Brera Holdings PLC",
     "file": "breraholdingsplc",
     "report_url": "/reports/breraholdingsplc",
-    "conviction": 28,
+    "conviction": 18,
     "summary": "Brera is a micro-cap multi-club football ownership story. That makes it speculative by default because valuation depends on asset quality, league outcomes, financing and the companys ability to create real economic value from sports ownership rather than just narrative appeal. Investors should treat it more like a high-risk holding company than like a conventional operating business.",
     "date": "2026-04-11",
     "universes": [
@@ -1025,7 +1025,7 @@
     "report_url": "/reports/bwxtechnologiesinc",
     "conviction": 76,
     "summary": "BWX Technologies is a leading supplier of nuclear components and fuel to the US Department of Defence and commercial nuclear sector. With the accelerating militarisation of nuclear deterrence across NATO allies, expanding naval fleets requiring compact reactor technology, and a structural backlog in commercial nuclear new-build, BWXT occupies a critical, difficult-to-replicate position in the western nuclear supply chain. At approximately 28x forward earnings and sitting 8.7% below its 52-week high, the shares offer a compelling risk-reward for investors seeking defence-adjacent exposure with genuine nuclear optionality. The primary investment case rests on sustained federal appropriations for nuclear naval propulsion, the anticipated growth in global nuclear submarine fleets, and incremental commercial opportunities in medical isotope production and advanced reactor components. This is a high-quality, contract-rich business trading at a reasonable valuation relative to its durable earnings base.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -1048,12 +1048,12 @@
     "isin": "US2547091080",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "COF - Capital One Financial Corp",
     "file": "capitalonefinancialcorp",
     "report_url": "/reports/capitalonefinancialcorp",
-    "conviction": 50,
+    "conviction": 78,
     "summary": "Capital One has transformed from a credit card lender into a diversified technology-powered financial services company; pending regulatory approval for its Discover merger, it stands to become a payments network major, warranting a BUY rating at $193.00.",
     "date": "2026-04-16",
     "universes": [
@@ -1242,7 +1242,7 @@
     "company": "CMPR - Cimpress plc",
     "file": "cimpressplc",
     "report_url": "/reports/cimpressplc",
-    "conviction": 57,
+    "conviction": 50,
     "summary": "Cimpress owns online print and mass customisation businesses, most notably Vistaprint, and the debate is whether its platform and customer economics are better than the market assumes for a mature e-commerce print operator. It is more interesting than a simple print label because software, data and fulfilment matter, but it is still a business that has to earn its returns through disciplined marketing and operational efficiency.",
     "date": "2026-04-11",
     "universes": [
@@ -1330,7 +1330,7 @@
     "company": "Coca-Cola Co (NYSE:KO)",
     "file": "cocacolaco",
     "report_url": "/reports/cocacolaco",
-    "conviction": 62,
+    "conviction": 61,
     "summary": "Coca-Cola manufactures and distributes alcoholic and non-alcoholic beverages across more than 200 countries. Its portfolio spans carbonated soft drinks (Coca-Cola, Diet Coke, Sprite, Fanta), sports drinks (Powerade), juices and value-added dairy (Minute Maid, Innocent), hydration and tea (smartwater, Costa Coffee, Ayataka), and energy drinks (Costa Coffee, Monster in certain markets under license). Coca-Cola operates a largely asset-light model: it concentrates on concentrate production and marketing while independent bottlers -- many of them privately held and operating under franchise agreements -- handle manufacturing, distribution, and local sales. This system provides structural operating leverage and capital efficiency. Geographic exposure is broadly diversified: North America (~35% of revenue), Europe/Middle East/Africa (~25%), Asia Pacific (~20%), Latin America (~15%), and Global Ventures (~5%). The business is characterised by significant pricing power, a recurring revenue model, and strong free cash flow generation that comfortably funds the dividend and share buyback programme.",
     "date": "2026-04-15",
     "universes": [
@@ -1361,12 +1361,12 @@
     "isin": "JP3980300002",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "CL - Colgate-Palmolive Co",
     "file": "colgatepalmoliveco",
     "report_url": "/reports/colgatepalmoliveco",
-    "conviction": 50,
+    "conviction": 68,
     "summary": "Colgate-Palmolive is a defensive consumer staples giant with dominant market share in oral care globally, but faces structural headwinds from private label competition and category deceleration in emerging markets; HOLD at $84.34.",
     "date": "2026-04-16",
     "universes": [
@@ -1385,7 +1385,7 @@
     "report_url": "/reports/colonialcoalinternationalcorp",
     "conviction": 55,
     "summary": "Colonial Coal International Corp is a Vancouver-listed metallurgical (steelmaking) coal company focused on the Peace River coalfield in north-east British Columbia. The company holds a 60% interest in the Steelmaking Coal (SMC) joint venture, a producing asset with long-life reserves and established infrastructure, alongside a portfolio of exploration properties. At $2.77 with a market cap of approximately $514m, it is a micro-cap name that trades on minimal liquidity and thin analyst coverage. The investment case is commodity leverage: metallurgical coal prices have been elevated by global steel demand, supply disruptions from Australia and Mongolia, and structural underinvestment in new coal capacity.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -1417,7 +1417,7 @@
     "company": "ConocoPhillips",
     "file": "conocophillips",
     "report_url": "/reports/conocophillips",
-    "conviction": 68,
+    "conviction": 65,
     "summary": "ConocoPhillips is a global supermajor with a high-quality, low-cost Permian Basin production base and meaningful LNG upside via its Freeport LNG stake. The Iran peace talks triggered a crude pullback from $131 to $118 — creating a tactical entry point. Jefferies has a $160 price target and Goldman Sachs named COP its #2 energy pick. Q1 2026 earnings on April 30 are the next near-term catalyst. The grok sentiment score of 68/100 reflects constructive energy macro sentiment despite short-term OPEC+ uncertainty.",
     "date": "2026-04-16",
     "universes": [
@@ -1434,7 +1434,7 @@
     "company": "C43 - Cosmo Pharmaceuticals NV",
     "file": "cosmopharmaceuticalsnv",
     "report_url": "/reports/cosmopharmaceuticalsnv",
-    "conviction": 55,
+    "conviction": 50,
     "summary": "Cosmo is unusual because it combines specialty pharma assets, medical device exposure and a history of partnering rather than building a huge broad sales force alone. That can create attractive optionality, but it also means the story depends heavily on execution around a relatively small set of products and partnerships. The shares deserve attention for niche innovation, but not blind confidence.",
     "date": "2026-04-11",
     "universes": [
@@ -1504,9 +1504,9 @@
     "company": "CRWD - CrowdStrike Holdings Inc",
     "file": "crowdstrikeholdingsinc",
     "report_url": "/reports/crowdstrikeholdingsinc",
-    "conviction": 73,
+    "conviction": 65,
     "summary": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The July 2024 Falcon update incident caused a significant derating, but the stock has recovered and is now in a 15-25% pullback from 52-week highs — creating a materially improved entry point following the first-ever GAAP net income in FY2026.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -1521,7 +1521,7 @@
     "report_url": "/reports/curisinc",
     "conviction": 40,
     "summary": "Curis is a small-cap oncology biotech with the usual combination of scientific optionality and financial fragility. At $0.5535 with a market cap of about $20.8M and negative EPS of -$1.20, the equity is deep in speculative territory. These names can bounce hard on data, but the base case is still dominated by funding and clinical risk.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -1551,7 +1551,7 @@
     "company": "CVS - CVS Health Corp",
     "file": "cvshealthcorp",
     "report_url": "/reports/cvshealthcorp",
-    "conviction": 50,
+    "conviction": 52,
     "summary": "CVS Health is a vertically integrated healthcare company spanning retail pharmacy, pharmacy benefit management (PBM), and health insurance (Aetna); the combination of PBM margin pressure, medical benefit ratio deterioration, and retail headwinds makes REDUCE the appropriate call at $79.33.",
     "date": "2026-04-16",
     "universes": [
@@ -1583,12 +1583,12 @@
     "isin": "IE0002424939",
     "exchange_code": null,
     "exchange": null,
-    "rating": "BUY",
-    "recommendation": "BUY",
+    "rating": "BUY (STRONG)",
+    "recommendation": "BUY (STRONG)",
     "company": "DCC plc",
     "file": "dccplc",
     "report_url": "/reports/dccplc",
-    "conviction": 71,
+    "conviction": 80,
     "summary": "DCC operates across three distinct divisions, each a leader in its respective niche:",
     "date": "2026-04-16",
     "universes": [
@@ -1600,12 +1600,12 @@
     "isin": "US2441991054",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "DE - Deere & Company",
     "file": "deereco",
     "report_url": "/reports/deereco",
-    "conviction": 50,
+    "conviction": 67,
     "summary": "Deere is the world's dominant agricultural and construction equipment manufacturer, benefiting from precision farming technology adoption and infrastructure spending; the stock's valuation near 52-week highs reflects this, leaving limited near-term upside; HOLD at $605.00.",
     "date": "2026-04-16",
     "universes": [
@@ -1662,7 +1662,7 @@
     "report_url": "/reports/diageoplc",
     "conviction": 62,
     "summary": "Diageo is the world's largest spirits company by revenue, owning a portfolio of iconic global brands including Johnnie Walker, Guinness, and Tanqueray. The business generates highly recurring, defensible cash flows from a geographically diversified model spanning five operating segments. However, North American distributor destocking and sluggish emerging market volume growth are currently suppressing organic revenue growth, and the new CEO -- appointed January 2026 -- has yet to articulate a clear strategic roadmap. The stock trades at a P/E of 18.4x, broadly in line with its historical medium-term range, with the shares sitting approximately 12.6% below their 52-week high. At current levels the risk-reward is balanced; a credible strategy refresh from the new CEO could provide meaningful re-rating potential, but the near-term catalyst calendar is thin. HOLD. Conviction Score: 62/100.",
-    "date": "2026-04-15",
+    "date": "2026-04-08",
     "universes": [
       "uk"
     ]
@@ -1723,12 +1723,12 @@
     "isin": "US26441C2044",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "DUK - Duke Energy Corp",
     "file": "dukeenergycorp",
     "report_url": "/reports/dukeenergycorp",
-    "conviction": 50,
+    "conviction": 70,
     "summary": "Duke Energy is a regulated utility operating across the Carolinas, Florida, Ohio, Indiana, and Kentucky; it offers a defensive 3.5% dividend yield supported by rate base growth from grid modernisation, but limited capital appreciation potential keeps us at HOLD.",
     "date": "2026-04-16",
     "universes": [
@@ -1741,14 +1741,14 @@
     "isin": "US26740W1099",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "SPECULATIVE BUY",
+    "recommendation": "SPECULATIVE BUY",
     "company": "D-Wave Quantum Inc",
     "file": "dwavequantuminc",
     "report_url": "/reports/dwavequantuminc",
-    "conviction": 62,
+    "conviction": 44,
     "summary": "D-Wave Quantum is the oldest listed quantum computing company, the only one with both annealing and gate-model quantum systems, and — following the acquisition of Quantum Circuits Inc (QCI) — now a full-stack quantum provider. The April 9 report (conviction 44, REDUCE, $14.56) was a reasonable assessment of an overvalued quantum story. That view now requires material revision.",
-    "date": "2026-04-16",
+    "date": "2026-04-09",
     "universes": []
   },
   {
@@ -1761,7 +1761,7 @@
     "company": "ETN - Eaton Corporation plc",
     "file": "eatoncorporationplc",
     "report_url": "/reports/eatoncorporationplc",
-    "conviction": 75,
+    "conviction": 68,
     "summary": "Eaton is a well-positioned electrical and power management company benefiting from grid modernisation, data centre power demand, industrial electrification and a generally stronger mix than it had a decade ago. The key attraction is that several growth themes now reinforce each other: utilities need upgrades, buildings need smarter electrical systems, and AI-related infrastructure is stretching power availability. This still does not make Eaton immune to industrial cycles, but it does make the franchise more durable than a typical conglomerate.",
     "date": "2026-04-11",
     "universes": [
@@ -1827,12 +1827,12 @@
     "isin": "US2910111044",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "EMR - Emerson Electric Co",
     "file": "emersonelectricco",
     "report_url": "/reports/emersonelectricco",
-    "conviction": 50,
+    "conviction": 76,
     "summary": "Emerson Electric is a global automation and instrumentation leader undergoing a strategic portfolio transformation; its push into discrete automation and hybrid process control aligns with structural manufacturing onshoring and AI-driven factory automation demand; BUY at $143.77.",
     "date": "2026-04-16",
     "universes": [
@@ -1884,9 +1884,9 @@
     "company": "ETL - Eutelsat Communications SA",
     "file": "eutelsatcommunicationssa",
     "report_url": "/reports/eutelsatcommunicationssa",
-    "conviction": 38,
+    "conviction": 41,
     "summary": "Eutelsat Communications SA is one of the world's oldest and largest satellite operators, providing fixed and broadcast satellite services across Europe, the Middle East, Africa, and the Americas. The group operates a fleet of Geostationary (GEO) satellites and holds a controlling...",
-    "date": "2026-04-15",
+    "date": "2026-04-07",
     "universes": []
   },
   {
@@ -1911,12 +1911,12 @@
     "isin": "GB00B19NLV48",
     "exchange_code": null,
     "exchange": null,
-    "rating": "BUY",
-    "recommendation": "BUY",
+    "rating": "SPECULATIVE BUY",
+    "recommendation": "SPECULATIVE BUY",
     "company": "EXPGF - Experian plc",
     "file": "experianplc",
     "report_url": "/reports/experianplc",
-    "conviction": 73,
+    "conviction": 48,
     "summary": "Experian is a data and analytics franchise with entrenched positions in credit information, decisioning and identity-related services. It benefits when lenders, insurers and businesses need better underwriting and fraud tools, but the real attraction is that the business is deeply embedded in customer workflows and produces recurring revenue with good cash conversion. It is not cheap in a headline sense, yet there are credible reasons why the market often pays up for it.",
     "date": "2026-04-11",
     "universes": [
@@ -1955,7 +1955,7 @@
     "report_url": "/reports/faradayfutureintelligentelectricinc",
     "conviction": 18,
     "summary": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating equity story. It is a distressed speculative stub.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -2053,7 +2053,7 @@
     "company": "FLUT - Flutter Entertainment plc",
     "file": "flutterentertainmentplc",
     "report_url": "/reports/flutterentertainmentplc",
-    "conviction": 64,
+    "conviction": 50,
     "summary": "Flutter is one of the strongest operators in online betting and gaming, with powerful brands, scale advantages and a broad geographic footprint, but it remains an industry where regulation and customer acquisition discipline can change the investment case quickly. The important question is not whether Flutter is a serious operator, it plainly is. The question is how much of that quality is already reflected in the share price and how durable current US and international economics prove to be.",
     "date": "2026-04-11",
     "universes": [
@@ -2091,7 +2091,7 @@
     "report_url": "/reports/fortinetinc",
     "conviction": 55,
     "summary": "Fortinet is a network security company focused on the mid-market and enterprise segment, selling firewalls, secure access (SD-WAN), and endpoint security through a combination of hardware appliances and its FortiOS operating system. The company is in a transition from an appliance model to a subscription/SaaS model, which is creating near-term revenue headwinds as hardware sales slow.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -2245,7 +2245,7 @@
     "company": "GHRS - GH Research PLC",
     "file": "ghresearchplc",
     "report_url": "/reports/ghresearchplc",
-    "conviction": 48,
+    "conviction": 46,
     "summary": "GH Research is a clinical-stage neuropsychiatry company focused on psychedelic-derived therapies, so the investment case is driven by clinical signal, safety, trial design and eventual commercial practicality. The upside could be substantial if its approach proves differentiated and scalable, but it remains an early-stage biotech where evidence, not theme, has to do the heavy lifting.",
     "date": "2026-04-11",
     "universes": [
@@ -2280,7 +2280,7 @@
     "company": "GL9 - Glanbia plc",
     "file": "glanbiaplc",
     "report_url": "/reports/glanbiaplc",
-    "conviction": 60,
+    "conviction": 50,
     "summary": "Glanbia is a nutrition and dairy-linked business whose better qualities come from brand strength and performance nutrition exposure, while its weaker points stem from ingredient volatility and a market that rarely gives dairy-linked names a generous valuation. The investment case improves when branded nutrition is carrying the story. It weakens when commodity-linked concerns dominate.",
     "date": "2026-04-11",
     "universes": [
@@ -2292,14 +2292,14 @@
     "isin": "AU0000397705",
     "exchange_code": null,
     "exchange": null,
-    "rating": "BUY",
-    "recommendation": "BUY",
+    "rating": "OPPORTUNISTIC BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "Glencore Partnership Portfolio PLC",
     "file": "glencorepartnershipportfolioplc",
     "report_url": "/reports/glencorepartnershipportfolioplc",
-    "conviction": 65,
+    "conviction": 57,
     "summary": "Glencore Partnership Portfolio PLC is a listed investment trust holding a concentrated position in Glencore plc (LSE:GLEN), one of the world's largest diversified natural resource companies. At 507 GBX, the shares trade at a discount to estimated NAV, offering indirect exposure to Glencore's commodity diversification, copper and coal transition dynamics, and progressive capital return programme. The discount is the key variable -- HOLD Conviction Score: 65/100 - BUY on further discount widening.",
-    "date": "2026-04-15",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -2307,14 +2307,14 @@
     "isin": "JE00B4T3BW64",
     "exchange_code": null,
     "exchange": null,
-    "rating": "BUY",
-    "recommendation": "BUY",
+    "rating": "OPPORTUNISTIC BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "Glencore PLC",
     "file": "glencoreplc",
     "report_url": "/reports/glencoreplc",
-    "conviction": 65,
+    "conviction": 64,
     "summary": "Glencore is one of the world's largest diversified commodity traders and miners, with deep exposure to copper, coal, zinc, nickel and agricultural products. The stock trades at a compressed valuation reflecting structural concerns around thermal coal asset strandedness, commodity...",
-    "date": "2026-04-15",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -2594,12 +2594,12 @@
     "isin": "IE0005711209",
     "exchange_code": null,
     "exchange": null,
-    "rating": "BUY",
-    "recommendation": "BUY",
+    "rating": "OPPORTUNISTIC BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "ICLR - ICON plc",
     "file": "iconplc",
     "report_url": "/reports/iconplc",
-    "conviction": 72,
+    "conviction": 50,
     "summary": "ICON is one of the leading contract research organisations serving the pharmaceutical and biotech industry. The appeal is straightforward: outsourcing remains structural, sponsors still need global trial execution expertise, and scale matters in winning and delivering complex studies. The main issue for investors is not whether the business is strategically important, but how much cyclical biopharma spending caution is already reflected in the shares.",
     "date": "2026-04-11",
     "universes": [
@@ -2715,14 +2715,14 @@
     "isin": "US46222L1089",
     "exchange_code": null,
     "exchange": null,
-    "rating": "BUY",
-    "recommendation": "BUY",
+    "rating": "SPECULATIVE BUY",
+    "recommendation": "SPECULATIVE BUY",
     "company": "IONQ - IonQ Inc",
     "file": "ionqinc",
     "report_url": "/reports/ionqinc",
-    "conviction": 68,
+    "conviction": 47,
     "summary": "IonQ is a pure-play quantum computing company trading on the NYSE. The prior report (8 Apr 2026, conviction 47, REDUCE) was written when the stock was at $29.55 — a thoughtful assessment of an overvalued, pre-revenue story. That characterisation is now materially incomplete. The stock has surged over 20% in a single session to $43.25, driven by a photonic interconnect breakthrough, DARPA HARQ program selection, and sector-wide momentum from Nvidia's quantum announcements.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -2737,7 +2737,7 @@
     "report_url": "/reports/irenltd",
     "conviction": 61,
     "summary": "Iris Energy is one of the cleaner listed ways to play the intersection of Bitcoin mining, power infrastructure, and AI/HPC optionality. The market likes that combination, which is why the stock sits just 5.1% below its 52-week high at $36.92. The problem is familiar: when these names are working, they rerate fast and leave little valuation cushion.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -2745,12 +2745,12 @@
     "isin": "IE000TTOOBX0",
     "exchange_code": null,
     "exchange": null,
-    "rating": "SPECULATIVE BUY",
-    "recommendation": "SPECULATIVE BUY",
+    "rating": "AVOID",
+    "recommendation": "AVOID",
     "company": "ITRMF - Iterum Therapeutics plc",
     "file": "iterumtherapeuticsplc",
     "report_url": "/reports/iterumtherapeuticsplc",
-    "conviction": 34,
+    "conviction": 4,
     "summary": "Iterum is a small anti-infectives biotechnology company, and the case rests overwhelmingly on regulatory and commercial outcomes around a limited asset base. Antibiotic development can address real medical need, but it has often been a poor equity category because commercial rewards rarely match scientific importance. That makes this a high-risk special situation rather than a dependable investment.",
     "date": "2026-04-11",
     "universes": [
@@ -2801,7 +2801,7 @@
     "company": "JHX - James Hardie Industries plc",
     "file": "jameshardieindustriesplc",
     "report_url": "/reports/jameshardieindustriesplc",
-    "conviction": 60,
+    "conviction": 50,
     "summary": "James Hardie is a building products specialist best known for fibre cement siding, with a strong position in the US market. The company has enviable brand and category strength, but the shares always carry housing-cycle risk because repair, remodel and new-build activity remain central to demand. The challenge for investors is paying the right price for a very good business in a cyclical end market.",
     "date": "2026-04-11",
     "universes": [
@@ -2818,7 +2818,7 @@
     "company": "JAZZ - Jazz Pharmaceuticals plc",
     "file": "jazzpharmaceuticalsplc",
     "report_url": "/reports/jazzpharmaceuticalsplc",
-    "conviction": 62,
+    "conviction": 50,
     "summary": "Jazz is a profitable specialty pharmaceutical company with meaningful positions in sleep, epilepsy and oncology, so it sits in a better place than speculative biotech but still faces familiar pharma questions around product concentration and replenishing growth. The market tends to respect the cash flow but remain cautious about what happens as established products mature. That makes the shares depend heavily on portfolio durability and capital allocation quality.",
     "date": "2026-04-11",
     "universes": [
@@ -2966,31 +2966,29 @@
   {
     "ticker": "KGSPY",
     "isin": "US4964021087",
-    "exchange_code": null,
-    "exchange": null,
-    "rating": "BUY",
-    "recommendation": "BUY",
-    "company": "KGSPY - Kingspan Group plc ADR",
+    "exchange_code": "OTC",
+    "exchange": "OTC",
+    "rating": "OPPORTUNISTIC BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
+    "company": "Kingspan Group ADR",
     "file": "kingspangroupadr",
     "report_url": "/reports/kingspangroupadr",
-    "conviction": 74,
-    "summary": "Kingspan is a leading insulation and building-envelope company with genuine structural exposure to energy efficiency standards, refurbishment and higher-performance buildings. It is still a cyclical construction supplier, but it participates in one of the better parts of that ecosystem because regulators, developers and occupiers all increasingly care about energy use. The shares can be volatile, yet the franchise quality is real.",
-    "date": "2026-04-11",
-    "universes": [
-      "irish"
-    ]
+    "conviction": 57,
+    "summary": "Kingspan Group ADR (KGSPY) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is BUY with conviction 84/100, using $90.15 as the latest stored price reference where available",
+    "date": "2026-04-17",
+    "universes": []
   },
   {
     "ticker": "FOBK",
     "isin": "CA4988241010",
     "exchange_code": null,
     "exchange": null,
-    "rating": "BUY",
-    "recommendation": "BUY",
+    "rating": "AVOID",
+    "recommendation": "AVOID",
     "company": "FOBK - Kneat.com Inc",
     "file": "kneatcominc",
     "report_url": "/reports/kneatcominc",
-    "conviction": 71,
+    "conviction": 28,
     "summary": "Kneat develops validation and compliance software for regulated manufacturing, especially life sciences. The attraction is that the product sits inside a painful and highly audited workflow where paper-based or fragmented systems are still common, making digitisation valuable and sticky. The company is still scaling, so the main question is whether it can turn a strong niche position into durable recurring revenue without overextending costs.",
     "date": "2026-04-11",
     "universes": [
@@ -3059,7 +3057,7 @@
     "report_url": "/reports/landoreresourcesltd",
     "conviction": 34,
     "summary": "Landore sits firmly in the small-cap exploration bucket where the asset story can sound better than the equity outcome. At 2.20p, essentially flat near the top of a very low trading range, the company remains a speculative resources punt rather than an investable operating business. With negative earnings and limited valuation support, this is hard to justify as anything beyond optionality.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -3116,12 +3114,12 @@
     "isin": "IE000S9YS762",
     "exchange_code": null,
     "exchange": null,
-    "rating": "BUY (STRONG)",
-    "recommendation": "BUY (STRONG)",
+    "rating": "OPPORTUNISTIC BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "LIN - Linde plc",
     "file": "lindeplc",
     "report_url": "/reports/lindeplc",
-    "conviction": 80,
+    "conviction": 61,
     "summary": "Linde is one of the highest-quality industrial gas businesses in the world, and that matters because industrial gases are unusually resilient, sticky and cash generative when managed well. The company benefits from long-term on-site contracts, disciplined pricing and exposure to attractive end markets ranging from healthcare to electronics. It is rarely cheap, but there are good reasons why investors often accept that.",
     "date": "2026-04-11",
     "universes": [
@@ -3438,14 +3436,14 @@
     "isin": "CA60686A4090",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "Mkango Resources Ltd",
     "file": "mkangoresourcesltd",
     "report_url": "/reports/mkangoresourcesltd",
-    "conviction": 55,
+    "conviction": 65,
     "summary": "Mkango Resources is a Canadian-listed rare earth elements explorer with a primary asset in Malawi, a UK-based processing technology subsidiary (Maginito), and a new acquisition in Germany through Hypromag. The rare earth secular demand story — driven by EVs, wind turbines, and defence — is genuine. The company has just closed a oversubscribed £12.5m fundraise to acquire and commission Hypromag Germany, a strategic expansion into rare earth magnet recycling that transforms the business from a pre-revenue explorer into an operating clean-tech materials company.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": [
       "uk"
     ]
@@ -3541,12 +3539,12 @@
     "isin": "US63942X1063",
     "exchange_code": null,
     "exchange": null,
-    "rating": "SPECULATIVE BUY",
-    "recommendation": "SPECULATIVE BUY",
+    "rating": "OPPORTUNISTIC BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "NVTS - Navitas Semiconductor Corp",
     "file": "navitassemiconductorcorp",
     "report_url": "/reports/navitassemiconductorcorp",
-    "conviction": 49,
+    "conviction": 50,
     "summary": "Navitas is a power semiconductor company focused on gallium nitride and silicon carbide technologies, so the story depends on whether next-generation materials win enough sockets in chargers, data centres, solar, storage and EV systems to justify the current strategic excitement. The technology case is interesting. The investment case is harder because commercial ramp timing and competition can remain uncertain for longer than investors expect.",
     "date": "2026-04-11",
     "universes": [
@@ -3615,7 +3613,7 @@
     "company": "NKE - Nike Inc",
     "file": "nikeinc",
     "report_url": "/reports/nikeinc",
-    "conviction": 52,
+    "conviction": 53,
     "summary": "Nike is in the middle of a critical strategic reset: the DTC-first model over-extended gross margins, and the new CEO's Consumer Offense plan is betting on innovation cycles and a revived wholesale relationships to recover pricing power. The stock is under-loved but the execution risk is substantial.",
     "date": "2026-04-16",
     "universes": [
@@ -3629,14 +3627,14 @@
     "isin": "US62914V1061",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "SPECULATIVE BUY",
+    "recommendation": "SPECULATIVE BUY",
     "company": "NIO - NIO Inc",
     "file": "nioincadr",
     "report_url": "/reports/nioincadr",
-    "conviction": 55,
+    "conviction": 38,
     "summary": "NIO is a Chinese premium electric vehicle maker with a battery-as-a-service (BaaS) model and a nationwide swap station network. The investment case has materially improved following two pivotal developments: first, NIO reported its first-ever GAAP quarterly net profit in Q4 2025, and second, Q1 2026 deliveries hit records at 83,465 vehicles (+98% YoY). These are not incremental improvements — they represent the first concrete evidence that the business model can work at scale.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -3687,7 +3685,7 @@
     "report_url": "/reports/nuscalepowercorp",
     "conviction": 46,
     "summary": "NuScale is one of the most recognisable listed names in advanced nuclear because it carries a real regulatory credential, the first U.S. NRC-approved SMR design. That matters. It gives the company a level of technical and policy credibility many earlier-stage peers do not have.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -3700,9 +3698,9 @@
     "company": "NVIDIA Corp",
     "file": "nvidiacorp",
     "report_url": "/reports/nvidiacorp",
-    "conviction": 65,
+    "conviction": 68,
     "summary": "NVIDIA is the defining AI infrastructure company of this decade. Its GPUs power every major AI training cluster from hyperscalers to enterprise AI. The Ising quantum AI model announcement in April 2026 extends NVIDIA's reach into quantum computing acceleration — a new addressable market. Analyst consensus targets of $267-275 imply 35-40% upside from $199. But at 40x forward earnings and a $3 trillion+ market cap, the stock requires continued AI capex acceleration to justify its valuation. The grok sentiment score of 65/100 reflects strong confidence tempered by valuation concerns and geopolitical risk.",
-    "date": "2026-04-16",
+    "date": "2026-04-10",
     "universes": [
       "fortune100",
       "fortune101",
@@ -3714,14 +3712,14 @@
     "isin": "US6748705067",
     "exchange_code": null,
     "exchange": null,
-    "rating": "SPECULATIVE BUY",
-    "recommendation": "SPECULATIVE BUY",
+    "rating": "OPPORTUNISTIC BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "Ocean Power Technologies Inc",
     "file": "oceanpowertechnologiesinc",
     "report_url": "/reports/oceanpowertechnologiesinc",
-    "conviction": 35,
+    "conviction": 61,
     "summary": "Ocean Power Technologies Inc is a small-cap marine energy company commercialising wave energy conversion technology. The stock trades near its 52-week low having retreated from a peak above $2.00, reflecting the high-risk profile of a pre-revenue cleantech developer with no clear path to profitability in the near term. While the long-term thesis around ocean energy is intellectually sound, RUOC lacks the financial runway, commercial contracts, and scale to justify a BUY recommendation at this time. HOLD with close monitoring of contract flow and dilution risk.",
-    "date": "2026-04-15",
+    "date": "2026-04-07",
     "universes": []
   },
   {
@@ -3736,7 +3734,7 @@
     "report_url": "/reports/okloinc",
     "conviction": 61,
     "summary": "Oklo is developing advanced microreactors designed to supply reliable, low-carbon power where uptime and energy density matter. The commercial target set is attractive: data centres, industrial sites, remote applications and other environments where firm power can command premium economics.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -3744,14 +3742,14 @@
     "isin": "GB00BNVVGD77",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "SPECULATIVE BUY",
+    "recommendation": "SPECULATIVE BUY",
     "company": "Ondo Finance",
     "file": "ondoinsurtechplc",
     "report_url": "/reports/ondoinsurtechplc",
-    "conviction": 58,
+    "conviction": 48,
     "summary": "Ondo Finance is the dominant protocol in tokenised real-world assets (RWA), with over $3bn in total value locked and a 50-60% market share in tokenised stocks and ETFs. The grok sentiment score of 52/100 reflects caution: the protocol metrics are exceptional (TVL $3bn+, 2900% YoY growth in tokenised stocks), the institutional partnerships (Franklin Templeton, Binance, Clearstream, 360X) are genuinely impressive, and the governance vote on fee-switch revenue sharing in H2 2026 is a potential binary catalyst. But the ONDO token is approximately 88% below its all-time high, weighed down by 1.94bn tokens unlocked in January 2026 and continuous team multisig selling into Coinbase. This is a classic \"protocol success versus token price\" paradox.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": [
       "uk"
     ]
@@ -3804,7 +3802,7 @@
     "report_url": "/reports/paloaltonetworksinc",
     "conviction": 74,
     "summary": "Palo Alto Networks is the dominant next-generation firewall vendor making the transition to a comprehensive platform company - SASE, cloud security, AI-powered security operations (XSIAM), and SOC automation. The One Platform strategy is paying off: platform consolidation is driving higher deal sizes and net revenue retention above 115%. At $172.83, down ~39% from its 52w high of $284.11, the stock is pricing in a scenario that is significantly worse than the base case.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": [
       "fortune100",
       "sp100"
@@ -3856,7 +3854,7 @@
     "report_url": "/reports/panthermetalsplc",
     "conviction": 43,
     "summary": "Panther Metals is firmly in the small-cap exploration camp where upside can be dramatic, but the path is usually through dilution, volatility and a lot of hope. At 80.0p, up on the day with limited volume, this is still a speculative mining punt rather than a business-quality investment.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -4053,14 +4051,14 @@
     "isin": "GB00BMFZVZ53",
     "exchange_code": null,
     "exchange": null,
-    "rating": "SPECULATIVE BUY",
-    "recommendation": "SPECULATIVE BUY",
+    "rating": "OPPORTUNISTIC BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "Prospex Energy PLC",
     "file": "prospexenergyplc",
     "report_url": "/reports/prospexenergyplc",
-    "conviction": 40,
+    "conviction": 58,
     "summary": "Prospex Energy PLC is a micro-cap oil and gas exploration and production company focused on Western Europe. The company operates producing assets in Spain (Viura/Selva) and Italy (Podere Maiar), and is expanding into Poland through a new licence award. At 3.38p, the stock is near the lower end of its 52-week range but has been supported by recent positive news flow — including a San Licence award in Poland (April 2026), an oversubscribed convertible loan note raise, and broker commentary flagging significantly increased cash generation from producing assets.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": [
       "uk"
     ]
@@ -4104,14 +4102,14 @@
     "isin": "GB00B11DDB67",
     "exchange_code": null,
     "exchange": null,
-    "rating": "SPECULATIVE BUY",
-    "recommendation": "SPECULATIVE BUY",
+    "rating": "OPPORTUNISTIC BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "QED - QED Oncology Inc",
     "file": "qedoncologyinc",
     "report_url": "/reports/qedoncologyinc",
-    "conviction": 35,
+    "conviction": 56,
     "summary": "QED Oncology Inc is a loss-making clinical-stage biotechnology company with a market capitalisation of approximately USD 75 million on the Nasdaq. Trading at USD 1.25, the shares sit near the lower end of a 52-week range of USD 0.90 to USD 3.50, reflecting the elevated binary risk typical of early-to-mid stage oncology development. The absence of product revenue, negative EPS of USD -2.57, and reliance on capital markets to fund ongoing clinical programmes render this a high-risk, speculative holding appropriate only for investors with a genuine tolerance for biotech-specific risk and a portfolio large enough to absorb a total loss. No formal P/E applies. HOLD. Conviction Score: 35/100 - HOLD.",
-    "date": "2026-04-15",
+    "date": "2026-04-08",
     "universes": [
       "uk"
     ]
@@ -4232,7 +4230,7 @@
     "report_url": "/reports/rigetticomputinginc",
     "conviction": 46,
     "summary": "Rigetti is another listed quantum name trading on future possibility rather than current economics. At $14.36 with a market cap near $4.6B and negative EPS, the valuation still reflects thematic enthusiasm more than operating proof.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -4380,12 +4378,12 @@
     "isin": "US81762P1021",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "NOW - ServiceNow, Inc.",
     "file": "servicenowinc",
     "report_url": "/reports/servicenowinc",
-    "conviction": 55,
+    "conviction": 68,
     "summary": "ServiceNow's AI-powered workflow automation platform is exceptionally well-positioned for enterprise AI adoption, but at the current valuation the market is paying for a very optimistic growth trajectory with little room for near-term disappointment -- HOLD . HOLD Conviction...",
     "date": "2026-04-11",
     "universes": [
@@ -4501,7 +4499,7 @@
     "company": "SW - Smurfit Westrock plc",
     "file": "smurfitwestrockplc",
     "report_url": "/reports/smurfitwestrockplc",
-    "conviction": 58,
+    "conviction": 50,
     "summary": "Smurfit Westrock is a large paper and packaging combination whose appeal rests on scale, geographic breadth and the possibility of extracting meaningful synergies from the merger. Packaging can be a decent business when supply is rational and value-added customer relationships are strong, but it is still cyclical, energy-intensive and sensitive to containerboard pricing. That makes this a merger-execution story as much as a packaging story.",
     "date": "2026-04-11",
     "universes": [
@@ -4553,7 +4551,7 @@
     "report_url": "/reports/spireglobalinc",
     "conviction": 60,
     "summary": "Spire is one of the more interesting smaller-cap space data names because it sells data and analytics rather than relying entirely on long-dated hardware optionality. The proposition, satellite-derived weather, maritime and aviation data, is commercially understandable. At $20.36, however, the stock is only 0.7% below its 52-week high, so the market is already giving it a lot of credit.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -4580,12 +4578,12 @@
     "isin": "IE00BFY8C754",
     "exchange_code": null,
     "exchange": null,
-    "rating": "BUY",
-    "recommendation": "BUY",
+    "rating": "OPPORTUNISTIC BUY",
+    "recommendation": "OPPORTUNISTIC BUY",
     "company": "STE - STERIS plc",
     "file": "sterisplc",
     "report_url": "/reports/sterisplc",
-    "conviction": 76,
+    "conviction": 50,
     "summary": "STERIS is a high-quality healthcare services and equipment company with a strong position in sterilisation, infection prevention and surgical support. The business benefits from recurring demand, regulatory importance and a mission-critical role in healthcare workflows. It is not the sort of company that produces dramatic headlines, but it is exactly the sort that can compound value when bought at a sensible price.",
     "date": "2026-04-11",
     "universes": [
@@ -4843,9 +4841,9 @@
     "company": "TomCo Energy Plc",
     "file": "tomcoenergyplc",
     "report_url": "/reports/tomcoenergyplc",
-    "conviction": 28,
+    "conviction": 22,
     "summary": "TomCo Energy Plc is a micro-cap oil and gas exploration and production company admitted to trading on the London Stock Exchange. At a price of 0.03 GBX and a market capitalisation of approximately GBP 2.0 million, the company is a speculative, high-risk investment vehicle with no...",
-    "date": "2026-04-15",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -4887,12 +4885,12 @@
     "isin": "US8964383066",
     "exchange_code": null,
     "exchange": null,
-    "rating": "SPECULATIVE BUY",
-    "recommendation": "SPECULATIVE BUY",
+    "rating": "AVOID",
+    "recommendation": "AVOID",
     "company": "TRIB - Trinity Biotech plc",
     "file": "trinitybiotechplc",
     "report_url": "/reports/trinitybiotechplc",
-    "conviction": 31,
+    "conviction": 12,
     "summary": "Trinity Biotech is a small diagnostics company where the investment case is dominated by turnaround execution, capital needs and whether any product platform can regain strategic relevance. Diagnostics can be attractive when a company has scale, installed base and dependable consumables. Trinity does not currently enjoy those advantages to the same extent, which is why the shares remain speculative.",
     "date": "2026-04-11",
     "universes": [
@@ -5062,14 +5060,14 @@
     "isin": "CA92201C1077",
     "exchange_code": null,
     "exchange": null,
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "VEQT - Vanguard All-Equity ETF Portfolio",
     "file": "vanguardallequityetfportfolio",
     "report_url": "/reports/vanguardallequityetfportfolio",
-    "conviction": 55,
+    "conviction": 71,
     "summary": "Vanguard All-Equity ETF Portfolio is a broadly diversified, low-cost all-equity portfolio investing across global developed and emerging market equities via a multi-ETF wrapper. It is an efficient, hands-off solution for long-term investors seeking full market exposure without...",
-    "date": "2026-04-15",
+    "date": "2026-04-07",
     "universes": []
   },
   {
@@ -5325,7 +5323,7 @@
     "report_url": "/reports/zephyrenergyplc",
     "conviction": 57,
     "summary": "Zephyr is another small-cap energy name where project execution matters far more than the broad commodity narrative. At 3.45p, off the session high and on healthy volume, the shares still screen as speculative rather than investable in the conventional sense. There is enough asset-level upside to keep interest alive, but not enough certainty to justify high conviction.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": [
       "uk"
     ]
@@ -5342,7 +5340,7 @@
     "report_url": "/reports/zymeworksinc",
     "conviction": 60,
     "summary": "Zymeworks is a clinical-stage oncology name with a real scientific platform and the usual biotech caveat: nothing matters more than data. At $26.70, with a market cap around $1.94B and still loss-making, the stock sits in the familiar zone where platform promise is investable only if you accept binary clinical risk.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {
@@ -5385,9 +5383,9 @@
     "company": "Autolus Therapeutics PLC",
     "file": "autolustherapeuticsplc",
     "report_url": "/reports/autolustherapeuticsplc",
-    "conviction": 44,
+    "conviction": 48,
     "summary": "AUCATZYL Year-1 revenue USD 75M, 2026 guidance USD 120-135M. Commercial launch real but facing Tecartus competition. Cash burn and financing risk. REDUCE SPEC at USD 1.61.",
-    "date": "2026-04-16",
+    "date": "2026-04-08",
     "universes": []
   },
   {

@@ -436,6 +436,7 @@ function updateIndex(ticker, entry) {
   const idx = loadJson(INDEX_PATH) || [];
   const slug = slugFrom(ticker);
   const existIdx = idx.findIndex(e => e.ticker === ticker);
+  const existingHistory = idx[existIdx]?.convictionHistory || [];
   const newEntry = {
     ticker,
     file: slug,
@@ -451,7 +452,7 @@ function updateIndex(ticker, entry) {
     exchange: entry.exchange || null,
     isin: entry.isin || null,
     slug,
-    convictionHistory: entry.convictionHistory || [],
+    convictionHistory: [{ date: TODAY, conviction: entry.conviction }, ...existingHistory],
   };
   if (existIdx >= 0) {
     idx[existIdx] = newEntry;
