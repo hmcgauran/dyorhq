@@ -4930,32 +4930,32 @@
   },
   {
     "ticker": "KGSPY",
-    "company": "KGSPY - Kingspan Group plc ADR",
-    "isin": "US4964021087",
-    "exchange": "",
-    "file": "kingspangroupadr.html",
-    "date": "2026-04-11",
-    "recommendation": "BUY",
+    "file": "kgspykingspangroupplcadr.html",
+    "date": "2026-04-17",
+    "price": 97.09,
     "conviction": 74,
-    "currency": "USD",
-    "price": 90.15,
-    "marketCap": null,
-    "summary": "Kingspan is a leading insulation and building-envelope company with genuine structural exposure to energy efficiency standards, refurbishment and higher-performance buildings. It is still a cyclical construction supplier, but it participates in one of the better parts of that ecosystem because regulators, developers and occupiers all increasingly care about energy use. The shares can be volatile, yet the franchise quality is real.",
+    "recommendation": "BUY",
+    "summary": "Kingspan Group is a global leader in insulated panels and green building materials. Serving commercial, industrial and agricultural construction. Structural demand from tightening building regs and data centre buildout. BUY 74/100.",
     "universes": [
-      "irish",
       "watchlist"
     ],
-    "priceAtLastReport": 90.15,
-    "marketCapAtLastReport": null,
-    "peAtLastReport": null,
+    "marketCap": 17498724880,
+    "currency": "USD",
+    "company": "Kingspan Group ADR",
+    "exchange": "OTC",
+    "isin": "US4964021087",
+    "slug": "kgspykingspangroupplcadr.html",
     "convictionHistory": [
       {
-        "date": "2026-04-11",
-        "conviction": 84
-      },
-      {
-        "date": "2026-04-11",
+        "date": "2026-04-17",
         "conviction": 74
+      }
+    ],
+    "priceHistory": [
+      {
+        "date": "2026-04-17",
+        "price": 97.09,
+        "source": "sheet"
       }
     ]
   },
