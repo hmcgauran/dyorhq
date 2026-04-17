@@ -269,13 +269,13 @@ function validateProject() {
       if (!last || typeof last.date !== 'string' || !Number.isInteger(last.conviction)) {
         issues.push(`${label}: convictionHistory entry malformed (need {date, conviction})`);
       } else {
-        // most recent entry date must equal top-level date
-        if (entry.date && last.date !== entry.date) {
-          issues.push(`${label}: convictionHistory most recent date "${last.date}" does not match entry date "${entry.date}"`);
+        // most recent entry date must equal top-level date (convictionHistory[0] = most recent)
+        if (entry.date && entry.convictionHistory[0].date !== entry.date) {
+          issues.push(`${label}: convictionHistory most recent date "${entry.convictionHistory[0].date}" does not match entry date "${entry.date}"`);
         }
         // most recent entry conviction must equal top-level conviction
-        if (typeof entry.conviction === 'number' && last.conviction !== entry.conviction) {
-          issues.push(`${label}: convictionHistory most recent conviction ${last.conviction} does not match entry conviction ${entry.conviction}`);
+        if (typeof entry.conviction === 'number' && entry.convictionHistory[0].conviction !== entry.conviction) {
+          issues.push(`${label}: convictionHistory most recent conviction ${entry.convictionHistory[0].conviction} does not match entry conviction ${entry.conviction}`);
         }
       }
     }
