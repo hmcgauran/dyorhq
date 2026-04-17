@@ -2107,30 +2107,25 @@
   },
   {
     "ticker": "CSCO",
-    "company": "CSCO - Cisco Systems Inc",
-    "isin": "US17275R1023",
-    "exchange": "",
-    "file": "ciscosystemsinc.html",
-    "date": "2026-04-16",
+    "file": "csco.html",
+    "date": "2026-04-17",
+    "price": 86.14,
+    "conviction": 50,
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 58,
-    "currency": "USD",
-    "price": 81.76,
-    "marketCap": null,
-    "summary": "Cisco is a quality networking franchise executing a credible AI infrastructure transition. Q2 FY26 delivered record $15.3B revenue (+10% YoY) with $2",
+    "summary": "Cisco is executing a credible AI infrastructure transition, with Q2 FY2026 delivering record $15.3 billion in revenue (+10% YoY) and a sharp acceleration in networking revenue to +21% YoY. AI infrastructure orders hit $2",
     "universes": [
-      "fortune100",
-      "fortune101",
-      "sp100",
       "watchlist"
     ],
-    "priceAtLastReport": 81.76,
-    "marketCapAtLastReport": null,
-    "peAtLastReport": null,
+    "marketCap": "340145027257",
+    "currency": "USD",
+    "company": "Cisco Systems Inc",
+    "exchange": "#N/A",
+    "isin": "US17275R1023",
+    "slug": "csco.html",
     "convictionHistory": [
       {
-        "date": "2026-04-16",
-        "conviction": 58
+        "date": "2026-04-17",
+        "conviction": 50
       }
     ]
   },

@@ -1,86 +1,22 @@
 {
-  "ticker": "CSCO",
-  "date": "2026-04-17",
-  "queries": [
-    "Cisco CSCO Q2 2026 earnings results",
-    "Cisco AI infrastructure orders 2026",
-    "Cisco networking revenue 2026"
-  ],
   "results": [
     {
-      "title": "CISCO REPORTS SECOND QUARTER EARNINGS",
-      "url": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-SECOND-QUARTER-EARNINGS/default.aspx",
-      "snippet": "Cisco reported Q2 FY 2026 revenue of $15.3 billion, up 10% year over year, with GAAP EPS of $0.80 (up 31%) and Non-GAAP EPS of $1.04 (up 11%)."
+      "query": "CSCO Cisco Systems Inc earnings results 2026",
+      "hits": []
     },
     {
-      "title": "Cisco Systems Inc. - Financials - Quarterly Results",
-      "url": "https://investor.cisco.com/financials/quarterly-results/default.aspx",
-      "snippet": "Cisco's Q2 2026 earnings showed record revenue of $15.3 billion and EPS growth exceeding guidance ranges, with details on margins and future outlook."
+      "query": "CSCO analyst coverage price target 2026",
+      "hits": []
     },
     {
-      "title": "Cisco (CSCO) Q2 earnings report 2026",
-      "url": "https://www.cnbc.com/2026/02/11/cisco-csco-q2-earnings-report-2026.html",
-      "snippet": "Cisco beat estimates with adjusted EPS of $1.04 vs $1.02 expected and revenue of $15.35 billion vs $15.12 billion expected, with revenue growing 10% year over year."
+      "query": "CSCO recent news catalyst April 2026",
+      "hits": []
     },
     {
-      "title": "Cisco Systems, Inc. Q2 2026 Earnings Call Summary",
-      "url": "https://finance.yahoo.com/news/cisco-systems-inc-q2-2026-133000834.html",
-      "snippet": "Q2 2026 results highlighted 10% revenue growth driven by AI infrastructure demand and Campus networking, with non-GAAP EPS up 11% despite some cash flow impacts."
-    },
-    {
-      "title": "Cisco Systems, Incorporated [CSCO] Q2FY26 Earnings ...",
-      "url": "https://investor.cisco.com/files/doc_events/2026/02/Q2FY26-Prepared-Remarks-1.pdf",
-      "snippet": "Cisco delivered Q2 revenue of $15.3B up 10% with product revenue up 14%, non-GAAP EPS of $1.04 up 11%, and strong orders growth particularly in AI infrastructure."
-    },
-    {
-      "title": "How Cisco's AI Infrastructure Orders and NVIDIA Alliance ...",
-      "url": "https://finance.yahoo.com/news/cisco-ai-infrastructure-orders-nvidia-070847995.html",
-      "snippet": "Cisco Systems reported strong second-quarter fiscal 2026 results exceeding expectations, driven by subscription revenues and AI infrastructure orders in partnership with NVIDIA."
-    },
-    {
-      "title": "Cisco's AI Orders Hit $2.1 Billion in One Quarter",
-      "url": "https://www.fool.com/investing/2026/02/16/ciscos-ai-orders-hit-21-billion-strong-guidance/",
-      "snippet": "Cisco took in $2.1 billion in AI infrastructure orders from hyperscalers in Q2 fiscal 2026. The company expects over $5 billion in AI orders for fiscal 2026, excluding some new products."
-    },
-    {
-      "title": "Cisco projects over $5B in AI orders for FY26 amid ...",
-      "url": "https://seekingalpha.com/news/4550809-cisco-projects-over-5b-in-ai-orders-for-fy26-amid-accelerated-demand-and-product-innovation",
-      "snippet": "Cisco anticipates over $5 billion in AI orders for fiscal year 2026 amid accelerated demand, product innovation, and record revenue growth."
-    },
-    {
-      "title": "Cisco's 2026 agenda prioritizes AI-ready infrastructure ...",
-      "url": "https://www.networkworld.com/article/4113462/ciscos-2026-agenda-prioritizes-ai-ready-infrastructure-connectivity.html",
-      "snippet": "Cisco's 2026 priorities focus on AI-ready infrastructure, connectivity, and partnerships like with Nvidia and VAST Data for integrated AI solutions."
-    },
-    {
-      "title": "Cisco's $2.1B AI Order Surge: Are we entering a new \" ...",
-      "url": "https://www.reddit.com/r/economy/comments/1r3q2qt/ciscos_21b_ai_order_surge_are_we_entering_a_new/",
-      "snippet": "Cisco's Q2 2026 report revealed $2.1 billion in AI orders, sparking discussion on the economic implications of AI data center infrastructure investments."
-    },
-    {
-      "title": "Cisco's Networking Revenue Growth Picks Up",
-      "url": "https://finance.yahoo.com/news/ciscos-networking-revenue-growth-picks-153200835.html",
-      "snippet": "Cisco Systems' networking revenues hit $8.29 billion in Q2 fiscal 2026, up 21% year-over-year driven by demand for AI infrastructure and campus networking solutions."
-    },
-    {
-      "title": "CISCO REPORTS SECOND QUARTER EARNINGS",
-      "url": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-SECOND-QUARTER-EARNINGS/default.aspx",
-      "snippet": "Cisco reported networking revenue of $8.294 billion for Q2 FY2026, a 21% increase, as part of overall product revenue growth amid strong orders."
-    },
-    {
-      "title": "cisco reports second quarter earnings",
-      "url": "https://investor.cisco.com/files/doc_events/2026/02/Q2FY26-Press-Release-1.pdf",
-      "snippet": "Cisco's Q2 FY2026 networking revenue was $8,294 million, up 21% year-over-year, contributing to total quarterly revenue of $15.3 billion."
-    },
-    {
-      "title": "Cisco (CSCO) Q2 earnings report 2026",
-      "url": "https://www.cnbc.com/2026/02/11/cisco-csco-q2-earnings-report-2026.html",
-      "snippet": "For fiscal year 2026, Cisco guided toward $61.2 billion to $61.7 billion in total revenue, implying roughly 8.5% annual growth."
-    },
-    {
-      "title": "Cisco Revenue 2012-2026 | CSCO",
-      "url": "https://www.macrotrends.net/stocks/charts/CSCO/cisco/revenue",
-      "snippet": "Cisco's revenue for the twelve months ending January 31, 2026 reached $59.054 billion, with Q2 revenue at $15.349 billion."
+      "query": "CSCO competitive landscape outlook",
+      "hits": []
     }
-  ]
+  ],
+  "ticker": "CSCO",
+  "date": "2026-04-17"
 }
