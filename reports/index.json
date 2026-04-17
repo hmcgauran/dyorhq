@@ -2107,25 +2107,25 @@
   },
   {
     "ticker": "CSCO",
-    "file": "csco.html",
+    "file": "ciscosystemsinc.html",
     "date": "2026-04-17",
-    "price": 86.105,
-    "conviction": 50,
+    "price": 86.25,
+    "conviction": 57,
     "recommendation": "OPPORTUNISTIC BUY",
-    "summary": "Cisco is executing a credible AI infrastructure transition, with Q2 FY2026 delivering record $15.3 billion in revenue (+10% YoY) and a sharp acceleration in networking revenue to +21% YoY. AI infrastructure orders hit $2",
+    "summary": "Cisco is a classic mature-network-infrastructure business undergoing an AI-era transition. AI infrastructure demand from hyperscalers is driving order acceleration, the 800G switching and Spectrum X/NVIDIA partnership story is real, and free cash flow provides a floor. OPPORTUNISTIC BUY at 57/100.",
     "universes": [
       "watchlist"
     ],
-    "marketCap": 340209001480,
+    "marketCap": 340781910199,
     "currency": "USD",
     "company": "Cisco Systems Inc",
     "exchange": "NASDAQ",
     "isin": "US17275R1023",
-    "slug": "csco.html",
+    "slug": "ciscosystemsinc.html",
     "convictionHistory": [
       {
         "date": "2026-04-17",
-        "conviction": 50
+        "conviction": 57
       }
     ]
   },
@@ -8982,6 +8982,174 @@
       {
         "date": "2026-04-16",
         "conviction": 38
+      }
+    ]
+  },
+  {
+    "ticker": "W7L",
+    "file": "warpaintlondonplc.html",
+    "date": "2026-04-17",
+    "price": 225,
+    "conviction": 57,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Warpaint London is a UK-based beauty and cosmetics company specialising in own-brand white label and branded nail polish, hand care and foot care products sold to retailers and distributors globally.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": "181771515",
+    "currency": "GBX",
+    "company": "Warpaint London PLC",
+    "exchange": "LON",
+    "isin": "GB00BYV08Z18",
+    "slug": "w7l.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-17",
+        "conviction": 57
+      }
+    ]
+  },
+  {
+    "ticker": "YNGA",
+    "file": "youngandcobreweryordshs.html",
+    "date": "2026-04-17",
+    "price": 849,
+    "conviction": 57,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Young & Co's Brewery is a UK pub company and brewer operating managed and tenanted pubs across the UK, with a focus on premium wet-led pubs and experiential hospitality venues.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": "471921234",
+    "currency": "GBX",
+    "company": "Young And Co'S Brewery Ord Shs",
+    "exchange": "LON",
+    "isin": "GB00B2T1S656",
+    "slug": "ynga.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-17",
+        "conviction": 57
+      }
+    ]
+  },
+  {
+    "ticker": "PTAL",
+    "file": "petrotalcorp.html",
+    "date": "2026-04-17",
+    "price": 26,
+    "conviction": 57,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Petrotal is a Canadian-listed oil producer focused on the Bretana field in Peru, with production weighted to the domestic market and growth optionality through field development.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": "435978744",
+    "currency": "GBX",
+    "company": "Petrotal Corp",
+    "exchange": "LON",
+    "isin": "CA71677J1012",
+    "slug": "ptal.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-17",
+        "conviction": 57
+      }
+    ]
+  },
+  {
+    "ticker": "SUP",
+    "file": "supremeplc.html",
+    "date": "2026-04-17",
+    "price": 0.3249,
+    "conviction": 57,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Supreme is a UK-based supplier of brandedfast-moving consumer goods, household products and operational equipment serving UK retail, wholesale and foodservice channels.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 9576233,
+    "currency": "USD",
+    "company": "Supreme PLC",
+    "exchange": "NYSE",
+    "isin": "GB00BDZ6CF00",
+    "slug": "sup.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-17",
+        "conviction": 57
+      }
+    ]
+  },
+  {
+    "ticker": "JHD",
+    "file": "jameshalsteadplc.html",
+    "date": "2026-04-17",
+    "price": 144.65,
+    "conviction": 57,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "James Halstead is a UK manufacturer and distributor of commercial floor coverings, synthetic surfaces and industrial rubber products sold to contractors, retailers and distributors globally.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": "602339064",
+    "currency": "GBX",
+    "company": "James Halstead PLC",
+    "exchange": "LON",
+    "isin": "GB0004052105",
+    "slug": "jhd.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-17",
+        "conviction": 57
+      }
+    ]
+  },
+  {
+    "ticker": "VTU",
+    "file": "vertumotorsplc.html",
+    "date": "2026-04-17",
+    "price": 63.9,
+    "conviction": 57,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Vertu Motors is a UK automotive retail group operating franchised dealership sites across the UK, representing volume and premium motor brands and providing aftersales services.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": "199566030",
+    "currency": "GBX",
+    "company": "Vertu Motors Plc",
+    "exchange": "LON",
+    "isin": "GB00B1GK6S14",
+    "slug": "vtu.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-17",
+        "conviction": 57
+      }
+    ]
+  },
+  {
+    "ticker": "MSI",
+    "file": "msinternationalplc.html",
+    "date": "2026-04-17",
+    "price": 441.96,
+    "conviction": 57,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "MS International is a UK-based engineering and manufacturing group serving the defence, security and industrial markets, with products including naval marine components and industrial equipment.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 73455347918,
+    "currency": "USD",
+    "company": "MS International plc",
+    "exchange": "NYSE",
+    "isin": "GB0006030996",
+    "slug": "msi.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-17",
+        "conviction": 57
       }
     ]
   }
