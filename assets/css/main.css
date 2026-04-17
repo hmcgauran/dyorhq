@@ -16,6 +16,7 @@
   --accent-orange: #ff8c00;
   --accent-amber: #ffb800;
   --rec-buy: #00ff88;
+  --rec-strongbuy: #FFD700;
   --rec-hold: #f0b429;
   --rec-reduce: #ff4d4d;
   --rec-sell: #ff4d4d;
@@ -548,10 +549,13 @@ input[type="search"]::placeholder {
 
 .rec-badge.buy-strong,
 .rec-badge.rec-buy-strong,
-.rec-badge.rec-buy \(STRONG\) {
-  --rec-badge-color: var(--rec-buy);
-  --rec-badge-bg: rgba(0, 255, 136, 0.14);
-  --rec-badge-border: rgba(0, 255, 136, 0.34);
+.rec-badge.strongbuy,
+.rec-badge.rec-strongbuy,
+.rec-badge.STRONG-BUY {
+  --rec-badge-color: var(--rec-strongbuy);
+  --rec-badge-bg: rgba(255, 215, 0, 0.18);
+  --rec-badge-border: rgba(255, 215, 0, 0.50);
+  text-shadow: 0 0 8px rgba(255, 215, 0, 0.4);
 }
 
 .rec-badge.opportunistic,
