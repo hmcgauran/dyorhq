@@ -307,12 +307,13 @@ function calcConviction(data, grokScore) {
     else if (pe < 25) { bullP += 10; bearP -= 5; }
   }
 
-  // Grok signal
+  // Grok signal — minor adjustment only; thesis and fundamentals drive conviction, Grok is one input
   if (grokScore !== null) {
-    if (grokScore > 60) { bullP += 10; baseP += 5; bearP -= 15; }
-    else if (grokScore > 30) { bullP += 5; }
-    else if (grokScore < -30) { bearP += 15; bullP -= 10; baseP -= 5; }
-    else if (grokScore < -10) { bearP += 5; }
+    if (grokScore > 70) { bullP += 3; baseP += 2; bearP -= 5; }
+    else if (grokScore > 50) { bullP += 2; }
+    else if (grokScore > 30) { bullP += 1; }
+    else if (grokScore < -30) { bearP += 5; bullP -= 3; baseP -= 2; }
+    else if (grokScore < -10) { bearP += 2; }
   }
 
   // Normalise to 100%
