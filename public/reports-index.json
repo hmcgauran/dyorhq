@@ -5515,13 +5515,13 @@
     "isin": "GB00BYYW9G87",
     "exchange_code": "NASDAQ",
     "exchange": "NASDAQ",
-    "rating": "OPPORTUNISTIC BUY",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "rating": "BUY",
+    "recommendation": "BUY",
     "company": "Avacta Group Plc",
     "file": "avactagroupplc",
     "report_url": "/reports/avactagroupplc",
-    "conviction": 57,
-    "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform - a tumour-targeted prodrug activation technology designed to improve the therapeutic index of cancer drugs by releasing the active drug preferentially in the tumour microenvironment rather than...",
+    "conviction": 68,
+    "summary": "Avacta Group is a UK-listed biotech developing cancer therapeutics via its Affimer scaffold and pre|CISION FAP-targeted platform. Lead programme faridaksorubicin in Phase 1 with data expected H1 2026. AACR 2026 presentations concluded. P/E N/M, pre-revenue. Market cap GBP 351M. BUY 68/100.",
     "date": "2026-04-17",
     "universes": []
   }

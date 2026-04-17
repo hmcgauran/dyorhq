@@ -9132,7 +9132,7 @@
     "ticker": "AVCT",
     "file": "avactagroupplc.html",
     "date": "2026-04-17",
-    "price": "0.77",
+    "price": 0.77,
     "conviction": 68,
     "recommendation": "BUY",
     "summary": "Avacta Group is a UK-listed biotech developing cancer therapeutics via its Affimer scaffold and pre|CISION FAP-targeted platform. Lead programme faridaksorubicin in Phase 1 with data expected H1 2026. AACR 2026 presentations concluded. P/E N/M, pre-revenue. Market cap GBP 351M. BUY 68/100.",
@@ -9148,10 +9148,15 @@
     "convictionHistory": [
       {
         "date": "2026-04-17",
-        "conviction": 57
+        "conviction": 68
       }
     ],
     "priceHistory": [
+      {
+        "date": "2026-04-17",
+        "price": 0.77,
+        "source": "sheet"
+      },
       {
         "date": "2026-04-17",
         "price": "0.77",
