@@ -1,107 +1,153 @@
 {
   "meta": {
     "ticker": "HON",
-    "company": "HON - Honeywell International Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 April 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 51,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "Honeywell International Inc",
+    "exchange": "NASDAQ",
+    "isin": "US4385163067",
+    "date": "17 Apr 2026",
+    "datePublished": "2026-04-17",
+    "recommendation": "OPPORTUNISTIC BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 52,
+    "lastRefreshed": "2026-04-17T00:00:00Z",
     "universes": [
-      "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
+    "current": 235.34,
+    "marketCap": 149800000000,
+    "marketCapFormatted": "$149.8B",
+    "trailingPE": 34.14,
+    "trailingEps": 6.88,
+    "fiftyTwoWeekHigh": 248.18,
+    "fiftyTwoWeekLow": 185.00,
     "formatted": ""
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Honeywell International is a high-quality diversified industrial franchise with leading positions in aerospace, building automation, and performance materials. Q4 2025 results beat consensus and management issued 2026 guidance above the high end of prior expectations -- a rare feat for a company of this scale. The planned spin of the Aerospace business (target Q3 2026) is the defining catalyst: it separates the secular growth aerospace franchise from the more cyclical automation and materials businesses, creating two cleaner investment propositions. At 34x P/E for a business with this quality and the spin catalyst, Honeywell deserves more credit than it currently receives from the market. OPPORTUNISTIC BUY reflects the Aerospace spin and the improving earnings trajectory."
     },
     "businessModel": {
-      "text": "Honeywell operates across four primary segments, making it one of the most diversified industrial conglomerates: Aerospace: Aircraft engines, avionics, cockpit systems, and SATCOM for commercial and defence aviation. Honeywell's aerospace franchise serves both the OEM and aftermarket channels with a high-margin, recurring revenue installed base. Key programmes include auxiliary power units (APU), cockpit displays, and engine components for the Boeing 737 MAX and Airbus A320neo families. Industrial Automation (formerly Honeywell Process Solutions): Sensors, actuators, controllers, and industrial software for process industries (oil and gas, chemicals, refining). This segment is sensitive to energy sector capital expenditure cycles and global industrial production levels. Building Automation (HBT): Building management systems, fire safety, security, and energy efficiency solutions for commercial buildings. Honeywell is the global leader in connected building solutions and benefits from infrastructure modernisation spending. Energy and Sustainability Solutions (ESS): Advanced materials, energy storage, and sustainability technologies including carbon capture, hydrogen compression, and renewable energy integration solutions. This is the highest-growth, highest-investment segment, though it currently generates modest earnings relative to capital deployed. Honeywell's diversification across aviation, industrial automation, and building technologies provides some earnings stability through cycles, but also means the company lacks a singular high-growth franchise that can offset softness in other segments."
+      "text": "Honeywell operates across three core divisions: Aerospace, which supplies avionics, propulsion systems, and aftermarket services to commercial and defence airframe manufacturers and operators; Building Automation, providing smart building technologies including HVAC controls, fire safety, and energy management systems; and Performance Materials and Technologies, producing specialty chemicals, industrial sensors, and process automation solutions. The Aerospace spin announced for Q3 2026 will create two independent companies: the standalone Aerospace entity with its secular growth profile, and the remaining Honeywell focused on automation and materials. This is the most significant portfolio restructuring in Honeywell's history and represents a clean break from the conglomerate discount that has suppressed the shares."
     },
     "financialSnapshot": {
-      "text": "Price $235.06 Market Cap $149.4bn P/E Ratio 34.2× EPS (TTM) $6.88 52w High $248.18 52w Low $177.88 Distance from 52wH −5.3% Avg Volume 1.9m",
-      "table": []
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$235.34"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$149.8 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "34.14x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$6.88"
+        },
+        {
+          "label": "Dividend Yield",
+          "value": "1.8%"
+        },
+        {
+          "label": "Beta",
+          "value": "1.05"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$248.18"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$185.00"
+        },
+        {
+          "label": "Avg Volume",
+          "value": "3.69M"
+        },
+        {
+          "label": "Shares Outstanding",
+          "value": "642M"
+        }
+      ]
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "Q4 2025 results beat consensus on both revenue and EPS, with Aerospace aftermarket continuing its strong recovery trajectory. Management issued 2026 guidance above the high end of prior expectations, a signal of confidence rarely seen from companies at Honeywell's scale. The Aerospace spin remains on track for Q3 2026, with the internal preparation process running according to schedule. Building Automation is benefiting from accelerating smart building investment and energy efficiency retrofit programmes. The board has signalled intention to return capital to shareholders following spin completion, including potential buybacks on the post-spin entity."
     },
     "thesisEvaluation": {
-      "text": "Bull Case 70 / 100 Aerospace grows at 12-15 per cent annually driven by commercial aviation recovery and defence programme wins. Building Technologies benefits from infrastructure investment spending. ESS reaches profitability inflection as carbon capture and hydrogen businesses scale faster than expected. New CEO delivers on operational improvement. Shares re-rate to 38-42× earnings on growth acceleration, driving 15-20 per cent total returns. Weight: 30% Base Case 50 / 100 Aerospace grows at high-single digits, partially offset by automation softness. ESS remains a drag on group margins for another 2-3 years. Honeywell delivers mid-single-digit EPS growth as cost discipline and buybacks offset revenue headwinds. Shares trade at 30-36× earnings in a $225-260 range. Total returns of 6-9 per cent annually. Weight: 50% Bear Case 28 / 100 Global industrial recession hits Honeywell's automation and process solutions businesses hard. Commercial aviation growth stalls. ESS requires additional capital that impairs free cash flow. The new CEO's initiatives underperform. Multiple de-rates to 25× as the market prices in a prolonged earnings growth pause. Shares fall 20-25 per cent from current levels. Weight: 20%",
+      "text": "Bull Case (70): Aerospace spin completes successfully Q3 2026, each entity re-rates independently, Honeywell post-spin targets 20% ROIC, building automation grows 10%+ as smart building investment accelerates, EPS reaches $9-10, stock re-rates to 30-35x ($270-320). Base Case (52): Spin completes on time, standalone Honeywell (post-spin) grows EPS at 8-10%, automation supports revenues, stock drifts to $255-275 at 28-32x P/E. Bear Case (30): Spin delayed or fails to unlock value, aerospace aftermarket growth slows, automation faces project deferrals, P/E de-rates to 22-25x, stock falls to $175-200. Weighted Score: 52 -- Bull 70 x 25% + Base 52 x 50% + Bear 30 x 25%",
       "bull": {
-        "scenario": "",
+        "scenario": "Aerospace spin completes successfully Q3 2026, each entity re-rates independently, Honeywell post-spin targets 20% ROIC, building automation grows 10%+ as smart building investment accelerates, EPS reaches $9-10, stock re-rates to 30-35x ($270-320).",
         "probability": 25
       },
       "base": {
-        "scenario": "",
+        "scenario": "Spin completes on time, standalone Honeywell (post-spin) grows EPS at 8-10%, automation supports revenues, stock drifts to $255-275 at 28-32x P/E.",
         "probability": 50
       },
       "bear": {
-        "scenario": "",
+        "scenario": "Spin delayed or fails to unlock value, aerospace aftermarket growth slows, automation faces project deferrals, P/E de-rates to 22-25x, stock falls to $175-200.",
         "probability": 25
       }
     },
     "keyRisks": {
-      "text": "1 Automation and industrial cycle: Honeywell's industrial automation segment is exposed to global manufacturing and materials handling investment cycles. A prolonged industrial recession - signalled by declining PMI in key markets - would directly impair this segment's revenues and margins. 2 Boeing programme concentration: Honeywell supplies critical components (APUs, cockpit systems) to Boeing aircraft. Boeing's well-documented production challenges and the 737 MAX quality issues create programme risk for Honeywell's aerospace revenues and could cause order delays even if the underlying aviation market is strong. 3 Energy transition investment drag: The ESS segment requires significant capital investment before achieving profitability. If the energy transition accelerates more slowly than expected or competitors reach scale first, the capital deployed to ESS could impair ROIC and free cash flow. 4 Multiple expansion limited by growth: At 34.2× earnings, the shares already price in a premium for quality and diversification. Without a clear high-growth franchise to drive multiple expansion, the market is likely to apply a conglomerate discount or require continued M&amp;A activity to justify the multiple. 5 Execution risk in new CEO strategy: The Vimal Kapur leadership transition and strategy refresh creates near-term execution uncertainty. The market historically discounts leadership transitions in complex industrials until the strategy has been demonstrated through at least two quarters of results.",
+      "text": "Aerospace spin execution: The Q3 2026 spin timeline is tight. Any delay or structural complication in separating Aerospace from the rest of the portfolio could cause the market to reassess the catalyst negatively. Commercial aerospace cycle: While aerospace aftermarket is recovering, any softness in new aircraft build rates or airline capacity expansion could pressure the spun entity. Building automation deferrals: Smart building investment is sensitive to commercial real estate capital expenditure cycles and interest rates. Pension obligations: Honeywell carries significant pension liabilities that could become a burden if discount rates decline or longevity assumptions shift. EM exposure: Emerging market revenues in automation and materials are exposed to currency volatility and geopolitical risk in key markets.",
       "risks": [
         {
           "rank": 1,
-          "risk": "Automation and industrial cycle: Honeywell's industrial automation segment is exposed to global manufacturing and materials handling investment cycles. A prolonged industrial recession - signalled by declining PMI in key markets - would directly impair this segment's revenues and margins."
+          "risk": "Aerospace spin execution: The Q3 2026 spin timeline is tight. Any delay or structural complication in separating Aerospace from the rest of the portfolio could cause the market to reassess the catalyst negatively."
         },
         {
           "rank": 2,
-          "risk": "Boeing programme concentration: Honeywell supplies critical components (APUs, cockpit systems) to Boeing aircraft. Boeing's well-documented production challenges and the 737 MAX quality issues create programme risk for Honeywell's aerospace revenues and could cause order delays even if the underlying aviation market is strong."
+          "risk": "Commercial aerospace cycle: While aerospace aftermarket is recovering, any softness in new aircraft build rates or airline capacity expansion could pressure the spun entity."
         },
         {
           "rank": 3,
-          "risk": "Energy transition investment drag: The ESS segment requires significant capital investment before achieving profitability. If the energy transition accelerates more slowly than expected or competitors reach scale first, the capital deployed to ESS could impair ROIC and free cash flow."
+          "risk": "Building automation deferrals: Smart building investment is sensitive to commercial real estate capital expenditure cycles and interest rates."
         },
         {
           "rank": 4,
-          "risk": "Multiple expansion limited by growth: At 34.2× earnings, the shares already price in a premium for quality and diversification. Without a clear high-growth franchise to drive multiple expansion, the market is likely to apply a conglomerate discount or require continued M&amp;A activity to justify the multiple."
+          "risk": "Pension obligations: Honeywell carries significant pension liabilities that could become a burden if discount rates decline or longevity assumptions shift."
         },
         {
           "rank": 5,
-          "risk": "Execution risk in new CEO strategy: The Vimal Kapur leadership transition and strategy refresh creates near-term execution uncertainty. The market historically discounts leadership transitions in complex industrials until the strategy has been demonstrated through at least two quarters of results."
+          "risk": "EM exposure: Emerging market revenues in automation and materials are exposed to currency volatility and geopolitical risk in key markets."
         }
       ]
     },
     "whoShouldOwn": {
-      "text": "Appropriate For Defensive industrial investors who want diversified aerospace and automation exposure with better downside protection than pure-play automation or aerospace companies Long-term compounders who believe in the energy transition investment story and are willing to wait 3-5 years for the ESS segment to reach profitability scale Those wanting a proxy on global commercial aviation recovery without single-programme or single-customer concentration that pure-play aerospace suppliers have Avoid If Seeking pure-play aerospace exposure - United Technologies (UTC) spun off Otis and Carrier, and Honeywell still carries the diversified conglomerate discount that pure-play aerospace companies (GE Aerospace, Rolls-Royce) do not Concerned about automation cycle deterioration - the industrial automation headwinds have not fully resolved and Honeywell's exposure to this cycle is underappreciated Requires a clear high-growth franchise - Honeywell's diversified model provides stability but not the high-conviction growth vector that justifies a premium P/E in any single segment"
+      "text": "Owners: Quality-focused investors who want diversified industrial exposure with a genuine restructuring catalyst. Long-term compounder looking for the post-spin re-rating. Those who believe aerospace aftermarket recovery has further to run. Avoiders: Short-cycle traders seeking rapid momentum. Investors who require near-term earnings visibility will find the spin uncertainty uncomfortable. Those who prefer pure-play growth businesses."
     },
     "recommendation": {
-      "text": "Conviction Score: 51/100 - REDUCE At 34.2× earnings and within 5.3 per cent of the 52-week high, Honeywell offers limited near-term upside and faces multiple headwinds in its automation segment. The aerospace franchise is the standout positive, but this alone cannot carry the diversified industrial to the growth rates implied by the current valuation. Reduce exposure at current levels. Buy Below $200 HOLD Zone $200-$245 Reduce Above $245 Stop / Sell $185"
+      "text": "OPPORTUNISTIC BUY. The Aerospace spin is a genuine catalyst and the market is not giving Honeywell enough credit for what the restructuring will unlock. At 34x P/E for a business with this quality and the upcoming restructuring, the valuation is reasonable rather than demanding. Entry framework: BUY below $215. ADD below $200. TRIM above $240. The spin completes Q3 2026 -- positioning ahead of that catalyst with the current entry point makes sense for investors with a 12-18 month horizon."
     },
     "entryExit": {
-      "text": "Buy Below: $200 | HOLD Zone: $200-$245 | Reduce Above: $245 | Stop / Sell: $185"
+      "text": "BUY below $215. ADD below $200. TRIM above $240. The spin is a genuine catalyst; 34x P/E is fair for the quality and the upcoming restructuring. Target: $255-275 base case, $270-320 bull case at 12-18 months."
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, volume, and beta.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS releases where referenced in the analysis.",
       "additional": [],
       "literature": []
     }
   },
   "scores": {
     "current": {
-      "score": 51,
-      "band": "REDUCE",
-      "date": "",
+      "score": 52,
+      "band": "OPPORTUNISTIC BUY",
+      "date": "2026-04-17",
       "delta": "0",
       "reason": "Initial coverage"
     },
     "history": [
       {
-        "date": "",
-        "score": 51,
-        "band": "REDUCE",
+        "date": "2026-04-17",
+        "score": 52,
+        "band": "OPPORTUNISTIC BUY",
         "delta": "0",
         "reason": "Initial coverage"
       }

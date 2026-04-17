@@ -1,110 +1,31 @@
 {
-  "meta": {
-    "ticker": "HD",
-    "company": "HD - Home Depot Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 April 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 54,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
-    "universes": [
-      "sp100",
-      "watchlist",
-      "fortune100"
-    ]
-  },
-  "price": {
-    "formatted": ""
-  },
+  "ticker": "HD",
+  "company": "Home Depot Inc",
+  "isin": "US4370761029",
+  "exchange": "NYSE",
+  "currency": "USD",
+  "price": 346.55,
+  "marketCap": "$346.5B",
+  "sector": "Consumer Discretionary — Home Improvement Retail",
+  "date": "17 April 2026",
+  "reportDate": "2026-04-17",
+  "recommendation": "OPPORTUNISTIC BUY",
+  "conviction": 48,
+  "convictionHistory": [{"date": "2026-04-17", "conviction": 48}],
+  "priceAtLastReport": 346.55,
+  "marketCapAtLastReport": "$346.5B",
+  "pe": 23.10,
+  "eps": 15.00,
+  "dividendYield": "2.4%",
+  "beta": 1.05,
+  "sharesOut": "998M",
+  "avgVolume": "3.5M",
+  "52wHigh": 395.00,
+  "52wLow": 310.00,
+  "prevClose": 343.20,
   "sections": {
     "executiveSummary": {
-      "text": ""
-    },
-    "businessModel": {
-      "text": "Home Depot operates the world's largest home improvement retail chain, serving three primary customer types: Do-It-Yourself (DIY) Consumers: Individual homeowners purchasing tools, materials, and equipment for personal home improvement projects. This is the historical core customer base, though as the housing stock ages and DIY skills decline in younger generations, this segment is evolving. Pro Customers: Professional contractors, tradespeople, and construction companies purchasing building materials, tools, and supplies at scale. Home Depot has invested heavily in Pro-focused services (HD Pro Checkout, dedicated sales teams, inventory management tools) to capture this high-volume, relationship-driven segment. Multi-Family Housing / Rental: Property managers and landlords maintaining rental units. This is a growing segment as institutional ownership of single-family rental properties expands. Home Depot's competitive moat rests on scale advantages in procurement, an unmatched product range, and the density of its store network. The Pro customer segment is the highest-priority growth area - Pro customers spend significantly more per transaction and have higher retention rates than DIY customers."
-    },
-    "financialSnapshot": {
-      "text": "Price $337.34 Market Cap $336.0bn P/E Ratio 23.7× EPS (TTM) $14.23 52w High $426.75 52w Low $315.31 Distance from 52wH −20.9% Avg Volume 3.2m",
-      "table": []
-    },
-    "recentCatalysts": {
-      "text": ""
-    },
-    "thesisEvaluation": {
-      "text": "Bull Case 68 / 100 Mortgage rates decline to 5.5-6.0 per cent as inflation cools, triggering a housing market recovery that drives both transaction volumes (first-time buyers entering the market) and home improvement spending. Home Depot's Pro programme drives sustained mix shift to higher-spending customers. EPS grows at 8-10 per cent annually. Shares re-rate to 26-28× as the housing recovery narrative gains traction. Weight: 30% Base Case 55 / 100 Housing market remains flat-to-slight-improvement through 2026. Existing home sales stabilise at current depressed levels. DIY spending stays pressured as consumers prioritise experiences over home improvement. Pro business continues to grow but cannot fully offset DIY weakness. EPS grows at 5-7 per cent as buybacks and cost discipline offset margin pressure. Weight: 50% Bear Case 35 / 100 Mortgage rates remain elevated above 7 per cent or rise further, causing a renewed housing market downturn. Existing home sales fall to multi-decade lows, severely impacting the Home Depot customer base. Consumers facing economic pressure reduce big-ticket discretionary home improvement spending. Lowe's survival competition intensifies, pressuring margins across the sector. Weight: 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
-    },
-    "keyRisks": {
-      "text": "1 Housing market dependency: Home Depot's transaction volumes are directly correlated with existing home sales. A sustained period of depressed existing home sales (triggered by continued affordability challenges from elevated mortgage rates) would impair the core DIY customer base's motivation to invest in home improvement. 2 Consumer spending pressure: Big-ticket home improvement projects are discretionary purchases. A deterioration in the US consumer economic situation - rising unemployment, reduced savings rates, credit tightening - would disproportionately impact Home Depot's transaction sizes and project frequency. 3 DIY to Pro mix shift limits: While the Pro customer strategy is strategically sound, there are limits to how quickly the customer base can shift. If DIY demand declines faster than Pro demand grows, the overall revenue trajectory could disappoint expectations. 4 Amazon and e-commerce competition: Amazon and other online retailers continue to take share in categories where the purchase decision is simple and delivery is convenient. Home Depot's response (same-day delivery, BOPIS, expanded online assortment) is meaningful but the e-commerce threat to core categories is real and growing. 5 Labour cost inflation: Home Depot employs a large hourly workforce in stores and distribution centres. Continued minimum wage increases and competitive labour market conditions put upward pressure on labour costs that are difficult to fully offset with price increases without losing price-sensitive customers.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Housing market dependency: Home Depot's transaction volumes are directly correlated with existing home sales. A sustained period of depressed existing home sales (triggered by continued affordability challenges from elevated mortgage rates) would impair the core DIY customer base's motivation to invest in home improvement."
-        },
-        {
-          "rank": 2,
-          "risk": "Consumer spending pressure: Big-ticket home improvement projects are discretionary purchases. A deterioration in the US consumer economic situation - rising unemployment, reduced savings rates, credit tightening - would disproportionately impact Home Depot's transaction sizes and project frequency."
-        },
-        {
-          "rank": 3,
-          "risk": "DIY to Pro mix shift limits: While the Pro customer strategy is strategically sound, there are limits to how quickly the customer base can shift. If DIY demand declines faster than Pro demand grows, the overall revenue trajectory could disappoint expectations."
-        },
-        {
-          "rank": 4,
-          "risk": "Amazon and e-commerce competition: Amazon and other online retailers continue to take share in categories where the purchase decision is simple and delivery is convenient. Home Depot's response (same-day delivery, BOPIS, expanded online assortment) is meaningful but the e-commerce threat to core categories is real and growing."
-        },
-        {
-          "rank": 5,
-          "risk": "Labour cost inflation: Home Depot employs a large hourly workforce in stores and distribution centres. Continued minimum wage increases and competitive labour market conditions put upward pressure on labour costs that are difficult to fully offset with price increases without losing price-sensitive customers."
-        }
-      ]
-    },
-    "whoShouldOwn": {
-      "text": "Appropriate For Housing market optimists who expect mortgage rates to decline meaningfully and trigger a home improvement spending recovery - Home Depot is the purest leveraged play on housing market recovery available in the S&amp;P 100 Long-term quality investors who want the premier home improvement franchise with exceptional brand recognition, management quality, and capital discipline - the fundamental business quality is exceptional even in a subdued environment Income investors attracted to the approximately 2.3 per cent dividend yield with 40+ years of consecutive dividend increases Avoid If Housing market neutral or cautious - at current elevated mortgage rate levels and with a strained first-time buyer affordability environment, the housing recovery catalyst is not clearly visible in the near term Seeking more cyclically resilient retail names - the consumer discretionary nature of big-ticket home improvement makes this a high-beta play on the housing cycle that could underperform in a slowdown Portfolio already holds Lowe's - the two positions are highly correlated and offer limited portfolio diversification benefit when held together"
-    },
-    "recommendation": {
-      "text": "Conviction Score: 54/100 - REDUCE The shares trade 20.9 per cent below the 52-week high at 23.7× earnings, providing some valuation support after the significant de-rating from the 2022 peaks. However, in an environment of subdued housing transactions and consumer spending pressure on discretionary categories, the near-term earnings trajectory lacks the momentum to drive a re-rating. Reduce at current levels; build positions on further weakness. Buy Below $290 HOLD Zone $290-$370 Reduce Above $370 Stop / Sell $270"
-    },
-    "entryExit": {
-      "text": "Buy Below: $290 | HOLD Zone: $290-$370 | Reduce Above: $370 | Stop / Sell: $270"
-    },
-    "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": "Home Depot is the dominant US home improvement retailer with unrivalled scale and a high-quality pro-customer ecosystem. Q4 2025 results beat on earnings but missed on sales in a still-challenged housing market — the big ticket categories (kitchens, bathrooms, major renovations) remain weak as homeowners sit on the sidelines waiting for mortgage rates to fall. The strategic pivot toward trade professionals (Pro Xtra) and supply house capabilities is the long-term growth driver and differentiates HD from Lowe's. At 23x P/E on ~$15 EPS, Home Depot is not expensive for a business with this franchise durability and 2.4% dividend yield. OPPORTUNISTIC BUY with conviction tempered by the uncertain near-term US housing cycle."
     }
-  },
-  "scores": {
-    "current": {
-      "score": 54,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
-    },
-    "history": [
-      {
-        "date": "",
-        "score": 54,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
-      }
-    ]
   }
 }

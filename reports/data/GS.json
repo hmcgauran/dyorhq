@@ -1,110 +1,77 @@
 {
-  "meta": {
-    "ticker": "GS",
-    "company": "GS - Goldman Sachs Group Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 April 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 59,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
-    "universes": [
-      "sp100",
-      "watchlist",
-      "fortune100"
-    ]
-  },
-  "price": {
-    "formatted": ""
-  },
+  "ticker": "GS",
+  "company": "Goldman Sachs Group Inc",
+  "isin": "US38141G1040",
+  "exchange": "NYSE",
+  "currency": "USD",
+  "price": 923.77,
+  "marketCap": "$273.1B",
+  "sector": "Financials — Investment Banking",
+  "date": "17 April 2026",
+  "reportDate": "2026-04-17",
+  "recommendation": "OPPORTUNISTIC BUY",
+  "conviction": 62,
+  "convictionHistory": [{"date": "2026-04-17", "conviction": 62}],
+  "priceAtLastReport": 923.77,
+  "marketCapAtLastReport": "$273.1B",
+  "pe": 16.86,
+  "eps": 54.72,
+  "dividendYield": "2.2%",
+  "beta": 1.30,
+  "sharesOut": "298M",
+  "avgVolume": "2.26M",
+  "52wHigh": 984.70,
+  "52wLow": 580.00,
+  "prevClose": 915.50,
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Goldman Sachs is a high-quality investment bank and global financial institution that had an exceptional Q1 2026 — record equity trading revenues, investment banking fees up 48% YoY to $2.84B, and net revenues of $17.23B beating consensus. The stock sold off 4% on the day despite the beat because weak fixed income trading disappointed — a recurring frustration with a franchise that has struggled to generate stable FICC revenues. At 16.86x P/E on $54.72 EPS, Goldman trades at a meaningful discount to the US major banks and at a discount to its own historical ranges. The OPPORTUNISTIC BUY thesis is that the investment banking recovery and record equities franchise will drive EPS above $60 in 2026, and that the FICC volatility is already priced in at 16.86x."
     },
     "businessModel": {
-      "text": "Goldman Sachs operates across four primary business segments: Investment Banking: Advisory (M&amp;A, divestitures, restructurings) and equity/debt underwriting. Goldman is consistently ranked among the top three global M&amp;A advisors and is particularly strong in high-profile, large-cap transactions. Fee revenue is highly cyclical and tied to global M&amp;A and IPO activity levels. FICC and Equities Trading (Global Markets): Fixed-income, currencies, commodities (FICC), and equities trading for institutional clients. This is the highest-revenue segment in absolute terms and provides significant earnings stability through market cycles, though it is sensitive to volatility levels and client activity. Asset and Wealth Management: Traditional and alternative asset management (private equity, hedge funds, real estate, credit) alongside private wealth management for UHNW and HNW individuals. This segment has grown significantly and provides recurring fee revenue with some performance fee upside. Consumer &amp; Wealth Management (Marcus / Personal Finance): The Marcus by Goldman Sachs digital banking platform and personal finance products. After the Apple Card partnership restructuring and exit from Marcus UK, the strategic scope of this segment is narrower than originally envisioned. Goldman's brand, talent density, and client relationships represent a durable competitive moat in investment banking and trading. The franchise's reputation for advising on the most consequential transactions globally is a self-reinforcing competitive advantage."
+      "text": "Goldman Sachs is a global investment bank and financial services company operating across four core businesses: Investment Banking (M&A advisory, equity and debt underwriting, IPO mandates), Global Markets (equity and fixed income trading, prime brokerage, securities financing), Asset Management (alternatives, private wealth,进场 wealth management), and Consumer Banking (Marcus by Goldman, Apple Card partnership). Revenue is weighted toward transaction-driven businesses, making it highly cyclical but also leveraged to market activity, IPO flow, and M&A volumes. The firm has materially improved its capital ratios under Basel III and maintains a strong balance sheet with $2.6 trillion in assets. Management has prioritised j.blob Moderate ROE expansion while maintaining conservative leverage ratios, and the consumer segment (Marcus + Apple Card) represents a long-term diversification play into stable net interest income."
     },
     "financialSnapshot": {
-      "text": "Price $907.80 Market Cap $267.8bn P/E Ratio 17.7× EPS (TTM) $51.32 52w High $984.70 52w Low $478.58 Distance from 52wH −7.8% Avg Volume 1.6m",
-      "table": []
+      "marketCap": "$273.1B",
+      "pe": "16.86x",
+      "eps": "$54.72",
+      "dividendYield": "2.2%",
+      "beta": "1.30",
+      "price": "$923.77",
+      "prevClose": "$915.50",
+      "52wHigh": "$984.70",
+      "52wLow": "$580.00",
+      "avgVolume": "2.26M",
+      "sharesOut": "298M",
+      "currency": "USD",
+      "distanceFrom52wHigh": "-6.2%",
+      "distanceFrom52wLow": "+59.3%",
+      "epsGrowthYoY": "+12.4%"
     },
     "recentCatalysts": {
-      "text": ""
+      "text": "Q1 2026 earnings delivered a beat on the headline: net revenues of $17.23B (+18% YoY) and EPS of $15.36 crush ing consensus of $13.94. Investment banking fees surged 48% YoY to $2.84B — the strongest quarterlyIB performance in three years — driven by a reopening of the IPO pipeline and a pickup in M&A advisory. Equity trading revenues hit a record $3.6B, benefiting from elevated market volatility and strong client activity. The selloff was triggered by fixed income revenues missing expectations at $4.1B — below the $4.5B+ that bulls had modelled. The Apple Card partnership continues to scale, and Marcus deposits remain stable. The bank announced a $5B share buyback in February 2026, demonstrating management's confidence in intrinsic value at these levels."
     },
     "thesisEvaluation": {
-      "text": "Bull Case 75 / 100 A sustained M&amp;A and IPO recovery drives Investment Banking revenues significantly above current low baselines. The new CEO articulates a credible growth strategy that re-rates the shares. Marcus pivots to a profitable fintech partnership model without further capital destruction. Goldman's FICC and Equities franchise maintains market share. Shares re-rate to 20×+ earnings, driving 20-25 per cent total returns. Weight: 30% Base Case 58 / 100 M&amp;A activity recovers modestly but not dramatically - a typical cyclical recovery rather than a structural rebound. Investment Banking contributes mid-single-digit revenue growth. Global Markets holds steady with mid-teens ROE. Asset management fees grow with AUM. EPS grows at 8-12 per cent annually. Shares drift to $950-1,050 range on 17-19× earnings. Weight: 50% Bear Case 40 / 100 M&amp;A and ECM markets remain subdued as geopolitical uncertainty and rate volatility keep corporate boards cautious. Goldman's consumer finance write-offs continue or worsen. Global Markets revenues decline as reduced volatility and lower client activity compress trading volumes. The CEO transition disrupts strategic execution. Shares fall to $650-750 on 13-15× earnings. Weight: 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
+      "bullCase": {
+        "conviction": 78,
+        "text": "Investment banking continues recovery, the IPO window widens further, and M&A advisory revenues grow 20%+ as corporates regain confidence in strategic transactions. FICC stabilises and begins generating $5B+ per quarter. EPS reaches $62-$68 in 2026 as equity trading remains elevated and IB adds $2B+ in incremental revenues. The stock re-rates to 18-20x P/E on a premium franchise premium. Price target: $1,100-$1,350."
       },
-      "base": {
-        "scenario": "",
-        "probability": 50
+      "baseCase": {
+        "conviction": 62,
+        "text": "Wall Street revenues remain steady. IB recovery is moderate — not every quarter hits the 48% growth rate. FICC stays range-bound at $4-4.5B per quarter. EPS of $57-$63 in 2026. The stock drifts to $950-$1,050 at 16-17x P/E, roughly in line with current levels. Dividend growth continues. The consumer franchise stabilises without being a meaningful earnings contributor."
       },
-      "bear": {
-        "scenario": "",
-        "probability": 25
+      "bearCase": {
+        "conviction": 35,
+        "text": "Recession fears close the IPO window and stall M&A activity. Credit losses in the consumer bank accelerate beyond current allowances. FICC revenues collapse again as the 2022-2024 pattern of volatility-driven losses repeats. The stock falls to $600-$700 on 10-12x P/E. Capital ratios come under pressure from consumer credit deterioration. Net revenues decline 15-20% from peak."
       }
     },
     "keyRisks": {
-      "text": "1 Capital markets cyclicality: Investment banking revenues (M&amp;A advisory, IPO underwriting) are highly sensitive to market conditions and corporate confidence. An adverse macro environment or sustained rate uncertainty could keep deal volumes depressed for longer, directly impairing Goldman's highest-margin revenue streams. 2 Consumer banking legacy: The Marcus platform and Apple Card partnership have consumed significant capital and management attention with uncertain returns. The restructuring and partnership exit costs have been higher than expected, and the strategic pivot away from consumer banking remains incomplete. 3 CEO succession uncertainty: The transition from David Solomon to a new CEO creates a governance and strategic discontinuity. Markets typically discount leadership transitions in financial services, and the direction of the firm under new leadership is genuinely uncertain. 4 Regulatory capital requirements: As a major US bank holding company, Goldman faces ongoing Basel III endgame capital rulemaking. Materially higher capital requirements could constrain buybacks, dividends, and the flexibility of the trading franchise, impairing the return on equity that supports the current valuation. 5 Competitive pressure in core franchise: JPMorgan continues to take share in investment banking and M&amp;A advisory, supported by its larger consumer banking franchise and balance sheet. Morgan Stanley's wealth management franchise provides a recurring revenue base that Goldman lacks in consumer/wealth.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Capital markets cyclicality: Investment banking revenues (M&amp;A advisory, IPO underwriting) are highly sensitive to market conditions and corporate confidence. An adverse macro environment or sustained rate uncertainty could keep deal volumes depressed for longer, directly impairing Goldman's highest-margin revenue streams."
-        },
-        {
-          "rank": 2,
-          "risk": "Consumer banking legacy: The Marcus platform and Apple Card partnership have consumed significant capital and management attention with uncertain returns. The restructuring and partnership exit costs have been higher than expected, and the strategic pivot away from consumer banking remains incomplete."
-        },
-        {
-          "rank": 3,
-          "risk": "CEO succession uncertainty: The transition from David Solomon to a new CEO creates a governance and strategic discontinuity. Markets typically discount leadership transitions in financial services, and the direction of the firm under new leadership is genuinely uncertain."
-        },
-        {
-          "rank": 4,
-          "risk": "Regulatory capital requirements: As a major US bank holding company, Goldman faces ongoing Basel III endgame capital rulemaking. Materially higher capital requirements could constrain buybacks, dividends, and the flexibility of the trading franchise, impairing the return on equity that supports the current valuation."
-        },
-        {
-          "rank": 5,
-          "risk": "Competitive pressure in core franchise: JPMorgan continues to take share in investment banking and M&amp;A advisory, supported by its larger consumer banking franchise and balance sheet. Morgan Stanley's wealth management franchise provides a recurring revenue base that Goldman lacks in consumer/wealth."
-        }
-      ]
+      "text": "Investment banking cycle risk: IB revenues are lumpy and highly sensitive to market conditions, deal flow, and corporate confidence. FICC volatility: Goldman's fixed income franchise has underperformed peers for three consecutive years — this is a structural concern, not a one-quarter miss. Consumer credit exposure: Apple Card receivables and Marcus loan book represent significant unsecured consumer credit that could face stress in an economic slowdown. Marcus deposit costs: As rates normalise, the cost of funding the consumer bank rises and compresses net interest margins. Regulatory capital requirements: As a G-SIB, Goldman faces ongoing capital surcharges that constrain buybacks and limit leverage. Valuation discount vs peers: Persistently lower P/E than JP Morgan, Morgan Stanley, and Bank of America reflects historical capital allocation decisions and the unresolved consumer bank question."
     },
-    "whoShouldOwn": {
-      "text": "Appropriate For Financial sector investors who want the premier investment banking and capital markets franchise at a reasonable valuation (17.7× earnings) versus the broader bank index Contrarian investors who note the shares are nearly double the 52-week low ($478.58) but still within 8 per cent of 52-week highs - a potential accumulation opportunity ahead of M&amp;A cycle recovery Those who believe the CEO transition creates an opportunity for strategic clarification that the market will positively re-rate once the new leadership team is in place Avoid If Seeking more diversified financial sector exposure - JPMorgan (JPM) has a superior franchise across consumer banking, payments, and investment banking with a more consistent track record of capital return Cannot tolerate CEO succession uncertainty - the leadership transition creates near-term governance risk that the current valuation does not compensate for Strong views that the M&amp;A recovery will be delayed by geopolitical uncertainty and rate volatility, keeping investment banking revenues subdued through 2026"
+    "whoShouldOwnIt": {
+      "text": "Owners: Investors who want concentrated exposure to a Wall Street recovery and an eventual re-rating of the IB franchise. Long-term holders comfortable with earnings volatility who understand that a single strong IB quarter (Q1 2026) signals the cycle turning. Value investors attracted to 16.86x P/E — one of the cheapest major US banks relative to earnings power. Avoiders: Growth investors seeking compounding predictable earnings will be frustrated by the cyclicality. Those who want a stable consumer banking franchise should look at JPM or BAC instead. Short-term traders should note the high beta (1.30) and elevated options premium."
     },
     "recommendation": {
-      "text": "Conviction Score: 59/100 - REDUCE At 17.7× earnings and 7.8 per cent below the 52-week high, Goldman offers a reasonable valuation for the quality of the franchise but lacks the near-term catalysts to drive a re-rating. The M&amp;A recovery is plausible but uncertain, and the CEO succession adds governance risk. Reduce exposure at current levels; add on weakness below $800. Buy Below $760 HOLD Zone $760-$930 Reduce Above $930 Stop / Sell $700"
-    },
-    "entryExit": {
-      "text": "Buy Below: $760 | HOLD Zone: $760-$930 | Reduce Above: $930 | Stop / Sell: $700 | Reduce exposure at current levels; add on weakness below $800."
-    },
-    "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": "OPPORTUNISTIC BUY. Goldman Sachs at 16.86x P/E is one of the cheapest major US banks relative to its earnings power. Q1 2026 proved the IB franchise is alive and that equity trading can generate record revenues. FICC remains the structural weakness but it is already priced in. BUY below $820. ADD below $750. TRIM above $950 toward $984. The entry point is now — the Q1 beat and the buyback programme signal management believes in the intrinsic value story. At these levels, the asymmetric upside to $1,100-$1,350 in the bull case is more attractive than the downside to $600 in the bear case."
     }
-  },
-  "scores": {
-    "current": {
-      "score": 59,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
-    },
-    "history": [
-      {
-        "date": "",
-        "score": 59,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
-      }
-    ]
   }
 }

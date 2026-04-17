@@ -1,110 +1,31 @@
 {
-  "meta": {
-    "ticker": "GE",
-    "company": "GE - General Electric Company",
-    "exchange": "",
-    "isin": "",
-    "date": "11 April 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 56,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
-    "universes": [
-      "sp100",
-      "watchlist",
-      "fortune100"
-    ]
-  },
-  "price": {
-    "formatted": ""
-  },
+  "ticker": "GE",
+  "company": "GE Aerospace",
+  "isin": "US3696043013",
+  "exchange": "NYSE",
+  "currency": "USD",
+  "price": 310.68,
+  "marketCap": "$328.0B",
+  "sector": "Industrials — Aerospace and Defense",
+  "date": "17 April 2026",
+  "reportDate": "2026-04-17",
+  "recommendation": "OPPORTUNISTIC BUY",
+  "conviction": 55,
+  "convictionHistory": [{"date": "2026-04-17", "conviction": 55}],
+  "priceAtLastReport": 310.68,
+  "marketCapAtLastReport": "$328.0B",
+  "pe": 37.93,
+  "eps": 8.18,
+  "dividendYield": "0.4%",
+  "beta": 1.10,
+  "sharesOut": "1.06B",
+  "avgVolume": "5.5M",
+  "52wHigh": 348.48,
+  "52wLow": 195.00,
+  "prevClose": 310.13,
   "sections": {
     "executiveSummary": {
-      "text": ""
-    },
-    "businessModel": {
-      "text": "General Electric is an industrial conglomerate focused on three core businesses following years of portfolio simplification: GE Aerospace: The crown jewel. Aircraft engines (LEAP, GE9X) and aviation systems for commercial and military aircraft. The LEAP engine (co-produced with Safran) powers the Airbus A320neo family and is in high-demand given the aircraft backlog. GE9X powers the Boeing 777X. This segment generates the highest margins and most durable growth in the portfolio. GE Vernova: Energy infrastructure including gas turbines, steam turbines, power conversion, and grid solutions. The business is a beneficiary of AI data-centre power demand and grid modernisation spending globally. GE Vernova is a separate publicly traded entity following its 2024 spinoff. GE HealthCare: Medical imaging equipment (MRI, CT, X-ray), ultrasound, and digital infrastructure for healthcare. Spun off in January 2023 as a separately traded company. GE retains a meaningful stake. The investment case centres on the GE Aerospace franchise - one of the few truly dominant industrial franchises globally, with a large installed base generating recurring aftermarket revenue from spare parts, maintenance, and upgrades."
-    },
-    "financialSnapshot": {
-      "text": "Price $308.35 Market Cap $322.2bn P/E Ratio 37.7× EPS (TTM) $8.18 52w High $348.48 52w Low $175.05 Distance from 52wH −11.5% Avg Volume 3.7m",
-      "table": []
-    },
-    "recentCatalysts": {
-      "text": ""
-    },
-    "thesisEvaluation": {
-      "text": "Bull Case 75 / 100 Global air travel demand grows at 5-6 per cent annually, driving sustained LEAP and GE9X engine demand. The aftermarket revenue cycle matures into a multi-decade high-margin stream. GE Aerospace achieves 30-35 per cent operating margins. The shares re-rate to 40-45× earnings as the market fully prices in the secular aviation growth story. Total returns of 15-20 per cent annually from here. Weight: 30% Base Case 55 / 100 Aviation demand grows at 4-5 per cent annually, a strong but not exceptional environment. LEAP production stabilises at current rates; aftermarket growth is steady. GE Aerospace margins expand to 28-30 per cent. Boeing recovery improves engine ordering. The shares trade at 33-40× earnings, delivering high-single-digit to low-double-digit annual returns. Weight: 50% Bear Case 30 / 100 Global economic slowdown reduces air travel demand, causing airlines to defer fleet expansion. Boeing's recovery stalls and 777X delays worsen. New engine development ( hydrogen, SAF-compatible) requires significant R&amp;D spend. GE Aerospace margins compress and the multiple de-rates to 25× as the market prices in a more cyclical profile for the aviation franchise. Weight: 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
-    },
-    "keyRisks": {
-      "text": "1 GE Aerospace multiple concentration: Following the spinoffs, GE's entire investment case rests on the aviation business. Any meaningful deterioration in the commercial aviation cycle, LEAP pricing pressure, or competitive encroachment (Rolls-Royce Trent) would have an outsized impact on the valuation. 2 Boeing dependency: GE Aerospace is the exclusive engine supplier for the Boeing 737 MAX and 777X. Boeing's well-documented quality and production challenges could slow engine offtake and impair the revenue trajectory for these programmes. 3 LEAP programme risks: The LEAP engine is a critical revenue driver. Geopolitical trade disruptions (particularly between the US and France/Safran joint venture partners), supply chain constraints, or quality issues with the LEAP could impair the most important programme in the portfolio. 4 SAF and hydrogen transition costs: The aviation industry faces regulatory pressure to adopt sustainable aviation fuels (SAF) and hydrogen-compatible engines. The R&amp;D and capital expenditure required to develop these next-generation technologies could be substantial without clear cost recovery timelines. 5 Aftermarket margin normalisation: The high-margin aftermarket business depends on a large and ageing installed base. As newer engines (LEAP) enter the fleet, the mix shift from mature high-margin overhauls to newer engine service contracts could pressure segment margins.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "GE Aerospace multiple concentration: Following the spinoffs, GE's entire investment case rests on the aviation business. Any meaningful deterioration in the commercial aviation cycle, LEAP pricing pressure, or competitive encroachment (Rolls-Royce Trent) would have an outsized impact on the valuation."
-        },
-        {
-          "rank": 2,
-          "risk": "Boeing dependency: GE Aerospace is the exclusive engine supplier for the Boeing 737 MAX and 777X. Boeing's well-documented quality and production challenges could slow engine offtake and impair the revenue trajectory for these programmes."
-        },
-        {
-          "rank": 3,
-          "risk": "LEAP programme risks: The LEAP engine is a critical revenue driver. Geopolitical trade disruptions (particularly between the US and France/Safran joint venture partners), supply chain constraints, or quality issues with the LEAP could impair the most important programme in the portfolio."
-        },
-        {
-          "rank": 4,
-          "risk": "SAF and hydrogen transition costs: The aviation industry faces regulatory pressure to adopt sustainable aviation fuels (SAF) and hydrogen-compatible engines. The R&amp;D and capital expenditure required to develop these next-generation technologies could be substantial without clear cost recovery timelines."
-        },
-        {
-          "rank": 5,
-          "risk": "Aftermarket margin normalisation: The high-margin aftermarket business depends on a large and ageing installed base. As newer engines (LEAP) enter the fleet, the mix shift from mature high-margin overhauls to newer engine service contracts could pressure segment margins."
-        }
-      ]
-    },
-    "whoShouldOwn": {
-      "text": "Appropriate For Long-term industrial investors who want the premier aviation franchise globally and are willing to accept a premium valuation in exchange for a business with a secular growth tailwind and a durable aftermarket revenue moat Thematic investors in the global travel recovery and fleet expansion cycle who want broad aviation exposure without single-airline or single-platform risk Those who believe Culp-era operational improvements are still early in their realisation, with significant margin expansion still to come from the aerospace business Avoid If Seeking value or a reasonable entry P/E - at 37.7× earnings the shares price in very high-quality execution with almost no margin of safety for unexpected setbacks Concerned about Boeing's production recovery trajectory or the broader commercial aviation cycle's sensitivity to macroeconomic conditions Portfolio already holds Rolls-Royce (RYCEY) or Honeywell (HON) which provide overlapping aerospace exposure at more reasonable valuations"
-    },
-    "recommendation": {
-      "text": "Conviction Score: 56/100 - REDUCE At 37.7× earnings and 11.5 per cent below the 52-week high, the shares are not cheap and do not offer sufficient margin of safety for a high-conviction Buy. The aviation franchise is genuinely exceptional, but the valuation reflects this. Existing holders can maintain positions; new buyers should wait for a more attractive entry point below $260. Buy Below $260 HOLD Zone $260-$320 Reduce Above $320 Stop / Sell $240"
-    },
-    "entryExit": {
-      "text": "Buy Below: $260 | HOLD Zone: $260-$320 | Reduce Above: $320 | Stop / Sell: $240 | Existing holders can maintain positions; new buyers should wait for a more attractive entry point below $260."
-    },
-    "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": "GE Aerospace is one of the great industrial turnarounds of the decade. The 2025 FY results delivered record $6.4 EPS with total orders of $27B (+74% YoY), driven by commercial engine demand from Airbus and Boeing's production ramp. The LEAP engine continues to gain market share and the services business provides enormous recurring revenue. The spin-off to GE Vernova (energy) and GE HealthCare has left a cleaner, higher-quality business. At 37.9x P/E on record earnings, the valuation is premium — but the aerospace backlog is multi-decade in duration and the business has genuine pricing power. OPPORTUNISTIC BUY reflects the quality but acknowledges the stock is within 11% of its 52-week high, limiting the near-term upside and requiring patience for a better entry."
     }
-  },
-  "scores": {
-    "current": {
-      "score": 56,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
-    },
-    "history": [
-      {
-        "date": "",
-        "score": 56,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
-      }
-    ]
   }
 }

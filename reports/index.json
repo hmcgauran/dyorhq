@@ -3497,11 +3497,11 @@
     "file": "generalelectricco.html",
     "date": "2026-04-16",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "conviction": 55,
     "currency": "USD",
     "price": 306.25,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "GE Aerospace is one of the great industrial turnarounds of the decade. The 2025 FY results delivered record $6.4 EPS with total orders of $27B (+74% YoY), driven by commercial engine demand from Airbus and Boeing's production ramp",
     "universes": [
       "watchlist"
     ],
@@ -3511,11 +3511,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 56
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 55
       }
     ]
   },
@@ -3751,11 +3747,11 @@
     "file": "goldmansachsgroupinc.html",
     "date": "2026-04-16",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "conviction": 62,
     "currency": "USD",
     "price": 879.81,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Goldman Sachs is a high-quality investment bank and global financial institution that had an exceptional Q1 2026 — record equity trading revenues, investment banking fees up 48% YoY to $2.84B, and net revenues of $17.23B beating consensus",
     "universes": [
       "watchlist"
     ],
@@ -3765,11 +3761,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 59
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 62
       }
     ]
   },
@@ -4014,12 +4006,12 @@
     "exchange": "",
     "file": "homedepotinc.html",
     "date": "2026-04-16",
-    "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "recommendation": "SPECULATIVE BUY",
+    "conviction": 48,
     "currency": "USD",
     "price": 334.54,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Home Depot is the dominant US home improvement retailer with unrivalled scale and a high-quality pro-customer ecosystem. Q4 2025 results beat on earnings but missed on sales in a still-challenged housing market — the big ticket categories (kitchens, bathrooms, major renovations)...",
     "universes": [
       "watchlist"
     ],
@@ -4029,11 +4021,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 54
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 48
       }
     ]
   },
@@ -4045,11 +4033,11 @@
     "file": "honeywellinternationalinc.html",
     "date": "2026-04-16",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "conviction": 52,
     "currency": "USD",
     "price": 232.51,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Honeywell International is a high-quality diversified industrial franchise with leading positions in aerospace, building automation, and performance materials. Q4 2025 results beat consensus and management issued 2026 guidance above the high end of prior expectations -- a rare...",
     "universes": [
       "watchlist"
     ],
@@ -4059,11 +4047,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 51
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 52
       }
     ]
   },
@@ -4968,8 +4952,8 @@
     "exchange": "",
     "file": "lightpathtechnologiesinc.html",
     "date": "2026-04-16",
-    "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 52,
+    "recommendation": "SPECULATIVE BUY",
+    "conviction": 38,
     "currency": "USD",
     "price": 14.02,
     "marketCap": null,
@@ -4982,9 +4966,10 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 52
+        "conviction": 38
       }
-    ]
+    ],
+    "summary": "LightPath Technologies is a small-cap US manufacturer of precision infrared optics, thermal imaging cameras, and moulded glass optical components for defence, industrial, and automotive customers. Recent news highlights include a record infrared systems backlog, new drone-related..."
   },
   {
     "ticker": "LIN",
