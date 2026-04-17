@@ -129,52 +129,58 @@ function fetchFMPData(ticker) {
   const key = process.env.FMP_API_KEY;
   if (!key) return { error: 'no_api_key' };
   const t = ticker.replace(US_EXCHANGES_RE, '').toUpperCase();
+  const BASE = 'https://financialmodelingprep.com/stable';
 
-  // Profile + quote
-  let profile, quote;
+  // Quote: price, marketCap, 52w high/low
+  let quote = null;
   try {
-    const profileRaw = exec(`curl -sf "https://financialmodelingprep.com/api/v3/profile/${t}?apikey=${key}" 2>/dev/null`);
-    profile = JSON.parse(profileRaw)?.[0] || null;
-  } catch { profile = null; }
-
-  try {
-    const quoteRaw = exec(`curl -sf "https://financialmodelingprep.com/api/v3/quote/${t}?apikey=${key}" 2>/dev/null`);
-    quote = JSON.parse(quoteRaw)?.[0] || null;
+    const raw = exec(`curl -sf "${BASE}/quote?symbol=${t}&apikey=${key}" 2>/dev/null`);
+    quote = JSON.parse(raw)?.[0] || null;
   } catch { quote = null; }
+
+  // Profile: company, sector, industry, currency, exchange
+  let profile = null;
+  try {
+    const raw = exec(`curl -sf "${BASE}/profile?symbol=${t}&apikey=${key}" 2>/dev/null`);
+    profile = JSON.parse(raw)?.[0] || null;
+  } catch { profile = null; }
 
   if (!quote && !profile) return { error: 'no_data' };
 
-  // Income statement (TTM revenue)
-  let incomeStmt = null;
+  // Income statement: TTM revenue, gross margin, TTM EPS
+  let ttmRevenue = null, ttmGrossProfit = null, ttmEps = null;
   try {
-    const incomeRaw = exec(`curl -sf "https://financialmodelingprep.com/api/v3/income-statement/${t}?period=quarter&limit=1&apikey=${key}" 2>/dev/null`);
-    incomeStmt = JSON.parse(incomeRaw)?.[0] || null;
+    const raw = exec(`curl -sf "${BASE}/income-statement?symbol=${t}&period=quarter&limit=4&apikey=${key}" 2>/dev/null`);
+    const quarters = JSON.parse(raw) || [];
+    if (quarters.length > 0) {
+      ttmRevenue = quarters.reduce((s, q) => s + (q.revenue || 0), 0);
+      ttmGrossProfit = quarters.reduce((s, q) => s + (q.grossProfit || 0), 0);
+      ttmEps = quarters.reduce((s, q) => s + (q.epsDiluted || 0), 0);
+    }
   } catch {}
 
-  // Key metrics
-  let metrics = null;
-  try {
-    const metricsRaw = exec(`curl -sf "https://financialmodelingprep.com/api/v3/key-metrics-ttm/${t}?limit=1&apikey=${key}" 2>/dev/null`);
-    metrics = JSON.parse(metricsRaw)?.[0] || null;
-  } catch {}
+  const price = quote?.price ?? profile?.price ?? null;
+  const marketCap = quote?.marketCap ?? profile?.marketCap ?? null;
+  const sharesOutstanding = marketCap && price ? Math.round(marketCap / price) : null;
+  const grossMargin = ttmRevenue && ttmGrossProfit ? ttmGrossProfit / ttmRevenue : null;
+  const pe = price && ttmEps ? price / ttmEps : null;
 
   return {
-    price:            quote?.price ?? profile?.price ?? null,
-    marketCap:         quote?.marketCap ?? profile?.mktCap ?? null,
-    pe:                quote?.pe ?? null,
-    eps:               quote?.eps ?? null,
-    revenueTTM:        incomeStmt?.revenue ?? null,
-    grossMargin:       metrics?.grossMargin ?? null,
-    week52High:        quote?.yearHigh ?? null,
-    week52Low:         quote?.yearLow ?? null,
-    sharesOutstanding: quote?.sharesOutstanding ?? profile?.shsOut ?? null,
-    currency:          profile?.currency ?? quote?.currency ?? 'USD',
-    exchange:          profile?.exchange ?? quote?.exchange ?? null,
-    company:           profile?.companyName ?? quote?.name ?? null,
-    sector:            profile?.sector ?? null,
-    industry:          profile?.industry ?? null,
-    beta:              quote?.beta ?? null,
-    raw:               { profile, quote, incomeStmt, metrics },
+    price,
+    marketCap,
+    pe,
+    eps: ttmEps,
+    revenueTTM: ttmRevenue,
+    grossMargin,
+    week52High: quote?.yearHigh ?? null,
+    week52Low:  quote?.yearLow  ?? null,
+    sharesOutstanding,
+    currency:  profile?.currency ?? 'USD',
+    exchange:  profile?.exchange ?? quote?.exchange ?? null,
+    company:    profile?.companyName ?? quote?.name ?? null,
+    sector:     profile?.sector ?? null,
+    industry:   profile?.industry ?? null,
+    beta:       quote?.beta ?? null,
   };
 }
 
