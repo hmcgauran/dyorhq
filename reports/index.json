@@ -2114,6 +2114,8 @@
     "recommendation": "OPPORTUNISTIC BUY",
     "summary": "Cisco is a classic mature-network-infrastructure business undergoing an AI-era transition. AI infrastructure demand from hyperscalers is driving order acceleration, the 800G switching and Spectrum X/NVIDIA partnership story is real, and free cash flow provides a floor. OPPORTUNISTIC BUY at 57/100.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "marketCap": 340781910199,

@@ -21,6 +21,7 @@ const path = require('path');
 const https = require('https');
 const { execSync } = require('child_process');
 const crypto = require('crypto');
+const { researchSlug, findIndexEntry } = require(path.join(__dirname, '..', 'cron-scripts', 'lib', 'research-slug'));
 
 const REPORTS_DIR  = path.join(__dirname, '..', 'reports');
 const DATA_DIR     = path.join(__dirname, '..', 'reports', 'data');
@@ -44,6 +45,12 @@ function recFromConviction(c) {
   return tier ? tier.rec : 'AVOID';
 }
 function slugFrom(ticker) {
+  // Derive company-name slug from index entry (not ticker-based filename)
+  const entry = findIndexEntry(ticker);
+  if (entry?.company) {
+    return entry.company.toLowerCase().replace(/[^a-z0-9]/g, '') + '.html';
+  }
+  // Fallback: strip exchange prefix and lowercase
   return ticker.replace(PREFIX_RE, '').toLowerCase().replace(/[^a-z0-9]/g, '') + '.html';
 }
 function mkdir(p) { try { fs.mkdirSync(p, { recursive: true }); } catch {} }
@@ -194,14 +201,20 @@ async function callGrok(ticker, company) {
   for (let attempt = 1; attempt <= 3; attempt++) {
     try {
       const body = JSON.stringify({ model: 'grok-3', messages: [{ role: 'user', content: prompt }], temperature: 0.3 });
-      const res = exec(`curl -sf -X POST https://api.x.ai/completions -H "Authorization: Bearer ${key}" -H "Content-Type: application/json" -d '${body.replace(/'/g, "'\"'\"'")}' --max-time 30 2>/dev/null`);
+      const res = exec(`curl -sf -X POST https://api.x.ai/v1/chat/completions -H "Authorization: Bearer ${key}" -H "Content-Type: application/json" -d '${body.replace(/'/g, "'\"'\"'")}' --max-time 30 2>/dev/null`);
       const parsed = JSON.parse(res);
       const content = parsed?.choices?.[0]?.message?.content || '';
       // Extract JSON from potential markdown wrapper
       const jsonMatch = content.match(/\{[\s\S]*\}/);
       if (jsonMatch) {
         const data = JSON.parse(jsonMatch[0]);
-        return { score: data.score ?? null, signal: data.signal ?? 'neutral', key_themes: data.key_themes || [], summary: data.summary || '', raw: content };
+        // Remap Grok's -100..+100 range to 0..100 for pipeline compatibility
+        // Power curve: -100→0, 0→50, +100→100. Remapped score of 35 → ~67
+        const rawScore = data.score ?? null;
+        const score = (rawScore !== null && !isNaN(rawScore))
+          ? Math.round(50 * Math.pow((rawScore + 100) / 100, 0.75))
+          : null;
+        return { score, signal: data.signal ?? 'neutral', key_themes: data.key_themes || [], summary: data.summary || '', raw: content };
       }
       return { score: null, raw: content, error: 'no_json' };
     } catch (e) {
@@ -441,9 +454,6 @@ function updateIndex(ticker, entry) {
     convictionHistory: entry.convictionHistory || [],
   };
   if (existIdx >= 0) {
-    // Preserve convictionHistory from existing entry
-    const existing = idx[existIdx];
-    if (existing.convictionHistory) newEntry.convictionHistory = existing.convictionHistory;
     idx[existIdx] = newEntry;
   } else {
     idx.push(newEntry);
