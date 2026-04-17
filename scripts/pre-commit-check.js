@@ -212,7 +212,7 @@ async function checkTicker(ticker) {
   if (!price) issues.push('no_price');
   if (!grokOk) issues.push('no_grok');
   if (!webOk) issues.push('no_web');
-  if (isUS && !fmpOk) issues.push('no_fmp');
+  // no_fmp: informational only — FMP legacy free tier discontinued Aug 2025
   if (!recCorrect) issues.push(`rec_${rec}_!=_${expectedRec}`);
   if (missingSections.length > 0) issues.push(`sections:${missingSections.join('+')}`);
   if (!summaryCheck.ok) issues.push(`summary:${summaryCheck.reason}`);
@@ -226,6 +226,7 @@ async function checkTicker(ticker) {
     webOk,
     webResults: web ? (web.results || []).length : 0,
     fmpOk,
+    fmpMissing: isUS && !fmpOk,
     fmpPrice: fmpData?.price ?? null,
     fmpMktCap: fmpData?.marketCap ?? null,
     fmpPE: fmpData?.pe ?? null,

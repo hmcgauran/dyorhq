@@ -5,5 +5,8 @@
     "build": "node scripts/build-site.js",
     "validate": "node scripts/validate-site.js",
     "health-check": "node scripts/health-check.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
   }
 }
