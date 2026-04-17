@@ -1,99 +1,125 @@
 /**
  * scripts/assign-universes.js
  *
- * One-time script to assign universe tags to all index entries based on:
- *  - ISIN prefix (IE → irish, GB → uk)
- *  - Ticker lists (Fortune 100, S&P 100, manually-specified Irish ADRs)
+ * Fetches universe memberships from the Google Sheet via GWS CLI, then
+ * updates reports/index.json accordingly.
+ *
+ * Universe mapping (sheet value → index universe element):
+ *   "Irish"                 → "irish"
+ *   "UK"                   → "uk"
+ *   "Fortune 100"          → "fortune100"
+ *   "Fortune 101"          → "fortune101"
+ *   "S&P 100"              → "sp100"
+ *   "AIM"                  → "aim"
+ *   "US"                   → "us"
+ *   "EU"                   → "eu"
+ *   "watchlist"            → always added
+ *
+ * Multi-value cells split and all applicable tags applied.
+ * All entries keep "watchlist".
  *
  * Usage: node scripts/assign-universes.js
- * Safe to run multiple times — idempotent.
  */
-
+const { execSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-// ─── Fortune 100 (largest US companies by revenue — approx list) ───────────
-const FORTUNE_100 = new Set([
-  'WMT', 'AMZN', 'AAPL', 'XOM', 'BRK.B', 'CVX', 'JPM', 'BAC', 'MA', 'CVS',
-  'ABC', 'UNH', 'McK', 'HUM', 'DELL', 'CI', 'ELV', 'WFC', 'AMGN', 'LLY',
-  'PFE', 'MRK', 'TMO', 'COST', 'HD', 'DIS', 'ADBE', 'CRM', 'NFLX', 'INTC',
-  'CSCO', 'AMD', 'NVDA', 'QCOM', 'TXN', 'AVGO', 'ORCL', 'IBM', 'NOW', 'INTU',
-  'AMAT', 'LRCX', 'MU', 'KLAC', 'PANW', 'SNPS', 'CDNS', 'MCHP', 'ADI',
-  'HON', 'GE', 'CAT', 'DE', 'BA', 'RTX', 'LMT', 'NOC', 'GD', 'UPS', 'FDX',
-  'MMM', 'EMR', 'ETN', 'ITW', 'SWK', 'ROK', 'PH', 'XYL', 'ROST', 'WM',
-  'RSG', 'NSC', 'CSX', 'UNP', 'F', 'GM', 'TM', 'RIVN', 'TSLA', 'ABBV',
-  'GILD', 'VRTX', 'REGN', 'BIIB', 'MRNA', 'AZN', 'NVO', 'DXCM', 'ISRG',
-  'BSX', 'SYK', 'MDT', 'EW', 'ZBS', 'COR', 'HCA', 'CNC', 'IQV', 'TEAM',
-  'AEE', 'AEP', 'DUK', 'SO', 'D', 'EXC', 'XEL', 'WEC', 'ED', 'PEG', 'EIX',
-]);
+const INDEX_PATH = path.join(__dirname, '..', 'reports', 'index.json');
 
-// ─── S&P 100 (approx — large-cap US names) ─────────────────────────────────
-const SP100 = new Set([
-  'AAPL', 'MSFT', 'GOOGL', 'GOOG', 'AMZN', 'NVDA', 'META', 'TSLA', 'BRK.B', 'JPM',
-  'JNJ', 'V', 'UNH', 'PG', 'MA', 'HD', 'CVX', 'MRK', 'ABBV', 'LLY',
-  'PEP', 'KO', 'COST', 'AVGO', 'TMO', 'CSCO', 'MCD', 'DHR', 'WFC', 'BAC',
-  'ABT', 'CRM', 'ACN', 'NFLX', 'AMD', 'ADBE', 'TXN', 'QCOM', 'NKE', 'ORCL',
-  'BMY', 'UPS', 'LIN', 'DIS', 'PM', 'NEE', 'RTX', 'HON', 'INTC', 'WMT',
-  'IBM', 'CAT', 'BA', 'GE', 'GS', 'MS', 'AXP', 'BLK', 'SPGI', 'DE',
-  'AMGN', 'GILD', 'ISRG', 'MDT', 'SYK', 'ZTS', 'VRTX', 'REGN', 'BKNG', 'CHTR',
-  'ADI', 'FIS', 'KLAC', 'SNPS', 'CDNS', 'PANW', 'NOW', 'INTU', 'AMAT', 'MU',
-  'LRCX', 'MCHP', 'APD', 'SHW', 'CMG', 'EL', 'AZO', 'ODFL', 'GWW', 'PCAR',
-  'CARR', 'CTVA', 'EXC', 'XEL', 'ED', 'SO', 'DUK', 'AEP', 'WEC', 'NSC', 'UNP',
-]);
-
-// ─── Irish ADRs (ISIN doesn't start with IE ─────────────────────────────────
-const IRISH_ADRS = new Set([
-  'RYAAY',  // Ryan Holdings / Ryanair ADR — Irish airline, US listed
-  'AIB',    // Allied Irish Banks ADR (if traded on US exchange)
-  'CRH',    // CRH plc — Irish building materials, NYSE ADR
-  'KRYA',   // KRYA Holdings (if applicable)
-  'KYGA',   // Kyonox / Irish holding (verify)
-]);
-
-const idxPath = path.join(__dirname, '..', 'reports', 'index.json');
-const idx = JSON.parse(fs.readFileSync(idxPath, 'utf8'));
-
-const stats = { total: 0, irish: 0, uk: 0, fortune100: 0, sp100: 0, unchanged: 0 };
-
-for (const entry of idx) {
-  stats.total++;
-  const universes = new Set(entry.universes || ['watchlist']);
-
-  // ISIN-based rules
-  if (entry.isin) {
-    if (entry.isin.startsWith('IE')) universes.add('irish');
-    if (entry.isin.startsWith('GB')) universes.add('uk');
+function parseUniverseTag(raw) {
+  if (!raw) return [];
+  const tags = [];
+  for (const p of raw.split(',').map(s => s.trim())) {
+    if (p === 'Irish') tags.push('irish');
+    else if (p === 'UK') tags.push('uk');
+    else if (p === 'Fortune 100') tags.push('fortune100');
+    else if (p === 'Fortune 101') tags.push('fortune101');
+    else if (p === 'S&P 100') tags.push('sp100');
+    else if (p === 'AIM') tags.push('aim');
+    else if (p === 'US') tags.push('us');
+    else if (p === 'EU') tags.push('eu');
   }
-
-  // Manual Irish ADR overrides
-  if (IRISH_ADRS.has(entry.ticker)) universes.add('irish');
-
-  // Fortune 100
-  if (FORTUNE_100.has(entry.ticker)) universes.add('fortune100');
-
-  // S&P 100
-  if (SP100.has(entry.ticker)) universes.add('sp100');
-
-  // Always keep watchlist
-  universes.add('watchlist');
-
-  const before = JSON.stringify(entry.universes);
-  const after = Array.from(universes).sort();
-  entry.universes = after;
-
-  if (after.includes('irish')) stats.irish++;
-  if (after.includes('uk')) stats.uk++;
-  if (after.includes('fortune100')) stats.fortune100++;
-  if (after.includes('sp100')) stats.sp100++;
-  if (before === JSON.stringify(after)) stats.unchanged++;
+  return tags;
 }
 
-fs.writeFileSync(idxPath, JSON.stringify(idx, null, 2), 'utf8');
+function normalise(ticker) {
+  return ticker.replace(/^(NYSE|NASDAQ|LON:|LS ):/i, '').trim().toUpperCase();
+}
 
-console.log('Universes assigned. Summary:');
-console.log('  Total entries :', stats.total);
-console.log('  Irish         :', stats.irish);
-console.log('  UK            :', stats.uk);
-console.log('  Fortune 100   :', stats.fortune100);
-console.log('  S&P 100       :', stats.sp100);
-console.log('  Unchanged     :', stats.unchanged);
+async function run() {
+  console.log('Fetching sheet via GWS...');
+
+  // Call GWS CLI to get sheet data as JSON
+  const raw = execSync(
+    'gws sheets spreadsheets get --params \'{"spreadsheetId": "1N3lmSP2KI3pVOI3JlnsCn3YKKEWEKGiTILYKvPAJPoM", "includeGridData": true}\' --format json 2>/dev/null',
+    { maxBuffer: 50 * 1024 * 1024 }
+  ).toString('utf8');
+
+  const sheet = JSON.parse(raw);
+  const rowData = sheet?.sheets?.[0]?.data?.[0]?.rowData || [];
+  const headers = rowData[0]?.values?.map(h => h?.formattedValue || '') || [];
+
+  const tickerIdx    = headers.indexOf('Ticker');
+  const univIdx      = headers.indexOf('universe');
+  const univTagsIdx  = headers.indexOf('universe_tags');
+
+  console.log(`Columns — Ticker:${tickerIdx}  universe:${univIdx}  universe_tags:${univTagsIdx}`);
+
+  const sheetUniverses = {};
+  let rowsWithData = 0;
+
+  for (let i = 1; i < rowData.length; i++) {
+    const vals = rowData[i]?.values || [];
+    const rawTicker = vals[tickerIdx]?.formattedValue || '';
+    if (!rawTicker) continue;
+    const ticker = normalise(rawTicker);
+    const univ  = vals[univIdx]?.formattedValue || '';
+    const tags  = vals[univTagsIdx]?.formattedValue || '';
+    const combined = [univ, tags].filter(Boolean).join(', ');
+    const tagList = parseUniverseTag(combined);
+    if (tagList.length > 0) {
+      sheetUniverses[ticker] = new Set([...(sheetUniverses[ticker] || []), ...tagList]);
+      rowsWithData++;
+    }
+  }
+
+  console.log(`Sheet rows with universe data: ${rowsWithData} / ${rowData.length - 1}`);
+
+  // Show top tag counts
+  const tagCount = {};
+  for (const tags of Object.values(sheetUniverses)) {
+    for (const t of tags) {
+      tagCount[t] = (tagCount[t] || 0) + 1;
+    }
+  }
+  console.log('Tag counts:', JSON.stringify(tagCount));
+
+  // Load index
+  const idx = JSON.parse(fs.readFileSync(INDEX_PATH, 'utf8'));
+
+  let updated = 0, unchanged = 0, notFound = 0;
+  for (const entry of idx) {
+    const key = entry.ticker.toUpperCase();
+    const sheetTags = sheetUniverses[key] || new Set();
+    const before = JSON.stringify(entry.universes || []);
+    const merged = new Set([
+      ...(entry.universes || []).filter(u => u !== 'watchlist'),
+      ...sheetTags,
+      'watchlist',
+    ]);
+    entry.universes = Array.from(merged).sort();
+    if (JSON.stringify(entry.universes) !== before) updated++;
+    else if (sheetTags.size > 0) unchanged++; // in sheet but no change
+    else notFound++;
+  }
+
+  fs.writeFileSync(INDEX_PATH, JSON.stringify(idx, null, 2), 'utf8');
+
+  console.log('\nDone.');
+  console.log('  Updated  :', updated);
+  console.log('  Unchanged:', unchanged);
+  console.log('  Not found in sheet:', notFound);
+  console.log('  Total    :', idx.length);
+}
+
+run().then(() => process.exit(0)).catch(e => { console.error(e.message); process.exit(1); });

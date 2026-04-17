@@ -14,6 +14,7 @@
     "summary": "3M's diversification across industrial, healthcare and consumer end markets provides residual resilience, but the shares trade near the top of their 52-week range at a P/E of 25x with structural earnings headwinds persisting - HOLD is the weighted recommendation.",
     "universes": [
       "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 150.32,
@@ -41,6 +42,7 @@
     "marketCap": null,
     "summary": "Abbott operates across four principal divisions. Medical Devices covers cardiovascular stents, rhythm management, neuromodulation and Alinity diagnostics platforms. Diagnostics - a legacy COVID-19 strength - includes point-of-care and laboratory-based testing. Nutrition (Similac, Ensure, Pedialyte) serves maternal, infant and adult nutritional needs globally. Established Pharmaceuticals sells generic branded medicines in emerging markets.",
     "universes": [
+      "fortune100",
       "sp100",
       "watchlist"
     ],
@@ -69,6 +71,7 @@
     "summary": "AbbVie is a biopharmaceutical company focused on immunology, oncology, neuroscience and aesthetics. Its flagship product, Humira (adalimumab), was the world's best-selling drug for a decade, generating over $20 billion annually at peak, but has faced biosimilar competition in the US since January 2023. AbbVie has managed this cliff through Skyrizi (risankizumab, IL-23 inhibitor) and Rinvoq (upadacitinib, JAK inhibitor), both of which have demonstrated superior clinical profiles in immunology and are growing rapidly.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -403,6 +406,7 @@
     "marketCap": null,
     "summary": "AerCap is the largest listed aircraft lessor and its investment case is driven by fleet quality, lease yields, funding access and residual value discipline. The company benefits when airlines want capacity but prefer not to own aircraft outright, especially in a market where manufacturer delivery delays keep equipment tight. The question is less about top-line growth than about how long the current favourable supply-demand balance can support lease economics without a credit or travel downturn intervening.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 145.53,
@@ -460,6 +464,7 @@
     "marketCap": null,
     "summary": "Albertsons is the second-largest supermarket chain in the United States by revenue, operating approximately 2,200 stores across 34 states under banners including Albertsons, Safeway, Vons, Jewel-Osco, Pavilions and others. The business model is centred on grocery retail - a low-margin, high-volume model reliant on foot traffic, basket size and operational efficiency. Pharmacy and fuel (gas stations) are meaningful ancillary revenue streams. Private-label brands have been a growing margin lever. The proposed $24.6 billion merger with Kroger was blocked by federal antitrust regulators in late 2024, leaving Albertsons as an independent operator facing intensifying competition from Walmart, Costco, Aldi, dollar stores and discount grocery formats.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 17.28,
@@ -578,6 +583,7 @@
     "marketCap": null,
     "summary": "Allegion sells mechanical and electronic security products, especially doors, locks, access control and related hardware, with a strong installed-base advantage in institutional and commercial settings. It is a quality industrial, but the investment case usually hinges on whether electronic security growth can outpace any cyclical weakness in non-residential construction. That makes it more of a compounder-at-the-right-price story than a rapid re-rating opportunity.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 144.81,
@@ -608,6 +614,7 @@
     "marketCap": null,
     "summary": "Allstate is executing a strategic reset. The decision to non-renew 350,000 California homeowners policies is the most significant strategic development - California was a loss-making book due to wildfire risk and legal environment. The company is taking significant cat losses in 2025 and 2026 from Hurricanes Helene and Milton and severe convective storm activity in the central US. The auto insurance combined ratio has been improving but remains above 100% in several states. Rate increases have been substantial but lagged the loss cost inflation. The stock is near its 52-week high of $216.75, suggesting the market is pricing in a successful execution of the strategic reset, but the path is fraught with operational and catastrophe risk.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 210.99,
@@ -635,6 +642,7 @@
     "summary": "Alphabet's primary business is Google Search, which processes over 8.5 billion queries daily and generates the majority of group profits through targeted advertising. This is supported by the Google Display Network, YouTube advertising (pre-roll, in-stream and Shorts), and Google Network partner revenues. Google Cloud - encompassing Google Workspace productivity tools, GCP infrastructure-as-a-service, and AI platform services - is the second major revenue pillar and the fastest-growing segment.",
     "universes": [
       "sp100",
+      "us",
       "watchlist"
     ],
     "priceAtLastReport": 317.26,
@@ -661,6 +669,7 @@
     "marketCap": null,
     "summary": "Alphabet is the dominant global internet platform: Google Search holds approximately 91% market share, YouTube is the world's largest video platform, and Google Cloud is the emerging third pillar of the business. The company sits at the intersection of several secular growth themes - AI, cloud computing, and digital advertising - but faces the most significant structural challenge to its core search franchise since its founding. The DOJ antitrust victory in August 2024 and the rise of AI-native search alternatives (Perplexity AI, OpenAI Search, Claude-powered search) create a credible scenario in which Google's search ad inventory erodes over the next five to ten years.",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -688,6 +697,7 @@
     "marketCap": null,
     "summary": "Altria's dominant US tobacco franchise provides exceptional cash generation and a 7%+ dividend yield, but secular cigarette volume decline, regulatory pressure and IQOS IPM litigation uncertainty make meaningful re-rating difficult without clearer portfolio diversification --...",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 67.38,
@@ -714,6 +724,7 @@
     "marketCap": null,
     "summary": "Amarin Corporation plc is a Dublin-headquartered specialty pharma company whose flagship product Vascepa (icosapent ethyl) has a credible cardiovascular risk reduction indication but faces significant commercial execution challenges -- HOLD . HOLD Conviction Score: 65/100 - HOLD",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 14.48,
@@ -767,6 +778,7 @@
     "summary": "Amazon is the world's largest e-commerce marketplace and cloud infrastructure provider, operating a network effect business with two dominant platforms - marketplace and AWS - that reinforce each other. AWS is the leading cloud platform, generating $100B+ in annual revenue with strong growth and significant AI opportunity through Bedrock. The e-commerce marketplace generates massive cash flow that funds AWS's AI infrastructure investment. The stock at $238.38 is 2% below its 52w high and is the best-risk-adjusted large-cap tech exposure available.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -798,6 +810,7 @@
     "marketCap": null,
     "summary": "American Express operates a closed-loop payments network - unlike Visa and Mastercard, which facilitate transactions between banks, Amex is itself the issuer and the network. This allows it to capture the full economics of each transaction: interchange fees from merchants, interest income from cardholder revolving balances, and annual fee income from premium card products.",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -825,6 +838,7 @@
     "marketCap": null,
     "summary": "AIG is a complex, restructuring multi-line insurer that has made meaningful progress simplifying its operations and strengthening its balance sheet, but the valuation at low-14x earnings is not compelling given persistent catastrophe volatility and execution uncertainty, warranting a REDUCE.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 77.42,
@@ -934,6 +948,7 @@
     "summary": "Apple designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories globally, under the iPhone, Mac, iPad, Apple Watch, and AirPods brands. It also operates a high-margin Services segment comprising the App Store, Apple Music, Apple TV+, Apple Arcade, iCloud, Apple Pay, and a growing advertising business.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -961,6 +976,7 @@
     "marketCap": null,
     "summary": "Aptiv sits at the intersection of automotive electrification, software architecture and vehicle content growth, but it still operates in a hard car industry where volumes, programme launches and customer concentration can overwhelm the secular story. The appeal is that modern vehicles need more electrical distribution, connectivity and software-defined architecture. The risk is that auto suppliers rarely get paid for vision alone if production schedules wobble or EV demand disappoints.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 59.65,
@@ -1018,6 +1034,7 @@
     "marketCap": null,
     "summary": "The fourth quarter of 2025 saw continued volume weakness in North American grain origination as the 2024 harvest was smaller than expected and export demand softened, particularly from China. Ethanol margins have compressed as renewable fuel mandate volumes plateau. The Nutrition segment has delivered resilient revenue growth but faces input cost pressure. Management has maintained full-year guidance but analyst consensus has drifted lower through early 2026. The departure of key senior executives in the prior year created governance uncertainty that has yet to fully dissipate. The stock has recovered from its 52-week low of $44.42 but remains within striking distance of that trough.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 69.73,
@@ -1134,6 +1151,8 @@
     "marketCap": null,
     "summary": "AT&amp;T is a major US telecommunications provider, historically operating in two distinct segments: Mobility (wireless) and the now-spun-off WarnerMedia (entertainment). The post-2022 AT&amp;T is a focused telecom business built on three pillars:",
     "universes": [
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 26.46,
@@ -1215,6 +1234,7 @@
     "summary": "Bank of America is a diversified global financial institution organised into four principal divisions: Consumer Banking (deposits, mortgages, credit cards, auto loans), Global Wealth &amp; Investment Management ( Merrill Lynch private wealth and brokerage), Global Banking (corporate lending, M&amp;A advisory, capital markets), and Global Markets (FICC trading, prime brokerage).",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -1273,6 +1293,7 @@
     "marketCap": null,
     "summary": "The Bank of New York Mellon is a structurally advantaged custodian bank with fee-based revenues that should benefit from rising interest rates and growing assets under custody, but faces margin pressure and subdued equity markets; HOLD at $127.56.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 127.56,
@@ -1304,6 +1325,7 @@
     "summary": "Berkshire Hathaway is a conglomerate holding company with dominant insurance operations and a disciplined capital allocation philosophy; its intrinsic value growing at above-market rates and significant liquidity make it a compelling long-term hold at $479.90.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -1362,6 +1384,7 @@
     "marketCap": null,
     "summary": "BlackRock manages $10.5 trillion+ in assets under management (AUM) across equities, fixed income, multi-asset, alternatives and cash. The business model generates revenues from advisory fees (basis points on AUM), securities lending, and the Aladdin risk-management technology platform, which is licensed to institutional investors and other asset managers globally.",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -1416,6 +1439,7 @@
     "marketCap": null,
     "summary": "Bloomin' Brands is a US casual dining restaurant operator with four distinct brands -- Outback Steakhouse (core), Carrabba's Italian Grill, Bonefish Grill, and Fleming's Prime Steakhouse -- operating across the United States and select international markets. The stock trades at a low single-digit P/E on depressed earnings, reflecting genuine operational challenges rather than structural failure. The case for HOLD is anchored in free cash flow generation, an active capital return programme, and a balance sheet that remains manageable -- but there is no compelling re-rating catalyst without evidence of sustained demand recovery in the casual dining sector.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 5.39,
@@ -1443,6 +1467,7 @@
     "summary": "Boeing designs, manufactures and services commercial jetliners (737, 747, 767, 777, 787 Dreamliner), military aircraft (F-15, F/A-18, KC-46 tanker, T-7 trainer, MV-22 Osprey) and space systems (Space Launch System, Starliner capsule, satellite systems). The commercial aeronautics business (BCA - Boeing Commercial Airplanes) accounts for approximately 35-40% of revenues and is the highest-margin segment when operating normally. Boeing Defense, Space &amp; Security (BDS) provides defence platform stability.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -1612,6 +1637,7 @@
     "marketCap": null,
     "summary": "Bristol-Myers Squibb is a biopharmaceutical company focused on oncology, immunology, haematology and cardiovascular disease. Key products include Eliquis (apixaban, anticoagulant - BMS share with Pfizer), Opdivo (nivolumab, PD-1 checkpoint inhibitor), Yervoy (ipilimumab, CTLA-4 inhibitor), Revlimid (lenalidomide - multiple myeloma, facing generics), and Pomalone (pomalidomide).",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -1749,6 +1775,7 @@
     "marketCap": null,
     "summary": "Capital One has transformed from a credit card lender into a diversified technology-powered financial services company; pending regulatory approval for its Discover merger, it stands to become a payments network major, warranting a BUY rating at $193.00.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 193,
@@ -1779,6 +1806,7 @@
     "marketCap": null,
     "summary": "Cardinal Health faces a challenging transition as its core US distribution business battles generic deflation and hospital supply chain pricing pressure, while its Medical segment provides modest diversification - the balance of risks tilts toward reduce.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 214.52,
@@ -1806,6 +1834,7 @@
     "summary": "Caterpillar is the world's largest manufacturer of construction and mining equipment, diesel and gas turbines, and diesel-electric locomotives. The company's three primary segments are Construction Industries (compact and heavy construction equipment), Resource Industries (mining, quarry and aggregate equipment), and Energy &amp; Transportation (power generation, reciprocating engines, turbines and locomotives).",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -1941,6 +1970,7 @@
     "marketCap": null,
     "summary": "Charles Schwab is the largest US retail brokerage by number of accounts, with approximately 35 million active brokerage accounts, $9 trillion+ in total client assets and 8.5 million Banking and Lending accounts (as of recent filings). Its core model combines brokerage services (equity trading, wealth advisory) with banking products (deposits, mortgages, credit cards) through its bank subsidiary. Post-integration of TD Ameritrade (acquired 2020), Schwab is absorbing a massive platform migration while seeking cost synergies. The business earns revenue primarily through net interest income (on deposit franchises), asset management fees, and trading commissions.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 94.8,
@@ -1994,6 +2024,7 @@
     "summary": "Chevron is the second-largest US oil major, with operations spanning upstream (exploration and production) and downstream (refining and marketing). Key upstream assets include the Permian Basin (the most prolific US shale play, where Chevron is a top-two operator following the PDC Energy acquisition), LNG export facilities, deepwater Gulf of Mexico assets, and international positions in Australia (LNG), Kazakhstan and the DJ Basin (Colorado).",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -2048,6 +2079,7 @@
     "marketCap": null,
     "summary": "Cimpress owns online print and mass customisation businesses, most notably Vistaprint, and the debate is whether its platform and customer economics are better than the market assumes for a mature e-commerce print operator. It is more interesting than a simple print label because software, data and fulfilment matter, but it is still a business that has to earn its returns through disciplined marketing and operational efficiency.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 76.7,
@@ -2079,6 +2111,7 @@
     "summary": "Cisco is a quality networking franchise executing a credible AI infrastructure transition. Q2 FY26 delivered record $15.3B revenue (+10% YoY) with $2",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -2106,6 +2139,8 @@
     "marketCap": null,
     "summary": "Citigroup is a turnaround story at a distressed-looking multiple. Q1 2026 EPS beat estimates by 16% on the back of $5.8B in net income, and JPMorgan sees approximately 30% upside to fair value from current levels",
     "universes": [
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 124.43,
@@ -2186,6 +2221,7 @@
     "marketCap": null,
     "summary": "Coca-Cola manufactures and distributes alcoholic and non-alcoholic beverages across more than 200 countries. Its portfolio spans carbonated soft drinks (Coca-Cola, Diet Coke, Sprite, Fanta), sports drinks (Powerade), juices and value-added dairy (Minute Maid, Innocent), hydration and tea (smartwater, Costa Coffee, Ayataka), and energy drinks (Costa Coffee, Monster in certain markets under license). Coca-Cola operates a largely asset-light model: it concentrates on concentrate production and marketing while independent bottlers -- many of them privately held and operating under franchise agreements -- handle manufacturing, distribution, and local sales. This system provides structural operating leverage and capital efficiency. Geographic exposure is broadly diversified: North America (~35% of revenue), Europe/Middle East/Africa (~25%), Asia Pacific (~20%), Latin America (~15%), and Global Ventures (~5%). The business is characterised by significant pricing power, a recurring revenue model, and strong free cash flow generation that comfortably funds the dividend and share buyback programme.",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -2244,6 +2280,7 @@
     "marketCap": null,
     "summary": "Colgate-Palmolive is a defensive consumer staples giant with dominant market share in oral care globally, but faces structural headwinds from private label competition and category deceleration in emerging markets; HOLD at $84.34.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 84.34,
@@ -2304,6 +2341,8 @@
     "marketCap": null,
     "summary": "Comcast presents as a deep value trap or a genuine bargain depending on your prior view of the broadband cord-cutting thesis. At 5.5x earnings, the market is pricing that the earnings decline is structural and permanent",
     "universes": [
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 27.69,
@@ -2330,6 +2369,7 @@
     "marketCap": null,
     "summary": "ConocoPhillips is a global supermajor with a high-quality, low-cost Permian Basin production base and meaningful LNG upside via its Freeport LNG stake. The Iran peace talks triggered a crude pullback from $131 to $118 — creating a tactical entry point. Jefferies has a $160 price target and Goldman Sachs named COP its #2 energy pick. Q1 2026 earnings on April 30 are the next near-term catalyst. The grok sentiment score of 68/100 reflects constructive energy macro sentiment despite short-term OPEC+ uncertainty.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 118.92,
@@ -2360,6 +2400,7 @@
     "marketCap": null,
     "summary": "Cosmo is unusual because it combines specialty pharma assets, medical device exposure and a history of partnering rather than building a huge broad sales force alone. That can create attractive optionality, but it also means the story depends heavily on execution around a relatively small set of products and partnerships. The shares deserve attention for niche innovation, but not blind confidence.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 96.2,
@@ -2391,6 +2432,7 @@
     "summary": "Costco is a high-quality membership-driven retail compounding machine with exceptional pricing power and customer loyalty metrics that are the envy of the retail sector. The 51.19x P/E reflects precisely this quality — the market prices in near-perfect execution and the...",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -2560,6 +2602,8 @@
     "summary": "CVS Health is a vertically integrated healthcare company spanning retail pharmacy, pharmacy benefit management (PBM), and health insurance (Aetna); the combination of PBM margin pressure, medical benefit ratio deterioration, and retail headwinds makes REDUCE the appropriate call at $79.33.",
     "universes": [
       "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 79.33,
@@ -2590,6 +2634,7 @@
     "marketCap": null,
     "summary": "Danaher is a world-class life sciences tools franchise with an excellent track record of scientific instrument and diagnostics portfolio management. Morgan Stanley's upgrade in 2026 reflects growing confidence in a 2026 recovery in biotech capex spending, which directly drives...",
     "universes": [
+      "fortune100",
       "sp100",
       "watchlist"
     ],
@@ -2649,6 +2694,7 @@
     "summary": "Deere is the world's dominant agricultural and construction equipment manufacturer, benefiting from precision farming technology adoption and infrastructure spending; the stock's valuation near 52-week highs reflects this, leaving limited near-term upside; HOLD at $605.00.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -2681,6 +2727,8 @@
     "summary": "Dell Technologies is the dominant US enterprise AI server infrastructure provider, having converted its Dell AI Factory partnerships with NVIDIA into a multi-billion-dollar AI revenue stream. Record FY2026 revenue of $113B and Goldman Sachs upgrading the price target to $215 make...",
     "universes": [
       "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 185.4,
@@ -2707,6 +2755,7 @@
     "marketCap": null,
     "summary": "Delta Air Lines offers an attractive combination of strong pricing power, disciplined capacity management, and an improving balance sheet, trading at a significant discount to intrinsic value on a P/E of under 10x, and is rated HOLD.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 65.86,
@@ -2818,6 +2867,7 @@
     "marketCap": null,
     "summary": "Dow Inc is a structurally challenged diversified chemicals producer navigating a severe cyclical downturn, with the shares running ahead of fundamentals at current levels and the risk/reward skewed firmly to the downside, warranting a REDUCE.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 40.36,
@@ -2907,6 +2957,7 @@
     "summary": "Eaton is a well-positioned electrical and power management company benefiting from grid modernisation, data centre power demand, industrial electrification and a generally stronger mix than it had a decade ago. The key attraction is that several growth themes now reinforce each other: utilities need upgrades, buildings need smarter electrical systems, and AI-related infrastructure is stretching power availability. This still does not make Eaton immune to industrial cycles, but it does make the franchise more durable than a typical conglomerate.",
     "universes": [
       "fortune100",
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 403,
@@ -2992,6 +3043,7 @@
     "summary": "Eli Lilly is the GLP-1 obesity drug franchise with the most comprehensive pipeline and the most aggressive expansion of manufacturing capacity in the space. The approval and launch of Zepbound for obesity is a genuine multi-decade revenue opportunity — potentially the largest...",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -3020,6 +3072,7 @@
     "summary": "Emerson Electric is a global automation and instrumentation leader undergoing a strategic portfolio transformation; its push into discrete automation and hybrid process control aligns with structural manufacturing onshoring and AI-driven factory automation demand; BUY at $143.77.",
     "universes": [
       "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 143.77,
@@ -3050,6 +3103,7 @@
     "marketCap": null,
     "summary": "Energy Transfer operates one of the largest and most diversified midstream energy infrastructure networks in North America. The partnership's assets span natural gas pipelines (over 120,000 miles), crude oil gathering and transmission systems, NGL fractionation and storage, and refined products logistics. Approximately 80% of EBITDA is fee-based or take-or-pay, providing substantial cash flow predictability independent of commodity prices. The distribution model passes through the majority of cash generated to unitholders. Energy Transfer also has meaningful exposure to LNG export demand as US natural gas production continues to grow.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 19.19,
@@ -3076,6 +3130,7 @@
     "marketCap": null,
     "summary": "Enterprise Products Partners is a high-quality midstream MLP offering a generous distribution yield underpinned by fee-based contracts and diversified pipeline infrastructure, but limited distribution growth and a compressed valuation leave the shares fairly priced at current levels, warranting a HOLD.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 37.64,
@@ -3159,6 +3214,7 @@
     "marketCap": null,
     "summary": "Experian is a data and analytics franchise with entrenched positions in credit information, decisioning and identity-related services. It benefits when lenders, insurers and businesses need better underwriting and fraud tools, but the real attraction is that the business is deeply embedded in customer workflows and produces recurring revenue with good cash conversion. It is not cheap in a headline sense, yet there are credible reasons why the market often pays up for it.",
     "universes": [
+      "irish",
       "uk",
       "watchlist"
     ],
@@ -3191,6 +3247,8 @@
     "summary": "Exxon Mobil is a world-class integrated oil company that has staged a remarkable recovery from sub-$100 levels to all-time highs near $176, driven by the Middle East conflict premium and a structural undersupply thesis in crude markets. The company's operational leverage means...",
     "universes": [
       "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 153.5,
@@ -3274,6 +3332,8 @@
     "summary": "FedEx Corporation (FDX) operates in the Industrials sector and is listed on NYSE. The business generates revenue through its core operations in industrials.",
     "universes": [
       "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 374.08,
@@ -3413,6 +3473,8 @@
     "summary": "Ford is navigating one of the most complex turnarounds in automotive history — simultaneously managing a legacy ICE and hybrid business while funding a large EV development programme that is currently destroying earnings. The UBS upgrade to Buy on improving earnings outlook...",
     "universes": [
       "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 12.11,
@@ -3578,6 +3640,7 @@
     "summary": "General Dynamics Corporation (GD) operates in the Industrials sector and is listed on NYSE. The business generates revenue through its core operations in industrials.",
     "universes": [
       "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 335.15,
@@ -3605,6 +3668,7 @@
     "summary": "GE Aerospace is one of the great industrial turnarounds of the decade. The 2025 FY results delivered record $6.4 EPS with total orders of $27B (+74% YoY), driven by commercial engine demand from Airbus and Boeing's production ramp",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -3633,6 +3697,8 @@
     "summary": "General Motors Company (GM) operates in the Consumer Disc. sector and is listed on NYSE. The business generates revenue through its core operations in consumer disc..",
     "universes": [
       "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 76.42,
@@ -3659,6 +3725,7 @@
     "marketCap": null,
     "summary": "GE Vernova Inc (GEV) operates in the Industrials sector and is listed on NYSE. The business generates revenue through its core operations in industrials.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 991.32,
@@ -3835,6 +3902,7 @@
     "marketCap": null,
     "summary": "Goldbank Mining Corp is a TSXV-listed micro-cap exploration company targeting gold mineralisation. With a market capitalisation of approximately CAD 10 million and no current revenue or earnings, the company is a pre-revenue explorer at an early stage of development. The primary...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 0.34,
@@ -3861,6 +3929,7 @@
     "marketCap": null,
     "summary": "Goldman Sachs is a high-quality investment bank and global financial institution that had an exceptional Q1 2026 — record equity trading revenues, investment banking fees up 48% YoY to $2.84B, and net revenues of $17.23B beating consensus",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -4129,6 +4198,7 @@
     "summary": "Home Depot is the dominant US home improvement retailer with unrivalled scale and a high-quality pro-customer ecosystem. Q4 2025 results beat on earnings but missed on sales in a still-challenged housing market — the big ticket categories (kitchens, bathrooms, major renovations)...",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -4157,6 +4227,7 @@
     "summary": "Honeywell International is a high-quality diversified industrial franchise with leading positions in aerospace, building automation, and performance materials. Q4 2025 results beat consensus and management issued 2026 guidance above the high end of prior expectations -- a rare...",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -4238,6 +4309,7 @@
     "summary": "IBM is mid-transition from legacy infrastructure to hybrid cloud and AI services; the Z-Series mainframes and Red Hat integration provide annuity-like revenue stability while the GenAI services ramp remains the swing variable.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -4323,6 +4395,7 @@
     "marketCap": null,
     "summary": "Ingersoll Rand is a high-quality industrial franchise focused on mission-critical compressed air and fluid handling equipment, but the acquisition-heavy growth strategy has left a complex balance sheet and the valuation is elevated for a cyclical business -- HOLD . HOLD...",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 85.38,
@@ -4350,6 +4423,7 @@
     "summary": "Intel designs and manufactures CPUs, GPUs, FPGAs, and network chips. Its business historically comprised three segments: Client Computing (PC and laptop CPUs), Data Centre and AI (server CPUs, Gaudi AI accelerators), and Network and Edge. Intel Foundry Services (IFS) represents the company's ambition to become a third-party chip manufacturer, competing with TSMC - an expensive and historically loss-making undertaking.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -4604,6 +4678,7 @@
     "marketCap": null,
     "summary": "James Hardie is a building products specialist best known for fibre cement siding, with a strong position in the US market. The company has enviable brand and category strength, but the shares always carry housing-cycle risk because repair, remodel and new-build activity remain central to demand. The challenge for investors is paying the right price for a very good business in a cyclical end market.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 21.02,
@@ -4665,6 +4740,7 @@
     "marketCap": null,
     "summary": "JD's owned logistics network (JD Logistics, 2618.HK) is a structural differentiator. It can deliver same-day or next-day delivery across much of China, a service standard no Western competitor can match. JD Logistics also serves third-party customers and is expanding internationally (first overseas LangzuTech automated warehouse launched in the UK in Q4 2025).",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 28.94,
@@ -4771,6 +4847,7 @@
     "marketCap": null,
     "summary": "Johnson &amp; Johnson is mid-restructuring post-Kenvue spin-off, repositioning as a pure-play med-tech/pharmaceutical conglomerate; Stelara exclusivity losses are partially offset by a deep pipeline but the valuation is not yet re-rated for pipeline success.",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -4799,6 +4876,7 @@
     "summary": "JPMorgan Chase is the highest-quality large-cap US bank, running well ahead on NII guidance while credit costs remain near-cycle lows; the Dimon-succession overhang and tariff-related macro headwinds keep the base case range-bound.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -4880,6 +4958,7 @@
     "marketCap": null,
     "summary": "Kingspan is a leading insulation and building-envelope company with genuine structural exposure to energy efficiency standards, refurbishment and higher-performance buildings. It is still a cyclical construction supplier, but it participates in one of the better parts of that ecosystem because regulators, developers and occupiers all increasingly care about energy use. The shares can be volatile, yet the franchise quality is real.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 90.15,
@@ -4910,6 +4989,7 @@
     "marketCap": null,
     "summary": "Kneat develops validation and compliance software for regulated manufacturing, especially life sciences. The attraction is that the product sits inside a painful and highly audited workflow where paper-based or fragmented systems are still common, making digitisation valuable and sticky. The company is still scaling, so the main question is whether it can turn a strong niche position into durable recurring revenue without overextending costs.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 2.26,
@@ -4966,6 +5046,7 @@
     "marketCap": null,
     "summary": "Kroger is the largest traditional grocery retailer in the US by revenue (approximately $150 billion+ annually), operating around 2,700 stores across 35 states under banners including Kroger, Ralphs, Fred Meyer, Harris Teeter, and others. The core model is combination food/drug retail: supermarkets, multi-department stores, and jewellery and convenience stores. Kroger earns the majority of its operating profit from food retail, with fuel centres (high traffic frequency) and a growing pharmacy business as important secondary contributors.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 67.99,
@@ -5163,6 +5244,8 @@
     "summary": "Lockheed Martin is a premier defence prime with structural budget support from NATO allies and the AUKUS trilateral; F-35 block buy and classified programme growth underpin visibility, but the valuation leaves little room for programme slips.",
     "universes": [
       "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 619.15,
@@ -5189,6 +5272,8 @@
     "marketCap": null,
     "summary": "Lowe's is executing a supply-chain and pro-customer transformation under CEO Marvin Ellison's second-term mandate; the housing-affordability macro headwind tempers but does not eliminate the operational upside from share-gain against rival Home Depot.",
     "universes": [
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 242.49,
@@ -5215,6 +5300,7 @@
     "marketCap": null,
     "summary": "Manchester United is the world's most widely recognised football brand, a asset-based equity story where the core asset is not earnings but the Old Trafford franchise, the global commercial reach built over 147 years, and the structural uplift arriving via the 2025-26 Premier League broadcast deal. INEOS's minority takeover in early 2024 ended the dysfunctional Glazer dynasty and introduced cost discipline for the first time in over a decade. The club is loss-making at the EPS level, debt is material at approximately GBP 650 million, and there is no near-term path to profitability given the investment required in the playing squad under a new manager. Yet at USD 17.92, the stock trades below even the bear-case scenario, pricing in a full reversal failure.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 17.92,
@@ -5241,6 +5327,7 @@
     "marketCap": null,
     "summary": "Marathon Petroleum is the largest US refiner by crude processing capacity, operating 13 refineries with a combined capacity of approximately 3.3 million barrels per day. The asset base is heavily concentrated in the US Midwest and Gulf Coast - the mostsignificant crude oil production regions in North America - giving Marathon a significant feedstock cost advantage relative to coastal competitors.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 222.62,
@@ -5268,6 +5355,7 @@
     "summary": "Mastercard operates a near-ideal network business: high-skill switching costs, strong take-rate discipline, and exposure to the secular shift from cash to digital payments; valuation is stretched but the quality floor is high.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -5322,6 +5410,7 @@
     "marketCap": null,
     "summary": "McKesson's dominant position as the largest US pharmaceutical distributor, combined with accelerating specialty pharmacy growth and robust essential medicines demand, supports a solid hold in a defensive sector with limited downside.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 861.23,
@@ -5405,6 +5494,7 @@
     "summary": "Merck faces a significant Keytruda-exposure overhang as US patent expiry approaches (~2028); the oncology franchise is being actively diversified via pipeline acquisitions, but the market is correctly discounting the long-term IP cliff.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -5486,6 +5576,7 @@
     "marketCap": null,
     "summary": "Meta operates the world's largest social media ecosystem: Facebook (2.9 billion monthly active users), Instagram (2 billion+), and WhatsApp (2.7 billion). The primary revenue driver is digital advertising - Meta's ads span News Feed, Stories, Reels, and the Audience Network, targeting users across demographics and behaviours using Meta's Advantage+ AI-powered campaign optimisation system.",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -5513,6 +5604,7 @@
     "marketCap": null,
     "summary": "MetLife has been navigating a challenging interest rate environment: higher rates improve investment income on the float but also increase the competitive pressure from bank retirement products and can increase surrenders in variable annuity products with guaranteed living benefits. The Japan business has been relatively stable but faces a low interest rate environment that limits the profitability of traditional life insurance products. In the US, the employee benefits business (voluntary benefits and group insurance) has been a steady contributor. Management has been returning capital through buybacks and dividend increases. The stock is down from its 52-week high of $83.85 but is above its 52-week low of $67.33.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 73.88,
@@ -5567,6 +5659,7 @@
     "marketCap": null,
     "summary": "Microsoft's Azure AI momentum and Copilot monetisation are real and accelerating, but the shares are at a P/E of 23x - reasonable for this quality of business, but leaving limited margin of safety at 52-week high proximity",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -5621,6 +5714,7 @@
     "marketCap": null,
     "summary": "Mkango Resources is a Canadian-listed rare earth elements explorer with a primary asset in Malawi, a UK-based processing technology subsidiary (Maginito), and a new acquisition in Germany through Hypromag. The rare earth secular demand story — driven by EVs, wind turbines, and defence — is genuine. The company has just closed a oversubscribed £12.5m fundraise to acquire and commission Hypromag Germany, a strategic expansion into rare earth magnet recycling that transforms the business from a pre-revenue explorer into an operating clean-tech materials company.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 42,
@@ -5651,6 +5745,8 @@
     "marketCap": null,
     "summary": "Mondelez benefits from structural pricing power and emerging-market snacking growth, but cocoa headwinds and US macro pressure on consumer staples leave little near-term re-rating potential -- HOLD . HOLD Conviction Score: 66/100 - HOLD",
     "universes": [
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 59,
@@ -5703,6 +5799,7 @@
     "marketCap": null,
     "summary": "Morgan Stanley's wealth-management franchise is a structural winner in the long-term wealth creation theme; the acquisition of E*Trade (2020) and investment in Eaton Vance (2021) are maturing into fee streams, but the balance sheet remains rate-sensitive.",
     "universes": [
+      "fortune100",
       "sp100",
       "watchlist"
     ],
@@ -5784,6 +5881,7 @@
     "marketCap": null,
     "summary": "Navitas is a power semiconductor company focused on gallium nitride and silicon carbide technologies, so the story depends on whether next-generation materials win enough sockets in chargers, data centres, solar, storage and EV systems to justify the current strategic excitement. The technology case is interesting. The investment case is harder because commercial ramp timing and competition can remain uncertain for longer than investors expect.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 9.54,
@@ -5896,6 +5994,7 @@
     "marketCap": null,
     "summary": "Nike is in the middle of a critical strategic reset: the DTC-first model over-extended gross margins, and the new CEO's Consumer Offense plan is betting on innovation cycles and a revived wholesale relationships to recover pricing power. The stock is under-loved but the execution risk is substantial.",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -5985,6 +6084,8 @@
     "summary": "Northrop Grumman is the premier US prime for space systems and nuclear deterrence; B-21 Raider production, the Sentinel ICBM programme, and classified space payloads provide 10+ year revenue visibility at high contract-level clarity.",
     "universes": [
       "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 680.55,
@@ -6042,6 +6143,7 @@
     "summary": "NVIDIA is the defining AI infrastructure company of this decade. Its GPUs power every major AI training cluster from hyperscalers to enterprise AI. The Ising quantum AI model announcement in April 2026 extends NVIDIA's reach into quantum computing acceleration — a new addressable market. Analyst consensus targets of $267-275 imply 35-40% upside from $199. But at 40x forward earnings and a $3 trillion+ market cap, the stock requires continued AI capex acceleration to justify its valuation. The grok sentiment score of 65/100 reflects strong confidence tempered by valuation concerns and geopolitical risk.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -6165,6 +6267,7 @@
     "summary": "Oracle is transitioning from a legacy database licensor to a full cloud infrastructure and applications suite, anchored by Cerner health-system integrations and OCI sovereign cloud deployments; the OCI infrastructure for AI workloads is the most underappreciated part of the story.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -6192,6 +6295,7 @@
     "marketCap": null,
     "summary": "PLTR has posted consecutive strong quarters driven by AIP (Palantir's LLM-powered analytics layer), which differentiates the platform by embedding large language models directly into data pipelines. The US Department of Defence continues to expand AI adoption budgets. NATO and allied government contracts represent a nascent international opportunity. Palantir's commercial segment has inflected positively after years of underperformance, with the Foundry platform gaining traction in financial services, manufacturing and healthcare. The company achieved GAAP profitability in 2023 and has maintained it since, removing the cash-burn risk that historically discounted the valuation.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 128.06,
@@ -6361,6 +6465,7 @@
     "marketCap": null,
     "summary": "PepsiCo is a defensive consumer-staples compounder with exceptional free-cash-flow generation; the valuation is fair given modest growth but the dividend aristocrat status and $7bn annual buyback provide a floor in an uncertain macro environment.",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -6443,6 +6548,8 @@
     "summary": "Pfizer's post-COVID normalisation and patent cliff create a structural earnings headwind that the current valuation of 19.85x P/E does not adequately discount - the balance of risk and reward argues for REDUCE.",
     "universes": [
       "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 26.92,
@@ -6496,6 +6603,7 @@
     "marketCap": null,
     "summary": "Phillips 66 is a high-quality downstream refining and marketing business that has delivered substantial shareholder returns through cycles, but with refining margins moderating from 2022-2023 peaks and the shares re-rated at 14.8x earnings, the bull case is largely played out",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 159.25,
@@ -6574,6 +6682,7 @@
     "marketCap": null,
     "summary": "Procter &amp; Gamble is a high-quality defensive consumer staples franchise with-pricing power and a strong dividend, but premium valuation of 21.51x P/E limits upside and argues for HOLD at current levels.",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -6601,6 +6710,7 @@
     "marketCap": null,
     "summary": "Progressive is an exceptional underwriter with a best-in-class combined ratio and a dominant position in US personal auto insurance, but the stock trades at a stretched 10.1x P/E that appears to price in significant catastrophe losses, and the valuation does not provide...",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 194.13,
@@ -6685,6 +6795,7 @@
     "marketCap": null,
     "summary": "Prudential has been navigating the same interest rate and variable annuity headwinds as its peers. Higher rates have been a net positive for investment income on the general account float but have increased the cost of guaranteed living benefits in the VA book. The PGIM asset management division has seen net inflows in public fixed income strategies but outflows in some equity strategies as clients de-risk. The Individual Life business has been relatively stable. The stock is down approximately 19% from its 52-week high of $119.76, reflecting market concern about the VA book and macro uncertainty. The 9.7x P/E is the lowest in the life insurance peer group and reflects the market's discount for the complexity and headwinds in the business.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 96.9,
@@ -6743,6 +6854,7 @@
     "summary": "Qualcomm's dominance in wireless semiconductors and the AI-driven upgrade cycle in smartphones provide a solid foundation, but the licensing (QTL) business remains structurally challenged and the valuation at 26.45x P/E is reasonable rather than compelling - HOLD.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -6962,6 +7074,7 @@
     "summary": "Raytheon's successor entity benefits from substantial defence spending tailwinds and Pratt &amp; Whitney's commercial aviation recovery, but the AGT1000 turbine defect issue and elevated P/E of 40.61x create a more nuanced risk-reward profile - HOLD.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -7044,6 +7157,7 @@
     "summary": "Salesforce remains the dominant cloud CRM platform with strong recurring revenue and AI-driven upsell potential, but the shares at 21.15x P/E are not obviously cheap relative to a slowing new logo growth rate - HOLD.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -7237,6 +7351,7 @@
     "marketCap": null,
     "summary": "Simon Property Group is the largest mall operator in the US by gross leasable area and market capitalisation. Its portfolio comprises approximately 140 malls and outlet centres across the US and internationally (including properties in Europe and Asia). SPG owns the real estate underlying its tenants' stores and earns rents under long-term leases. Its tenants are predominantly in the retail sector - apparel, department stores, dining and entertainment - though the company has been actively diversifying into non-retail uses (offices, apartments, medical, experiential retail). SPG is structured as a Real Estate Investment Trust and distributes the majority of its taxable income as dividends.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 200.57,
@@ -7263,6 +7378,7 @@
     "marketCap": null,
     "summary": "Simulations Plus Inc is a specialised developer of simulation software for the pharmaceutical industry, operating across two distinct divisions: simulation and data-centric services. The company has a long-standing relationship with the FDA and a well-regarded capability in...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 14.34,
@@ -7457,6 +7573,8 @@
     "marketCap": null,
     "summary": "Starbucks faces a combination of menu pricing pressure, traffic recovery challenges and operational reset costs that make the P/E of 80.47x on EPS of $1.20 structurally difficult to justify - REDUCE.",
     "universes": [
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 96.6,
@@ -7514,6 +7632,7 @@
     "marketCap": null,
     "summary": "Stonex is a high-quality, diversified commodities financial services firm that has built a genuine market-making franchise across agricultural, energy, and metals markets - the shares have consolidated from a 52-week high and trade at 20.8x earnings for a business with strong ...",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 92.9,
@@ -7540,6 +7659,7 @@
     "marketCap": null,
     "summary": "Sysco is the world's largest food service distribution company, serving over 700,000 customer locations including restaurants, hospitals, hotels, schools and government accounts. The model is a classic route-based distribution business:Sysco procures, stores and delivers food and related products to food service operators, charging a margin on cost plus a logistics fee. The business is highly defensive because food service demand is relatively insensitive to economic cycles - restaurants and hospitals need to feed people regardless of GDP growth. Sysco's significant scale provides procurement advantages and the ability to invest in technology and specialty product categories that smaller distributors cannot match. The company has been investing in its specialty meat and seafood, local/sustainable sourcing and culinary innovation programmes to expand margins.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 72.82,
@@ -7592,6 +7712,8 @@
     "marketCap": null,
     "summary": "Target's omni-channel retail model and owned-brand portfolio are genuine strengths, and the 14.99x P/E is modest relative to normalised earnings, but the company has struggled with inventory management and consumer spending sensitivity - HOLD.",
     "universes": [
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 121.89,
@@ -7699,6 +7821,7 @@
     "summary": "Tesla designs, manufactures and sells electric vehicles (Models S, 3, X, Y, Cybertruck, and the upcoming Model 2), stationary energy storage products (Megapack, Powerwall) and solar products. The company also develops Full Self-Driving (FSD) autonomous driving software and, through its AI subsidiary xAI, is building a significant compute infrastructure footprint (Colossus supercomputer). Tesla is vertically integrated - manufacturing its own battery cells, powertrains and, increasingly, its own inference chips. The energy storage business has grown from a negligible contributor to a multi-billion-dollar franchise with waiting lists extending beyond 12 months.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -7782,6 +7905,7 @@
     "summary": "Thermo Fisher is a best-in-class life sciences tools company with leading positions in analytical instruments, bioprocessing and clinical diagnostics, but the elevated P/E of 27.97x in a post-pandemic normalised environment argues for HOLD.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -7835,6 +7959,7 @@
     "marketCap": null,
     "summary": "TJX is a high-quality off-price retail business with durable competitive advantages in buyer sourcing and inventory management, trading near the top of its historical valuation range and facing a moderately uncertain consumer backdrop, leaving it fairly valued at current levels and warranting a HOLD.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 159.11,
@@ -7861,6 +7986,7 @@
     "marketCap": null,
     "summary": "T-Mobile US is the third-largest US mobile carrier by subscriber count, with approximately 130 million total customers and approximately 100 million postpaid subscribers following the integration of the Sprint network. The company has a distinct competitive positioning as the 'uncarrier' - historically differentiated through no-contract pricing and aggressive promotional strategies - and has been the primary beneficiary of customer switching among the three national carriers over the past decade. T-Mobile's 5G network advantage (built on 600 MHz and 2.5 GHz spectrum holdings from the Sprint acquisition) underpins both mobile and fixed wireless services. The company generates revenues from postpaid phone plans, prepaid brands (Metro by T-Mobile, Mint Mobile), home broadband (FWA) and business enterprise services.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 195.71,
@@ -7944,6 +8070,7 @@
     "marketCap": null,
     "summary": "Trane Technologies is a high-quality industrial compounder with dominant positions in HVAC and cold-chain equipment, delivering consistent mid-teens earnings growth backed by structural demand drivers -- BUY . BUY Conviction Score: 82/100 - BUY",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 465.71,
@@ -7970,6 +8097,7 @@
     "marketCap": null,
     "summary": "Trinity Biotech is a small diagnostics company where the investment case is dominated by turnaround execution, capital needs and whether any product platform can regain strategic relevance. Diagnostics can be attractive when a company has scale, installed base and dependable consumables. Trinity does not currently enjoy those advantages to the same extent, which is why the shares remain speculative.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 0.71,
@@ -8027,6 +8155,7 @@
     "marketCap": null,
     "summary": "Uber Technologies operates a two-sided marketplace connecting riders with drivers (Mobility) and consumers with restaurants and retailers (Delivery). It is the largest ride-sharing platform globally, with operations in approximately 70 countries, and has also built the leading food delivery marketplace in the US and many international markets. Uber's competitive moat is its network effects - more riders attract more drivers, more drivers reduce wait times, lower wait times attract more riders - and its brand as the default urban mobility app in most major cities. The company generates revenues primarily from commissions on trips and orders, advertising within the app, and freight logistics (Uber Freight). The autonomous vehicle development programme represents a potential structural shift in the cost of mobility provision.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 70.48,
@@ -8108,6 +8237,7 @@
     "marketCap": null,
     "summary": "United Airlines is a high-quality global network carrier with a compelling international growth trajectory and a P/E under 10x that significantly undervalues its earnings power and asset base, and is rated HOLD.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 94.02,
@@ -8135,6 +8265,7 @@
     "summary": "UnitedHealth is the dominant US managed care organisation with Optum's integrated care platform adding a distinctive strategic dimension, but political and regulatory risk around healthcare reform has increased and the P/E of 23.0x warrants a more selective stance - HOLD.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -8163,6 +8294,7 @@
     "summary": "UPS is the world's largest parcel delivery company with an unrivalled integrated global network, but the cyclical softness in US domestic package volumes and the elevated capital requirements of the US Forward and My Choice expansion programme create a mixed near-term outlook - HOLD.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -8190,6 +8322,7 @@
     "marketCap": null,
     "summary": "US Bancorp is the fifth-largest commercial bank in the United States by assets, with approximately $700bn in total assets, $560bn in deposits and operations across 26 states through its subsidiary US Bank. The company offers a full range of banking products: consumer deposits and lending, commercial banking (corporate lending, treasury management, capital markets), wealth management and payment services (including a significant merchant acquiring business). USB's deposit franchise is a key competitive advantage - strong retail and small business deposit market share in the Midwest and West Coast provides a stable, low-cost funding base. The bank's payments business (including Elavon, its merchant acquiring subsidiary) contributes meaningful non-interest income.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 55.66,
@@ -8216,6 +8349,7 @@
     "marketCap": null,
     "summary": "Valero is the second-largest US refiner by throughput capacity, operating 15 refineries with combined crude processing capacity of approximately 3.2 million barrels per day. The asset base is predominantly Gulf Coast and Midcontinent, with major complexes in Texas (Houston, Texas City, Corpus Christi, Three Rivers), Louisiana (St. Charles, Meraux), and Oklahoma (Ardmore). This Gulf Coast concentration provides structural advantages in accessing heavily discounted Permian Basin and Gulf of Mexico crude oil.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 238.82,
@@ -8299,6 +8433,8 @@
     "marketCap": null,
     "summary": "Verizon's network quality leadership in 5G is genuine, but the debtladen balance sheet, persistent post-paid phone ARPU decline and limited earnings growth visibility make the 11.34x P/E a value trap rather than an opportunity - REDUCE.",
     "universes": [
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 46.04,
@@ -8351,6 +8487,7 @@
     "marketCap": null,
     "summary": "Visa is the pre-eminent global payments network with an exceptional economic moat - unrivaled acceptance network, dominant debit position and sticky B2B payment flows - and the shares at 28.57x P/E are reasonably valued for a compound of this quality - HOLD.",
     "universes": [
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -8405,6 +8542,8 @@
     "marketCap": null,
     "summary": "Walgreens Boots Alliance is navigating a structural crisis in US retail pharmacy - occupancy pressure, pharmacy margin compression and failed international diversification - with no clear path to earnings recovery visible at current levels. The shares have declined materially and the risk-reward remains unfavourable - SELL.",
     "universes": [
+      "fortune101",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 222,
@@ -8432,6 +8571,7 @@
     "summary": "Walmart's relentless omnichannel expansion and membership traction underpin a solid if richly valued base case, with tariff sensitivity and US consumer stress the primary downside vectors.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -8460,6 +8600,7 @@
     "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
@@ -8492,6 +8633,7 @@
     "summary": "Wells Fargo is a high-quality US bank benefiting from an improving net interest margin outlook and the gradual removal of asset cap restrictions, but the 13.65x P/E reflects most of the known positives and limited upside remains - HOLD.",
     "universes": [
       "fortune100",
+      "fortune101",
       "sp100",
       "watchlist"
     ],
