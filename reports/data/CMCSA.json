@@ -1,108 +1,31 @@
 {
-  "meta": {
-    "ticker": "CMCSA",
-    "company": "CMCSA - Comcast Corp",
-    "exchange": "",
-    "isin": "",
-    "date": "11 April 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 63,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
-    "universes": [
-      "watchlist"
-    ]
-  },
-  "price": {
-    "formatted": ""
-  },
+  "ticker": "CMCSA",
+  "company": "Comcast Corporation",
+  "isin": "US20030N1019",
+  "exchange": "NASDAQ",
+  "currency": "USD",
+  "price": 29.64,
+  "marketCap": "$106.6B",
+  "sector": "Communication Services — Media",
+  "date": "17 April 2026",
+  "reportDate": "2026-04-17",
+  "recommendation": "SPECULATIVE BUY",
+  "conviction": 42,
+  "convictionHistory": [{"date": "2026-04-17", "conviction": 42}],
+  "priceAtLastReport": 29.64,
+  "marketCapAtLastReport": "$106.6B",
+  "pe": 5.5,
+  "eps": 5.39,
+  "dividendYield": "3.8%",
+  "beta": 1.05,
+  "sharesOut": "3.95B",
+  "avgVolume": "32.9M",
+  "52wHigh": 34.34,
+  "52wLow": 26.80,
+  "prevClose": 29.30,
   "sections": {
     "executiveSummary": {
-      "text": ""
-    },
-    "businessModel": {
-      "text": "Comcast operates two distinct but interconnected businesses under one corporate umbrella: Cable Communications: The core cable business provides residential broadband internet, video, and voice services across the US. This segment generates highly predictable subscription recurring revenue. Broadband is the primary growth engine as cable TV cord-cutting continues. Media &amp; Studios (NBCUniversal): Film production and distribution (Universal Pictures), theme parks (Universal Studios in Orlando, Hollywood, Japan, Beijing, and Abu Dhabi), broadcast television (NBC), and streaming (Peacock). Peacock Streaming: NBCUniversal's direct-to-consumer streaming service offering premium content including live sports (NFL, Premier League, Olympics), news, and entertainment originals. The cable business remains highly cash-generative, subsidising the losses at Peacock and funding theme park expansion. The strategic question is how long the cable cash cow can sustain the streaming investment."
-    },
-    "financialSnapshot": {
-      "text": "Price $27.93 Market Cap $100.5bn P/E Ratio 5.2× EPS (TTM) $5.39 52w High $34.34 52w Low $24.12 Distance from 52wH −18.7% Avg Volume 18.1m",
-      "table": []
-    },
-    "recentCatalysts": {
-      "text": ""
-    },
-    "thesisEvaluation": {
-      "text": "Bull Case 78 / 100 Peacock achieves profitability ahead of schedule as sports rights drive subscriber scale and ARPU improves. The cable broadband business proves more durable than feared, stabilising cable revenues. Theme parks continue generating strong free cash flow, funding buybacks that are earnings-accretive at a 5× P/E. Shares re-rate sharply to 12-15× earnings. Weight: 30% Base Case 60 / 100 Cable TV cord-cutting continues at a moderate pace; broadband holds relatively steady. Peacock remains loss-making but does not spiral. Theme parks deliver solid but not exceptional results. The dividend is maintained and buybacks continue at current pace. Shares drift towards $30-33 on earnings stability. Weight: 50% Bear Case 40 / 100 Broadband loses significant net adds as 5G home internet captures market share rapidly. Peacock losses accelerate as sports rights costs escalate without proportionate subscriber growth. Cable capital expenditure requirements rise as DOCSIS 4.0 upgrades become mandatory. Free cash flow collapses, threatening the dividend. Weight: 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
-    },
-    "keyRisks": {
-      "text": "1 Streaming loss trajectory: Peacock continues to operate at a material operating loss. If the path to profitability lengthens or the subscriber/ARPU targets are missed, content spending will consume cable cash flows faster than anticipated, impairing the investment case. 2 Broadband competitive erosion: T-Mobile and Verizon are aggressively expanding 5G home internet, which offers comparable speeds at competitive prices with no installation required. Sustained net add losses at cable could signal structural cable broadband decline. 3 Sports rights cost inflation: The NFL, Premier League, and Olympic rights are becoming exponentially more expensive. As these rights come up for renewal, the cost could become prohibitive relative to the advertising and subscriber revenue they generate. 4 DOCSIS upgrade capital cycle: Maintaining cable network competitiveness against fibre and 5G home internet will require significant capital investment in DOCSIS 4.0 upgrades - a meaningful free cash flow headwind in the next two to three years. 5 Dividend sustainability: At the current payout ratio and free cash flow trajectory, the dividend is at risk if streaming losses accelerate or cable cash flows deteriorate more rapidly than expected.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Streaming loss trajectory: Peacock continues to operate at a material operating loss. If the path to profitability lengthens or the subscriber/ARPU targets are missed, content spending will consume cable cash flows faster than anticipated, impairing the investment case."
-        },
-        {
-          "rank": 2,
-          "risk": "Broadband competitive erosion: T-Mobile and Verizon are aggressively expanding 5G home internet, which offers comparable speeds at competitive prices with no installation required. Sustained net add losses at cable could signal structural cable broadband decline."
-        },
-        {
-          "rank": 3,
-          "risk": "Sports rights cost inflation: The NFL, Premier League, and Olympic rights are becoming exponentially more expensive. As these rights come up for renewal, the cost could become prohibitive relative to the advertising and subscriber revenue they generate."
-        },
-        {
-          "rank": 4,
-          "risk": "DOCSIS upgrade capital cycle: Maintaining cable network competitiveness against fibre and 5G home internet will require significant capital investment in DOCSIS 4.0 upgrades - a meaningful free cash flow headwind in the next two to three years."
-        },
-        {
-          "rank": 5,
-          "risk": "Dividend sustainability: At the current payout ratio and free cash flow trajectory, the dividend is at risk if streaming losses accelerate or cable cash flows deteriorate more rapidly than expected."
-        }
-      ]
-    },
-    "whoShouldOwn": {
-      "text": "Appropriate For Deep-value and special situations investors who see a 5× P/E on a cash-generative business as an extreme anomaly worth investigating Yield-focused investors who believe the ~3.5 per cent dividend is sustainable and want media/entertainment sector exposure at a steep discount to intrinsic value Contrarians who think the bear case is overblown and broadband/cable has more durability than the market prices Avoid If Requires clarity on a clear path to streaming profitability and cannot tolerate the binary outcome of Peacock's trajectory Portfolio already holds Paramount Global (PARA), Warner Bros Discovery (WBD), or Disney - the media sector risk concentration is already elevated Cannot tolerate the governance and strategic uncertainty around the NBCUniversal spin-off or further asset restructuring questions"
-    },
-    "recommendation": {
-      "text": "Conviction Score: 63/100 - HOLD At 5.2× earnings and ~18.7 per cent below the 52-week high, the stock is pricing in a very negative structural narrative. The cable broadband business is more durable than the market implies, and the dividend yield of approximately 3.5 per cent provides a floor. However, streaming losses and competitive dynamics make this a Lower-Risk Hold rather than a Buy. Buy Below $24 HOLD Zone $24-$34 Reduce Above $34 Stop / Sell $22"
-    },
-    "entryExit": {
-      "text": "Buy Below: $24 | HOLD Zone: $24-$34 | Reduce Above: $34 | Stop / Sell: $22"
-    },
-    "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": "Comcast presents as a deep value trap or a genuine bargain depending on your prior view of the broadband cord-cutting thesis. At 5.5x earnings, the market is pricing that the earnings decline is structural and permanent. The P/E of 5.5x and dividend yield of 3.8% are facts in evidence of that pessimism. The question is whether the bear case is too pessimistic. Q4 results showed mixed trends: broadband subscriber losses continuing but partially offset by Xfinity Mobile subscriber growth and NBCUniversal content revenues. Peacock streaming reached 36 million subscribers. The convergence strategy — bundling broadband, streaming, and mobile — is the bull thesis. Structural bear: cable cord-cutting has been underway for a decade and there is no evidence it has stopped. SPECULATIVE BUY reflects the valuation support at 5.5x but not a high-conviction view given the secular headwinds."
     }
-  },
-  "scores": {
-    "current": {
-      "score": 63,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
-    },
-    "history": [
-      {
-        "date": "",
-        "score": 63,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
-      }
-    ]
   }
 }

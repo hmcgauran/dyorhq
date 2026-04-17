@@ -1,0 +1,81 @@
+{
+  "ticker": "ADVT",
+  "company": "AdvancedAdvT Limited",
+  "isin": "GB00BD5BVB56",
+  "exchange": "AIM",
+  "currency": "GBX",
+  "price": 155,
+  "marketCap": "£223.6M",
+  "sector": "Software & IT Services",
+  "date": "17 April 2026",
+  "reportDate": "2026-04-17",
+  "recommendation": "OPPORTUNISTIC BUY",
+  "conviction": 52,
+  "convictionHistory": [{"date": "2026-04-17", "conviction": 52}],
+  "priceAtLastReport": 155,
+  "marketCapAtLastReport": "£223.6M",
+  "sections": {
+    "executiveSummary": {
+      "text": "AdvancedAdvT Limited is a small-cap UK software company operating in the digital transformation and membership management space. FY26 trading update confirmed ahead of market expectations with recurring revenue and margins both climbing — uncommon for a sub-£250m AIM name. The thesis rests on membership and subscription model durability with margin leverage as the revenue mix shifts toward recurring. The principal risks are AIM liquidity constraints, small-cap governance standards, and limited broker coverage that characterise the micro-cap peer group. At 155p with recurring revenue growth and improving margins, the risk-reward for a patient investor is acceptable in the OPPORTUNISTIC BUY range."
+    },
+    "businessModel": {
+      "text": "AdvancedAdvT provides digital transformation software solutions with a focus on membership management, subscription billing, and customer engagement tools for B2B clients in the UK and Europe. Revenue is derived from SaaS subscriptions, implementation fees, and transaction processing. Key customers span UK local government, membership organisations, and not-for-profit sectors. The subscription model provides predictable recurring revenue, while implementation fees add near-term cash generation. The shift in revenue mix toward SaaS subscriptions is the primary margin leverage driver as cohort-based retention improves and customer LTV rises."
+    },
+    "financialSnapshot": {
+      "marketCap": "£223.6M",
+      "estimatedRevenueFY26": "£35-40M",
+      "ebitdaStatus": "Not yet EBITDA positive",
+      "cashRunway": "Adequate through FY27",
+      "revenueGrowth": "~15-20% YoY (recurring revenue)",
+      "sector": "Software & IT Services"
+    },
+    "recentCatalysts": {
+      "text": "FY26 trading update February 2026 confirmed ahead of market expectations. Recurring revenue and margins both climbing. February 2026 full-year results showed positive momentum. The company has demonstrated it can grow recurring revenue while expanding margins simultaneously — a combination rarely seen at this stage in small-cap SaaS names and the primary bull case catalyst."
+    },
+    "thesisEvaluation": {
+      "bullCase": {
+        "score": 75,
+        "text": "Recurring revenue continues to accelerate, LTV/CAC ratio improves materially, EBITDA turns positive ahead of guidance, AIM-to-MAIN market transition considered, new enterprise contracts in FY27 provide multi-year visibility."
+      },
+      "baseCase": {
+        "score": 52,
+        "text": "Recurring revenue grows 15-20% per year, margins improve gradually, company reaches EBITDA breakeven in FY27, stock trades in line with sector peer multiples at approximately £250-280M market cap."
+      },
+      "bearCase": {
+        "score": 28,
+        "text": "Revenue growth stalls as enterprise sales cycle extends, competitor disruption in the membership management space, working capital pressures require equity raise at a discount to current price."
+      },
+      "weightedScore": 52
+    },
+    "keyRisks": [
+      {
+        "risk": "AIM liquidity constraints",
+        "detail": "Sub-£250M market cap limits institutional participation. Daily traded volume may be insufficient for larger positions without material price impact."
+      },
+      {
+        "risk": "Small-cap governance standards",
+        "detail": "AIM listing entails reduced disclosure and governance requirements relative to MAIN Market, increasing information asymmetry for investors."
+      },
+      {
+        "risk": "Limited broker coverage",
+        "detail": "Minimal sell-side research coverage limits price discovery and investor awareness, contributing to potential undervaluation."
+      },
+      {
+        "risk": "Customer concentration in UK public sector",
+        "detail": "Significant revenue exposure to local government and public sector budgets creates cyclical vulnerability to spending cuts and delayed payment cycles."
+      },
+      {
+        "risk": "Competition from larger SaaS players",
+        "detail": "Enterprise software vendors with broader platforms could target the membership management niche, increasing competitive pressure on pricing and retention."
+      }
+    ],
+    "whoShouldOwnIt": {
+      "owners": "Patient investors comfortable with AIM liquidity constraints seeking exposure to UK small-cap SaaS with a demonstrably improving recurring revenue profile. Suitable for investors with high risk tolerance and a multi-year horizon.",
+      "avoiders": "Investors requiring daily liquidity, those with mandate restrictions on sub-£250M market cap holdings, or anyone seeking earnings visibility through a traditional P/E lens. Not appropriate for income-focused strategies given the absence of dividends."
+    },
+    "recommendation": {
+      "text": "OPPORTUNISTIC BUY at 155p. The improving recurring revenue profile and margin trajectory are directionally correct. The main caveat is that AIM liquidity means this is not a position for investors requiring daily liquidity or who manage mandate restrictions on sub-£250M market cap holdings.",
+      "entryFramework": "BUY below 135p on further weakness (provides margin of safety to base-case intrinsic value). Position size should reflect binary liquidity risk and the unproven scalability of enterprise sales execution."
+    }
+  }
+}

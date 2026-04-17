@@ -301,12 +301,12 @@
     "exchange": "",
     "file": "advancedadvtltd.html",
     "date": "2026-04-16",
-    "recommendation": "BUY",
-    "conviction": 68,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "conviction": 52,
     "currency": "GBX",
     "price": 167.81,
     "marketCap": null,
-    "summary": "",
+    "summary": "AdvancedAdvT Limited is a small-cap UK software company operating in the digital transformation and membership management space. FY26 trading update confirmed ahead of market expectations with recurring revenue and margins both climbing — uncommon for a sub-£250m AIM name. The...",
     "universes": [
       "watchlist"
     ],
@@ -316,7 +316,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 68
+        "conviction": 52
       }
     ],
     "dateUpdated": "2026-04-17"
@@ -2013,11 +2013,11 @@
     "file": "ciscosystemsinc.html",
     "date": "2026-04-16",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "conviction": 58,
     "currency": "USD",
     "price": 81.76,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Cisco is a quality networking franchise executing a credible AI infrastructure transition. Q2 FY26 delivered record $15.3B revenue (+10% YoY) with $2",
     "universes": [
       "watchlist"
     ],
@@ -2027,11 +2027,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 62
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 58
       }
     ]
   },
@@ -2043,11 +2039,11 @@
     "file": "citigroupinc.html",
     "date": "2026-04-16",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "conviction": 62,
     "currency": "USD",
     "price": 124.43,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Citigroup is a turnaround story at a distressed-looking multiple. Q1 2026 EPS beat estimates by 16% on the back of $5.8B in net income, and JPMorgan sees approximately 30% upside to fair value from current levels",
     "universes": [
       "watchlist"
     ],
@@ -2057,11 +2053,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 58
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 62
       }
     ]
   },
@@ -2240,12 +2232,12 @@
     "exchange": "",
     "file": "comcastcorp.html",
     "date": "2026-04-16",
-    "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "recommendation": "SPECULATIVE BUY",
+    "conviction": 42,
     "currency": "USD",
     "price": 27.69,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Comcast presents as a deep value trap or a genuine bargain depending on your prior view of the broadband cord-cutting thesis. At 5.5x earnings, the market is pricing that the earnings decline is structural and permanent",
     "universes": [
       "watchlist"
     ],
@@ -2255,11 +2247,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 63
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 42
       }
     ]
   },
@@ -2331,11 +2319,11 @@
     "file": "costcowholesalecorp.html",
     "date": "2026-04-16",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 50,
+    "conviction": 55,
     "currency": "USD",
     "price": 982.51,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "Costco is a high-quality membership-driven retail compounding machine with exceptional pricing power and customer loyalty metrics that are the envy of the retail sector. The 51.19x P/E reflects precisely this quality — the market prices in near-perfect execution and the...",
     "universes": [
       "watchlist"
     ],
@@ -2345,11 +2333,7 @@
     "convictionHistory": [
       {
         "date": "2026-04-16",
-        "conviction": 68
-      },
-      {
-        "date": "2026-04-16",
-        "conviction": 50
+        "conviction": 55
       }
     ]
   },
