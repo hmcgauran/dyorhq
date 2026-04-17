@@ -140,6 +140,38 @@ async function callGrok(ticker, company) {
   return { score: null, error: 'all_retries_failed' };
 }
 
+// ── Paperclip scientific research (biotech/pharma/life sciences only) ────────
+async function runPaperclipResearch(ticker, company, sector, grokKeyThemes) {
+  const BIO_SECTORS = /biotech|pharma|life.?sci|medtech|oncology|drug|bioscience|diagnostic/i;
+  const BIO_THEMES = /clinical.trial|FDA|phase|approval|therapeutic|drug.candidat|peptide|antibody|ADC|tumour.?target|bioMarker/i;
+  if (!BIO_SECTORS.test(sector || '') && !BIO_THEMES.test((grokKeyThemes || []).join(' '))) return null;
+
+  const slug = ticker.replace(PREFIX_RE, '').toLowerCase().replace(/[^a-z0-9]/g, '') + '.html';
+  const resDir = path.join(RESEARCH_DIR, slug.replace(/\.html$/, ''));
+  mkdir(resDir);
+
+  const queries = [
+    `${company} clinical trial phase`,
+    `${company} mechanism of action`,
+    `FAP tumour targeting fibroblast activation protein`,
+  ].slice(0, 3);
+
+  const results = [];
+  for (const q of queries) {
+    try {
+      const raw = execSync(`paperclip search "${q.replace(/"/g, '')}" -n 10 2>/dev/null`, { maxBuffer: 10 * 1024 * 1024, timeout: 30000 });
+      const match = raw.match(/Found (\d+) papers\s+\[([s_\w+)\]/);
+      if (match) results.push({ query: q, resultId: match[2], count: parseInt(match[1]) });
+    } catch { /* Paperclip unavailable or no results */ }
+    await sleep(300);
+  }
+
+  if (results.length === 0) return null;
+  const out = { generatedAt: TODAY, ticker, company, queries: results };
+  saveJson(path.join(resDir, `paperclip-${TODAY}.json`), out);
+  return out;
+}
+
 // ── Web search ───────────────────────────────────────────────────────────────
 async function webSearch(query) {
   const key = process.env.OLLAMA_WEB_SEARCH_KEY || process.env.SEARCH_API_KEY || '';
@@ -389,19 +421,24 @@ async function main() {
   saveJson(path.join(resDir, `grok-${TODAY}.json`), grok);
   console.log(`  Grok score: ${grok.score} (${grok.signal})`);
 
-  // 4. Web research
-  console.log('[4/7] Running web research...');
+  // 4. Paperclip scientific research (biotech/pharma)
+  console.log('[4/8] Running Paperclip research...');
+  const paperclipResult = await runPaperclipResearch(ticker, sheetData.company, sheetData.sector, grok?.key_themes);
+  console.log(`  Paperclip: ${paperclipResult ? paperclipResult.queries.length + ' searches' : 'not applicable'}`);
+
+  // 5. Web research
+  console.log('[5/8] Running web research...');
   const webResults = await runWebResearch(ticker, sheetData.company);
   saveJson(path.join(resDir, `web-${TODAY}.json`), { results: webResults, ticker, date: TODAY });
   console.log(`  ${webResults.flatMap(w => w.hits).length} web hits across ${webResults.length} queries`);
 
-  // 5. Conviction
-  console.log('[5/7] Calculating conviction...');
+  // 6. Conviction
+  console.log('[6/8] Calculating conviction...');
   const conviction = calcConviction({ price: sheetData.price, P_E: sheetData.P_E, marketCap: sheetData.marketCap }, grok.score);
   console.log(`  ${conviction.bullP}% Bull / ${conviction.baseP}% Base / ${conviction.bearP}% Bear → ${conviction.calc}/100`);
 
-  // 6. HTML
-  console.log('[6/7] Writing HTML...');
+  // 7. HTML
+  console.log('[7/8] Writing HTML...');
   const { slug: htmlSlug } = writeHtml(ticker, {
     company: sheetData.company,
     price: sheetData.price,
@@ -420,8 +457,8 @@ async function main() {
     },
   }, grok, webResults, conviction);
 
-  // 7. Index
-  console.log('[7/7] Updating index...');
+  // 8. Index
+  console.log('[8/8] Updating index...');
   updateIndex(ticker, {
     price: sheetData.price,
     conviction: conviction.calc,
