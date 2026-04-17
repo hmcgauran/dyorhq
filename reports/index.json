@@ -305,7 +305,7 @@
     "currency": "GBX",
     "price": 167.81,
     "marketCap": null,
-    "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
+    "summary": "[PLACEHOLDER — ADVT content under review; do not publish stub summary. Hugh to write fresh analysis]",
     "universes": [
       "watchlist"
     ],
@@ -317,7 +317,8 @@
         "date": "2026-04-16",
         "conviction": 68
       }
-    ]
+    ],
+    "dateUpdated": "2026-04-17"
   },
   {
     "ticker": "AMS",

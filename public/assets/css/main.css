@@ -19,8 +19,8 @@
   --rec-hold: #f0b429;
   --rec-reduce: #ff8c00;
   --rec-sell: #ff4d4d;
-  --rec-opportunisticbuy: #f0b429;
-  --rec-speculativebuy: #ff8c00;
+  --rec-opportunisticbuy: #e8a020;
+  --rec-speculativebuy: #e06222;
   --rec-avoid: #dc2626;
   --font: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, sans-serif;
   --font-mono: "SF Mono", "Fira Code", "Cascadia Code", Consolas, monospace;
