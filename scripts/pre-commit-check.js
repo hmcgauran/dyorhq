@@ -20,7 +20,16 @@ const REPORTS_DIR = path.join(__dirname, '..', 'reports');
 const DATA_DIR    = path.join(__dirname, '..', 'reports', 'data');
 const RESEARCH_DIR = path.join(__dirname, '..', 'research');
 const INDEX_PATH  = path.join(__dirname, '..', 'reports', 'index.json');
-const SHEET_ID    = '1N3lmSP2KI3pVOI3JlnsCn3YKKEWEKGiTILYKvPAJPoM';
+const US_EXCHANGES_RE = /^(NYSE|NASDAQ|EPA|ASX|LON|LSE |FRA|CVE|BME|TSE|TSX|HKEX):/i;
+
+function isUSTicker(ticker) {
+  const t = ticker.replace(US_EXCHANGES_RE, '').toUpperCase();
+  return !t.startsWith('LON') && !t.startsWith('LSE') && !t.startsWith('ISE') &&
+         !t.startsWith('TSX') && !t.startsWith('ASX') && !t.startsWith('FRA') &&
+         !t.startsWith('BME') && !t.startsWith('CVE');
+}
+
+const SHEET_ID = '1N3lmSP2KI3pVOI3JlnsCn3YKKEWEKGiTILYKvPAJPoM';
 
 const REC_TIERS = [
   { min: 80, rec: 'BUY (STRONG)' },
@@ -168,6 +177,12 @@ async function checkTicker(ticker) {
   const web = loadJson(webFile);
   const webOk = !!(web && (web.results || []).length > 0);
 
+  // 3b. FMP data (US tickers only)
+  const isUS = isUSTicker(ticker);
+  const fmpFile = path.join(researchDir, `fmp-${TODAY}.json`);
+  const fmpOk = !isUS || fs.existsSync(fmpFile);
+  const fmpData = isUS ? loadJson(fmpFile) : null;
+
   // 4. Conviction & recommendation
   const conviction = entry?.conviction ?? null;
   const rec = entry?.recommendation ?? null;
@@ -196,6 +211,7 @@ async function checkTicker(ticker) {
   if (!price) issues.push('no_price');
   if (!grokOk) issues.push('no_grok');
   if (!webOk) issues.push('no_web');
+  if (isUS && !fmpOk) issues.push('no_fmp');
   if (!recCorrect) issues.push(`rec_${rec}_!=_${expectedRec}`);
   if (missingSections.length > 0) issues.push(`sections:${missingSections.join('+')}`);
   if (!summaryCheck.ok) issues.push(`summary:${summaryCheck.reason}`);
@@ -208,6 +224,11 @@ async function checkTicker(ticker) {
     grokScore: grok?.score ?? null,
     webOk,
     webResults: web ? (web.results || []).length : 0,
+    fmpOk,
+    fmpPrice: fmpData?.price ?? null,
+    fmpMktCap: fmpData?.marketCap ?? null,
+    fmpPE: fmpData?.pe ?? null,
+    fmpEPS: fmpData?.eps ?? null,
     conviction,
     rec,
     expectedRec,

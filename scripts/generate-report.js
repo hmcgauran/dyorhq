@@ -113,6 +113,70 @@ function resolveISIN(ticker, sheetISIN) {
   return { isin: null, source: 'failed' };
 }
 
+// ── FMP financial data (US-listed stocks primary source) ───────────────────
+const US_EXCHANGES_RE = /^(NYSE|NASDAQ|EPA|ASX|LON|LSE |FRA|CVE|BME|TSE|TSX|HKEX):/i;
+
+function isUSTicker(ticker) {
+  const t = ticker.replace(US_EXCHANGES_RE, '').toUpperCase();
+  // US-listed: plain ticker (no exchange prefix), or NYSE/NASDAQ prefix
+  return !t.startsWith('LON') && !t.startsWith('LSE') && !t.startsWith('ISE') &&
+         !t.startsWith('TSX') && !t.startsWith('ASX') && !t.startsWith('FRA') &&
+         !t.startsWith('BME') && !t.startsWith('CVE');
+}
+
+function fetchFMPData(ticker) {
+  const key = process.env.FMP_API_KEY;
+  if (!key) return { error: 'no_api_key' };
+  const t = ticker.replace(US_EXCHANGES_RE, '').toUpperCase();
+
+  // Profile + quote
+  let profile, quote;
+  try {
+    const profileRaw = exec(`curl -sf "https://financialmodelingprep.com/api/v3/profile/${t}?apikey=${key}" 2>/dev/null`);
+    profile = JSON.parse(profileRaw)?.[0] || null;
+  } catch { profile = null; }
+
+  try {
+    const quoteRaw = exec(`curl -sf "https://financialmodelingprep.com/api/v3/quote/${t}?apikey=${key}" 2>/dev/null`);
+    quote = JSON.parse(quoteRaw)?.[0] || null;
+  } catch { quote = null; }
+
+  if (!quote && !profile) return { error: 'no_data' };
+
+  // Income statement (TTM revenue)
+  let incomeStmt = null;
+  try {
+    const incomeRaw = exec(`curl -sf "https://financialmodelingprep.com/api/v3/income-statement/${t}?period=quarter&limit=1&apikey=${key}" 2>/dev/null`);
+    incomeStmt = JSON.parse(incomeRaw)?.[0] || null;
+  } catch {}
+
+  // Key metrics
+  let metrics = null;
+  try {
+    const metricsRaw = exec(`curl -sf "https://financialmodelingprep.com/api/v3/key-metrics-ttm/${t}?limit=1&apikey=${key}" 2>/dev/null`);
+    metrics = JSON.parse(metricsRaw)?.[0] || null;
+  } catch {}
+
+  return {
+    price:            quote?.price ?? profile?.price ?? null,
+    marketCap:         quote?.marketCap ?? profile?.mktCap ?? null,
+    pe:                quote?.pe ?? null,
+    eps:               quote?.eps ?? null,
+    revenueTTM:        incomeStmt?.revenue ?? null,
+    grossMargin:       metrics?.grossMargin ?? null,
+    week52High:        quote?.yearHigh ?? null,
+    week52Low:         quote?.yearLow ?? null,
+    sharesOutstanding: quote?.sharesOutstanding ?? profile?.shsOut ?? null,
+    currency:          profile?.currency ?? quote?.currency ?? 'USD',
+    exchange:          profile?.exchange ?? quote?.exchange ?? null,
+    company:           profile?.companyName ?? quote?.name ?? null,
+    sector:            profile?.sector ?? null,
+    industry:          profile?.industry ?? null,
+    beta:              quote?.beta ?? null,
+    raw:               { profile, quote, incomeStmt, metrics },
+  };
+}
+
 // ── Grok sentiment ────────────────────────────────────────────────────────────
 async function callGrok(ticker, company) {
   const key = process.env.XAI_API_KEY;
@@ -386,22 +450,81 @@ function runBuild() {
   }
 }
 
-// ── Main ──────────────────────────────────────────────────────────────────────
 async function main() {
   const ticker = process.argv[2]?.trim().toUpperCase();
   if (!ticker) { console.error('Usage: node scripts/generate-report.js TICKER'); process.exit(1); }
 
   console.log(`\n=== Generating report for ${ticker} ===`);
 
-  // 1. Sheet data
-  console.log('[1/7] Fetching sheet data...');
-  const sheetData = fetchSheetData(ticker);
-  if (!sheetData) { console.error(`Ticker ${ticker} not found in sheet.`); process.exit(1); }
-  console.log(`  Price: ${sheetData.price} | P/E: ${sheetData.P_E} | ISIN: ${sheetData.isin} | Company: ${sheetData.company}`);
+  const isUS = isUSTicker(ticker);
+  let sheetData, fmpData, price, marketCap, pe, eps, week52High, week52Low, currency, exchange, sector, industry;
+
+  // 1. US tickers: FMP first, then sheet for ISIN/universe data
+  if (isUS) {
+    console.log('[1/9] Fetching FMP data (US ticker)...');
+    fmpData = fetchFMPData(ticker);
+    if (fmpData.error) {
+      console.log(`  FMP: ${fmpData.error} — falling back to sheet`);
+    } else {
+      console.log(`  FMP: price=$${fmpData.price} pe=${fmpData.pe} mktcap=${fmpData.marketCap} eps=${fmpData.eps}`);
+      price = fmpData.price;
+      marketCap = fmpData.marketCap;
+      pe = fmpData.pe;
+      eps = fmpData.eps;
+      week52High = fmpData.week52High;
+      week52Low = fmpData.week52Low;
+      currency = fmpData.currency;
+      exchange = fmpData.exchange;
+      sector = fmpData.sector;
+      industry = fmpData.industry;
+      // Persist FMP response
+      const slug = slugFrom(ticker);
+      const resDir = path.join(RESEARCH_DIR, slug.replace(/\.html$/, ''));
+      mkdir(resDir);
+      saveJson(path.join(resDir, `fmp-${TODAY}.json`), { ticker, date: TODAY, ...fmpData });
+      console.log(`  FMP data persisted to research/${slug.replace(/\.html$/, '')}/fmp-${TODAY}.json`);
+    }
+
+    console.log('[2/9] Fetching sheet data (ISIN, universe)...');
+    sheetData = fetchSheetData(ticker);
+    if (!sheetData) { console.error(`Ticker ${ticker} not found in sheet.`); process.exit(1); }
+    // Fill gaps from sheet
+    price      = price      ?? sheetData.price;
+    marketCap  = marketCap  ?? sheetData.marketCap;
+    pe         = pe        ?? sheetData.P_E;
+    eps        = eps       ?? sheetData.eps;
+    currency   = currency   ?? sheetData.currency ?? 'USD';
+    exchange   = exchange   ?? sheetData.exchange;
+    sector     = sector     ?? sheetData.sector;
+    industry   = industry   ?? sheetData.industry;
+    if (!week52High) week52High = sheetData.week52High;
+    if (!week52Low)  week52Low  = sheetData.week52Low;
+  } else {
+    // Non-US: sheet only
+    console.log('[1/8] Fetching sheet data...');
+    sheetData = fetchSheetData(ticker);
+    if (!sheetData) { console.error(`Ticker ${ticker} not found in sheet.`); process.exit(1); }
+    price     = sheetData.price;
+    marketCap = sheetData.marketCap;
+    pe        = sheetData.P_E;
+    eps       = sheetData.eps;
+    week52High = sheetData.week52High;
+    week52Low  = sheetData.week52Low;
+    currency  = sheetData.currency ?? '$';
+    exchange  = sheetData.exchange;
+    sector    = sheetData.sector;
+    industry  = sheetData.industry;
+    fmpData   = null;
+  }
+
+  const slug = slugFrom(ticker);
+  const resDir = path.join(RESEARCH_DIR, slug.replace(/\.html$/, ''));
+  mkdir(resDir);
+  console.log(`  Combined: price=$${price} pe=${pe} mktcap=${marketCap} sector=${sector}`);
 
   // 2. ISIN
-  console.log('[2/7] Resolving ISIN...');
-  const { isin, source } = resolveISIN(ticker, sheetData.isin);
+  console.log('[2/8] Resolving ISIN...');
+  const { isin, source } = resolveISIN(ticker, sheetData?.isin);
   console.log(`  ISIN: ${isin || 'UNRESOLVED'} (${source})`);
   if (!isin || isin === 'UNRESOLVED') {
     fs.appendFileSync(path.join(__dirname, '..', 'state', 'isin-failures.jsonl'),
@@ -409,46 +532,43 @@ async function main() {
   }
 
   // 3. Grok
-  console.log('[3/7] Calling Grok...');
-  const grok = await callGrok(ticker, sheetData.company);
+  console.log('[3/8] Calling Grok...');
+  const grok = await callGrok(ticker, sheetData?.company || exchange);
   if (grok.error) {
     fs.appendFileSync(path.join(__dirname, '..', 'state', 'sentiment-failures.jsonl'),
       JSON.stringify({ ticker, date: TODAY, error: grok.error }) + '\n');
   }
-  const slug = slugFrom(ticker);
-  const resDir = path.join(RESEARCH_DIR, slug.replace(/\.html$/, ''));
-  mkdir(resDir);
   saveJson(path.join(resDir, `grok-${TODAY}.json`), grok);
   console.log(`  Grok score: ${grok.score} (${grok.signal})`);
 
   // 4. Paperclip scientific research (biotech/pharma)
   console.log('[4/8] Running Paperclip research...');
-  const paperclipResult = await runPaperclipResearch(ticker, sheetData.company, sheetData.sector, grok?.key_themes);
+  const paperclipResult = await runPaperclipResearch(ticker, sheetData?.company || exchange, sector, grok?.key_themes);
   console.log(`  Paperclip: ${paperclipResult ? paperclipResult.queries.length + ' searches' : 'not applicable'}`);
 
   // 5. Web research
   console.log('[5/8] Running web research...');
-  const webResults = await runWebResearch(ticker, sheetData.company);
+  const webResults = await runWebResearch(ticker, sheetData?.company || exchange);
   saveJson(path.join(resDir, `web-${TODAY}.json`), { results: webResults, ticker, date: TODAY });
   console.log(`  ${webResults.flatMap(w => w.hits).length} web hits across ${webResults.length} queries`);
 
   // 6. Conviction
   console.log('[6/8] Calculating conviction...');
-  const conviction = calcConviction({ price: sheetData.price, P_E: sheetData.P_E, marketCap: sheetData.marketCap }, grok.score);
+  const conviction = calcConviction({ price, P_E: pe, marketCap }, grok.score);
   console.log(`  ${conviction.bullP}% Bull / ${conviction.baseP}% Base / ${conviction.bearP}% Bear → ${conviction.calc}/100`);
 
   // 7. HTML
   console.log('[7/8] Writing HTML...');
   const { slug: htmlSlug } = writeHtml(ticker, {
-    company: sheetData.company,
-    price: sheetData.price,
-    P_E: sheetData.P_E,
-    marketCap: sheetData.marketCap,
-    currency: sheetData.currency || '$',
-    summary: sheetData.summary || '',
+    company: sheetData?.company || exchange || ticker,
+    price,
+    P_E: pe,
+    marketCap,
+    currency,
+    summary: sheetData?.summary || '',
     sections: {
       'Business Model': { text: 'Data not yet available.' },
-      'Financial Snapshot': { price: sheetData.price, PE: sheetData.P_E, marketCap: sheetData.marketCap, week52High: sheetData.week52High, week52Low: sheetData.week52Low },
+      'Financial Snapshot': { price, PE: pe, eps, marketCap, week52High, week52Low, revenueTTM: fmpData?.revenueTTM, grossMargin: fmpData?.grossMargin },
       'Recent Catalysts': { text: 'No catalysts data.' },
       'Thesis Evaluation': { text: 'Thesis under review.' },
       'Key Risks': { text: 'No risk data available.' },
@@ -460,14 +580,10 @@ async function main() {
   // 8. Index
   console.log('[8/8] Updating index...');
   updateIndex(ticker, {
-    price: sheetData.price,
-    conviction: conviction.calc,
-    summary: sheetData.summary || '',
-    marketCap: sheetData.marketCap,
-    currency: sheetData.currency || '$',
-    company: sheetData.company,
-    exchange: sheetData.exchange,
-    isin,
+    price, conviction: conviction.calc,
+    summary: sheetData?.summary || '',
+    marketCap, currency, company: sheetData?.company || exchange || ticker,
+    exchange, isin,
   });
 
   // Build
