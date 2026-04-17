@@ -7,10 +7,10 @@
  *
  * Steps:
  *   1. Fetch sheet data for ticker (Column A match)
- *   2. ISIN resolution (sheet → OpenFIGI fallback)
- *   3. Grok sentiment call → research/{slug}/grok-{date}.json
- *   4. Web searches (4 queries) → research/{slug}/web-{date}.json
- *   5. Scenario framework → conviction score
+ *   2. ISIN resolution (sheet -> OpenFIGI fallback)
+ *   3. Grok sentiment call -> research/{slug}/grok-{date}.json
+ *   4. Web searches (4 queries) -> research/{slug}/web-{date}.json
+ *   5. Scenario framework -> conviction score
  *   6. Write HTML report (all 11 sections, British English)
  *   7. Update reports/index.json (universes: ["watchlist"])
  *   8. Run npm run build (aborts on validation failure)
@@ -37,7 +37,7 @@ const REC_TIERS = [
   { min: 0,  rec: 'AVOID' },
 ];
 
-// ── Helpers ──────────────────────────────────────────────────────────────────
+// -- Helpers ------------------------------------------------------------------
 function recFromConviction(c) {
   const tier = REC_TIERS.find(t => c >= t.min);
   return tier ? tier.rec : 'AVOID';
@@ -58,7 +58,7 @@ function httpsGet(url) {
 }
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-// ── Fetch sheet data for a single ticker ──────────────────────────────────────
+// -- Fetch sheet data for a single ticker --------------------------------------
 function fetchSheetData(ticker) {
   const raw = exec(`gws sheets spreadsheets get --params '{"spreadsheetId": "${SHEET_ID}", "includeGridData": true}' --format json`);
   const sheet = JSON.parse(raw);
@@ -78,7 +78,7 @@ function fetchSheetData(ticker) {
       company:    get('companyName'),
       price:      parseFloat(get('price')) || null,
       marketCap:  get('marketCap'),
-      P/E:        parseFloat(get('pe')) || null,
+      'PE':        parseFloat(get('pe')) || null,
       EPS:        parseFloat(get('eps')) || null,
       isin:       get('isin'),
       exchange:   get('primaryExchange') || null,
@@ -95,7 +95,7 @@ function fetchSheetData(ticker) {
   return null;
 }
 
-// ── ISIN resolution ──────────────────────────────────────────────────────────
+// -- ISIN resolution ----------------------------------------------------------
 function resolveISIN(ticker, sheetISIN) {
   if (sheetISIN && sheetISIN !== 'NEEDS-REVIEW' && sheetISIN.length === 12 && /^[A-Z]{2}/.test(sheetISIN)) {
     return { isin: sheetISIN, source: 'sheet' };
@@ -113,7 +113,7 @@ function resolveISIN(ticker, sheetISIN) {
   return { isin: null, source: 'failed' };
 }
 
-// ── FMP financial data (US-listed stocks primary source) ───────────────────
+// -- FMP financial data (US-listed stocks primary source) -------------------
 const US_EXCHANGES_RE = /^(NYSE|NASDAQ|EPA|ASX|LON|LSE |FRA|CVE|BME|TSE|TSX|HKEX):/i;
 
 function isUSTicker(ticker) {
@@ -177,7 +177,7 @@ function fetchFMPData(ticker) {
   };
 }
 
-// ── Grok sentiment ────────────────────────────────────────────────────────────
+// -- Grok sentiment ------------------------------------------------------------
 async function callGrok(ticker, company) {
   const key = process.env.XAI_API_KEY;
   if (!key) return { score: null, error: 'no_api_key' };
@@ -204,7 +204,7 @@ async function callGrok(ticker, company) {
   return { score: null, error: 'all_retries_failed' };
 }
 
-// ── Paperclip scientific research (biotech/pharma/life sciences only) ────────
+// -- Paperclip scientific research (biotech/pharma/life sciences only) --------
 async function runPaperclipResearch(ticker, company, sector, grokKeyThemes) {
   const BIO_SECTORS = /biotech|pharma|life.?sci|medtech|oncology|drug|bioscience|diagnostic/i;
   const BIO_THEMES = /clinical.trial|FDA|phase|approval|therapeutic|drug.candidat|peptide|antibody|ADC|tumour.?target|bioMarker/i;
@@ -224,7 +224,7 @@ async function runPaperclipResearch(ticker, company, sector, grokKeyThemes) {
   for (const q of queries) {
     try {
       const raw = execSync(`paperclip search "${q.replace(/"/g, '')}" -n 10 2>/dev/null`, { maxBuffer: 10 * 1024 * 1024, timeout: 30000 });
-      const match = raw.match(/Found (\d+) papers\s+\[([s_\w+)\]/);
+      const match = raw.match(/Found (\d+) papers\s+\[([s_\w]+)\]/);
       if (match) results.push({ query: q, resultId: match[2], count: parseInt(match[1]) });
     } catch { /* Paperclip unavailable or no results */ }
     await sleep(300);
@@ -236,7 +236,7 @@ async function runPaperclipResearch(ticker, company, sector, grokKeyThemes) {
   return out;
 }
 
-// ── Web search ───────────────────────────────────────────────────────────────
+// -- Web search ---------------------------------------------------------------
 async function webSearch(query) {
   const key = process.env.OLLAMA_WEB_SEARCH_KEY || process.env.SEARCH_API_KEY || '';
   // Use ollama_web_search if available, otherwise fall back to a simple approach
@@ -264,7 +264,7 @@ async function runWebResearch(ticker, company) {
   return results;
 }
 
-// ── Scenario framework → conviction ─────────────────────────────────────────
+// -- Scenario framework -> conviction -----------------------------------------
 function calcConviction(data, grokScore) {
   // Pull financial snapshot from data.json
   const fin = data?.sections?.['Financial Snapshot'] || data?.sections?.financialSnapshot || {};
@@ -274,9 +274,9 @@ function calcConviction(data, grokScore) {
   const revenue = fin.revenue || data?.revenue || null;
   const eps = fin.eps || data?.EPS || null;
 
-  // Bull: re-rating, partnership, acceleration — score 75
-  // Base: current trajectory holds — score 50
-  // Bear: execution failure, macro headwind, dilution — score 20
+  // Bull: re-rating, partnership, acceleration - score 75
+  // Base: current trajectory holds - score 50
+  // Bear: execution failure, macro headwind, dilution - score 20
 
   let bullP = 25, baseP = 55, bearP = 20;
   let bullS = 75, baseS = 50, bearS = 20;
@@ -305,7 +305,7 @@ function calcConviction(data, grokScore) {
   return { bullP, baseP, bearP, bullS, baseS, bearS, calc };
 }
 
-// ── Write HTML report ─────────────────────────────────────────────────────────
+// -- Write HTML report ---------------------------------------------------------
 function writeHtml(ticker, data, grok, webResults, convictionData) {
   const sec = data?.sections || {};
   const fin = sec['Financial Snapshot'] || sec.financialSnapshot || {};
@@ -334,7 +334,7 @@ function writeHtml(ticker, data, grok, webResults, convictionData) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${data.company} (${ticker}) — DYOR HQ</title>
+  <title>${data.company} (${ticker}) - DYOR HQ</title>
   <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <body>
@@ -380,7 +380,7 @@ ${scenarioTable}
 <p>${sec['Who Should Own It']?.text || sec.whoShouldOwnIt?.text || 'No ownership guidance available.'}</p>
 
 <h2>Recommendation</h2>
-<p><strong>${rec}</strong> — Conviction Score: ${s.calc}/100. ${grok?.summary || ''}</p>
+<p><strong>${rec}</strong> - Conviction Score: ${s.calc}/100. ${grok?.summary || ''}</p>
 
 <h2>Entry</h2>
 <p>${sec['Entry']?.text || sec.entry?.text || 'No entry guidance available.'}</p>
@@ -411,7 +411,7 @@ ${(webResults || []).flatMap(w => (w.hits || []).map(h => `<li><a href="${h.url}
   return { slug, html };
 }
 
-// ── Update index.json ────────────────────────────────────────────────────────
+// -- Update index.json --------------------------------------------------------
 function updateIndex(ticker, entry) {
   const idx = loadJson(INDEX_PATH) || [];
   const slug = slugFrom(ticker);
@@ -431,13 +431,20 @@ function updateIndex(ticker, entry) {
     exchange: entry.exchange || null,
     isin: entry.isin || null,
     slug,
+    convictionHistory: entry.convictionHistory || [],
   };
-  if (existIdx >= 0) idx[existIdx] = newEntry;
-  else idx.push(newEntry);
+  if (existIdx >= 0) {
+    // Preserve convictionHistory from existing entry
+    const existing = idx[existIdx];
+    if (existing.convictionHistory) newEntry.convictionHistory = existing.convictionHistory;
+    idx[existIdx] = newEntry;
+  } else {
+    idx.push(newEntry);
+  }
   fs.writeFileSync(INDEX_PATH, JSON.stringify(idx, null, 2), 'utf8');
 }
 
-// ── Run build ────────────────────────────────────────────────────────────────
+// -- Run build ----------------------------------------------------------------
 function runBuild() {
   console.log('Running npm run build...');
   try {
@@ -464,7 +471,7 @@ async function main() {
     console.log('[1/9] Fetching FMP data (US ticker)...');
     fmpData = fetchFMPData(ticker);
     if (fmpData.error) {
-      console.log(`  FMP: ${fmpData.error} — falling back to sheet`);
+      console.log(`  FMP: ${fmpData.error} - falling back to sheet`);
     } else {
       console.log(`  FMP: price=$${fmpData.price} pe=${fmpData.pe} mktcap=${fmpData.marketCap} eps=${fmpData.eps}`);
       price = fmpData.price;
@@ -555,7 +562,7 @@ async function main() {
   // 6. Conviction
   console.log('[6/8] Calculating conviction...');
   const conviction = calcConviction({ price, P_E: pe, marketCap }, grok.score);
-  console.log(`  ${conviction.bullP}% Bull / ${conviction.baseP}% Base / ${conviction.bearP}% Bear → ${conviction.calc}/100`);
+  console.log(`  ${conviction.bullP}% Bull / ${conviction.baseP}% Base / ${conviction.bearP}% Bear -> ${conviction.calc}/100`);
 
   // 7. HTML
   console.log('[7/8] Writing HTML...');
@@ -584,6 +591,7 @@ async function main() {
     summary: sheetData?.summary || '',
     marketCap, currency, company: sheetData?.company || exchange || ticker,
     exchange, isin,
+    convictionHistory: [{ date: TODAY, conviction: conviction.calc }],
   });
 
   // Build

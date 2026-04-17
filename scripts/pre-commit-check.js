@@ -147,6 +147,7 @@ function summaryOk(summary) {
 
 // ── Main ───────────────────────────────────────────────────────────────────────
 async function checkTicker(ticker) {
+  ticker = ticker.toUpperCase();
   const idx = loadJson(INDEX_PATH) || [];
   const entry = idx.find(e => e.ticker === ticker);
   const slug = resolveSlug(ticker, entry);
