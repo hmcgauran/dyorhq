@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "ticker": "EXPGF",
+    "company": "Experian plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 48,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Experian plc (EXPGF) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 48/100, using $35.04 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Experian plc sits in data, analytics and consumer credit infrastructure, where recurring revenues, data quality and regulatory discipline underpin the franchise."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$35.04"
+        },
+        {
+          "label": "Company",
+          "value": "Experian plc"
+        },
+        {
+          "label": "Recommendation",
+          "value": "REDUCE"
+        },
+        {
+          "label": "Conviction",
+          "value": "48/100"
+        },
+        {
+          "label": "Universe",
+          "value": "irish"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Credit demand, analytics adoption, pricing and product expansion remain the main drivers."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Regulatory scrutiny can raise compliance costs. Credit-cycle weakness can affect transaction volumes. Competition in analytics can pressure pricing. Cybersecurity and data-governance risks remain material. Execution on new products can lag expectations.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Regulatory scrutiny can raise compliance costs."
+        },
+        {
+          "rank": 2,
+          "risk": "Credit-cycle weakness can affect transaction volumes."
+        },
+        {
+          "rank": 3,
+          "risk": "Competition in analytics can pressure pricing."
+        },
+        {
+          "rank": 4,
+          "risk": "Cybersecurity and data-governance risks remain material."
+        },
+        {
+          "rank": 5,
+          "risk": "Execution on new products can lag expectations."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who favour data-rich recurring-revenue businesses. Avoid: Investors uncomfortable with credit-cycle and data-regulation risk."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 48/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 48,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 48,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

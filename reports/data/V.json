@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ticker": "V",
+    "company": "Visa Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 304.36,
+    "marketCap": 580100000000.0,
+    "marketCapFormatted": "$580.10B",
+    "trailingPE": 28.57,
+    "trailingEps": 10.65,
+    "fiftyTwoWeekHigh": 375.51,
+    "fiftyTwoWeekLow": 293.89,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Visa is the pre-eminent global payments network with an exceptional economic moat - unrivaled acceptance network, dominant debit position and sticky B2B payment flows - and the shares at 28.57x P/E are reasonably valued for a compound of this quality - HOLD."
+    },
+    "businessModel": {
+      "text": "Visa operates the world's largest electronic payments network, connecting consumers, merchants, financial institutions and governments across more than 200 countries. The company does not take credit risk on transactions; it earns fees from financial institution clients (issuers) for processing transactions, as well as from merchants for certain payment processing services. Key revenue streams include: service revenues (fees paid by issuers based on payment volume), data processing revenues (transaction processing fees), international transaction revenues (cross-border fees) and other revenues (value-added services, Visa Consulting Analytics). The company has a highly capital-light model with high margins and exceptional free cash flow conversion."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$304.36"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$580.1 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "28.57x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$10.65"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$375.51"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$293.89"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Global travel and cross-border transaction volumes have fully recovered from the COVID-19 travel slump and now represent a significant growth driver. Visa's debit network (Visa Direct) has expanded into real-time push payments, B2B disbursements and gig economy payments. The company's Tap-to-Pay contactless technology has accelerated adoption globally. New capabilities (Visa Acceptance Solutions, Visa B2B Connect) are expanding the addressable market into corporate cross-border payments. The strategic partnership with Goldman Sachs and fintech platforms continues to expand issuance."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (82): B2B payments (Visa B2B Connect and new capabilities) becomes a significant new revenue stream, taking share from the SWIFT correspondent banking system. Cross-border volumes accelerate as global trade and travel grow. New capabilities (loyalty, authentication, consulting) grow above-system volume rates. EPS reaches $14.00+. Price: $380+. Base Case (70): Cross-border volumes grow mid-single digit. US debit and credit volume is steady. B2B Connect grows meaningfully but is not transformative. New capabilities and acceptance expansion add low-single digit to revenue. EPS grows to $11.50-$12.50. Price: $310-$350. Bear Case (54): Global cross-border travel and trade slows materially in a recession scenario. US consumer spending contracts and credit volume declines. Competitive pressure from Mastercard, Amex and real-time payment networks (FedNow, RTP) intensifies. Regulatory caps on interchange fees (as applied in Europe and Australia) spread to the US. EPS falls to $9.50-$10.50. Price: below $270. Weighted Score: 70 - Bull 82 × 30% + Base 70 × 50% + Bear 54 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Regulatory risk on interchange: Interchange fees (the fees merchants pay to card networks and issuers) are under regulatory scrutiny globally. The EU's MIF regulations, Australia's caps and potential US regulatory action represent a structural risk to Visa's revenue model. Real-time payment competition: The US Federal Reserve's FedNow instant payment rail, The Clearing House's RTP network and emerging real-time payment infrastructures globally could over time disintermediate card networks for certain payment types. Cybersecurity and fraud: A major data breach or systemic fraud event affecting the Visa network would be highly damaging to brand trust and could trigger regulatory penalties and card replacement costs. Valuation: At 28.57x P/E, Visa is not cheap. The market is pricing in continued execution on the global payments secular growth thesis; any misstep would cause multiple compression.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Regulatory risk on interchange: Interchange fees (the fees merchants pay to card networks and issuers) are under regulatory scrutiny globally. The EU's MIF regulations, Australia's caps and potential US regulatory action represent a structural risk to Visa's revenue model."
+        },
+        {
+          "rank": 2,
+          "risk": "Real-time payment competition: The US Federal Reserve's FedNow instant payment rail, The Clearing House's RTP network and emerging real-time payment infrastructures globally could over time disintermediate card networks for certain payment types."
+        },
+        {
+          "rank": 3,
+          "risk": "Cybersecurity and fraud: A major data breach or systemic fraud event affecting the Visa network would be highly damaging to brand trust and could trigger regulatory penalties and card replacement costs."
+        },
+        {
+          "rank": 4,
+          "risk": "Valuation: At 28.57x P/E, Visa is not cheap. The market is pricing in continued execution on the global payments secular growth thesis; any misstep would cause multiple compression."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Long-term holders of exceptional quality businesses. Those who want global consumer discretionary/Tech exposure with a defensive revenue model and consistent compounding. The premium is justified for a business with this moat."
+    },
+    "recommendation": {
+      "text": "HOLD. Visa is an exceptional business with one of the strongest economic moats in global finance. The 28.57x P/E is not cheap but is justifiable for the quality and the long-term secular growth in global electronic payments. Entry framework: BUY below $280 (approximately 25x base-case EPS - a more attractive entry for a long-term compounder). Reduce above $365 (32x+ P/E on a premium-quality business with regulatory and competitive risks)."
+    },
+    "entryExit": {
+      "text": "BUY below $280 (approximately 25x base-case EPS - a more attractive entry for a long-term compounder). Reduce above $365 (32x+ P/E on a premium-quality business with regulatory and competitive risks). | Entry framework: BUY below $280 (approximately 25x base-case EPS - a more attractive entry for a long-term compounder). | Reduce above $365 (32x+ P/E on a premium-quality business with regulatory and competitive risks)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

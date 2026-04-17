@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ticker": "CRM",
+    "company": "Salesforce Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 164.96,
+    "marketCap": 152300000000.0,
+    "marketCapFormatted": "$152.30B",
+    "trailingPE": 21.15,
+    "trailingEps": 7.8,
+    "fiftyTwoWeekHigh": 296.05,
+    "fiftyTwoWeekLow": 163.52,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Salesforce remains the dominant cloud CRM platform with strong recurring revenue and AI-driven upsell potential, but the shares at 21.15x P/E are not obviously cheap relative to a slowing new logo growth rate - HOLD."
+    },
+    "businessModel": {
+      "text": "Salesforce is the global leader in customer relationship management software, delivered primarily as a cloud-based subscription service. Its platform includes Sales Cloud (CRM, pipeline management), Service Cloud (customer support), Marketing Cloud (digital marketing automation), Commerce Cloud (e-commerce) and the Slack collaboration platform acquired in 2021. Salesforce's MuleSoft integration layer enables enterprise data connectivity. Revenue is generated from subscription licences, support services and professional services. The company has migrated substantially to platform and data cloud revenue (Tableau, Genie Customer Data Platform) with AI features embedded across the stack."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$164.96"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$152.3 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "21.15x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$7.8"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$296.05"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$163.52"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Salesforce pivoted decisively to profitability and free cash flow in 2023-2024, with its 'Trust' restructuring delivering operating margin expansion ahead of targets. The Einstein AI platform has been rebranded and integrated into Service Cloud and Sales Cloud as 'Agentforce', positioning Salesforce in the autonomous AI agent market. Slack's integration has deepened, adding workflow automation capabilities. Current FY guidance implies mid-teens revenue growth with continued margin expansion."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (78): Agentforce adoption drives significant upsell within the installed base. New logo growth re-accelerates in FY2026 as enterprise spending recovers. MuleSoft and Tableau drive meaningful platform revenue. Margin expands to 35%+. EPS reaches $11.00+. Price: $230+. Base Case (65): Agentforce is additive but not transformative; growth remains driven by the installed base upsell. New logo growth is mid-single-digit. Margin expansion continues modestly. EPS grows to $8.50-$9.50. Price: $165-$195. Bear Case (45): Enterprise software spending slowdown deepens. Agentforce fails to drive meaningful upsell and competitive pressure from Microsoft Dynamics and HubSpot intensifies. Slack monetisation stalls. Margin contracts. EPS falls to $7.00-$7.50. Price: below $140. Weighted Score: 65 - Bull 78 × 30% + Base 65 × 50% + Bear 45 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "New logo growth deceleration: Salesforce's growth has increasingly relied on upsell within the installed base as new logo growth has slowed. This is natural for a company of Salesforce's scale, but it limits the growth rate. AI competition: Microsoft (Copilot, Dynamics 365), HubSpot and emerging AI-native CRM entrants are competing for the same enterprise budget. Salesforce's Agentforce proposition needs to demonstrate clear ROI to avoid share loss. Margin sustainability: The Trust initiative has driven impressive margin improvement. Maintaining 30%+ operating margins as growth investment continues requires careful balance. Valuation: At 21.15x P/E on trailing EPS of $7.80, the market is pricing in an optimistic path to earnings growth that may require consistent outperformance to sustain.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "New logo growth deceleration: Salesforce's growth has increasingly relied on upsell within the installed base as new logo growth has slowed. This is natural for a company of Salesforce's scale, but it limits the growth rate."
+        },
+        {
+          "rank": 2,
+          "risk": "AI competition: Microsoft (Copilot, Dynamics 365), HubSpot and emerging AI-native CRM entrants are competing for the same enterprise budget. Salesforce's Agentforce proposition needs to demonstrate clear ROI to avoid share loss."
+        },
+        {
+          "rank": 3,
+          "risk": "Margin sustainability: The Trust initiative has driven impressive margin improvement. Maintaining 30%+ operating margins as growth investment continues requires careful balance."
+        },
+        {
+          "rank": 4,
+          "risk": "Valuation: At 21.15x P/E on trailing EPS of $7.80, the market is pricing in an optimistic path to earnings growth that may require consistent outperformance to sustain."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Enterprise software investors who want the dominant CRM platform with AI optionality and a path to continued margin expansion. Long-term holders of a high-quality SaaS franchise."
+    },
+    "recommendation": {
+      "text": "HOLD. Salesforce is the category-defining CRM business with genuine AI optionality and improving cash generation. The shares are fairly valued rather than compellingly cheap at current levels. Entry framework: BUY below $155 (approximately 18-20x base-case EPS - provides a more compelling risk-reward). Reduce above $230 (30x+ P/E prices in an AI transformation that requires flawless execution)."
+    },
+    "entryExit": {
+      "text": "BUY below $155 (approximately 18-20x base-case EPS - provides a more compelling risk-reward). Reduce above $230 (30x+ P/E prices in an AI transformation that requires flawless execution). | Entry framework: BUY below $155 (approximately 18-20x base-case EPS - provides a more compelling risk-reward). | Reduce above $230 (30x+ P/E prices in an AI transformation that requires flawless execution)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

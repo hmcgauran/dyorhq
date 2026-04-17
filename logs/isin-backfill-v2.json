@@ -1,0 +1,84 @@
+{
+  "generatedAt": "2026-04-17T11:05:43.805Z",
+  "total": 319,
+  "alreadyHadIsin": 304,
+  "backfilled": 0,
+  "stillGap": [
+    {
+      "ticker": "GOOGL",
+      "bare": "GOOGL",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "AVCT.L  LN",
+      "bare": "AVCT.L  LN",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "GGP.L  LN",
+      "bare": "GGP.L  LN",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "KYGA.L / KRZ",
+      "bare": "KYGA.L / KRZ",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "KBGGY  NO",
+      "bare": "KBGGY  NO",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "MDB  US",
+      "bare": "MDB  US",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "N/A",
+      "bare": "N/A",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "PL  US",
+      "bare": "PL  US",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "ALRIB",
+      "bare": "ALRIB",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "SHOP  US",
+      "bare": "SHOP  US",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "SIVE.ST",
+      "bare": "SIVE.ST",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "TBN",
+      "bare": "TBN",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "TDY  US",
+      "bare": "TDY  US",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "XPEV  US",
+      "bare": "XPEV  US",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "EOS",
+      "bare": "EOS",
+      "reason": "sheet isin empty",
+      "sheetIsin": "(empty)"
+    }
+  ]
+}

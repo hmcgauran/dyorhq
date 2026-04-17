@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "ticker": "TJX",
+    "company": "TJX Companies Inc (TJX)",
+    "exchange": "",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "TJX is a high-quality off-price retail business with durable competitive advantages in buyer sourcing and inventory management, trading near the top of its historical valuation range and facing a moderately uncertain consumer backdrop, leaving it fairly valued at current levels and warranting a HOLD."
+    },
+    "businessModel": {
+      "text": "TJX is the world's largest off-price retailer, operating over 4,700 stores across four primary brands. Its competitive model is built on buying excess inventory from brand-name manufacturers at a significant discount and passing those savings on to consumers. Key business drivers: Marmaxx (T.J. Maxx, Marshalls, HomeGoods) ~65% of revenue; US off-price apparel and home goods HomeSense / Homesense Canada ~10% of revenue; broader home formats TJX Europe (TK Maxx, Homesense UK) ~18% of revenue; international expansion TJX Canada (Winners, HomeSense, Marshalls) ~7% of revenue TJX's buyer organisation is its core asset: hundreds of expert buyers who source brand-name goods at 20-60% below department store prices. The \"treasure hunt\" in-store experience drives customer visit frequency. TJX does not own manufacturing -- all inventory is purchased from third-party brands seeking to clear excess stock."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$161.60"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$178.9bn"
+        },
+        {
+          "label": "P/E Ratio",
+          "value": "33.18x"
+        },
+        {
+          "label": "Earnings Per Share (TTM)",
+          "value": "$4.87"
+        },
+        {
+          "label": "Price / Book",
+          "value": "~15x (elevated)"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$165.82"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$119.84"
+        },
+        {
+          "label": "Distance from 52w High",
+          "value": "-2.5%"
+        },
+        {
+          "label": "Average Volume",
+          "value": "3.56m"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Q4 FY2025 Earnings Beat: TJX reported better-than-expected Q4 results with comp store sales growth of approximately 4%, driven by strong traffic and average transaction size increases, particularly in Marmaxx. Consumer Resilience in Off-Price: Middle-income consumers have shifted spending toward value formats, benefiting TJX. The off-price model continues to gain share from full-price department stores as shoppers prioritise bargains. New A.I. Inventory Management: TJX rolled out enhanced demand forecasting tools across Marmaxx, reducing markdowns and improving stock turn; early read suggests ~30-40 basis points of margin benefit. Tariff Uncertainty: Proposed tariff escalation on Chinese consumer goods has raised input cost concerns across retail; TJX's flexible sourcing model provides some insulation versus full-price competitors, but risk remains."
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Score Probability Commentary Bull 78 30% Off-price share gains accelerate; comps grow 4-5% annually; European and Canadian expansion drives unit growth; TJX reaches $8+ EPS; re-rates to 36-38x, reaching $260+. Base 70 50% Moderate consumer spending slowdown offset by value migration; comps grow 2-3%; EPS reaches $5.50-6.00; shares drift higher with earnings, reaching $175-185 in 12 months. Bear 55 20% Recession triggers sharp consumer spending reduction; excess inventory available for TJX to buy shrinks; margin compression from tariff costs; EPS falls to $3.50-4.00; shares test $115-125. Conviction Score: 78x0.30 + 70x0.50 + 55x0.20 = 69.4 Conviction falls at the top of the HOLD range. High quality is offset by elevated valuation and consumer cycle risk.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "# Risk Description 1 Consumer spending deterioration TJX's customers are predominantly middle-income; an economic downturn disproportionately impacts spending at off-price formats despite the value positioning. 2 Inventory supply constraints TJX's model depends on a robust flow of excess brand-name inventory. If major retailers and brands better manage inventory, available deals for TJX buyers decline, pressuring sales and margins. 3 Tariff and trade policy Tariffs on Chinese goods affect TJX's sourcing costs; TJX's flexible global buying network can redirect sourcing but at a cost and with a time lag. 4 Valuation stretch At 33x earnings, TJX prices in a high degree of execution success. Even a slight earnings miss could trigger meaningful multiple compression given the consumer cyclicality. 5 International execution European TJX operations (TK Maxx) have underperformed US divisions; further weakness there could drag on overall group results.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Consumer spending deterioration - TJX's customers are predominantly middle-income; an economic downturn disproportionately impacts spending at off-price formats despite the value positioning."
+        },
+        {
+          "rank": 2,
+          "risk": "Inventory supply constraints - TJX's model depends on a robust flow of excess brand-name inventory. If major retailers and brands better manage inventory, available deals for TJX buyers decline, pressuring sales and margins."
+        },
+        {
+          "rank": 3,
+          "risk": "Tariff and trade policy - Tariffs on Chinese goods affect TJX's sourcing costs; TJX's flexible global buying network can redirect sourcing but at a cost and with a time lag."
+        },
+        {
+          "rank": 4,
+          "risk": "Valuation stretch - At 33x earnings, TJX prices in a high degree of execution success. Even a slight earnings miss could trigger meaningful multiple compression given the consumer cyclicality."
+        },
+        {
+          "rank": 5,
+          "risk": "International execution - European TJX operations (TK Maxx) have underperformed US divisions; further weakness there could drag on overall group results."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own:\n• Quality-focused investors seeking defensive retail exposure with strong free cash flow generation\n• Long-term compounders who can tolerate near-term valuation risk for the brand equity and sourcing moat\n• Those looking for consumer discretionary exposure with less earnings cyclicality than most peers\n\nAvoid:\n• Value investors seeking deep-undervalue consumer names; TJX is priced for quality, not cheapness\n• Those concerned about near-term consumer recession and unwilling to accept downside to $115-120\n• Investors who need high near-term yield; TJX does not pay a dividend"
+    },
+    "recommendation": {
+      "text": "Rating: HOLD TJX is one of the highest-quality retail businesses in the world, with a sourcing moat, proven management team, and strong brand franchise. However, shares trade within 2.5% of their 52-week high at 33x earnings, which leaves little room for error. A meaningful decline to $140-145 would create a more attractive risk/reward for new orpositive momentum positions. Framework Detail Entry point $161.60 (current); prefer to wait for a pullback to $140-145 for improved entry Target price (12 months) $178-$188 based on 32-33x base case EPS of $5.50-$5.75 Stop-loss $117 (below the 52-week low; would signal material consumer deterioration) Position sizing High-quality consumer discretionary holding; 1-1.5% portfolio weight appropriate Key trigger to upgrade Comp store sales acceleration above 4%, confirmation that inventory supply remains robust, or meaningful tariff resolution reducing cost uncertainty"
+    },
+    "entryExit": {
+      "text": "Entry point: $161.60 (current); prefer to wait for a pullback to $140-145 for improved entry | Target price (12 months): $178-$188 based on 32-33x base case EPS of $5.50-$5.75 | Stop-loss: $117 (below the 52-week low; would signal material consumer deterioration)"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 70,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 70,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

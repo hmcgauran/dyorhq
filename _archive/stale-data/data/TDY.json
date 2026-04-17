@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "TDY · US",
+    "company": "Teledyne Technologies Inc",
+    "exchange": "US",
+    "isin": "US8793601050",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 64,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Teledyne is a diversified industrial technology conglomerate operating across four segments: Defence Electronics (aerospace and defence electronics), Imaging (sensors, cameras, and image processing), Instrumentation (environmental monitoring, test and measurement), and Aerospace (engine components and subsystems). At $660.31, the stock is near all-time highs - within 5% of the 52-week high - reflecting strong demand from defence and space customers, a well-executed acquisition strategy, and the "
+    },
+    "businessModel": {
+      "text": "Teledyne's competitive position rests on deep technical expertise in sensing, imaging, and electronics that is difficult to replicate. Defence Electronics supplies electronic warfare systems, RF and microwave components, and communications systems to the US Department of Defence and international customers. Imaging provides sensors and cameras used in space, aerial surveillance, industrial inspection, and medical imaging. Instrumentation serves environmental monitoring and precision measurement markets. Aerospace provides turbine engine components to commercial and defence aircraft OEMs. The company's M&amp;A track record is notable: Teledyne has been disciplined about acquiring businesses at reasonable multiples and then driving operational synergies. The acquisition of e2v (imaging sensors), DALSA (imaging), and FLIR (thermal imaging, $8bn deal in 2021) are the most significant. FLIR in particular gave Teledyne a consumer and defence-grade thermal imaging platform that is now being integrated into AI analytics products."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $660.31 - up 4.0% today, near 52-week high 52-week range: $419.00 - $693.38 (currently ~95th percentile) Market cap: $29.4bn P/E: 32.8× (reasonable for a quality defence tech name) EPS: $18.88 TTM Beta: 1.00 (market-beta - unusually low for a high-growth tech-adjacent stock) The 1.0 beta is notable - this stock moves with the market rather than amplifying it, which is unusual for a company with Teledyne's growth profile. The 32.8× P/E is fair, not stretched, for a business of this quality with visible AI-driven demand tailwinds.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "FLIR integration and cross-selling: The $8bn FLIR acquisition is still relatively early in its integration. Any announcement of significant new contracts arising from the FLIR dealer network or FLIR's government relationships would be a positive catalyst. AI and autonomous systems demand: Teledyne's imaging and sensor technology is increasingly embedded in autonomous vehicles, drones, and industrial AI inspection systems. The secular growth of these markets directly benefits Teledyne's addressable market. Defence budget strength: The geopolitical environment (Ukraine, Indo-Pacific tensions) has driven sustained increases in US and allied defence spending. As a critical electronics supplier to the US DoD, Teledyne is a beneficiary of this structural spending increase. Space economy growth: Teledyne provides sensors and imaging systems for Earth observation, communications, and scientific satellites. The commercial space economy expansion is a direct tailwind.",
+      "items": [
+        "FLIR integration and cross-selling: The $8bn FLIR acquisition is still relatively early in its integration. Any announcement of significant new contracts arising from the FLIR dealer network or FLIR's government relationships would be a positive catalyst.",
+        "AI and autonomous systems demand: Teledyne's imaging and sensor technology is increasingly embedded in autonomous vehicles, drones, and industrial AI inspection systems. The secular growth of these markets directly benefits Teledyne's addressable market.",
+        "Defence budget strength: The geopolitical environment (Ukraine, Indo-Pacific tensions) has driven sustained increases in US and allied defence spending. As a critical electronics supplier to the US DoD, Teledyne is a beneficiary of this structural spending increase.",
+        "Space economy growth: Teledyne provides sensors and imaging systems for Earth observation, communications, and scientific satellites. The commercial space economy expansion is a direct tailwind."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Probability Price Target Key Drivers Bull 25% $750+ FLIR synergies accelerate beyond guidance; new autonomous systems contracts; AI imaging demand takes off; defence budget grows above expectations; space contracts accelerate Base 55% $640-720 Steady mid-teens revenue growth; defence electronics demand stays elevated; FLIR integration on track; sensor demand from industrial AI grows steadily Bear 20% $520-600 Defence budget cuts; FLIR integration disappoints; competitive pressure in imaging; economic slowdown reduces industrial capital expenditure Weighted price target: 25% × 750 + 55% × 680 + 20% × 560 = $668 . Slight upside from $660. Conviction: 64/100 . HOLD.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Defence budget cycle: Defence spending is politically sensitive and multi-year. Any pivot away from US defence modernisation - whether from political change or fiscal pressure - would directly impact Teledyne's largest segment. 2 FLIR integration execution: The $8bn FLIR acquisition is Teledyne's largest and most complex integration. Failure to realise cross-selling synergies or any margin deterioration from the FLIR business would be a significant negative. 3 Valuation at highs: Near the 52-week high with limited recent pullback means the market is pricing in continued execution. Any miss on FLIR synergies or forward guidance would cause an outsized reaction.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1 Defence budget cycle: Defence spending is politically sensitive and multi-year. Any pivot away from US defence modernisation - whether from political change or fiscal pressure - would directly impact Teledyne's largest segment."
+        },
+        {
+          "rank": 2,
+          "risk": "2 FLIR integration execution: The $8bn FLIR acquisition is Teledyne's largest and most complex integration. Failure to realise cross-selling synergies or any margin deterioration from the FLIR business would be a significant negative."
+        },
+        {
+          "rank": 3,
+          "risk": "3 Valuation at highs: Near the 52-week high with limited recent pullback means the market is pricing in continued execution. Any miss on FLIR synergies or forward guidance would cause an outsized reaction."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Quality-oriented investors who want exposure to the defence electronics and AI imaging themes without the binary risk of a pure-play defence contractor. Those who appreciate the M&amp;A value creation track record and trust management's capital allocation. Should avoid: Investors looking for value or a near-term trigger. Anyone with strong views that defence budgets will be cut. Those who prefer higher-beta growth names."
+    },
+    "recommendation": {
+      "text": "HOLD at $660.31. Quality defence technology business with genuine AI tailwinds and a credible M&amp;A track record. Near 52-week highs - not the time to add materially. $600-615 would be a better entry zone for new capital."
+    },
+    "entryExit": {
+      "text": "Below $600 - accumulate. $600-$680 - hold. Above $720 - trim. Key triggers: FLIR synergy milestones, new autonomous systems or defence contracts, defence budget developments. Conviction Trend Latest conviction: 64/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 64"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 64,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 64,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

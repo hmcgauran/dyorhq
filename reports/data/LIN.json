@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "ticker": "LIN",
+    "company": "Linde PLC",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 61,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 503.15,
+    "marketCap": 233200000000,
+    "marketCapFormatted": "$233.20B",
+    "trailingPE": 34.46,
+    "trailingEps": 14.6,
+    "fiftyTwoWeekHigh": 510.65,
+    "fiftyTwoWeekLow": 387.78,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Linde PLC (LIN) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is HOLD with conviction 61/100, using $503.15 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Linde PLC is a global industrial-gases franchise, where contract quality, pricing, project backlog and disciplined capital allocation drive the long-term compounding case. The repaired note removes the prior mix-up with another industrial name."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$503.15"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$233.2 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "34.46x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$14.60"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$510.65"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$387.78"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Large project wins, base pricing, on-site volume trends and healthcare or electronics demand remain the main operating levers."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present hold stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Industrial production weakness can affect merchant volumes. Large-project timing can move earnings by period. Valuation can compress if growth slows. Energy costs and pass-through timing matter. Execution on major capital projects remains important.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Industrial production weakness can affect merchant volumes."
+        },
+        {
+          "rank": 2,
+          "risk": "Large-project timing can move earnings by period."
+        },
+        {
+          "rank": 3,
+          "risk": "Valuation can compress if growth slows."
+        },
+        {
+          "rank": 4,
+          "risk": "Energy costs and pass-through timing matter."
+        },
+        {
+          "rank": 5,
+          "risk": "Execution on major capital projects remains important."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors seeking high-quality industrial compounding with pricing power. Avoid: Investors who need a low-multiple entry point or rapid cyclical upside."
+    },
+    "recommendation": {
+      "text": "HOLD - Conviction: 61/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a hold stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 61,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 61,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

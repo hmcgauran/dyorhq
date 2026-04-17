@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ticker": "MKA.L · LN",
+    "company": "Mkango Resources Ltd",
+    "exchange": "LN",
+    "isin": "CA60686A4090",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD - SPECULATIVE",
+    "recommendationNote": "HOLD - SPECULATIVE",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Mkango is a Canadian-listed rare earths and recycling company with two core assets: the Songwe Hill rare earths project in Malawi and the Akokoma magnet recycling joint venture in Poland. The investment thesis rests on the secular demand growth for permanent magnets used in EV motors and wind turbines, combined with Mkango's position as one of the few potential near-term producers of separated magnet rare earth oxides outside China. At 35.0p, the stock has recovered from lows but is priced as a "
+    },
+    "businessModel": {
+      "text": "Mkango operates across two platforms: (1) the Songwe Hill rare earths project in Malawi - a carbonatite deposit with high-grade rare earth mineralisation amenable to open-pit mining, currently in Bankable Feasibility Study stage; and (2) the Akokoma joint venture in Poland, focused on hydrometallurgical processing ofNdFeB (neodymium-iron-boron) magnet scrap into separated rare earth oxides for the European EV and wind turbine supply chains. The strategic logic is compelling: Songwe provides the rare earth feedstock, Akokoma provides the downstream processing capability, and together they create a non-China rare earths supply chain for European strategic materials buyers. EU critical raw materials policy and UK critical minerals strategies are explicitly designed to support exactly this type of asset. The question is whether Mkango can access the capital to develop them on schedule."
+    },
+    "financialSnapshot": {
+      "text": "Live price: 35.0p 52-week range: 33.0p - 36.0p (current: near the top of a compressed recent range) P/E: N/A - development stage EPS: N/A - no operating revenue Cash position: modest; development funding requirement is the central financial challenge The tight recent range (33-36p) suggests the market is waiting for a catalyst - project financing news, offtake agreements, or strategic partnership announcements - rather than actively pricing in a near-term development trigger. The stock has been range-bound since the rare earths bear market trough of 2023.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Akokoma magnet recycling JV: The Poland-based rare earth magnet recycling joint venture is the more near-term commercial opportunity. Akokoma processes end-of-life magnets and magnet production scrap into separated NdPr oxide - the key inputs for EV motor magnets. The EU's critical raw materials act creates demand for exactly this type of European processing capacity. Bankable Feasibility Study for Songwe: The BFS is the key technical de-risking document that would support project financing. Completion and publication of a positive BFS is a major catalyst. Rare earths market recovery: The NdPr oxide price cycle that crashed in 2022-2023 has partially recovered. Sustained higher prices make Songwe's development economics more attractive and reduce financing risk. Strategic customer and offtake agreements: Any announcement of a binding offtake or strategic investment from a European automaker, wind turbine OEM, or specialty materials group would be a major re-rating event. UK and EU critical materials policy: Both the UK's Critical Minerals Strategy and the EU's Critical Raw Materials Act create policy tailwinds for non-China rare earth supply chains. Mkango's geographic positioning (Malawi mine, Polish recycling) fits both frameworks.",
+      "items": [
+        "Akokoma magnet recycling JV: The Poland-based rare earth magnet recycling joint venture is the more near-term commercial opportunity. Akokoma processes end-of-life magnets and magnet production scrap into separated NdPr oxide - the key inputs for EV motor magnets. The EU's critical raw materials act creates demand for exactly this type of European processing capacity.",
+        "Bankable Feasibility Study for Songwe: The BFS is the key technical de-risking document that would support project financing. Completion and publication of a positive BFS is a major catalyst.",
+        "Rare earths market recovery: The NdPr oxide price cycle that crashed in 2022-2023 has partially recovered. Sustained higher prices make Songwe's development economics more attractive and reduce financing risk.",
+        "Strategic customer and offtake agreements: Any announcement of a binding offtake or strategic investment from a European automaker, wind turbine OEM, or specialty materials group would be a major re-rating event.",
+        "UK and EU critical materials policy: Both the UK's Critical Minerals Strategy and the EU's Critical Raw Materials Act create policy tailwinds for non-China rare earth supply chains. Mkango's geographic positioning (Malawi mine, Polish recycling) fits both frameworks."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Probability Price Target Key Drivers Bull 30% 55p+ BFS completed positively; strategic investor or offtake partner announced; Songwe moves toward construction; Akokoma scales to commercial volumes Base 45% 30-42p Progress on BFS and Akokoma JV; no major catalyst; rare earth prices range-bound; equity stays in wait-and-see mode Bear 25% 18-25p Rare earth prices fall back; BFS finds worse economics; financing cannot be secured; severe equity dilution required at low prices Weighted price target: 30% × 55 + 45% × 36 + 25% × 21.5 = 38.9p . Current price of 35p is below the base-case fair value, which gives a slight positive tilt. Adjusted conviction: 65/100 - SPECULATIVE HOLD with genuine rare earths upside.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Project financing risk: The central risk is whether Mkango can access the capital required to develop Songwe at attractive terms. A large equity raise at a discount would be significantly dilutive. Watch the BFS results carefully for capital cost estimates. 2 Rare earths commodity price sensitivity: NdPr oxide prices collapsed from $150/kg to $50/kg between 2022 and 2023, recovering partially since. Songwe's NPV is highly sensitive to long-term rare earths pricing assumptions. 3 Dilution risk: Development-stage mining companies routinely require multiple equity raises. Each raise at a discount to the current price is directly dilutive to existing shareholders. 4 Malawi country risk: Songwe is located in Malawi, which carries standard sovereign risk for a frontier market mining jurisdiction. Regulatory changes, tax disputes, or political instability are all possible.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1 Project financing risk: The central risk is whether Mkango can access the capital required to develop Songwe at attractive terms. A large equity raise at a discount would be significantly dilutive. Watch the BFS results carefully for capital cost estimates."
+        },
+        {
+          "rank": 2,
+          "risk": "2 Rare earths commodity price sensitivity: NdPr oxide prices collapsed from $150/kg to $50/kg between 2022 and 2023, recovering partially since. Songwe's NPV is highly sensitive to long-term rare earths pricing assumptions."
+        },
+        {
+          "rank": 3,
+          "risk": "3 Dilution risk: Development-stage mining companies routinely require multiple equity raises. Each raise at a discount to the current price is directly dilutive to existing shareholders."
+        },
+        {
+          "rank": 4,
+          "risk": "4 Malawi country risk: Songwe is located in Malawi, which carries standard sovereign risk for a frontier market mining jurisdiction. Regulatory changes, tax disputes, or political instability are all possible."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Speculative investors who want direct rare earths and strategic materials exposure with a clear non-China supply chain narrative. Those who understand development-stage mining equity sizing (maximum 1-2% of a speculative portfolio). Investors who believe the energy transition secular theme will drive sustained demand for magnet rare earths. Should avoid: Anyone who cannot tolerate binary project financing events, severe dilution risk, or frontier-market sovereign risk. Investors who want operating cash flow visibility. Anyone who bought Mkango as a pure thematic proxy without understanding the underlying project economics."
+    },
+    "recommendation": {
+      "text": "HOLD - SPECULATIVE at 35.0p. The rare earths strategic materials theme is genuine and the assets are legitimate. The risk/reward is reasonable for a speculative mining position, but only if sized correctly. Monitor BFS progress and any strategic financing announcements closely."
+    },
+    "entryExit": {
+      "text": "Below 28p - more attractive speculative entry. 28p-38p - hold zone, accumulate on weakness. Above 42p without a development catalyst - trim. Key triggers: BFS completion, strategic offtake announcement, equity financing details. Conviction Trend Latest conviction: 65/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 65"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "ticker": "ORCL",
+    "company": "ORCL",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 58,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Cloud Services & Licensing (Oracle Cloud infrastructure and database, ~45%), licence support and updates (annuity, ~30%), and Hardware/Services (integrated systems, consulting, ~25%)."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Oracle Cloud Infrastructure (OCI) for AI: 3 new hyperscaler interconnect regions Q1 2025 Cerner integration (acquired 2022): $800M synergy run-rate achieved, 15% cross-sell rate Oracle Database 23ai launched 2024 - vector-native capability for enterprise AI Microsoft Azure Oracle Interconnect: multi-cloud adoption expanding enterprise customer base",
+      "items": [
+        "Oracle Cloud Infrastructure (OCI) for AI: 3 new hyperscaler interconnect regions Q1 2025",
+        "Cerner integration (acquired 2022): $800M synergy run-rate achieved, 15% cross-sell rate",
+        "Oracle Database 23ai launched 2024 - vector-native capability for enterprise AI",
+        "Microsoft Azure Oracle Interconnect: multi-cloud adoption expanding enterprise customer base"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "70 Bull 58 Base 42 Bear 58 Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1. Revenue growth 8% (FY24) lags hyperscalers AWS/Azure/GCP - competitive positioning risk 2. Autonomous Database and OCI still 3. Cerner integration complexity: government health data migration projects running over budget 4. Acquisition of Sun Microsystems (2010) and Cerner debt still on balance sheet; leverage elevated 5. Oracle's governance structure: Larry Ellison's control through dual-class shares creates agency risk",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. Revenue growth 8% (FY24) lags hyperscalers AWS/Azure/GCP - competitive positioning risk"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Autonomous Database and OCI still <20% of total revenue - transition incomplete"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Cerner integration complexity: government health data migration projects running over budget"
+        },
+        {
+          "rank": 4,
+          "risk": "4. Acquisition of Sun Microsystems (2010) and Cerner debt still on balance sheet; leverage elevated"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Oracle's governance structure: Larry Ellison's control through dual-class shares creates agency risk"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Cloud-transition value play: existing database customers migrating to OCI provide long-term annuity base. NOT suitable for growth investors preferring pure hyperscaler exposure."
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Build at $125-$136 (10-15% below 52-week high). HOLD $136-$155. REDUCE above $155. Key driver: OCI revenue as % of total - target 30%+ by FY27. | BUY: Build at $125-$136 (10-15% below 52-week high). | REDUCE above $155."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 58,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 58,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

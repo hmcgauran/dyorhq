@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2026-04-17T09:14:52.920Z",
+  "lookups": [
+    {
+      "ticker": "GOOGL",
+      "figiTicker": "GOOGL",
+      "exchange": "US",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "AVCT.L",
+      "figiTicker": "AVCT",
+      "exchange": "GB",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "GGP.L",
+      "figiTicker": "GGP",
+      "exchange": "GB",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "KYGA.L",
+      "figiTicker": "KYGA",
+      "exchange": "GB",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "KBGGY",
+      "figiTicker": "KBGGY",
+      "exchange": "NO",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "MDB",
+      "figiTicker": "MDB",
+      "exchange": "US",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "PL",
+      "figiTicker": "PL",
+      "exchange": "US",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "ALRIB",
+      "figiTicker": "ALRIB",
+      "exchange": "FP",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "SHOP",
+      "figiTicker": "SHOP",
+      "exchange": "US",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "SIVE.ST",
+      "figiTicker": "SIVE",
+      "exchange": "SS",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "TBN",
+      "figiTicker": "TBN",
+      "exchange": "AU",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "TDY",
+      "figiTicker": "TDY",
+      "exchange": "US",
+      "isin": null,
+      "status": "not_found"
+    },
+    {
+      "ticker": "XPEV",
+      "figiTicker": "XPEV",
+      "exchange": "US",
+      "isin": null,
+      "status": "not_found"
+    }
+  ],
+  "resolved": 0,
+  "unresolved": [
+    "GOOGL",
+    "AVCT.L",
+    "GGP.L",
+    "KYGA.L",
+    "KBGGY",
+    "MDB",
+    "PL",
+    "ALRIB",
+    "SHOP",
+    "SIVE.ST",
+    "TBN",
+    "TDY",
+    "XPEV"
+  ]
+}

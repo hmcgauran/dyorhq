@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "ticker": "MDB · US",
+    "company": "MongoDB Inc",
+    "exchange": "US",
+    "isin": "US6081901042",
+    "date": "8 Apr 2026",
+    "datePublished": "2026-04-08",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 62,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "MongoDB is one of the most developer-trusted database platforms in the world, built on an open-source model that has successfully transitioned into a cloud-first subscription business. Atlas, its fully managed database-as-a-service product, is the primary growth engine and has become the dominant revenue driver. At $249.38 the stock is down from 52-week highs but still commands a premium multiple reflecting the quality of the franchise. The case is strong on product-market fit and developer ecos"
+    },
+    "businessModel": {
+      "text": "MongoDB's core product is a document database that stores data in flexible, JSON-like formats - making it particularly popular with developers building modern web, mobile, and cloud-native applications. The Community Server version is open-source; the Enterprise Server version and Atlas cloud service are commercial products. Atlas, the cloud-managed service, is where the financial model becomes compelling. It represented approximately 65% of total revenue as of FY2026 and is growing at rates materially faster than the overall business. The key metric is Atlas revenue growth rate and the percentage of Atlas customers converting to Atlas-based workloads from on-premise MongoDB deployments. The competitive moat is developer adoption - once a development team builds on MongoDB, migration costs and institutional knowledge make switching databases expensive and rare. This creates a durable installed base and pricing power in renewals."
+    },
+    "financialSnapshot": {
+      "text": "Live price: $249.38 52-week range: $144.20 - $266.49 (current: ~92nd percentile) Market cap: $20.4bn P/E: N/A (loss-making at operating level) EPS (TTM): -$0.88 Beta: 1.58 Atlas revenue growth: the core metric - running at approximately 30%+ annually, but decelerating from prior 50%+ rates At $249.38 the stock is at roughly 92% of its 52-week high, which leaves little room for disappointment on Atlas growth rates. The path to profitability is real but the stock requires continued execution to justify the multiple.",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Atlas AI integration: MongoDB has been adding AI and vector search capabilities to Atlas, positioning it as a data store for AI-powered applications. This is the primary near-term growth catalyst as enterprise AI adoption accelerates. Atlas consumption growth: The shift from seat-based licensing to consumption-based Atlas pricing is a structural positive - it aligns revenue with actual usage and removes seat caps that limit expansion. Enterprise demand: MongoDB's shift upmarket into Fortune 500 and government has been a meaningful growth driver. Atlas Enterprise is gaining credibility as a credible alternative to Oracle and IBM for modern application stacks. Database competition: PostgreSQL-based managed services (Supabase, Neon, AWS RDS Postgres) are growing rapidly and competing for the same workload. MongoDB's document model advantage is real but not insurmountable.",
+      "items": [
+        "Atlas AI integration: MongoDB has been adding AI and vector search capabilities to Atlas, positioning it as a data store for AI-powered applications. This is the primary near-term growth catalyst as enterprise AI adoption accelerates.",
+        "Atlas consumption growth: The shift from seat-based licensing to consumption-based Atlas pricing is a structural positive - it aligns revenue with actual usage and removes seat caps that limit expansion.",
+        "Enterprise demand: MongoDB's shift upmarket into Fortune 500 and government has been a meaningful growth driver. Atlas Enterprise is gaining credibility as a credible alternative to Oracle and IBM for modern application stacks.",
+        "Database competition: PostgreSQL-based managed services (Supabase, Neon, AWS RDS Postgres) are growing rapidly and competing for the same workload. MongoDB's document model advantage is real but not insurmountable."
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "Scenario Probability Price Target Key Drivers Bull 25% $300+ Atlas AI workloads accelerate; enterprise wins accelerate; consumption model drives revenue growth re-acceleration to 35%+ Base 55% $230-270 Atlas grows steadily 25-30%; competition from Postgres and Snowflake limits pricing power; stock stays range-bound Bear 20% $165-195 Atlas growth decelerates below 20%; Postgres/vector databases take share; operating leverage disappoints; multiple compression Weighted price target: 25% × 300 + 55% × 250 + 20% × 180 = $251 . Current price $249.38 is approximately at fair value - slight premium to base case. Adjusted conviction: 62/100 . HOLD.",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1 Atlas growth deceleration: The stock lives or dies on Atlas growth rates. If growth decelerates below 20%, the premium multiple collapses. Snowflake and PostgreSQL-based managed services are the primary competitive threats to Atlas growth. 2 Operating leverage disappoints: MongoDB has been investing heavily in sales capacity and R&D. If that investment does not convert into margin improvement, the path to meaningful profitability is longer than the market expects. 3 Open-source fork risk: Amazon Web Services and other hyperscalers can offer MongoDB-compatible managed services without contributing meaningfully to the open-source ecosystem. This has historically pressured MongoDB's pricing power.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1 Atlas growth deceleration: The stock lives or dies on Atlas growth rates. If growth decelerates below 20%, the premium multiple collapses. Snowflake and PostgreSQL-based managed services are the primary competitive threats to Atlas growth."
+        },
+        {
+          "rank": 2,
+          "risk": "2 Operating leverage disappoints: MongoDB has been investing heavily in sales capacity and R&D. If that investment does not convert into margin improvement, the path to meaningful profitability is longer than the market expects."
+        },
+        {
+          "rank": 3,
+          "risk": "3 Open-source fork risk: Amazon Web Services and other hyperscalers can offer MongoDB-compatible managed services without contributing meaningfully to the open-source ecosystem. This has historically pressured MongoDB's pricing power."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Should own: Investors who want high-quality software exposure with developer ecosystem lock-in and Atlas cloud optionality. Those who believe AI-powered applications will drive sustained MongoDB workload growth. Should avoid: Value investors - the stock is not cheap and has negative earnings. Anyone expecting a quick re-rating catalyst - this is an execution story, not a near-term binary event."
+    },
+    "recommendation": {
+      "text": "HOLD at $249.38. High-quality software business with genuine developer moat. Fair value, not cheap. Add on dips toward $200. Entry / Exit: Below $200 - accumulation zone. $200-$250 - hold. Above $260 - trim. Conviction Trend Latest conviction: 62/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 62"
+    },
+    "entryExit": {
+      "text": "Below $200 - accumulation zone. $200-$250 - hold. Above $260 - trim."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [
+        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
+        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
+        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "2026-04-08",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-08",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

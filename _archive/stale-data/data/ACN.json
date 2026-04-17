@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "ticker": "ACN",
+    "company": "Accenture Plc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 179.53,
+    "marketCap": 110200000000.0,
+    "marketCapFormatted": "$110.20B",
+    "trailingPE": 14.71,
+    "trailingEps": 12.2,
+    "fiftyTwoWeekHigh": 325.71,
+    "fiftyTwoWeekLow": 177.5,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Accenture's AI-driven transformation services provide a compelling secular tailwind, and the stock trades at a historically low P/E of 15x - but client spending caution and European macro softness create near-term headwinds that make the current valuation only fair, not compelling - HOLD is the weighted recommendation."
+    },
+    "businessModel": {
+      "text": "Accenture is a global professional services firm providing consulting, technology and managed services across strategy, digital transformation, cloud infrastructure, AI implementation and cybersecurity. The company operates across five operating segments: Strategy, Consulting, Digital, Technology and Song (creative/digital advertising). Accenture's business model is characterised by high-quality recurring revenues (approximately 65% of contracts are recurring or multi-year), a capital-light cost-plus delivery model, and exposure to structural digital transformation spending. The company has been actively repositioning its workforce towards AI-related services, data engineering and cloud modernisation. However, it faces margin pressure as a higher proportion of revenues shift to lower-margin technology services from consulting. Geographic exposure is broad: North America (~50%), Europe (~35%), and Growth Markets (~15%)."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$179.53"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$110.2 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "14.71x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$12.20"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$325.71"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$177.50"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Accenture's fiscal Q1 2025 earnings revealed a slower-than-expected recovery in consulting discretionary spending, with management lowering full-year guidance. The GenAI services pipeline is substantial but deal-closing cycles are elongating as clients await clearer ROI frameworks. The company has responded with targeted layoffs (~2% of workforce) and back-office automation to protect operating margins. New bookings have shown modest improvement in recent quarters. The stock has re-rated downward significantly from its 2021 peaks as growth decelerated from 20%+ to mid-single digits."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (80): AI transformation services accelerate as enterprises move from pilot to production deployments. Consulting discretionary budgets reopen as economic conditions improve. Accenture wins large-scale AI implementation contracts, driving high-single-digit to low-double-digit revenue growth. EPS reaches $14.50+. Price: $240+. Base Case (65): AI services provide a modest incremental tailwind. Consulting recovery is gradual and concentrated in technology modernisation rather than strategy. European markets remain soft. Revenue grows mid-single digit; EPS reaches $13.00-$13.50. Price: $195-$225. Bear Case (45): Client spending caution persists into 2026. AI services fail to offset broader consulting weakness. Margin compression from wage inflation and competitive pricing pressure. EPS falls to $11.00-$11.50. Price: below $165. Weighted Score: 65 - Bull 80 × 30% + Base 65 × 50% + Bear 45 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Discretionary consulting cycle: Accenture is highly exposed to enterprise discretionary budgets. An economic slowdown or prolonged uncertainty causes clients to defer or cancel transformation projects, directly impacting revenues and utilisation rates. Margin compression from business mix: As consulting migrates to lower-margin technology services (cloud migration, AI implementation), blended margins face structural pressure even if revenues grow. GenAI disruption to services demand: AI coding tools and agentic systems may reduce the demand for certain application development and maintenance services that Accenture resells, compressing a historically high-margin revenue line. European geographic exposure: With ~35% of revenues from Europe, a sustained German or UK recession would meaningfully impact Accenture's top line and margin profile. Talent costs: Wage inflation, particularly for AI and cloud-skilled consultants, has pressured margins. Retaining top talent in a competitive labour market requires ongoing compensation investment.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Discretionary consulting cycle: Accenture is highly exposed to enterprise discretionary budgets. An economic slowdown or prolonged uncertainty causes clients to defer or cancel transformation projects, directly impacting revenues and utilisation rates."
+        },
+        {
+          "rank": 2,
+          "risk": "Margin compression from business mix: As consulting migrates to lower-margin technology services (cloud migration, AI implementation), blended margins face structural pressure even if revenues grow."
+        },
+        {
+          "rank": 3,
+          "risk": "GenAI disruption to services demand: AI coding tools and agentic systems may reduce the demand for certain application development and maintenance services that Accenture resells, compressing a historically high-margin revenue line."
+        },
+        {
+          "rank": 4,
+          "risk": "European geographic exposure: With ~35% of revenues from Europe, a sustained German or UK recession would meaningfully impact Accenture's top line and margin profile."
+        },
+        {
+          "rank": 5,
+          "risk": "Talent costs: Wage inflation, particularly for AI and cloud-skilled consultants, has pressured margins. Retaining top talent in a competitive labour market requires ongoing compensation investment."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors seeking global services quality with AI transformation exposure. The 14.7x P/E provides a reasonable floor, and the dividend (yield ~1.7%) provides some downside protection. Suitable for patient, quality-conscious investors."
+    },
+    "recommendation": {
+      "text": "HOLD. Accenture is a high-quality business trading at a historically low P/E of 15x, which provides a margin of safety relative to intrinsic quality. However, the near-term earnings trajectory lacks momentum, and the consulting recovery may take longer than optimists expect. Maintain existing positions; new buyers should be selective on entry. Entry framework: BUY below $160 (implies 13x P/E - historically cheap for Accenture, provides meaningful margin of safety). Reduce on rallies above $215 (implies 17x+ P/E with limited upside to base case). At $179, the risk-reward is roughly balanced."
+    },
+    "entryExit": {
+      "text": "BUY below $160 (implies 13x P/E - historically cheap for Accenture, provides meaningful margin of safety). Reduce on rallies above $215 (implies 17x+ P/E with limited upside to base case). At $179, the risk-reward is roughly balanced. | Entry framework: BUY below $160 (implies 13x P/E - historically cheap for Accenture, provides meaningful margin of safety). | Reduce on rallies above $215 (implies 17x+ P/E with limited upside to base case)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

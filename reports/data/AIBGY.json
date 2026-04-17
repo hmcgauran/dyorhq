@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "ticker": "AIBGY",
+    "company": "AIB Group ADR",
+    "exchange": "OTC",
+    "isin": "",
+    "date": "11 April 2026",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-12T22:25:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 22.29,
+    "formatted": "$22.29",
+    "currency": "USD"
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "AIBGY gives US-based investors OTC access to AIB Group plc, one of the core retail and commercial banking franchises in Ireland. The underlying business has real strengths: a sticky domestic deposit base, meaningful market share in mortgages and SME lending, and a balance sheet that has benefited from the higher-rate environment. The problem is that the easiest part of the earnings cycle is probably behind it. As policy rates normalise, net interest income is likely to cool, while the ADR wrapper adds thinner liquidity and some pricing friction versus the primary listing. That combination supports a HOLD rather than an outright buy or sell. Existing holders have a credible bank with decent capital-return optionality, but the ADR does not currently offer enough edge to justify a higher conviction score than 50/100."
+    },
+    "businessModel": {
+      "text": "The underlying company, AIB Group plc, is a largely Ireland-focused bank serving personal, business and corporate customers through current accounts, mortgages, SME lending, business banking, treasury services and wealth or insurance distribution partnerships. The investment case is driven less by rapid balance-sheet expansion and more by spread income, disciplined underwriting, deposit franchise quality, operating efficiency, and capital return. For AIBGY holders, the key point is that the ADR is simply a wrapper around that domestic banking franchise. The ADR should broadly reflect the economics of the ordinary shares over time, but day-to-day trading can be less efficient because liquidity sits primarily in the home market rather than the OTC line."
+    },
+    "financialSnapshot": {
+      "text": "The current DYOR HQ sheet snapshot for the ADR carries a stored reference price of $22.29. The more important fundamental lens is qualitative: AIB is a mature bank, so investors should focus on net interest income durability, fee income resilience, impairments, cost discipline, CET1 capital, and the sustainability of ordinary dividends or buybacks as rates ease from peak levels.",
+      "table": [
+        {
+          "label": "ADR Price",
+          "value": "$22.29"
+        },
+        {
+          "label": "Underlying Franchise",
+          "value": "AIB Group plc"
+        },
+        {
+          "label": "Primary Exposure",
+          "value": "Irish retail and commercial banking"
+        },
+        {
+          "label": "Listing Wrapper",
+          "value": "US OTC ADR"
+        },
+        {
+          "label": "Recommendation",
+          "value": "HOLD"
+        },
+        {
+          "label": "Conviction",
+          "value": "50/100"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "The most important catalysts are all fairly traditional bank variables. First, the path of ECB rates matters because it will determine how much of the recent margin windfall proves structural versus temporary. Secondly, management commentary on deposit pricing and customer mix will signal whether competition is beginning to erode spread income. Thirdly, asset-quality trends matter: AIB has benefited from a healthier Irish consumer and labour market backdrop, but that can change if growth cools. Finally, capital return remains central. A bank like AIB does not need a dramatic top-line story to work for shareholders if it can keep credit losses controlled, hold capital above regulatory minimums, and continue returning surplus capital sensibly."
+    },
+    "thesisEvaluation": {
+      "text": "Bull case: the Irish economy remains firmer than feared, arrears stay benign, deposit migration remains manageable, and rate normalisation proves gradual enough that AIB preserves more net interest income than the market expects. In that world, the stock can continue to look cheap on bank metrics and capital returns do more of the heavy lifting. Base case: earnings step down from the high-rate peak but remain respectable, credit quality stays acceptable, and the market treats AIB as a solid but unexciting domestic bank. That supports a hold stance because the business is not broken, yet neither the ADR structure nor the operating outlook screams mispricing. Bear case: rates fall faster, deposit competition intensifies, impairments rise from unusually benign levels, and the market rerates the bank lower as earnings quality comes into question. On balance, the base case dominates. The franchise is credible enough to avoid a sell call, but the path to material upside is not clean enough for higher conviction."
+    },
+    "keyRisks": {
+      "text": "The largest risk is earnings normalisation after an unusually favourable rates backdrop. Other important risks include deterioration in Irish consumer or SME credit, sharper deposit repricing, regulatory intervention on capital return, and the practical drawback that the ADR can trade less efficiently than the main listing.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Net interest income may fall faster than expected as ECB rates ease and deposit pricing catches up."
+        },
+        {
+          "rank": 2,
+          "risk": "Credit losses can rise if the Irish economy, labour market or property backdrop weakens."
+        },
+        {
+          "rank": 3,
+          "risk": "Capital return can be constrained by regulation or a more cautious management posture."
+        },
+        {
+          "rank": 4,
+          "risk": "Competition for deposits and new lending can squeeze margins and slow balance-sheet growth."
+        },
+        {
+          "rank": 5,
+          "risk": "The ADR wrapper can carry thinner liquidity, wider spreads and noisier price discovery than the primary listing."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: investors who want exposure to a mainstream Irish banking franchise, are comfortable with cyclical bank earnings, and value capital discipline more than a high-growth narrative. Avoid or prefer the ordinary shares instead: investors who need deep liquidity, want cleaner price discovery in the primary market, or are explicitly trying to express a strong macro view on rates without ADR trading friction."
+    },
+    "recommendation": {
+      "text": "HOLD - Conviction: 50/100. AIBGY represents a reasonable bank franchise wrapped in a less-than-ideal trading vehicle for many investors. The underlying business is good enough to keep, especially if you already own it for Irish banking exposure and capital returns, but the expected earnings drift as rates normalise means the upside case is not strong enough to justify a buy."
+    },
+    "entryExit": {
+      "text": "Entry framework: treat the ADR as a patience position rather than a momentum trade. New money should look for either a more obvious valuation dislocation or clearer evidence that earnings can stay firmer than consensus through rate cuts. Exit or trim framework: reassess if management signals meaningfully weaker net interest income, if impairments begin to climb from current benign levels, or if ADR liquidity becomes a practical problem relative to the ordinary shares."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures, investor presentations and capital-return updates for AIB Group plc.",
+      "additional": [
+        "Canonical identity and ticker mapping sourced from the DYOR HQ proprietary market data workflow.",
+        "Underlying issuer analysed as AIB Group plc, with AIBGY treated as the ADR wrapper used for US OTC access.",
+        "Bank analysis focuses on margin durability, deposit behaviour, credit quality, capital strength and shareholder distributions."
+      ],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "HOLD",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "ADR line upgraded to full report standard"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "ADR line upgraded to full report standard"
+      }
+    ]
+  }
+}

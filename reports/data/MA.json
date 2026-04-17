@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "ticker": "MA",
+    "company": "MA",
+    "exchange": "",
+    "isin": "",
+    "date": "",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": ""
+    },
+    "businessModel": {
+      "text": "Revenue from Interchange fees on cardholder spend (Core payment network, ~55%), Processing and issuer services (transaction processing, ~25%), and Other (New Network Services, Advisors, ~20%). Highly capital-light."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "Cross-border travel recovery fully normalised - cross-border volume +12% FY24 New network services (STEM, open banking connectors) growing 40%+ YoY Acquisition ofRecorded Future (AI cybersecurity threat intel, 2024) - strategic adjacency Buyback authorised: $25bn multi-year programme, ~5% of market cap annually",
+      "items": [
+        "Cross-border travel recovery fully normalised - cross-border volume +12% FY24",
+        "New network services (STEM, open banking connectors) growing 40%+ YoY",
+        "Acquisition ofRecorded Future (AI cybersecurity threat intel, 2024) - strategic adjacency",
+        "Buyback authorised: $25bn multi-year programme, ~5% of market cap annually"
+      ]
+    },
+    "thesisEvaluation": {
+      "text": "75 Bull 65 Base 50 Bear 65 Conviction",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "1. Global regulatory interventions on interchange fees (EU, India, Brazil) could compress take-rates 2. Recession scenario reduces spend volume, directly impacting gross-dollar volume metric 3. Fintech disruption: Revolut, Stripe, PayPal nibbling at commercial card segments 4. CBDC (Central Bank Digital Currency) development - long-term network displacement risk 5. Valuation: P/E 30x is at historical peak - limited re-rating room",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "1. Global regulatory interventions on interchange fees (EU, India, Brazil) could compress take-rates"
+        },
+        {
+          "rank": 2,
+          "risk": "2. Recession scenario reduces spend volume, directly impacting gross-dollar volume metric"
+        },
+        {
+          "rank": 3,
+          "risk": "3. Fintech disruption: Revolut, Stripe, PayPal nibbling at commercial card segments"
+        },
+        {
+          "rank": 4,
+          "risk": "4. CBDC (Central Bank Digital Currency) development - long-term network displacement risk"
+        },
+        {
+          "rank": 5,
+          "risk": "5. Valuation: P/E 30x is at historical peak - limited re-rating room"
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Long-term compounder investors seeking exposure to secular payment-volume growth. Buy-and-hold wealthbuilder with modest dividend. NOT suitable for investors seeking value or turnaround catalysts; valuations rarely compress."
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entryExit": {
+      "text": "Patient accumulation at $470-$490 (15-20% below 52-week high). HOLD $490-$560. REDUCE above $560. Watch: cross-border volume trends as travel/e-commerce proxy. | BUY: Patient accumulation at $470-$490 (15-20% below 52-week high). | REDUCE above $560."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

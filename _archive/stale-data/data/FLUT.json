@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ticker": "FLUT",
+    "company": "Flutter Entertainment",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 102.38,
+    "fiftyTwoWeekHigh": 313.69,
+    "fiftyTwoWeekLow": 98.88,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Flutter Entertainment (FLUT) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $102.38 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Flutter Entertainment operates in online betting and gaming, where market share, customer economics, regulation and product execution drive returns. The repaired note replaces a generic placeholder with a coherent company-level summary."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$102.38"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "N/A"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$313.69"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$98.88"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "US state launches, sportsbook hold, iGaming mix and cost control remain the most important near-term variables."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Regulatory changes can affect growth and profitability. Customer acquisition can stay expensive. Sports results can create quarterly volatility. Competitive intensity can compress margins. Execution across multiple jurisdictions adds complexity.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Regulatory changes can affect growth and profitability."
+        },
+        {
+          "rank": 2,
+          "risk": "Customer acquisition can stay expensive."
+        },
+        {
+          "rank": 3,
+          "risk": "Sports results can create quarterly volatility."
+        },
+        {
+          "rank": 4,
+          "risk": "Competitive intensity can compress margins."
+        },
+        {
+          "rank": 5,
+          "risk": "Execution across multiple jurisdictions adds complexity."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who accept regulatory and quarterly volatility for digital gaming exposure. Avoid: Investors who want predictable cash flows and low headline risk."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

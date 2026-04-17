@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "GEV",
+    "company": "GE Vernova Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 74,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 991.32,
+    "marketCap": 267200000000.0,
+    "marketCapFormatted": "$267.20B",
+    "trailingPE": 55.98,
+    "trailingEps": 17.71,
+    "fiftyTwoWeekHigh": 999.43,
+    "fiftyTwoWeekLow": 306.0,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "GE Vernova is in the early innings of a power infrastructure supercycle driven by data centre demand, grid modernisation and energy transition investment, but the premium 56x P/E demands near-perfect execution. HOLD is the weighted recommendation with a conviction score of 74."
+    },
+    "businessModel": {
+      "text": "GE Vernova Inc (GEV) operates in the Industrials sector and is listed on NYSE. The business generates revenue through its core operations in industrials."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$991.32"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$267.2 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "55.98x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$17.71"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$999.43"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$306.00"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "GE Vernova Inc has been navigating the current market environment with its core industrials franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (87): Data centre power demand accelerates the gas turbine and grid equipment backlog materially. HVDC and grid automation businesses exceed growth targets. LNG terminal buildout adds incremental revenue. EPS grows to $22+. Price: $1,150+. Base Case (73): Strong grid modernisation and energy transition spending sustains high-single-digit revenue growth. Gas turbine service backlog provides earnings visibility. EPS grows to $19-21. Price: $980-1,080. Bear Case (52): Data centre power demand growth slows as hyperscalers ration capex. Gas turbine new-build orders disappoint. Competition in grid automation (Siemens, ABB) intensifies. EPS falls to $15-16. Price: below $820. Weighted Score: 73 - Bull 87 × 30% + Base 73 × 50% + Bear 52 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Execution risk on backlog conversion: GE Vernova has a large installed base and ambitious service margin targets. Service profitability assumptions may prove optimistic. Data centre demand cyclicality: The AI power buildout is a genuine structural tailwind but hyperscaler capex cycles are not guaranteed to be smooth or uninterrupted. Gas turbine competitive dynamics: Siemens Energy and Mitsubishi Power compete aggressively in heavy-duty gas turbines. Pricing pressure could compress equipment margins. Regulatory and permitting risk: Grid infrastructure projects face long permitting timelines that could delay revenue recognition for the grid segment. High valuation demanding clean execution: At 56x trailing P/E, even modest execution missteps could trigger significant multiple compression.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Execution risk on backlog conversion: GE Vernova has a large installed base and ambitious service margin targets. Service profitability assumptions may prove optimistic."
+        },
+        {
+          "rank": 2,
+          "risk": "Data centre demand cyclicality: The AI power buildout is a genuine structural tailwind but hyperscaler capex cycles are not guaranteed to be smooth or uninterrupted."
+        },
+        {
+          "rank": 3,
+          "risk": "Gas turbine competitive dynamics: Siemens Energy and Mitsubishi Power compete aggressively in heavy-duty gas turbines. Pricing pressure could compress equipment margins."
+        },
+        {
+          "rank": 4,
+          "risk": "Regulatory and permitting risk: Grid infrastructure projects face long permitting timelines that could delay revenue recognition for the grid segment."
+        },
+        {
+          "rank": 5,
+          "risk": "High valuation demanding clean execution: At 56x trailing P/E, even modest execution missteps could trigger significant multiple compression."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Thematic investors seeking pure-play exposure to the power infrastructure supercycle driven by AI data centre demand, electrification and grid modernisation."
+    },
+    "recommendation": {
+      "text": "BUY. BUY with a 12-15% portfolio allocation. Accumulate on pullbacks below $900. Reduce or take profits if multiple re-rates above 65x P/E without EPS revisions."
+    },
+    "entryExit": {
+      "text": "Accumulate on pullbacks below $900."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 74,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 74,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

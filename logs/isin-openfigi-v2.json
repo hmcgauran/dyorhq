@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-04-17T09:34:19.638Z",
+  "results": [
+    {
+      "bare": "GOOGL",
+      "figiTicker": "GOOGL",
+      "exchCode": "US",
+      "figi": "BBG009S39JX6",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "AVCT.L",
+      "figiTicker": "AVCT",
+      "exchCode": "LN",
+      "figi": "BBG000KWN5J9",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "GGP.L",
+      "figiTicker": "GGP",
+      "exchCode": "LN",
+      "figi": "BBG01VJFVH13",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "KYGA.L",
+      "figiTicker": "KYGA",
+      "exchCode": "LN",
+      "figi": "BBG000BHKB48",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "KBGGY",
+      "figiTicker": "KBGGY",
+      "exchCode": "NO",
+      "figi": null,
+      "isin": null,
+      "status": "no_figi"
+    },
+    {
+      "bare": "MDB",
+      "figiTicker": "MDB",
+      "exchCode": "US",
+      "figi": "BBG0022FDRY8",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "PL",
+      "figiTicker": "PL",
+      "exchCode": "US",
+      "figi": "BBG00ZCV3P74",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "ALRIB",
+      "figiTicker": "ALRIB",
+      "exchCode": "FP",
+      "figi": "BBG000DNS7V4",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "SHOP",
+      "figiTicker": "SHOP",
+      "exchCode": "US",
+      "figi": "BBG008HBD923",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "SIVE.ST",
+      "figiTicker": "SIVE",
+      "exchCode": "SS",
+      "figi": "BBG001QHZSS1",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "TBN",
+      "figiTicker": "TBN",
+      "exchCode": "AU",
+      "figi": "BBG01K8LD2M6",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "TDY",
+      "figiTicker": "TDY",
+      "exchCode": "US",
+      "figi": "BBG000BMT9T6",
+      "isin": null,
+      "status": "no_isin"
+    },
+    {
+      "bare": "XPEV",
+      "figiTicker": "XPEV",
+      "exchCode": "US",
+      "figi": "BBG00WKJG3M7",
+      "isin": null,
+      "status": "no_isin"
+    }
+  ]
+}

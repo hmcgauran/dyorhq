@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "ticker": "ADNT",
+    "company": "Adient plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 62,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Adient plc is a high-quality automotive seating manufacturer with leading global market share, but the automotive production cycle is in a soft phase and elevated raw material costs limit the near-term re-rating potential -- HOLD . HOLD Conviction Score: 62/100 - HOLD"
+    },
+    "businessModel": {
+      "text": "Adient plc is the world's largest automotive seating manufacturer, with a dominant global market share in seating systems for passenger vehicles, light trucks and electric vehicles. Key products: complete seating systems, seat structures, mechanisms, foam padding, trim covers, and headrests. Adient is a first-tier supplier to virtually every major global OEM (Ford, GM, Stellantis, Toyota, VW, BMW, and Chinese EV manufacturers). The business generates revenue from long-term supply agreements with OEMs, providing production volumes, pricing stability (typically annual price reductions of 1-2%), and some raw material pass-through mechanisms. Revenue geography: North America (~35%), Europe (~30%), Asia (~30%), Rest of World (~5%). Adient's competitive moat rests on its engineering capability, tooling assets, and long-term OEM relationships."
+    },
+    "financialSnapshot": {
+      "text": "Current Price $20.42 NYSE Market Cap $1.9B Est. via price x shares Trailing P/E 6.80x 12-month earnings EPS (TTM) $3.00 Trailing twelve months 52-Week High $28.00 -27.1% from high 52-Week Low $14.00 +45.9% from low",
+      "table": []
+    },
+    "recentCatalysts": {
+      "text": "The transition to electric vehicles is creating new seating content opportunities: EV platforms require different interior architectures and greater seating variability (reclining, swivel seats), increasing the value per seat. Adient's Asia JV is winning new programmes with Chinese EV manufacturers (BYD, NIO, Xpeng), expanding its geographic revenue mix. Recent quarterly results showed modest revenue growth with stabilising margins as raw material inflation moderates. Adient has been reducing its structural costs through its Reclaim productivity programme, targeting $200M+ in annual savings."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case 78 Target: $28.00 | EPS: $4.20 Global automotive production recovers to pre-shortage levels. Adient wins significant EV seating programmes with Chinese OEM customers. Reclaim productivity programme delivers above-target savings. EPS reaches $4.20+. Base Case 62 Target: $23.00 | EPS: $3.20 Automotive production is flat to modestly growing. Raw material inflation continues to moderate. EPS ~$ Reports / ADNT ADNT Adient plc HOLD 11 April 2026 $$20.42 62 Conviction out of 100 >",
+      "bull": {
+        "scenario": "Global automotive production recovers to pre-shortage levels. Adient wins significant EV seating programmes with Chinese OEM customers. Reclaim productivity programme delivers above-target savings. EPS reaches $4.20+.",
+        "probability": null
+      },
+      "base": {
+        "scenario": "Automotive production is flat to modestly growing. Raw material inflation continues to moderate. EPS ~$ Reports / ADNT",
+        "probability": null
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "#1 Automotive production cycle risk: Adient's revenues are proportional to global automotive production volumes, which have been suppressed by semiconductor shortages and are now recovering unevenly. #2 OEM pricing pressure: Automotive OEMs are increasingly aggressive in demanding price reductions from tier-1 suppliers. Adient's margins are perpetually under pressure from these annual price negotiation cycles. #3 Electric vehicle transition execution: New EV entrants are bringing new seating suppliers into consideration. Adient's incumbent position is an advantage but not absolute protection against new entrants. #4 Raw material cost exposure: Steel, foam, chemicals, and leather are major input costs. Adient's ability to pass through cost increases is constrained by long-term supply agreements with OEMs. #5 Labour cost risk: Adient operates manufacturing facilities in high-cost (Detroit, Western Europe) and lower-cost (Mexico, Eastern Europe, Asia) locations. Labour cost inflation in key locations is a structural risk.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "#1 Automotive production cycle risk: Adient's revenues are proportional to global automotive production volumes, which have been suppressed by semiconductor shortages and are now recovering unevenly."
+        },
+        {
+          "rank": 2,
+          "risk": "#2 OEM pricing pressure: Automotive OEMs are increasingly aggressive in demanding price reductions from tier-1 suppliers. Adient's margins are perpetually under pressure from these annual price negotiation cycles."
+        },
+        {
+          "rank": 3,
+          "risk": "#3 Electric vehicle transition execution: New EV entrants are bringing new seating suppliers into consideration. Adient's incumbent position is an advantage but not absolute protection against new entrants."
+        },
+        {
+          "rank": 4,
+          "risk": "#4 Raw material cost exposure: Steel, foam, chemicals, and leather are major input costs. Adient's ability to pass through cost increases is constrained by long-term supply agreements with OEMs."
+        },
+        {
+          "rank": 5,
+          "risk": "#5 Labour cost risk: Adient operates manufacturing facilities in high-cost (Detroit, Western Europe) and lower-cost (Mexico, Eastern Europe, Asia) locations. Labour cost inflation in key locations is a structural risk."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Automotive supply chain investors who understand the semiconductor-era production recovery. The global market leadership position in seating provides a degree of earnings stability. Avoid: Investors who believe EV competition will disrupt traditional tier-1 supply chains faster than expected. Investors who require high margins from a capital-intensive business."
+    },
+    "recommendation": {
+      "text": "HOLD Score: 62/100 Adient is the global leader in a capital-intensive but structurally necessary industry. The automotive production cycle is in a soft recovery phase and raw material headwinds are moderating. The stock is not expensive but does not offer compelling near-term re-rating. HOLD. Entry Framework: BUY below $15 (cyclically depressed; seating is a durable franchise). HOLD in the $15-$26 range. REDUCE above $26 (fully prices in production recovery). BUY below $26.60 HOLD $21.85-$26.60 REDUCE above $26.60"
+    },
+    "entryExit": {
+      "text": "BUY below $26.60 | HOLD $21.85-$26.60 | REDUCE above $26.60"
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 62,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 62,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

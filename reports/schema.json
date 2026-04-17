@@ -1,0 +1,201 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DYOR HQ Report",
+  "description": "Canonical data schema for a single DYOR HQ investment research report.",
+  "type": "object",
+  "required": ["meta", "sections", "price", "scores", "sources"],
+
+  "properties": {
+
+    "meta": {
+      "type": "object",
+      "description": "Report identification and publication metadata",
+      "required": ["ticker", "company", "date", "recommendation", "conviction"],
+      "properties": {
+        "ticker":          { "type": "string", "description": "Ticker symbol, uppercase. E.g. AAPL, AVCT.L, BRK.B" },
+        "company":         { "type": "string", "description": "Full company name. E.g. Apple Inc" },
+        "exchange":        { "type": "string", "description": "Primary exchange code. E.g. US, LN, ISE" },
+        "isin":            { "type": "string", "description": "ISIN if available. E.g. US0378331005" },
+        "sector":          { "type": "string", "description": "GICS sector classification" },
+        "universes":       { "type": "array", "items": { "type": "string" }, "description": "Membership: watchlist, sp100, fortune100, irish, etc." },
+        "date":            { "type": "string", "description": "Report date - human readable. E.g. 11 Apr 2026" },
+        "datePublished":   { "type": "string", "format": "date", "description": "ISO date of publication. E.g. 2026-04-11" },
+        "lastRefreshed":   { "type": "string", "format": "date-time", "description": "ISO timestamp of last data refresh. E.g. 2026-04-11T10:00:00Z" },
+        "recommendation":  { "type": "string", "enum": ["BUY", "HOLD", "REDUCE", "SELL"], "description": "Recommendation band" },
+        "recommendationNote": { "type": "string", "description": "Optional specifier for speculative names. E.g. BUY - SPECULATIVE" },
+        "conviction":      { "type": "integer", "minimum": 0, "maximum": 100, "description": "Conviction score 0-100" }
+      }
+    },
+
+    "price": {
+      "type": "object",
+      "description": "Current market price and related data",
+      "properties": {
+        "current":         { "type": "number", "description": "Current price" },
+        "currency":       { "type": "string", "description": "Currency code. E.g. USD, GBP, EUR" },
+        "marketCap":      { "type": ["number", "null"], "description": "Market capitalisation in native units" },
+        "marketCapFormatted": { "type": "string", "description": "Human-readable market cap. E.g. $3.82T" },
+        "trailingPE":     { "type": ["number", "null"], "description": "Trailing P/E ratio" },
+        "trailingEps":    { "type": ["number", "null"], "description": "Trailing EPS" },
+        "fiftyTwoWeekHigh": { "type": ["number", "null"] },
+        "fiftyTwoWeekLow":  { "type": ["number", "null"] },
+        "from52wHigh":    { "type": ["number", "null"], "description": "Percent from 52w high, negative means below high" },
+        "from52wLow":     { "type": ["number", "null"], "description": "Percent from 52w low, positive means above low" },
+        "volume":         { "type": ["number", "null"] },
+        "priceTarget":    { "type": ["number", "null"] },
+        "upsideDownside": { "type": ["number", "null"], "description": "Price target upside/downside in percent" }
+      }
+    },
+
+    "scores": {
+      "type": "object",
+      "description": "Score history for conviction tracking",
+      "properties": {
+        "current": {
+          "type": "object",
+          "properties": {
+            "score":   { "type": "integer" },
+            "band":    { "type": "string" },
+            "date":    { "type": "string", "format": "date" },
+            "delta":   { "type": "string", "description": "Change from prior. E.g. +3, -5, 0" },
+            "reason":  { "type": "string", "description": "What caused the score change" }
+          }
+        },
+        "history": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "date":    { "type": "string" },
+              "score":   { "type": "integer" },
+              "band":    { "type": "string" },
+              "delta":   { "type": "string" },
+              "reason":  { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "sections": {
+      "type": "object",
+      "description": "All 10 canonical report sections",
+      "required": [
+        "executiveSummary",
+        "businessModel",
+        "financialSnapshot",
+        "recentCatalysts",
+        "thesisEvaluation",
+        "keyRisks",
+        "whoShouldOwn",
+        "recommendation",
+        "entryExit",
+        "sources"
+      ],
+      "properties": {
+
+        "executiveSummary": {
+          "type": "object",
+          "properties": {
+            "text":  { "type": "string", "description": "Full executive summary text" },
+            "verdict": { "type": "string", "description": "One-line conclusion" }
+          }
+        },
+
+        "businessModel": {
+          "type": "object",
+          "properties": {
+            "text":  { "type": "string" },
+            "revenueStreams": { "type": "array", "items": { "type": "string" } },
+            "moat":  { "type": "string" }
+          }
+        },
+
+        "financialSnapshot": {
+          "type": "object",
+          "properties": {
+            "text":     { "type": "string" },
+            "table":    { "type": "array", "items": { "type": "object", "properties": { "label": { "type": "string" }, "value": { "type": "string" }, "note": { "type": "string" } } } },
+            "bullCase": { "type": "string" },
+            "baseCase": { "type": "string" },
+            "bearCase": { "type": "string" }
+          }
+        },
+
+        "recentCatalysts": {
+          "type": "object",
+          "properties": {
+            "text":  { "type": "string" },
+            "items": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+
+        "thesisEvaluation": {
+          "type": "object",
+          "properties": {
+            "text":   { "type": "string" },
+            "bull":   { "type": "object", "properties": { "scenario": { "type": "string" }, "probability": { "type": "number" }, "upside": { "type": "string" }, "catalyst": { "type": "string" } } },
+            "base":   { "type": "object", "properties": { "scenario": { "type": "string" }, "probability": { "type": "number" }, "upside": { "type": "string" }, "catalyst": { "type": "string" } } },
+            "bear":   { "type": "object", "properties": { "scenario": { "type": "string" }, "probability": { "type": "number" }, "upside": { "type": "string" }, "catalyst": { "type": "string" } } }
+          }
+        },
+
+        "keyRisks": {
+          "type": "object",
+          "properties": {
+            "text":  { "type": "string" },
+            "risks": { "type": "array", "items": { "type": "object", "properties": { "rank": { "type": "integer" }, "risk": { "type": "string" }, "severity": { "type": "string", "enum": ["high", "medium", "low"] } } } }
+          }
+        },
+
+        "whoShouldOwn": {
+          "type": "object",
+          "properties": {
+            "text":   { "type": "string" },
+            "bullish": { "type": "array", "items": { "type": "string" } },
+            "bearish": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+
+        "recommendation": {
+          "type": "object",
+          "properties": {
+            "text":   { "type": "string" },
+            "signal": { "type": "string" },
+            "alertLevels": {
+              "type": "array",
+              "items": { "type": "object", "properties": { "level": { "type": "string" }, "price": { "type": "string" }, "action": { "type": "string" } } }
+            }
+          }
+        },
+
+        "entryExit": {
+          "type": "object",
+          "properties": {
+            "text":    { "type": "string" },
+            "entryZone":   { "type": "string" },
+            "stopLoss":    { "type": "string" },
+            "target1":     { "type": "string" },
+            "target2":     { "type": "string" }
+          }
+        },
+
+        "sources": {
+          "type": "object",
+          "properties": {
+            "marketData": { "type": "string", "description": "Description of authoritative market data source used" },
+            "companyFilings": { "type": "string", "description": "Description of company filing/IR sources" },
+            "additional":  { "type": "array", "items": { "type": "string" }, "description": "Additional specific citations" },
+            "literature": { "type": "array", "items": { "type": "object", "properties": { "citation": { "type": "string" }, "source": { "type": "string" }, "year": { "type": "number" }, "url": { "type": "string" } } }, "description": "Primary literature references (biotech/biopharma)" }
+          }
+        }
+      }
+    },
+
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Searchable tags: sector, theme, or keyword"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ticker": "AER",
+    "company": "AerCap Holdings N.V.",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 145.53,
+    "fiftyTwoWeekHigh": 154.94,
+    "fiftyTwoWeekLow": 89.41,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "AerCap Holdings N.V. (AER) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $145.53 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "AerCap Holdings N.V. is an aircraft leasing business whose valuation depends on fleet utilisation, funding costs, asset values and airline credit quality. The repaired note is concise but now correctly reflects the company rather than an unrelated defence name."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$145.53"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "N/A"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$154.94"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$89.41"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Lease-rate factors, aircraft delivery delays, used-aircraft values and airline capacity discipline remain the major moving parts. Financing spreads also matter for equity returns."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Higher funding costs can squeeze lease economics. Airline stress can raise defaults, restructurings or repossessions. Residual aircraft values can fall in a weaker cycle. OEM delivery delays can disrupt growth assumptions. Geopolitical or regulatory shocks can affect fleet placement.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Higher funding costs can squeeze lease economics."
+        },
+        {
+          "rank": 2,
+          "risk": "Airline stress can raise defaults, restructurings or repossessions."
+        },
+        {
+          "rank": 3,
+          "risk": "Residual aircraft values can fall in a weaker cycle."
+        },
+        {
+          "rank": 4,
+          "risk": "OEM delivery delays can disrupt growth assumptions."
+        },
+        {
+          "rank": 5,
+          "risk": "Geopolitical or regulatory shocks can affect fleet placement."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors comfortable with aviation cycles and balance-sheet analysis. Avoid: Investors wanting simple, low-leverage earnings streams."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

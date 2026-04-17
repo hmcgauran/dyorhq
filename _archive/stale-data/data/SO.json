@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "ticker": "SO",
+    "company": "Southern Company",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 65,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 97.15,
+    "marketCap": 109500000000.0,
+    "marketCapFormatted": "$109.50B",
+    "trailingPE": 24.78,
+    "trailingEps": 3.92,
+    "fiftyTwoWeekHigh": 100.84,
+    "fiftyTwoWeekLow": 83.09,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Southern Company operates a best-in-class regulated utility franchise with visible rate base growth and a constructive regulatory environment in its core Georgia jurisdiction, but the shares trade at a premium P/E for a low-growth business - HOLD is the weighted recommendation."
+    },
+    "businessModel": {
+      "text": "Southern Company is one of the largest regulated electric utility holding companies in the US, serving approximately 9 million customer accounts across Georgia, Alabama, Mississippi and Florida. Its principal subsidiary, Georgia Power, is the largest of the operating companies and operates under a constructive, forward-looking rate regulation framework with the Georgia Public Service Commission (Georgia PSC). Southern also operates natural gas distribution businesses and owns a competitive generation subsidiary, Southern Power, selling wholesale power. The company's capital investment programme (focused on grid modernisation, reliability and clean generation) is expected to grow the rate base at a mid-single-digit compound annual growth rate over the medium term."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$97.15"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$109.5B"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "24.78x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$3.92"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$100.84"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$83.09"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Plant Vogtle Units 3 and 4, the largest new nuclear construction project in US history, reached commercial operation in 2023 and 2024 respectively. While capacity factors have required adjustment periods, the units are now contributing materially to earnings and cash flow. Georgia Power's rate case proceedings are ongoing, with a decision expected in 2026 that could provide additional rate base relief. The Inflation Reduction Act provides investment tax credits for clean generation capex that benefit Southern's renewable buildout programme. Load growth from data centre electrification and reshoring manufacturing is a nascent but meaningful new demand driver for the Georgia grid."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (65): Georgia PSC approves rate case relief consistent with management's request. Plant Vogtle Units 3 and 4 reach stable commercial operation with improved capacity factors. Economy recovers and industrial load growth accelerates. EPS grows at 5-6% annually. Price: $105+. Base Case (50): Vogtle Units 3 and 4 operate within adjusted capacity parameters. Rate base growth of 5% annually is achieved in Georgia. Regulatory outcomes are neutral to modestly positive across jurisdictions. EPS grows at 4-5% annually. Price: $93-$100. Bear Case (40): Vogtle operational issues persist or require further capital injections. Georgia PSC rules adversely on the next rate case. Economic slowdown reduces industrial load growth. Regulators in other jurisdictions follow a less supportive posture. EPS growth decelerates to 2-3%. Price: below $78. Weighted Score: 65 - Bull 65 × 30% + Base 50 × 50% + Bear 40 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Vogtle operational and cost risk: Units 3 and 4 have required ongoing operational refinement and have been subject to regulatory dispute over cost overruns. Any further material capital or O&M cost increases would be incremental negatives. Regulatory risk in non-Georgia jurisdictions: Alabama and Mississippi regulators have historically been less constructive than the Georgia PSC. Adverse outcomes in rate cases outside Georgia could impair the overall earnings growth trajectory. Interest rate sensitivity: As a highly leveraged utility, Southern Company carries significant debt. Higher-for-longer interest rates directly increase financing costs, partially offsetting the benefits of constructive regulation. Economic slowdown: Southern's regulated earnings are linked to economic growth in its service territory. A recession would reduce industrial load, residential demand and customer growth, impairing the revenue baseline. Valuation: At 24.8x trailing P/E, Southern trades at a premium to the regulated utility peer group average of approximately 17-19x. The premium is only justified if Vogtle operational performance consistently exceeds expectations.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Vogtle operational and cost risk: Units 3 and 4 have required ongoing operational refinement and have been subject to regulatory dispute over cost overruns. Any further material capital or O&M cost increases would be incremental negatives."
+        },
+        {
+          "rank": 2,
+          "risk": "Regulatory risk in non-Georgia jurisdictions: Alabama and Mississippi regulators have historically been less constructive than the Georgia PSC. Adverse outcomes in rate cases outside Georgia could impair the overall earnings growth trajectory."
+        },
+        {
+          "rank": 3,
+          "risk": "Interest rate sensitivity: As a highly leveraged utility, Southern Company carries significant debt. Higher-for-longer interest rates directly increase financing costs, partially offsetting the benefits of constructive regulation."
+        },
+        {
+          "rank": 4,
+          "risk": "Economic slowdown: Southern's regulated earnings are linked to economic growth in its service territory. A recession would reduce industrial load, residential demand and customer growth, impairing the revenue baseline."
+        },
+        {
+          "rank": 5,
+          "risk": "Valuation: At 24.8x trailing P/E, Southern trades at a premium to the regulated utility peer group average of approximately 17-19x. The premium is only justified if Vogtle operational performance consistently exceeds expectations."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Income-focused investors seeking a high-yield regulated electric utility with a constructive regulatory environment and above-average dividend growth prospects within the sector. Appropriate as a core income holding in a utility sleeve."
+    },
+    "recommendation": {
+      "text": "HOLD. BUY below $83 (approximately 20x forward P/E on base-case EPS - in line with peer group average). Reduce above $96 (approximately 23x P/E - Vogtle execution risk premium is not adequately compensated at this level)."
+    },
+    "entryExit": {
+      "text": "BUY below $83 (approximately 20x forward P/E on base-case EPS - in line with peer group average). | Reduce above $96 (approximately 23x P/E - Vogtle execution risk premium is not adequately compensated at this level)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 65,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 65,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

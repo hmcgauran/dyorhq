@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "ticker": "ADSE",
+    "company": "Ads-Tec Energy PLC",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 38,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Ads-Tec Energy PLC (ADSE) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 38/100, using $11.8 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Ads-Tec Energy PLC is exposed to EV charging and energy-storage infrastructure, so execution, customer adoption and funding access matter more than simple theme exposure."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$11.8"
+        },
+        {
+          "label": "Company",
+          "value": "Ads-Tec Energy PLC"
+        },
+        {
+          "label": "Recommendation",
+          "value": "REDUCE"
+        },
+        {
+          "label": "Conviction",
+          "value": "38/100"
+        },
+        {
+          "label": "Universe",
+          "value": "irish"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Project wins, deployment pace, margin direction and backlog conversion are the core catalysts."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Early-stage infrastructure demand can be lumpy. Execution risk remains high in hardware deployments. Capital needs can dilute shareholders. Competition in charging and storage can intensify. Policy support can change faster than expected.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Early-stage infrastructure demand can be lumpy."
+        },
+        {
+          "rank": 2,
+          "risk": "Execution risk remains high in hardware deployments."
+        },
+        {
+          "rank": 3,
+          "risk": "Capital needs can dilute shareholders."
+        },
+        {
+          "rank": 4,
+          "risk": "Competition in charging and storage can intensify."
+        },
+        {
+          "rank": 5,
+          "risk": "Policy support can change faster than expected."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: High-risk investors seeking thematic electrification exposure. Avoid: Investors needing cash-flow stability and low dilution risk."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 38/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 38,
+      "band": "REDUCE",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 38,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

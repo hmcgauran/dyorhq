@@ -1,0 +1,9 @@
+{
+  "name": "dyorhq",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-site.js",
+    "validate": "node scripts/validate-site.js",
+    "health-check": "node scripts/health-check.js"
+  }
+}

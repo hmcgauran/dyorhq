@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "ticker": "ETN",
+    "company": "Eaton Corporation PLC",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 68,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Eaton Corporation PLC (ETN) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is HOLD with conviction 68/100, using $403 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Eaton Corporation PLC sells power-management and electrical systems, with returns driven by end-market mix, backlog conversion and margin discipline. The rebuilt note now reflects the correct industrial company rather than an unrelated asset manager."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$403"
+        },
+        {
+          "label": "Company",
+          "value": "Eaton Corporation PLC"
+        },
+        {
+          "label": "Recommendation",
+          "value": "HOLD"
+        },
+        {
+          "label": "Conviction",
+          "value": "68/100"
+        },
+        {
+          "label": "Universe",
+          "value": "irish"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Data-centre, utility, aerospace and electrification demand remain the main growth supports, while order trends and margin progression drive sentiment."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present hold stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Industrial demand can slow after a strong cycle. Project timing can create uneven quarters. Valuation can compress if growth moderates. Cost inflation can pressure margins. Execution across multiple end-markets increases complexity.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Industrial demand can slow after a strong cycle."
+        },
+        {
+          "rank": 2,
+          "risk": "Project timing can create uneven quarters."
+        },
+        {
+          "rank": 3,
+          "risk": "Valuation can compress if growth moderates."
+        },
+        {
+          "rank": 4,
+          "risk": "Cost inflation can pressure margins."
+        },
+        {
+          "rank": 5,
+          "risk": "Execution across multiple end-markets increases complexity."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who want diversified electrification and power-management exposure. Avoid: Investors seeking very low valuation risk after a strong rerating."
+    },
+    "recommendation": {
+      "text": "HOLD - Conviction: 68/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a hold stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 68,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 68,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

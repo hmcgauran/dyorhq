@@ -1,0 +1,409 @@
+{
+  "generatedAt": "2026-04-17T12:39:08.249Z",
+  "stale": [
+    {
+      "ticker": "ANCR",
+      "company": "ANCR - Animalcare Group Plc",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -66.3%"
+      ],
+      "currentPrice": 332.3,
+      "priceAtLastReport": 248.5,
+      "currentMktCap": 229439683,
+      "marketCapAtLastReport": null,
+      "currentPE": 77.99,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "CMRS",
+      "company": "CMRS - Critical Mineral Resources PLC",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -80.4%"
+      ],
+      "currentPrice": 2.68,
+      "priceAtLastReport": 2.24,
+      "currentMktCap": 9147437,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "FFAI",
+      "company": "FFAI - Faraday Future Intelligent Electric Inc",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -58.2%"
+      ],
+      "currentPrice": 0.3,
+      "priceAtLastReport": 0.2115,
+      "currentMktCap": 75929607,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "GGP",
+      "company": "Glencore Partnership Portfolio PLC",
+      "lastReportDate": "2026-04-15",
+      "triggers": [
+        "price: -50.1%"
+      ],
+      "currentPrice": 759.85,
+      "priceAtLastReport": 507,
+      "currentMktCap": 99978827460,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "J9J",
+      "company": "J9J - Hamak Strategy Ltd",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -1.2%"
+      ],
+      "currentPrice": 0.01,
+      "priceAtLastReport": 0.8,
+      "currentMktCap": 4814589,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "IREN",
+      "company": "IREN - IREN Ltd",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -70.8%"
+      ],
+      "currentPrice": 47.7,
+      "priceAtLastReport": 36.92,
+      "currentMktCap": 19031732674,
+      "marketCapAtLastReport": null,
+      "currentPE": 36.45,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "ITRMF",
+      "company": "ITRMF - Iterum Therapeutics plc",
+      "lastReportDate": "2026-04-11",
+      "triggers": [
+        "price: 100.0%"
+      ],
+      "currentPrice": 0.03,
+      "priceAtLastReport": 0.01,
+      "currentMktCap": 1438875,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "ITM",
+      "company": "ITM Power plc",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -51.0%"
+      ],
+      "currentPrice": 138.54,
+      "priceAtLastReport": 93,
+      "currentMktCap": 960747628,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "FOBK",
+      "company": "FOBK - Kneat.com Inc",
+      "lastReportDate": "2026-04-11",
+      "triggers": [
+        "price: -81.4%"
+      ],
+      "currentPrice": 2.68,
+      "priceAtLastReport": 2.26,
+      "currentMktCap": 405900100,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "MKA",
+      "company": "Mkango Resources Ltd",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -1.8%"
+      ],
+      "currentPrice": 0.74,
+      "priceAtLastReport": 42,
+      "currentMktCap": 257961931,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "NVTS",
+      "company": "NVTS - Navitas Semiconductor Corp",
+      "lastReportDate": "2026-04-11",
+      "triggers": [
+        "price: -70.3%"
+      ],
+      "currentPrice": 12.37,
+      "priceAtLastReport": 9.54,
+      "currentMktCap": 2854905672,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "NIOX",
+      "company": "Niox Group PLC",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -26.5%"
+      ],
+      "currentPrice": 57.8,
+      "priceAtLastReport": 218,
+      "currentMktCap": 235794000,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "SMR",
+      "company": "SMR - NuScale Power Corporation",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -75.4%"
+      ],
+      "currentPrice": 11.41,
+      "priceAtLastReport": 9.16,
+      "currentMktCap": 3856765931,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "OKLO",
+      "company": "OKLO - Oklo Inc.",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -62.2%"
+      ],
+      "currentPrice": 64.21,
+      "priceAtLastReport": 46.59,
+      "currentMktCap": 11144846068,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "ONDO",
+      "company": "Ondo Finance",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: 5446.2%"
+      ],
+      "currentPrice": 14.68,
+      "priceAtLastReport": 0.26,
+      "currentMktCap": 21985457,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "ORCL",
+      "company": "ORCL - Oracle Corp",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -81.3%"
+      ],
+      "currentPrice": 178.34,
+      "priceAtLastReport": 150.19,
+      "currentMktCap": 512914033107,
+      "marketCapAtLastReport": null,
+      "currentPE": 32.01,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "PAF",
+      "company": "PAF - Pan African Resources PLC",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: 294.9%"
+      ],
+      "currentPrice": 158.38,
+      "priceAtLastReport": 32,
+      "currentMktCap": 3200488615,
+      "marketCapAtLastReport": null,
+      "currentPE": 17.87,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "POLR",
+      "company": "POLR - Pensioneeroyds Investment Trust",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -54.2%"
+      ],
+      "currentPrice": 695,
+      "priceAtLastReport": 1283,
+      "currentMktCap": 698267890,
+      "marketCapAtLastReport": null,
+      "currentPE": 17.38,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "QED",
+      "company": "QED - QED Oncology Inc",
+      "lastReportDate": "2026-04-15",
+      "triggers": [
+        "price: 64.0%"
+      ],
+      "currentPrice": 3.3,
+      "priceAtLastReport": 1.25,
+      "currentMktCap": 66203081,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "RNO",
+      "company": "Rhi Office Group PLC",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -73.2%"
+      ],
+      "currentPrice": 31.71,
+      "priceAtLastReport": 25,
+      "currentMktCap": 9350790607,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "RGTI",
+      "company": "RGTI - Rigetti Computing Inc",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -64.6%"
+      ],
+      "currentPrice": 19.45,
+      "priceAtLastReport": 14.36,
+      "currentMktCap": 6460327478,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "NOW",
+      "company": "NOW - ServiceNow, Inc.",
+      "lastReportDate": "2026-04-11",
+      "triggers": [
+        "price: -83.8%"
+      ],
+      "currentPrice": 96.44,
+      "priceAtLastReport": 83,
+      "currentMktCap": 99926887169,
+      "marketCapAtLastReport": null,
+      "currentPE": 57.75,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "SMS",
+      "company": "Smart Metering Systems PLC",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: -0.0%"
+      ],
+      "currentPrice": 0.05,
+      "priceAtLastReport": 1315,
+      "currentMktCap": 12958416,
+      "marketCapAtLastReport": null,
+      "currentPE": null,
+      "peAtLastReport": null
+    },
+    {
+      "ticker": "TPFG",
+      "company": "The Pebble Group PLC",
+      "lastReportDate": "2026-04-16",
+      "triggers": [
+        "price: 525.3%"
+      ],
+      "currentPrice": 453.32,
+      "priceAtLastReport": 62.5,
+      "currentMktCap": 289000571,
+      "marketCapAtLastReport": null,
+      "currentPE": 15.18,
+      "peAtLastReport": null
+    }
+  ],
+  "deferred": [],
+  "unresolvable": [
+    {
+      "ticker": "GOOGL",
+      "company": "GOOGL - Alphabet Inc Class A",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "AVCT.L  LN",
+      "company": "Avacta Group plc",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "GGP.L  LN",
+      "company": "GGP.L  LN - Greatland Resources Ltd",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "KYGA.L / KRZ",
+      "company": "KYGA.L (LSE) / KRZ (ISE) - Kerry Group",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "KBGGY  NO",
+      "company": "KBGGY  NO - Kongsberg Gruppen ASA",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "MDB  US",
+      "company": "MDB  US - MongoDB Inc",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "PL  US",
+      "company": "PL  US - Planet Labs PBC",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "ALRIB",
+      "company": "Riber SA",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "SHOP  US",
+      "company": "SHOP  US - Shopify Inc",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "SIVE.ST",
+      "company": "Sivers Semiconductors AB",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "TBN",
+      "company": "Tamboran Resources Corp",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "TDY  US",
+      "company": "TDY  US - Teledyne Technologies Inc",
+      "reason": "No sheet match found"
+    },
+    {
+      "ticker": "XPEV  US",
+      "company": "XPEV  US - XPeng Inc",
+      "reason": "No sheet match found"
+    }
+  ]
+}

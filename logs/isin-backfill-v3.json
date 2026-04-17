@@ -1,0 +1,77 @@
+{
+  "note": "GOOGL, ALRIB, TBN are in the index but have NO row in the Google Sheet. Do NOT add them to the sheet — Hugh to review whether they should be added or the reports retired. See Phase 2 summary for context.",
+  "noteDate": "2026-04-17",
+  "generatedAt": "2026-04-17T11:06:33.966Z",
+  "total": 319,
+  "alreadyHadIsin": 304,
+  "backfilled": [
+    {
+      "bare": "AVCT",
+      "isin": "GB00BYYW9G87"
+    },
+    {
+      "bare": "GGP",
+      "isin": "AU0000397705"
+    },
+    {
+      "bare": "KYGA",
+      "isin": "IE0004906560"
+    },
+    {
+      "bare": "KBGGY",
+      "isin": "NO0013536151"
+    },
+    {
+      "bare": "MDB",
+      "isin": "US60937P1066"
+    },
+    {
+      "bare": "PL",
+      "isin": "US72703X1063"
+    },
+    {
+      "bare": "SHOP",
+      "isin": "CA82509L1076"
+    },
+    {
+      "bare": "SIVE",
+      "isin": "SE0003917798"
+    },
+    {
+      "bare": "TDY",
+      "isin": "US8793601050"
+    },
+    {
+      "bare": "XPEV",
+      "isin": "US98422D1054"
+    }
+  ],
+  "stillGap": [
+    {
+      "ticker": "GOOGL",
+      "bare": "GOOGL",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "N/A",
+      "bare": "N",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "ALRIB",
+      "bare": "ALRIB",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "TBN",
+      "bare": "TBN",
+      "reason": "no sheet match"
+    },
+    {
+      "ticker": "EOS",
+      "bare": "EOS",
+      "reason": "sheet isin empty",
+      "sheetIsin": "(empty)"
+    }
+  ]
+}

@@ -1,0 +1,3891 @@
+3,21d2
+<     "ticker": "AAPL",
+<     "isin": null,
+<     "exchange_code": null,
+<     "exchange": null,
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Apple Inc",
+<     "file": "appleinc",
+<     "report_url": "/reports/appleinc",
+<     "conviction": 64,
+<     "summary": "Apple's ecosystem durability and Services growth are well-established, but the shares are trading near their 52-week high at a P/E of 33x, leaving limited upside at current levels -",
+<     "date": "2026-04-10",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+<   },
+<   {
+25d5
+<     "exchange": null,
+27d6
+<     "recommendation": "REDUCE",
+29d7
+<     "file": "abbviecommonstock",
+33,38c11
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+44d16
+<     "exchange": null,
+46d17
+<     "recommendation": "HOLD",
+48d18
+<     "file": "abbottlaboratories",
+52,57c22
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+60,76d24
+<     "ticker": "ABVE",
+<     "isin": "CA00373V1004",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "SELL - SPECULATIVE",
+<     "recommendation": "SELL - SPECULATIVE",
+<     "company": "Above Food Ingredients Inc",
+<     "file": "abovefoodingredientsinc",
+<     "report_url": "/reports/abovefoodingredientsinc",
+<     "conviction": 31,
+<     "summary": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger ",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+80d27
+<     "exchange": null,
+82d28
+<     "recommendation": "SELL",
+84d29
+<     "file": "albertsonscompaniesinc",
+88,92c33
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+98d38
+<     "exchange": null,
+100d39
+<     "recommendation": "HOLD",
+102d40
+<     "file": "accentureplc",
+106,112c44
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+118d49
+<     "exchange": null,
+120d50
+<     "recommendation": "HOLD",
+122d51
+<     "file": "adobeinc",
+126,130c55
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+136d60
+<     "exchange": null,
+138d61
+<     "recommendation": "REDUCE",
+140d62
+<     "file": "archerdanielsmidlandco",
+144,148c66
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+154d71
+<     "exchange": null,
+156d72
+<     "recommendation": "HOLD",
+158d73
+<     "file": "adientplc",
+162,166c77
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "date": "2026-04-11"
+172d82
+<     "exchange": null,
+174d83
+<     "recommendation": "REDUCE",
+176d84
+<     "file": "adstecenergyplc",
+179,184c87,88
+<     "summary": "Ads-Tec Energy offers battery-buffered fast chargers that could ease grid bottlenecks, but the shares remain speculative until adoption, channel scale and funding discipline are proven.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Ads-Tec Energy PLC (ADSE) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 38/100, using $11.8 as the latest stored price reference wher...",
+>     "date": "2026-04-11"
+190d93
+<     "exchange": null,
+192d94
+<     "recommendation": "REDUCE",
+194d95
+<     "file": "aercapholdingsnv",
+197,202c98,99
+<     "summary": "AerCap is a high-quality aircraft lessor benefiting from tight plane supply and strong lease economics, but the cycle still hinges on travel demand, credit conditions and residual values.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "AerCap Holdings N.V. (AER) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $145.53 as the latest stored price reference w...",
+>     "date": "2026-04-11"
+208d104
+<     "exchange": null,
+210d105
+<     "recommendation": "REDUCE",
+212d106
+<     "file": "aibgroupplc",
+215,219c109,110
+<     "summary": "AIB has a solid Irish mortgage and SME franchise, but the story is still mostly about net interest income, deposit behaviour and capital returns rather than durable structural growth.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "irish"
+<     ]
+---
+>     "summary": "AIB Group plc (AIB) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using USD 22.29 as the latest stored price reference where...",
+>     "date": "2026-04-11"
+225d115
+<     "exchange": null,
+227d116
+<     "recommendation": "REDUCE",
+229d117
+<     "file": "americaninternationalgroupinc",
+233,237c121
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+240,256d123
+<     "ticker": "ALK.L",
+<     "isin": "GB00BMD6C023",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "HOLD - SPECULATIVE",
+<     "recommendation": "HOLD - SPECULATIVE",
+<     "company": "Alkemy Capital Investments plc",
+<     "file": "alkemycapitalinvestmentsplc",
+<     "report_url": "/reports/alkemycapitalinvestmentsplc",
+<     "conviction": 68,
+<     "summary": "Alkemy Capital Investments is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania - ",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+260d126
+<     "exchange": null,
+262d127
+<     "recommendation": "REDUCE",
+264d128
+<     "file": "alkermesplc",
+267,272c131,132
+<     "summary": "Alkermes has a credible commercial neuroscience base and cash to redeploy, but the shares still depend on product durability and management's ability to fund the next leg of growth.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Alkermes plc (ALKS) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $33.36 as the latest stored price reference where ava...",
+>     "date": "2026-04-11"
+278d137
+<     "exchange": null,
+280d138
+<     "recommendation": "REDUCE",
+282d139
+<     "file": "allstatecorp",
+286,290c143
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+296d148
+<     "exchange": null,
+298d149
+<     "recommendation": "REDUCE",
+300d150
+<     "file": "allegionplc",
+303,308c153,154
+<     "summary": "Allegion is a quality security hardware compounder with installed-base strength in locks, doors and access control, but upside depends on electronic growth outpacing construction softness.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Allegion plc (ALLE) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $144.81 as the latest stored price reference where av...",
+>     "date": "2026-04-11"
+311,346d156
+<     "ticker": "AMBP",
+<     "isin": "JE00BFSP3X59",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Ardagh Metal Packaging SA",
+<     "file": "ardaghmetalpackagingsa",
+<     "report_url": "/reports/ardaghmetalpackagingsa",
+<     "conviction": 58,
+<     "summary": "Ardagh Metal Packaging is a cyclical packaging business rather than a high-growth equity story. The attraction is operational leverage, defensive end-market exposure through beverage cans, and the pos",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+<     "ticker": "AMD",
+<     "isin": null,
+<     "exchange_code": null,
+<     "exchange": null,
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Advanced Micro Devices Inc",
+<     "file": "advancedmicrodevicesinc",
+<     "report_url": "/reports/advancedmicrodevicesinc",
+<     "conviction": 60,
+<     "summary": "AMD is the most credible alternative to NVIDIA in AI accelerators and has made genuine GPU architecture progress, but at a P/E of 94x the market is already pricing a successful execution of an extreme",
+<     "date": "2026-04-10",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+<   },
+<   {
+350d159
+<     "exchange": null,
+352d160
+<     "recommendation": "HOLD",
+354d161
+<     "file": "amgeninc",
+358,363c165
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+369d170
+<     "exchange": null,
+371d171
+<     "recommendation": "HOLD",
+373d172
+<     "file": "amarincorporationplc",
+377,400c176
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+<   },
+<   {
+<     "ticker": "AMZN",
+<     "isin": "US0231351067",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Amazon.com Inc",
+<     "file": "amazoncominc",
+<     "report_url": "/reports/amazoncominc",
+<     "conviction": 76,
+<     "summary": "Amazon is the world's largest e-commerce marketplace and cloud infrastructure provider, operating a network effect business with two dominant platforms - marketplace and AWS - that reinforce each othe",
+<     "date": "2026-04-10",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+403,419d178
+<     "ticker": "ANET",
+<     "isin": "US04004R1068",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Arista Networks Inc",
+<     "file": "aristanetworksinc",
+<     "report_url": "/reports/aristanetworksinc",
+<     "conviction": 67,
+<     "summary": "Arista is one of the cleanest infrastructure beneficiaries of the AI datacentre build-out. Its high-performance cloud networking kit sits directly in the path of hyperscaler capex, and its software-le",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+423d181
+<     "exchange": null,
+425d182
+<     "recommendation": "REDUCE",
+427d183
+<     "file": "aptivplc",
+430,435c186,187
+<     "summary": "Aptiv has real leverage to vehicle electrification and software architecture, but it still operates in a brutally cyclical auto supply chain where launches and volumes can disappoint.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Aptiv plc (APTV) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $59.65 as the latest stored price reference where availa...",
+>     "date": "2026-04-11"
+438,488d189
+<     "ticker": "ASTS",
+<     "isin": "US00217D1000",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "REDUCE - SPECULATIVE",
+<     "recommendation": "REDUCE - SPECULATIVE",
+<     "company": "AST SpaceMobile Inc",
+<     "file": "astspacemobileinc",
+<     "report_url": "/reports/astspacemobileinc",
+<     "conviction": 49,
+<     "summary": "AST SpaceMobile is one of the most exciting and one of the most dangerous names in the watchlist. The concept, direct-to-device satellite broadband using standard mobile phones, is genuinely different",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+<     "ticker": "AUTL",
+<     "isin": "US05280R1005",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "REDUCE - SPECULATIVE",
+<     "recommendation": "REDUCE - SPECULATIVE",
+<     "company": "Autolus Therapeutics plc",
+<     "file": "autolustherapeuticsplc",
+<     "report_url": "/reports/autolustherapeuticsplc",
+<     "conviction": 48,
+<     "summary": "Autolus is a clinical biotech name where the upside exists only if the science and regulatory path work. At $1.49 with a market cap of roughly $362M and negative EPS, the stock is still deep in specul",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+<     "ticker": "AVCT.L",
+<     "isin": "GB00BYYW9G87",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "SPECULATIVE BUY",
+<     "recommendation": "SPECULATIVE BUY",
+<     "company": "Avacta Group plc",
+<     "file": "avactagroupplc",
+<     "report_url": "/reports/avactagroupplc",
+<     "conviction": 68,
+<     "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform, and the latest April 2026 update materially strengthens the thesis: regulators have removed the doxorubicin lifetime dose cap after zero cardiac toxicity observed to date, 90% disease control has been disclosed in chemorefractory salivary gland cancer, and AVA6103 first-patient dosing is now imminent.",
+<     "date": "2026-04-14",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+492d192
+<     "exchange": null,
+494d193
+<     "recommendation": "HOLD",
+496d194
+<     "file": "broadcominc",
+500,505c198
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+511d203
+<     "exchange": null,
+513d204
+<     "recommendation": "HOLD",
+515d205
+<     "file": "americanexpressco",
+519,524c209
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+530d214
+<     "exchange": null,
+532d215
+<     "recommendation": "SELL",
+534d216
+<     "file": "boeingco",
+538,543c220
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+546,562d222
+<     "ticker": "BABA",
+<     "isin": "US01609W1053",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD - SPECULATIVE",
+<     "recommendation": "HOLD - SPECULATIVE",
+<     "company": "Alibaba Group Holding Ltd - ADR",
+<     "file": "alibabagroupholdingltdadr",
+<     "report_url": "/reports/alibabagroupholdingltdadr",
+<     "conviction": 52,
+<     "summary": "Alibaba is a high-quality e-commerce and cloud infrastructure company that has been systematically mispriced by Western markets due to geopolitical risk premium, regulatory overhang from the PRC's tec",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+566d225
+<     "exchange": null,
+568d226
+<     "recommendation": "REDUCE",
+570d227
+<     "file": "bankofamericacorp",
+574,579c231
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+585d236
+<     "exchange": null,
+587d237
+<     "recommendation": "REDUCE",
+589d238
+<     "file": "bankofirelandgroupplc",
+592,597c241,242
+<     "summary": "Bank of Ireland benefits from a stronger domestic lending market and higher rates, but investors still need confidence that deposit stickiness, credit quality and capital returns will hold.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "uk",
+<       "irish"
+<     ]
+---
+>     "summary": "Bank of Ireland Group plc (BIRG) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $16.45 as the latest stored price refere...",
+>     "date": "2026-04-11"
+603d247
+<     "exchange": null,
+605d248
+<     "recommendation": "HOLD",
+607d249
+<     "file": "bankofnewyorkmelloncorp",
+611,615c253
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+621d258
+<     "exchange": null,
+623d259
+<     "recommendation": "BUY",
+625d260
+<     "file": "bookingholdingsinc",
+629,633c264
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+639d269
+<     "exchange": null,
+641d270
+<     "recommendation": "HOLD",
+643d271
+<     "file": "blackrockinc",
+647,652c275
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+655,671d277
+<     "ticker": "BLOE.L",
+<     "isin": null,
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Block Energy PLC",
+<     "file": "blockenergyplc",
+<     "report_url": "/reports/blockenergyplc",
+<     "conviction": 55,
+<     "summary": "Block Energy is a high-risk/high-reward Georgian gas developer with a sub-£15M market cap and an independently certified USD 2.2B NPV10 on Project III alone. The binding farm-out of 51% of Project III",
+<     "date": "2026-04-14",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+675d280
+<     "exchange": null,
+677d281
+<     "recommendation": "REDUCE",
+679d282
+<     "file": "bristolmyerssquibbco",
+683,688c286
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+694d291
+<     "exchange": null,
+696d292
+<     "recommendation": "BUY",
+698d293
+<     "file": "berkshirehathawayincclassb",
+702,707c297
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+710,726d299
+<     "ticker": "BWXT",
+<     "isin": "US09062M1036",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "BWX Technologies, Inc.",
+<     "file": "bwxtechnologiesinc",
+<     "report_url": "/reports/bwxtechnologiesinc",
+<     "conviction": 76,
+<     "summary": "BWX Technologies is the strongest quality name in this part of the market because it offers nuclear exposure through a real operating business rather than through a pure future-technology promise. The",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+730d302
+<     "exchange": null,
+732d303
+<     "recommendation": "REDUCE",
+734d304
+<     "file": "citigroupinc",
+738,743c308
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+749d313
+<     "exchange": null,
+751d314
+<     "recommendation": "REDUCE",
+753d315
+<     "file": "cosmopharmaceuticalsnv",
+756,760c318,319
+<     "summary": "Cosmo blends specialty pharma, devices and partnerships in a way that creates real niche optionality, but execution still rests on a relatively small number of products and deals.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "irish"
+<     ]
+---
+>     "summary": "Cosmo Pharmaceuticals NV (C43) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $96.2 as the latest stored price reference...",
+>     "date": "2026-04-11"
+763,777d321
+<     "ticker": "CAD · TSX-V",
+<     "isin": "CA1956151098",
+<     "exchange_code": "TO",
+<     "exchange": "TO",
+<     "rating": "HOLD - SPECULATIVE",
+<     "recommendation": "HOLD - SPECULATIVE",
+<     "company": "Colonial Coal International Corp",
+<     "file": "colonialcoalinternationalcorp",
+<     "report_url": "/reports/colonialcoalinternationalcorp",
+<     "conviction": 55,
+<     "summary": "Colonial Coal International Corp is a Vancouver-listed metallurgical (steelmaking) coal company focused on the Peace River coalfield in north-east British Columbia. The company holds a 60% interest in",
+<     "date": "2026-04-08",
+<     "universes": []
+<   },
+<   {
+781d324
+<     "exchange": null,
+783d325
+<     "recommendation": "REDUCE",
+785d326
+<     "file": "cardinalhealthinc",
+789,793c330
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+799d335
+<     "exchange": null,
+801d336
+<     "recommendation": "HOLD",
+803d337
+<     "file": "caterpillarinc",
+807,812c341
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+818d346
+<     "exchange": null,
+820d347
+<     "recommendation": "REDUCE",
+822d348
+<     "file": "cignagroup",
+826,830c352
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+836d357
+<     "exchange": null,
+838d358
+<     "recommendation": "HOLD",
+840d359
+<     "file": "colgatepalmoliveco",
+844,848c363
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+854d368
+<     "exchange": null,
+856d369
+<     "recommendation": "REDUCE",
+858d370
+<     "file": "comcastcorp",
+862,867c374
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+873d379
+<     "exchange": null,
+875d380
+<     "recommendation": "REDUCE",
+877d381
+<     "file": "cimpressplc",
+880,885c384,385
+<     "summary": "Cimpress is more than a legacy print name thanks to Vistaprint, software and fulfilment scale, but returns still depend on disciplined marketing and efficient execution in a mature category.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Cimpress plc (CMPR) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $76.7 as the latest stored price reference where avai...",
+>     "date": "2026-04-11"
+891d390
+<     "exchange": null,
+893d391
+<     "recommendation": "HOLD",
+895d392
+<     "file": "centenecorp",
+899,903c396
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+909d401
+<     "exchange": null,
+911d402
+<     "recommendation": "HOLD",
+913d403
+<     "file": "capitalonefinancialcorp",
+917,921c407
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+927d412
+<     "exchange": null,
+929d413
+<     "recommendation": "HOLD",
+931d414
+<     "file": "conocophillips",
+935,940c418
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+946d423
+<     "exchange": null,
+948d424
+<     "recommendation": "REDUCE",
+950d425
+<     "file": "cencorainc",
+954,958c429
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+964d434
+<     "exchange": null,
+966d435
+<     "recommendation": "REDUCE",
+968d436
+<     "file": "costcowholesalecorp",
+972,977c440
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+983d445
+<     "exchange": null,
+985d446
+<     "recommendation": "BUY",
+987d447
+<     "file": "crhplc",
+991,995c451
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "date": "2026-04-11"
+998,1014d453
+<     "ticker": "CRIS",
+<     "isin": "US2312693094",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "REDUCE - SPECULATIVE",
+<     "recommendation": "REDUCE - SPECULATIVE",
+<     "company": "Curis Inc",
+<     "file": "curisinc",
+<     "report_url": "/reports/curisinc",
+<     "conviction": 40,
+<     "summary": "Curis is a small-cap oncology biotech with the usual combination of scientific optionality and financial fragility. At $0.5535 with a market cap of about $20.8M and negative EPS of -$1.20, the equity ",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+1018d456
+<     "exchange": null,
+1020d457
+<     "recommendation": "HOLD",
+1022d458
+<     "file": "salesforceinc",
+1026,1031c462
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1034,1050d464
+<     "ticker": "CRWD",
+<     "isin": "US22788C1053",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "CrowdStrike Holdings Inc",
+<     "file": "crowdstrikeholdingsinc",
+<     "report_url": "/reports/crowdstrikeholdingsinc",
+<     "conviction": 65,
+<     "summary": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+1054d467
+<     "exchange": null,
+1056d468
+<     "recommendation": "REDUCE",
+1058d469
+<     "file": "ciscosystemsinc",
+1062,1067c473
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1073d478
+<     "exchange": null,
+1075d479
+<     "recommendation": "REDUCE",
+1077d480
+<     "file": "cvshealthcorp",
+1081,1086c484
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1092d489
+<     "exchange": null,
+1094d490
+<     "recommendation": "HOLD",
+1096d491
+<     "file": "chevroncorp",
+1100,1105c495
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1111d500
+<     "exchange": null,
+1113d501
+<     "recommendation": "HOLD",
+1115d502
+<     "file": "deltaairlinesinc",
+1119,1123c506
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+1129d511
+<     "exchange": null,
+1131d512
+<     "recommendation": "BUY",
+1133d513
+<     "file": "dccplc",
+1137,1140c517
+<     "date": "2026-04-11",
+<     "universes": [
+<       "uk"
+<     ]
+---
+>     "date": "2026-04-11"
+1146d522
+<     "exchange": null,
+1148d523
+<     "recommendation": "HOLD",
+1150d524
+<     "file": "deereco",
+1154,1159c528
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1165d533
+<     "exchange": null,
+1167d534
+<     "recommendation": "REDUCE",
+1169d535
+<     "file": "delltechnologiesinc",
+1173,1195c539
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+<   },
+<   {
+<     "ticker": "DGE.L",
+<     "isin": "GB00B7F7S988",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Diageo plc",
+<     "file": "diageoplc",
+<     "report_url": "/reports/diageoplc",
+<     "conviction": 62,
+<     "summary": "Diageo is a quality compounder trading at decade-low valuations following a significant operational reset.\n              The February 2026 H1 results delivered a kitchen-sink moment: dividend halved, ",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+---
+>     "date": "2026-04-11"
+1201d544
+<     "exchange": null,
+1203d545
+<     "recommendation": "REDUCE",
+1205d546
+<     "file": "danahercorp",
+1209,1214c550
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1220d555
+<     "exchange": null,
+1222d556
+<     "recommendation": "REDUCE",
+1224d557
+<     "file": "waltdisneyco",
+1228,1233c561
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1239d566
+<     "exchange": null,
+1241d567
+<     "recommendation": "HOLD",
+1243d568
+<     "file": "doleplc",
+1247,1251c572
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "date": "2026-04-11"
+1257d577
+<     "exchange": null,
+1259d578
+<     "recommendation": "REDUCE",
+1261d579
+<     "file": "dowinc",
+1265,1269c583
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+1275d588
+<     "exchange": null,
+1277d589
+<     "recommendation": "HOLD",
+1279d590
+<     "file": "dukeenergycorp",
+1283,1288c594
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1294d599
+<     "exchange": null,
+1296d600
+<     "recommendation": "REDUCE",
+1298d601
+<     "file": "elevancehealthinc",
+1302,1306c605
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+1312d610
+<     "exchange": null,
+1314d611
+<     "recommendation": "HOLD",
+1316d612
+<     "file": "emersonelectricco",
+1320,1324c616
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1330d621
+<     "exchange": null,
+1332d622
+<     "recommendation": "HOLD",
+1334d623
+<     "file": "enterpriseproductspartnerslp",
+1338,1342c627
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+1348d632
+<     "exchange": null,
+1350d633
+<     "recommendation": "HOLD",
+1352d634
+<     "file": "energytransferlpunit",
+1356,1360c638
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+1363,1379d640
+<     "ticker": "ETL.PA (EURONEXT PARIS) / ETL.L (LSE)",
+<     "isin": "FR0010221234",
+<     "exchange_code": "FP",
+<     "exchange": "FP",
+<     "rating": "REDUCE",
+<     "recommendation": "REDUCE",
+<     "company": "Eutelsat Communications",
+<     "file": "eutelsatcommunicationssa",
+<     "report_url": "/reports/eutelsatcommunicationssa",
+<     "conviction": 41,
+<     "summary": "Eutelsat has been absolutely destroyed - down ~51% from its 52-week high of €4.74\n              to €2.33. The stock is sitting 47% above its 52-week low of €1.59, having recovered\n              from t",
+<     "date": "2026-04-07",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+1383d643
+<     "exchange": null,
+1385d644
+<     "recommendation": "HOLD",
+1387d645
+<     "file": "eatoncorporationplc",
+1390,1395c648,649
+<     "summary": "Eaton has become a durable electrification winner with exposure to grid upgrades, data centres and power management, though it still needs to navigate the normal swings of industrial demand.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Eaton Corporation PLC (ETN) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is HOLD with conviction 68/100, using $403 as the latest stored price reference where...",
+>     "date": "2026-04-11"
+1401d654
+<     "exchange": null,
+1403d655
+<     "recommendation": "REDUCE",
+1405d656
+<     "file": "experianplc",
+1408,1413c659,660
+<     "summary": "Experian is a deeply embedded credit and data analytics franchise with recurring revenue and strong cash conversion, though the market already recognises much of that quality.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Experian plc (EXPGF) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 48/100, using $35.04 as the latest stored price reference where av...",
+>     "date": "2026-04-11"
+1419d665
+<     "exchange": null,
+1421d666
+<     "recommendation": "REDUCE",
+1423d667
+<     "file": "fordmotorco",
+1427,1432c671
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1438d676
+<     "exchange": null,
+1440d677
+<     "recommendation": "HOLD",
+1442d678
+<     "file": "fedexcorp",
+1446,1451c682
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1454,1470d684
+<     "ticker": "FFAI",
+<     "isin": "US3073598852",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "SELL - SPECULATIVE",
+<     "recommendation": "SELL - SPECULATIVE",
+<     "company": "Faraday Future Intelligent Electric Inc",
+<     "file": "faradayfutureintelligentelectricinc",
+<     "report_url": "/reports/faradayfutureintelligentelectricinc",
+<     "conviction": 18,
+<     "summary": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating e",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+1474d687
+<     "exchange": null,
+1476d688
+<     "recommendation": "REDUCE",
+1478d689
+<     "file": "flutterentertainmentplc",
+1481,1486c692,693
+<     "summary": "Flutter is one of the strongest operators in online betting and gaming, but the shares still hinge on how durable US and international economics remain under constant regulatory pressure.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Flutter Entertainment (FLUT) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $102.38 as the latest stored price reference...",
+>     "date": "2026-04-11"
+1492d698
+<     "exchange": null,
+1494d699
+<     "recommendation": "SELL",
+1496d700
+<     "file": "kneatcominc",
+1499,1503c703,704
+<     "summary": "Kneat sells sticky validation software into highly regulated manufacturing workflows, but the investment case still turns on whether the company can scale recurring revenue without outrunning costs.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "irish"
+<     ]
+---
+>     "summary": "Kneat.com Inc (FOBK) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is SELL with conviction 28/100, using $2.26 as the latest stored price reference where avail...",
+>     "date": "2026-04-11"
+1506,1522d706
+<     "ticker": "FTNT",
+<     "isin": "US34959E1091",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Fortinet Inc",
+<     "file": "fortinetinc",
+<     "report_url": "/reports/fortinetinc",
+<     "conviction": 55,
+<     "summary": "Fortinet is a network security company focused on the mid-market and enterprise segment, selling firewalls, secure access (SD-WAN), and endpoint security through a combination of hardware appliances a",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+1526d709
+<     "exchange": null,
+1528d710
+<     "recommendation": "HOLD",
+1530d711
+<     "file": "generaldynamicscorp",
+1534,1538c715
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1544d720
+<     "exchange": null,
+1546d721
+<     "recommendation": "REDUCE",
+1548d722
+<     "file": "generalelectricco",
+1552,1557c726
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1563d731
+<     "exchange": null,
+1565d732
+<     "recommendation": "HOLD",
+1567d733
+<     "file": "gevernovainc",
+1571,1575c737
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1581d742
+<     "exchange": null,
+1583d743
+<     "recommendation": "HOLD",
+1585d744
+<     "file": "graftongroupplc",
+1589,1592c748
+<     "date": "2026-04-11",
+<     "universes": [
+<       "uk"
+<     ]
+---
+>     "date": "2026-04-11"
+1595,1611d750
+<     "ticker": "GGP.L",
+<     "isin": "AU0000397705",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "HOLD - SPECULATIVE",
+<     "recommendation": "HOLD - SPECULATIVE",
+<     "company": "Greatland Resources Ltd",
+<     "file": "greatlandresourcesltd",
+<     "report_url": "/reports/greatlandresourcesltd",
+<     "conviction": 57,
+<     "summary": "Greatland Resources is a UK-listed gold explorer and mining company focused on the prolific Pilbara region of Western Australia and, critically, a flagship partnership with Newmont at the Blackhill jo",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+1615d753
+<     "exchange": null,
+1617d754
+<     "recommendation": "REDUCE",
+1619d755
+<     "file": "ghresearchplc",
+1622,1627c758,759
+<     "summary": "GH Research offers meaningful upside if its psychedelic-derived therapies deliver in the clinic, but this remains an early-stage biotech story where trial evidence must do all the work.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "GH Research PLC (GHRS) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 46/100, using $15.72 as the latest stored price reference where...",
+>     "date": "2026-04-11"
+1633d764
+<     "exchange": null,
+1635d765
+<     "recommendation": "HOLD",
+1637d766
+<     "file": "gileadsciencesinc",
+1641,1645c770
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1651d775
+<     "exchange": null,
+1653d776
+<     "recommendation": "REDUCE",
+1655d777
+<     "file": "glanbiaplc",
+1658,1662c780,781
+<     "summary": "Glanbia has attractive branded nutrition exposure, but the shares can still be dragged around by dairy-linked sentiment and ingredient volatility when the market loses sight of the better business mix.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "irish"
+<     ]
+---
+>     "summary": "Glanbia plc (GL9) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $16.94 as the latest stored price reference where avail...",
+>     "date": "2026-04-11"
+1665,1681d783
+<     "ticker": "GLEN.L",
+<     "isin": "JE00B4T3BW27",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Glencore plc",
+<     "file": "glencoreplc",
+<     "report_url": "/reports/glencoreplc",
+<     "conviction": 64,
+<     "summary": "Glencore is one of the world's largest diversified commodity groups, operating mining and marketing\n              assets across copper, zinc, cobalt, coal, oil, and agricultural commodities. The compa",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+1685d786
+<     "exchange": null,
+1687d787
+<     "recommendation": "REDUCE",
+1689d788
+<     "file": "generalmotorsco",
+1693,1698c792
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1704d797
+<     "exchange": null,
+1706d798
+<     "recommendation": "HOLD",
+1708d799
+<     "file": "alphabetincclassa",
+1712,1717c803
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1723d808
+<     "exchange": null,
+1725d809
+<     "recommendation": "REDUCE",
+1727d810
+<     "file": "goldmansachsgroupinc",
+1731,1736c814
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1742d819
+<     "exchange": null,
+1744d820
+<     "recommendation": "HOLD",
+1746d821
+<     "file": "hcahealthcareinc",
+1750,1754c825
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+1760d830
+<     "exchange": null,
+1762d831
+<     "recommendation": "REDUCE",
+1764d832
+<     "file": "homedepotinc",
+1768,1773c836
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1779d841
+<     "exchange": null,
+1781d842
+<     "recommendation": "REDUCE",
+1783d843
+<     "file": "honeywellinternationalinc",
+1787,1792c847
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1798d852
+<     "exchange": null,
+1800d853
+<     "recommendation": "REDUCE",
+1802d854
+<     "file": "humanainc",
+1806,1810c858
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+1816d863
+<     "exchange": null,
+1818d864
+<     "recommendation": "HOLD",
+1820d865
+<     "file": "ibmcommonstock",
+1824,1829c869
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1835d874
+<     "exchange": null,
+1837d875
+<     "recommendation": "REDUCE",
+1839d876
+<     "file": "iconplc",
+1842,1847c879,880
+<     "summary": "ICON remains a leading contract research organisation with structural outsourcing tailwinds, but investors still need to judge how much biopharma spending caution is already in the stock.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Icon plc (ICLR) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $106.81 as the latest stored price reference where availa...",
+>     "date": "2026-04-11"
+1850,1868d882
+<     "ticker": "INTC",
+<     "isin": null,
+<     "exchange_code": null,
+<     "exchange": null,
+<     "rating": "SELL",
+<     "recommendation": "SELL",
+<     "company": "Intel Corporation",
+<     "file": "intelcorp",
+<     "report_url": "/reports/intelcorp",
+<     "conviction": 27,
+<     "summary": "Intel faces a structural competitive disadvantage in AI accelerators, has lost server CPU market share to AMD, and its foundry transformation is capital-intensive with an uncertain payoff - the stock ",
+<     "date": "2026-04-10",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+<   },
+<   {
+1872d885
+<     "exchange": null,
+1874d886
+<     "recommendation": "HOLD",
+1876d887
+<     "file": "intuitinc",
+1880,1885c891
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1888,1904d893
+<     "ticker": "IONQ",
+<     "isin": "US46222L1089",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "REDUCE - SPECULATIVE",
+<     "recommendation": "REDUCE - SPECULATIVE",
+<     "company": "IonQ Inc",
+<     "file": "ionqinc",
+<     "report_url": "/reports/ionqinc",
+<     "conviction": 47,
+<     "summary": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.5",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+1908d896
+<     "exchange": null,
+1910d897
+<     "recommendation": "HOLD",
+1912d898
+<     "file": "ingersollrandinc",
+1916,1920c902
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "date": "2026-04-11"
+1923,1937d904
+<     "ticker": "IREN",
+<     "isin": "AU0000185993",
+<     "exchange_code": "AU",
+<     "exchange": "AU",
+<     "rating": "HOLD - SPECULATIVE",
+<     "recommendation": "HOLD - SPECULATIVE",
+<     "company": "Iris Energy Ltd",
+<     "file": "irenltd",
+<     "report_url": "/reports/irenltd",
+<     "conviction": 61,
+<     "summary": "Iris Energy is one of the cleaner listed ways to play the intersection of Bitcoin mining, power infrastructure, and AI/HPC optionality. The market likes that combination, which is why the stock sits j",
+<     "date": "2026-04-08",
+<     "universes": []
+<   },
+<   {
+1941d907
+<     "exchange": null,
+1943d908
+<     "recommendation": "HOLD",
+1945d909
+<     "file": "intuitivesurgicalinc",
+1949,1953c913
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+1959d918
+<     "exchange": null,
+1961d919
+<     "recommendation": "SELL",
+1963d920
+<     "file": "iterumtherapeuticsplc",
+1966,1971c923,924
+<     "summary": "Iterum is a high-risk anti-infectives biotech whose value depends on a narrow set of regulatory and commercial outcomes, making it far more of a special situation than a core investment.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Iterum Therapeutics PLC (ITRMF) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is SELL with conviction 4/100, using $0.01 as the latest stored price reference w...",
+>     "date": "2026-04-11"
+1977d929
+<     "exchange": null,
+1979d930
+<     "recommendation": "REDUCE",
+1981d931
+<     "file": "jazzpharmaceuticalsplc",
+1984,1989c934,935
+<     "summary": "Jazz is a profitable specialty pharma company with solid cash flow, but the shares still depend on portfolio durability and management's ability to replace growth as key products mature.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Jazz Pharmaceuticals (JAZZ) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $194.2 as the latest stored price reference w...",
+>     "date": "2026-04-11"
+1995d940
+<     "exchange": null,
+1997d941
+<     "recommendation": "HOLD",
+1999d942
+<     "file": "johnsoncontrolsinternationalplc",
+2003,2024c946
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+<   },
+<   {
+<     "ticker": "JD",
+<     "isin": "US47215P1066",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "JD.com",
+<     "file": "jd",
+<     "report_url": "/reports/jd",
+<     "conviction": 58,
+<     "summary": "JD.com is a high-quality, large-scale Chinese e-commerce and logistics platform that has underperformed peers due to a profitability reset in FY2025. Revenue growth of 13% YoY to US$187.2B is respecta",
+<     "date": "2026-04-14",
+<     "universes": [
+<       "us"
+<     ]
+---
+>     "date": "2026-04-11"
+2030d951
+<     "exchange": null,
+2032d952
+<     "recommendation": "REDUCE",
+2034d953
+<     "file": "jameshardieindustriesplc",
+2037,2042c956,957
+<     "summary": "James Hardie owns a strong fibre-cement franchise in the US, but even a high-quality business is tied to housing, repair and remodel cycles that can quickly change the entry case.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "James Hardie Industries (JHX) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $21.02 as the latest stored price reference...",
+>     "date": "2026-04-11"
+2048d962
+<     "exchange": null,
+2050d963
+<     "recommendation": "HOLD",
+2052d964
+<     "file": "johnsonjohnson",
+2056,2061c968
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2067d973
+<     "exchange": null,
+2069d974
+<     "recommendation": "HOLD",
+2071d975
+<     "file": "jpmorganchaseco",
+2075,2080c979
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2083,2099d981
+<     "ticker": "KBGGY · NO",
+<     "isin": "NO0013536151",
+<     "exchange_code": "NO",
+<     "exchange": "NO",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Kongsberg Gruppen ASA",
+<     "file": "kongsberggruppenunsponsorednorwayadr",
+<     "report_url": "/reports/kongsberggruppenunsponsorednorwayadr",
+<     "conviction": 58,
+<     "summary": "Kongsberg Gruppen ASA (KBGGY) provides Norwegian defence and maritime technology exposure through an ADR structure, with strong NATO-linked demand support but enough valuation risk to keep the stance at HOLD.",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+2103d984
+<     "exchange": null,
+2105d985
+<     "recommendation": "BUY",
+2107d986
+<     "file": "kingspangroupadr",
+2110,2115c989,990
+<     "summary": "Kingspan combines real franchise quality with structural exposure to energy-efficient buildings, though investors still need to respect the normal cyclicality of construction markets.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Kingspan Group ADR (KGSPY) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is BUY with conviction 84/100, using $90.15 as the latest stored price reference where...",
+>     "date": "2026-04-11"
+2121d995
+<     "exchange": null,
+2123d996
+<     "recommendation": "REDUCE",
+2125d997
+<     "file": "cocacolaco",
+2129,2134c1001
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2140d1006
+<     "exchange": null,
+2142d1007
+<     "recommendation": "REDUCE",
+2144d1008
+<     "file": "krogerco",
+2148,2152c1012
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+2155,2172d1014
+<     "ticker": "KYGA.L (LSE) / KRZ (ISE)",
+<     "isin": "GB00B2QC4L34",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Kerry Group",
+<     "file": "kerrygroupplc",
+<     "report_url": "/reports/kerrygroupplc",
+<     "conviction": 58,
+<     "summary": "Kerry Group has been a deeply disappointing long-term investment - down ~25% over 1 year and\n              ~26% over 5 years, and currently trading ~31% below its 52-week high of €100.50. The\n        ",
+<     "date": "2026-04-07",
+<     "universes": [
+<       "uk",
+<       "irish"
+<     ]
+<   },
+<   {
+2176d1017
+<     "exchange": null,
+2178d1018
+<     "recommendation": "HOLD",
+2180d1019
+<     "file": "lindeplc",
+2183,2188c1022,1023
+<     "summary": "Linde is a premier industrial gases franchise with sticky contracts, pricing discipline and resilient cash generation, even if that quality rarely comes at an obviously cheap valuation.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "summary": "Linde PLC (LIN) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is HOLD with conviction 61/100, using $503.15 as the latest stored price reference where available.",
+>     "date": "2026-04-11"
+2194d1028
+<     "exchange": null,
+2196d1029
+<     "recommendation": "REDUCE",
+2198d1030
+<     "file": "elilillyandco",
+2202,2207c1034
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2213d1039
+<     "exchange": null,
+2215d1040
+<     "recommendation": "HOLD",
+2217d1041
+<     "file": "lockheedmartincorp",
+2221,2226c1045
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2229,2262d1047
+<     "ticker": "LND",
+<     "isin": "GG00BMX4VR69",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "SELL - SPECULATIVE",
+<     "recommendation": "SELL - SPECULATIVE",
+<     "company": "Landore Resources Ltd",
+<     "file": "landoreresourcesltd",
+<     "report_url": "/reports/landoreresourcesltd",
+<     "conviction": 34,
+<     "summary": "Landore sits firmly in the small-cap exploration bucket where the asset story can sound better than the equity outcome. At 2.20p, essentially flat near the top of a very low trading range, the company",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+<     "ticker": "LON:CMRS",
+<     "isin": null,
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "SELL",
+<     "recommendation": "SELL",
+<     "company": "Critical Mineral Resources PLC",
+<     "file": "cmrs",
+<     "report_url": "/reports/cmrs",
+<     "conviction": 22,
+<     "summary": "Critical Mineral Resources PLC is a UK AIM micro-cap explorer with no revenue, negative equity, and no JORC-compliant resource. Its only material asset is the Agadir Melloul copper-silver project in M",
+<     "date": "2026-04-14",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+2266d1050
+<     "exchange": null,
+2268d1051
+<     "recommendation": "REDUCE",
+2270d1052
+<     "file": "lowescompaniesinc",
+2274,2279c1056
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2285d1061
+<     "exchange": null,
+2287d1062
+<     "recommendation": "HOLD",
+2289d1063
+<     "file": "lamresearchcorp",
+2293,2297c1067
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2303d1072
+<     "exchange": null,
+2305d1073
+<     "recommendation": "HOLD",
+2307d1074
+<     "file": "mastercardinc",
+2311,2316c1078
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2322d1083
+<     "exchange": null,
+2324d1084
+<     "recommendation": "REDUCE",
+2326d1085
+<     "file": "mcdonaldscorp",
+2330,2335c1089
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2341d1094
+<     "exchange": null,
+2343d1095
+<     "recommendation": "REDUCE",
+2345d1096
+<     "file": "mckessoncorp",
+2349,2353c1100
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+2356,2372d1102
+<     "ticker": "MDB",
+<     "isin": "US6081901042",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "MongoDB Inc",
+<     "file": "mongodbinc",
+<     "report_url": "/reports/mongodbinc",
+<     "conviction": 62,
+<     "summary": "MongoDB is one of the most developer-trusted database platforms in the world, built on an open-source model that has successfully transitioned into a cloud-first subscription business. Atlas, its full",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+2376d1105
+<     "exchange": null,
+2378d1106
+<     "recommendation": "HOLD",
+2380d1107
+<     "file": "mondelezinternationalinccommonstock",
+2384,2389c1111
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2395d1116
+<     "exchange": null,
+2397d1117
+<     "recommendation": "HOLD",
+2399d1118
+<     "file": "medtronicplc",
+2403,2409c1122
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2415d1127
+<     "exchange": null,
+2417d1128
+<     "recommendation": "HOLD",
+2419d1129
+<     "file": "metlifeinc",
+2423,2427c1133
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+2430,2465d1135
+<     "ticker": "META",
+<     "isin": null,
+<     "exchange_code": null,
+<     "exchange": null,
+<     "rating": "BUY",
+<     "recommendation": "BUY",
+<     "company": "Meta Platforms Inc",
+<     "file": "metaplatformsinc",
+<     "report_url": "/reports/metaplatformsinc",
+<     "conviction": 81,
+<     "summary": "Meta's transformation from a social media company into an AI-first technology platform - with a dominant digital advertising franchise, a rapidly scaling Llama-based open-source ecosystem, and a Reels",
+<     "date": "2026-04-10",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+<   },
+<   {
+<     "ticker": "MKA.L",
+<     "isin": "CA60686A4090",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "HOLD - SPECULATIVE",
+<     "recommendation": "HOLD - SPECULATIVE",
+<     "company": "Mkango Resources Ltd",
+<     "file": "mkangoresourcesltd",
+<     "report_url": "/reports/mkangoresourcesltd",
+<     "conviction": 65,
+<     "summary": "Mkango is a Canadian-listed rare earths and recycling company with two core assets: the Songwe Hill rare earths project in Malawi and the Akokoma magnet recycling joint venture in Poland. The investme",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+2469d1138
+<     "exchange": null,
+2471d1139
+<     "recommendation": "HOLD",
+2473d1140
+<     "file": "3mco",
+2477,2482c1144
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2488d1149
+<     "exchange": null,
+2490d1150
+<     "recommendation": "HOLD",
+2492d1151
+<     "file": "altriagroupinc",
+2496,2500c1155
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2506d1160
+<     "exchange": null,
+2508d1161
+<     "recommendation": "HOLD",
+2510d1162
+<     "file": "marathonpetroleumcorp",
+2514,2518c1166
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+2524d1171
+<     "exchange": null,
+2526d1172
+<     "recommendation": "REDUCE",
+2528d1173
+<     "file": "merckcoinc",
+2532,2537c1177
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2543d1182
+<     "exchange": null,
+2545d1183
+<     "recommendation": "HOLD",
+2547d1184
+<     "file": "morganstanley",
+2551,2556c1188
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2559,2577d1190
+<     "ticker": "MSFT",
+<     "isin": null,
+<     "exchange_code": null,
+<     "exchange": null,
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Microsoft Corporation",
+<     "file": "microsoftcorp",
+<     "report_url": "/reports/microsoftcorp",
+<     "conviction": 69,
+<     "summary": "Microsoft's Azure AI momentum and Copilot monetisation are real and accelerating, but the shares are at a P/E of 23x - reasonable for this quality of business, but leaving limited margin of safety at ",
+<     "date": "2026-04-10",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+<   },
+<   {
+2581d1193
+<     "exchange": null,
+2583d1194
+<     "recommendation": "HOLD",
+2585d1195
+<     "file": "microntechnologyinc",
+2589,2593c1199
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2599d1204
+<     "exchange": null,
+2601d1205
+<     "recommendation": "REDUCE",
+2603d1206
+<     "file": "nexteraenergyinc",
+2607,2612c1210
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2618d1215
+<     "exchange": null,
+2620d1216
+<     "recommendation": "HOLD",
+2622d1217
+<     "file": "netflixinc",
+2626,2631c1221
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2634,2650d1223
+<     "ticker": "NIO",
+<     "isin": "US6541061031",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "REDUCE - SPECULATIVE",
+<     "recommendation": "REDUCE - SPECULATIVE",
+<     "company": "NIO Inc",
+<     "file": "nioincadr",
+<     "report_url": "/reports/nioincadr",
+<     "conviction": 38,
+<     "summary": "NIO is a Chinese premium electric vehicle maker with a battery-as-a-service (BaaS) model and a nationwide swap station network. The investment case rests on NIO's premium brand positioning, its propri",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+2654d1226
+<     "exchange": null,
+2656d1227
+<     "recommendation": "REDUCE",
+2658d1228
+<     "file": "nikeinc",
+2662,2667c1232
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2673d1237
+<     "exchange": null,
+2675d1238
+<     "recommendation": "HOLD",
+2677d1239
+<     "file": "northropgrummancorp",
+2681,2686c1243
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2692d1248
+<     "exchange": null,
+2694d1249
+<     "recommendation": "HOLD",
+2696d1250
+<     "file": "servicenowinc",
+2700,2704c1254
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2707,2725d1256
+<     "ticker": "NVDA",
+<     "isin": "US67066G1040",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "NVIDIA Corporation",
+<     "file": "nvidiacorp",
+<     "report_url": "/reports/nvidiacorp",
+<     "conviction": 68,
+<     "summary": "NVIDIA sits at the epicentre of the AI infrastructure buildout, commanding an effective monopoly in AI accelerators via its CUDA ecosystem and the Hopper/Blackwell GPU architecture. At $181.46 the sha",
+<     "date": "2026-04-10",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+<   },
+<   {
+2729d1259
+<     "exchange": null,
+2731d1260
+<     "recommendation": "REDUCE",
+2733d1261
+<     "file": "navitassemiconductorcorp",
+2736,2773c1264,1265
+<     "summary": "Navitas has an interesting next-generation power semiconductor story in gallium nitride and silicon carbide, but commercial ramps and competitive pressure can stay messy for longer than hoped.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+<   },
+<   {
+<     "ticker": "OKLO",
+<     "isin": "US67987P1059",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD - SPECULATIVE",
+<     "recommendation": "HOLD - SPECULATIVE",
+<     "company": "Oklo Inc.",
+<     "file": "okloinc",
+<     "report_url": "/reports/okloinc",
+<     "conviction": 61,
+<     "summary": "Oklo is one of the cleanest listed ways to express the view that AI-era electricity demand will force the market to take advanced nuclear seriously. The company’s appeal is not just “nuclear”, it is",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+<     "ticker": "ONDO",
+<     "isin": "GB00BNVVGD77",
+<     "exchange_code": "CRYPTO",
+<     "exchange": "CRYPTO",
+<     "rating": "REDUCE - SPECULATIVE",
+<     "recommendation": "REDUCE - SPECULATIVE",
+<     "company": "Ondo",
+<     "file": "ondoinsurtechplc",
+<     "report_url": "/reports/ondoinsurtechplc",
+<     "conviction": 48,
+<     "summary": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is e",
+<     "date": "2026-04-08",
+<     "universes": []
+---
+>     "summary": "Navitas Semiconductor (NVTS) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $9.54 as the latest stored price reference w...",
+>     "date": "2026-04-11"
+2779d1270
+<     "exchange": null,
+2781d1271
+<     "recommendation": "REDUCE",
+2783d1272
+<     "file": "oraclecorp",
+2787,2792c1276
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2795,2828d1278
+<     "ticker": "PALM.L",
+<     "isin": "IM00BRF2WV49",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "REDUCE - SPECULATIVE",
+<     "recommendation": "REDUCE - SPECULATIVE",
+<     "company": "Panther Metals plc",
+<     "file": "panthermetalsplc",
+<     "report_url": "/reports/panthermetalsplc",
+<     "conviction": 43,
+<     "summary": "Panther Metals is firmly in the small-cap exploration camp where upside can be dramatic, but the path is usually through dilution, volatility and a lot of hope. At 80.0p, up on the day with limited vo",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+<     "ticker": "PANW",
+<     "isin": "US6974351057",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Palo Alto Networks Inc",
+<     "file": "paloaltonetworksinc",
+<     "report_url": "/reports/paloaltonetworksinc",
+<     "conviction": 74,
+<     "summary": "Palo Alto Networks is the dominant next-generation firewall vendor making the transition to a comprehensive platform company - SASE, cloud security, AI-powered security operations (XSIAM), and SOC aut",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+2832d1281
+<     "exchange": null,
+2834d1282
+<     "recommendation": "REDUCE",
+2836d1283
+<     "file": "pepsicoinc",
+2840,2845c1287
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2851d1292
+<     "exchange": null,
+2853d1293
+<     "recommendation": "REDUCE",
+2855d1294
+<     "file": "pfizerinc",
+2859,2864c1298
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2870d1303
+<     "exchange": null,
+2872d1304
+<     "recommendation": "HOLD",
+2874d1305
+<     "file": "proctergambleco",
+2878,2883c1309
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2889d1314
+<     "exchange": null,
+2891d1315
+<     "recommendation": "HOLD",
+2893d1316
+<     "file": "progressivecorp",
+2897,2901c1320
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+2904,2920d1322
+<     "ticker": "PL",
+<     "isin": "US72703X1089",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "REDUCE - SPECULATIVE",
+<     "recommendation": "REDUCE - SPECULATIVE",
+<     "company": "Planet Labs PBC",
+<     "file": "planetlabspbc",
+<     "report_url": "/reports/planetlabspbc",
+<     "conviction": 43,
+<     "summary": "Planet Labs operates the world's largest commercial fleet of Earth observation satellites - over 200 satellites imaging the entire land surface of Earth every single day. This gives the company a uniq",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+2924d1325
+<     "exchange": null,
+2926d1326
+<     "recommendation": "HOLD",
+2928d1327
+<     "file": "palantirtechnologiesinc",
+2932,2936c1331
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2942d1336
+<     "exchange": null,
+2944d1337
+<     "recommendation": "HOLD",
+2946d1338
+<     "file": "philipmorrisinternationalinc",
+2950,2955c1342
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+2961d1347
+<     "exchange": null,
+2963d1348
+<     "recommendation": "HOLD",
+2965d1349
+<     "file": "perrigocompanyplc",
+2969,2973c1353
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "date": "2026-04-11"
+2979d1358
+<     "exchange": null,
+2981d1359
+<     "recommendation": "REDUCE",
+2983d1360
+<     "file": "prothenacorporationplc",
+2987,2991c1364
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "date": "2026-04-11"
+2997d1369
+<     "exchange": null,
+2999d1370
+<     "recommendation": "HOLD",
+3001d1371
+<     "file": "prudentialfinancialinc",
+3005,3009c1375
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+3015d1380
+<     "exchange": null,
+3017d1381
+<     "recommendation": "HOLD",
+3019d1382
+<     "file": "phillips66",
+3023,3027c1386
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+3030,3063d1388
+<     "ticker": "PXEN.L",
+<     "isin": "GB00BMFZVZ53",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "HOLD - SPECULATIVE",
+<     "recommendation": "HOLD - SPECULATIVE",
+<     "company": "Prospex Energy plc",
+<     "file": "prospexenergyplc",
+<     "report_url": "/reports/prospexenergyplc",
+<     "conviction": 58,
+<     "summary": "Prospex is a small-cap European gas story, which means the equity case can work when production and pricing line up, but it remains vulnerable to liquidity, operational and funding shocks. At 3.40p on",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+<     "ticker": "QBTS",
+<     "isin": "US26740W1099",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "REDUCE - SPECULATIVE",
+<     "recommendation": "REDUCE - SPECULATIVE",
+<     "company": "D-Wave Quantum Inc",
+<     "file": "dwavequantuminc",
+<     "report_url": "/reports/dwavequantuminc",
+<     "conviction": 44,
+<     "summary": "D-Wave is one of the few listed pure-play quantum names with real commercial customers, but it still trades more on narrative than fundamentals. At $14.56 and a ~$5.4bn market cap, the stock is pricin",
+<     "date": "2026-04-09",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+3067d1391
+<     "exchange": null,
+3069d1392
+<     "recommendation": "HOLD",
+3071d1393
+<     "file": "qualcomminc",
+3075,3080c1397
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3083,3116d1399
+<     "ticker": "QED.L",
+<     "isin": "GB00B11DDB67",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "HOLD - SPECULATIVE",
+<     "recommendation": "HOLD - SPECULATIVE",
+<     "company": "Quadrise plc",
+<     "file": "quadriseplc",
+<     "report_url": "/reports/quadriseplc",
+<     "conviction": 56,
+<     "summary": "Quadrise has spent years living in the zone where commercial promise exists, but full validation remains just over the horizon. At 2.70p, up on the day and trading on strong volume, the market is stil",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+<   },
+<   {
+<     "ticker": "RGTI",
+<     "isin": "US76655K1034",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "REDUCE - SPECULATIVE",
+<     "recommendation": "REDUCE - SPECULATIVE",
+<     "company": "Rigetti Computing Inc",
+<     "file": "rigetticomputinginc",
+<     "report_url": "/reports/rigetticomputinginc",
+<     "conviction": 46,
+<     "summary": "Rigetti is another listed quantum name trading on future possibility rather than current economics. At $14.36 with a market cap near $4.6B and negative EPS, the valuation still reflects thematic enthu",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+3120d1402
+<     "exchange": null,
+3122d1403
+<     "recommendation": "HOLD",
+3124d1404
+<     "file": "rtxcorp",
+3128,3150c1408
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+<   },
+<   {
+<     "ticker": "RUOC.F (FRA) / OPTT (NYSE AMERICAN)",
+<     "isin": "US6748705067",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "BUY - SPECULATIVE",
+<     "recommendation": "BUY - SPECULATIVE",
+<     "company": "Ocean Power Technologies",
+<     "file": "oceanpowertechnologiesinc",
+<     "report_url": "/reports/oceanpowertechnologiesinc",
+<     "conviction": 61,
+<     "summary": "Ocean Power Technologies is a pre-revenue marine energy and autonomy company that has just started\n              converting a record backlog into delivery. The stock has been obliterated - down ~61% f",
+<     "date": "2026-04-07",
+<     "universes": [
+<       "us"
+<     ]
+---
+>     "date": "2026-04-11"
+3156d1413
+<     "exchange": null,
+3158d1414
+<     "recommendation": "BUY",
+3160d1415
+<     "file": "ryanairholdingsplc",
+3164,3168c1419
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "date": "2026-04-11"
+3174d1424
+<     "exchange": null,
+3176d1425
+<     "recommendation": "REDUCE",
+3178d1426
+<     "file": "starbuckscorp",
+3182,3187c1430
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3193d1435
+<     "exchange": null,
+3195d1436
+<     "recommendation": "HOLD",
+3197d1437
+<     "file": "charlesschwabcorporationcommonstock",
+3201,3205c1441
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3208,3224d1443
+<     "ticker": "SHOP",
+<     "isin": "CA82509L1076",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Shopify Inc",
+<     "file": "shopifyinc",
+<     "report_url": "/reports/shopifyinc",
+<     "conviction": 62,
+<     "summary": "Shopify is the dominant e-commerce platform for small and medium-sized businesses in North America, providing a complete ecosystem of tools - online stores, payments, fulfilment, and marketing - that ",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+3228d1446
+<     "exchange": null,
+3230d1447
+<     "recommendation": "SELL",
+3232d1448
+<     "file": "breraholdingsplc",
+3235,3240c1451,1452
+<     "summary": "Brera is a micro-cap football ownership vehicle whose valuation depends on asset quality, league outcomes and financing, making it a speculative holding-company story rather than an operating one.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Brera Holdings PLC (SLMT) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. Coverage rebuilt as a minimal correct note because the prior page referenced unrelated additive-manufactur...",
+>     "date": "2026-04-11"
+3243,3259d1454
+<     "ticker": "SMR",
+<     "isin": "US67020B1066",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "REDUCE",
+<     "recommendation": "REDUCE",
+<     "company": "NuScale Power Corporation",
+<     "file": "nuscalepowercorp",
+<     "report_url": "/reports/nuscalepowercorp",
+<     "conviction": 46,
+<     "summary": "NuScale is one of the most recognisable listed names in advanced nuclear because it carries a real regulatory credential, the first U.S. NRC-approved SMR design. That matters. It gives the company a l",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+3263d1457
+<     "exchange": null,
+3265d1458
+<     "recommendation": "HOLD",
+3267d1459
+<     "file": "stonexgroupinc",
+3271,3275c1463
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+3281d1468
+<     "exchange": null,
+3283d1469
+<     "recommendation": "HOLD",
+3285d1470
+<     "file": "southernco",
+3289,3294c1474
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3300d1479
+<     "exchange": null,
+3302d1480
+<     "recommendation": "REDUCE",
+3304d1481
+<     "file": "simonpropertygroupinc",
+3308,3329c1485
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+<   },
+<   {
+<     "ticker": "SPIR",
+<     "isin": "US8485603067",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD - SPECULATIVE",
+<     "recommendation": "HOLD - SPECULATIVE",
+<     "company": "Spire Global Inc",
+<     "file": "spireglobalinc",
+<     "report_url": "/reports/spireglobalinc",
+<     "conviction": 60,
+<     "summary": "Spire is one of the more interesting smaller-cap space data names because it sells data and analytics rather than relying entirely on long-dated hardware optionality. The proposition, satellite-derive",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+---
+>     "date": "2026-04-11"
+3335d1490
+<     "exchange": null,
+3337d1491
+<     "recommendation": "REDUCE",
+3339d1492
+<     "file": "sterisplc",
+3342,3347c1495,1496
+<     "summary": "STERIS is a high-quality sterilisation and infection-prevention compounder with recurring, mission-critical demand, but the shares still need a sensible entry price to justify fresh buying.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "STERIS plc (STE) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $222.58 as the latest stored price reference where avail...",
+>     "date": "2026-04-11"
+3353d1501
+<     "exchange": null,
+3355d1502
+<     "recommendation": "BUY",
+3357d1503
+<     "file": "seagatetechnologyholdingsplc",
+3361,3365c1507
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "date": "2026-04-11"
+3371d1512
+<     "exchange": null,
+3373d1513
+<     "recommendation": "REDUCE",
+3375d1514
+<     "file": "smurfitwestrockplc",
+3378,3383c1517,1518
+<     "summary": "Smurfit Westrock has scale and synergy potential after the merger, but this is still a cyclical packaging story where execution, pricing discipline and energy costs matter.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Smurfit Westrock (SW) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $42.06 as the latest stored price reference where a...",
+>     "date": "2026-04-11"
+3389d1523
+<     "exchange": null,
+3391d1524
+<     "recommendation": "HOLD",
+3393d1525
+<     "file": "syscocorp",
+3397,3401c1529
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+3407d1534
+<     "exchange": null,
+3409d1535
+<     "recommendation": "BUY",
+3411d1536
+<     "file": "attinc",
+3415,3420c1540
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3423,3439d1542
+<     "ticker": "TDY",
+<     "isin": "US8793601050",
+<     "exchange_code": "US",
+<     "exchange": "US",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Teledyne Technologies Inc",
+<     "file": "teledynetechnologiesinc",
+<     "report_url": "/reports/teledynetechnologiesinc",
+<     "conviction": 64,
+<     "summary": "Teledyne is a diversified industrial technology conglomerate operating across four segments: Defence Electronics (aerospace and defence electronics), Imaging (sensors, cameras, and image processing), ",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+<   },
+<   {
+3443d1545
+<     "exchange": null,
+3445d1546
+<     "recommendation": "HOLD",
+3447d1547
+<     "file": "targetcorp",
+3451,3456c1551
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3462d1556
+<     "exchange": null,
+3464d1557
+<     "recommendation": "HOLD",
+3466d1558
+<     "file": "tjxcompaniesinc",
+3470,3474c1562
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+3480d1567
+<     "exchange": null,
+3482d1568
+<     "recommendation": "HOLD",
+3484d1569
+<     "file": "thermofisherscientificinc",
+3488,3493c1573
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3499d1578
+<     "exchange": null,
+3501d1579
+<     "recommendation": "BUY",
+3503d1580
+<     "file": "tmobileusinc",
+3507,3528c1584
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+<   },
+<   {
+<     "ticker": "TOM.L",
+<     "isin": "IM00BZBXMN96",
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+<     "rating": "SELL - SPECULATIVE",
+<     "recommendation": "SELL - SPECULATIVE",
+<     "company": "TomCo Energy plc",
+<     "file": "tomcoenergyplc",
+<     "report_url": "/reports/tomcoenergyplc",
+<     "conviction": 22,
+<     "summary": "TomCo is deep in the category of AIM micro-cap optionality where the listed equity often behaves more like a perpetual financing stub than an ownership stake in a developing business. At 0.0330p, with",
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+---
+>     "date": "2026-04-11"
+3534d1589
+<     "exchange": null,
+3536d1590
+<     "recommendation": "SELL",
+3538d1591
+<     "file": "trinitybiotechplc",
+3541,3546c1594,1595
+<     "summary": "Trinity Biotech is a small diagnostics turnaround where capital needs and execution dominate the case, leaving the shares speculative until any product platform regains real relevance.",
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "summary": "Trinity Biotech PLC (TRIB) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is SELL with conviction 12/100, using $0.71 as the latest stored price reference where...",
+>     "date": "2026-04-11"
+3552d1600
+<     "exchange": null,
+3554d1601
+<     "recommendation": "HOLD",
+3556d1602
+<     "file": "teslainc",
+3560,3565c1606
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3571d1611
+<     "exchange": null,
+3573d1612
+<     "recommendation": "BUY",
+3575d1613
+<     "file": "tranetechnologiesplc",
+3579,3583c1617
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "irish"
+<     ]
+---
+>     "date": "2026-04-11"
+3589d1622
+<     "exchange": null,
+3591d1623
+<     "recommendation": "HOLD",
+3593d1624
+<     "file": "texasinstrumentsinc",
+3597,3601c1628
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3607d1633
+<     "exchange": null,
+3609d1634
+<     "recommendation": "HOLD",
+3611d1635
+<     "file": "unitedairlinesholdingsinc",
+3615,3619c1639
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+3625d1644
+<     "exchange": null,
+3627d1645
+<     "recommendation": "BUY",
+3629d1646
+<     "file": "ubertechnologiesinc",
+3633,3637c1650
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3643d1655
+<     "exchange": null,
+3645d1656
+<     "recommendation": "HOLD",
+3647d1657
+<     "file": "unitedhealthgroupinc",
+3651,3656c1661
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3662d1666
+<     "exchange": null,
+3664d1667
+<     "recommendation": "BUY",
+3666d1668
+<     "file": "unionpacificcorp",
+3670,3674c1672
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3680d1677
+<     "exchange": null,
+3682d1678
+<     "recommendation": "HOLD",
+3684d1679
+<     "file": "unitedparcelserviceinc",
+3688,3693c1683
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3699d1688
+<     "exchange": null,
+3701d1689
+<     "recommendation": "HOLD",
+3703d1690
+<     "file": "usbancorp",
+3707,3711c1694
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3717d1699
+<     "exchange": null,
+3719d1700
+<     "recommendation": "HOLD",
+3721d1701
+<     "file": "visainc",
+3725,3730c1705
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3733,3747d1707
+<     "ticker": "VEQT.TO (TSX)",
+<     "isin": "CA92201C1077",
+<     "exchange_code": "TO",
+<     "exchange": "TO",
+<     "rating": "HOLD",
+<     "recommendation": "HOLD",
+<     "company": "Vanguard All-Equity ETF Portfolio",
+<     "file": "vanguardallequityetfportfolio",
+<     "report_url": "/reports/vanguardallequityetfportfolio",
+<     "conviction": 71,
+<     "summary": "VEQT is a passive, all-equity index fund-of-funds ETF that holds a diversified portfolio\n              of Vanguard's underlying regional equity ETFs - covering Canada, the US, Europe, Asia,\n          ",
+<     "date": "2026-04-07",
+<     "universes": []
+<   },
+<   {
+3751d1710
+<     "exchange": null,
+3753d1711
+<     "recommendation": "REDUCE",
+3755d1712
+<     "file": "valeroenergycorp",
+3759,3763c1716
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100"
+<     ]
+---
+>     "date": "2026-04-11"
+3769d1721
+<     "exchange": null,
+3771d1722
+<     "recommendation": "REDUCE",
+3773d1723
+<     "file": "verizoncommunicationsinc",
+3777,3782c1727
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3788d1732
+<     "exchange": null,
+3790d1733
+<     "recommendation": "REDUCE",
+3792d1734
+<     "file": "walgreenbootsallianceordshs",
+3796,3801c1738
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3807d1743
+<     "exchange": null,
+3809d1744
+<     "recommendation": "HOLD",
+3811d1745
+<     "file": "wellsfargoco",
+3815,3820c1749
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3826d1754
+<     "exchange": null,
+3828d1755
+<     "recommendation": "REDUCE",
+3830d1756
+<     "file": "walmartinc",
+3834,3839c1760
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+3845d1765
+<     "exchange": null,
+3847d1766
+<     "recommendation": "REDUCE",
+3849d1767
+<     "file": "exxonmobilcorp",
+3853,3858c1771,1848
+<     "date": "2026-04-11",
+<     "universes": [
+<       "us",
+<       "fortune100",
+<       "sp100"
+<     ]
+---
+>     "date": "2026-04-11"
+>   },
+>   {
+>     "ticker": "AAPL",
+>     "isin": null,
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Apple Inc",
+>     "report_url": "/reports/appleinc",
+>     "conviction": 64,
+>     "summary": "Apple's ecosystem durability and Services growth are well-established, but the shares are trading near their 52-week high at a P/E of 33x, leaving limited upside at current levels -",
+>     "date": "2026-04-10"
+>   },
+>   {
+>     "ticker": "AMD",
+>     "isin": null,
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Advanced Micro Devices Inc",
+>     "report_url": "/reports/advancedmicrodevicesinc",
+>     "conviction": 60,
+>     "summary": "AMD is the most credible alternative to NVIDIA in AI accelerators and has made genuine GPU architecture progress, but at a P/E of 94x the market is already pricing a successful execution of an extreme",
+>     "date": "2026-04-10"
+>   },
+>   {
+>     "ticker": "AMZN",
+>     "isin": "US0231351067",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Amazon.com Inc",
+>     "report_url": "/reports/amazoncominc",
+>     "conviction": 76,
+>     "summary": "Amazon is the world's largest e-commerce marketplace and cloud infrastructure provider, operating a network effect business with two dominant platforms - marketplace and AWS - that reinforce each othe",
+>     "date": "2026-04-10"
+>   },
+>   {
+>     "ticker": "AVCT.L",
+>     "isin": "GB00BYYW9G87",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Avacta Group plc",
+>     "report_url": "/reports/avactagroupplc",
+>     "conviction": 63,
+>     "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform - a tumour-targeted prodrug activation technology designed to improve the therapeutic index of cancer drugs by releasin",
+>     "date": "2026-04-10"
+>   },
+>   {
+>     "ticker": "INTC",
+>     "isin": null,
+>     "exchange_code": null,
+>     "rating": "SELL",
+>     "company": "Intel Corporation",
+>     "report_url": "/reports/intelcorp",
+>     "conviction": 27,
+>     "summary": "Intel faces a structural competitive disadvantage in AI accelerators, has lost server CPU market share to AMD, and its foundry transformation is capital-intensive with an uncertain payoff - the stock ",
+>     "date": "2026-04-10"
+>   },
+>   {
+>     "ticker": "META",
+>     "isin": null,
+>     "exchange_code": null,
+>     "rating": "BUY",
+>     "company": "Meta Platforms Inc",
+>     "report_url": "/reports/metaplatformsinc",
+>     "conviction": 81,
+>     "summary": "Meta's transformation from a social media company into an AI-first technology platform - with a dominant digital advertising franchise, a rapidly scaling Llama-based open-source ecosystem, and a Reels",
+>     "date": "2026-04-10"
+>   },
+>   {
+>     "ticker": "MSFT",
+>     "isin": null,
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Microsoft Corporation",
+>     "report_url": "/reports/microsoftcorp",
+>     "conviction": 69,
+>     "summary": "Microsoft's Azure AI momentum and Copilot monetisation are real and accelerating, but the shares are at a P/E of 23x - reasonable for this quality of business, but leaving limited margin of safety at ",
+>     "date": "2026-04-10"
+3860a1851,1872
+>     "ticker": "NVDA",
+>     "isin": "US67066G1040",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "NVIDIA Corporation",
+>     "report_url": "/reports/nvidiacorp",
+>     "conviction": 68,
+>     "summary": "NVIDIA sits at the epicentre of the AI infrastructure buildout, commanding an effective monopoly in AI accelerators via its CUDA ecosystem and the Hopper/Blackwell GPU architecture. At $181.46 the sha",
+>     "date": "2026-04-10"
+>   },
+>   {
+>     "ticker": "QBTS",
+>     "isin": "US26740W1099",
+>     "exchange_code": null,
+>     "rating": "REDUCE - SPECULATIVE",
+>     "company": "D-Wave Quantum Inc",
+>     "report_url": "/reports/dwavequantuminc",
+>     "conviction": 44,
+>     "summary": "D-Wave is one of the few listed pure-play quantum names with real commercial customers, but it still trades more on narrative than fundamentals. At $14.56 and a ~$5.4bn market cap, the stock is pricin",
+>     "date": "2026-04-09"
+>   },
+>   {
+3863,3864c1875
+<     "exchange_code": "US",
+<     "exchange": "US",
+---
+>     "exchange_code": null,
+3866d1876
+<     "recommendation": "HOLD - SPECULATIVE",
+3868d1877
+<     "file": "xpengincadr",
+3872,3875c1881,2101
+<     "date": "2026-04-09",
+<     "universes": [
+<       "us"
+<     ]
+---
+>     "date": "2026-04-09"
+>   },
+>   {
+>     "ticker": "ABVE",
+>     "isin": "CA00373V1004",
+>     "exchange_code": null,
+>     "rating": "SELL - SPECULATIVE",
+>     "company": "Above Food Ingredients Inc",
+>     "report_url": "/reports/abovefoodingredientsinc",
+>     "conviction": 31,
+>     "summary": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger ",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "ALK.L",
+>     "isin": "GB00BMD6C023",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Alkemy Capital Investments plc",
+>     "report_url": "/reports/alkemycapitalinvestmentsplc",
+>     "conviction": 68,
+>     "summary": "Alkemy Capital Investments is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania - ",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "AMBP",
+>     "isin": "JE00BFSP3X59",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Ardagh Metal Packaging SA",
+>     "report_url": "/reports/ardaghmetalpackagingsa",
+>     "conviction": 58,
+>     "summary": "Ardagh Metal Packaging is a cyclical packaging business rather than a high-growth equity story. The attraction is operational leverage, defensive end-market exposure through beverage cans, and the pos",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "ANET",
+>     "isin": "US04004R1068",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Arista Networks Inc",
+>     "report_url": "/reports/aristanetworksinc",
+>     "conviction": 67,
+>     "summary": "Arista is one of the cleanest infrastructure beneficiaries of the AI datacentre build-out. Its high-performance cloud networking kit sits directly in the path of hyperscaler capex, and its software-le",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "ASTS",
+>     "isin": "US00217D1000",
+>     "exchange_code": null,
+>     "rating": "REDUCE - SPECULATIVE",
+>     "company": "AST SpaceMobile Inc",
+>     "report_url": "/reports/astspacemobileinc",
+>     "conviction": 49,
+>     "summary": "AST SpaceMobile is one of the most exciting and one of the most dangerous names in the watchlist. The concept, direct-to-device satellite broadband using standard mobile phones, is genuinely different",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "AUTL",
+>     "isin": "US05280R1005",
+>     "exchange_code": null,
+>     "rating": "REDUCE - SPECULATIVE",
+>     "company": "Autolus Therapeutics plc",
+>     "report_url": "/reports/autolustherapeuticsplc",
+>     "conviction": 48,
+>     "summary": "Autolus is a clinical biotech name where the upside exists only if the science and regulatory path work. At $1.49 with a market cap of roughly $362M and negative EPS, the stock is still deep in specul",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "BABA",
+>     "isin": "US01609W1053",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Alibaba Group Holding Ltd - ADR",
+>     "report_url": "/reports/alibabagroupholdingltdadr",
+>     "conviction": 52,
+>     "summary": "Alibaba is a high-quality e-commerce and cloud infrastructure company that has been systematically mispriced by Western markets due to geopolitical risk premium, regulatory overhang from the PRC's tec",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "BWXT",
+>     "isin": "US09062M1036",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "BWX Technologies, Inc.",
+>     "report_url": "/reports/bwxtechnologiesinc",
+>     "conviction": 76,
+>     "summary": "BWX Technologies is the strongest quality name in this part of the market because it offers nuclear exposure through a real operating business rather than through a pure future-technology promise. The",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "CAD · TSX-V",
+>     "isin": "CA1956151098",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Colonial Coal International Corp",
+>     "report_url": "/reports/colonialcoalinternationalcorp",
+>     "conviction": 55,
+>     "summary": "Colonial Coal International Corp is a Vancouver-listed metallurgical (steelmaking) coal company focused on the Peace River coalfield in north-east British Columbia. The company holds a 60% interest in",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "CRIS",
+>     "isin": "US2312693094",
+>     "exchange_code": null,
+>     "rating": "REDUCE - SPECULATIVE",
+>     "company": "Curis Inc",
+>     "report_url": "/reports/curisinc",
+>     "conviction": 40,
+>     "summary": "Curis is a small-cap oncology biotech with the usual combination of scientific optionality and financial fragility. At $0.5535 with a market cap of about $20.8M and negative EPS of -$1.20, the equity ",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "CRWD",
+>     "isin": "US22788C1053",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "CrowdStrike Holdings Inc",
+>     "report_url": "/reports/crowdstrikeholdingsinc",
+>     "conviction": 65,
+>     "summary": "CrowdStrike is the market leader in cloud-native endpoint security, operating on a SaaS model with exceptional product breadth across endpoint, cloud, identity, and AI-powered threat intelligence. The",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "DGE.L",
+>     "isin": "GB00B7F7S988",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Diageo plc",
+>     "report_url": "/reports/diageoplc",
+>     "conviction": 62,
+>     "summary": "Diageo is a quality compounder trading at decade-low valuations following a significant operational reset.\n              The February 2026 H1 results delivered a kitchen-sink moment: dividend halved, ",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "FFAI",
+>     "isin": "US3073598852",
+>     "exchange_code": null,
+>     "rating": "SELL - SPECULATIVE",
+>     "company": "Faraday Future Intelligent Electric Inc",
+>     "report_url": "/reports/faradayfutureintelligentelectricinc",
+>     "conviction": 18,
+>     "summary": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating e",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "FTNT",
+>     "isin": "US34959E1091",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Fortinet Inc",
+>     "report_url": "/reports/fortinetinc",
+>     "conviction": 55,
+>     "summary": "Fortinet is a network security company focused on the mid-market and enterprise segment, selling firewalls, secure access (SD-WAN), and endpoint security through a combination of hardware appliances a",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "GGP.L",
+>     "isin": "AU0000397705",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Greatland Resources Ltd",
+>     "report_url": "/reports/greatlandresourcesltd",
+>     "conviction": 57,
+>     "summary": "Greatland Resources is a UK-listed gold explorer and mining company focused on the prolific Pilbara region of Western Australia and, critically, a flagship partnership with Newmont at the Blackhill jo",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "GLEN.L",
+>     "isin": "JE00B4T3BW27",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Glencore plc",
+>     "report_url": "/reports/glencoreplc",
+>     "conviction": 64,
+>     "summary": "Glencore is one of the world's largest diversified commodity groups, operating mining and marketing\n              assets across copper, zinc, cobalt, coal, oil, and agricultural commodities. The compa",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "IONQ",
+>     "isin": "US46222L1089",
+>     "exchange_code": null,
+>     "rating": "REDUCE - SPECULATIVE",
+>     "company": "IonQ Inc",
+>     "report_url": "/reports/ionqinc",
+>     "conviction": 47,
+>     "summary": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.5",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "IREN",
+>     "isin": "AU0000185993",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Iris Energy Ltd",
+>     "report_url": "/reports/irenltd",
+>     "conviction": 61,
+>     "summary": "Iris Energy is one of the cleaner listed ways to play the intersection of Bitcoin mining, power infrastructure, and AI/HPC optionality. The market likes that combination, which is why the stock sits j",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "KBGGY · NO",
+>     "isin": "NO0013536151",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Kongsberg Gruppen ASA",
+>     "report_url": "/reports/kongsberggruppenunsponsorednorwayadr",
+>     "conviction": 58,
+>     "summary": "Kongsberg Gruppen ASA (KBGGY) provides Norwegian defence and maritime technology exposure through an ADR structure, with strong NATO-linked demand support but enough valuation risk to keep the stance at HOLD.",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "LND",
+>     "isin": "GG00BMX4VR69",
+>     "exchange_code": null,
+>     "rating": "SELL - SPECULATIVE",
+>     "company": "Landore Resources Ltd",
+>     "report_url": "/reports/landoreresourcesltd",
+>     "conviction": 34,
+>     "summary": "Landore sits firmly in the small-cap exploration bucket where the asset story can sound better than the equity outcome. At 2.20p, essentially flat near the top of a very low trading range, the company",
+>     "date": "2026-04-08"
+3877a2104,2279
+>     "ticker": "MDB",
+>     "isin": "US6081901042",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "MongoDB Inc",
+>     "report_url": "/reports/mongodbinc",
+>     "conviction": 62,
+>     "summary": "MongoDB is one of the most developer-trusted database platforms in the world, built on an open-source model that has successfully transitioned into a cloud-first subscription business. Atlas, its full",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "MKA.L",
+>     "isin": "CA60686A4090",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Mkango Resources Ltd",
+>     "report_url": "/reports/mkangoresourcesltd",
+>     "conviction": 65,
+>     "summary": "Mkango is a Canadian-listed rare earths and recycling company with two core assets: the Songwe Hill rare earths project in Malawi and the Akokoma magnet recycling joint venture in Poland. The investme",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "NIO",
+>     "isin": "US6541061031",
+>     "exchange_code": null,
+>     "rating": "REDUCE - SPECULATIVE",
+>     "company": "NIO Inc",
+>     "report_url": "/reports/nioincadr",
+>     "conviction": 38,
+>     "summary": "NIO is a Chinese premium electric vehicle maker with a battery-as-a-service (BaaS) model and a nationwide swap station network. The investment case rests on NIO's premium brand positioning, its propri",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "OKLO",
+>     "isin": "US67987P1059",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Oklo Inc.",
+>     "report_url": "/reports/okloinc",
+>     "conviction": 61,
+>     "summary": "Oklo is one of the cleanest listed ways to express the view that AI-era electricity demand will force the market to take advanced nuclear seriously. The company’s appeal is not just “nuclear”, it is",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "ONDO",
+>     "isin": "GB00BNVVGD77",
+>     "exchange_code": null,
+>     "rating": "REDUCE - SPECULATIVE",
+>     "company": "Ondo",
+>     "report_url": "/reports/ondoinsurtechplc",
+>     "conviction": 48,
+>     "summary": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is e",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "PALM.L",
+>     "isin": "IM00BRF2WV49",
+>     "exchange_code": null,
+>     "rating": "REDUCE - SPECULATIVE",
+>     "company": "Panther Metals plc",
+>     "report_url": "/reports/panthermetalsplc",
+>     "conviction": 43,
+>     "summary": "Panther Metals is firmly in the small-cap exploration camp where upside can be dramatic, but the path is usually through dilution, volatility and a lot of hope. At 80.0p, up on the day with limited vo",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "PANW",
+>     "isin": "US6974351057",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Palo Alto Networks Inc",
+>     "report_url": "/reports/paloaltonetworksinc",
+>     "conviction": 74,
+>     "summary": "Palo Alto Networks is the dominant next-generation firewall vendor making the transition to a comprehensive platform company - SASE, cloud security, AI-powered security operations (XSIAM), and SOC aut",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "PL",
+>     "isin": "US72703X1089",
+>     "exchange_code": null,
+>     "rating": "REDUCE - SPECULATIVE",
+>     "company": "Planet Labs PBC",
+>     "report_url": "/reports/planetlabspbc",
+>     "conviction": 43,
+>     "summary": "Planet Labs operates the world's largest commercial fleet of Earth observation satellites - over 200 satellites imaging the entire land surface of Earth every single day. This gives the company a uniq",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "PXEN.L",
+>     "isin": "GB00BMFZVZ53",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Prospex Energy plc",
+>     "report_url": "/reports/prospexenergyplc",
+>     "conviction": 58,
+>     "summary": "Prospex is a small-cap European gas story, which means the equity case can work when production and pricing line up, but it remains vulnerable to liquidity, operational and funding shocks. At 3.40p on",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "QED.L",
+>     "isin": "GB00B11DDB67",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Quadrise plc",
+>     "report_url": "/reports/quadriseplc",
+>     "conviction": 56,
+>     "summary": "Quadrise has spent years living in the zone where commercial promise exists, but full validation remains just over the horizon. At 2.70p, up on the day and trading on strong volume, the market is stil",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "RGTI",
+>     "isin": "US76655K1034",
+>     "exchange_code": null,
+>     "rating": "REDUCE - SPECULATIVE",
+>     "company": "Rigetti Computing Inc",
+>     "report_url": "/reports/rigetticomputinginc",
+>     "conviction": 46,
+>     "summary": "Rigetti is another listed quantum name trading on future possibility rather than current economics. At $14.36 with a market cap near $4.6B and negative EPS, the valuation still reflects thematic enthu",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "SHOP",
+>     "isin": "CA82509L1076",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Shopify Inc",
+>     "report_url": "/reports/shopifyinc",
+>     "conviction": 62,
+>     "summary": "Shopify is the dominant e-commerce platform for small and medium-sized businesses in North America, providing a complete ecosystem of tools - online stores, payments, fulfilment, and marketing - that ",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "SMR",
+>     "isin": "US67020B1066",
+>     "exchange_code": null,
+>     "rating": "REDUCE",
+>     "company": "NuScale Power Corporation",
+>     "report_url": "/reports/nuscalepowercorp",
+>     "conviction": 46,
+>     "summary": "NuScale is one of the most recognisable listed names in advanced nuclear because it carries a real regulatory credential, the first U.S. NRC-approved SMR design. That matters. It gives the company a l",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "SPIR",
+>     "isin": "US8485603067",
+>     "exchange_code": null,
+>     "rating": "HOLD - SPECULATIVE",
+>     "company": "Spire Global Inc",
+>     "report_url": "/reports/spireglobalinc",
+>     "conviction": 60,
+>     "summary": "Spire is one of the more interesting smaller-cap space data names because it sells data and analytics rather than relying entirely on long-dated hardware optionality. The proposition, satellite-derive",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "TDY",
+>     "isin": "US8793601050",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Teledyne Technologies Inc",
+>     "report_url": "/reports/teledynetechnologiesinc",
+>     "conviction": 64,
+>     "summary": "Teledyne is a diversified industrial technology conglomerate operating across four segments: Defence Electronics (aerospace and defence electronics), Imaging (sensors, cameras, and image processing), ",
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "TOM.L",
+>     "isin": "IM00BZBXMN96",
+>     "exchange_code": null,
+>     "rating": "SELL - SPECULATIVE",
+>     "company": "TomCo Energy plc",
+>     "report_url": "/reports/tomcoenergyplc",
+>     "conviction": 22,
+>     "summary": "TomCo is deep in the category of AIM micro-cap optionality where the listed equity often behaves more like a perpetual financing stub than an ownership stake in a developing business. At 0.0330p, with",
+>     "date": "2026-04-08"
+>   },
+>   {
+3880,3881c2282
+<     "exchange_code": "LN",
+<     "exchange": "LN",
+---
+>     "exchange_code": null,
+3883d2283
+<     "recommendation": "HOLD - SPECULATIVE",
+3885d2284
+<     "file": "zephyrenergyplc",
+3889,3892c2288
+<     "date": "2026-04-08",
+<     "universes": [
+<       "uk"
+<     ]
+---
+>     "date": "2026-04-08"
+3897,3898c2293
+<     "exchange_code": "US",
+<     "exchange": "US",
+---
+>     "exchange_code": null,
+3900d2294
+<     "recommendation": "HOLD - SPECULATIVE",
+3902d2295
+<     "file": "zymeworksinc",
+3906,3909c2299,2343
+<     "date": "2026-04-08",
+<     "universes": [
+<       "us"
+<     ]
+---
+>     "date": "2026-04-08"
+>   },
+>   {
+>     "ticker": "ETL.PA (EURONEXT PARIS) / ETL.L (LSE)",
+>     "isin": "FR0010221234",
+>     "exchange_code": null,
+>     "rating": "REDUCE",
+>     "company": "Eutelsat Communications",
+>     "report_url": "/reports/eutelsatcommunicationssa",
+>     "conviction": 41,
+>     "summary": "Eutelsat has been absolutely destroyed - down ~51% from its 52-week high of €4.74\n              to €2.33. The stock is sitting 47% above its 52-week low of €1.59, having recovered\n              from t",
+>     "date": "2026-04-07"
+>   },
+>   {
+>     "ticker": "KYGA.L (LSE) / KRZ (ISE)",
+>     "isin": "GB00B2QC4L34",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Kerry Group",
+>     "report_url": "/reports/kerrygroupplc",
+>     "conviction": 58,
+>     "summary": "Kerry Group has been a deeply disappointing long-term investment - down ~25% over 1 year and\n              ~26% over 5 years, and currently trading ~31% below its 52-week high of €100.50. The\n        ",
+>     "date": "2026-04-07"
+>   },
+>   {
+>     "ticker": "RUOC.F (FRA) / OPTT (NYSE AMERICAN)",
+>     "isin": "US6748705067",
+>     "exchange_code": null,
+>     "rating": "BUY - SPECULATIVE",
+>     "company": "Ocean Power Technologies",
+>     "report_url": "/reports/oceanpowertechnologiesinc",
+>     "conviction": 61,
+>     "summary": "Ocean Power Technologies is a pre-revenue marine energy and autonomy company that has just started\n              converting a record backlog into delivery. The stock has been obliterated - down ~61% f",
+>     "date": "2026-04-07"
+>   },
+>   {
+>     "ticker": "VEQT.TO (TSX)",
+>     "isin": "CA92201C1077",
+>     "exchange_code": null,
+>     "rating": "HOLD",
+>     "company": "Vanguard All-Equity ETF Portfolio",
+>     "report_url": "/reports/vanguardallequityetfportfolio",
+>     "conviction": 71,
+>     "summary": "VEQT is a passive, all-equity index fund-of-funds ETF that holds a diversified portfolio\n              of Vanguard's underlying regional equity ETFs - covering Canada, the US, Europe, Asia,\n          ",
+>     "date": "2026-04-07"

@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ticker": "ALLE",
+    "company": "Allegion plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 144.81,
+    "fiftyTwoWeekHigh": 183.11,
+    "fiftyTwoWeekLow": 120.36,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Allegion plc (ALLE) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $144.81 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Allegion plc sells security and access-control products, so demand is tied to non-residential construction, retrofit activity and distribution execution. The repaired note now matches the corrected company metadata and removes the broken generic template."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$144.81"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "N/A"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$183.11"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$120.36"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Commercial building demand, price-cost balance, product mix and retrofit spending are the main near-term drivers. Electronic security adoption can support the medium-term mix."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Construction slowdowns can weigh on volume. Input-cost inflation can pressure margins. Channel inventory swings can distort quarterly results. Competition can limit pricing power. Execution missteps in higher-value electronic offerings can delay rerating.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Construction slowdowns can weigh on volume."
+        },
+        {
+          "rank": 2,
+          "risk": "Input-cost inflation can pressure margins."
+        },
+        {
+          "rank": 3,
+          "risk": "Channel inventory swings can distort quarterly results."
+        },
+        {
+          "rank": 4,
+          "risk": "Competition can limit pricing power."
+        },
+        {
+          "rank": 5,
+          "risk": "Execution missteps in higher-value electronic offerings can delay rerating."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who want exposure to building-security and renovation demand. Avoid: Investors expecting rapid secular growth without cyclical noise."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

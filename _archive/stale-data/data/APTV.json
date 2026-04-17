@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "ticker": "APTV",
+    "company": "Aptiv plc",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "REDUCE",
+    "recommendationNote": "REDUCE",
+    "conviction": 50,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 59.65,
+    "fiftyTwoWeekHigh": 88.93,
+    "fiftyTwoWeekLow": 47.19,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Aptiv plc (APTV) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $59.65 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Aptiv plc is exposed to vehicle electrification, software content and global production volumes. The repaired page now keeps the automotive technology thesis attached to the correct company and ticker."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$59.65"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "N/A"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "N/A"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "N/A"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$88.93"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$47.19"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Programme wins, EV platform adoption, margin recovery and customer production trends are the main catalysts. Software and high-voltage content remain key differentiators."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "Auto production softness can hit volumes quickly. Customer concentration raises execution risk. Programme launches can be delayed or repriced. Competition in software and EV architecture can compress margins. Supply-chain disruption can still affect conversion.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Auto production softness can hit volumes quickly."
+        },
+        {
+          "rank": 2,
+          "risk": "Customer concentration raises execution risk."
+        },
+        {
+          "rank": 3,
+          "risk": "Programme launches can be delayed or repriced."
+        },
+        {
+          "rank": 4,
+          "risk": "Competition in software and EV architecture can compress margins."
+        },
+        {
+          "rank": 5,
+          "risk": "Supply-chain disruption can still affect conversion."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who understand supplier-cycle volatility and EV content trends. Avoid: Investors who need stable end-demand and simple forecasting."
+    },
+    "recommendation": {
+      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 50,
+      "band": "REDUCE",
+      "date": "2026-04-11",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "2026-04-11",
+        "score": 50,
+        "band": "REDUCE",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

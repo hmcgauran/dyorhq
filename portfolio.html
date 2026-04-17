@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio Analyser — DYOR HQ</title>
+  <link rel="stylesheet" href="assets/css/main.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0d0d0d; --surface: #171717; --surface2: #222;
+      --text: #f0f0f0; --muted: #888; --border: #2a2a2a;
+      --accent: #00ff88; --accent2: #f0b429;
+      --buy: #00c853; --hold: #f0b429; --reduce: #ff9100; --sell: #ff3d3d;
+      --rec-buy: #00c853; --rec-hold: #f0b429; --rec-reduce: #ff9100; --rec-sell: #ff3d3d;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: "Inter", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+    .container { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }
+    header { border-bottom: 1px solid var(--border); padding-bottom: 1.5rem; margin-bottom: 2rem; }
+    .logo-wordmark { font-weight: 700; font-size: 1.2rem; letter-spacing: -0.02em; color: var(--text); }
+    .logo-wordmark span { color: var(--accent); }
+    h1 { font-size: 1.8rem; font-weight: 700; margin-bottom: 0.5rem; }
+    .subtitle { color: var(--muted); font-size: 0.95rem; }
+    .upload-zone {
+      border: 2px dashed var(--border);
+      border-radius: 12px;
+      padding: 3rem 2rem;
+      text-align: center;
+      cursor: pointer;
+      transition: border-color 0.2s, background 0.2s;
+      margin-bottom: 2rem;
+    }
+    .upload-zone:hover, .upload-zone.dragover {
+      border-color: var(--accent);
+      background: rgba(0,255,136,0.04);
+    }
+    .upload-zone input { display: none; }
+    .upload-icon { font-size: 3rem; margin-bottom: 1rem; }
+    .upload-title { font-size: 1.1rem; font-weight: 600; margin-bottom: 0.5rem; }
+    .upload-hint { color: var(--muted); font-size: 0.85rem; }
+    .upload-hint code { background: var(--surface2); padding: 0.1rem 0.4rem; border-radius: 4px; font-size: 0.8rem; }
+    #file-name { color: var(--accent); font-weight: 600; margin-top: 0.75rem; font-size: 0.9rem; }
+    #analyse-btn {
+      display: none;
+      width: 100%;
+      background: var(--accent);
+      color: #000;
+      border: none;
+      border-radius: 8px;
+      padding: 0.9rem;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: opacity 0.2s;
+      margin-bottom: 2rem;
+    }
+    #analyse-btn:hover { opacity: 0.85; }
+    #analyse-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+    .results { display: none; }
+    .results.visible { display: block; }
+    .summary-panel {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    .summary-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1rem;
+    }
+    .summary-card .label { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.4rem; }
+    .summary-card .value { font-size: 1.5rem; font-weight: 700; }
+    .summary-card .value.buy { color: var(--rec-buy); }
+    .summary-card .value.hold { color: var(--rec-hold); }
+    .summary-card .value.reduce { color: var(--rec-reduce); }
+    .summary-card .value.sell { color: var(--rec-sell); }
+    .summary-card .sub { font-size: 0.75rem; color: var(--muted); margin-top: 0.2rem; }
+    .section-title { font-size: 1rem; font-weight: 600; margin-bottom: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.8rem; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    thead th { text-align: left; padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--border); color: var(--muted); font-weight: 500; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; }
+    tbody tr { border-bottom: 1px solid var(--border); transition: background 0.1s; }
+    tbody tr:hover { background: var(--surface); }
+    tbody td { padding: 0.75rem 0.75rem; vertical-align: middle; }
+    td.ticker { font-weight: 700; font-size: 0.88rem; }
+    td.isin { font-family: monospace; font-size: 0.8rem; color: var(--muted); }
+    td.name { color: var(--muted); font-size: 0.85rem; max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    td.value { text-align: right; font-variant-numeric: tabular-nums; }
+    td.value-local { text-align: right; color: var(--muted); font-size: 0.82rem; }
+    .badge {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .badge.buy { background: rgba(0,200,83,0.15); color: var(--rec-buy); }
+    .badge.hold { background: rgba(240,180,41,0.15); color: var(--rec-hold); }
+    .badge.reduce { background: rgba(255,145,0,0.15); color: var(--rec-reduce); }
+    .badge.sell { background: rgba(255,61,61,0.15); color: var(--rec-sell); }
+    .badge.none { background: var(--surface2); color: var(--muted); }
+    .badge.speculative { font-size: 0.68rem; opacity: 0.8; }
+    td.conviction { text-align: center; font-weight: 600; font-size: 0.85rem; }
+    tr.no-report td { color: var(--muted); font-style: italic; }
+    tr.no-report .badge { background: var(--surface2); color: var(--muted); }
+    .action-tag {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 0.15rem 0.5rem;
+      border-radius: 3px;
+      margin-left: 0.4rem;
+      vertical-align: middle;
+    }
+    .action-tag.buy { background: rgba(0,200,83,0.2); color: var(--rec-buy); }
+    .action-tag.reduce { background: rgba(255,145,0,0.2); color: var(--rec-reduce); }
+    .loading { text-align: center; padding: 2rem; color: var(--muted); }
+    .spinner { display: inline-block; width: 24px; height: 24px; border: 2px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 1rem; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .disclaimer { margin-top: 3rem; padding: 1rem; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; font-size: 0.8rem; color: var(--muted); line-height: 1.6; }
+    .error-msg { background: rgba(255,61,61,0.1); border: 1px solid rgba(255,61,61,0.3); border-radius: 8px; padding: 1rem; color: #ff6b6b; margin-bottom: 1rem; display: none; }
+    .error-msg.visible { display: block; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="header-inner">
+        <a href="index.html" class="logo">
+          <span class="logo-wordmark">DYOR <span>HQ</span></span>
+          <span class="logo-badge">AI Research</span>
+        </a>
+        <nav>
+          <ul class="nav-links">
+            <li><a href="index.html">Reports</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <h1>Portfolio Analyser</h1>
+    <p class="subtitle">Upload your DEGIRO holdings CSV and get an instant DYOR HQ rating mapped to each position.</p>
+
+    <div id="error" class="error-msg"></div>
+
+    <div class="upload-zone" id="drop-zone">
+      <input type="file" id="csv-input" accept=".csv">
+      <div class="upload-icon">📄</div>
+      <div class="upload-title">Drop your DEGIRO CSV here</div>
+      <div class="upload-hint">or click to browse — supports DEGIRO portfolio export format</div>
+      <div id="file-name"></div>
+    </div>
+
+    <button id="analyse-btn">Analyse Portfolio</button>
+
+    <div class="results" id="results">
+      <div class="summary-panel" id="summary-panel"></div>
+
+      <div id="core-section" style="display:none; margin-bottom:1.5rem;">
+        <div class="section-title">Core / active holdings</div>
+        <div style="overflow-x:auto;"><table><thead><tr><th>Ticker</th><th>ISIN</th><th>Name</th><th style="text-align:right">Local Value</th><th>DYOR Rating</th><th style="text-align:center">Conviction</th></tr></thead><tbody id="core-tbody"></tbody></table></div>
+      </div>
+
+      <div id="spec-section" style="display:none; margin-bottom:1.5rem;">
+        <div class="section-title">Speculative small caps</div>
+        <div style="overflow-x:auto;"><table><thead><tr><th>Ticker</th><th>ISIN</th><th>Name</th><th style="text-align:right">Local Value</th><th>DYOR Rating</th><th style="text-align:center">Conviction</th></tr></thead><tbody id="spec-tbody"></tbody></table></div>
+      </div>
+
+      <div id="legacy-section" style="display:none; margin-bottom:1.5rem;">
+        <div class="section-title">Legacy / likely write-off</div>
+        <div style="overflow-x:auto;"><table><thead><tr><th>Ticker</th><th>ISIN</th><th>Name</th><th style="text-align:right">Local Value</th><th>Status</th><th>Note</th></tr></thead><tbody id="legacy-tbody"></tbody></table></div>
+      </div>
+
+      <div id="no-report-section" style="display:none; margin-top:1.5rem;">
+        <div class="section-title">Holdings Without DYOR HQ Reports</div>
+        <p style="color:var(--muted);font-size:0.85rem;margin-bottom:0.75rem;">These positions still have no matching research report.</p>
+        <div style="overflow-x:auto;"><table><thead><tr><th>Ticker</th><th>ISIN</th><th>Name</th><th style="text-align:right">Local Value</th><th>Exchange</th></tr></thead><tbody id="no-report-tbody"></tbody></table></div>
+      </div>
+    </div>
+
+    <div class="disclaimer">
+      Research is for informational purposes only. Not financial advice. DYOR HQ ratings reflect qualitative analysis at the time of publication and may not reflect current conditions. Always conduct your own due diligence before making investment decisions.
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+  <script>
+    const dropZone = document.getElementById('drop-zone');
+    const csvInput = document.getElementById('csv-input');
+    const fileName = document.getElementById('file-name');
+    const analyseBtn = document.getElementById('analyse-btn');
+    const results = document.getElementById('results');
+    const errorEl = document.getElementById('error');
+
+    let parsedHoldings = [];
+
+    function showError(msg) {
+      errorEl.textContent = msg;
+      errorEl.classList.add('visible');
+    }
+
+    function hideError() {
+      errorEl.classList.remove('visible');
+    }
+
+    function parseCSV(file) {
+      Papa.parse(file, {
+        header: true,
+        skipEmptyLines: true,
+        complete: function(results) {
+          hideError();
+          if (!results.data || results.data.length === 0) {
+            showError('Could not parse CSV — check the file format is a DEGIRO portfolio export.');
+            return;
+          }
+          const rows = results.data.filter(r => r.Product && r.Product.trim() && !r.Product.includes('CASH & CASH FUND'));
+          if (rows.length === 0) {
+            showError('No holdings found. Make sure this is a DEGIRO portfolio export CSV (not a transactions file).');
+            return;
+          }
+          parsedHoldings = rows;
+          fileName.textContent = `✓ ${rows.length} holdings loaded from ${file.name}`;
+          analyseBtn.style.display = 'block';
+          analyseBtn.disabled = false;
+          results.classList.remove('visible');
+        },
+        error: function(err) {
+          showError('Error parsing CSV: ' + err.message);
+        }
+      });
+    }
+
+    dropZone.addEventListener('click', () => csvInput.click());
+    dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('dragover'); });
+    dropZone.addEventListener('dragleave', () => dropZone.classList.remove('dragover'));
+    dropZone.addEventListener('drop', e => {
+      e.preventDefault();
+      dropZone.classList.remove('dragover');
+      const file = e.dataTransfer.files[0];
+      if (file) parseCSV(file);
+    });
+    csvInput.addEventListener('change', e => {
+      const file = e.target.files[0];
+      if (file) parseCSV(file);
+    });
+
+    analyseBtn.addEventListener('click', async () => {
+      if (!parsedHoldings.length) return;
+      analyseBtn.disabled = true;
+      analyseBtn.textContent = 'Analysing...';
+
+      try {
+        // Try local index first (static file)
+        let index = null;
+        try {
+          const res = await fetch('reports-index.json');
+          if (res.ok) index = await res.json();
+        } catch(e) { /* fallback to function */ }
+
+        // If no local index, call Netlify function
+        if (!index) {
+          const funcRes = await fetch('/.netlify/functions/analyse-portfolio', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ holdings: parsedHoldings })
+          });
+          if (funcRes.ok) {
+            const data = await funcRes.json();
+            renderResults(data);
+          } else {
+            showError('Analysis failed. Make sure you are connected to the internet.');
+          }
+        } else {
+          // DEGIRO ISIN → canonical ticker mapping
+          const DEGIRO_MAP = {
+            'NO0013536151': 'KBGGY', 'N00013536151': 'KBGGY',
+            'GG00BMX4VR69': 'LND',  'CA60511F1027': 'MRSN',
+            'CA60686A4090': 'MKA.L',  'CA71678B1076': 'PQEFF',
+            'AU000000PVE9': 'PVE',    'GB00BF3DT583': 'POLXF',
+            'US76655K1034': 'RGTI',   'CA82509L1076': 'SHOP',
+            'IM00BZBXMN96': 'TOM.L',  'GB00BYYW9G87': 'AVCT.L',
+            'GB00B7F7S988': 'DGE.L',  'JE00B4T3BW27': 'GLEN.L',
+            'IE00BWFRCW15': 'BIRG.L', 'FR0010221234': 'ETL.PA',
+            'GB00BF44KY60': 'ZPHR.L', 'AU0000397705': 'GGP.L',
+            'US30303M1027': 'META',   'US67066G1040': 'NVDA',
+            'US5949181045': 'MSFT',   'US0378331005': 'AAPL',
+            'US83417M1045': 'SOFI',   'US26740W1099': 'QBTS',
+            'US20825C1045': 'COP',    'KYG508752055': 'JCSE',
+            'US98422D1054': 'XPEV',
+            'US98985Y1082': 'ZYME'
+          };
+
+          function extractISIN(raw) {
+            if (!raw || typeof raw !== 'string') return null;
+            const s = raw.trim().toUpperCase();
+            if (/^[A-Z]{2}[A-Z0-9]{9}[0-9]$/.test(s)) return s;
+            // Fix DEGIRO N-prefix Norwegian format
+            if (/^N[0-9]{10}$/.test(s)) return 'NO' + s.slice(1);
+            return null;
+          }
+
+          // Local matching
+          const matched = [], unmatched = [];
+          parsedHoldings.forEach(row => {
+            const sym = (row['Symbol/ISIN'] || '').toString().trim();
+            const rawISIN = extractISIN(sym);
+            const deiiroTicker = rawISIN ? (DEGIRO_MAP[rawISIN] || null) : null;
+            const ticker = extractTicker(sym);
+
+            let match = null;
+            if (rawISIN) match = index.find(e => e.isin === rawISIN);
+            if (!match && deiiroTicker) match = index.find(e => e.ticker.toUpperCase() === deiiroTicker.toUpperCase());
+            if (!match && ticker) match = index.find(e => e.ticker.toUpperCase() === ticker.toUpperCase());
+            if (!match && deiiroTicker) match = index.find(e => e.ticker.toUpperCase().replace('.L','') === deiiroTicker.replace('.L','').toUpperCase());
+
+            if (match) {
+              matched.push({ row, match });
+            } else {
+              unmatched.push({ row, ticker, isin: rawISIN });
+            }
+          });
+          renderResults({ matched, unmatched, source: 'local-index' });
+        }
+      } catch(e) {
+        showError('Error: ' + e.message);
+      } finally {
+        analyseBtn.disabled = false;
+        analyseBtn.textContent = 'Re-analyse';
+      }
+    });
+
+    function extractTicker(raw) {
+      if (!raw) return '';
+      // If it looks like an ISIN (12 chars, 2 letters), it's not a ticker
+      if (raw.length === 12 && /^[A-Z]{2}[A-Z0-9]{9}[0-9]$/.test(raw)) return '';
+      // Otherwise strip exchange suffix
+      return raw.replace(/(:[A-Z]+|\s+[A-Z]{2,3}$)/, '').trim();
+    }
+
+    function getRatingBadge(rating, rec) {
+      const key = (rec || rating || 'HOLD').toLowerCase().includes('buy') ? 'buy'
+                : (rec || rating || 'HOLD').toLowerCase().includes('sell') ? 'sell'
+                : (rec || rating || 'HOLD').toLowerCase().includes('reduce') ? 'reduce' : 'hold';
+      const spec = (rec || '').toLowerCase().includes('speculative') ? ' speculative' : '';
+      return `<span class="badge ${key}${spec}">${rating || 'HOLD'}</span>`;
+    }
+
+    function getActionTag(rating) {
+      if (!rating) return '';
+      const r = rating.toUpperCase();
+      if (r.includes('BUY')) return '<span class="action-tag buy">Action</span>';
+      if (r.includes('REDUCE') || r.includes('SELL')) return '<span class="action-tag reduce">Review</span>';
+      return '';
+    }
+
+    function renderResults(data) {
+      const { matched, unmatched } = data;
+      const deadNames = ['FISKER','PETROTEQ','TOMCO','MISSION READY','VSBLTY','CELLBX','AZINCOURT','JERICHO','OREA'];
+      const speculativeNames = ['RIGETTI','D-WAVE','PO VALLEY','LANDORE','MKANGO','POLAREAN','DESTINY','C4X'];
+
+      const core = [], spec = [], legacy = [];
+
+      matched.forEach(({ row, match }) => {
+        const name = (row['Product'] || '').toUpperCase();
+        if (deadNames.some(x => name.includes(x))) legacy.push({ row, match, note: 'Legacy / likely write-off' });
+        else if (speculativeNames.some(x => name.includes(x)) || (match.recommendation || '').toUpperCase().includes('SPECULATIVE')) spec.push({ row, match });
+        else core.push({ row, match });
+      });
+
+      unmatched.forEach(({ row, ticker, isin }) => {
+        const name = (row['Product'] || '').toUpperCase();
+        if (deadNames.some(x => name.includes(x))) legacy.push({ row, match: null, note: 'Legacy / likely write-off' });
+      });
+
+      const total = matched.length + unmatched.length;
+      document.getElementById('summary-panel').innerHTML = `
+        <div class="summary-card"><div class="label">Total holdings</div><div class="value">${total}</div><div class="sub">portfolio lines</div></div>
+        <div class="summary-card"><div class="label">Core / active</div><div class="value hold">${core.length}</div><div class="sub">standard rated positions</div></div>
+        <div class="summary-card"><div class="label">Speculative</div><div class="value reduce">${spec.length}</div><div class="sub">small-cap / high-risk</div></div>
+        <div class="summary-card"><div class="label">Legacy</div><div class="value sell">${legacy.length}</div><div class="sub">likely write-offs</div></div>
+      `;
+
+      function fillRatedTable(id, items) {
+        const tbody = document.getElementById(id); tbody.innerHTML = '';
+        items.forEach(({ row, match }) => {
+          const sym = row['Symbol/ISIN'] || '';
+          const isin = /^[A-Z]{2}[A-Z0-9]{9}[0-9]$/.test(sym.trim()) ? sym.trim() : '—';
+          const localVal = row['Local value'] || '';
+          const convStr = match?.conviction != null ? `${match.conviction}/100` : '—';
+          const badge = getRatingBadge(match?.rating, match?.recommendation || match?.rec);
+          const actionTag = getActionTag(match?.rating || '');
+          tbody.insertRow().innerHTML = `<td class="ticker">${match?.ticker || '—'}</td><td class="isin">${isin}</td><td class="name">${row['Product'] || ''}</td><td class="value">${localVal ? '€' + localVal : '—'}</td><td>${badge}${actionTag}</td><td class="conviction" style="text-align:center">${convStr}</td>`;
+        });
+      }
+
+      fillRatedTable('core-tbody', core);
+      fillRatedTable('spec-tbody', spec);
+      document.getElementById('core-section').style.display = core.length ? 'block' : 'none';
+      document.getElementById('spec-section').style.display = spec.length ? 'block' : 'none';
+
+      const legacyTbody = document.getElementById('legacy-tbody'); legacyTbody.innerHTML = '';
+      if (legacy.length) {
+        document.getElementById('legacy-section').style.display = 'block';
+        legacy.forEach(({ row, match, note }) => {
+          const sym = row['Symbol/ISIN'] || '';
+          const isin = /^[A-Z]{2}[A-Z0-9]{9}[0-9]$/.test(sym.trim()) ? sym.trim() : '—';
+          legacyTbody.insertRow().innerHTML = `<td class="ticker">${match?.ticker || extractTicker(sym) || '—'}</td><td class="isin">${isin}</td><td class="name">${row['Product'] || ''}</td><td class="value">${row['Local value'] ? '€' + row['Local value'] : '—'}</td><td><span class="badge sell">LEGACY</span></td><td>${note}</td>`;
+        });
+      } else {
+        document.getElementById('legacy-section').style.display = 'none';
+      }
+
+      const noReportSection = document.getElementById('no-report-section');
+      const noReportTbody = document.getElementById('no-report-tbody');
+      const trueUnmatched = unmatched.filter(({ row }) => {
+        const name = (row['Product'] || '').toUpperCase();
+        return !deadNames.some(x => name.includes(x));
+      });
+      noReportTbody.innerHTML = '';
+      if (trueUnmatched.length > 0) {
+        noReportSection.style.display = 'block';
+        trueUnmatched.forEach(({ row, ticker, isin }) => {
+          const sym = row['Symbol/ISIN'] || '';
+          const rowIsin = /^[A-Z]{2}[A-Z0-9]{9}[0-9]$/.test(sym.trim()) ? sym.trim() : '—';
+          noReportTbody.insertRow().innerHTML = `<td class="ticker">${ticker || '—'}</td><td class="isin">${rowIsin}</td><td class="name">${row['Product'] || ''}</td><td class="value">${row['Local value'] ? '€' + row['Local value'] : '—'}</td><td>${row['Exchange'] || '—'}</td>`;
+        });
+      } else {
+        noReportSection.style.display = 'none';
+      }
+
+      analyseBtn.textContent = 'Re-analyse Portfolio';
+      analyseBtn.disabled = false;
+      results.classList.add('visible');
+      results.scrollIntoView({ behavior: 'smooth' });
+    }
+  </script>
+</body>
+</html>

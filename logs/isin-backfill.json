@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-04-17T09:14:22.497Z",
+  "total": 319,
+  "alreadyHadIsin": 3,
+  "backfilled": 301,
+  "gap": [
+    {
+      "ticker": "GOOGL",
+      "reason": "no sheet match",
+      "company": "GOOGL - Alphabet Inc Class A"
+    },
+    {
+      "ticker": "AVCT.L  LN",
+      "reason": "no sheet match",
+      "company": "Avacta Group plc"
+    },
+    {
+      "ticker": "GGP.L  LN",
+      "reason": "no sheet match",
+      "company": "GGP.L  LN - Greatland Resources Ltd"
+    },
+    {
+      "ticker": "KYGA.L / KRZ",
+      "reason": "no sheet match",
+      "company": "KYGA.L (LSE) / KRZ (ISE) - Kerry Group"
+    },
+    {
+      "ticker": "KBGGY  NO",
+      "reason": "no sheet match",
+      "company": "KBGGY  NO - Kongsberg Gruppen ASA"
+    },
+    {
+      "ticker": "MDB  US",
+      "reason": "no sheet match",
+      "company": "MDB  US - MongoDB Inc"
+    },
+    {
+      "ticker": "N/A",
+      "reason": "no sheet match",
+      "company": "N/A"
+    },
+    {
+      "ticker": "PL  US",
+      "reason": "no sheet match",
+      "company": "PL  US - Planet Labs PBC"
+    },
+    {
+      "ticker": "ALRIB",
+      "reason": "no sheet match",
+      "company": "Riber SA"
+    },
+    {
+      "ticker": "SHOP  US",
+      "reason": "no sheet match",
+      "company": "SHOP  US - Shopify Inc"
+    },
+    {
+      "ticker": "SIVE.ST",
+      "reason": "no sheet match",
+      "company": "Sivers Semiconductors AB"
+    },
+    {
+      "ticker": "TBN",
+      "reason": "no sheet match",
+      "company": "Tamboran Resources Corp"
+    },
+    {
+      "ticker": "TDY  US",
+      "reason": "no sheet match",
+      "company": "TDY  US - Teledyne Technologies Inc"
+    },
+    {
+      "ticker": "XPEV  US",
+      "reason": "no sheet match",
+      "company": "XPEV  US - XPeng Inc"
+    },
+    {
+      "ticker": "EOS",
+      "reason": "sheet has no ISIN",
+      "company": "Electro Optic Systems Holdings Ltd",
+      "sheetCurrency": "AUD"
+    }
+  ],
+  "sheetHasIsinCount": 319,
+  "sheetTickersCount": 320
+}

@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "ticker": "UBER",
+    "company": "Uber Technologies Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 83,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 70.48,
+    "marketCap": 145100000000.0,
+    "marketCapFormatted": "$145.10B",
+    "trailingPE": 14.9,
+    "trailingEps": 4.73,
+    "fiftyTwoWeekHigh": 101.99,
+    "fiftyTwoWeekLow": 68.46,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Uber has achieved the rare combination of profitable growth, positive free cash flow and multiple secular growth drivers - ride-sharing recovery post-COVID, food delivery market leadership, and autonomous vehicle cost deflation - and the shares are undervalued relative to the quality of the franchise at 15x forward P/E - BUY is the weighted recommendation."
+    },
+    "businessModel": {
+      "text": "Uber Technologies operates a two-sided marketplace connecting riders with drivers (Mobility) and consumers with restaurants and retailers (Delivery). It is the largest ride-sharing platform globally, with operations in approximately 70 countries, and has also built the leading food delivery marketplace in the US and many international markets. Uber's competitive moat is its network effects - more riders attract more drivers, more drivers reduce wait times, lower wait times attract more riders - and its brand as the default urban mobility app in most major cities. The company generates revenues primarily from commissions on trips and orders, advertising within the app, and freight logistics (Uber Freight). The autonomous vehicle development programme represents a potential structural shift in the cost of mobility provision."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$70.48"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$145.1B"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "14.90x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$4.73"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$101.99"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$68.46"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Uber posted its first full year of GAAP profitability in 2023 and has maintained positive adjusted EBITDA and free cash flow since. The company's Mobility segment has benefited from a sustained recovery in urban travel post-COVID, with trip volumes and revenue per trip both growing. Delivery has reached a scale where it is sustainably profitable on a segment basis - a critical milestone that validates the two-sided marketplace model. Uber has secured multiple AV partnerships (Waymo, Cruise, Aurora) to integrate autonomous vehicles into its network before it needs to build its own AV capability. The Uber One membership programme and advertising business are creating higher-margin, recurring revenue streams that improve the overall business quality profile."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (83): Autonomous vehicle (AV) deployment reduces cost-per-mile materially, improving unit economics without eliminating the driver model. Uber maintains network effects advantage in mobility and delivery as the platform of record for urban mobility. Advertising revenue grows to $1bn+ annually. EPS exceeds $4.00. Price: $90+. Base Case (50): Ride-sharing continues its steady recovery in developed markets. Delivery (Uber Eats) maintains profitability and market share. AV deployment is gradual and primarily affects long-distance highway segments initially. Driver supply remains adequate. EPS grows to $3.00-$3.50. Price: $72-$82. Bear Case (40): California AB5 regulations and similar 'gig worker' classification rules increase driver costs significantly. AV deployment is faster than expected, disrupting the driver supply model before Uber's platform has adapted. Competitive pressure from Lyft, DoorDash and Waymoerosion network effects. Price: below $58. Weighted Score: 83 - Bull 83 × 30% + Base 50 × 50% + Bear 40 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Gig worker classification risk: Uber's business model depends on classifying drivers as independent contractors rather than employees. AB5 in California, similar legislation in other US states, and EU platform worker directives could reclassify drivers, dramatically increasing labour costs. AV disruption risk: If AV deployment is faster than Uber's platform can adapt, or if Waymo/Cruise/Aurora build competing consumer-facing networks, Uber's driver-side supply advantage could erode faster than its defensive moats can compensate. Competitive intensity in delivery: DoorDash and Instacart are well-funded competitors in delivery. Maintaining market share in the US and internationally requires continued investment in driver incentives, consumer marketing and restaurant partnerships. Regulatory risk in key markets: Uber faces ongoing regulatory challenges in multiple international markets where local ride-sharing regulations vary significantly from the US model. Loss of operating licences in key cities (London, Seoul, Singapore) is a recurring risk. Profitability sustainability: The current adjusted EBITDA margins are thin relative to the risk profile of the business. Any increase in driver incentive spend (to compete for supply) or regulatory cost increases could compress margins below the level the market currently prices.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Gig worker classification risk: Uber's business model depends on classifying drivers as independent contractors rather than employees. AB5 in California, similar legislation in other US states, and EU platform worker directives could reclassify drivers, dramatically increasing labour costs."
+        },
+        {
+          "rank": 2,
+          "risk": "AV disruption risk: If AV deployment is faster than Uber's platform can adapt, or if Waymo/Cruise/Aurora build competing consumer-facing networks, Uber's driver-side supply advantage could erode faster than its defensive moats can compensate."
+        },
+        {
+          "rank": 3,
+          "risk": "Competitive intensity in delivery: DoorDash and Instacart are well-funded competitors in delivery. Maintaining market share in the US and internationally requires continued investment in driver incentives, consumer marketing and restaurant partnerships."
+        },
+        {
+          "rank": 4,
+          "risk": "Regulatory risk in key markets: Uber faces ongoing regulatory challenges in multiple international markets where local ride-sharing regulations vary significantly from the US model. Loss of operating licences in key cities (London, Seoul, Singapore) is a recurring risk."
+        },
+        {
+          "rank": 5,
+          "risk": "Profitability sustainability: The current adjusted EBITDA margins are thin relative to the risk profile of the business. Any increase in driver incentive spend (to compete for supply) or regulatory cost increases could compress margins below the level the market currently prices."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Growth and total return investors who want exposure to platform-economy businesses with genuine profitability, multiple secular growth levers and a network-effect moat. Uber is the most attractively valued large-cap platform business relative to its growth profile."
+    },
+    "recommendation": {
+      "text": "BUY. BUY below $52 (approximately 12x forward P/E on base-case $4 EPS - below the average P/E of other high-quality platform businesses). Reduce above $82 (approximately 19x forward P/E - fully prices the AV opportunity and network effects; the margin of safety is insufficient at this level)."
+    },
+    "entryExit": {
+      "text": "BUY below $52 (approximately 12x forward P/E on base-case $4 EPS - below the average P/E of other high-quality platform businesses). | Reduce above $82 (approximately 19x forward P/E - fully prices the AV opportunity and network effects; the margin of safety is insufficient at this level)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 83,
+      "band": "BUY",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 83,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

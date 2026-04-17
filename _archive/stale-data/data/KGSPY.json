@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "ticker": "KGSPY",
+    "company": "Kingspan Group ADR",
+    "exchange": "",
+    "isin": "",
+    "date": "2026-04-11",
+    "datePublished": "2026-04-11",
+    "recommendation": "BUY",
+    "recommendationNote": "BUY",
+    "conviction": 84,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "irish",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Kingspan Group ADR (KGSPY) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is BUY with conviction 84/100, using $90.15 as the latest stored price reference where available."
+    },
+    "businessModel": {
+      "text": "Kingspan Group ADR is an ADR line for a building-products group with exposure to insulation, envelopes and energy-efficiency themes. This repaired note replaces the prior unrelated Kongsberg content and keeps the ADR mapping coherent."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$90.15"
+        },
+        {
+          "label": "Company",
+          "value": "Kingspan Group ADR"
+        },
+        {
+          "label": "Recommendation",
+          "value": "BUY"
+        },
+        {
+          "label": "Conviction",
+          "value": "84/100"
+        },
+        {
+          "label": "Universe",
+          "value": "irish"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Residential and non-residential demand, retrofit spending and energy-efficiency investment are the main watch points, alongside ADR liquidity relative to the primary listing."
+    },
+    "thesisEvaluation": {
+      "text": "Base case: the core operating backdrop remains good enough to support the present buy stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+    },
+    "keyRisks": {
+      "text": "ADR liquidity can be thinner than the primary listing. Construction cycles can turn down quickly. Pricing can weaken if volumes soften. FX can affect ADR returns. Short-term trading can diverge from the underlying line.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "ADR liquidity can be thinner than the primary listing."
+        },
+        {
+          "rank": 2,
+          "risk": "Construction cycles can turn down quickly."
+        },
+        {
+          "rank": 3,
+          "risk": "Pricing can weaken if volumes soften."
+        },
+        {
+          "rank": 4,
+          "risk": "FX can affect ADR returns."
+        },
+        {
+          "rank": 5,
+          "risk": "Short-term trading can diverge from the underlying line."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who need the ADR line and understand building-products cycles. Avoid: Investors who want the deepest liquidity and cleanest price discovery."
+    },
+    "recommendation": {
+      "text": "BUY - Conviction: 84/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+    },
+    "entryExit": {
+      "text": "Keep position sizing consistent with a buy stance until fuller company-specific analysis is refreshed."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
+      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 84,
+      "band": "BUY",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 84,
+        "band": "BUY",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

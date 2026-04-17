@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "ticker": "TMO",
+    "company": "Thermo Fisher Scientific Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 66,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 496.11,
+    "marketCap": 184400000000.0,
+    "marketCapFormatted": "$184.40B",
+    "trailingPE": 27.97,
+    "trailingEps": 17.74,
+    "fiftyTwoWeekHigh": 643.99,
+    "fiftyTwoWeekLow": 385.46,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Thermo Fisher is a best-in-class life sciences tools company with leading positions in analytical instruments, bioprocessing and clinical diagnostics, but the elevated P/E of 27.97x in a post-pandemic normalised environment argues for HOLD."
+    },
+    "businessModel": {
+      "text": "Thermo Fisher operates across four segments: Life Sciences Solutions (laboratory chemicals, biosciences reagents, cell culture media), Analytical Instruments (mass spectrometers, chromatography, electron microscopy), Speciality Diagnostics (clinical microbiology, immunoassay, transplant diagnostics) and Bioprocessing Solutions (Unity lab services, biopharma development services). The company serves pharmaceutical and biotechnology companies, hospitals, academic institutions and government labs. Its scale in reagents and consumables creates significant recurring revenue. The PPD clinical research business adds a CRO capability, and the PPD acquisition significantly expanded the pharma services offering."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$496.11"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$184.4 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "27.97x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$17.74"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$643.99"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$385.46"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Biopharma customers are lapping the extraordinary pandemic-era testing and vaccine development spend. The company's bioprocessing business has maintained strong growth as novel modalities (cell and gene therapy, mRNA) drive demand for process development services. The PPD clinical trials business has benefited from pharma outsourcing trends. A new series of ruggedised portable analytical instruments has gained traction in emerging market government labs. The company has deployed significant capital on bolt-on M&A."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (78): Cell and gene therapy bioprocessing demand accelerates as clinical pipelines mature. The PPD integration drives further synergies. Emerging market government spending on healthcare infrastructure accelerates. AI-driven lab automation drives a new instrument replacement cycle. EPS reaches $22.00+. Price: $580+. Base Case (66): Bioprocessing demand is steady but not exceptional. COVID-era lab testing normalises to a lower baseline. PPD synergies are realised but pharma R&D spending is cautious. Analytical Instruments grows mid-single digit. EPS grows to $18.50-$20.00. Price: $500-$545. Bear Case (48): Biopharma funding environment weakens; customers cancel or defer bioprocessing orders. Competitive pressure from Sartorius and Danaher's Cytiva intensifies. PPD synergies disappoint. Emerging market government lab spending slows. EPS falls to $15.50-$17.00. Price: below $400. Weighted Score: 66 - Bull 78 × 30% + Base 66 × 50% + Bear 48 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Post-pandemic normalisation: COVID-era revenues (particularly in life sciences solutions) created a significant spike that is now receding. The base period comparison makes year-on-year growth comparisons challenging to interpret. Bioprocessing competition: The bioprocessing market is intensely competitive, with Sartorius and Danaher (Cytiva) investing heavily in capacity. Pricing pressure in the CDMO-like services business is a structural risk. Valuation: At 27.97x P/E, Thermo Fisher is not cheap relative to its growth rate. The market is pricing in a sustained high-quality earnings stream that requires continued M&A-driven growth. Pharma customer consolidation: Pharma M&A (BMS-Celgene, AbbVie-Allergan, Pfizer-Medivation) reduces the customer universe and can concentrate revenue risk.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Post-pandemic normalisation: COVID-era revenues (particularly in life sciences solutions) created a significant spike that is now receding. The base period comparison makes year-on-year growth comparisons challenging to interpret."
+        },
+        {
+          "rank": 2,
+          "risk": "Bioprocessing competition: The bioprocessing market is intensely competitive, with Sartorius and Danaher (Cytiva) investing heavily in capacity. Pricing pressure in the CDMO-like services business is a structural risk."
+        },
+        {
+          "rank": 3,
+          "risk": "Valuation: At 27.97x P/E, Thermo Fisher is not cheap relative to its growth rate. The market is pricing in a sustained high-quality earnings stream that requires continued M&A-driven growth."
+        },
+        {
+          "rank": 4,
+          "risk": "Pharma customer consolidation: Pharma M&A (BMS-Celgene, AbbVie-Allergan, Pfizer-Medivation) reduces the customer universe and can concentrate revenue risk."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Long-term holders of high-quality life sciences tools franchises. Investors who want diversified exposure to the secular growth in biopharma R&D and healthcare infrastructure."
+    },
+    "recommendation": {
+      "text": "HOLD. Thermo Fisher is a superbly run life sciences tools company. The quality is undeniable, but the current P/E of 27.97x does not provide sufficient upside from here given the normalisation headwinds. Entry framework: BUY below $420 (approximately 23-24x base-case EPS - provides a more compelling entry for a high-quality compound). Reduce above $560 (30x+ P/E on above-trend earnings assumptions)."
+    },
+    "entryExit": {
+      "text": "BUY below $420 (approximately 23-24x base-case EPS - provides a more compelling entry for a high-quality compound). Reduce above $560 (30x+ P/E on above-trend earnings assumptions). | Entry framework: BUY below $420 (approximately 23-24x base-case EPS - provides a more compelling entry for a high-quality compound). | Reduce above $560 (30x+ P/E on above-trend earnings assumptions)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 66,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 66,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

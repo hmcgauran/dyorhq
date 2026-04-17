@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2026-04-17T11:07:19.940Z",
+  "fixes": [
+    {
+      "action": "fixed N/A entry",
+      "ticker": "MSI",
+      "company": "MS International plc"
+    },
+    {
+      "action": "fixed CRH price",
+      "ticker": "CRH",
+      "price": 114.36,
+      "currency": "USD"
+    }
+  ],
+  "currencyFixLog": [
+    {
+      "ticker": "ALK",
+      "currency": "GBX",
+      "source": "sheet"
+    },
+    {
+      "ticker": "AVCT",
+      "currency": "GBX",
+      "source": "sheet"
+    },
+    {
+      "ticker": "ETL",
+      "currency": "EUR",
+      "source": "sheet"
+    },
+    {
+      "ticker": "GLB",
+      "currency": "CAD",
+      "source": "sheet"
+    },
+    {
+      "ticker": "GGP",
+      "currency": "GBX",
+      "source": "sheet"
+    },
+    {
+      "ticker": "GRP",
+      "currency": "EUR",
+      "source": "sheet"
+    },
+    {
+      "ticker": "J9J",
+      "currency": "EUR",
+      "source": "sheet"
+    },
+    {
+      "ticker": "BIG",
+      "currency": "CAD",
+      "source": "sheet"
+    },
+    {
+      "ticker": "INDIGO",
+      "currency": "UNRESOLVED",
+      "note": "no sheet row and no price/exchange hint"
+    },
+    {
+      "ticker": "KYGA",
+      "currency": "EUR",
+      "source": "sheet"
+    },
+    {
+      "ticker": "LND",
+      "currency": "GBX",
+      "source": "sheet"
+    },
+    {
+      "ticker": "MRL",
+      "currency": "EUR",
+      "source": "sheet"
+    },
+    {
+      "ticker": "MKA",
+      "currency": "CAD",
+      "source": "sheet"
+    },
+    {
+      "ticker": "PALM",
+      "currency": "GBX",
+      "source": "sheet"
+    },
+    {
+      "ticker": "PTSB",
+      "currency": "EUR",
+      "source": "sheet"
+    },
+    {
+      "ticker": "PVE",
+      "currency": "AUD",
+      "source": "sheet"
+    },
+    {
+      "ticker": "PXEN",
+      "currency": "GBX",
+      "source": "sheet"
+    },
+    {
+      "ticker": "QED",
+      "currency": "GBX",
+      "source": "sheet"
+    },
+    {
+      "ticker": "RNO",
+      "currency": "EUR",
+      "source": "sheet"
+    },
+    {
+      "ticker": "ALRIB",
+      "currency": "UNRESOLVED",
+      "note": "no sheet row and no price/exchange hint"
+    },
+    {
+      "ticker": "SIVE",
+      "currency": "SEK",
+      "source": "sheet"
+    },
+    {
+      "ticker": "VEQT",
+      "currency": "CAD",
+      "source": "sheet"
+    },
+    {
+      "ticker": "ZPHR",
+      "currency": "GBX",
+      "source": "sheet"
+    }
+  ]
+}

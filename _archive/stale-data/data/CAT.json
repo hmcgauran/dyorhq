@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "ticker": "CAT",
+    "company": "Caterpillar Inc",
+    "exchange": "",
+    "isin": "",
+    "date": "11 Apr 2026",
+    "datePublished": "",
+    "recommendation": "HOLD",
+    "recommendationNote": "HOLD",
+    "conviction": 67,
+    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "universes": [
+      "sp100",
+      "watchlist",
+      "fortune100"
+    ]
+  },
+  "price": {
+    "current": 790.66,
+    "marketCap": 367900000000.0,
+    "marketCapFormatted": "$367.90B",
+    "trailingPE": 42.03,
+    "trailingEps": 18.81,
+    "fiftyTwoWeekHigh": 797.85,
+    "fiftyTwoWeekLow": 282.46,
+    "formatted": ""
+  },
+  "sections": {
+    "executiveSummary": {
+      "text": "Caterpillar's near-52-week-high price reflects optimism about US infrastructure spending and Chinese stimulus, but the 42x P/E leaves no margin of safety if construction activity decelerates - HOLD is the weighted recommendation at current levels."
+    },
+    "businessModel": {
+      "text": "Caterpillar is the world's largest manufacturer of construction and mining equipment, diesel and gas turbines, and diesel-electric locomotives. The company's three primary segments are Construction Industries (compact and heavy construction equipment), Resource Industries (mining, quarry and aggregate equipment), and Energy & Transportation (power generation, reciprocating engines, turbines and locomotives). Caterpillar's business is highly cyclical and correlated with global construction activity, infrastructure investment, commodity prices and mining capital expenditure. The aftermarket parts and services business (approximately 40% of revenues) provides a recurring revenue base that partially offsets new equipment cyclicality. The company has been actively integrating automation, autonomy (autonomous mining trucks) and hybrid/electric drivetrains into its product lines, representing the most important long-term competitive differentiation."
+    },
+    "financialSnapshot": {
+      "text": "",
+      "table": [
+        {
+          "label": "Current Price",
+          "value": "$790.66"
+        },
+        {
+          "label": "Market Capitalisation",
+          "value": "$367.9 billion"
+        },
+        {
+          "label": "Price-to-Earnings (P/E)",
+          "value": "42.03x"
+        },
+        {
+          "label": "Earnings Per Share (EPS)",
+          "value": "$18.81"
+        },
+        {
+          "label": "52-Week High",
+          "value": "$797.85"
+        },
+        {
+          "label": "52-Week Low",
+          "value": "$282.46"
+        }
+      ]
+    },
+    "recentCatalysts": {
+      "text": "Caterpillar's 2024 full-year results confirmed robust demand across all segments, driven by US infrastructure investment (IIJA - Infrastructure Investment and Jobs Act - spending is ramping), elevated mining capex (copper and lithium demand for energy transition), and Chinese government stimulus targeting infrastructure. The autonomous mining truck fleet has surpassed 1,000 vehicles, with materially higher productivity and lower operating costs per tonne. However, the stock has been range-bound near $790 in recent months as investors question whether the current cycle has peaked. Input costs (steel, components) have moderated slightly, providing some margin relief."
+    },
+    "thesisEvaluation": {
+      "text": "Bull Case (75): IIJA infrastructure spending accelerates into peak deployment years 2025-2027. China implements significant additional stimulus, driving excavator and loader demand. Energy transition mining capex (copper, lithium) remains elevated. Autonomous product revenues scale meaningfully. EPS reaches $23.00+. Price: $920+. Base Case (67): IIJA spending provides a moderate multi-year tailwind. Mining capex growth moderates as commodity prices stabilise. China stimulus provides intermittent demand. Construction equipment demand is stable-to-slow. EPS reaches $19.50-$20.50. Price: $775-$850. Bear Case (40): Construction activity decelerates as interest rate pressure suppresses non-residential building. China demand disappoints despite stimulus. Mining companies cut capex. Caterpillar's high fixed-cost base amplifies margin compression. EPS falls to $15.50-$16.50. Price: below $600. Weighted Score: 67 - Bull 75 × 30% + Base 67 × 50% + Bear 40 × 20%",
+      "bull": {
+        "scenario": "",
+        "probability": 25
+      },
+      "base": {
+        "scenario": "",
+        "probability": 50
+      },
+      "bear": {
+        "scenario": "",
+        "probability": 25
+      }
+    },
+    "keyRisks": {
+      "text": "Construction cycle peak risk: Caterpillar is highly exposed to the non-residential construction cycle. If interest rates remain elevated through 2026, commercial construction projects are delayed or cancelled, directly reducing equipment demand. China economic dependence: China accounts for approximately 15-20% of Caterpillar's revenues. A Chinese economic slowdown or failure of government stimulus to translate into equipment purchases would be a meaningful headwind. Margin compression from input costs: Steel represents ~15-20% of Caterpillar's cost of goods sold. If steel prices re-accelerate due to supply constraints or tariffs, margins compress unless Caterpillar can pass costs through to customers - which is difficult in competitive equipment markets. Aftermarket revenue normalisation: The parts and services business has been elevated due to fleet age and backlogs. As new equipment deliveries ramp and fleets age, aftermarket revenues may normalise, removing a margin support pillar. Valuation: At 42x P/E, Caterpillar is priced for an optimistic cyclical outcome. The stock has significant embedded optimism about the infrastructure spending cycle and commodity prices.",
+      "risks": [
+        {
+          "rank": 1,
+          "risk": "Construction cycle peak risk: Caterpillar is highly exposed to the non-residential construction cycle. If interest rates remain elevated through 2026, commercial construction projects are delayed or cancelled, directly reducing equipment demand."
+        },
+        {
+          "rank": 2,
+          "risk": "China economic dependence: China accounts for approximately 15-20% of Caterpillar's revenues. A Chinese economic slowdown or failure of government stimulus to translate into equipment purchases would be a meaningful headwind."
+        },
+        {
+          "rank": 3,
+          "risk": "Margin compression from input costs: Steel represents ~15-20% of Caterpillar's cost of goods sold. If steel prices re-accelerate due to supply constraints or tariffs, margins compress unless Caterpillar can pass costs through to customers - which is difficult in competitive equipment markets."
+        },
+        {
+          "rank": 4,
+          "risk": "Aftermarket revenue normalisation: The parts and services business has been elevated due to fleet age and backlogs. As new equipment deliveries ramp and fleets age, aftermarket revenues may normalise, removing a margin support pillar."
+        },
+        {
+          "rank": 5,
+          "risk": "Valuation: At 42x P/E, Caterpillar is priced for an optimistic cyclical outcome. The stock has significant embedded optimism about the infrastructure spending cycle and commodity prices."
+        }
+      ]
+    },
+    "whoShouldOwn": {
+      "text": "Own: Investors who want infrastructure and commodity cycle exposure with a world-class brand and the safety of the aftermarket revenue base. Long-term industrial investors who have ridden prior cycles successfully."
+    },
+    "recommendation": {
+      "text": "HOLD. Caterpillar is a high-quality industrial franchise with genuine long-term structural advantages in mining autonomy and infrastructure. However, the near-52-week-high price of $791 and 42x P/E leave no margin of safety for what is a cyclical business. Patient investors should wait for a better entry on cyclical weakness. Entry framework: BUY below $680 (implies 36x P/E - historically fair for Caterpillar on mid-cycle earnings, provides meaningful margin of safety). Reduce on rallies above $830 (implies 44x+ P/E, pricing in full cyclical optimism). Monitor non-residential construction starts as the key leading indicator."
+    },
+    "entryExit": {
+      "text": "BUY below $680 (implies 36x P/E - historically fair for Caterpillar on mid-cycle earnings, provides meaningful margin of safety). Reduce on rallies above $830 (implies 44x+ P/E, pricing in full cyclical optimism). Monitor non-residential construction starts as the key leading indicator. | Entry framework: BUY below $680 (implies 36x P/E - historically fair for Caterpillar on mid-cycle earnings, provides meaningful margin of safety). | Reduce on rallies above $830 (implies 44x+ P/E, pricing in full cyclical optimism)."
+    },
+    "sources": {
+      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
+      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
+      "additional": [],
+      "literature": []
+    }
+  },
+  "scores": {
+    "current": {
+      "score": 67,
+      "band": "HOLD",
+      "date": "",
+      "delta": "0",
+      "reason": "Initial coverage"
+    },
+    "history": [
+      {
+        "date": "",
+        "score": 67,
+        "band": "HOLD",
+        "delta": "0",
+        "reason": "Initial coverage"
+      }
+    ]
+  }
+}

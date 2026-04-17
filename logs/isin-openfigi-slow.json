@@ -1,0 +1,161 @@
+{
+  "generatedAt": "2026-04-17T09:20:57.707Z",
+  "results": [
+    {
+      "bare": "GOOGL",
+      "figiTicker": "GOOGL",
+      "exchange": "US",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "AVCT.L",
+      "figiTicker": "AVCT",
+      "exchange": "GB",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "GGP.L",
+      "figiTicker": "GGP",
+      "exchange": "GB",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "KYGA.L",
+      "figiTicker": "KYGA",
+      "exchange": "GB",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "KBGGY",
+      "figiTicker": "KBGGY",
+      "exchange": "NO",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "MDB",
+      "figiTicker": "MDB",
+      "exchange": "US",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 3,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "PL",
+      "figiTicker": "PL",
+      "exchange": "US",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "ALRIB",
+      "figiTicker": "ALRIB",
+      "exchange": "FP",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "SHOP",
+      "figiTicker": "SHOP",
+      "exchange": "US",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "SIVE.ST",
+      "figiTicker": "SIVE",
+      "exchange": "SS",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "TBN",
+      "figiTicker": "TBN",
+      "exchange": "AU",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 3,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "TDY",
+      "figiTicker": "TDY",
+      "exchange": "US",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    },
+    {
+      "bare": "XPEV",
+      "figiTicker": "XPEV",
+      "exchange": "US",
+      "isin": null,
+      "status": "unresolved",
+      "result": {
+        "isin": null,
+        "attempts": 1,
+        "httpStatus": 400
+      }
+    }
+  ]
+}
