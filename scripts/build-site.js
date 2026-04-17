@@ -26,6 +26,76 @@ const PUBLIC_ASSETS_DIR = path.join(PUBLIC_DIR, 'assets');
 const gitHash = execSync('git rev-parse --short HEAD', { cwd: ROOT }).toString().trim();
 
 const canonicalIndex = readJson(CANONICAL_INDEX_PATH);
+
+// ── Pre-build: auto-derive summary for index entries missing one ─────────────
+const PLACEHOLDER_SUMMARIES = new Set([
+  '',
+  'This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.',
+]);
+
+function truncateAtWordBoundary(text, maxLen) {
+  if (text.length <= maxLen) return text;
+  const slice = text.substring(0, maxLen + 1);
+  const lastSpace = slice.lastIndexOf(' ');
+  return lastSpace > 0 ? text.substring(0, lastSpace) + '...' : text.substring(0, maxLen - 3) + '...';
+}
+
+function deriveSummary(dataEntry) {
+  const text = dataEntry?.sections?.executiveSummary?.text;
+  if (!text || typeof text !== 'string') return null;
+  // Take first two sentences
+  const twoSentences = text.match(/^[^.]*(?:\.[^.]*){1,2}/);
+  const summary = twoSentences ? twoSentences[0].trim() : text.split('. ').slice(0, 2).join('. ').trim();
+  return truncateAtWordBoundary(summary, 280);
+}
+
+let summariesBackfilled = 0;
+let summariesTruncated = 0;
+const samplePreviews = [];
+
+for (const entry of canonicalIndex) {
+  const needsBackfill = PLACEHOLDER_SUMMARIES.has(entry.summary || '');
+  const tooLong = (entry.summary || '').length > 280;
+  const endsMidWord = tooLong
+    && !entry.summary.slice(-3).includes(' ')
+    && !entry.summary.slice(-3).includes('.');
+
+  if (needsBackfill) {
+    const dataPath = path.join(ROOT, 'reports', 'data', `${entry.ticker}.json`);
+    if (!fs.existsSync(dataPath)) continue;
+    let data;
+    try {
+      data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+    } catch {
+      continue;
+    }
+    const derived = deriveSummary(data);
+    if (!derived) continue;
+    entry.summary = derived;
+    summariesBackfilled++;
+    if (samplePreviews.length < 5) {
+      samplePreviews.push({ ticker: entry.ticker, summary: derived });
+    }
+  } else if (tooLong && endsMidWord) {
+    // Retroactively fix mid-word truncations on existing summaries
+    entry.summary = truncateAtWordBoundary(entry.summary, 280);
+    summariesTruncated++;
+  }
+}
+
+if (summariesBackfilled > 0) {
+  console.log(`[BUILD] Auto-derived ${summariesBackfilled} summary(s) from report data files`);
+  for (const p of samplePreviews) {
+    console.log(`  ${p.ticker}: "${p.summary.substring(0, 100)}..."`);
+  }
+}
+if (summariesTruncated > 0) {
+  console.log(`[BUILD] Fixed ${summariesTruncated} mid-word truncation(s)`);
+}
+
+writeJson(CANONICAL_INDEX_PATH, canonicalIndex);
+// ─────────────────────────────────────────────────────────────────────────────
+
 const browserIndex = buildBrowserIndex(canonicalIndex);
 writeJson(BROWSER_INDEX_PATH, browserIndex);
 
