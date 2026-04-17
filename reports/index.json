@@ -1173,33 +1173,6 @@
     ]
   },
   {
-    "ticker": "AVCT.L  LN",
-    "company": "Avacta Group plc",
-    "isin": "GB00BYYW9G87",
-    "exchange": "",
-    "file": "avactagroupplc.html",
-    "date": "2026-04-16",
-    "recommendation": "BUY",
-    "conviction": 68,
-    "currency": "GBX",
-    "price": 71.9,
-    "marketCap": null,
-    "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform - a tumour-targeted prodrug activation technology that releases active drug preferentially in the tumour microenvironment rather than systemically. The core technology uses Fibroblast Activation Protein (FAP), expressed in the stroma of approximately 90% of solid tumours, as the activation trigger.",
-    "universes": [
-      "uk",
-      "watchlist"
-    ],
-    "priceAtLastReport": 71.9,
-    "marketCapAtLastReport": null,
-    "peAtLastReport": null,
-    "convictionHistory": [
-      {
-        "date": "2026-04-16",
-        "conviction": 68
-      }
-    ]
-  },
-  {
     "ticker": "AVG",
     "company": "Avingtrans plc",
     "isin": "GB0006780301",
