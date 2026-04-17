@@ -1,0 +1,19 @@
+{
+  "ticker": "CSCO",
+  "date": "2026-04-17",
+  "score": 62,
+  "signal": "positive",
+  "key_themes": [
+    "Accelerating AI infrastructure and networking orders (Q2 surge to $2.1B, FY26 guidance raised to $5B)",
+    "Strong Q2 FY2026 earnings beat with double-digit growth, tempered by initial gross margin and guidance reaction",
+    "Consistent analyst support with recent price target hikes (JPM to $96, consensus ~$89–90 implying modest upside)",
+    "Attractive valuation (~18x forward P/E), ~2% dividend yield, and stable cash flow",
+    "Cybersecurity expansion through potential M&A and security revenue focus"
+  ],
+  "sources": [
+    "20+ recent news articles and analyst reports (Jan–Apr 2026)",
+    "15+ investor and analyst posts on X (primarily Feb–Apr 2026)"
+  ],
+  "summary": "Sentiment for Cisco (CSCO) is solidly positive as of mid-April 2026. Robust AI networking demand, a Q2 earnings beat (revenue +10%, strong EPS growth), and raised full-year AI order expectations have offset an initial post-earnings dip in February. Analysts maintain a Moderate Buy consensus with recent target increases, while the stock’s ~2% dividend, reasonable 18x forward P/E, and hyperscaler/enterprise networking positioning make it an appealing risk-adjusted way to play AI infrastructure. The shares have posted strong trailing returns and are trading near multi-year highs with further upside cited in technical and fundamental commentary.",
+  "fetchedAt": "2026-04-17T16:23:28.826Z"
+}

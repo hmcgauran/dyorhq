@@ -6,26 +6,81 @@
   "currency": "USD",
   "price": 310.68,
   "marketCap": "$328.0B",
-  "sector": "Industrials — Aerospace and Defense",
+  "sector": "Industrials — Aerospace and Defence",
   "date": "17 April 2026",
   "reportDate": "2026-04-17",
   "recommendation": "OPPORTUNISTIC BUY",
   "conviction": 55,
-  "convictionHistory": [{"date": "2026-04-17", "conviction": 55}],
+  "grokScore": 78,
+  "grokSignal": "positive",
+  "convictionHistory": [
+    {"date": "2026-04-17", "conviction": 55}
+  ],
   "priceAtLastReport": 310.68,
   "marketCapAtLastReport": "$328.0B",
-  "pe": 37.93,
+  "pe": 37.9,
   "eps": 8.18,
+  "epsFY2025": 6.37,
+  "eps2026E": "7.10-7.40",
   "dividendYield": "0.4%",
   "beta": 1.10,
   "sharesOut": "1.06B",
   "avgVolume": "5.5M",
   "52wHigh": 348.48,
   "52wLow": 195.00,
+  "distanceFrom52wH": "-10.8%",
+  "backlog": "$190B",
+  "analystTargetMean": 352.75,
+  "analystTargetHigh": 425.00,
+  "analystCount": 20,
+  "analystStrongBuy": 18,
   "prevClose": 310.13,
+  "keyThemes": [
+    "Record commercial and defence engine orders and massive $190B backlog",
+    "Consistent earnings beats with strong 2026 guidance (mid-teens services growth)",
+    "Aftermarket services revenue moat and recurring revenue visibility",
+    "Benefits from GE split creating a high-margin pure-play aerospace business",
+    "Overwhelmingly bullish analyst coverage with Strong Buy ratings and $330-$350+ price targets"
+  ],
   "sections": {
     "executiveSummary": {
-      "text": "GE Aerospace is one of the great industrial turnarounds of the decade. The 2025 FY results delivered record $6.4 EPS with total orders of $27B (+74% YoY), driven by commercial engine demand from Airbus and Boeing's production ramp. The LEAP engine continues to gain market share and the services business provides enormous recurring revenue. The spin-off to GE Vernova (energy) and GE HealthCare has left a cleaner, higher-quality business. At 37.9x P/E on record earnings, the valuation is premium — but the aerospace backlog is multi-decade in duration and the business has genuine pricing power. OPPORTUNISTIC BUY reflects the quality but acknowledges the stock is within 11% of its 52-week high, limiting the near-term upside and requiring patience for a better entry."
+      "text": "GE Aerospace delivered a record 2025 full year, with total orders of $27 billion (up 74% year-on-year), adjusted EPS of $6.37, and a $190 billion backlog providing extraordinary revenue visibility stretching across decades. The spin-off of GE Vernova and GE HealthCare has left a focused, high-margin pure-play aerospace business with dominant positions in commercial narrowbody engines (LEAP, ~60% market share) and a sticky aftermarket services franchise. Q1 2026 earnings are due on April 21 with consensus EPS of $1.63 (+9% YoY) and revenue of $10.6 billion (+18%). Eighteen of 20 analysts rate the stock a Buy with a mean price target of $352.75, and the Grok sentiment score of 78 reflects strongly positive momentum. OPPORTUNISTIC BUY at conviction 55 reflects the exceptional quality of the business and backlog, but the stock is within 11% of its 52-week high, limiting the near-term entry upside. Patient investors should treat this as a framework hold rather than an urgent new position."
+    },
+    "businessModel": {
+      "text": "GE Aerospace designs, manufactures, and services jet engines, turboprop, turbofan, and turboshaft engines for commercial and military aircraft. Its two core franchises are the LEAP engine (co-produced with Safran, capturing roughly 60% of the narrowbody market) and the GE9X, the exclusive powerplant for the Boeing 777X. The commercial engines business is amplified by a large and highly defensive aftermarket services operation — airlines cannot fly without certified engines, creating sticky, high-margin recurring revenue that typically doubles the profit contribution of the original equipment sale.\n\nThe spin-offs of GE Vernova (energy) and GE HealthCare have sharpened the group's focus entirely on aerospace. The remaining business benefits from unrivalled R&D scale, a backlog measured in decades of production, and structural pricing power as the sole or dominant supplier in several engine programmes. Defence revenue provides cyclical ballast, and the $190 billion backlog ($20 billion growth YoY) gives extraordinary revenue visibility."
+    },
+    "recentCatalysts": {
+      "bullets": [
+        "Record 2025 full-year results: 21% revenue growth, 38% EPS increase to $6.37; total orders $27B (+74% YoY); free cash flow $7.7B (+24%)",
+        "Backlog at $190 billion, up nearly $20 billion YoY — equivalent to ~15 years of current revenue",
+        "Strong 2026 analyst targets: 18/20 Buy, mean target $352.75, high $425.00; consensus 2026 EPS $7.45",
+        "LEAP engine market dominance at ~60% of narrowbody engine market",
+        "Modest recent pullback (14% in March 2026) providing more attractive entry; Q1 2026 earnings April 21"
+      ]
+    },
+    "thesisEvaluation": {
+      "bullCase": {
+        "score": 75,
+        "text": "Commercial aerospace recovery continues on its current trajectory. LEAP and GE9X engine orders accelerate as Airbus and Boeing hit their stated production rate targets. Services revenue grows 8–10% annually as the installed base matures into high-margin aftermarket. The market re-rates GE Aerospace to 42–45x P/E, reflecting the quality and duration of the backlog. Price target: $380–$420."
+      },
+      "baseCase": {
+        "score": 55,
+        "text": "The aerospace backlog supports steady 10–15% revenue growth over the forecast period. EPS settles in the $7.00–$8.50 range as production rates normalise and aftermarket revenues build. The market assigns a P/E of 40–45x, sending the stock to $340–$370 as investors await the next catalyst (defence contract wins, LEAP market share expansion). This is the most probable outcome at current prices."
+      },
+      "bearCase": {
+        "score": 30,
+        "text": "Boeing production rates disappoint again due to factory quality issues or supply chain fractures. Airline customers slow or delay orders, putting pressure on the engines business. GE Vernova residual liabilities and warranty costs bleed into parent-level perception. The market de-rates to 28–32x earnings as growth visibility diminishes. Price falls to $195–$230, testing the 52-week low."
+      }
+    },
+    "keyRisks": [
+      "Boeing and Airbus production execution: GE Aerospace's fortunes are tightly linked to OEM production rate ambitions. Any sustained shortfall at either Boeing or Airbus filters directly into engine order cancellations or deferrals.",
+      "LEAP engine competitive dynamics: The LEAP is a joint venture with Safran. Any shift in the competitive balance — such as Pratt & Whitney recovering market share — could affect programme economics and aftermarket pricing.",
+      "GE Vernova residual liabilities: Although formally separated, GE Aerospace retains some legacy exposure to GE Vernova's energy transition costs and warranty obligations. Any large unexpected charge at Vernova could weigh on the parent's narrative.",
+      "Defence budget pressure: A significant portion of GE Aerospace's defence revenue is tied to US and NATO defence spending. Budget sequestration or political gridlock could reduce long-term visibility on military engine programmes.",
+      "Valuation premium risk: At 37.9x P/E, GE Aerospace prices in considerable execution perfection. Any disappointment relative to elevated expectations could trigger a sharp de-rating given the limited near-term upside to the 52-week high."
+    ],
+    "whoShouldOwnIt": "Owners: Long-term investors seeking quality industrial exposure with a multi-decade backlog visibility. Aerospace sector specialists who understand the aftermarket revenue model and are comfortable with premium valuations. Those who already own GE near $250–$270 should hold; the cycle has years to run.\n\nAvoiders: Value investors will struggle with the P/E multiple. Short-term traders seeking a catalyst near current levels should wait. Those who believe Boeing's operational problems represent a systemic risk to the supply chain should remain underweight or absent.",
+    "recommendation": "OPPORTUNISTIC BUY. GE Aerospace is a high-quality business in an industry with structural tailwinds. The backlog is measured in decades, the aftermarket revenue is sticky and high-margin, and the management team has demonstrated execution discipline through a difficult restructuring. At 37.9x P/E, the stock is not cheap — but the quality justifies a premium.\n\nEntry framework: BUY below $270 (implies approximately 33x P/E, a reasonable margin of safety for a premium-quality industrial). ADD below $250 (provides 10–15% upside to base case with limited downside risk to bear case). TRIM above $320 (valuation stretched relative to base-case earnings power; take some profit and redeploy on any meaningful pullback).\n\nPatient investors who already own GE should hold. The aerospace cycle has years to run. The current entry point is adequate for new positions but not compelling enough to be aggressive. Q1 2026 earnings on April 21 represent the next near-term catalyst."
     }
   }
 }

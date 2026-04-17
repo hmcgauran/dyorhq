@@ -1,0 +1,19 @@
+{
+  "ticker": "COST",
+  "date": "2026-04-17",
+  "score": 68,
+  "signal": "positive",
+  "key_themes": [
+    "Strong comparable sales growth driven by fuel traffic and memberships",
+    "Shareholder returns via 13% dividend increase",
+    "Significant YTD outperformance vs. broader market",
+    "Predominantly bullish analyst upgrades and Buy ratings",
+    "High valuation (~50x P/E) as primary caution"
+  ],
+  "sources": [
+    "25+ news articles, earnings releases, and analyst notes (Yahoo Finance, Motley Fool, company IR, TipRanks)",
+    "18+ recent X posts (semantic + keyword searches since Feb 2026)"
+  ],
+  "summary": "Costco (COST) is generating solidly positive sentiment in mid-April 2026. The company reported robust Q2 FY2026 sales growth of 9.1% to $68.2B, exceptionally strong March sales (up ~9-11% YoY), sustained membership loyalty, and a 13% quarterly dividend hike to $1.47 per share. Shares are up 16-17% YTD (trading near $980–$1,000) while the S&P 500 is down, supported by fuel-driven traffic and analyst PT raises (e.g. Mizuho to $1,100); high valuation remains the main debate but does not overshadow operational strength.[[1]](https://finance.yahoo.com/news/why-costco-stock-16-2026-143428381.html)[[2]](https://www.fool.com/investing/2026/04/11/costco-stock-screaming-buy-april-1-thing-happens/)[[3]](https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Reports-Second-Quarter-and-Year-to-Date-Operating-Results-for-Fiscal-2026-and-February-Sales-Results/default.aspx)",
+  "fetchedAt": "2026-04-17T16:24:57.403Z"
+}

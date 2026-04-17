@@ -1,0 +1,20 @@
+{
+  "ticker": "DHR",
+  "date": "2026-04-17",
+  "score": 52,
+  "signal": "positive",
+  "key_themes": [
+    "Anticipation for Q1 2026 earnings and modest growth guidance",
+    "Strategic Masimo acquisition with some shareholder scrutiny",
+    "Analyst Buy consensus with 25-35% upside despite recent PT cuts",
+    "Dividend hike and long-term quality as a compounder via DBS",
+    "Bioprocessing strength offset by China pricing, currency, and macro pressures"
+  ],
+  "sources": [
+    "20+ web news/articles (Yahoo Finance, Seeking Alpha, Danaher IR, Zacks, TipRanks)",
+    "15+ recent X posts (primarily earnings calendars, analyst notes, technical views)",
+    "Limited Reddit threads discussing valuation and China headwinds"
+  ],
+  "summary": "Danaher (DHR) carries cautiously positive sentiment ahead of its April 21, 2026 Q1 earnings. The company reported solid Q4 2025 results with beats, raised 2026 guidance (3-6% core revenue growth, $8.35-8.50 adjusted EPS), a 25% dividend increase to $0.40, and a major Masimo acquisition to strengthen diagnostics. Analysts maintain a Moderate Buy consensus with average price targets of ~$247-270 (25-35% upside from ~$194-198 levels), though several firms trimmed targets recently. Long-term investors view it as a high-quality compounder, but near-term caution persists around modest growth, China pricing pressure, and currency impacts. Social and investor discussion is relatively muted outside of earnings calendars.",
+  "fetchedAt": "2026-04-17T15:56:30.000Z"
+}

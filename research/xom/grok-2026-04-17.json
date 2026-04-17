@@ -1,0 +1,19 @@
+{
+  "ticker": "XOM",
+  "date": "2026-04-17",
+  "score": 62,
+  "signal": "positive",
+  "key_themes": [
+    "Geopolitical tensions (Iran/Hormuz) supporting higher oil prices",
+    "Strong projected EPS growth and history of earnings beats",
+    "Reliable dividends, cash flow, and shareholder returns",
+    "Recent price pullback from highs creating perceived value",
+    "Analyst Buy consensus with moderate upside targets"
+  ],
+  "sources": [
+    "12+ web news/analysis articles (Yahoo Finance, MarketBeat, Zacks, Medium, TIKR)",
+    "20+ X posts (semantic + keyword searches for $XOM since early 2026)"
+  ],
+  "summary": "As of April 17, 2026, sentiment toward Exxon Mobil (XOM) is positive. The stock has corrected from a March high near $176 to around $144–152 amid broader volatility, but strong analyst EPS forecasts for fiscal 2026 ($8.73+), consistent earnings beats, and a solid ~2.5% dividend yield underpin confidence. X discussions and recent news emphasize its role as a macro/energy hedge amid geopolitical oil supply risks, technical bullish signals, and upcoming Q1 earnings on May 1, though some note stretched valuations after the prior rally.",
+  "fetchedAt": "2026-04-17T15:57:48.994Z"
+}

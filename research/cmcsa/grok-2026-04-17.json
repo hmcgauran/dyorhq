@@ -1,0 +1,20 @@
+{
+  "ticker": "CMCSA",
+  "date": "2026-04-17",
+  "score": 28,
+  "signal": "positive",
+  "key_themes": [
+    "Attractive valuation with low P/E (~5.5x) and DCF suggesting significant undervaluation",
+    "High dividend yield (~4.5-4.7%) and shareholder returns via buybacks",
+    "Expected sharp Q1 2026 EPS decline (~34% YoY) with recent estimate revisions downward",
+    "Broadband losses, cord-cutting, and competitive pressures in cable/streaming",
+    "Positives from NBC ratings strength, service expansions, mobile plan changes, and data breach settlement"
+  ],
+  "sources": [
+    "15+ web news/articles (Yahoo Finance, Seeking Alpha, TipRanks, CNBC, Morningstar, company IR)",
+    "Analyst consensus (primarily Hold from ~28 analysts; avg PT $32.68-$34 implying 10-18% upside)",
+    "25+ recent X posts (keyword + semantic searches; mix of dividend praise, caution on fundamentals, some low-relevance/promotional)"
+  ],
+  "summary": "CMCSA trades near multi-year lows with a compelling valuation, high dividend yield, and analyst price targets offering modest upside, supporting positive value-oriented sentiment despite near-term earnings weakness. Q1 2026 results (due Apr 23) are expected to show a large EPS decline amid broadband pressures and high sports/content costs, though recent Q4 beat, NBC ratings wins, new initiatives, and the Xfinity data breach settlement have provided tailwinds. Investor discussions and forums reflect cautious optimism — the stock is seen as cheap for patient holders, but secular declines in traditional cable remain a key concern.",
+  "fetchedAt": "2026-04-17T16:24:27.760Z"
+}

@@ -38,7 +38,7 @@
     if (!rec) return 'hold';
     // Normalise recommendation to CSS class name
     const r = rec.toUpperCase().trim();
-    if (r === 'BUY (STRONG)') return 'buy-strong';
+    if (r === 'BUY (STRONG)') return 'strongbuy';
     if (r === 'OPPORTUNISTIC BUY') return 'opportunisticbuy';
     if (r === 'SPECULATIVE BUY') return 'speculativebuy';
     if (r === 'AVOID') return 'avoid';

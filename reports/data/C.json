@@ -4,72 +4,76 @@
   "isin": "US1729674242",
   "exchange": "NYSE",
   "currency": "USD",
-  "price": 132.78,
-  "marketCap": "$224.8B",
+  "price": 190.00,
+  "marketCap": "$360B",
   "sector": "Financials — Banking",
   "date": "17 April 2026",
   "reportDate": "2026-04-17",
   "recommendation": "OPPORTUNISTIC BUY",
   "conviction": 62,
+  "grokScore": 78,
+  "signal": "positive",
+  "keyThemes": ["record Q1 revenue", "EPS $3.06 beat", "fixed income +13%", "equities record"],
   "convictionHistory": [{"date": "2026-04-17", "conviction": 62}],
-  "priceAtLastReport": 132.78,
-  "marketCapAtLastReport": "$224.8B",
-  "pe": 16.43,
-  "eps": 8.07,
-  "dividendYield": "3.4%",
-  "beta": 1.45,
-  "sharesOut": "1.89B",
-  "avgVolume": "14.8M",
-  "52wHigh": 132.86,
-  "52wLow": 87.50,
-  "prevClose": 131.07,
+  "priceAtLastReport": 190.00,
+  "marketCapAtLastReport": "$360B",
+  "pe": 17,
+  "eps": 11.30,
+  "epsQ1": 3.06,
+  "dividendYield": "2.5%",
+  "rotce": "13.1%",
+  "revenue": "$24.6bn",
+  "revenueGrowth": "+14% YoY",
+  "netIncome": "$5.8bn",
+  "sharesOut": "~1.9bn",
+  "prevClose": null,
   "sections": {
     "executiveSummary": {
-      "text": "Citigroup is a turnaround story at a distressed-looking multiple. Q1 2026 EPS beat estimates by 16% on the back of $5.8B in net income, and JPMorgan sees approximately 30% upside to fair value from current levels. The stock has fallen 11% YTD as the market prices in credit deterioration risks in the consumer bank. The restructuring under new management is finally converting to bottom-line improvement — cost saves are real and the capital return programme is resuming. At 16.43x P/E on EPS of $8.07, Citigroup trades at a meaningful discount to its peer group (JPMorgan at 23x, Bank of America at 18x) which suggests the market is attaching significant credence to the bear case. The OPPORTUNISTIC BUY thesis is that the discount closes as the restructuring proves out, and that the credit quality concerns are manageable."
+      "text": "Citigroup's Q1 2026 print makes the turnaround real. EPS of $3.06 beat estimates decisively, revenues of $24.6 billion rose 14% year-on-year — the highest quarterly revenue in over a decade — and RoTCE hit 13.1%, the bank's best returns in five years. All five businesses grew. The Fraser restructuring is converting to bottom-line delivery: Services revenues climbed 17%, Markets broke $7 billion, and banking fees rose 12%. The stock has re-rated from the mid-$130s to around $190 as the market prices in the improving fundamental trajectory, but at roughly 17x forward earnings the valuation discount to higher-ROTCE peers remains meaningful. The OPPORTUNISTIC BUY thesis holds: the structural discount should continue closing as RoTCE moves toward the 14-15% range and the consent order remediation nears completion."
     },
     "businessModel": {
-      "text": "Citigroup is a global diversified bank operating across four primary segments: Institutional Clients Group (ICG), which encompasses investment banking, treasury services, and markets; Personal Banking and Wealth Management, covering consumer deposits, cards, and wealth advisory; Legacy Franchise Assets, managing divested or run-off portfolios including legacy US mortgages and Latin America Holdings; and Corporate/Other. As one of the three remaining US global systemically important banks (G-SIBs), Citigroup's scale provides advantages in cross-border payments, FX, and capital markets, but its return-on-tangible-common-equity (ROTCE) has persistently lagged JPMorgan and Bank of America. The ongoing transformation programme aims to simplify the organisational structure, exit non-core markets, reduce expenses by approximately $2.5 billion, and redirect capital toward higher-return businesses."
+      "text": "Citigroup is a global diversified bank operating across five primary businesses: Services, covering treasury and trade solutions; Markets, encompassing FICC and equities trading; Banking, comprising investment banking and capital markets; U.S. Consumer, including cards and retail banking; and Wealth Management, serving affluent and high-net-worth clients. As one of the three remaining US global systemically important banks (G-SIBs), Citigroup's cross-border payments, FX, and capital markets infrastructure provides competitive advantages that smaller peers cannot replicate. The ongoing transformation under CEO Jane Fraser has simplified the organisational structure, exited non-core markets, and redirected capital toward higher-return businesses — with the consent order remediation programme now 90% complete. The Legacy Franchise assets continue to run off, reducing drag on group ROTCE."
     },
     "financialSnapshot": {
-      "text": "At $132.78, Citigroup commands a market capitalisation of $224.8 billion with 1.89 billion shares in issue. Trading volume of 14.8 million shares per day reflects meaningful institutional interest. The stock is currently 0.1% below its 52-week high of $132.86, having traded as low as $87.50 over the past year — a 52-week range that reflects the market's bifurcated view on the turnaround. At 16.43x trailing P/E on EPS of $8.07, the valuation discount to JPMorgan (23x) and Bank of America (18x) is substantial. The 3.4% dividend yield is attractive, supported by a payout ratio of approximately 56%. With a beta of 1.45, Citigroup is a higher-volatility play on the US financial sector relative to the broader market."
+      "text": "At $190, Citigroup commands a market capitalisation of $360 billion with approximately 1.9 billion shares in issue. Q1 2026 delivered record quarterly revenue of $24.6 billion, up 14% year-on-year, with net income of $5.8 billion and EPS of $3.06. Annualised EPS is approximately $11.30. At 17x forward P/E, Citigroup remains discounted to JPMorgan (23x) and Bank of America (18x) on comparable earnings power. RoTCE of 13.1% — the highest in five years — is ahead of the bank's 11% medium-term target. The 2.5% dividend yield is supported by the earnings power demonstrated in Q1. $6.3 billion in share buybacks were completed in the quarter."
     },
     "recentCatalysts": {
-      "text": "Q1 2026 EPS of approximately $8.07 beat consensus estimates by 16%, driven by $5.8 billion in net income — a print that validates the restructuring thesis. The capital return programme is resuming, with buybacks restarting in Q1. JPMorgan published initiation-of-coverage research in April 2026 with an approximately 30% upside target, providing institutional credibility to the turnaround narrative. The stock is down 11% year-to-date, partly reflecting macro concerns about US consumer credit quality and CRE exposure. New CEO leadership has accelerated the simplification agenda, with further divestitures in the Legacy Franchise portfolio expected. The US Federal Reserve's 2026 stress test results will be a key near-term catalyst, as Citigroup seeks to demonstrate adequate capital buffers under adverse scenarios."
+      "text": "Q1 2026 delivered the most compelling evidence yet that the Fraser restructuring is working. Net income of $5.8 billion and EPS of $3.06 represented a decisive beat, with revenues of $24.6 billion rising 14% year-on-year across all five businesses — the highest quarterly revenue in over a decade. Return on Tangible Common Equity hit 13.1%, clearing the bank's 11% medium-term target and marking the best quarterly returns since the restructuring began. Services revenues climbed 17%, Markets broke $7 billion, and banking fees rose 12%, illustrating broad-based momentum rather than a single-segment story. The bank returned $6.3 billion to shareholders via buybacks in the quarter. 90% of the consent order work is now complete — removing a key regulatory overhang that has weighed on the stock for years. Citigroup's profit jumped 42% year-on-year. The stock has re-rated from the mid-$130s to around $190, but the 17x P/E still reflects a discount to JPMorgan (23x) and Bank of America (18x)."
     },
     "thesisEvaluation": {
-      "bullCase": "Cost restructuring delivers ahead of schedule, NII stabilises as rates normalise, investment bank revenues grow in H2 2026, credit costs moderate, Citigroup re-rates to 20x P/E and stock reaches $160-170.",
-      "baseCase": "Restructuring continues, EPS grows to $8.50-9.00, stock drifts to $145-155 at 17-18x P/E.",
-      "bearCase": "US consumer credit deterioration accelerates, commercial real estate exposure creates losses, investment bank market share erodes further, stock falls to $90-100 on 10-12x P/E."
+      "bullCase": "RoTCE breaks above 15% as the restructuring delivers ahead of schedule. Services and Markets maintain their growth trajectories driven by cross-border payments and elevated volatility. Investment banking pipeline converts in H2 2026 as M&A volumes recover. Citigroup re-rates to 20x P/E and the stock reaches $200-220 as the market fully prices the turnaround.",
+      "baseCase": "EPS grows to $12-13, the stock drifts to $200-215 at 17-18x P/E as RoTCE stabilises around 13-14% and the consent order completion removes the regulatory overhang. The valuation discount to peers narrows but does not fully close given persistent complexity.",
+      "bearCase": "US consumer credit deteriorates materially, Markets revenue normalises lower as volatility fades, and CRE exposure in the Legacy Franchise segment requires additional provisioning. Stock falls to $130-145 on 11-13x P/E as the market re-prices the turnaround risk."
     },
     "keyRisks": [
       {
         "title": "US consumer credit deterioration",
-        "description": "Citigroup's consumer banking franchise has material exposure to US household credit. A deterioration in unemployment or credit card delinquencies would directly impair earnings and force provision builds."
+        "description": "Citigroup's U.S. Consumer franchise has material exposure to household credit quality. A deterioration in unemployment or a rise in credit card delinquencies would directly impair earnings and force provision builds, unwinding the Q1 improvement."
       },
       {
-        "title": "Commercial real estate loan losses",
-        "description": "The Legacy Franchise segment contains CRE exposure that faces ongoing stress from remote working and office vacancy rates. Losses here could require significant additional provisioning."
+        "title": "Markets revenue normalisation",
+        "description": "Q1's $7 billion-plus Markets revenue was partly driven by elevated volatility. If market conditions calm in subsequent quarters, this line item could compress meaningfully, removing a key pillar of the revenue beat."
       },
       {
-        "title": "Competitive pressure from fintechs and super-apps",
-        "description": "Payment volumes and retail deposits face structural pressure from technology-native challengers. If Citigroup fails to respond with competitive digital products, market share erosion accelerates."
+        "title": "Legacy Franchise drag",
+        "description": "The run-off portfolio continues to consume management bandwidth and capital. Additional writedowns or provisions from legacy CRE or international assets could surprise to the downside."
       },
       {
-        "title": "Regulatory capital requirements",
-        "description": "As a G-SIB, Citigroup faces stringent capital and liquidity requirements. Any adverse Fed ruling in stress testing could constrain capital return ambitions."
+        "title": "Competitive pressure in payments and banking",
+        "description": "Cross-border payment volumes and investment banking market share face structural pressure from technology-native challengers and better-capitalised universal banks. Failure to retain key mandates would impair the revenue growth narrative."
       },
       {
-        "title": "FX headwinds from EM exposure",
-        "description": "Citigroup's international footprint, particularly in Latin America and Asia, generates earnings in local currencies. Dollar strength compresses reported USD earnings and distorts performance."
+        "title": "Regulatory and capital cycle risk",
+        "description": "As a G-SIB, Citigroup faces stringent capital and liquidity requirements. Adverse stress test results could constrain the buyback programme and capital return ambitions, even with the consent order near completion."
       }
     ],
     "whoShouldOwnIt": {
-      "owners": "Value investors who recognise the turnaround narrative and are comfortable with elevated volatility (beta 1.45). Sector allocators seeking a discounted large-cap bank versus growth peers. Yield seekers attracted to the 3.4% dividend well-covered by earnings.",
-      "avoiders": "Growth-oriented investors will find better risk-reward in higher-quality, higher-ROTCE peers. Those unwilling to tolerate credit cycle risk or the execution uncertainty of a multi-year restructuring should avoid. Short-term traders may find the stock range-bound near-term."
+      "owners": "Value investors who recognise the turnaround is materialising in the numbers, not just the narrative. Sector allocators seeking diversified large-cap bank exposure at a discount to peers. Investors who believe RoTCE can reach 14-15% sustainably and that the stock re-rates accordingly.",
+      "avoiders": "Growth-oriented investors will find better risk-reward in higher-ROTCE peers. Those unwilling to tolerate the remaining execution uncertainty or consumer credit cycle risk should avoid. At $190 and 17x earnings, the low-hanging fruit of the re-rating may have already been captured."
     },
     "recommendation": {
-      "text": "OPPORTUNISTIC BUY. The valuation discount to peers (Citigroup at 16.4x vs JPMorgan at 23x on similar earnings power) is the core thesis. If Q1's 16% EPS beat signals that the operational turnaround is for real, the stock has material upside. New money can buy here with a 12-18 month horizon.",
-      "entryFramework": "BUY below $125 (implies sub-16x P/E with positive momentum. ADD on any further weakness toward $110. Target: $145-155 at 17-18x P/E over 12-18 months. Reduce on rallies above $155."
+      "text": "OPPORTUNISTIC BUY. The Q1 2026 print is the most unambiguous validation of the Fraser turnaround thesis to date. Record revenue, a 42% profit jump, RoTCE at five-year highs, and 90% of the consent order remediation complete — the fundamentals are shifting. At approximately 17x forward earnings, Citigroup still trades at a material discount to JPMorgan (23x) and Bank of America (18x). The Grok score of 78 reflects the quality of the Q1 beat; the conviction of 62 reflects that a significant portion of the re-rating has already occurred from the mid-$130s and that valuation headroom from here is meaningful but not exceptional.",
+      "entryFramework": "BUY below $175 (implies sub-16x P/E with positive momentum confirmed). ADD on any pullback toward $160-165. Target: $200-215 at 17-18x P/E over 12-18 months. Reduce on rallies above $215."
     }
   }
 }

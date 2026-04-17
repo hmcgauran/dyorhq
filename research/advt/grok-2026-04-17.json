@@ -1,0 +1,22 @@
+{
+  "ticker": "ADVT",
+  "date": "2026-04-17",
+  "score": 58,
+  "signal": "positive",
+  "key_themes": [
+    "Ongoing share buyback program",
+    "Analyst Buy ratings with 40%+ upside",
+    "AI and software solutions growth",
+    "Acquisition-led expansion strategy",
+    "Regulatory transparency via frequent filings"
+  ],
+  "sources": [
+    "10+ LSE regulatory announcements (share purchases, Apr 2026)",
+    "Yahoo Finance profile, performance data & analyst targets",
+    "MarketBeat consensus and news sentiment reports",
+    "0-5 relevant X posts found (very low social volume)",
+    "Company investor site and related web coverage"
+  ],
+  "summary": "AdvancedAdvT Limited (ADVT.L), a London-listed software company focused on business solutions, healthcare compliance, HCM, financial management, and AI-driven process automation, carries moderately positive sentiment. Persistent share buybacks throughout April 2026 signal board confidence that the stock is undervalued, while analysts maintain Buy/Strong Buy ratings with average price targets near 235 GBp versus the recent ~166 GBp trading level. Social media and retail investor discussion on X is nearly nonexistent, but traditional news and regulatory updates point to steady execution on its acquisition and organic growth strategy in attractive tech verticals.",
+  "fetchedAt": "2026-04-17T16:23:04.927Z"
+}

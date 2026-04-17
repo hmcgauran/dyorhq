@@ -9,7 +9,7 @@
   "sector": "Consumer Discretionary — Home Improvement Retail",
   "date": "17 April 2026",
   "reportDate": "2026-04-17",
-  "recommendation": "OPPORTUNISTIC BUY",
+  "recommendation": "SPECULATIVE BUY",
   "conviction": 48,
   "convictionHistory": [{"date": "2026-04-17", "conviction": 48}],
   "priceAtLastReport": 346.55,
@@ -25,7 +25,7 @@
   "prevClose": 343.20,
   "sections": {
     "executiveSummary": {
-      "text": "Home Depot is the dominant US home improvement retailer with unrivalled scale and a high-quality pro-customer ecosystem. Q4 2025 results beat on earnings but missed on sales in a still-challenged housing market — the big ticket categories (kitchens, bathrooms, major renovations) remain weak as homeowners sit on the sidelines waiting for mortgage rates to fall. The strategic pivot toward trade professionals (Pro Xtra) and supply house capabilities is the long-term growth driver and differentiates HD from Lowe's. At 23x P/E on ~$15 EPS, Home Depot is not expensive for a business with this franchise durability and 2.4% dividend yield. OPPORTUNISTIC BUY with conviction tempered by the uncertain near-term US housing cycle."
+      "text": "Home Depot is the dominant US home improvement retailer with unrivalled scale and a high-quality Pro-customer ecosystem. Q4 2025 results beat on earnings but missed on sales as the US housing market remains stalled — big-ticket categories (kitchens, bathrooms, major renovations) are weak and homeowners are deferring projects waiting for mortgage rate relief. Despite near-term pressure, 39 analysts maintain a Strong Buy / Moderate Buy consensus with an average price target of $414, implying approximately 23% upside from current levels. The strategic pivot toward trade professionals (Pro Xtra, supply house formats) and ongoing dividend growth underpin the bull case. At 23x P/E on ~$15 EPS with a 2.4% dividend yield, the risk-reward is attractive for a cyclically-adjusted entry — SPECULATIVE BUY with conviction tempered by uncertain US housing cycle timing."
     }
   }
 }

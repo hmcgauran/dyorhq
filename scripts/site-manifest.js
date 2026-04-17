@@ -51,7 +51,7 @@ const BROWSER_INDEX_PATH = path.join(ROOT, 'reports-index.json');
 const SOURCE_PAGES = ['index.html', 'portfolio.html', 'methodology.html', 'about.html'];
 const TEMPLATE_FILES = new Set(['template.html', 'report-template.html']);
 
-const VALID_RECOMMENDATIONS = new Set(['STRONG BUY', 'BUY', 'OPPORTUNISTIC BUY', 'SPECULATIVE BUY', 'AVOID']);
+const VALID_RECOMMENDATIONS = new Set(['BUY (STRONG)', 'BUY', 'OPPORTUNISTIC BUY', 'SPECULATIVE BUY', 'AVOID']);
 const REQUIRED_HTML_SECTIONS = [
   'Executive Summary',
   'Business Model',
@@ -228,7 +228,7 @@ function validateProject() {
 
     // recommendation tier
     if (entry.recommendation && !VALID_RECOMMENDATIONS.has(entry.recommendation)) {
-      issues.push(`${label}: recommendation "${entry.recommendation}" is not a valid tier (STRONG BUY, BUY, OPPORTUNISTIC BUY, SPECULATIVE BUY, AVOID)`);
+      issues.push(`${label}: recommendation "${entry.recommendation}" is not a valid tier (BUY (STRONG), BUY, OPPORTUNISTIC BUY, SPECULATIVE BUY, AVOID)`);
     }
 
     // conviction/tier consistency
@@ -236,7 +236,7 @@ function validateProject() {
       const c = entry.conviction;
       const r = entry.recommendation;
       let valid = false;
-      if (r === 'STRONG BUY' && c >= 80) valid = true;
+      if (r === 'BUY (STRONG)' && c >= 80) valid = true;
       else if (r === 'BUY' && c >= 65 && c <= 79) valid = true;
       else if (r === 'OPPORTUNISTIC BUY' && c >= 50 && c <= 64) valid = true;
       else if (r === 'SPECULATIVE BUY' && c >= 30 && c <= 49) valid = true;

@@ -4,28 +4,33 @@
   "isin": "US20030N1019",
   "exchange": "NASDAQ",
   "currency": "USD",
-  "price": 29.64,
-  "marketCap": "$106.6B",
+  "price": 34.00,
+  "marketCap": "$140B",
   "sector": "Communication Services — Media",
   "date": "17 April 2026",
   "reportDate": "2026-04-17",
   "recommendation": "SPECULATIVE BUY",
-  "conviction": 42,
-  "convictionHistory": [{"date": "2026-04-17", "conviction": 42}],
-  "priceAtLastReport": 29.64,
-  "marketCapAtLastReport": "$106.6B",
+  "conviction": 45,
+  "convictionHistory": [
+    {"date": "2026-04-17", "conviction": 45}
+  ],
+  "priceAtLastReport": 34.00,
+  "marketCapAtLastReport": "$140B",
   "pe": 5.5,
-  "eps": 5.39,
-  "dividendYield": "3.8%",
+  "eps": 3.66,
+  "dividendYield": "3.2%",
   "beta": 1.05,
   "sharesOut": "3.95B",
   "avgVolume": "32.9M",
   "52wHigh": 34.34,
   "52wLow": 26.80,
   "prevClose": 29.30,
+  "grokScore": 45,
+  "grokSignal": "positive",
+  "grokKeyThemes": ["low 5.5x P/E", "Q1 EPS expected -24 to -34%", "streaming bundles"],
   "sections": {
     "executiveSummary": {
-      "text": "Comcast presents as a deep value trap or a genuine bargain depending on your prior view of the broadband cord-cutting thesis. At 5.5x earnings, the market is pricing that the earnings decline is structural and permanent. The P/E of 5.5x and dividend yield of 3.8% are facts in evidence of that pessimism. The question is whether the bear case is too pessimistic. Q4 results showed mixed trends: broadband subscriber losses continuing but partially offset by Xfinity Mobile subscriber growth and NBCUniversal content revenues. Peacock streaming reached 36 million subscribers. The convergence strategy — bundling broadband, streaming, and mobile — is the bull thesis. Structural bear: cable cord-cutting has been underway for a decade and there is no evidence it has stopped. SPECULATIVE BUY reflects the valuation support at 5.5x but not a high-conviction view given the secular headwinds."
+      "text": "Comcast trades at 5.5x earnings with a 3.2% dividend yield — the market is pricing a structural and permanent earnings decline. That may be too pessimistic. Q1 2026 earnings on April 23 are expected to show a sharp EPS decline (consensus $0.82 vs $1.08 in Q1 2025, a fall of approximately 24%), but the Xfinity StreamSaver bundles launched in April 2026 — now incorporating Peacock alongside Netflix, Apple TV, Disney+, Hulu, and HBO Max in a single marketplace — represent a meaningful strategic pivot. If cord-cutting headwinds are priced in too aggressively, Comcast is a deep-value case. SPECULATIVE BUY reflects the compelling valuation support at 5.5x but not a high-conviction view given the secular cable subscriber losses that remain the primary bear argument."
     }
   }
 }

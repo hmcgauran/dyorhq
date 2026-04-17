@@ -1,0 +1,20 @@
+{
+  "ticker": "GS",
+  "date": "2026-04-17",
+  "score": 68,
+  "signal": "positive",
+  "key_themes": [
+    "Strong Q1 2026 earnings beat with record equities trading revenue",
+    "Investment banking momentum and high ROE of 19.8%",
+    "FICC trading weakness causing post-earnings stock pullback",
+    "Constructive 2026 macroeconomic outlook from GS Research",
+    "Profit-taking after strong run amid macro volatility concerns"
+  ],
+  "sources": [
+    "10+ news articles (CNBC, Reuters, Seeking Alpha, Yahoo Finance) on Q1 2026 earnings",
+    "20+ recent X posts reacting to earnings and stock movement",
+    "Social sentiment data (AltIndex scores ~72-88/100, positive vs peers)"
+  ],
+  "summary": "Goldman Sachs delivered standout Q1 2026 results, posting its second-highest quarterly revenue and EPS ever ($17.55 beat vs. ~$16.50 expected) on record equities trading and stronger investment banking, achieving a robust 19.8% ROE. The stock dipped initially on a FICC miss and profit-taking but has stabilized near $900, with the firm's own economists forecasting sturdy 2.8% global growth. Investor sentiment is positive overall, underpinned by franchise strength despite short-term macro and segment-specific concerns.",
+  "fetchedAt": "2026-04-17T15:59:06.335Z"
+}

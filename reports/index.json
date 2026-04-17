@@ -13,6 +13,7 @@
     "marketCap": null,
     "summary": "3M's diversification across industrial, healthcare and consumer end markets provides residual resilience, but the shares trade near the top of their 52-week range at a P/E of 25x with structural earnings headwinds persisting - HOLD is the weighted recommendation.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 150.32,
@@ -40,6 +41,7 @@
     "marketCap": null,
     "summary": "Abbott operates across four principal divisions. Medical Devices covers cardiovascular stents, rhythm management, neuromodulation and Alinity diagnostics platforms. Diagnostics - a legacy COVID-19 strength - includes point-of-care and laboratory-based testing. Nutrition (Similac, Ensure, Pedialyte) serves maternal, infant and adult nutritional needs globally. Established Pharmaceuticals sells generic branded medicines in emerging markets.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 100.3,
@@ -66,6 +68,8 @@
     "marketCap": null,
     "summary": "AbbVie is a biopharmaceutical company focused on immunology, oncology, neuroscience and aesthetics. Its flagship product, Humira (adalimumab), was the world's best-selling drug for a decade, generating over $20 billion annually at peak, but has faced biosimilar competition in the US since January 2023. AbbVie has managed this cliff through Skyrizi (risankizumab, IL-23 inhibitor) and Rinvoq (upadacitinib, JAK inhibitor), both of which have demonstrated superior clinical profiles in immunology and are growing rapidly.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 207.94,
@@ -92,6 +96,7 @@
     "marketCap": null,
     "summary": "Ab Dynamics is a precision-engineered niche manufacturer serving the global automotive testing market. Its products - suspension testing rigs, steering test systems, crash simulation equipment, and data acquisition platforms - occupy a defensible position in a specialised B2B supply chain where precision and repeatability are non-negotiable. The stock has de-rated sharply from its 52-week high of 1900 GBX, sitting 41% below that level at 1115.67 GBX, which creates a more reasonable entry point than was available six months ago.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1115.67,
@@ -148,6 +153,8 @@
     "marketCap": null,
     "summary": "Accenture is a global professional services firm providing consulting, technology and managed services across strategy, digital transformation, cloud infrastructure, AI implementation and cybersecurity. The company operates across five operating segments: Strategy, Consulting, Digital, Technology and Song (creative/digital advertising).",
     "universes": [
+      "irish",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 179.53,
@@ -174,6 +181,7 @@
     "marketCap": null,
     "summary": "Accesso Technology Group PLC is a UK-listed niche vertical software company providing queue management, e-ticketing, and point-of-sale systems to the global attractions and leisure sector. The business has successfully transitioned from a hardware-centric model to a cloud-based SaaS platform, and post-COVID recovery in the attractions sector has driven a meaningful improvement in recurring revenue visibility. At 249.28 GBX the stock trades roughly in line with its 52-week range, having recovered from the post-pandemic trough but well off the highs near 400 GBX.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 249.28,
@@ -200,6 +208,7 @@
     "marketCap": null,
     "summary": "Activeops is a niche UK-listed SaaS business providing workforce management software to contact centres and back-office operations. The company operates in a fragmented market with limited direct competition from listed peers, giving it exposure to the structural shift from spreadsheet-based scheduling to purpose-built WFM platforms in regulated industries.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 200,
@@ -226,6 +235,7 @@
     "marketCap": null,
     "summary": "Adient plc is a high-quality automotive seating manufacturer with leading global market share, but the automotive production cycle is in a soft phase and elevated raw material costs limit the near-term re-rating potential -- HOLD . HOLD Conviction Score: 62/100 - HOLD",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 20.42,
@@ -252,6 +262,8 @@
     "marketCap": null,
     "summary": "Adobe operates three main segments. Digital Media includes Creative Cloud (Photoshop, Illustrator, Premiere, After Effects and the full Adobe suite) and Document Cloud (Acrobat, Acrobat Sign, and the Adobe Express platform). These are sold via annual subscription, generating highly predictable recurring revenues from over 30 million paid members. Digital Experience covers the Adobe Experience Platform, Marketo, and Workfront - enterprise marketing and customer experience management tools.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 225.35,
@@ -278,6 +290,7 @@
     "marketCap": null,
     "summary": "Ads-Tec Energy makes battery-buffered fast charging systems and related energy management software. The interesting part of the story is not simply EV charging demand, but whether the company can prove that its buffer technology solves grid-connection bottlenecks in locations where conventional ultra-fast chargers are hard or expensive to install. The shares still look speculative because adoption depends on project execution, channel build-out and funding discipline rather than a long record of recurring cash generation.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 11.8,
@@ -335,6 +348,7 @@
     "marketCap": null,
     "summary": "Advanced Medical Solutions Group plc is a UK-listed medical device company specialising in advanced wound care and surgical sealing products. Its portfolio spans tissue adhesives, sutures, haemostats, and advanced wound dressings, with manufacturing footprint in the UK and Germany and commercial reach across the UK, Europe, and the United States.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 219,
@@ -361,6 +375,8 @@
     "marketCap": null,
     "summary": "AMD is the most credible alternative to NVIDIA in AI accelerators and has made genuine GPU architecture progress, but at a P/E of 94x the market is already pricing a successful execution of an extremely demanding AI trajectory",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 245.04,
@@ -417,6 +433,7 @@
     "marketCap": null,
     "summary": "AIB Group plc is a-systemically important Irish retail and commercial bank, majority-owned by the Irish state following the 2010-era financial crisis recapitalisation. The bank occupies a dominant position in the Republic of Ireland's mortgage and SME lending markets and benefits from a structurally advantaged funding base through the Irish Post Office and AIB's own branch network. The Irish economy continues to outperform the eurozone average, supporting loan book quality, though the housing market remains a key sensitivity.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 846,
@@ -499,6 +516,7 @@
     "marketCap": null,
     "summary": "Alkemy Capital Investments PLC is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania — a hard rock lithium project with a completed Definitive Feasibility Study and a binding Glencore offtake agreement covering 40% of projected production at competitive pricing. Wates Group has been appointed as the construction partner, FEED is complete, and the project is awaiting Final Investment Decision (FID).",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 301.55,
@@ -529,6 +547,7 @@
     "marketCap": null,
     "summary": "Alkermes is no longer just a pipeline option on unproven science; it has a commercial neuroscience base and the market now judges it on product durability, margin quality and how management redeploys cash. The opportunity is real if the company can keep its marketed portfolio resilient while building the next leg of growth, but investors should recognise that biotech sentiment can turn quickly when key products mature.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 33.36,
@@ -615,6 +634,7 @@
     "marketCap": null,
     "summary": "Alphabet's primary business is Google Search, which processes over 8.5 billion queries daily and generates the majority of group profits through targeted advertising. This is supported by the Google Display Network, YouTube advertising (pre-roll, in-stream and Shorts), and Google Network partner revenues. Google Cloud - encompassing Google Workspace productivity tools, GCP infrastructure-as-a-service, and AI platform services - is the second major revenue pillar and the fastest-growing segment.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 317.26,
@@ -641,6 +661,7 @@
     "marketCap": null,
     "summary": "Alphabet is the dominant global internet platform: Google Search holds approximately 91% market share, YouTube is the world's largest video platform, and Google Cloud is the emerging third pillar of the business. The company sits at the intersection of several secular growth themes - AI, cloud computing, and digital advertising - but faces the most significant structural challenge to its core search franchise since its founding. The DOJ antitrust victory in August 2024 and the rise of AI-native search alternatives (Perplexity AI, OpenAI Search, Claude-powered search) create a credible scenario in which Google's search ad inventory erodes over the next five to ten years.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 330.58,
@@ -745,6 +766,8 @@
     "marketCap": null,
     "summary": "Amazon is the world's largest e-commerce marketplace and cloud infrastructure provider, operating a network effect business with two dominant platforms - marketplace and AWS - that reinforce each other. AWS is the leading cloud platform, generating $100B+ in annual revenue with strong growth and significant AI opportunity through Bedrock. The e-commerce marketplace generates massive cash flow that funds AWS's AI infrastructure investment. The stock at $238.38 is 2% below its 52w high and is the best-risk-adjusted large-cap tech exposure available.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 238.38,
@@ -775,6 +798,7 @@
     "marketCap": null,
     "summary": "American Express operates a closed-loop payments network - unlike Visa and Mastercard, which facilitate transactions between banks, Amex is itself the issuer and the network. This allows it to capture the full economics of each transaction: interchange fees from merchants, interest income from cardholder revolving balances, and annual fee income from premium card products.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 313.5,
@@ -827,6 +851,8 @@
     "marketCap": null,
     "summary": "Amgen discovers, develops and manufactures biopharmaceuticals across several therapeutic areas: oncology (Prolia, Xgeva, Kyprolis, Blincyto), inflammation (Enbrel, Tezspire, Otezla), cardiovascular (Repatha, Evolocumab PCSK9 inhibitor), and nephrology (Aranesp). The company is notable for its pioneering role in the US biotech industry and its substantial manufacturing footprint, which it has leveraged to enter the biosimilar market with Amjevita (adalimumab biosimilar, referencing Humira).",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 351,
@@ -853,6 +879,7 @@
     "marketCap": null,
     "summary": "Anglo Asian Mining is a UK-listed gold and copper producer operating exclusively in Azerbaijan under Mining Law agreements with the Azerbaijani government. The company runs the Gedabek gold-copper mine and is developing the Gyzylarahmet gold deposit. At 258.5 GBX, the stock trades at approximately 6x EPS against a gold price environment that remains constructive. The geographic concentration in Azerbaijan is the central risk variable, but the current valuation -- a deep value multiple for a precious metals producer -- more than compensates for geopolitical risk at this stage of the cycle.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 258.5,
@@ -879,6 +906,7 @@
     "marketCap": null,
     "summary": "Animalcare Group Plc is a focused UK and European animal health business, operating in the veterinary pharmaceuticals, instruments, and nutrition segments for companion animals. The company serves veterinary practices across the UK and Ireland with a product range covering anti-infectives, pain management, and animal welfare products for horses, dogs, and cats.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 248.5,
@@ -905,6 +933,8 @@
     "marketCap": null,
     "summary": "Apple designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories globally, under the iPhone, Mac, iPad, Apple Watch, and AirPods brands. It also operates a high-margin Services segment comprising the App Store, Apple Music, Apple TV+, Apple Arcade, iCloud, Apple Pay, and a growing advertising business.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 260.48,
@@ -961,6 +991,7 @@
     "marketCap": null,
     "summary": "Arbuthnot Banking Group is a focused UK private banking and wealth management group serving high-net-worth individuals and family clients. It operates through three principal divisions: Arbuthnot Latham (private banking), The Private Office (wealth management), and Elevate Portfolio Management (discretionary investment). The group is characterised by stable fee income, a conservative lending book, and a patient, relationship-led approach to client acquisition.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 895,
@@ -1096,7 +1127,7 @@
     "exchange": "",
     "file": "attinc.html",
     "date": "2026-04-16",
-    "recommendation": "STRONG BUY",
+    "recommendation": "BUY (STRONG)",
     "conviction": 81,
     "currency": "USD",
     "price": 26.46,
@@ -1129,6 +1160,7 @@
     "marketCap": null,
     "summary": "Avacta is a clinical-stage oncology company built around its pre|CISION platform - a tumour-targeted prodrug activation technology that releases active drug preferentially in the tumour microenvironment rather than systemically. The core technology uses Fibroblast Activation Protein (FAP), expressed in the stroma of approximately 90% of solid tumours, as the activation trigger.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 71.9,
@@ -1155,6 +1187,7 @@
     "marketCap": null,
     "summary": "Avingtrans is a UK-listed precision engineering group serving the energy, aerospace, and industrial sectors. The business operates across a niche set of specialist manufacturing capabilities - heat exchangers, precision-machined components, and specialised fabrications - with a customer base spanning UK, US, and European markets. At a market cap of approximately £80m, it sits firmly in the UK small-cap universe where liquidity is thin, institutional coverage is minimal, and the discount to net asset value is a persistent structural feature.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 580,
@@ -1181,6 +1214,8 @@
     "marketCap": null,
     "summary": "Bank of America is a diversified global financial institution organised into four principal divisions: Consumer Banking (deposits, mortgages, credit cards, auto loans), Global Wealth &amp; Investment Management ( Merrill Lynch private wealth and brokerage), Global Banking (corporate lending, M&amp;A advisory, capital markets), and Global Markets (FICC trading, prime brokerage).",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 52.54,
@@ -1207,6 +1242,7 @@
     "marketCap": null,
     "summary": "Bank of Ireland is another core domestic lender whose earnings are currently flattered by higher rates, but the longer-term investment case rests on deposit stickiness, credit discipline and the ability to return capital without inviting a harsher regulatory tone. The bank has benefited from consolidation in the Irish market, though investors still need to separate cyclical earnings strength from truly durable franchise improvement.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 16.45,
@@ -1267,6 +1303,8 @@
     "marketCap": null,
     "summary": "Berkshire Hathaway is a conglomerate holding company with dominant insurance operations and a disciplined capital allocation philosophy; its intrinsic value growing at above-market rates and significant liquidity make it a compelling long-term hold at $479.90.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 479.9,
@@ -1297,6 +1335,7 @@
     "marketCap": null,
     "summary": "Bioventix is a specialised UK biotech that develops and manufactures recombinant antibodies for in-vitro diagnostic (IVD) applications, pharmaceutical partners, and research institutions. The company occupies a niche but defensible position in the antibody supply chain, serving IVD manufacturers who embed Bioventix's reagents into commercial diagnostic kits. Its model is high-margin, recurring-revenue-adjacent, and largely insulated from the binary risk profiles that characterise early-stage biotech.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1825,
@@ -1323,6 +1362,7 @@
     "marketCap": null,
     "summary": "BlackRock manages $10.5 trillion+ in assets under management (AUM) across equities, fixed income, multi-asset, alternatives and cash. The business model generates revenues from advisory fees (basis points on AUM), securities lending, and the Aladdin risk-management technology platform, which is licensed to institutional investors and other asset managers globally.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 999.31,
@@ -1349,6 +1389,7 @@
     "marketCap": null,
     "summary": "Block Energy PLC is a micro-cap oil and gas exploration and production company listed on AIM with production assets in the Republic of Georgia. At a market capitalisation of approximately GBP 15.1 million, the company trades near the bottom of its 52-week range at 1.42 GBX. The company is loss-making with zero reported EPS, rendering traditional valuation metrics inapplicable. Block Energy's investment case rests entirely on the successful execution of Georgian production growth, funding capacity, and the prospect of reserve additions -- a high-risk, binary outcome profile characteristic of micro-cap E&P. The speculative nature of the equity, combined with limited free float and elevated funding risk, supports a HOLD at current levels for all but the highest risk-tolerance investors. Conviction Score: 35/100 -- HOLD.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1.42,
@@ -1401,6 +1442,8 @@
     "marketCap": null,
     "summary": "Boeing designs, manufactures and services commercial jetliners (737, 747, 767, 777, 787 Dreamliner), military aircraft (F-15, F/A-18, KC-46 tanker, T-7 trainer, MV-22 Osprey) and space systems (Space Launch System, Starliner capsule, satellite systems). The commercial aeronautics business (BCA - Boeing Commercial Airplanes) accounts for approximately 35-40% of revenues and is the highest-margin segment when operating normally. Boeing Defense, Space &amp; Security (BDS) provides defence platform stability.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 217.63,
@@ -1453,6 +1496,7 @@
     "marketCap": null,
     "summary": "Booking Holdings is the world's largest online travel agent by revenue, benefiting from structural travel demand recovery and its dominant platform economics; BUY on valuation pullback given strong long-term growth runway.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 173.46,
@@ -1483,6 +1527,7 @@
     "marketCap": null,
     "summary": "B.P. Marsh &amp; Partners PLC is a UK-based venture capital and investment company focused exclusively on the financial services sector. Established in 1989 and listed on AIM since 2005, the firm invests in early-stage and growth-stage fintech, insurance, and financial services businesses across the UK, Europe, and North America. The investment approach centres on acquiring minority equity stakes, typically between GBP250,000 and GBP5 million, in businesses with proven concepts but before Series A saturation.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 663.2,
@@ -1509,6 +1554,7 @@
     "marketCap": null,
     "summary": "BRCK Group PLC is a nano-cap AIM-listed hardware and connectivity company targeting emerging markets with ruggedised IoT infrastructure. The business has pivoted from a single-product company (the BRCK router) to a broader IoT edge computing and connectivity platform, now encompassing the Kito Cam range and related sensor/connectivity hardware. At 55.00 GBX and a market capitalisation of approximately GBP30 million, BRCK is a speculative proposition: the addressable markets are large and growing, the products fill genuine gaps in emerging-market connectivity infrastructure, and the valuation is accessible. However, the stock carries the characteristic risks of UK micro-caps on AIM: thin trading, limited institutional coverage, questionable liquidity, and a financial disclosure record that makes bottom-up financial modelling difficult.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 55,
@@ -1535,6 +1581,7 @@
     "marketCap": null,
     "summary": "Brera is a micro-cap multi-club football ownership story. That makes it speculative by default because valuation depends on asset quality, league outcomes, financing and the companys ability to create real economic value from sports ownership rather than just narrative appeal. Investors should treat it more like a high-risk holding company than like a conventional operating business.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 0.78,
@@ -1565,6 +1612,7 @@
     "marketCap": null,
     "summary": "Bristol-Myers Squibb is a biopharmaceutical company focused on oncology, immunology, haematology and cardiovascular disease. Key products include Eliquis (apixaban, anticoagulant - BMS share with Pfizer), Opdivo (nivolumab, PD-1 checkpoint inhibitor), Yervoy (ipilimumab, CTLA-4 inhibitor), Revlimid (lenalidomide - multiple myeloma, facing generics), and Pomalone (pomalidomide).",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 58.62,
@@ -1591,6 +1639,8 @@
     "marketCap": null,
     "summary": "Broadcom operates two distinct businesses: semiconductor solutions (the original Brocade/Semiconductor business) and infrastructure software (following the VMware acquisition, the largest in tech history at $69 billion). The semiconductor segment includes custom ASICs (application-specific integrated circuits for hyperscalers including Google, Meta, Amazon and Microsoft), Ethernet switches and serializers/deserialisers for AI data centre networks, RF components for mobile devices, and Broadcom's proprietary network security and bandwidth management chips.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 371.55,
@@ -1755,6 +1805,8 @@
     "marketCap": null,
     "summary": "Caterpillar is the world's largest manufacturer of construction and mining equipment, diesel and gas turbines, and diesel-electric locomotives. The company's three primary segments are Construction Industries (compact and heavy construction equipment), Resource Industries (mining, quarry and aggregate equipment), and Energy &amp; Transportation (power generation, reciprocating engines, turbines and locomotives).",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 790.66,
@@ -1781,6 +1833,7 @@
     "marketCap": null,
     "summary": "Cencora (formerly AmerisourceBergen) offers defensive pharmaceutical distribution exposure with a high-quality specialty pharmacy growth engine, but the absence of reported P/E data and thin public float limit investment precision.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 316.85,
@@ -1807,6 +1860,7 @@
     "marketCap": null,
     "summary": "Centene is a major US Medicaid managed care organisation (MCO), serving approximately 17 million members across 26 states. Its model involves contracting with state governments to manage healthcare benefits for low-income adults, children, pregnant women, and individuals with disabilities under Medicaid and CHIP programmes. Premium revenues are received from state agencies (means-tested, largely government-funded), and Centene bears the medical cost risk.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 37.3,
@@ -1833,6 +1887,7 @@
     "marketCap": null,
     "summary": "Central Asia Metals operates two polymetallic mines in Kazakhstan: the Kounrad mine, a surface copper and zinc operation in the Karaganda region, and the Sary Arka mine, which produces copper and zinc concentrates. Both mines are surface operations with relatively low cost profiles compared to underground peers, though they remain exposed to input cost inflation and the Kazakhstani tenge exchange rate.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 155,
@@ -1859,6 +1914,7 @@
     "marketCap": null,
     "summary": "Cerillion PLC is a London-listed specialist in billing, revenue management, and customer experience software for telecoms and utilities. Its pre-paid and post-paid billing platforms, CRM layer, and data analytics suite serve mobile operators, broadband providers, and utility companies across the UK, Europe, and the US. The business operates on a SaaS model with annuity-style recurring revenue, giving it defensible visibility against the more lumpy capital expenditure cycles of its telco client base.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1440,
@@ -1937,6 +1993,8 @@
     "marketCap": null,
     "summary": "Chevron is the second-largest US oil major, with operations spanning upstream (exploration and production) and downstream (refining and marketing). Key upstream assets include the Permian Basin (the most prolific US shale play, where Chevron is a top-two operator following the PDC Energy acquisition), LNG export facilities, deepwater Gulf of Mexico assets, and international positions in Australia (LNG), Kazakhstan and the DJ Basin (Colorado).",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 188.55,
@@ -1963,6 +2021,7 @@
     "marketCap": null,
     "summary": "The Cigna Group's combination of Evernorth health services and disciplined Medicare Advantage growth supports a mid-60s conviction score, but medical cost uncertainty and integration execution risk keep it in hold territory.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 269.56,
@@ -2019,6 +2078,8 @@
     "marketCap": null,
     "summary": "Cisco is a quality networking franchise executing a credible AI infrastructure transition. Q2 FY26 delivered record $15.3B revenue (+10% YoY) with $2",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 81.76,
@@ -2071,6 +2132,7 @@
     "marketCap": null,
     "summary": "Cloudflare is a global cloud infrastructure and security company operating at the intersection of two high-growth markets: edge computing and enterprise cybersecurity. Its core proposition is a single global anycast network spanning 300+ data centres, offering CDN, DDoS protection, WAF, and the Workers serverless platform to enterprises, governments, and developers worldwide. The company is loss-making on a GAAP basis but is very close to free cash flow breakeven, guided for FCF positivity in 2025 - making it one of the last high-quality infra/security growth stories to transition to profitability.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 178.65,
@@ -2097,6 +2159,7 @@
     "marketCap": null,
     "summary": "CMR is an early-stage copper and critical mineral exploration company building a portfolio of near-term development assets in Morocco — a jurisdiction it considers mining-friendly, well-located to serve European markets, with attractive permitting and fiscal conditions. The company operates through its 80%-owned Moroccan subsidiary Atlantic Research Minerals SARL (ARM), acquired in July 2023.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 2.24,
@@ -2123,6 +2186,7 @@
     "marketCap": null,
     "summary": "Coca-Cola manufactures and distributes alcoholic and non-alcoholic beverages across more than 200 countries. Its portfolio spans carbonated soft drinks (Coca-Cola, Diet Coke, Sprite, Fanta), sports drinks (Powerade), juices and value-added dairy (Minute Maid, Innocent), hydration and tea (smartwater, Costa Coffee, Ayataka), and energy drinks (Costa Coffee, Monster in certain markets under license). Coca-Cola operates a largely asset-light model: it concentrates on concentrate production and marketing while independent bottlers -- many of them privately held and operating under franchise agreements -- handle manufacturing, distribution, and local sales. This system provides structural operating leverage and capital efficiency. Geographic exposure is broadly diversified: North America (~35% of revenue), Europe/Middle East/Africa (~25%), Asia Pacific (~20%), Latin America (~15%), and Global Ventures (~5%). The business is characterised by significant pricing power, a recurring revenue model, and strong free cash flow generation that comfortably funds the dividend and share buyback programme.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 75.29,
@@ -2153,6 +2217,7 @@
     "marketCap": null,
     "summary": "Cohort PLC is a multi-disciplined UK defence and security group operating through four distinct subsidiaries: MASS (defence electronics and electronic warfare), EID (military communications), SOE (sonar and acoustic systems), and ASV (autonomous systems). The group sits beneath the UK Government's elevated defence spending commitment, benefiting from structural budget allocation to electronic warfare, maritime surveillance, and autonomous capabilities - all areas where Cohort holds established positions with the UK MOD, European defence ministries, and NATO-aligned customers.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1328,
@@ -2325,6 +2390,8 @@
     "marketCap": null,
     "summary": "Costco is a high-quality membership-driven retail compounding machine with exceptional pricing power and customer loyalty metrics that are the envy of the retail sector. The 51.19x P/E reflects precisely this quality — the market prices in near-perfect execution and the...",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 982.51,
@@ -2351,6 +2418,7 @@
     "marketCap": null,
     "summary": "Craneware plc is a UK-headquartered healthcare technology company that operates exclusively in the US hospital market, providing data-driven analytics and decision support tools across revenue cycle management, claims analytics, and pharmacy compliance. The business is cash-generative, recurring-revenue-heavy, and serves a defensive niche within US healthcare administration. Its three core products -- Trending (claims analytics), Chargemaster (hospital revenue cycle management), and Pharmacy (340B programme compliance) -- address distinct but complementary pain points for US hospital CFOs and revenue cycle teams.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1429.94,
@@ -2370,13 +2438,14 @@
     "exchange": "",
     "file": "crhplc.html",
     "date": "2026-04-16",
-    "recommendation": "STRONG BUY",
+    "recommendation": "BUY (STRONG)",
     "conviction": 82,
     "currency": "USD",
     "price": 114.36,
     "marketCap": null,
     "summary": "CRH plc is a high-quality global building materials champion with exceptional cash flow generation, a disciplined capital allocation record, and a rock-solid balance sheet, trading at a material discount to US-listed peers despite superior returns -- BUY . BUY Conviction Score:...",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 114.36,
@@ -2463,6 +2532,7 @@
     "marketCap": null,
     "summary": "CVS Group is one of the largest integrated veterinary services providers in the UK and a significant operator across Ireland, Australia, and New Zealand. The group operates across companion animal, farm animal, and equine segments, combining owned practice revenue with diagnostic laboratory services and specialist referral work. It is a structural consolidator in a highly fragmented UK veterinary market, acquiring independent practices and integrating them onto a shared services platform.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1203,
@@ -2489,6 +2559,7 @@
     "marketCap": null,
     "summary": "CVS Health is a vertically integrated healthcare company spanning retail pharmacy, pharmacy benefit management (PBM), and health insurance (Aetna); the combination of PBM margin pressure, medical benefit ratio deterioration, and retail headwinds makes REDUCE the appropriate call at $79.33.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 79.33,
@@ -2519,6 +2590,7 @@
     "marketCap": null,
     "summary": "Danaher is a world-class life sciences tools franchise with an excellent track record of scientific instrument and diagnostics portfolio management. Morgan Stanley's upgrade in 2026 reflects growing confidence in a 2026 recovery in biotech capex spending, which directly drives...",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 190.43,
@@ -2545,6 +2617,7 @@
     "marketCap": null,
     "summary": "DCC operates across three distinct divisions, each a leader in its respective niche:",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 5105,
@@ -2575,6 +2648,8 @@
     "marketCap": null,
     "summary": "Deere is the world's dominant agricultural and construction equipment manufacturer, benefiting from precision farming technology adoption and infrastructure spending; the stock's valuation near 52-week highs reflects this, leaving limited near-term upside; HOLD at $605.00.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 605,
@@ -2605,6 +2680,7 @@
     "marketCap": null,
     "summary": "Dell Technologies is the dominant US enterprise AI server infrastructure provider, having converted its Dell AI Factory partnerships with NVIDIA into a multi-billion-dollar AI revenue stream. Record FY2026 revenue of $113B and Goldman Sachs upgrading the price target to $215 make...",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 185.4,
@@ -2657,6 +2733,7 @@
     "marketCap": null,
     "summary": "Diageo is the world's largest spirits company by revenue, owning a portfolio of iconic global brands including Johnnie Walker, Guinness, and Tanqueray. The business generates highly recurring, defensible cash flows from a geographically diversified model spanning five operating segments. However, North American distributor destocking and sluggish emerging market volume growth are currently suppressing organic revenue growth, and the new CEO -- appointed January 2026 -- has yet to articulate a clear strategic roadmap. The stock trades at a P/E of 18.4x, broadly in line with its historical medium-term range, with the shares sitting approximately 12.6% below their 52-week high. At current levels the risk-reward is balanced; a credible strategy refresh from the new CEO could provide meaningful re-rating potential, but the near-term catalyst calendar is thin. HOLD. Conviction Score: 62/100.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1468.8,
@@ -2687,6 +2764,7 @@
     "marketCap": null,
     "summary": "Dole plc is the world's largest fresh produce company with dominant positions in bananas and pineapples, but secular challenges in its core banana business and limited visibility on the portfolio optimisation strategy produce a neutral risk-reward at $15.69 -- HOLD . HOLD...",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 15.69,
@@ -2713,6 +2791,7 @@
     "marketCap": null,
     "summary": "Dotdigital Group plc is a UK-headquartered SaaS company providing a marketing automation and customer engagement platform to retail, e-commerce, and B2B clients across the UK, Europe, US, and Australia. Its platform covers email marketing, SMS, push notifications, and a customer data platform, positioning it as a mid-market engagement layer between CRM systems and the broader martech stack.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 44.9,
@@ -2765,6 +2844,8 @@
     "marketCap": null,
     "summary": "Duke Energy is a regulated utility operating across the Carolinas, Florida, Ohio, Indiana, and Kentucky; it offers a defensive 3.5% dividend yield supported by rate base growth from grid modernisation, but limited capital appreciation potential keeps us at HOLD.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 131.79,
@@ -2825,6 +2906,7 @@
     "marketCap": null,
     "summary": "Eaton is a well-positioned electrical and power management company benefiting from grid modernisation, data centre power demand, industrial electrification and a generally stronger mix than it had a decade ago. The key attraction is that several growth themes now reinforce each other: utilities need upgrades, buildings need smarter electrical systems, and AI-related infrastructure is stretching power availability. This still does not make Eaton immune to industrial cycles, but it does make the franchise more durable than a typical conglomerate.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 403,
@@ -2855,6 +2937,7 @@
     "marketCap": null,
     "summary": "Beeks Financial Cloud Group PLC is a specialised low-latency cloud and connectivity provider serving the financial services industry. Its proposition is narrow but defensible: ultra-low latency infrastructure, proximity hosting to major trading venues, and dark fibre connectivity that institutional traders, banks, and exchanges cannot do without. The shares trade on AIM at 167.90 GBX with an estimated market capitalisation of approximately GBP120 million.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 167.9,
@@ -2881,6 +2964,7 @@
     "marketCap": null,
     "summary": "Elevance Health (formerly Anthem) sits at an inflection point as Medicare Advantage membership growth is offset by regulatory headwinds and medical cost normalisation, leaving the shares in reduce territory with limited near-term upside.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 309.4,
@@ -2907,6 +2991,8 @@
     "marketCap": null,
     "summary": "Eli Lilly is the GLP-1 obesity drug franchise with the most comprehensive pipeline and the most aggressive expansion of manufacturing capacity in the space. The approval and launch of Zepbound for obesity is a genuine multi-decade revenue opportunity — potentially the largest...",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 933.34,
@@ -2933,6 +3019,7 @@
     "marketCap": null,
     "summary": "Emerson Electric is a global automation and instrumentation leader undergoing a strategic portfolio transformation; its push into discrete automation and hybrid process control aligns with structural manufacturing onshoring and AI-driven factory automation demand; BUY at $143.77.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 143.77,
@@ -3045,6 +3132,7 @@
     "marketCap": null,
     "summary": "Everplay Group is a UK-headquartered digital advertising and marketing technology business operating across three core service lines. Its digital out-of-home division aggregates and sells advertising inventory across networked digital screens in high-footfall venues - retail environments, transport hubs, and urban fixtures - enabling brand advertisers to buy DOOH impressions programmatically. Its programmatic advertising platform provides agency and brand clients with automated, data-driven buying tools for digital display campaigns across open web and app-based inventory. A third leg, campaign management and data analytics, offers attribution modelling, audience segmentation, and performance reporting to demonstrate return on advertising spend.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 259,
@@ -3071,6 +3159,7 @@
     "marketCap": null,
     "summary": "Experian is a data and analytics franchise with entrenched positions in credit information, decisioning and identity-related services. It benefits when lenders, insurers and businesses need better underwriting and fraud tools, but the real attraction is that the business is deeply embedded in customer workflows and produces recurring revenue with good cash conversion. It is not cheap in a headline sense, yet there are credible reasons why the market often pays up for it.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 35.04,
@@ -3101,6 +3190,7 @@
     "marketCap": null,
     "summary": "Exxon Mobil is a world-class integrated oil company that has staged a remarkable recovery from sub-$100 levels to all-time highs near $176, driven by the Middle East conflict premium and a structural undersupply thesis in crude markets. The company's operational leverage means...",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 153.5,
@@ -3183,6 +3273,7 @@
     "marketCap": null,
     "summary": "FedEx Corporation (FDX) operates in the Industrials sector and is listed on NYSE. The business generates revenue through its core operations in industrials.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 374.08,
@@ -3209,6 +3300,7 @@
     "marketCap": null,
     "summary": "Fevertree Drinks PLC is the original premium mixer brand, having essentially invented the category of premium tonic water and mixers in the UK before expanding internationally into the US and Europe. The brand sits in a defensible niche at the intersection of the premium drinks trend and the cocktail culture expansion of the 2010s. However, the stock has de-rated materially from its 2021 peak as growth normalised, input costs compressed margins, and the UK On-Trade recovered only partially from COVID disruption.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 833.5,
@@ -3235,6 +3327,7 @@
     "marketCap": null,
     "summary": "Fintel PLC is a UK-focused media and information business serving the retail financial advice market through subscription-based products. The group operates across three divisions: Mortgage Support Services, Retail Distribution Services, and the Moneycompare.com price comparison platform. Its customers are regulated financial advisers and mortgage brokers who depend on Fintel's research, sourcing tools, and compliance infrastructure as part of their day-to-day operations.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 177,
@@ -3261,6 +3354,7 @@
     "marketCap": null,
     "summary": "First Trust Portfolios, the fund sponsor, operates FTC as a single-factor enhanced index fund. The underlying S&P 500 AlphaDEX Growth Index applies a proprietary ranking methodology to the S&P 500 universe, selecting the top-scoring growth stocks based on: (1) price momentum, (2) earnings growth momentum, (3) return on equity, and (4) management change signals. The fund holds approximately 200-300 stocks across sectors, with a deliberate growth and momentum tilt relative to the cap-weighted S&P 500 benchmark. FTC distributes dividends quarterly, has an expense ratio of approximately 0.60-0.70% (confirmed against current First Trust ETF fee schedules), and tracks the index using physical replication. The fund's AlphaDEX methodology is distinct from passive cap-weighted indexing: it systematically overweights stocks with positive growth and momentum signals while underweighting those that score poorly on those dimensions. The result is a portfolio with higher turnover and higher sector active weights compared to a standard S&P 500 ETF, with performance that diverges materially in factor-driven market environments.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 168.09,
@@ -3287,6 +3381,7 @@
     "marketCap": null,
     "summary": "Flutter is one of the strongest operators in online betting and gaming, with powerful brands, scale advantages and a broad geographic footprint, but it remains an industry where regulation and customer acquisition discipline can change the investment case quickly. The important question is not whether Flutter is a serious operator, it plainly is. The question is how much of that quality is already reflected in the share price and how durable current US and international economics prove to be.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 102.38,
@@ -3317,6 +3412,7 @@
     "marketCap": null,
     "summary": "Ford is navigating one of the most complex turnarounds in automotive history — simultaneously managing a legacy ICE and hybrid business while funding a large EV development programme that is currently destroying earnings. The UBS upgrade to Buy on improving earnings outlook...",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 12.11,
@@ -3373,6 +3469,7 @@
     "marketCap": null,
     "summary": "Frp Advisory Group PLC is a UK-focused advisory and restructuring firm providing corporate finance advice, restructuring, and insolvency services to corporates, lenders, and stakeholders across industries. At 117.00 GBX, the shares trade at approximately 12x estimated earnings with a market capitalisation of roughly GBP150m, positioning it as a mid-tier UK small-cap in the professional services space.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 117,
@@ -3399,6 +3496,7 @@
     "marketCap": null,
     "summary": "FW Thorpe plc is a long-established UK specialist lighting manufacturer serving commercial, industrial, and architectural end markets. The group occupies a defensible niche in high-specification, mission-critical lighting applications where product failure carries safety or regulatory consequences - emergency lighting, hazardous-area luminaires, and transport infrastructure being the core anchors. Its brands include Thorpe, Zano, and others serving healthcare, education, transport, and commercial property.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 268,
@@ -3425,6 +3523,7 @@
     "marketCap": null,
     "summary": "Gateley is an AIM-listed legal services group operating a complementary legal and professional services model, serving UK corporate clients across corporate, real estate, banking, and tax disciplines. The group occupies a niche position as one of the few publicly listed legal services businesses in the UK, offering transparency and scale advantages over smaller private practices. At approximately 10x earnings with a 7p EPS, the stock trades at a meaningful discount to the broader legal services peer group and to the quality of its recurring client base.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 70,
@@ -3451,6 +3550,7 @@
     "marketCap": null,
     "summary": "GB Group plc is a UK-headquartered identity data and fraud prevention technology company operating at the intersection of regulatory compliance, digital trust, and cybersecurity. Its platform enables organisations to verify identities, detect fraud, and meet Know Your Customer (KYC) and Anti-Money Laundering (AML) obligations across financial services, telecoms, and e-commerce. The company generates revenue predominantly through subscription and transaction-based contracts, providing strong visibility on recurring income. At 201.2p, GBG trades at a significant discount to pure-play identity verification peers, and the recent refinancing of its acquisition debt at improved terms has removed the key overhang that has suppressed the rerating story for the past two years. The structural tailwind of increasing global identity verification regulation, combined with GBG's market position and improving operational leverage, makes this a compelling risk/reward at current levels.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 201.2,
@@ -3477,6 +3577,7 @@
     "marketCap": null,
     "summary": "General Dynamics Corporation (GD) operates in the Industrials sector and is listed on NYSE. The business generates revenue through its core operations in industrials.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 335.15,
@@ -3503,6 +3604,8 @@
     "marketCap": null,
     "summary": "GE Aerospace is one of the great industrial turnarounds of the decade. The 2025 FY results delivered record $6.4 EPS with total orders of $27B (+74% YoY), driven by commercial engine demand from Airbus and Boeing's production ramp",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 306.25,
@@ -3529,6 +3632,7 @@
     "marketCap": null,
     "summary": "General Motors Company (GM) operates in the Consumer Disc. sector and is listed on NYSE. The business generates revenue through its core operations in consumer disc..",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 76.42,
@@ -3581,6 +3685,7 @@
     "marketCap": null,
     "summary": "GH Research is a clinical-stage neuropsychiatry company focused on psychedelic-derived therapies, so the investment case is driven by clinical signal, safety, trial design and eventual commercial practicality. The upside could be substantial if its approach proves differentiated and scalable, but it remains an early-stage biotech where evidence, not theme, has to do the heavy lifting.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 15.72,
@@ -3611,6 +3716,8 @@
     "marketCap": null,
     "summary": "Gilead Sciences Inc (GILD) operates in the Healthcare sector and is listed on NASDAQ. The business generates revenue through its core operations in healthcare.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 138.99,
@@ -3637,6 +3744,7 @@
     "marketCap": null,
     "summary": "Glanbia is a nutrition and dairy-linked business whose better qualities come from brand strength and performance nutrition exposure, while its weaker points stem from ingredient volatility and a market that rarely gives dairy-linked names a generous valuation. The investment case improves when branded nutrition is carrying the story. It weakens when commodity-linked concerns dominate.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 16.94,
@@ -3753,6 +3861,7 @@
     "marketCap": null,
     "summary": "Goldman Sachs is a high-quality investment bank and global financial institution that had an exceptional Q1 2026 — record equity trading revenues, investment banking fees up 48% YoY to $2.84B, and net revenues of $17.23B beating consensus",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 879.81,
@@ -3779,6 +3888,7 @@
     "marketCap": null,
     "summary": "Grafton Group plc is a well-positioned Irish-UK building materials distribution business, but the current macro uncertainty in UK and Irish construction and housing markets creates a neutral risk-reward at 918.20 GBX -- HOLD . HOLD Conviction Score: 65/100 - HOLD",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 918.2,
@@ -3831,6 +3941,7 @@
     "marketCap": null,
     "summary": "Greencoat Renewables PLC is an Irish-listed investment company that owns and operates a portfolio of onshore wind farms in Ireland and the United Kingdom. Its core proposition is predictable, long-duration cash flows underpinned by fixed-rate Renewable Energy Obligation Generation (OREG) agreements, together with power price exposure that provides upside optionality in a rising electricity market.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 0.72,
@@ -3909,6 +4020,7 @@
     "marketCap": null,
     "summary": "Hargreaves Services is a UK-focused services business with two distinct divisions: rail infrastructure services (asset management, logistics, maintenance) and mining services, alongside a property management arm. It operates primarily in the UK, serving Network Rail, train operators, and mining clients. The stock trades at approximately 14x earnings with a modest yield, sitting roughly 16% below its 52-week high of 950p.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 798,
@@ -3935,6 +4047,7 @@
     "marketCap": null,
     "summary": "HCA operates approximately 180 acute care hospitals and over 2,000 sites of care across 20 states and the United Kingdom, making it the largest hospital operator in the US by revenue and bed count. The business model is grounded in the provision of inpatient hospital services (surgical, medical, emergency/trauma) supplemented by outpatient services, diagnostic centres and a growing physician services platform. Revenue is primarily fee-for-service, reimbursed by Medicare, Medicaid and commercial insurers. HCA's competitive advantages include its scale (negotiating leverage with payers), its concentrated geographic footprint in high-growth Sunbelt markets, its proprietary data on clinical outcomes, and its ability to recruit physicians in markets where it is often the dominant or sole hospital employer. Capital allocation has been disciplined, with regular share buybacks and a growing dividend.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 495.47,
@@ -3961,6 +4074,7 @@
     "marketCap": null,
     "summary": "Helios Underwriting PLC is the only publicly listed vehicle providing investors with direct, limited-liability exposure to the Lloyd's of London insurance market. The company invests in a diversified portfolio of syndicates managed by specialist managing agents, providing cross-cycle returns uncorrelated with equity markets.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 198,
@@ -3987,6 +4101,7 @@
     "marketCap": null,
     "summary": "Hercules Metals Corp is an early-stage junior mining explorer focused on precious and base metal properties in North America. Trading at CAD 0.74 with an estimated market capitalisation of approximately CAD 50 million, the company is firmly in the high-risk explorer category -- loss-making, pre-revenue, and dependent on drilling results and capital markets access to fund its programme. The thesis rests entirely on exploration upside: a successful drill hit could rerate the stock significantly, while a dry hole or financing failure could be terminal at this valuation. The risk-reward is asymmetric and suitable only for investors with high risk tolerance and a speculative allocation. HOLD with a 38/100 conviction score. The entry framework is highly sensitive to drill catalyst timing.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 0.74,
@@ -4013,6 +4128,8 @@
     "marketCap": null,
     "summary": "Home Depot is the dominant US home improvement retailer with unrivalled scale and a high-quality pro-customer ecosystem. Q4 2025 results beat on earnings but missed on sales in a still-challenged housing market — the big ticket categories (kitchens, bathrooms, major renovations)...",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 334.54,
@@ -4039,6 +4156,8 @@
     "marketCap": null,
     "summary": "Honeywell International is a high-quality diversified industrial franchise with leading positions in aerospace, building automation, and performance materials. Q4 2025 results beat consensus and management issued 2026 guidance above the high end of prior expectations -- a rare...",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 232.51,
@@ -4065,6 +4184,7 @@
     "marketCap": null,
     "summary": "Humana is one of the largest US Medicare Advantage (MA) managed care organisations, with approximately 5.3 million medical plan members as of FY2025. The core business model involves contracting with the US federal government (Centres for Medicare and Medicaid Services, CMS) to provide health benefits to Medicare-eligible seniors under MA plans - these are Medicare Advantage Prescription Drug (MAPD) and standalone Prescription Drug Plan (PDP) products. Premium revenues are received from CMS (risk-adjusted, based on member demographics and health status) and from member premiums.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 192.15,
@@ -4117,6 +4237,8 @@
     "marketCap": null,
     "summary": "IBM is mid-transition from legacy infrastructure to hybrid cloud and AI services; the Z-Series mainframes and Red Hat integration provide annuity-like revenue stability while the GenAI services ramp remains the swing variable.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 233.03,
@@ -4143,6 +4265,7 @@
     "marketCap": null,
     "summary": "ICON is one of the leading contract research organisations serving the pharmaceutical and biotech industry. The appeal is straightforward: outsourcing remains structural, sponsors still need global trial execution expertise, and scale matters in winning and delivering complex studies. The main issue for investors is not whether the business is strategically important, but how much cyclical biopharma spending caution is already reflected in the shares.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 106.81,
@@ -4173,6 +4296,7 @@
     "marketCap": null,
     "summary": "IDOX plc is a focused UK public sector software specialist providing document management, planning application processing, and regulatory compliance solutions to local authorities, central government departments, and regulatory bodies. The company operates almost exclusively in the UK public sector, giving it deep domain expertise but also concentrated exposure to government spending cycles and procurement dynamics.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 69.8,
@@ -4225,6 +4349,8 @@
     "marketCap": null,
     "summary": "Intel designs and manufactures CPUs, GPUs, FPGAs, and network chips. Its business historically comprised three segments: Client Computing (PC and laptop CPUs), Data Centre and AI (server CPUs, Gaudi AI accelerators), and Network and Edge. Intel Foundry Services (IFS) represents the company's ambition to become a third-party chip manufacturer, competing with TSMC - an expensive and historically loss-making undertaking.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 62.38,
@@ -4277,6 +4403,8 @@
     "marketCap": null,
     "summary": "Intuit Inc (INTU) operates in the Technology sector and is listed on NASDAQ. The business generates revenue through its core operations in technology.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 350.94,
@@ -4303,6 +4431,8 @@
     "marketCap": null,
     "summary": "Intuitive Surgical Inc (ISRG) operates in the Healthcare sector and is listed on NASDAQ. The business generates revenue through its core operations in healthcare.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 450.62,
@@ -4389,6 +4519,7 @@
     "marketCap": null,
     "summary": "Iterum is a small anti-infectives biotechnology company, and the case rests overwhelmingly on regulatory and commercial outcomes around a limited asset base. Antibiotic development can address real medical need, but it has often been a poor equity category because commercial rewards rarely match scientific importance. That makes this a high-risk special situation rather than a dependable investment.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 0.01,
@@ -4419,6 +4550,7 @@
     "marketCap": null,
     "summary": "ITM Power is a UK-headquartered manufacturer of megawatt-scale PEM electrolyser systems for green hydrogen production. The company occupies a strategically relevant niche in the hydrogen value chain -- electrolyser manufacturing -- but faces a deeply challenging commercial environment in 2026. Green hydrogen demand has not scaled to the level projected by advocates, capital costs remain high, offtake risk is material across the sector, and ITM is not yet profitable. The stock trades near the lower end of its 52-week range, reflecting these structural headwinds.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 93,
@@ -4445,6 +4577,7 @@
     "marketCap": null,
     "summary": "James Halstead PLC is a UK-headquartered manufacturer and distributor of commercial and residential flooring products, serving healthcare, education, retail, and commercial property sectors across the UK and Europe. The group owns a portfolio of well-established flooring brands and operates a pan-European distribution network, providing a degree of geographical diversification in an otherwise domestically concentrated sector.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 975,
@@ -4501,6 +4634,7 @@
     "marketCap": null,
     "summary": "Jazz is a profitable specialty pharmaceutical company with meaningful positions in sleep, epilepsy and oncology, so it sits in a better place than speculative biotech but still faces familiar pharma questions around product concentration and replenishing growth. The market tends to respect the cash flow but remain cautious about what happens as established products mature. That makes the shares depend heavily on portfolio durability and capital allocation quality.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 194.2,
@@ -4583,6 +4717,7 @@
     "marketCap": null,
     "summary": "Jet2 PLC is a UK-focused leisure airline and tour operator offering scheduled services to leisure destinations across Europe, the USA, and Canada from its UK bases. The business operates two distinct but complementary revenue streams: a low-cost airline (Jet2.com) and a package holiday business (Jet2holidays), the latter generating the majority of group profits. The combined model provides meaningful distribution advantages over pure-play airlines and greater margin stability through the tour operator cycle.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1220,
@@ -4609,6 +4744,7 @@
     "marketCap": null,
     "summary": "Johnson Controls International is a high-quality building efficiency and fire safety franchise with a credible digital buildings strategy, but the current execution cadence and macro-sensitive end markets do not justify further re-rating -- HOLD . HOLD Conviction Score: 66/100 -...",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 142.53,
@@ -4635,6 +4771,7 @@
     "marketCap": null,
     "summary": "Johnson &amp; Johnson is mid-restructuring post-Kenvue spin-off, repositioning as a pure-play med-tech/pharmaceutical conglomerate; Stelara exclusivity losses are partially offset by a deep pipeline but the valuation is not yet re-rated for pipeline success.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 236.95,
@@ -4661,6 +4798,8 @@
     "marketCap": null,
     "summary": "JPMorgan Chase is the highest-quality large-cap US bank, running well ahead on NII guidance while credit costs remain near-cycle lows; the Dimon-succession overhang and tariff-related macro headwinds keep the base case range-bound.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 309.43,
@@ -4687,6 +4826,7 @@
     "marketCap": null,
     "summary": "Judges Scientific is a UK-based acquisition vehicle that builds and manages a portfolio of niche specialist instrument manufacturers. The model is straightforward: identify profitable, debt-free micro-businesses operating in overlooked industrial niches, acquire them at sensible multiples, and run them with operational autonomy while providing capital and strategic support for further acquisitions within each subsidiary. The subsidiaries span airport passenger systems, pressure measurement, automotive testing, and broader industrial instrumentation, serving customers in the UK, Europe, and the United States.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 4300,
@@ -4713,6 +4853,7 @@
     "marketCap": null,
     "summary": "Kerry Group has been a deeply disappointing long-term investment - down ~25% over 1 year and\n              ~26% over 5 years, and currently trading ~31% below its 52-week high of EUR 100.50. The\n              stock is sitting just above its 52-week low of EUR 64.35. This is a business in transition:\n              a high-quality global ingredients and taste solutions platform undergoing portfolio\n              optimisation, with a new CEO at the helm, and showing early signs of EBITDA margin\n              expansion from FY2025 results.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 69.1,
@@ -4851,6 +4992,8 @@
     "marketCap": null,
     "summary": "Lam Research Corporation (LRCX) operates in the Technology sector and is listed on NASDAQ. The business generates revenue through its core operations in technology.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 263.66,
@@ -4907,6 +5050,7 @@
     "marketCap": null,
     "summary": "LBG Media PLC is a UK-based digital media company operating social-first content platforms, principally The Lad Bible and UNILAD. The group targets Gen Z and Millennial audiences with digital content distributed across owned social channels and third-party platforms, monetising primarily through digital advertising, branded content, and sponsorship.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 55,
@@ -4933,6 +5077,7 @@
     "marketCap": null,
     "summary": "Leverage Shares 2X Long BE Daily ETF is a leveraged exchange-traded fund designed to deliver 2x the daily return of the Bloomberg Energy Index (BE). The product is intended for short-term tactical use only -- its daily reset mechanism means that holding periods beyond one session...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 58.13,
@@ -4978,13 +5123,15 @@
     "exchange": "",
     "file": "lindeplc.html",
     "date": "2026-04-11",
-    "recommendation": "STRONG BUY",
+    "recommendation": "BUY (STRONG)",
     "conviction": 80,
     "currency": "USD",
     "price": 503.15,
     "marketCap": null,
     "summary": "Linde is one of the highest-quality industrial gas businesses in the world, and that matters because industrial gases are unusually resilient, sticky and cash generative when managed well. The company benefits from long-term on-site contracts, disciplined pricing and exposure to attractive end markets ranging from healthcare to electronics. It is rarely cheap, but there are good reasons why investors often accept that.",
     "universes": [
+      "irish",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 503.15,
@@ -5015,6 +5162,7 @@
     "marketCap": null,
     "summary": "Lockheed Martin is a premier defence prime with structural budget support from NATO allies and the AUKUS trilateral; F-35 block buy and classified programme growth underpin visibility, but the valuation leaves little room for programme slips.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 619.15,
@@ -5119,6 +5267,8 @@
     "marketCap": null,
     "summary": "Mastercard operates a near-ideal network business: high-skill switching costs, strong take-rate discipline, and exposure to the secular shift from cash to digital payments; valuation is stretched but the quality floor is high.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 500.76,
@@ -5145,6 +5295,7 @@
     "marketCap": null,
     "summary": "McDonald's is navigating a demand reset after its $5 meal deal era exposed margin fragility; digital transformation through loyalty (37M US members) and its Alliance Partner platform is real but faces an increasingly aggressive quick-service competitor set.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 302.84,
@@ -5197,6 +5348,7 @@
     "marketCap": null,
     "summary": "M&amp;C Saatchi is a mid-sized UK advertising and communications group operating in a structurally challenged sector. The creative agency industry faces persistent headwinds: digital disruption, client budget concentration, and low barriers to entry that make scale advantage difficult to build and sustain. The company has a recognisable brand and a international network, but these are not sufficient moats in isolation.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 115,
@@ -5223,6 +5375,9 @@
     "marketCap": null,
     "summary": "Medtronic's dominant medical device franchise faces a credible recovery path through Hugo surgical robotics, pulse field ablation in cardiac care and an improving diabetes pipeline, but the pace of normalisation does not justify re-rating from current levels -- HOLD . HOLD...",
     "universes": [
+      "fortune100",
+      "irish",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 87.21,
@@ -5249,6 +5404,8 @@
     "marketCap": null,
     "summary": "Merck faces a significant Keytruda-exposure overhang as US patent expiry approaches (~2028); the oncology franchise is being actively diversified via pipeline acquisitions, but the market is correctly discounting the long-term IP cliff.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 119.97,
@@ -5275,6 +5432,7 @@
     "marketCap": null,
     "summary": "MERLIN Properties SOCIMI SA is Spain's largest internally managed REIT by portfolio value, with a focused portfolio of commercial real estate across Spain and Portugal. The company benefits from the SOCIMI tax-efficient structure, delivering a normalised FFO yield that is...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 15.22,
@@ -5301,6 +5459,7 @@
     "marketCap": null,
     "summary": "Metals Exploration Plc is a UK-listed AIM company focused on the exploration and development of the Los Domingo copper-gold project in the Dominican Republic. At 15.00 GBX and a market capitalisation of approximately GBP40m, the company is a speculative early-stage explorer with no producing assets and no meaningful revenue. The entire investment case rests on the geological potential of Los Domingo and the ability of management to advance the project through exploration, feasibility, and ultimately into development -- a pathway that will require significant additional capital and carry a material risk of failure at each stage.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 15,
@@ -5320,13 +5479,14 @@
     "exchange": "",
     "file": "metaplatformsinc.html",
     "date": "2026-04-16",
-    "recommendation": "STRONG BUY",
+    "recommendation": "BUY (STRONG)",
     "conviction": 81,
     "currency": "USD",
     "price": 629.86,
     "marketCap": null,
     "summary": "Meta operates the world's largest social media ecosystem: Facebook (2.9 billion monthly active users), Instagram (2 billion+), and WhatsApp (2.7 billion). The primary revenue driver is digital advertising - Meta's ads span News Feed, Stories, Reels, and the Audience Network, targeting users across demographics and behaviours using Meta's Advantage+ AI-powered campaign optimisation system.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 629.86,
@@ -5379,6 +5539,8 @@
     "marketCap": null,
     "summary": "Micron Technology sits at the intersection of AI memory demand and China reshoring, providing exceptional near-term earnings momentum, but the memory cycle's inherent cyclicality and the P/E de-rating risk from HBM supply normalisation make the risk-reward balanced -- HOLD . HOLD...",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 420.59,
@@ -5405,6 +5567,7 @@
     "marketCap": null,
     "summary": "Microsoft's Azure AI momentum and Copilot monetisation are real and accelerating, but the shares are at a P/E of 23x - reasonable for this quality of business, but leaving limited margin of safety at 52-week high proximity",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 370.87,
@@ -5431,6 +5594,7 @@
     "marketCap": null,
     "summary": "Midwich Group is a UK-headquartered specialist distributor of audio-visual, broadcast, and professional lighting equipment, serving trade customers -- dealers, integrators, and rental companies -- across the UK, Europe, and Australia. The business occupies a defensible niche as a value-added distribution partner for international AV vendors seeking localised trade coverage without maintaining their own direct sales infrastructure. At approximately 14x earnings with an estimated 12p EPS and a ~250 million pound market cap, the stock sits off its 52-week highs, reflecting near-term macro uncertainty weighing on corporate AV spending and live events confidence.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 166.4,
@@ -5539,6 +5703,7 @@
     "marketCap": null,
     "summary": "Morgan Stanley's wealth-management franchise is a structural winner in the long-term wealth creation theme; the acquisition of E*Trade (2020) and investment in Eaton Vance (2021) are maturing into fee streams, but the balance sheet remains rate-sensitive.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 177.27,
@@ -5565,6 +5730,7 @@
     "marketCap": null,
     "summary": "Mortgage Advice Bureau (Holdings) PLC is a UK financial services network operating a network of mortgage advisers who place business with lenders across the UK residential mortgage market. The group earns procuration fees on completed mortgage transactions and related protection insurance products. It is a tightly run, asset-light intermediary model with strong cash conversion and a disciplined approach to adviser recruitment and retention.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 582.8,
@@ -5591,6 +5757,7 @@
     "marketCap": null,
     "summary": "M P Evans is a UK-listed investment company that provides concentrated exposure to the Indonesian palm oil sector through direct plantation ownership, processing assets, and a listed equities portfolio. The group has a long-track record dating back to 1980, and its portfolio is concentrated in Indonesian plantations with some processing and logistics infrastructure. At 1616 GBX, the shares trade near the bottom of their 52-week range, offering a modest recovery premium to a NAV that has historically traded at a meaningful discount to intrinsic value.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1616,
@@ -5647,6 +5814,8 @@
     "marketCap": null,
     "summary": "Netflix's ad-supported tier and password-sharing crackdown are delivering strong revenue growth and margin expansion, but the stock has already re-rated significantly on these themes and the P/E now prices in considerable execution success -- HOLD . HOLD Conviction Score: 67/100...",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 103.01,
@@ -5673,6 +5842,7 @@
     "marketCap": null,
     "summary": "NextEra Energy is the world's largest renewable-energy generator; the contracted utility backlog and LNG export terminal optionality provide long-duration cashflows, but the recent equity raises to fund growth are dilutive and the valuation is demanding.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 92.49,
@@ -5699,6 +5869,7 @@
     "marketCap": null,
     "summary": "Nichols plc is a leading UK-focused soft drinks business with strong brand equity in Vimto, Together, and Levi Roots, commanding a dominant position in the stills drinks segment of the UK convenience and impulse channel. The group has a disciplined capital allocation record and...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 924,
@@ -5725,6 +5896,7 @@
     "marketCap": null,
     "summary": "Nike is in the middle of a critical strategic reset: the DTC-first model over-extended gross margins, and the new CEO's Consumer Offense plan is betting on innovation cycles and a revived wholesale relationships to recover pricing power. The stock is under-loved but the execution risk is substantial.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 42.4,
@@ -5785,6 +5957,7 @@
     "marketCap": null,
     "summary": "Niox Group PLC is a UK-based medical devices company that has built a focused franchise around fractional exhaled nitric oxide (feNO) measurement — a clinically validated biomarker for airway inflammation used in the diagnosis and management of asthma. The company's flagship product, the Niox Vero device, is a portable_feNO analyser enabling point-of-care testing in primary care, pharmacy, and specialist respiratory settings.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 218,
@@ -5811,6 +5984,7 @@
     "marketCap": null,
     "summary": "Northrop Grumman is the premier US prime for space systems and nuclear deterrence; B-21 Raider production, the Sentinel ICBM programme, and classified space payloads provide 10+ year revenue visibility at high contract-level clarity.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 680.55,
@@ -5867,6 +6041,8 @@
     "marketCap": null,
     "summary": "NVIDIA is the defining AI infrastructure company of this decade. Its GPUs power every major AI training cluster from hyperscalers to enterprise AI. The Ising quantum AI model announcement in April 2026 extends NVIDIA's reach into quantum computing acceleration — a new addressable market. Analyst consensus targets of $267-275 imply 35-40% upside from $199. But at 40x forward earnings and a $3 trillion+ market cap, the stock requires continued AI capex acceleration to justify its valuation. The grok sentiment score of 65/100 reflects strong confidence tempered by valuation concerns and geopolitical risk.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 198.87,
@@ -5957,6 +6133,7 @@
     "marketCap": null,
     "summary": "Ondo Finance is the dominant protocol in tokenised real-world assets (RWA), with over $3bn in total value locked and a 50-60% market share in tokenised stocks and ETFs. The grok sentiment score of 52/100 reflects caution: the protocol metrics are exceptional (TVL $3bn+, 2900% YoY growth in tokenised stocks), the institutional partnerships (Franklin Templeton, Binance, Clearstream, 360X) are genuinely impressive, and the governance vote on fee-switch revenue sharing in H2 2026 is a potential binary catalyst. But the ONDO token is approximately 88% below its all-time high, weighed down by 1.94bn tokens unlocked in January 2026 and continuous team multisig selling into Coinbase. This is a classic \"protocol success versus token price\" paradox.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 0.26,
@@ -5987,6 +6164,8 @@
     "marketCap": null,
     "summary": "Oracle is transitioning from a legacy database licensor to a full cloud infrastructure and applications suite, anchored by Cerner health-system integrations and OCI sovereign cloud deployments; the OCI infrastructure for AI workloads is the most underappreciated part of the story.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 150.19,
@@ -6039,6 +6218,8 @@
     "marketCap": null,
     "summary": "Palo Alto Networks is the dominant next-generation firewall vendor making the transition to a comprehensive platform company - SASE, cloud security, AI-powered security operations (XSIAM), and SOC automation. The One Platform strategy is paying off: platform consolidation is driving higher deal sizes and net revenue retention above 115%. At $172.83, down ~39% from its 52w high of $284.11, the stock is pricing in a scenario that is significantly worse than the base case.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 172.83,
@@ -6069,6 +6250,7 @@
     "marketCap": null,
     "summary": "Pan African Resources PLC is a UK-listed gold producer operating exclusively in South Africa, with the Barberton gold mine complex in Mpumalanga as its primary asset. The company is a pure-play underground gold producer with a market capitalisation of approximately GBP250 million, trading at a notable discount to its net asset value and at a compelling ~8x earnings multiple against a gold price environment that remains constructive.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 32,
@@ -6095,6 +6277,7 @@
     "marketCap": null,
     "summary": "Pantheon Resources is a NASDAQ-listed (and LSE cross-listed) oil and gas exploration and production company focused on the Alaskan North Slope. The company holds significant acreage in the prolific Piatan and North Slope basins, with confirmed resource estimates in the...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 10.85,
@@ -6151,6 +6334,7 @@
     "marketCap": null,
     "summary": "Pensioneeroyds Investment Trust is a UK-listed diversified investment trust offering balanced exposure to global equities and bonds. At 1283p, the shares trade approximately 14.5% below their 52-week high of 1500p, with a P/E of circa 12x and an estimated EPS of 107p. The trust targets long-term total return through a multi-asset portfolio, providing investors with a single-vehicle solution for balanced global investment.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1283,
@@ -6177,6 +6361,7 @@
     "marketCap": null,
     "summary": "PepsiCo is a defensive consumer-staples compounder with exceptional free-cash-flow generation; the valuation is fair given modest growth but the dividend aristocrat status and $7bn annual buyback provide a floor in an uncertain macro environment.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 155.75,
@@ -6203,6 +6388,7 @@
     "marketCap": null,
     "summary": "Permanent tsb Group Holdings PLC is an Ireland-domiciled banking group operating under the Permanent TSB brand. Its primary business is retail banking and SME lending within the Republic of Ireland -- a small, concentrated economy with material exposure to domestic property markets. Key revenue drivers are net interest income from the mortgage and loan book, fee income from current account services, and digital banking revenues. The bank operates a combination of physical branches and digital channels. PTSB significantly expanded its balance sheet in recent years through the acquisition of EUR 6.8 billion in loans from Ulster Bank, making it a material competitor in the Irish mortgage market. Critically, the bank is no longer an independent vehicle: BAWAG Group has agreed to acquire it at a premium to the prior market price, making the equity story defunct at current levels.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 2.97,
@@ -6229,6 +6415,7 @@
     "marketCap": null,
     "summary": "Perrigo Company plc is a leading consumer self-care franchise with dominant positions in OTC analgesics, infant formula and dermatology, trading at a historically low valuation after significant operational challenges -- HOLD . HOLD Conviction Score: 61/100 - HOLD",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 10.86,
@@ -6255,6 +6442,7 @@
     "marketCap": null,
     "summary": "Pfizer's post-COVID normalisation and patent cliff create a structural earnings headwind that the current valuation of 19.85x P/E does not adequately discount - the balance of risk and reward argues for REDUCE.",
     "universes": [
+      "fortune100",
       "watchlist"
     ],
     "priceAtLastReport": 26.92,
@@ -6281,6 +6469,7 @@
     "marketCap": null,
     "summary": "Zyn has become the fastest-growing nicotine pouch brand in the US, growingrapid in Convenience stores and online. The US oral nicotine category is expanding structurally as smokers switch from combustible products. IQOS Iluma, PMI's latest-generation heat-not-burn device, continues to gain market share in Japan and South Korea. PMI management targets smoke-free products to represent over 50% of revenues by 2030. The company's Q4 2025 results showed continued strong growth in Zyn and resilience in the IQOS franchise, with full-year revenue guidance maintained.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 160.45,
@@ -6385,6 +6574,7 @@
     "marketCap": null,
     "summary": "Procter &amp; Gamble is a high-quality defensive consumer staples franchise with-pricing power and a strong dividend, but premium valuation of 21.51x P/E limits upside and argues for HOLD at current levels.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 145.16,
@@ -6437,6 +6627,7 @@
     "marketCap": null,
     "summary": "Prospex Energy PLC is a micro-cap oil and gas exploration and production company focused on Western Europe. The company operates producing assets in Spain (Viura/Selva) and Italy (Podere Maiar), and is expanding into Poland through a new licence award. At 3.38p, the stock is near the lower end of its 52-week range but has been supported by recent positive news flow — including a San Licence award in Poland (April 2026), an oversubscribed convertible loan note raise, and broker commentary flagging significantly increased cash generation from producing assets.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 3.38,
@@ -6467,6 +6658,7 @@
     "marketCap": null,
     "summary": "Prothena Corporation plc is a clinical-stage biotech company with a focused but risky pipeline of amyloid-targeting therapies, trading at a below-$1B valuation with limited cash runway and binary read-outs ahead -- REDUCE . REDUCE Conviction Score: 45/100 - REDUCE",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 10.5,
@@ -6519,6 +6711,7 @@
     "marketCap": null,
     "summary": "QED Oncology Inc is a loss-making clinical-stage biotechnology company with a market capitalisation of approximately USD 75 million on the Nasdaq. Trading at USD 1.25, the shares sit near the lower end of a 52-week range of USD 0.90 to USD 3.50, reflecting the elevated binary risk typical of early-to-mid stage oncology development. The absence of product revenue, negative EPS of USD -2.57, and reliance on capital markets to fund ongoing clinical programmes render this a high-risk, speculative holding appropriate only for investors with a genuine tolerance for biotech-specific risk and a portfolio large enough to absorb a total loss. No formal P/E applies. HOLD. Conviction Score: 35/100 - HOLD.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1.25,
@@ -6549,6 +6742,8 @@
     "marketCap": null,
     "summary": "Qualcomm's dominance in wireless semiconductors and the AI-driven upgrade cycle in smartphones provide a solid foundation, but the licensing (QTL) business remains structurally challenged and the valuation at 26.45x P/E is reasonable rather than compelling - HOLD.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 128.01,
@@ -6575,6 +6770,7 @@
     "marketCap": null,
     "summary": "Redcentric PLC is a UK-focused IT managed services provider delivering cloud, networking, and cybersecurity solutions to mid-market and enterprise clients. The company operates from a solid base of long-term contracts and recurring revenue, but is navigating a challenging...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 118,
@@ -6601,6 +6797,7 @@
     "marketCap": null,
     "summary": "Renew Holdings Plc operates as a specialist infrastructure services provider focused on the UK rail network and broader infrastructure markets. The Rail Engineering division delivers track works, signalling, electrification, and associated civil engineering projects, primarily under framework agreements with Network Rail and train operators. The Infrastructure Services division serves the energy, water, and local authority markets with similar engineering and maintenance capabilities. Contracts are typically framework-based with a mix of call-off and programmed works, providing a degree of revenue visibility. Revenue is predominantly generated in the UK, and the group employs directly the majority of its operational workforce, which is atypical in the sector and provides a degree of labour stability. The business model is capital-light relative to asset-heavy peers, with the primary inputs being skilled labour, plant, and materials. Margins are disciplined rather than exceptional, reflecting the competitive but concentrated nature of UK rail infrastructure procurement.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 929,
@@ -6627,6 +6824,7 @@
     "marketCap": null,
     "summary": "Restore PLC is a UK-based information management and data security business offering document storage, secure shredding, and data destruction services across the UK and Ireland. The group operates across two divisions: Document Management (storage, scanning, and digitisation) and...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 244.5,
@@ -6653,6 +6851,7 @@
     "marketCap": null,
     "summary": "Rhi Office Group is a Belgian workplace solutions specialist providing office furniture, interior design, and workspace optimisation services to corporate clients across Belgium, the Netherlands, Luxembourg, and France. The business operates in the Benelux and French office furniture and fit-out market, a segment that has undergone structural consolidation but faces secular headwinds from hybrid working patterns that have reduced office utilisation rates across Western Europe.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 25,
@@ -6735,6 +6934,7 @@
     "marketCap": null,
     "summary": "Rockhopper Exploration Plc is a North Sea oil and gas exploration company with meaningful licence interests and an existing asset base. The company generates no current production revenue and is loss-making at the net income level, rendering traditional valuation metrics largely inoperative. The investment thesis is binary and commodity-sensitive: successful farm-out deals and advancing gas commercialisation at Sea Falcon would be materially constructive; a sustained low oil price environment or failure to secure partners would leave the company burning cash with no near-term revenue line. The current market capitalisation of approximately GBP 712 million reflects partial value assignment to Sea Falcon and broader North Sea optionality. Conviction Score: 45/100 - HOLD.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 83,
@@ -6761,6 +6961,8 @@
     "marketCap": null,
     "summary": "Raytheon's successor entity benefits from substantial defence spending tailwinds and Pratt &amp; Whitney's commercial aviation recovery, but the AGT1000 turbine defect issue and elevated P/E of 40.61x create a more nuanced risk-reward profile - HOLD.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 201.56,
@@ -6787,6 +6989,7 @@
     "marketCap": null,
     "summary": "RWS Holdings plc is a global intellectual property (IP) services company providing translation, patent filing, and IP management solutions to corporate clients, law firms, and government bodies. The business operates across more than 90 countries with a fragmented customer base and high recurring revenue characteristics. The shares trade at a depressed valuation following a period of strategic restructuring and profit warning, with near-term profitability headwinds from integration costs and soft demand in certain segments. The risk-reward is balanced at current levels -- the structural IP outsourcing theme is intact, but the execution path to margin recovery remains uncertain. HOLD. Conviction Score: 45/100 - HOLD.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 79.6,
@@ -6806,13 +7009,14 @@
     "exchange": "",
     "file": "ryanairholdingsplc.html",
     "date": "2026-04-11",
-    "recommendation": "STRONG BUY",
+    "recommendation": "BUY (STRONG)",
     "conviction": 80,
     "currency": "USD",
     "price": 62.36,
     "marketCap": null,
     "summary": "Ryanair is Europe's dominant low-cost carrier with a structural cost advantage versus legacy peers, trading at a modest P/E despite a compelling capacity growth runway and strong pricing environment -- BUY . BUY Conviction Score: 80/100 - BUY",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 62.36,
@@ -6839,6 +7043,8 @@
     "marketCap": null,
     "summary": "Salesforce remains the dominant cloud CRM platform with strong recurring revenue and AI-driven upsell potential, but the shares at 21.15x P/E are not obviously cheap relative to a slowing new logo growth rate - HOLD.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 164.96,
@@ -6865,6 +7071,7 @@
     "marketCap": null,
     "summary": "Science Group PLC is a Cambridge-based science-led technology and product development company operating across medical, consumer, food and beverage, and industrial end markets. The group provides R&D services, technical consulting, and product development, generated revenue of...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 557.89,
@@ -6884,13 +7091,14 @@
     "exchange": "",
     "file": "seagatetechnologyholdingsplc.html",
     "date": "2026-04-11",
-    "recommendation": "STRONG BUY",
+    "recommendation": "BUY (STRONG)",
     "conviction": 80,
     "currency": "USD",
     "price": 503.13,
     "marketCap": null,
     "summary": "Seagate Technology is a leveraged play on AI-driven data storage demand with a dominant position in HDD for hyperscale data centres, trading at a historically low valuation despite a genuine near-term capacity expansion cycle -- BUY . BUY Conviction Score: 80/100 - BUY",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 503.13,
@@ -6917,6 +7125,7 @@
     "marketCap": null,
     "summary": "Serica Energy is an independent UK-headquartered oil and gas company with producing assets in the North Sea and a focused portfolio of development and exploration opportunities. The company generates free cash flow from its core Bruce and Keith fields, but faces a structural...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 258,
@@ -6943,6 +7152,8 @@
     "marketCap": null,
     "summary": "ServiceNow's AI-powered workflow automation platform is exceptionally well-positioned for enterprise AI adoption, but at the current valuation the market is paying for a very optimistic growth trajectory with little room for near-term disappointment -- HOLD . HOLD Conviction...",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 83,
@@ -6999,6 +7210,7 @@
     "marketCap": null,
     "summary": "Sigmaroc PLC is a leading UK and Ireland building materials group operating across mortars, screeds, cement, aggregates, concrete products, and考的 building solutions. The company holds strong regional positions in British and Irish construction supply chains, with a diversified customer base spanning housebuilders, infrastructure contractors, and specialist trades. Trading at 131.9 GBX with a market capitalisation of approximately GBP 1,470m and a P/E of 19.53x, Sigmaroc presents a mixed-value case: the fundamental long-term demand backdrop for construction materials remains constructive, but the current rating offers limited upside to the base case and the shares have pulled back circa 18% from their 52-week high. HOLD conviction pending a better entry point. Conviction Score: 68/100 - HOLD (leaning BUY on weakness).",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 131.9,
@@ -7103,6 +7315,7 @@
     "marketCap": null,
     "summary": "Smart Metering Systems PLC is a niche UK infrastructure play operating at the intersection of the national smart meter deployment programme and the broader energy transition. The company installs, manages, and maintains smart meters for energy suppliers, holds a portfolio of metering assets under contract, and generates recurring revenues from data management and meter operations. At approximately 1315 GBX, the stock trades 17.8% below its 52-week high of 1600 GBX and offers a rare combination of infrastructure-grade recurring revenue, regulated asset characteristics, and direct exposure to a UK government-mandated infrastructure buildout that has no credible alternative delivery mechanism.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1315,
@@ -7129,6 +7342,7 @@
     "marketCap": null,
     "summary": "Smurfit Westrock is a large paper and packaging combination whose appeal rests on scale, geographic breadth and the possibility of extracting meaningful synergies from the merger. Packaging can be a decent business when supply is rational and value-added customer relationships are strong, but it is still cyclical, energy-intensive and sensitive to containerboard pricing. That makes this a merger-execution story as much as a packaging story.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 42.06,
@@ -7185,6 +7399,8 @@
     "marketCap": null,
     "summary": "Southern Company is one of the largest regulated electric utility holding companies in the US, serving approximately 9 million customer accounts across Georgia, Alabama, Mississippi and Florida. Its principal subsidiary, Georgia Power, is the largest of the operating companies and operates under a constructive, forward-looking rate regulation framework with the Georgia Public Service Commission (Georgia PSC). Southern also operates natural gas distribution businesses and owns a competitive generation subsidiary, Southern Power, selling wholesale power. The company's capital investment programme (focused on grid modernisation, reliability and clean generation) is expected to grow the rate base at a mid-single-digit compound annual growth rate over the medium term.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 97.15,
@@ -7267,6 +7483,7 @@
     "marketCap": null,
     "summary": "STERIS is a high-quality healthcare services and equipment company with a strong position in sterilisation, infection prevention and surgical support. The business benefits from recurring demand, regulatory importance and a mission-critical role in healthcare workflows. It is not the sort of company that produces dramatic headlines, but it is exactly the sort that can compound value when bought at a sensible price.",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 222.58,
@@ -7401,6 +7618,7 @@
     "marketCap": null,
     "summary": "Tatton Asset Management PLC is a UK-based wealth management and investment firm operating a capital-light model portfolio services (MPS) platform, serving a network of financial advisers and their end clients. The group generates fee income from funds under management (FUM) and...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 629.87,
@@ -7427,6 +7645,7 @@
     "marketCap": null,
     "summary": "Team Internet Group PLC is a digital media and internet domain monetisation company operating primarily in the US and European markets. The group generates revenue by developing, owning, and monetising internet domain names and by providing digital marketing services including display advertising, SEO, and content solutions. At 35.2 GBX, the shares trade at a significant discount to peers in the digital media space, reflecting legitimate concerns about revenue concentration and margin pressure in the programmatic advertising market. The bull case centres on portfolio value realisation and strategic repositioning; the bear case centres on structural revenue decline in core domain monetisation. Speculative BUY at current levels with clear risks acknowledged. Conviction Score: 58/100.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 35.2,
@@ -7479,6 +7698,8 @@
     "marketCap": null,
     "summary": "Tesla designs, manufactures and sells electric vehicles (Models S, 3, X, Y, Cybertruck, and the upcoming Model 2), stationary energy storage products (Megapack, Powerwall) and solar products. The company also develops Full Self-Driving (FSD) autonomous driving software and, through its AI subsidiary xAI, is building a significant compute infrastructure footprint (Colossus supercomputer). Tesla is vertically integrated - manufacturing its own battery cells, powertrains and, increasingly, its own inference chips. The energy storage business has grown from a negligible contributor to a multi-billion-dollar franchise with waiting lists extending beyond 12 months.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 348.95,
@@ -7505,6 +7726,8 @@
     "marketCap": null,
     "summary": "Texas Instruments is the world's largest analog semiconductor company by revenue, producing tens of thousands of analog chips, embedded processors and other semiconductor products that are sold through a combination of direct sales channels and distribution. Unlike leading-edge digital chipmakers (NVIDIA, Intel), TI operates in the 'analog and embedded' segment where the competitive moat is built on process technology (proprietary 300mm wafer fabrication), a vast catalog of hard-to-replicate precision parts, and decades of customer design-win relationships. TI's devices are essential components in virtually every electronic system - power management, signal conditioning, data conversion - which makes the business a proxy on global industrial and automotive activity. The company is noted for its conservative accounting, high insider ownership, and aggressive share buyback programme funded by robust free cash flow generation.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 214.73,
@@ -7531,6 +7754,7 @@
     "marketCap": null,
     "summary": "The Pebble Group PLC is a UK-based promotional merchandise and workwear distributor serving businesses across the UK and Europe. The group operates two divisions: Pebble FX (promotional merchandise and branded goods) and PCP Workwear (workwear and personal protective equipment). The stock trades at approximately 62.50 GBX with a market capitalisation of roughly GBP150 million, representing a mid-cap listing on AIM with reasonable liquidity.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 62.5,
@@ -7557,6 +7781,8 @@
     "marketCap": null,
     "summary": "Thermo Fisher is a best-in-class life sciences tools company with leading positions in analytical instruments, bioprocessing and clinical diagnostics, but the elevated P/E of 27.97x in a post-pandemic normalised environment argues for HOLD.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 496.11,
@@ -7628,7 +7854,7 @@
     "exchange": "",
     "file": "tmobileusinc.html",
     "date": "2026-04-16",
-    "recommendation": "STRONG BUY",
+    "recommendation": "BUY (STRONG)",
     "conviction": 81,
     "currency": "USD",
     "price": 195.71,
@@ -7691,6 +7917,7 @@
     "marketCap": null,
     "summary": "Tracsis Plc is a UK-listed software and data company serving the transport and logistics sectors, with two core divisions: Traffic & Data (real-time traffic management and journey time data) and Logistics (enterprise software for the haulage and freight industry). The company...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 320,
@@ -7710,7 +7937,7 @@
     "exchange": "",
     "file": "tranetechnologiesplc.html",
     "date": "2026-04-11",
-    "recommendation": "STRONG BUY",
+    "recommendation": "BUY (STRONG)",
     "conviction": 82,
     "currency": "USD",
     "price": 465.71,
@@ -7773,6 +8000,7 @@
     "marketCap": null,
     "summary": "Tristel is a specialist infection control company with a differentiated chlorine dioxide disinfection platform deployed across human healthcare, animal health, and pharmaceutical manufacturing. The shares have re-rated significantly from the 280 GBX lows but the fundamental story...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 383.5,
@@ -7792,7 +8020,7 @@
     "exchange": "",
     "file": "ubertechnologiesinc.html",
     "date": "2026-04-16",
-    "recommendation": "STRONG BUY",
+    "recommendation": "BUY (STRONG)",
     "conviction": 83,
     "currency": "USD",
     "price": 70.48,
@@ -7818,13 +8046,15 @@
     "exchange": "",
     "file": "unionpacificcorp.html",
     "date": "2026-04-16",
-    "recommendation": "STRONG BUY",
+    "recommendation": "BUY (STRONG)",
     "conviction": 82,
     "currency": "USD",
     "price": 250.51,
     "marketCap": null,
     "summary": "Union Pacific Railroad operates a 33,000-mile rail network covering the western two-thirds of the United States, connecting markets in 23 states and serving major container ports on the Pacific Coast, Gulf Coast and Great Lakes. UNP is a 'precision scheduled railroader' (PSR) - its operational methodology is focused on maximising asset utilisation, minimising dwell time and optimising train lengths. This has historically produced the best operating ratio in the North American rail industry. UNP transports diverse freight: intermodal containers (approximately 25% of revenues), agricultural commodities, automotive, industrial chemicals, coal and construction materials. Its network position is highly defensive - the western US rail duopoly with BNSF ( Berkshire Hathaway) is astructural barrier to competition.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 250.51,
@@ -7851,6 +8081,7 @@
     "marketCap": null,
     "summary": "Uniphar PLC is a Dublin-headquartered pharmaceutical wholesale and logistics group serving the Irish and broader European pharmacy market. The business operates across three divisions: pharma wholesale, specialty pharma, and clinical services. At 340 GBX, the stock trades...",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "priceAtLastReport": 340,
@@ -7903,6 +8134,8 @@
     "marketCap": null,
     "summary": "UnitedHealth is the dominant US managed care organisation with Optum's integrated care platform adding a distinctive strategic dimension, but political and regulatory risk around healthcare reform has increased and the P/E of 23.0x warrants a more selective stance - HOLD.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 304.33,
@@ -7929,6 +8162,8 @@
     "marketCap": null,
     "summary": "UPS is the world's largest parcel delivery company with an unrivalled integrated global network, but the cyclical softness in US domestic package volumes and the elevated capital requirements of the US Forward and My Choice expansion programme create a mixed near-term outlook - HOLD.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 101.7,
@@ -8037,6 +8272,7 @@
     "marketCap": null,
     "summary": "Vast Resources PLC is a junior mining company focused on the development of copper, zinc, and lead assets in Zambia. The company is loss-making, trading at a micro-market capitalisation with elevated risk relative to typical listed equities. At 0.13 GBX, the share price reflects...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 0.13,
@@ -8115,6 +8351,7 @@
     "marketCap": null,
     "summary": "Visa is the pre-eminent global payments network with an exceptional economic moat - unrivaled acceptance network, dominant debit position and sticky B2B payment flows - and the shares at 28.57x P/E are reasonably valued for a compound of this quality - HOLD.",
     "universes": [
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 304.36,
@@ -8141,6 +8378,7 @@
     "marketCap": null,
     "summary": "Volex PLC is a UK-listed manufacturer of electrical accessories, cable management systems, and harsh environment connectors serving critical infrastructure end markets. The group operates across two divisions -- Electrical Accessories and Power -- supplying utilities, construction clients, and industrial customers predominantly in the UK and North America. Trading at 540.54 GBX with a market cap of approximately GBP 995m, the stock sits 12.8% below its 52-week high, offering a clean entry point into a business with defensive characteristics, visible earnings growth, and an underappreciated exposure to grid infrastructure buildout. BUY Conviction Score: 72/100.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 540.54,
@@ -8193,6 +8431,8 @@
     "marketCap": null,
     "summary": "Walmart's relentless omnichannel expansion and membership traction underpin a solid if richly valued base case, with tariff sensitivity and US consumer stress the primary downside vectors.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 124.5,
@@ -8219,6 +8459,8 @@
     "marketCap": null,
     "summary": "This report is undergoing data refresh. The investment thesis, key risks, and catalysts are under review. Check back for the updated analysis.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 100.02,
@@ -8249,6 +8491,8 @@
     "marketCap": null,
     "summary": "Wells Fargo is a high-quality US bank benefiting from an improving net interest margin outlook and the gradual removal of asset cap restrictions, but the 13.65x P/E reflects most of the known positives and limited upside remains - HOLD.",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ],
     "priceAtLastReport": 85.4,
@@ -8353,6 +8597,7 @@
     "marketCap": null,
     "summary": "YouGov is a leading international market research and data analytics group with a well-established panel-based methodology and global footprint spanning Europe, North America, the Middle East, and Asia-Pacific. The group has built significant competitive differentiation through...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 186.4,
@@ -8379,6 +8624,7 @@
     "marketCap": null,
     "summary": "Yu Group PLC is a UK-based specialist IT infrastructure and managed services provider operating across the public and private sectors. The group offers a broad portfolio spanning cloud migration, data centre operations, cybersecurity, and IT transformation consulting. With a...",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 1787.5,
@@ -8405,6 +8651,7 @@
     "marketCap": null,
     "summary": "Zephyr is another small-cap energy name where project execution matters far more than the broad commodity narrative. At 3.45p, off the session high and on healthy volume, the shares still screen as speculative rather than investable in the conventional sense. There is enough asset-level upside to keep interest alive, but not enough certainty to justify high conviction.",
     "universes": [
+      "uk",
       "watchlist"
     ],
     "priceAtLastReport": 3.45,
@@ -8465,7 +8712,9 @@
     "marketCap": 1600000000,
     "sector": "Electrical Equipment / Industrial Technology",
     "summary": "Spanish industrial champion with 93% EPS growth in FY2025. Grid equipment and defence electronics niche player with European energy transition tailwind. BUY at EUR 28.10.",
-    "universes": [],
+    "universes": [
+      "watchlist"
+    ],
     "priceAtLastReport": 28.1,
     "marketCapAtLastReport": 1600000000,
     "peAtLastReport": null,
@@ -8490,7 +8739,9 @@
     "marketCap": 2659250897,
     "sector": "Defence Technology / Maritime Robotics",
     "summary": "Record FY2025 results: CAD 102M revenue, CAD 25M EBITDA. $615M Covelya acquisition transforms addressable market. $222M Q1 orders. 2026 guidance CAD 165-175M. SPEC BUY at CAD 8.68.",
-    "universes": [],
+    "universes": [
+      "watchlist"
+    ],
     "priceAtLastReport": 8.68,
     "marketCapAtLastReport": 2659250897,
     "peAtLastReport": null,
@@ -8515,7 +8766,9 @@
     "marketCap": 428490555,
     "sector": "Biotechnology / CAR-T Oncology",
     "summary": "AUCATZYL Year-1 revenue USD 75M, 2026 guidance USD 120-135M. Commercial launch real but facing Tecartus competition. Cash burn and financing risk. REDUCE SPEC at USD 1.61.",
-    "universes": [],
+    "universes": [
+      "watchlist"
+    ],
     "priceAtLastReport": 1.61,
     "marketCapAtLastReport": 428490555,
     "peAtLastReport": null,
@@ -8544,7 +8797,9 @@
     "marketCap": 2064587433,
     "sector": "Defence Technology / Electro-Optics",
     "summary": "Near-10-bagger from AUD 1.10 to AUD 10.70 in 15 months. Counter-drone and space systems momentum. Legal issue resolved. Approaching 52-week highs. SPEC BUY at AUD 10.70, limited margin of safety.",
-    "universes": [],
+    "universes": [
+      "watchlist"
+    ],
     "priceAtLastReport": 10.7,
     "marketCapAtLastReport": 2064587433,
     "peAtLastReport": null,
