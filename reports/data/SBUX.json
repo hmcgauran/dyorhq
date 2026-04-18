@@ -9,7 +9,7 @@
     "recommendation": "BUY",
     "recommendationNote": "SPECULATIVE BUY",
     "conviction": 65,
-    "lastRefreshed": "2026-04-18T15:09:10.391Z",
+    "lastRefreshed": "2026-04-18T15:21:22.658Z",
     "universes": [
       "fortune100",
       "fortune101",
@@ -45,12 +45,12 @@
     "sources": ""
   },
   "scenario": {
-    "bullProbability": 20,
-    "bullScore": 88,
-    "baseProbability": 57,
+    "bullProbability": 25,
+    "bullScore": 92,
+    "baseProbability": 53,
     "baseScore": 68,
-    "bearProbability": 23,
-    "bearScore": 38,
+    "bearProbability": 22,
+    "bearScore": 25,
     "conviction": 65
   },
   "sections": {
@@ -97,7 +97,7 @@
       "score": 65,
       "band": "BUY",
       "date": "2026-04-18",
-      "delta": "3",
+      "delta": "4",
       "reason": "Formula fix"
     },
     "history": [

@@ -9,7 +9,7 @@
     "recommendation": "BUY",
     "recommendationNote": "SPECULATIVE BUY",
     "conviction": 68,
-    "lastRefreshed": "2026-04-18T15:09:10.380Z",
+    "lastRefreshed": "2026-04-18T15:21:22.632Z",
     "universes": [
       "irish",
       "watchlist"
@@ -42,12 +42,12 @@
     "sources": ""
   },
   "scenario": {
-    "bullProbability": 27,
-    "bullScore": 88,
-    "baseProbability": 55,
+    "bullProbability": 32,
+    "bullScore": 92,
+    "baseProbability": 51,
     "baseScore": 68,
-    "bearProbability": 18,
-    "bearScore": 38,
+    "bearProbability": 17,
+    "bearScore": 25,
     "conviction": 68
   },
   "sections": {

@@ -9,7 +9,7 @@
     "recommendation": "BUY",
     "recommendationNote": "OPPORTUNISTIC BUY",
     "conviction": 70,
-    "lastRefreshed": "2026-04-18T15:09:10.377Z",
+    "lastRefreshed": "2026-04-18T15:21:22.627Z",
     "universes": [
       "sp100",
       "watchlist"
@@ -42,12 +42,12 @@
     "sources": ""
   },
   "scenario": {
-    "bullProbability": 33,
-    "bullScore": 88,
-    "baseProbability": 53,
+    "bullProbability": 36,
+    "bullScore": 92,
+    "baseProbability": 48,
     "baseScore": 68,
-    "bearProbability": 14,
-    "bearScore": 38,
+    "bearProbability": 16,
+    "bearScore": 25,
     "conviction": 70
   },
   "sections": {

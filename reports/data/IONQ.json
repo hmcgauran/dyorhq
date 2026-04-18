@@ -8,8 +8,8 @@
     "datePublished": "2026-04-18",
     "recommendation": "BUY",
     "recommendationNote": "OPPORTUNISTIC BUY",
-    "conviction": 70,
-    "lastRefreshed": "2026-04-18T15:09:10.384Z",
+    "conviction": 71,
+    "lastRefreshed": "2026-04-18T15:21:22.643Z",
     "universes": [
       "watchlist"
     ]
@@ -42,13 +42,13 @@
     "sources": ""
   },
   "scenario": {
-    "bullProbability": 31,
-    "bullScore": 88,
-    "baseProbability": 56,
+    "bullProbability": 36,
+    "bullScore": 92,
+    "baseProbability": 52,
     "baseScore": 68,
-    "bearProbability": 13,
-    "bearScore": 38,
-    "conviction": 70
+    "bearProbability": 12,
+    "bearScore": 25,
+    "conviction": 71
   },
   "sections": {
     "executiveSummary": {
@@ -91,7 +91,7 @@
   },
   "scores": {
     "current": {
-      "score": 70,
+      "score": 71,
       "band": "BUY",
       "date": "2026-04-18",
       "delta": "3",

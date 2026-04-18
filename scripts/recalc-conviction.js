@@ -55,11 +55,11 @@ function calcConviction(ticker, grokScore, price, pe, marketCap) {
   // Grok and valuation inputs shift probabilities, not scores.
   // BUY (STRONG) 80+ requires Grok tailwind + favourable valuation.
   // OPPORTUNISTIC BUY 50-64 requires neutral/bear signal or high P/E.
-  const DEFAULT_BULL_S = 88;
+  const DEFAULT_BULL_S = 92;
   const DEFAULT_BASE_S = 68;
-  const DEFAULT_BEAR_S = 38;
+  const DEFAULT_BEAR_S = 25;
   let bullS = DEFAULT_BULL_S, baseS = DEFAULT_BASE_S, bearS = DEFAULT_BEAR_S;
-  let bullP = 28, baseP = 55, bearP = 17; // base probabilities
+  let bullP = 30, baseP = 50, bearP = 20; // base probabilities
 
   // P/E adjustment to probabilities
   if (pe) {
@@ -80,12 +80,12 @@ function calcConviction(ticker, grokScore, price, pe, marketCap) {
 
   // Grok signal adjustments to probabilities
   if (grokScore !== null) {
-    if (grokScore > 70) { bullP += 5; baseP += 2; bearP -= 7; }
-    else if (grokScore > 55) { bullP += 3; baseP += 1; bearP -= 4; }
-    else if (grokScore > 35) { bullP += 1; }
-    else if (grokScore < -30) { bearP += 7; bullP -= 5; baseP -= 2; }
-    else if (grokScore < -10) { bearP += 4; }
-    else if (grokScore < 0) { bearP += 1; }
+    if (grokScore > 70) { bullP += 10; baseP += 4; bearP -= 14; }
+    else if (grokScore > 55) { bullP += 6; baseP += 2; bearP -= 8; }
+    else if (grokScore > 35) { bullP += 2; }
+    else if (grokScore < -30) { bearP += 14; bullP -= 10; baseP -= 4; }
+    else if (grokScore < -10) { bearP += 8; }
+    else if (grokScore < 0) { bearP += 2; }
   }
 
   // Normalise probabilities to 100%

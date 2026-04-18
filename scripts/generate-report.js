@@ -298,8 +298,8 @@ function calcConviction(data, grokScore) {
   // Base: current trajectory holds - score 50
   // Bear: execution failure, macro headwind, dilution - score 20
 
-  let bullP = 28, baseP = 55, bearP = 17;
-  let bullS = 88, baseS = 68, bearS = 38;
+  let bullP = 30, baseP = 50, bearP = 20;
+  let bullS = 92, baseS = 68, bearS = 25;
 
   // P/E adjustment
   if (pe) {
@@ -309,11 +309,12 @@ function calcConviction(data, grokScore) {
 
   // Grok signal — minor adjustment only; thesis and fundamentals drive conviction, Grok is one input
   if (grokScore !== null) {
-    if (grokScore > 70) { bullP += 3; baseP += 2; bearP -= 5; }
-    else if (grokScore > 50) { bullP += 2; }
-    else if (grokScore > 30) { bullP += 1; }
-    else if (grokScore < -30) { bearP += 5; bullP -= 3; baseP -= 2; }
-    else if (grokScore < -10) { bearP += 2; }
+    if (grokScore > 70) { bullP += 10; baseP += 4; bearP -= 14; }
+    else if (grokScore > 55) { bullP += 6; baseP += 2; bearP -= 8; }
+    else if (grokScore > 35) { bullP += 2; }
+    else if (grokScore < -30) { bearP += 14; bullP -= 10; baseP -= 4; }
+    else if (grokScore < -10) { bearP += 8; }
+    else if (grokScore < 0) { bearP += 2; }
   }
 
   // Normalise to 100%

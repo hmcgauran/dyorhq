@@ -7,7 +7,7 @@
     "file": "3mco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 69,
     "currency": "USD",
     "price": 154.55,
     "marketCap": null,
@@ -21,6 +21,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -49,7 +57,7 @@
     "file": "abbottlaboratories.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 96.81,
     "marketCap": null,
@@ -63,6 +71,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -90,7 +106,7 @@
     "file": "abbviecommonstock.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 66,
+    "conviction": 68,
     "currency": "USD",
     "price": 208.38,
     "marketCap": null,
@@ -105,6 +121,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
       {
         "date": "2026-04-18",
         "conviction": 66
@@ -132,7 +156,7 @@
     "file": "abdynamicsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 1108,
     "marketCap": null,
@@ -145,6 +169,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -194,6 +226,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -215,7 +255,7 @@
     "file": "accentureplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 197.65,
     "marketCap": null,
@@ -229,6 +269,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -256,7 +304,7 @@
     "file": "accessotechnologygroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 286,
     "marketCap": null,
@@ -269,6 +317,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -296,7 +352,7 @@
     "file": "activeopsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 204,
     "marketCap": null,
@@ -309,6 +365,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -359,6 +423,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -376,7 +448,7 @@
     "file": "adobeinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 79,
     "currency": "USD",
     "price": 244.45,
     "marketCap": null,
@@ -390,6 +462,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 79
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 76
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -440,6 +520,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -461,7 +549,7 @@
     "file": "advancedadvtltd.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 165.55,
     "marketCap": null,
@@ -473,6 +561,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -501,7 +597,7 @@
     "file": "advancedmedicalsolutionsgroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 71,
+    "conviction": 72,
     "currency": "GBX",
     "price": 222,
     "marketCap": null,
@@ -514,6 +610,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
       {
         "date": "2026-04-18",
         "conviction": 71
@@ -541,7 +645,7 @@
     "file": "advancedmicrodevicesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 66,
+    "conviction": 68,
     "currency": "USD",
     "price": 278.39,
     "marketCap": null,
@@ -555,6 +659,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
       {
         "date": "2026-04-18",
         "conviction": 66
@@ -582,7 +694,7 @@
     "file": "aercapholdingsnv.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 79,
     "currency": "USD",
     "price": 147.45,
     "marketCap": null,
@@ -595,6 +707,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 79
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 76
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -626,7 +746,7 @@
     "file": "aibgroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "GBX",
     "price": 867,
     "marketCap": null,
@@ -639,6 +759,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -666,7 +794,7 @@
     "file": "albertsonscompaniesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 16.7,
     "marketCap": null,
@@ -679,6 +807,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -706,7 +842,7 @@
     "file": "alibabagroupholdingltdadr.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 141.01,
     "marketCap": null,
@@ -718,6 +854,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -772,6 +916,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -793,7 +945,7 @@
     "file": "alkermesplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 73,
     "currency": "USD",
     "price": 34.53,
     "marketCap": null,
@@ -806,6 +958,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -837,7 +997,7 @@
     "file": "allegionplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 144.32,
     "marketCap": null,
@@ -850,6 +1010,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -881,7 +1049,7 @@
     "file": "allstatecorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 216.16,
     "marketCap": null,
@@ -894,6 +1062,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -921,7 +1097,7 @@
     "file": "googl.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 341.68,
     "marketCap": "$4.08T",
@@ -934,6 +1110,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -966,7 +1150,7 @@
     "file": "alphabetincclassc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 339.4,
     "marketCap": null,
@@ -981,6 +1165,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -1031,6 +1223,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -1071,6 +1271,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -1088,7 +1296,7 @@
     "file": "amaroqordshs.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 104,
     "marketCap": null,
@@ -1100,6 +1308,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -1127,7 +1343,7 @@
     "file": "amazoncominc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 250.56,
     "marketCap": "2694617426544",
@@ -1142,6 +1358,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -1177,7 +1401,7 @@
     "file": "americanexpressco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 331.69,
     "marketCap": "227467464451",
@@ -1192,6 +1416,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -1223,7 +1455,7 @@
     "file": "americaninternationalgroupinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 78.68,
     "marketCap": "42083312119",
@@ -1236,6 +1468,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -1267,7 +1507,7 @@
     "file": "amgeninc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 355.3,
     "marketCap": "191750216032",
@@ -1281,6 +1521,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -1312,7 +1560,7 @@
     "file": "angloasianminingplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 247.5,
     "marketCap": "283709992",
@@ -1325,6 +1573,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -1379,6 +1635,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -1400,7 +1664,7 @@
     "file": "appleinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 270.23,
     "marketCap": "3967281921191",
@@ -1415,6 +1679,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -1469,6 +1741,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 66
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 63
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 49
       },
       {
@@ -1494,7 +1774,7 @@
     "file": "arbuthnotbankinggroupordshs.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 860,
     "marketCap": "140399300",
@@ -1507,6 +1787,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -1538,7 +1826,7 @@
     "file": "archerdanielsmidlandco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 67.04,
     "marketCap": "32306241241",
@@ -1551,6 +1839,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -1582,7 +1878,7 @@
     "file": "ardaghmetalpackagingsa.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 67,
     "currency": "USD",
     "price": 4.2,
     "marketCap": "2510337785",
@@ -1594,6 +1890,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -1629,7 +1933,7 @@
     "file": "aristanetworksinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 71,
     "currency": "USD",
     "price": 164.23,
     "marketCap": "206361230371",
@@ -1641,6 +1945,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -1676,7 +1988,7 @@
     "file": "astspacemobileinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 85.53,
     "marketCap": "32673751036",
@@ -1688,6 +2000,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -1723,7 +2043,7 @@
     "file": "attinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "USD",
     "price": 26.51,
     "marketCap": "185096612528",
@@ -1738,6 +2058,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -1769,7 +2097,7 @@
     "file": "avingtransplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "GBX",
     "price": 621,
     "marketCap": "206602477",
@@ -1782,6 +2110,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -1813,7 +2149,7 @@
     "file": "bankofamericacorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "USD",
     "price": 53.91,
     "marketCap": "384373339192",
@@ -1828,6 +2164,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -1859,7 +2203,7 @@
     "file": "bankofirelandgroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "EUR",
     "price": 17.1,
     "marketCap": "15792602745",
@@ -1872,6 +2216,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -1907,7 +2259,7 @@
     "file": "bankofnewyorkmelloncorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 135.1,
     "marketCap": "92979458390",
@@ -1920,6 +2272,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -1955,7 +2315,7 @@
     "file": "berkshirehathawayincclassb.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 474.58,
     "marketCap": "1023141877788",
@@ -1970,6 +2330,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -2005,7 +2373,7 @@
     "file": "bioventixplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 1766,
     "marketCap": "94047480",
@@ -2018,6 +2386,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -2049,7 +2425,7 @@
     "file": "blackrockinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 1052.14,
     "marketCap": "163465417733",
@@ -2064,6 +2440,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -2118,6 +2502,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -2139,7 +2531,7 @@
     "file": "bloominbrandsinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "EUR",
     "price": 5.54,
     "marketCap": "573670249",
@@ -2152,6 +2544,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -2183,7 +2583,7 @@
     "file": "boeingco.html",
     "date": "2026-04-18",
     "recommendation": "OPPORTUNISTIC BUY",
-    "conviction": 64,
+    "conviction": 61,
     "currency": "USD",
     "price": 223.38,
     "marketCap": "175541881233",
@@ -2198,6 +2598,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 61
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 58
+      },
       {
         "date": "2026-04-18",
         "conviction": 64
@@ -2251,6 +2659,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -2272,7 +2688,7 @@
     "file": "bookingholdingsinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 192.01,
     "marketCap": "152039945985",
@@ -2285,6 +2701,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -2320,7 +2744,7 @@
     "file": "bpmarshpartnersplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 678,
     "marketCap": "244120680",
@@ -2333,6 +2757,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -2377,6 +2809,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -2431,6 +2871,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -2456,7 +2904,7 @@
     "file": "bristolmyerssquibbco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "USD",
     "price": 60.17,
     "marketCap": "122851191211",
@@ -2471,6 +2919,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -2502,7 +2958,7 @@
     "file": "broadcominc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 66,
+    "conviction": 68,
     "currency": "USD",
     "price": 406.54,
     "marketCap": "1924832000000",
@@ -2516,6 +2972,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
       {
         "date": "2026-04-18",
         "conviction": 66
@@ -2546,8 +3010,8 @@
     "exchange": "",
     "file": "burfordcapitalimited.html",
     "date": "2026-04-18",
-    "recommendation": "BUY",
-    "conviction": 76,
+    "recommendation": "BUY (STRONG)",
+    "conviction": 81,
     "currency": "GBX",
     "price": 360.8,
     "marketCap": "792395066",
@@ -2559,6 +3023,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 81
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 78
+      },
       {
         "date": "2026-04-18",
         "conviction": 76
@@ -2590,7 +3062,7 @@
     "file": "bwxtechnologiesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 68,
+    "conviction": 70,
     "currency": "USD",
     "price": 235.78,
     "marketCap": "21600256027",
@@ -2602,6 +3074,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
       {
         "date": "2026-04-18",
         "conviction": 68
@@ -2637,7 +3117,7 @@
     "file": "caledoniaminingcorporationplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 1929,
     "marketCap": "505808004",
@@ -2649,6 +3129,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -2699,6 +3187,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 61
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 62
       },
       {
@@ -2728,7 +3224,7 @@
     "file": "cardinalhealthinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 213.99,
     "marketCap": "50355272132",
@@ -2741,6 +3237,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -2772,7 +3276,7 @@
     "file": "caterpillarinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 71,
     "currency": "USD",
     "price": 794.65,
     "marketCap": "369740564304",
@@ -2787,6 +3291,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -2818,7 +3330,7 @@
     "file": "cencorainc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 327.56,
     "marketCap": "14477405055",
@@ -2831,6 +3343,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -2862,7 +3382,7 @@
     "file": "centenecorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 38.17,
     "marketCap": "18770955424",
@@ -2875,6 +3395,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -2906,7 +3434,7 @@
     "file": "centralasiametalsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 156.6,
     "marketCap": "278997004",
@@ -2919,6 +3447,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -2950,7 +3486,7 @@
     "file": "cerillionplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 74,
+    "conviction": 79,
     "currency": "GBX",
     "price": 1430,
     "marketCap": "422426862",
@@ -2963,6 +3499,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 79
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
       {
         "date": "2026-04-18",
         "conviction": 74
@@ -2994,7 +3538,7 @@
     "file": "charlesschwabcorporationcommonstock.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 92.28,
     "marketCap": "160391773598",
@@ -3007,6 +3551,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -3038,7 +3590,7 @@
     "file": "checkpointsoftwaretechnologiesltd.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 136.43,
     "marketCap": "14220480140",
@@ -3050,6 +3602,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -3081,7 +3641,7 @@
     "file": "chevroncorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 183.99,
     "marketCap": "366489507951",
@@ -3096,6 +3656,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -3127,7 +3695,7 @@
     "file": "cignagroup.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 278.64,
     "marketCap": "73466421310",
@@ -3140,6 +3708,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -3194,6 +3770,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -3216,7 +3800,7 @@
     "file": "ciscosystemsinc.html",
     "date": "2026-04-18",
     "price": 86.25,
-    "conviction": 69,
+    "conviction": 70,
     "recommendation": "BUY",
     "summary": "Cisco is a classic mature-network-infrastructure business undergoing an AI-era transition. AI infrastructure demand from hyperscalers is driving order acceleration, the 800G switching and Spectrum X/NVIDIA partnership story is real, and free cash flow provides a floor. OPPORTUNISTIC BUY at 57/100.",
     "universes": [
@@ -3231,6 +3815,14 @@
     "isin": "US17275R1023",
     "slug": "ciscosystemsinc.html",
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -3262,7 +3854,7 @@
     "file": "citigroupinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "USD",
     "price": 132.18,
     "marketCap": "225446063327",
@@ -3277,6 +3869,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -3308,7 +3908,7 @@
     "file": "cloudflareinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 200.99,
     "marketCap": "70744522430",
@@ -3321,6 +3921,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -3375,6 +3983,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -3396,7 +4012,7 @@
     "file": "cocacolaco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 75.74,
     "marketCap": "325996463285",
@@ -3411,6 +4027,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -3446,7 +4070,7 @@
     "file": "cohortplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 1365.29,
     "marketCap": "641780038",
@@ -3459,6 +4083,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -3490,7 +4122,7 @@
     "file": "colgatepalmoliveco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 85.81,
     "marketCap": "68845515499",
@@ -3503,6 +4135,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -3560,6 +4200,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -3585,7 +4233,7 @@
     "file": "comcastcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "USD",
     "price": 29.63,
     "marketCap": "106604173960",
@@ -3600,6 +4248,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -3631,7 +4287,7 @@
     "file": "conocophillips.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "USD",
     "price": 116.04,
     "marketCap": "141435703235",
@@ -3644,6 +4300,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -3679,7 +4343,7 @@
     "file": "cosmopharmaceuticalsnv.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "EUR",
     "price": 105,
     "marketCap": "1709036000",
@@ -3692,6 +4356,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -3727,7 +4399,7 @@
     "file": "costcowholesalecorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 71,
     "currency": "USD",
     "price": 999.89,
     "marketCap": "443603704723",
@@ -3742,6 +4414,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -3773,7 +4453,7 @@
     "file": "cranewareplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 1513.34,
     "marketCap": "530425450",
@@ -3786,6 +4466,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -3817,7 +4505,7 @@
     "file": "crhplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 117.05,
     "marketCap": "78212940794",
@@ -3830,6 +4518,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -3861,7 +4557,7 @@
     "file": "crowdstrikeholdingsinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 423.95,
     "marketCap": "107344500000",
@@ -3873,6 +4569,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -3908,7 +4612,7 @@
     "file": "curisinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 69,
     "currency": "USD",
     "price": 0.6,
     "marketCap": "24107150",
@@ -3920,6 +4624,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -3954,8 +4666,8 @@
     "exchange": "",
     "file": "cvsgroupplc.html",
     "date": "2026-04-18",
-    "recommendation": "BUY",
-    "conviction": 76,
+    "recommendation": "BUY (STRONG)",
+    "conviction": 81,
     "currency": "GBX",
     "price": 1257,
     "marketCap": "881871855",
@@ -3968,6 +4680,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 81
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 78
+      },
       {
         "date": "2026-04-18",
         "conviction": 76
@@ -3999,7 +4719,7 @@
     "file": "cvshealthcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 67,
+    "conviction": 65,
     "currency": "USD",
     "price": 77.3,
     "marketCap": "99067993111",
@@ -4014,6 +4734,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 62
+      },
       {
         "date": "2026-04-18",
         "conviction": 67
@@ -4049,7 +4777,7 @@
     "file": "danahercorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 194.75,
     "marketCap": "137824458150",
@@ -4063,6 +4791,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -4094,7 +4830,7 @@
     "file": "dccplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "GBX",
     "price": 5289.42,
     "marketCap": "4518443147",
@@ -4107,6 +4843,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -4142,7 +4886,7 @@
     "file": "deereco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 590.46,
     "marketCap": "159487562292",
@@ -4157,6 +4901,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -4192,7 +4944,7 @@
     "file": "delltechnologiesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 196.55,
     "marketCap": "126921889300",
@@ -4207,6 +4959,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -4238,7 +4998,7 @@
     "file": "deltaairlinesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 71.72,
     "marketCap": "47119617653",
@@ -4251,6 +5011,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -4282,7 +5050,7 @@
     "file": "diageoplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "GBX",
     "price": 1503.6,
     "marketCap": "45476412490",
@@ -4295,6 +5063,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -4330,7 +5106,7 @@
     "file": "doleplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "USD",
     "price": 15.17,
     "marketCap": "1443647140",
@@ -4343,6 +5119,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -4374,7 +5158,7 @@
     "file": "dotdigitalgroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 47.3,
     "marketCap": "143435024",
@@ -4387,6 +5171,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -4418,7 +5210,7 @@
     "file": "dowinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 35.6,
     "marketCap": "25618449541",
@@ -4431,6 +5223,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -4462,7 +5262,7 @@
     "file": "dukeenergycorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 73,
     "currency": "USD",
     "price": 128.03,
     "marketCap": "99622420984",
@@ -4476,6 +5276,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -4511,7 +5319,7 @@
     "file": "dwavequantuminc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 67,
     "currency": "USD",
     "price": 21.69,
     "marketCap": "8023428350",
@@ -4523,6 +5331,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -4558,7 +5374,7 @@
     "file": "eatoncorporationplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 406.21,
     "marketCap": "157603505397",
@@ -4572,6 +5388,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -4630,6 +5454,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -4651,7 +5483,7 @@
     "file": "elevancehealthinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 323.05,
     "marketCap": "70962740000",
@@ -4664,6 +5496,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -4695,7 +5535,7 @@
     "file": "elilillyandco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 71,
     "currency": "USD",
     "price": 927.03,
     "marketCap": "875875399844",
@@ -4710,6 +5550,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -4741,7 +5589,7 @@
     "file": "emersonelectricco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 146.35,
     "marketCap": "82248703430",
@@ -4755,6 +5603,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -4790,7 +5646,7 @@
     "file": "energytransferlpunit.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 18.86,
     "marketCap": "64884324139",
@@ -4803,6 +5659,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -4834,7 +5698,7 @@
     "file": "enterpriseproductspartnerslp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 79,
     "currency": "USD",
     "price": 36.67,
     "marketCap": "79271735241",
@@ -4847,6 +5711,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 79
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 76
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -4878,7 +5750,7 @@
     "file": "eutelsatcommunicationssa.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 67,
     "currency": "EUR",
     "price": 2.8,
     "marketCap": "3305879767",
@@ -4890,6 +5762,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -4944,6 +5824,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 70
       },
       {
@@ -4969,7 +5857,7 @@
     "file": "experianplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 39,
     "marketCap": "34889620000",
@@ -4983,6 +5871,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -5018,7 +5914,7 @@
     "file": "exxonmobilcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 146.44,
     "marketCap": "608686510107",
@@ -5033,6 +5929,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -5064,7 +5968,7 @@
     "file": "faradayfutureintelligentelectricinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 69,
     "currency": "USD",
     "price": 0.3,
     "marketCap": "74279517",
@@ -5076,6 +5980,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -5133,6 +6045,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -5154,7 +6074,7 @@
     "file": "fedexcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 73,
     "currency": "USD",
     "price": 392.38,
     "marketCap": "93624498111",
@@ -5169,6 +6089,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -5200,7 +6128,7 @@
     "file": "fevertreedrinksplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "GBX",
     "price": 851,
     "marketCap": "979311227",
@@ -5213,6 +6141,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -5244,7 +6180,7 @@
     "file": "fintelplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 181.5,
     "marketCap": "189110658",
@@ -5257,6 +6193,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -5288,7 +6232,7 @@
     "file": "firsttrustlargecapgrowthalphadexfund.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 170.82,
     "marketCap": "#N/A",
@@ -5301,6 +6245,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -5332,7 +6284,7 @@
     "file": "flutterentertainmentplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 110.08,
     "marketCap": "19195541567",
@@ -5345,6 +6297,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -5380,7 +6340,7 @@
     "file": "fordmotorco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 12.87,
     "marketCap": "51622612010",
@@ -5395,6 +6355,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -5426,7 +6394,7 @@
     "file": "fortinetinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 81.84,
     "marketCap": "60555350000",
@@ -5438,6 +6406,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -5473,7 +6449,7 @@
     "file": "frpadvisorygroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 117,
     "marketCap": "303169347",
@@ -5486,6 +6462,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -5517,7 +6501,7 @@
     "file": "fwthorpeplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 266,
     "marketCap": "298949154",
@@ -5530,6 +6514,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -5561,7 +6553,7 @@
     "file": "gateleyholdingsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "GBX",
     "price": 69,
     "marketCap": "94717335",
@@ -5574,6 +6566,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -5628,6 +6628,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -5649,7 +6657,7 @@
     "file": "generaldynamicscorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 73,
     "currency": "USD",
     "price": 336.29,
     "marketCap": "91082736396",
@@ -5663,6 +6671,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -5694,7 +6710,7 @@
     "file": "generalelectricco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 70,
     "currency": "USD",
     "price": 304.13,
     "marketCap": "317763848871",
@@ -5709,6 +6725,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -5740,7 +6764,7 @@
     "file": "generalmotorsco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 73,
     "currency": "USD",
     "price": 81.32,
     "marketCap": "73510661220",
@@ -5755,6 +6779,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -5809,6 +6841,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -5853,6 +6893,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -5878,7 +6926,7 @@
     "file": "gileadsciencesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 137.64,
     "marketCap": "170841657682",
@@ -5892,6 +6940,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -5923,7 +6979,7 @@
     "file": "glanbiaplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 73,
     "currency": "EUR",
     "price": 16.4,
     "marketCap": "4106263064",
@@ -5936,6 +6992,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -5971,7 +7035,7 @@
     "file": "glencorepartnershipportfolioplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 68,
+    "conviction": 66,
     "currency": "GBX",
     "price": 767,
     "marketCap": "101385596703",
@@ -5983,6 +7047,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 63
+      },
       {
         "date": "2026-04-18",
         "conviction": 68
@@ -6030,6 +7102,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 63
+      },
       {
         "date": "2026-04-18",
         "conviction": 66
@@ -6088,6 +7168,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -6109,7 +7197,7 @@
     "file": "goldmansachsgroupinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "USD",
     "price": 925.95,
     "marketCap": "273149697901",
@@ -6124,6 +7212,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -6155,7 +7251,7 @@
     "file": "graftongroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 965.6,
     "marketCap": "1833801812",
@@ -6168,6 +7264,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -6199,7 +7303,7 @@
     "file": "greatlandresourcesltd.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "GBX",
     "price": 740,
     "marketCap": null,
@@ -6211,6 +7315,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -6242,7 +7354,7 @@
     "file": "greencoatrenewablesplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "EUR",
     "price": 0.74,
     "marketCap": "809958223",
@@ -6255,6 +7367,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -6308,6 +7428,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -6351,6 +7479,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -6372,7 +7508,7 @@
     "file": "hargreavesservicesplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 790,
     "marketCap": "261153776",
@@ -6385,6 +7521,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -6416,7 +7560,7 @@
     "file": "hcahealthcareinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 488,
     "marketCap": "109101623200",
@@ -6429,6 +7573,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -6460,7 +7612,7 @@
     "file": "heliosunderwritingplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 205,
     "marketCap": "140911500",
@@ -6473,6 +7625,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -6504,7 +7664,7 @@
     "file": "herculesmetalscorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "CAD",
     "price": 0.71,
     "marketCap": "204054419",
@@ -6517,6 +7677,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -6548,7 +7716,7 @@
     "file": "homedepotinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 349.4,
     "marketCap": "348012002420",
@@ -6563,6 +7731,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -6594,7 +7770,7 @@
     "file": "honeywellinternationalinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 233.55,
     "marketCap": "147989730148",
@@ -6609,6 +7785,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -6640,7 +7824,7 @@
     "file": "humanainc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 73,
     "currency": "USD",
     "price": 205.14,
     "marketCap": "24627959542",
@@ -6653,6 +7837,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -6684,7 +7876,7 @@
     "file": "hutchmedchinaltd.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "GBX",
     "price": 224.07,
     "marketCap": "2795638023",
@@ -6696,6 +7888,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -6727,7 +7927,7 @@
     "file": "ibmcommonstock.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 253.47,
     "marketCap": "237763529819",
@@ -6742,6 +7942,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -6773,7 +7981,7 @@
     "file": "iconplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 79,
     "currency": "USD",
     "price": 119.68,
     "marketCap": "9138756445",
@@ -6786,6 +7994,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 79
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 76
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -6821,7 +8037,7 @@
     "file": "idoxplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 71,
+    "conviction": 72,
     "currency": "GBX",
     "price": 71.4,
     "marketCap": "329640955",
@@ -6834,6 +8050,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
       {
         "date": "2026-04-18",
         "conviction": 71
@@ -6865,7 +8089,7 @@
     "file": "ingersollrandinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 85.8,
     "marketCap": "33600825595",
@@ -6878,6 +8102,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -6909,7 +8141,7 @@
     "file": "intelcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 68,
+    "conviction": 66,
     "currency": "USD",
     "price": 68.5,
     "marketCap": "343939185000",
@@ -6924,6 +8156,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 63
+      },
       {
         "date": "2026-04-18",
         "conviction": 68
@@ -6977,6 +8217,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -6998,7 +8246,7 @@
     "file": "intuitinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 393.25,
     "marketCap": "108753287500",
@@ -7012,6 +8260,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -7043,7 +8299,7 @@
     "file": "intuitivesurgicalinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 71,
     "currency": "USD",
     "price": 469.21,
     "marketCap": "166649124981",
@@ -7057,6 +8313,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -7088,7 +8352,7 @@
     "file": "ionqinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 46.09,
     "marketCap": "16898469918",
@@ -7100,6 +8364,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -7135,7 +8407,7 @@
     "file": "irenltd.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 48.12,
     "marketCap": "19199302133",
@@ -7147,6 +8419,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -7182,7 +8462,7 @@
     "file": "iterumtherapeuticsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 69,
     "currency": "USD",
     "price": 0.03,
     "marketCap": "1332289",
@@ -7195,6 +8475,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -7253,6 +8541,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -7274,7 +8570,7 @@
     "file": "jameshalsteadplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 998,
     "marketCap": "201196800",
@@ -7287,6 +8583,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -7318,7 +8622,7 @@
     "file": "jameshardieindustriesplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 68,
+    "conviction": 70,
     "currency": "USD",
     "price": 21.75,
     "marketCap": "12618714900",
@@ -7331,6 +8635,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
       {
         "date": "2026-04-18",
         "conviction": 68
@@ -7366,7 +8678,7 @@
     "file": "jazzpharmaceuticalsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 203.42,
     "marketCap": "12522600181",
@@ -7379,6 +8691,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -7414,7 +8734,7 @@
     "file": "jd.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 79,
     "currency": "USD",
     "price": 31.6,
     "marketCap": "50807365413",
@@ -7427,6 +8747,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 79
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 76
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -7480,6 +8808,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -7501,7 +8837,7 @@
     "file": "jet2plc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 79,
     "currency": "GBX",
     "price": 1195.2,
     "marketCap": "2297023653",
@@ -7514,6 +8850,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 79
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 76
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -7545,7 +8889,7 @@
     "file": "johnsoncontrolsinternationalplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 73,
     "currency": "USD",
     "price": 140.87,
     "marketCap": "86221748518",
@@ -7558,6 +8902,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -7589,7 +8941,7 @@
     "file": "johnsonjohnson.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 234.18,
     "marketCap": "564048974698",
@@ -7604,6 +8956,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -7635,7 +8995,7 @@
     "file": "jpmorganchaseco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 310.29,
     "marketCap": "832265756429",
@@ -7650,6 +9010,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -7681,7 +9049,7 @@
     "file": "judgesscientificplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "GBX",
     "price": 4410,
     "marketCap": "293725536",
@@ -7694,6 +9062,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -7725,7 +9101,7 @@
     "file": "kerrygroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 67,
     "currency": "EUR",
     "price": 69.1,
     "marketCap": null,
@@ -7738,6 +9114,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -7762,7 +9146,7 @@
     "file": "kingspangroupadr.html",
     "date": "2026-04-18",
     "price": 97.09,
-    "conviction": 70,
+    "conviction": 71,
     "recommendation": "BUY",
     "summary": "Kingspan Group ADR (KGSPY) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is BUY with conviction 84/100, using $90.15 as the latest stored price reference where available",
     "universes": [
@@ -7776,6 +9160,14 @@
     "isin": "US4964021087",
     "slug": "kingspangroupadr.html",
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -7811,7 +9203,7 @@
     "file": "kneatcominc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "EUR",
     "price": 2.6,
     "marketCap": "412406600",
@@ -7824,6 +9216,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -7859,7 +9259,7 @@
     "file": "kongsberggruppenunsponsorednorwayadr.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 22.09,
     "marketCap": null,
@@ -7871,6 +9271,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -7925,6 +9333,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 69
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 52
       },
       {
@@ -7946,7 +9362,7 @@
     "file": "lamresearchcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 71,
     "currency": "USD",
     "price": 267.6,
     "marketCap": "334171127221",
@@ -7960,6 +9376,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -8013,6 +9437,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -8038,7 +9470,7 @@
     "file": "lbgmediaplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 54.03,
     "marketCap": "112972090",
@@ -8051,6 +9483,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -8082,7 +9522,7 @@
     "file": "leverageshares2xlongbedailyetf.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 52.45,
     "marketCap": "#N/A",
@@ -8095,6 +9535,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -8147,6 +9595,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -8169,7 +9625,7 @@
     "file": "lindeplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 492.23,
     "marketCap": "228096433710",
@@ -8183,6 +9639,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -8218,7 +9682,7 @@
     "file": "lockheedmartincorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 592.19,
     "marketCap": "136477292342",
@@ -8233,6 +9697,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -8264,7 +9736,7 @@
     "file": "lowescompaniesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 251.72,
     "marketCap": "140979184903",
@@ -8279,6 +9751,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -8310,7 +9790,7 @@
     "file": "manchesterunitedplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 67,
     "currency": "USD",
     "price": 17.56,
     "marketCap": "3027946215",
@@ -8323,6 +9803,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -8354,7 +9842,7 @@
     "file": "marathonpetroleumcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 213.69,
     "marketCap": "62931043279",
@@ -8367,6 +9855,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -8398,7 +9894,7 @@
     "file": "mastercardinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 521.3,
     "marketCap": "464901688973",
@@ -8413,6 +9909,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -8444,7 +9948,7 @@
     "file": "mcdonaldscorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 311.36,
     "marketCap": "221323302259",
@@ -8457,6 +9961,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -8488,7 +10000,7 @@
     "file": "mckessoncorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 866.38,
     "marketCap": "106120634210",
@@ -8501,6 +10013,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -8551,6 +10071,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 70
       },
       {
@@ -8576,7 +10104,7 @@
     "file": "medtronicplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 86.19,
     "marketCap": "110658051284",
@@ -8591,6 +10119,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -8622,7 +10158,7 @@
     "file": "merckcoinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 119.07,
     "marketCap": "294088491776",
@@ -8637,6 +10173,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -8668,7 +10212,7 @@
     "file": "merlinpropertiessocimisa.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "EUR",
     "price": 15.36,
     "marketCap": "9219915685",
@@ -8681,6 +10225,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -8712,7 +10264,7 @@
     "file": "metalsexplorationplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 15.15,
     "marketCap": "452619116",
@@ -8725,6 +10277,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -8756,7 +10316,7 @@
     "file": "metaplatformsinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 688.55,
     "marketCap": "1741725064371",
@@ -8771,6 +10331,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -8802,7 +10370,7 @@
     "file": "metlifeinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 78.08,
     "marketCap": "50912361897",
@@ -8815,6 +10383,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -8846,7 +10422,7 @@
     "file": "microntechnologyinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 455.07,
     "marketCap": "513197464569",
@@ -8860,6 +10436,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -8891,7 +10475,7 @@
     "file": "microsoftcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 422.79,
     "marketCap": "3139482000000",
@@ -8906,6 +10490,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -8937,7 +10529,7 @@
     "file": "midwichgroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 161,
     "marketCap": "169283450",
@@ -8950,6 +10542,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -9004,6 +10604,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -9029,7 +10637,7 @@
     "file": "mondelezinternationalinccommonstock.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 57.25,
     "marketCap": "73477856000",
@@ -9044,6 +10652,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -9075,7 +10691,7 @@
     "file": "mongodbinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 249.38,
     "marketCap": null,
@@ -9087,6 +10703,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -9118,7 +10742,7 @@
     "file": "morganstanley.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "USD",
     "price": 188.82,
     "marketCap": "298597316102",
@@ -9132,6 +10756,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -9163,7 +10795,7 @@
     "file": "mortgageadvicebureauholdingsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "GBX",
     "price": 610,
     "marketCap": "352469163",
@@ -9176,6 +10808,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -9207,7 +10847,7 @@
     "file": "mpevansgroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 1625.79,
     "marketCap": "851720023",
@@ -9220,6 +10860,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -9251,7 +10899,7 @@
     "file": "navitassemiconductorcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 12.32,
     "marketCap": "2843365993",
@@ -9264,6 +10912,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -9299,7 +10955,7 @@
     "file": "netflixinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 97.31,
     "marketCap": "410858476601",
@@ -9313,6 +10969,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -9344,7 +11008,7 @@
     "file": "nexteraenergyinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 91.98,
     "marketCap": "191806176940",
@@ -9357,6 +11021,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -9388,7 +11060,7 @@
     "file": "nicholsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 950,
     "marketCap": "347410915",
@@ -9401,6 +11073,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -9432,7 +11112,7 @@
     "file": "nikeinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 46.03,
     "marketCap": "68165226802",
@@ -9447,6 +11127,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -9482,7 +11170,7 @@
     "file": "nioincadr.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 6.83,
     "marketCap": "16707402383",
@@ -9494,6 +11182,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -9529,7 +11225,7 @@
     "file": "nioxgroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 57.4,
     "marketCap": "239974700",
@@ -9542,6 +11238,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -9573,7 +11277,7 @@
     "file": "northropgrummancorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 665.26,
     "marketCap": "94488941493",
@@ -9588,6 +11292,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -9619,7 +11331,7 @@
     "file": "nuscalepowercorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 67,
     "currency": "USD",
     "price": 12.65,
     "marketCap": "4340333779",
@@ -9631,6 +11343,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -9666,7 +11386,7 @@
     "file": "nvidiacorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 71,
     "currency": "USD",
     "price": 201.68,
     "marketCap": "4900824000000",
@@ -9681,6 +11401,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -9738,6 +11466,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -9763,7 +11499,7 @@
     "file": "okloinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 66.81,
     "marketCap": "11596124423",
@@ -9775,6 +11511,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -9810,7 +11554,7 @@
     "file": "ondoinsurtechplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "GBX",
     "price": 15,
     "marketCap": "22472205",
@@ -9823,6 +11567,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -9858,7 +11610,7 @@
     "file": "oraclecorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 70,
     "currency": "USD",
     "price": 175.06,
     "marketCap": "503480430678",
@@ -9873,6 +11625,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -9904,7 +11664,7 @@
     "file": "palantirtechnologiesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 66,
+    "conviction": 68,
     "currency": "USD",
     "price": 146.39,
     "marketCap": "349970300000",
@@ -9917,6 +11677,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
       {
         "date": "2026-04-18",
         "conviction": 66
@@ -9948,7 +11716,7 @@
     "file": "paloaltonetworksinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 66,
+    "conviction": 68,
     "currency": "USD",
     "price": 167.85,
     "marketCap": "136126371734",
@@ -9962,6 +11730,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
       {
         "date": "2026-04-18",
         "conviction": 66
@@ -9997,7 +11773,7 @@
     "file": "panafricanresourcesplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "GBX",
     "price": 155.95,
     "marketCap": "3169568284",
@@ -10010,6 +11786,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -10041,7 +11825,7 @@
     "file": "pantheonresourcesplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 10.27,
     "marketCap": "149735990",
@@ -10054,6 +11838,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -10097,6 +11889,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -10151,6 +11951,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 70
       },
       {
@@ -10176,7 +11984,7 @@
     "file": "pepsicoinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 157.67,
     "marketCap": "215498400000",
@@ -10191,6 +11999,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -10222,7 +12038,7 @@
     "file": "permanenttsbgroupholdingsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "EUR",
     "price": 2.89,
     "marketCap": "1591941685",
@@ -10235,6 +12051,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -10289,6 +12113,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -10310,7 +12142,7 @@
     "file": "pfizerinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 27.56,
     "marketCap": "156771033202",
@@ -10325,6 +12157,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -10356,7 +12196,7 @@
     "file": "philipmorrisinternationalinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 157.79,
     "marketCap": "245920438236",
@@ -10369,6 +12209,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -10400,7 +12248,7 @@
     "file": "phillips66.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 156.37,
     "marketCap": "62701647204",
@@ -10413,6 +12261,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -10444,7 +12300,7 @@
     "file": "planetlabspbc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 67,
     "currency": "USD",
     "price": 36.55,
     "marketCap": null,
@@ -10456,6 +12312,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -10505,6 +12369,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 70
       },
       {
@@ -10530,7 +12402,7 @@
     "file": "proctergambleco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 146.93,
     "marketCap": "341465449908",
@@ -10545,6 +12417,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -10576,7 +12456,7 @@
     "file": "progressivecorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 202.58,
     "marketCap": "118387773328",
@@ -10589,6 +12469,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -10643,6 +12531,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -10668,7 +12564,7 @@
     "file": "prothenacorporationplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 10.9,
     "marketCap": "586779500",
@@ -10681,6 +12577,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -10712,7 +12616,7 @@
     "file": "prudentialfinancialinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 101.65,
     "marketCap": "35355771385",
@@ -10725,6 +12629,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -10756,7 +12668,7 @@
     "file": "qedoncologyinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 3.2,
     "marketCap": "64099936",
@@ -10769,6 +12681,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -10804,7 +12724,7 @@
     "file": "qualcomminc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 136.2,
     "marketCap": "145325400000",
@@ -10819,6 +12739,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -10849,8 +12777,8 @@
     "exchange": "",
     "file": "redcentricplc.html",
     "date": "2026-04-18",
-    "recommendation": "BUY",
-    "conviction": 67,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "conviction": 64,
     "currency": "GBX",
     "price": 116.5,
     "marketCap": "185603373",
@@ -10863,6 +12791,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 61
+      },
       {
         "date": "2026-04-18",
         "conviction": 67
@@ -10893,8 +12829,8 @@
     "exchange": "",
     "file": "renewholdingsplc.html",
     "date": "2026-04-18",
-    "recommendation": "BUY",
-    "conviction": 76,
+    "recommendation": "BUY (STRONG)",
+    "conviction": 81,
     "currency": "GBX",
     "price": 956,
     "marketCap": "756803155",
@@ -10907,6 +12843,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 81
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 78
+      },
       {
         "date": "2026-04-18",
         "conviction": 76
@@ -10961,6 +12905,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -10982,7 +12934,7 @@
     "file": "rhiofficegroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 67,
     "currency": "EUR",
     "price": 32.52,
     "marketCap": "9356615892",
@@ -10995,6 +12947,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -11049,6 +13009,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -11075,7 +13043,7 @@
     "file": "rigetticomputinginc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 67,
     "currency": "USD",
     "price": 19.81,
     "marketCap": "6579902000",
@@ -11087,6 +13055,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -11145,6 +13121,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -11166,7 +13150,7 @@
     "file": "rtxcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 70,
     "currency": "USD",
     "price": 196.42,
     "marketCap": "264376210615",
@@ -11181,6 +13165,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -11212,7 +13204,7 @@
     "file": "rwsholdingsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 84.95,
     "marketCap": "315303212",
@@ -11225,6 +13217,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -11256,7 +13256,7 @@
     "file": "ryanairholdingsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 79,
     "currency": "USD",
     "price": 62.03,
     "marketCap": "31607010000",
@@ -11269,6 +13269,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 79
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 76
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -11300,7 +13308,7 @@
     "file": "salesforceinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 182.14,
     "marketCap": "168115255864",
@@ -11315,6 +13323,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -11346,7 +13362,7 @@
     "file": "sciencegroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 573.5,
     "marketCap": "237038600",
@@ -11359,6 +13375,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -11409,6 +13433,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 61
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 62
       },
       {
@@ -11434,7 +13466,7 @@
     "file": "sericaenergyplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "GBX",
     "price": 244,
     "marketCap": "952924920",
@@ -11447,6 +13479,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -11478,7 +13518,7 @@
     "file": "servicenowinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 71,
     "currency": "USD",
     "price": 96.66,
     "marketCap": "100154842754",
@@ -11492,6 +13532,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -11527,7 +13575,7 @@
     "file": "shopifyinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 120.1,
     "marketCap": null,
@@ -11539,6 +13587,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -11570,7 +13626,7 @@
     "file": "sigmarocplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 135,
     "marketCap": "1505052900",
@@ -11583,6 +13639,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -11614,7 +13678,7 @@
     "file": "simonpropertygroupinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 206.23,
     "marketCap": "66993422275",
@@ -11627,6 +13691,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -11658,7 +13730,7 @@
     "file": "simulationsplusinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 14.37,
     "marketCap": "290352745",
@@ -11671,6 +13743,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -11702,7 +13782,7 @@
     "file": "siverssemiconductorsab.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "SEK",
     "price": 20.78,
     "marketCap": null,
@@ -11714,6 +13794,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -11745,7 +13833,7 @@
     "file": "smartmeteringsystemsplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "AUD",
     "price": 0.05,
     "marketCap": "12958416",
@@ -11758,6 +13846,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -11789,7 +13885,7 @@
     "file": "smurfitwestrockplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 42.24,
     "marketCap": "22144472943",
@@ -11802,6 +13898,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -11837,7 +13941,7 @@
     "file": "someroenterprisesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 187,
     "marketCap": "101120998",
@@ -11849,6 +13953,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -11880,7 +13992,7 @@
     "file": "southernco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 94.51,
     "marketCap": "106541503448",
@@ -11894,6 +14006,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -11937,6 +14057,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -11993,6 +14121,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 61
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 62
       },
       {
@@ -12018,7 +14154,7 @@
     "file": "sterisplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 225.79,
     "marketCap": "22144355849",
@@ -12031,6 +14167,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -12066,7 +14210,7 @@
     "file": "stonexgroupinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 73,
     "currency": "USD",
     "price": 106.03,
     "marketCap": "8344027573",
@@ -12079,6 +14223,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -12110,7 +14262,7 @@
     "file": "syscocorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 73,
     "currency": "USD",
     "price": 76.27,
     "marketCap": "36470649708",
@@ -12123,6 +14275,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -12154,7 +14314,7 @@
     "file": "tbn.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "AUD",
     "price": 0.26,
     "marketCap": "932169465",
@@ -12167,6 +14327,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -12203,7 +14371,7 @@
     "file": "targetcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 127.84,
     "marketCap": "57893058245",
@@ -12218,6 +14386,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -12249,7 +14425,7 @@
     "file": "tattonassetmanagementplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "GBX",
     "price": 633,
     "marketCap": "388040520",
@@ -12262,6 +14438,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -12293,7 +14477,7 @@
     "file": "teaminternetgroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 35.5,
     "marketCap": "87458180",
@@ -12306,6 +14490,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -12337,7 +14529,7 @@
     "file": "teledynetechnologiesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 660.31,
     "marketCap": null,
@@ -12349,6 +14541,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -12380,7 +14580,7 @@
     "file": "teslainc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 66,
+    "conviction": 68,
     "currency": "USD",
     "price": 400.62,
     "marketCap": "1255330736099",
@@ -12395,6 +14595,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
       {
         "date": "2026-04-18",
         "conviction": 66
@@ -12450,6 +14658,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -12471,7 +14687,7 @@
     "file": "thepebblegroupplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 452.88,
     "marketCap": "287521500",
@@ -12484,6 +14700,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -12515,7 +14739,7 @@
     "file": "thermofisherscientificinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 526.6,
     "marketCap": "195695767507",
@@ -12530,6 +14754,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -12561,7 +14793,7 @@
     "file": "thorexplorationsltd.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 80.32,
     "marketCap": "999130100",
@@ -12573,6 +14805,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -12604,7 +14844,7 @@
     "file": "tjxcompaniesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 160.68,
     "marketCap": "177842222693",
@@ -12617,6 +14857,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -12648,7 +14896,7 @@
     "file": "tmobileusinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 197.67,
     "marketCap": "217805059522",
@@ -12661,6 +14909,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -12692,7 +14948,7 @@
     "file": "tomcoenergyplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 69,
     "currency": "GBX",
     "price": 0.03,
     "marketCap": "1876940",
@@ -12704,6 +14960,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -12762,6 +15026,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 65
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 51
       },
       {
@@ -12783,7 +15055,7 @@
     "file": "tranetechnologiesplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 73,
     "currency": "USD",
     "price": 476.11,
     "marketCap": "105378280055",
@@ -12796,6 +15068,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -12850,6 +15130,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -12875,7 +15163,7 @@
     "file": "tristelplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "GBX",
     "price": 392,
     "marketCap": "187891597",
@@ -12888,6 +15176,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -12919,7 +15215,7 @@
     "file": "ubertechnologiesinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 77.12,
     "marketCap": "157079949594",
@@ -12932,6 +15228,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -12963,7 +15267,7 @@
     "file": "unionpacificcorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 251.14,
     "marketCap": "149096342785",
@@ -12977,6 +15281,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -13008,7 +15320,7 @@
     "file": "unipharplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 351.5,
     "marketCap": "1061620537",
@@ -13021,6 +15333,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -13052,7 +15372,7 @@
     "file": "unitedairlinesholdingsinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 71,
     "currency": "USD",
     "price": 101.8,
     "marketCap": "33049299730",
@@ -13065,6 +15385,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -13096,7 +15424,7 @@
     "file": "unitedhealthgroupinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 324.63,
     "marketCap": "294658766923",
@@ -13111,6 +15439,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -13142,7 +15478,7 @@
     "file": "unitedparcelserviceinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 106.44,
     "marketCap": "90439174906",
@@ -13157,6 +15493,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -13188,7 +15532,7 @@
     "file": "usbancorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "USD",
     "price": 56.93,
     "marketCap": "88369706833",
@@ -13201,6 +15545,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -13232,7 +15584,7 @@
     "file": "valeroenergycorp.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 223.65,
     "marketCap": "66860970815",
@@ -13245,6 +15597,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -13276,7 +15636,7 @@
     "file": "vanguardallequityetfportfolio.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "CAD",
     "price": 57.71,
     "marketCap": "#N/A",
@@ -13288,6 +15648,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -13323,7 +15691,7 @@
     "file": "vastresourcesplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 69,
     "currency": "GBX",
     "price": 0.13,
     "marketCap": "6001470",
@@ -13336,6 +15704,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -13367,7 +15743,7 @@
     "file": "verizoncommunicationsinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "USD",
     "price": 46.55,
     "marketCap": "194578996810",
@@ -13382,6 +15758,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -13435,6 +15819,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -13456,7 +15848,7 @@
     "file": "visainc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 75,
     "currency": "USD",
     "price": 317.02,
     "marketCap": "604242952239",
@@ -13471,6 +15863,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -13502,7 +15902,7 @@
     "file": "volexplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 75,
     "currency": "GBX",
     "price": 544,
     "marketCap": "1009469248",
@@ -13515,6 +15915,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 75
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -13546,7 +15954,7 @@
     "file": "walgreenbootsallianceordshs.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 67,
     "currency": "MXN",
     "price": 222,
     "marketCap": "10369413195",
@@ -13561,6 +15969,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 64
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -13592,7 +16008,7 @@
     "file": "walmartinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 69,
+    "conviction": 71,
     "currency": "USD",
     "price": 127.5,
     "marketCap": "1016481255000",
@@ -13607,6 +16023,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 69
@@ -13638,7 +16062,7 @@
     "file": "dis.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 73,
+    "conviction": 77,
     "currency": "USD",
     "price": 106.29,
     "marketCap": "188294756131",
@@ -13652,6 +16076,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -13688,7 +16120,7 @@
     "file": "wellsfargoco.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "USD",
     "price": 81.41,
     "marketCap": "249464674221",
@@ -13703,6 +16135,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -13756,6 +16196,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -13777,7 +16225,7 @@
     "file": "xpengincadr.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 17.8,
     "marketCap": null,
@@ -13789,6 +16237,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -13820,7 +16276,7 @@
     "file": "yellowcakeplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 617.5,
     "marketCap": "1564104652",
@@ -13832,6 +16288,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -13863,7 +16327,7 @@
     "file": "yougovplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 75,
+    "conviction": 77,
     "currency": "GBX",
     "price": 195,
     "marketCap": "229371090",
@@ -13876,6 +16340,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -13906,8 +16378,8 @@
     "exchange": "",
     "file": "yugroupplc.html",
     "date": "2026-04-18",
-    "recommendation": "BUY",
-    "conviction": 76,
+    "recommendation": "BUY (STRONG)",
+    "conviction": 81,
     "currency": "GBX",
     "price": 1712.2,
     "marketCap": "293438026",
@@ -13920,6 +16392,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 81
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 78
+      },
       {
         "date": "2026-04-18",
         "conviction": 76
@@ -13951,7 +16431,7 @@
     "file": "zephyrenergyplc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 72,
+    "conviction": 74,
     "currency": "GBX",
     "price": 3.05,
     "marketCap": "64128188",
@@ -13964,6 +16444,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72
@@ -13999,7 +16487,7 @@
     "file": "zymeworksinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 70,
+    "conviction": 71,
     "currency": "USD",
     "price": 27.8,
     "marketCap": "2050238545",
@@ -14011,6 +16499,14 @@
     "marketCapAtLastReport": null,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 68
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -14046,7 +16542,7 @@
     "file": "artechelantegielkarteasa.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 71,
+    "conviction": 72,
     "currency": "EUR",
     "price": 28,
     "marketCap": "1610175742",
@@ -14059,6 +16555,14 @@
     "marketCapAtLastReport": 1600000000,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
       {
         "date": "2026-04-18",
         "conviction": 71
@@ -14090,7 +16594,7 @@
     "file": "krakenroboticsinc.html",
     "date": "2026-04-18",
     "recommendation": "BUY",
-    "conviction": 68,
+    "conviction": 70,
     "currency": "CAD",
     "price": 8.8,
     "marketCap": "2700920000",
@@ -14103,6 +16607,14 @@
     "marketCapAtLastReport": 2659250897,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 66
+      },
       {
         "date": "2026-04-18",
         "conviction": 68
@@ -14147,6 +16659,14 @@
     "marketCapAtLastReport": 428490555,
     "peAtLastReport": null,
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
       {
         "date": "2026-04-18",
         "conviction": 70
@@ -14205,6 +16725,14 @@
       },
       {
         "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
         "conviction": 54
       },
       {
@@ -14223,8 +16751,8 @@
     "file": "warpaintlondonplc.html",
     "date": "2026-04-18",
     "price": 225,
-    "conviction": 76,
-    "recommendation": "BUY",
+    "conviction": 81,
+    "recommendation": "BUY (STRONG)",
     "summary": "Warpaint London is a UK-based beauty and cosmetics company specialising in own-brand white label and branded nail polish, hand care and foot care products sold to retailers and distributors globally.",
     "universes": [
       "watchlist"
@@ -14236,6 +16764,14 @@
     "isin": "GB00BYV08Z18",
     "slug": "w7l.html",
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 81
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 78
+      },
       {
         "date": "2026-04-18",
         "conviction": 76
@@ -14264,7 +16800,7 @@
     "file": "youngandcobreweryordshs.html",
     "date": "2026-04-18",
     "price": 849,
-    "conviction": 71,
+    "conviction": 72,
     "recommendation": "BUY",
     "summary": "Young & Co's Brewery is a UK pub company and brewer operating managed and tenanted pubs across the UK, with a focus on premium wet-led pubs and experiential hospitality venues.",
     "universes": [
@@ -14277,6 +16813,14 @@
     "isin": "GB00B2T1S656",
     "slug": "ynga.html",
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
       {
         "date": "2026-04-18",
         "conviction": 71
@@ -14305,7 +16849,7 @@
     "file": "petrotalcorp.html",
     "date": "2026-04-18",
     "price": 26,
-    "conviction": 73,
+    "conviction": 77,
     "recommendation": "BUY",
     "summary": "Petrotal is a Canadian-listed oil producer focused on the Bretana field in Peru, with production weighted to the domestic market and growth optionality through field development.",
     "universes": [
@@ -14318,6 +16862,14 @@
     "isin": "CA71677J1012",
     "slug": "ptal.html",
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 73
@@ -14346,8 +16898,8 @@
     "file": "supremeplc.html",
     "date": "2026-04-18",
     "price": 142,
-    "conviction": 76,
-    "recommendation": "BUY",
+    "conviction": 81,
+    "recommendation": "BUY (STRONG)",
     "summary": "Supreme is a UK-based supplier of brandedfast-moving consumer goods, household products and operational equipment serving UK retail, wholesale and foodservice channels.",
     "universes": [
       "watchlist"
@@ -14359,6 +16911,14 @@
     "isin": "GB00BDZ6CF00",
     "slug": "sup.html",
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 81
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 78
+      },
       {
         "date": "2026-04-18",
         "conviction": 76
@@ -14387,7 +16947,7 @@
     "file": "jameshalsteadplc.html",
     "date": "2026-04-18",
     "price": 144.65,
-    "conviction": 75,
+    "conviction": 77,
     "recommendation": "BUY",
     "summary": "James Halstead is a UK manufacturer and distributor of commercial floor coverings, synthetic surfaces and industrial rubber products sold to contractors, retailers and distributors globally.",
     "universes": [
@@ -14400,6 +16960,14 @@
     "isin": "GB0004052105",
     "slug": "jhd.html",
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -14428,7 +16996,7 @@
     "file": "vertumotorsplc.html",
     "date": "2026-04-18",
     "price": 63.9,
-    "conviction": 75,
+    "conviction": 77,
     "recommendation": "BUY",
     "summary": "Vertu Motors is a UK automotive retail group operating franchised dealership sites across the UK, representing volume and premium motor brands and providing aftersales services.",
     "universes": [
@@ -14441,6 +17009,14 @@
     "isin": "GB00B1GK6S14",
     "slug": "vtu.html",
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -14469,7 +17045,7 @@
     "file": "msinternationalplc.html",
     "date": "2026-04-18",
     "price": 1600,
-    "conviction": 75,
+    "conviction": 77,
     "recommendation": "BUY",
     "summary": "MS International is a UK-based engineering and manufacturing group serving the defence, security and industrial markets, with products including naval marine components and industrial equipment.",
     "universes": [
@@ -14482,6 +17058,14 @@
     "isin": "GB0006030996",
     "slug": "msi.html",
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 77
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
       {
         "date": "2026-04-18",
         "conviction": 75
@@ -14510,7 +17094,7 @@
     "file": "avactagroupplc.html",
     "date": "2026-04-18",
     "price": 77,
-    "conviction": 72,
+    "conviction": 74,
     "recommendation": "BUY",
     "summary": "Avacta Group is a UK-listed biotech developing cancer therapeutics via its Affimer scaffold and pre|CISION FAP-targeted platform. Lead programme faridaksorubicin in Phase 1 with data expected H1 2026. AACR 2026 presentations concluded. P/E N/M, pre-revenue. Market cap GBP 351M. BUY 68/100.",
     "universes": [
@@ -14523,6 +17107,14 @@
     "isin": "GB00BYYW9G87",
     "slug": "avactagroupplc.html",
     "convictionHistory": [
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
       {
         "date": "2026-04-18",
         "conviction": 72

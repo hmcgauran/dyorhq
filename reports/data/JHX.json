@@ -8,8 +8,8 @@
     "datePublished": "2026-04-18",
     "recommendation": "BUY",
     "recommendationNote": "SPECULATIVE BUY",
-    "conviction": 68,
-    "lastRefreshed": "2026-04-18T15:09:10.385Z",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:21:22.643Z",
     "universes": [
       "irish",
       "watchlist"
@@ -43,13 +43,13 @@
     "sources": ""
   },
   "scenario": {
-    "bullProbability": 25,
-    "bullScore": 88,
-    "baseProbability": 57,
+    "bullProbability": 32,
+    "bullScore": 92,
+    "baseProbability": 54,
     "baseScore": 68,
-    "bearProbability": 18,
-    "bearScore": 38,
-    "conviction": 68
+    "bearProbability": 14,
+    "bearScore": 25,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
@@ -92,10 +92,10 @@
   },
   "scores": {
     "current": {
-      "score": 68,
+      "score": 70,
       "band": "BUY",
       "date": "2026-04-18",
-      "delta": "3",
+      "delta": "4",
       "reason": "Formula fix"
     },
     "history": [
