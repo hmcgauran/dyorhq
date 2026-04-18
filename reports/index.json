@@ -4937,6 +4937,7 @@
     "recommendation": "BUY",
     "summary": "Kingspan Group ADR (KGSPY) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is BUY with conviction 84/100, using $90.15 as the latest stored price reference where available",
     "universes": [
+      "irish",
       "watchlist"
     ],
     "marketCap": 17498724880,

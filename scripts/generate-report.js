@@ -583,25 +583,77 @@ async function main() {
   const conviction = calcConviction({ price, P_E: pe, marketCap }, grok.score);
   console.log(`  ${conviction.bullP}% Bull / ${conviction.baseP}% Base / ${conviction.bearP}% Bear -> ${conviction.calc}/100`);
 
-  // 7. HTML
-  console.log('[7/8] Writing HTML...');
-  const { slug: htmlSlug } = writeHtml(ticker, {
-    company: sheetData?.company || exchange || ticker,
-    price,
-    P_E: pe,
-    marketCap,
-    currency,
-    summary: sheetData?.summary || '',
-    sections: {
-      'Business Model': { text: 'Data not yet available.' },
-      'Financial Snapshot': { price, PE: pe, eps, marketCap, week52High, week52Low, revenueTTM: fmpData?.revenueTTM, grossMargin: fmpData?.grossMargin },
-      'Recent Catalysts': { text: 'No catalysts data.' },
-      'Thesis Evaluation': { text: 'Thesis under review.' },
-      'Key Risks': { text: 'No risk data available.' },
-      'Who Should Own It': { text: 'Under review.' },
-      'Entry': { text: 'Under review.' },
+  // 7. Persist data JSON
+  console.log('[7/8] Persisting data JSON...');
+  const dataJson = {
+    meta: {
+      ticker,
+      company: sheetData?.company || exchange || ticker,
+      exchange,
+      isin,
+      date: TODAY,
+      datePublished: TODAY,
+      recommendation: recFromConviction(conviction.calc),
+      recommendationNote: recFromConviction(conviction.calc),
+      conviction: conviction.calc,
+      lastRefreshed: new Date().toISOString(),
+      universes: ['watchlist'],
     },
-  }, grok, webResults, conviction);
+    price: {
+      current: price,
+      currency: currency || 'USD',
+      marketCap,
+      pe,
+      eps,
+      week52High,
+      week52Low,
+      beta: fmpData?.beta || sheetData?.beta || null,
+      avgVolume: sheetData?.avgVolume || null,
+      sharesOutstanding: fmpData?.sharesOutstanding || null,
+    },
+    grok: {
+      score: grok?.score ?? null,
+      signal: grok?.signal || null,
+      keyThemes: grok?.key_themes || [],
+      summary: grok?.summary || '',
+      bullCase: grok?.bull_case || '',
+      bearCase: grok?.bear_case || '',
+      sources: grok?.sources || '',
+    },
+    scenario: {
+      bullProbability: conviction.bullP,
+      bullScore: conviction.bullS,
+      baseProbability: conviction.baseP,
+      baseScore: conviction.baseS,
+      bearProbability: conviction.bearP,
+      bearScore: conviction.bearS,
+      conviction: conviction.calc,
+    },
+    sections: {
+      executiveSummary: { text: sheetData?.summary || '' },
+      businessModel: { text: '' },
+      financialSnapshot: {
+        price, pe, eps, marketCap,
+        week52High, week52Low,
+        revenueTTM: fmpData?.revenueTTM || null,
+        grossMargin: fmpData?.grossMargin || null,
+      },
+      recentCatalysts: { text: '' },
+      thesisEvaluation: { text: '' },
+      keyRisks: { text: '' },
+      whoShouldOwnIt: { text: '' },
+      recommendation: { text: '' },
+      entry: { text: '' },
+      sources: { text: '' },
+    },
+    scores: {
+      current: { score: conviction.calc, band: recFromConviction(conviction.calc), date: TODAY, delta: '0', reason: 'Generated' },
+      history: [],
+    },
+  };
+  const tickerFile = ticker.replace(PREFIX_RE, '').toUpperCase();
+  saveJson(path.join(DATA_DIR, `${tickerFile}.json`), dataJson);
+  console.log(`  Data JSON written to reports/data/${tickerFile}.json`);
 
   // 8. Index
   console.log('[8/8] Updating index...');

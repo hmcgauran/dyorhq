@@ -1,36 +1,7 @@
 {
-  "generatedAt": "2026-04-17T19:05:43.463Z",
+  "generatedAt": "2026-04-18T08:29:03.325Z",
   "sheetRows": 327,
-  "matchedCount": 320,
-  "unmatchedCount": 7,
-  "unmatched": [
-    {
-      "row": 89,
-      "ticker": "LON:W7L"
-    },
-    {
-      "row": 251,
-      "ticker": "LON:YNGA"
-    },
-    {
-      "row": 270,
-      "ticker": "LON:PTAL"
-    },
-    {
-      "row": 275,
-      "ticker": "LON:SUP"
-    },
-    {
-      "row": 276,
-      "ticker": "LON:JHD"
-    },
-    {
-      "row": 284,
-      "ticker": "LON:VTU"
-    },
-    {
-      "row": 289,
-      "ticker": "LON:MSI"
-    }
-  ]
+  "matchedCount": 327,
+  "unmatchedCount": 0,
+  "unmatched": []
 }
