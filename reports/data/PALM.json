@@ -1,113 +1,109 @@
 {
   "meta": {
-    "ticker": "PALM.L",
-    "company": "Panther Metals plc",
-    "exchange": "LN",
+    "ticker": "PALM",
+    "company": "PALM.L - Panther Metals plc",
+    "exchange": "LON",
     "isin": "IM00BRF2WV49",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "recommendationNote": "REDUCE - SPECULATIVE",
-    "conviction": 43,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.388Z",
     "universes": [
-      "uk",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 80,
+    "currency": "GBX",
+    "marketCap": "6959989",
+    "pe": null,
+    "eps": -0.52,
+    "week52High": 110,
+    "week52Low": 36,
+    "beta": null,
+    "avgVolume": "43497",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 42,
+    "signal": "negative",
+    "keyThemes": [
+      "exploration challenges",
+      "market uncertainty",
+      "limited catalysts",
+      "price decline"
+    ],
+    "summary": "Panther Metals plc (PALM.L) shows a negative sentiment with recent news highlighting operational challenges in exploration projects and a lack of significant positive updates. Analyst tone remains cautious, and price momentum has been downward, with no major near-term catalysts to drive recovery.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 32,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 14,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Panther Metals is firmly in the small-cap exploration camp where upside can be dramatic, but the path is usually through dilution, volatility and a lot of hope. At 80.0p, up on the day with limited volume, this is still a speculative mining punt rather than a business-quality investment. Bottom line: REDUCE - SPECULATIVE . It can move hard on exploration excitement, but there is not enough here to justify treating it as anything other than high-risk optionality."
+      "text": "Panther Metals is firmly in the small-cap exploration camp where upside can be dramatic, but the path is usually through dilution, volatility and a lot of hope. At 80.0p, up on the day with limited volume, this is still a speculative mining punt rather than a business-quality investment."
     },
     "businessModel": {
-      "text": "Panther Metals is an exploration vehicle. Value depends on drilling success, asset progression, market appetite for funding and eventual monetisation routes. There is no operating cash-flow base to stabilise the equity. That means the listed share is effectively a speculative claim on future exploration success."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: 80.0p Day range: 75.0p - 81.4p Volume: 15,846 shares P/E: unavailable on current live pull EPS: unavailable on current live pull The light volume is a warning. These moves can look more meaningful than they are.",
-      "table": []
+      "price": 80,
+      "pe": null,
+      "eps": -0.52,
+      "marketCap": "6959989",
+      "week52High": 110,
+      "week52Low": 36,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Exploration updates are the only thing that really matters. Gold and strategic metals sentiment can help, but only briefly if drilling does not deliver. Funding conditions remain central for all small-cap explorers.",
-      "items": [
-        "Exploration updates are the only thing that really matters.",
-        "Gold and strategic metals sentiment can help, but only briefly if drilling does not deliver.",
-        "Funding conditions remain central for all small-cap explorers."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (20%): exploration success materially rerates the stock. Base (45%): the company drifts as a speculative explorer with intermittent trading spikes. Bear (35%): dilution or disappointing results pressure the equity. Weighted conviction: 43/100.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Exploration risk: the core risk in any junior miner. Dilution risk: likely if progress is to continue. Liquidity risk: small volumes can make exits difficult.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Exploration risk: the core risk in any junior miner."
-        },
-        {
-          "rank": 2,
-          "risk": "Dilution risk: likely if progress is to continue."
-        },
-        {
-          "rank": 3,
-          "risk": "Liquidity risk: small volumes can make exits difficult."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: only speculative junior mining punters. Should avoid: anyone who wants operating resilience or dependable fundamentals."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - SPECULATIVE at 80.0p. Exploration optionality exists, but risk dominates."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Below 65p: more interesting for punters only 65p-85p: speculative hold range Any sharp spike on news: use to reduce Key trigger: materially positive exploration results Conviction Trend Latest conviction: 43/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 43"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price 80.0p",
-        "Day High 81.4p",
-        "Day Low 75.0p",
-        "Volume 15,846"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 43,
-      "band": "REDUCE",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 43,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 43
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 43
       }
     ]
   }

@@ -1,114 +1,110 @@
 {
   "meta": {
     "ticker": "IREN",
-    "company": "Iris Energy Ltd",
-    "exchange": "AU",
+    "company": "IREN - IREN Ltd",
+    "exchange": "#N/A",
     "isin": "AU0000185993",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "HOLD - SPECULATIVE",
-    "recommendationNote": "HOLD - SPECULATIVE",
-    "conviction": 61,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.385Z",
     "universes": [
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 48.12,
+    "currency": "USD",
+    "marketCap": "19199302133",
+    "pe": 36.77,
+    "eps": 1.31,
+    "week52High": 76.87,
+    "week52Low": 5.46,
+    "beta": 4.3,
+    "avgVolume": "33056898",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings growth",
+      "analyst optimism",
+      "bitcoin mining expansion",
+      "price uptrend",
+      "market volatility"
+    ],
+    "summary": "IREN Ltd exhibits a positive sentiment with a score of 65, driven by strong recent earnings, optimistic analyst upgrades, and an upward price trend over the past month. However, exposure to bitcoin mining introduces volatility as a potential risk factor.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "Iris Energy is one of the cleaner listed ways to play the intersection of Bitcoin mining, power infrastructure, and AI/HPC optionality. The market likes that combination, which is why the stock sits just 5.1% below its 52-week high at $36.92. The problem is familiar: when these names are working, they rerate fast and leave little valuation cushion. The bull case is that IREN successfully evolves from a pure mining name into a broader compute infrastructure story. The bear case is that it remains"
+      "text": "Iris Energy is one of the cleaner listed ways to play the intersection of Bitcoin mining, power infrastructure, and AI/HPC optionality. The market likes that combination, which is why the stock sits just 5.1% below its 52-week high at $36.92. The problem is familiar: when these names are working, they rerate fast and leave little valuation cushion."
     },
     "businessModel": {
-      "text": "IREN operates data-centre infrastructure initially built around Bitcoin mining, with a growing narrative around AI and high-performance compute adjacency. The core advantage is access to power and infrastructure in locations where large-scale compute deployment is feasible. The investment case improves materially if management can monetise that infrastructure beyond mining. If not, the name remains highly cyclical and heavily exposed to crypto economics."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: $36.92 Market cap: $11.9B 52-week range: $36.06 - $38.90 P/E: 34.0x EPS: $1.02 Beta: 4.34 High beta tells the story. Even with positive earnings, this is not a low-risk setup.",
-      "table": []
+      "price": 48.12,
+      "pe": 36.77,
+      "eps": 1.31,
+      "marketCap": "19199302133",
+      "week52High": 76.87,
+      "week52Low": 5.46,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "AI/HPC infrastructure narrative has expanded the addressable story beyond Bitcoin mining. Crypto strength continues to support sentiment toward miners with credible power assets. Infrastructure and capacity expansion remain the critical operational driver.",
-      "items": [
-        "AI/HPC infrastructure narrative has expanded the addressable story beyond Bitcoin mining.",
-        "Crypto strength continues to support sentiment toward miners with credible power assets.",
-        "Infrastructure and capacity expansion remain the critical operational driver."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): AI/HPC monetisation gains credibility, Bitcoin stays supportive, and the stock rerates higher. Base (50%): infrastructure story progresses but mining remains the main economic engine, leaving the stock volatile around current levels. Bear (25%): crypto weakens or AI monetisation fails to materialise, resulting in sharp multiple compression. Weighted conviction: 61/100. Real optionality, but still a risk asset.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Bitcoin exposure: core economics remain tied to crypto conditions. Execution risk: AI/HPC optionality must turn into revenue, not just narrative. Extreme volatility: beta above 4 makes this a position-sizing problem as much as an investment one.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Bitcoin exposure: core economics remain tied to crypto conditions."
-        },
-        {
-          "rank": 2,
-          "risk": "Execution risk: AI/HPC optionality must turn into revenue, not just narrative."
-        },
-        {
-          "rank": 3,
-          "risk": "Extreme volatility: beta above 4 makes this a position-sizing problem as much as an investment one."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: investors looking for compute infrastructure optionality with tolerance for crypto-linked volatility. Should avoid: conservative investors and anyone pretending this is a normal infrastructure stock."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD - SPECULATIVE at $36.92. Interesting optionality, but still too volatile to treat as a core holding."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Below $30: better risk/reward $30-$37: hold zone Above $40: trim Key trigger: proof that non-mining compute economics are real and durable Conviction Trend Latest conviction: 61/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 61"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price $36.92",
-        "Market Cap $11.9B",
-        "P/E 34.0x",
-        "52w High $38.90",
-        "52w Low $36.06",
-        "Beta 4.34"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 61,
-      "band": "HOLD",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 61,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 61
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 61
       }
     ]
   }

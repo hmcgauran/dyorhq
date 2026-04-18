@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "strong quarterly results",
+    "rising passenger demand",
+    "fuel cost concerns",
+    "fleet expansion",
+    "competitive pressures"
+  ],
+  "summary": "INDIGO (Interglobe Aviation Ltd) shows a positive sentiment driven by strong quarterly performance and growing passenger demand, though concerns over rising fuel costs and competitive pressures temper optimism. Recent analyst tone is cautiously bullish, supported by upward price momentum and potential near-term catalysts like fleet expansion.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong quarterly results\", \"rising passenger demand\", \"fuel cost concerns\", \"fleet expansion\", \"competitive pressures\"],\n  \"summary\": \"INDIGO (Interglobe Aviation Ltd) shows a positive sentiment driven by strong quarterly performance and growing passenger demand, though concerns over rising fuel costs and competitive pressures temper optimism. Recent analyst tone is cautiously bullish, supported by upward price momentum and potential near-term catalysts like fleet expansion.\"\n}"
+}

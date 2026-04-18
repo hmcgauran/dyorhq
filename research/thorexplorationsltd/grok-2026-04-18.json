@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "gold production",
+    "operational growth",
+    "market conditions",
+    "exploration potential"
+  ],
+  "summary": "Thor Explorations Ltd (THX) shows a positive sentiment driven by steady gold production updates and operational progress at its Segilola mine, alongside favorable analyst commentary on growth potential. Recent price momentum reflects moderate bullishness, with potential near-term catalysts tied to exploration results and gold price trends.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"gold production\", \"operational growth\", \"market conditions\", \"exploration potential\"],\n  \"summary\": \"Thor Explorations Ltd (THX) shows a positive sentiment driven by steady gold production updates and operational progress at its Segilola mine, alongside favorable analyst commentary on growth potential. Recent price momentum reflects moderate bullishness, with potential near-term catalysts tied to exploration results and gold price trends.\"\n}"
+}

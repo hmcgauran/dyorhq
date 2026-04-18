@@ -1,137 +1,109 @@
 {
   "meta": {
     "ticker": "RTX",
-    "company": "RTX Corp",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 64,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "RTX - RTX Corp",
+    "exchange": null,
+    "isin": "US75513E1010",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 69,
+    "lastRefreshed": "2026-04-18T15:09:10.390Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "current": 201.56,
-    "marketCap": 271300000000.0,
-    "marketCapFormatted": "$271.30B",
-    "trailingPE": 40.61,
-    "trailingEps": 4.96,
-    "fiftyTwoWeekHigh": 214.5,
-    "fiftyTwoWeekLow": 112.63,
-    "formatted": ""
+    "current": 196.42,
+    "currency": "USD",
+    "marketCap": "264376210615",
+    "pe": 39.58,
+    "eps": 4.96,
+    "week52High": 214.5,
+    "week52Low": 112.63,
+    "beta": 0.43,
+    "avgVolume": "4752592",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "defense sector growth",
+      "supply chain challenges",
+      "analyst upgrades",
+      "dividend stability"
+    ],
+    "summary": "RTX Corp exhibits a positive sentiment driven by strong quarterly earnings, growth in the defense sector, and recent analyst upgrades, though tempered by ongoing supply chain concerns. Price momentum remains upward with potential catalysts from upcoming defense contracts.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 28,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 15,
+    "bearScore": 38,
+    "conviction": 69
   },
   "sections": {
     "executiveSummary": {
-      "text": "Raytheon's successor entity benefits from substantial defence spending tailwinds and Pratt & Whitney's commercial aviation recovery, but the AGT1000 turbine defect issue and elevated P/E of 40.61x create a more nuanced risk-reward profile - HOLD."
+      "text": "Raytheon's successor entity benefits from substantial defence spending tailwinds and Pratt &amp; Whitney's commercial aviation recovery, but the AGT1000 turbine defect issue and elevated P/E of 40.61x create a more nuanced risk-reward profile - HOLD."
     },
     "businessModel": {
-      "text": "RTX (formed from the United Technologies and Raytheon merger) operates three divisions. Collins Aerospace Systems is a leading supplier of avionics, interiors, sensors and power systems for commercial and defence aviation. Pratt & Whitney manufactures jet engines for commercial and military aircraft, including the Geared Turbofan (GTF) and the F135 fighter engine. Raytheon Missiles & Defence supplies precision weapons, air defence systems (Patriot, Iron Dome in the US), sensors and advanced missiles to the US and allied governments."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$201.56"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$271.3 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "40.61x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$4.96"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$214.5"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$112.63"
-        }
-      ]
+      "price": 196.42,
+      "pe": 39.58,
+      "eps": 4.96,
+      "marketCap": "264376210615",
+      "week52High": 214.5,
+      "week52Low": 112.63,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "The AGT1000 turbofan defect - involving metallic powder contamination in certain engine cohorts - has required a large number of shop visits and engine replacements, primarily affecting Airbus A320neo family aircraft. The commercial narrowbody market remains supply-constrained due to this issue and ongoing aircraft delivery ramp-up. On the defence side, RTX has been a primary beneficiary of increased NATO defence spending and US Army/USAF procurement modernisation budgets. The company won the next-generation Long Range Hypersonic Weapon (LRHW) prime contract."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (76): AGT1000 defect resolution is accelerated, shop visit rates normalise and Pratt & Whitney commercial engine volumes recover strongly. Defence orders accelerate: Patriot battery exports to NATO allies and Arrow 3 programmes. Collins defence content per platform drives above-market growth. EPS reaches $6.50+. Price: $235+. Base Case (63): AGT1000 remediation is ongoing but manageable; the commercial aftermarket grows as the A320neo fleet matures. Defence revenues grow mid-single digit on the back of continued US and allied procurement. Collins commercial aftermarket normalises post-pandemic. EPS grows to $5.50-$6.00. Price: $195-$220. Bear Case (46): AGT1000 defect proves more severe than modelled, requiring a larger-than-expected fleet grounding and materially higher remediation costs. Airbus delivery rates fall short, reducing Pratt & Whitney OEM volumes. Defence budgets tighten in a post-election fiscal consolidation. EPS falls to $4.50-$5.00. Price: below $165. Weighted Score: 64 - Bull 76 × 30% + Base 63 × 50% + Bear 46 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "AGT1000 turbofan defect: The metallic powder contamination issue in certain AGT1000 engines has created a large and ongoing shop visit burden. If the root cause is more systemic than initially assessed, costs could be significantly higher and the fleet grounding more extensive. Defence budget sensitivity: RTX is heavily reliant on US DoD procurement. Changes in administration, shifts in defence priorities (e.g. towards personnel vs. equipment) or fiscal constraints could affect Raytheon Missiles & Defence's order flow. Elevated valuation: At 40.61x P/E, RTX is pricing in a relatively optimistic scenario for the Pratt & Whitney recovery and defence demand. The margin for error is limited. Commercial aerospace cycle: Collins and Pratt & Whitney are exposed to the commercial aviation cycle. A demand slowdown or new aircraft programme delays could impair volumes.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "AGT1000 turbofan defect: The metallic powder contamination issue in certain AGT1000 engines has created a large and ongoing shop visit burden. If the root cause is more systemic than initially assessed, costs could be significantly higher and the fleet grounding more extensive."
-        },
-        {
-          "rank": 2,
-          "risk": "Defence budget sensitivity: RTX is heavily reliant on US DoD procurement. Changes in administration, shifts in defence priorities (e.g. towards personnel vs. equipment) or fiscal constraints could affect Raytheon Missiles & Defence's order flow."
-        },
-        {
-          "rank": 3,
-          "risk": "Elevated valuation: At 40.61x P/E, RTX is pricing in a relatively optimistic scenario for the Pratt & Whitney recovery and defence demand. The margin for error is limited."
-        },
-        {
-          "rank": 4,
-          "risk": "Commercial aerospace cycle: Collins and Pratt & Whitney are exposed to the commercial aviation cycle. A demand slowdown or new aircraft programme delays could impair volumes."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Defence sector investors who want broad Pratt & Whitney and Collins Aerospace exposure alongside Raytheon's missile and defence systems. Those who believe in the NATO spending up-cycle as a multi-year thesis."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. RTX is a high-quality defence prime with genuine exposure to the NATO spending up-cycle and commercial aerospace recovery. The valuation, however, prices in a relatively smooth resolution to the AGT1000 defect and full capture of defence tailwinds. Entry framework: BUY below $160 (approximately 30-32x base-case EPS - provides a margin of safety for the Pratt & Whitney uncertainty and higher discount rate given the cyclical commercial aerospace exposure). Reduce above $210 (36x+ P/E with meaningful execution risk)."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $160 (approximately 30-32x base-case EPS - provides a margin of safety for the Pratt & Whitney uncertainty and higher discount rate given the cyclical commercial aerospace exposure). Reduce above $210 (36x+ P/E with meaningful execution risk). | Entry framework: BUY below $160 (approximately 30-32x base-case EPS - provides a margin of safety for the Pratt & Whitney uncertainty and higher discount rate given the cyclical commercial aerospace exposure). | Reduce above $210 (36x+ P/E with meaningful execution risk)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 64,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 69,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 64,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 64
       }
     ]
   }

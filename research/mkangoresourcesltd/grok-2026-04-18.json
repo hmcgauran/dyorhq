@@ -1,0 +1,11 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "rare earth market challenges",
+    "funding concerns",
+    "project delays"
+  ],
+  "summary": "Mkango Resources Ltd (MKA) faces a negative sentiment due to ongoing challenges in the rare earth market and concerns over project funding and delays. Recent news highlights operational hurdles, with analyst tone remaining cautious and price momentum showing a downward trend, though no immediate catalysts are evident.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"rare earth market challenges\", \"funding concerns\", \"project delays\"],\n  \"summary\": \"Mkango Resources Ltd (MKA) faces a negative sentiment due to ongoing challenges in the rare earth market and concerns over project funding and delays. Recent news highlights operational hurdles, with analyst tone remaining cautious and price momentum showing a downward trend, though no immediate catalysts are evident.\"\n}"
+}

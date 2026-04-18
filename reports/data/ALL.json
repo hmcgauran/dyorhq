@@ -1,139 +1,107 @@
 {
   "meta": {
     "ticker": "ALL",
-    "company": "Allstate Corp",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 48,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "ALL - Allstate Corp",
+    "exchange": "#N/A",
+    "isin": "US0200021014",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.377Z",
     "universes": [
+      "fortune100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 210.99,
-    "marketCap": 54800000000.0,
-    "marketCapFormatted": "$54.80B",
-    "trailingPE": 5.54,
-    "trailingEps": 38.06,
-    "fiftyTwoWeekHigh": 216.75,
-    "fiftyTwoWeekLow": 184.62,
-    "formatted": ""
+    "current": 216.16,
+    "currency": "USD",
+    "marketCap": "55818392497",
+    "pe": 5.68,
+    "eps": 38.06,
+    "week52High": 219.48,
+    "week52Low": 184.62,
+    "beta": 0.22,
+    "avgVolume": "1349674",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "catastrophe losses",
+      "rate increases",
+      "analyst upgrades",
+      "dividend stability"
+    ],
+    "summary": "Allstate Corp (ALL) exhibits a positive sentiment driven by strong recent earnings and analyst upgrades, despite concerns over catastrophe losses. Price momentum remains favorable with potential catalysts from ongoing rate increases and a stable dividend policy.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 38,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 8,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
-      "text": "Allstate's P/E of 5.5x appears spectacularly cheap on reported earnings, but that figure is distorted by elevated catastrophe losses and one-time items that inflate the denominator; the underlying P&C business faces severe structural headwinds in California wildfire exposure and auto insurance loss ratios, making the stock a value trap rather than a bargain - REDUCE is the recommendation."
-    },
-    "businessModel": {
-      "text": "Allstate is one of the largest personal lines insurance carriers in the United States, serving approximately 16 million households. Its core business is personal property and casualty (P&C) insurance - private passenger auto insurance and homeowners insurance - distributed through agents, call centres and digital channels. Auto Insurance is the larger earnings contributor. Homeowners covers direct and indirect property losses from perils including wind, hail, fire and water damage. Allstate also operates Protection Services (mobile device protection, identity protection, warranty products) and a Run-off segment including legacy variable annuity and institutional risk business. The company is in the process of non-renewing approximately 350,000 California homeowner policies due to wildfire risk, which will reduce premium but also reduce tail-risk exposure."
-    },
-    "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$210.99"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$54.8 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "5.54x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$38.06"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$216.75"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$184.62"
-        }
-      ]
-    },
-    "recentCatalysts": {
       "text": "Allstate is executing a strategic reset. The decision to non-renew 350,000 California homeowners policies is the most significant strategic development - California was a loss-making book due to wildfire risk and legal environment. The company is taking significant cat losses in 2025 and 2026 from Hurricanes Helene and Milton and severe convective storm activity in the central US. The auto insurance combined ratio has been improving but remains above 100% in several states. Rate increases have been substantial but lagged the loss cost inflation. The stock is near its 52-week high of $216.75, suggesting the market is pricing in a successful execution of the strategic reset, but the path is fraught with operational and catastrophe risk."
     },
+    "businessModel": {
+      "text": ""
+    },
+    "financialSnapshot": {
+      "price": 216.16,
+      "pe": 5.68,
+      "eps": 38.06,
+      "marketCap": "55818392497",
+      "week52High": 219.48,
+      "week52Low": 184.62,
+      "revenueTTM": null,
+      "grossMargin": null
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
     "thesisEvaluation": {
-      "text": "Bull Case (63): The California non-renewals are completed without major legal or regulatory pushback. Auto loss ratios normalise as rate increases catch up to cost inflation. Cat losses return to average levels. The underlying P&C book is smaller but profitable. Price: $235+. Base Case (48): Auto loss ratios improve gradually. Cat losses remain elevated. California non-renewals proceed broadly as planned. Run-off results are stable. Price: $200-$215. Bear Case (28): Another major wildfire season causes $3+ billion in cat losses. Auto loss ratios remain above 100%, forcing additional rate increases that cause policy churn. California regulatory opposition delays non-renewals. The dividend is cut. Price: $155-$170. Weighted Score: 48 - Bull 63 x 30% + Base 48 x 50% + Bear 28 x 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "California wildfire exposure: Allstate's largest strategic risk is its California homeowners book. The state faces worsening wildfire seasons driven by climate change, and the legal and regulatory environment has been hostile to insurers. The non-renewal programme is the right move but faces political opposition from the California Department of Insurance. Catastrophe loss frequency and severity: Climate change is increasing the frequency and severity of weather-related catastrophes. Allstate's Midwest and Gulf Coast exposure means hurricane and severe storm seasons have an outsized impact on earnings. 2024 and 2025 cat losses have been materially above historical averages. Auto loss ratio pressure: The personal auto insurance business is experiencing elevated loss ratios driven by used car prices, medical cost inflation and distracted driving. Rate increases lag loss cost growth, creating a sustained earnings headwind. Earnings quality and P/E distortion: The 5.5x P/E is misleading. EPS of $38.06 is inflated by one-time items, cat losses and reserve releases. Normalised operating EPS is materially lower, meaning the true P/E on ongoing earnings is considerably higher. Dividend sustainability: With cat losses elevated and auto margins under pressure, the dividend coverage ratio has narrowed. A sustained cat event or further deterioration in auto results could force a dividend cut, which would be a significant overhang on the share price.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "California wildfire exposure: Allstate's largest strategic risk is its California homeowners book. The state faces worsening wildfire seasons driven by climate change, and the legal and regulatory environment has been hostile to insurers. The non-renewal programme is the right move but faces political opposition from the California Department of Insurance."
-        },
-        {
-          "rank": 2,
-          "risk": "Catastrophe loss frequency and severity: Climate change is increasing the frequency and severity of weather-related catastrophes. Allstate's Midwest and Gulf Coast exposure means hurricane and severe storm seasons have an outsized impact on earnings. 2024 and 2025 cat losses have been materially above historical averages."
-        },
-        {
-          "rank": 3,
-          "risk": "Auto loss ratio pressure: The personal auto insurance business is experiencing elevated loss ratios driven by used car prices, medical cost inflation and distracted driving. Rate increases lag loss cost growth, creating a sustained earnings headwind."
-        },
-        {
-          "rank": 4,
-          "risk": "Earnings quality and P/E distortion: The 5.5x P/E is misleading. EPS of $38.06 is inflated by one-time items, cat losses and reserve releases. Normalised operating EPS is materially lower, meaning the true P/E on ongoing earnings is considerably higher."
-        },
-        {
-          "rank": 5,
-          "risk": "Dividend sustainability: With cat losses elevated and auto margins under pressure, the dividend coverage ratio has narrowed. A sustained cat event or further deterioration in auto results could force a dividend cut, which would be a significant overhang on the share price."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Contrarian value investors who believe the California non-renewal strategy will succeed and who are comfortable holding through an elevated cat loss cycle. The 1.8% dividend yield is not compelling enough to hold for income alone."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE. Allstate is navigating a necessary strategic reset that will ultimately make the business smaller but more profitable. However, the near-term cat loss environment is punishing, the auto loss ratio is problematic and the 5.5x P/E is a mirage created by inflated reported earnings. The risk-reward at current levels does not justify a position. Entry framework: Wait for a pullback below $190 before considering a position. A sustained move below $185 would represent a genuine entry point for patient investors who want to accumulate ahead of the strategic reset completion. Reduce any existing positions on rallies toward $215+."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Wait for a pullback below $190 before considering a position. A sustained move below $185 would represent a genuine entry point for patient investors who want to accumulate ahead of the strategic reset completion. Reduce any existing positions on rallies toward $215+. | A sustained move below $185 would represent a genuine entry point for patient investors who want to accumulate ahead of the strategic reset completion. | Reduce any existing positions on rallies toward $215+."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 48,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 73,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 48,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 48
       }
     ]
   }

@@ -1,107 +1,113 @@
 {
   "meta": {
     "ticker": "DE",
-    "company": "Deere &amp; Company",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 67,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "DE - Deere & Company",
+    "exchange": "#N/A",
+    "isin": "US2441991054",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.381Z",
     "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 590.46,
+    "currency": "USD",
+    "marketCap": "159487562292",
+    "pe": 33.29,
+    "eps": 17.74,
+    "week52High": 674.19,
+    "week52Low": 433,
+    "beta": 0.98,
+    "avgVolume": "1346361",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "agriculture demand",
+      "analyst upgrades",
+      "equipment innovation",
+      "macroeconomic uncertainty"
+    ],
+    "summary": "Deere & Company (DE) exhibits a positive sentiment driven by strong recent earnings, robust demand in agriculture, and favorable analyst upgrades. However, macroeconomic uncertainties and potential supply chain disruptions remain concerns.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 30,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 12,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
       "text": "Deere is the world's dominant agricultural and construction equipment manufacturer, benefiting from precision farming technology adoption and infrastructure spending; the stock's valuation near 52-week highs reflects this, leaving limited near-term upside; HOLD at $605.00."
     },
     "businessModel": {
-      "text": "Deere operates two core divisions with distinct end markets. Key revenue streams: Production &amp; Precision Ag: Tractors, combines, sprayers, and seeding equipment; the world's largest producer. Revenue driven by farm income, commodity prices, and fleet replacement cycles. Small Agriculture &amp; Turf: Compact tractors and grounds maintenance equipment for residential, commercial, and municipal use. Construction &amp; Forestry: Excavators, bulldozers, loaders, and forestry equipment; sales track infrastructure spending and housing activity. Financial Services: Captive financing arm providing loans for equipment purchases; generates ~15% of group net income and stabilises group cash flows. Deere's moat is its combination of brand, distribution network, and - increasingly - proprietary precision agriculture technology (SeeScan, ActiveVision) that creates recurring software and service revenue from an installed base of equipment."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 590.46,
+      "pe": 33.29,
+      "eps": 17.74,
+      "marketCap": "159487562292",
+      "week52High": 674.19,
+      "week52Low": 433,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (30% weight) Commodity supercycle driven by global food security concerns; infrastructure spending sustained; precision ag software revenue scales; EPS reaches $48+. Target: $720-780 Base Case (50% weight) Normal replacement cycle; infrastructure spending moderate; commodity prices flat; production efficiency gains offset input inflation; EPS ~$37. Target: $600-635 Bear Case (20% weight) Farm income collapse from commodity price drop; agricultural recession triggers equipment deferrals; construction slows as rate-sensitive projects cancel; EPS falls to $24. Target: $345 Weighted Conviction Score: 67 / 100 - HOLD",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Commodity price sensitivity: Farm equipment purchases are directly driven by farm income, which is a function of commodity prices; a corn price collapse is the single largest demand risk. Interest rate exposure: Both customers' equipment financing costs and DE's own Financial Services business are sensitive to the rate environment; a rate-cutting cycle creates NIM pressure on captive finance. China agricultural demand: Chinese soybean and corn purchasing decisions directly affect global commodity prices and thus Deere's primary end market. Supply chain and tariffs: Steel input costs, component availability, and tariff exposure (particularly on imports from Mexico and China) remain ongoing margin risks. Labour disputes: UAW strikes (2023 demonstrated) can halt production at major US manufacturing facilities; costs and reputational damage are significant.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Commodity price sensitivity: Farm equipment purchases are directly driven by farm income, which is a function of commodity prices; a corn price collapse is the single largest demand risk."
-        },
-        {
-          "rank": 2,
-          "risk": "Interest rate exposure: Both customers' equipment financing costs and DE's own Financial Services business are sensitive to the rate environment; a rate-cutting cycle creates NIM pressure on captive finance."
-        },
-        {
-          "rank": 3,
-          "risk": "China agricultural demand: Chinese soybean and corn purchasing decisions directly affect global commodity prices and thus Deere's primary end market."
-        },
-        {
-          "rank": 4,
-          "risk": "Supply chain and tariffs: Steel input costs, component availability, and tariff exposure (particularly on imports from Mexico and China) remain ongoing margin risks."
-        },
-        {
-          "rank": 5,
-          "risk": "Labour disputes: UAW strikes (2023 demonstrated) can halt production at major US manufacturing facilities; costs and reputational damage are significant."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own It:\n• Industrial investors seeking global equipment dominance with a technology upgrade cycle (precision ag) providing long-term growth runway.\n• Those who believe infrastructure spending will sustain construction equipment demand for multiple years.\n• Investors in agricultural themes who want direct commodity price leverage without equity market volatility.\n\nAvoid It:\n• Near-cycle peak investors - DE is at 52-week high; risk/reward at this level is asymmetric to the downside.\n• Value investors - 16.8x P/E for a highly cyclical industrial is not compelling.\n• Income investors - 1.2% yield is below market; the dividend is not a meaningful return driver."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD Excellent industrial franchise near cycle highs with limited new catalyst; wait for pullback to improve risk/reward before adding. Entry / Exit Framework Conviction Score 67 / 100 - HOLD Entry Below $545 - better entry relative to cycle position Add Below $470 - high conviction pullback zone Reduce / Exit Above $660 - full cycle and premium valuation priced in Time Horizon 18-36 months"
+      "text": ""
     },
-    "entryExit": {
-      "text": "Entry / Exit Framework Conviction Score 67 / 100 - HOLD Entry Below $545 - better entry relative to cycle position Add Below $470 - high conviction pullback zone Reduce / Exit Above $660 - full cycle and premium valuation priced in Time Horizon 18-36 months Sources Live market data via DYOR HQ data pipeline Deere &amp; Company public filings, earnings releases, and investor days USDA farm income forecasts and commodity price data S&amp;P Capital IQ estimates Report generated 11 April 2026. For informational purposes only. Not financial advice."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 67,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 67,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 50
       }
     ]
   }

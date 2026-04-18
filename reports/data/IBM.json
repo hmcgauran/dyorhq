@@ -1,115 +1,109 @@
 {
   "meta": {
     "ticker": "IBM",
-    "company": "IBM",
-    "exchange": "",
-    "isin": "",
-    "date": "",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 62,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "IBM - IBM Common Stock",
+    "exchange": "#N/A",
+    "isin": "US4592001014",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.384Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 253.47,
+    "currency": "USD",
+    "marketCap": "237763529819",
+    "pe": 20.5,
+    "eps": 12.37,
+    "week52High": 324.9,
+    "week52Low": 220.72,
+    "beta": 0.69,
+    "avgVolume": "5021069",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "cloud growth",
+      "AI innovation",
+      "dividend stability",
+      "economic uncertainty",
+      "hybrid cloud strategy"
+    ],
+    "summary": "IBM shows a positive sentiment driven by strong growth in its cloud and AI sectors, with recent news highlighting advancements in hybrid cloud solutions and analyst tone remaining cautiously optimistic. Price momentum has been steady with potential near-term catalysts from upcoming earnings and AI product launches.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "IBM is mid-transition from legacy infrastructure to hybrid cloud and AI services; the Z-Series mainframes and Red Hat integration provide annuity-like revenue stability while the GenAI services ramp remains the swing variable."
     },
     "businessModel": {
-      "text": "Revenue from three segments: Infrastructure (hybrid cloud, mainframes, 35%), Consulting (Red Hat, HashiCorp automation, 30%), and Software (watsonx AI, enterprise databases, 35%). annuity maintenance and professional services."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 253.47,
+      "pe": 20.5,
+      "eps": 12.37,
+      "marketCap": "237763529819",
+      "week52High": 324.9,
+      "week52Low": 220.72,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Granular AI and data platform growing double-digit; IBM's watsonx portfolio gaining enterprise traction Mainframe renewal cycle remains active - Z-system software revenue provides visible annuity base HashiCorp acquisition (mid-2024) deepens infrastructure-automation moat Spin-off of Kyndyl completed Q3 2025, sharpening business profile",
-      "items": [
-        "Granular AI and data platform growing double-digit; IBM's watsonx portfolio gaining enterprise traction",
-        "Mainframe renewal cycle remains active - Z-system software revenue provides visible annuity base",
-        "HashiCorp acquisition (mid-2024) deepens infrastructure-automation moat",
-        "Spin-off of Kyndyl completed Q3 2025, sharpening business profile"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "72 Bull 62 Base 48 Bear 62 Conviction",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "1. Hybrid cloud growth has slowed from peak; watsonx AI services still 2. Revenue has been flat-to-declining for six consecutive quarters (FY24 total $62.8bn) 3. High-margin mainframe software growth is dependent on legacy upgrade cycle continuation 4. Acquisition integration risk: HashiCorp and Kyndyl drag on operating margins 5. Skilled-labour intensity in professional services constrains margin expansion",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "1. Hybrid cloud growth has slowed from peak; watsonx AI services still <5% of revenue"
-        },
-        {
-          "rank": 2,
-          "risk": "2. Revenue has been flat-to-declining for six consecutive quarters (FY24 total $62.8bn)"
-        },
-        {
-          "rank": 3,
-          "risk": "3. High-margin mainframe software growth is dependent on legacy upgrade cycle continuation"
-        },
-        {
-          "rank": 4,
-          "risk": "4. Acquisition integration risk: HashiCorp and Kyndyl drag on operating margins"
-        },
-        {
-          "rank": 5,
-          "risk": "5. Skilled-labour intensity in professional services constrains margin expansion"
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Long-term infrastructure-focused investors seeking modest capital appreciation with defensive yield. Value-oriented allocators comfortable with flat revenue growth in exchange for stable mainframe annuity. NOT suitable for growth investors expecting accelerating top-line expansion."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
       "text": ""
     },
-    "entryExit": {
-      "text": "Average into a $216-$224 zone (20-25% below 52w high). HOLD in $224-$248 range. REDUCE above $248. Key trigger: watsonx AI services revenue run-rate breaks $5bn annually. | BUY: Average into a $216-$224 zone (20-25% below 52w high). | REDUCE above $248."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 62,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 62,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 62
       }
     ]
   }

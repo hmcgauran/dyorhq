@@ -1,0 +1,13 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "financial struggles",
+    "limited adoption",
+    "stock volatility",
+    "renewable energy sector challenges",
+    "project delays"
+  ],
+  "summary": "Ocean Power Technologies Inc (RUOC) faces a negative sentiment due to ongoing financial challenges and limited commercial adoption of its wave energy technology. Recent news highlights project delays and underwhelming revenue, with analyst tone remaining cautious and price momentum showing a downward trend, though potential catalysts like new contracts could shift outlook.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"financial struggles\", \"limited adoption\", \"stock volatility\", \"renewable energy sector challenges\", \"project delays\"],\n  \"summary\": \"Ocean Power Technologies Inc (RUOC) faces a negative sentiment due to ongoing financial challenges and limited commercial adoption of its wave energy technology. Recent news highlights project delays and underwhelming revenue, with analyst tone remaining cautious and price momentum showing a downward trend, though potential catalysts like new contracts could shift outlook.\"\n}"
+}

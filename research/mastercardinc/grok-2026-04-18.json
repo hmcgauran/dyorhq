@@ -1,0 +1,13 @@
+{
+  "score": 76,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "digital payment growth",
+    "analyst upgrades",
+    "economic recovery",
+    "partnership expansions"
+  ],
+  "summary": "Mastercard Inc. (MA) exhibits a positive sentiment driven by strong quarterly earnings, growing adoption of digital payments, and recent analyst upgrades. Positive price momentum and strategic partnerships further bolster optimism, with potential near-term catalysts including holiday spending trends and economic recovery signals.",
+  "raw": "{\n  \"score\": 75,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"digital payment growth\", \"analyst upgrades\", \"economic recovery\", \"partnership expansions\"],\n  \"summary\": \"Mastercard Inc. (MA) exhibits a positive sentiment driven by strong quarterly earnings, growing adoption of digital payments, and recent analyst upgrades. Positive price momentum and strategic partnerships further bolster optimism, with potential near-term catalysts including holiday spending trends and economic recovery signals.\"\n}"
+}

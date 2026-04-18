@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong revenue growth",
+    "strategic acquisitions",
+    "market expansion",
+    "upcoming earnings report",
+    "positive analyst outlook"
+  ],
+  "summary": "Team Internet Group PLC (TIG) shows a positive sentiment with strong revenue growth and recent strategic acquisitions driving optimism. Analysts maintain a favorable tone, and an upcoming earnings report could serve as a near-term catalyst, supported by steady price momentum.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong revenue growth\", \"strategic acquisitions\", \"market expansion\", \"upcoming earnings report\", \"positive analyst outlook\"],\n  \"summary\": \"Team Internet Group PLC (TIG) shows a positive sentiment with strong revenue growth and recent strategic acquisitions driving optimism. Analysts maintain a favorable tone, and an upcoming earnings report could serve as a near-term catalyst, supported by steady price momentum.\"\n}"
+}

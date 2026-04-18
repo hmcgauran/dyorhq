@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "cybersecurity demand",
+    "stock momentum",
+    "analyst optimism",
+    "product innovation"
+  ],
+  "summary": "Check Point Software Technologies Ltd (CHKP) shows a positive sentiment driven by strong recent earnings, growing demand for cybersecurity solutions, and consistent upward price momentum. Analyst tone remains optimistic with several upgrades citing robust product innovation and market positioning, though no major near-term catalysts are evident.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"cybersecurity demand\", \"stock momentum\", \"analyst optimism\", \"product innovation\"],\n  \"summary\": \"Check Point Software Technologies Ltd (CHKP) shows a positive sentiment driven by strong recent earnings, growing demand for cybersecurity solutions, and consistent upward price momentum. Analyst tone remains optimistic with several upgrades citing robust product innovation and market positioning, though no major near-term catalysts are evident.\"\n}"
+}

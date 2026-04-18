@@ -1,104 +1,109 @@
 {
   "meta": {
-    "ticker": "QBTS · US",
+    "ticker": "QBTS",
     "company": "D-Wave Quantum Inc",
-    "exchange": "US",
+    "exchange": null,
     "isin": "US26740W1099",
-    "date": "9 Apr 2026",
-    "datePublished": "2026-04-09",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "recommendationNote": "REDUCE - SPECULATIVE",
-    "conviction": 44,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 69,
+    "lastRefreshed": "2026-04-18T15:09:10.381Z",
     "universes": [
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 21.69,
+    "currency": "USD",
+    "marketCap": "8023428350",
+    "pe": null,
+    "eps": -1.11,
+    "week52High": 46.75,
+    "week52Low": 5.97,
+    "beta": 2.65,
+    "avgVolume": "26566824",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 42,
+    "signal": "negative",
+    "keyThemes": [
+      "quantum computing challenges",
+      "financial performance",
+      "market competition",
+      "stock volatility"
+    ],
+    "summary": "QBTS (D-Wave Quantum Inc) shows a slightly negative sentiment due to recent concerns over financial performance and intense competition in the quantum computing space. While price momentum has been weak with downward trends, there are no significant near-term catalysts to shift sentiment positively.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 29,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 17,
+    "bearScore": 38,
+    "conviction": 69
   },
   "sections": {
     "executiveSummary": {
-      "text": "D-Wave is one of the few listed pure-play quantum names with real commercial customers, but it still trades more on narrative than fundamentals. At $14.56 and a ~$5.4bn market cap, the stock is pricing in a lot of future success today. Bottom line: REDUCE - SPECULATIVE. Real technology, weak valuation support."
+      "text": "D-Wave Quantum is the oldest listed quantum computing company, the only one with both annealing and gate-model quantum systems, and — following the acquisition of Quantum Circuits Inc (QCI) — now a full-stack quantum provider. The April 9 report (conviction 44, REDUCE, $14.56) was a reasonable assessment of an overvalued quantum story. That view now requires material revision."
     },
     "businessModel": {
-      "text": "D-Wave sells quantum computing systems, cloud quantum access, and professional services. The key question is whether commercial adoption arrives fast enough to justify the current valuation."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Price: $14.56 Market cap: ~$5.37bn 52-week range: $5.97 - $46.75 P/E: N/A EPS: -$1.11",
-      "table": []
+      "price": 21.69,
+      "pe": null,
+      "eps": -1.11,
+      "marketCap": "8023428350",
+      "week52High": 46.75,
+      "week52Low": 5.97,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Quantum sector momentum has driven multiple expansion. Commercial proof points remain limited relative to market expectations. Any slowdown in AI/quantum narrative could compress valuation fast.",
-      "items": [
-        "Quantum sector momentum has driven multiple expansion.",
-        "Commercial proof points remain limited relative to market expectations.",
-        "Any slowdown in AI/quantum narrative could compress valuation fast."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (20%): quantum commercialisation accelerates and commercial contracts surprise to the upside. Base (45%): quantum adoption remains slow; valuation stays elevated and range-bound. Bear (35%): funding pressure or data disappointment; equity erodes toward lower support. Weighted conviction: (20% × 70) + (45% × 45) + (35% × 20) = 14 + 20.25 + 7 = 41 → 44/100 .",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "1 Valuation is far ahead of current fundamentals. 2 Quantum commercial adoption may take longer than hoped. 3 Equity dilution remains a risk for pre-profit technology firms.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "1 Valuation is far ahead of current fundamentals."
-        },
-        {
-          "rank": 2,
-          "risk": "2 Quantum commercial adoption may take longer than hoped."
-        },
-        {
-          "rank": 3,
-          "risk": "3 Equity dilution remains a risk for pre-profit technology firms."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
+    "whoShouldOwnIt": {
       "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - SPECULATIVE. Interesting exposure, poor risk/reward after the rerating."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Any spike on quantum/data news: use to reduce or exit Only with tiny size: if taking binary quantum-event risk Key trigger: clearly positive commercial data and funding clarity required to change the view Conviction Trend Latest conviction: 44/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-09 Report date Conviction 2026-04-09 44"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 44,
-      "band": "REDUCE",
-      "date": "2026-04-09",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 69,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-09",
-        "score": 44,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 44
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 62
       }
     ]
   }

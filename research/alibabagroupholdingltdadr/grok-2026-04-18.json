@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "e-commerce growth",
+    "cloud computing expansion",
+    "regulatory scrutiny",
+    "global expansion",
+    "earnings potential"
+  ],
+  "summary": "Alibaba (BABA) shows a positive sentiment with strong e-commerce and cloud computing growth driving optimism, despite lingering regulatory concerns in China. Recent analyst tone is cautiously bullish, supported by upward price momentum and potential near-term catalysts like upcoming earnings and Singles' Day sales.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"e-commerce growth\", \"cloud computing expansion\", \"regulatory scrutiny\", \"global expansion\", \"earnings potential\"],\n  \"summary\": \"Alibaba (BABA) shows a positive sentiment with strong e-commerce and cloud computing growth driving optimism, despite lingering regulatory concerns in China. Recent analyst tone is cautiously bullish, supported by upward price momentum and potential near-term catalysts like upcoming earnings and Singles' Day sales.\"\n}"
+}

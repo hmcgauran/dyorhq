@@ -1,113 +1,109 @@
 {
   "meta": {
     "ticker": "RGTI",
-    "company": "Rigetti Computing Inc",
-    "exchange": "US",
+    "company": "RGTI - Rigetti Computing Inc",
+    "exchange": null,
     "isin": "US76655K1034",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "recommendationNote": "REDUCE - SPECULATIVE",
-    "conviction": 46,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 69,
+    "lastRefreshed": "2026-04-18T15:09:10.389Z",
     "universes": [
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 19.81,
+    "currency": "USD",
+    "marketCap": "6579902000",
+    "pe": null,
+    "eps": -0.7,
+    "week52High": 58.15,
+    "week52Low": 7.81,
+    "beta": 1.82,
+    "avgVolume": "28576759",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 42,
+    "signal": "negative",
+    "keyThemes": [
+      "quantum computing challenges",
+      "financial performance",
+      "market competition",
+      "stock volatility"
+    ],
+    "summary": "Rigetti Computing Inc (RGTI) faces a negative sentiment due to recent struggles in financial performance and intense competition in the quantum computing sector. Analyst tone remains cautious, with concerns over profitability and price momentum showing a downward trend.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 29,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 17,
+    "bearScore": 38,
+    "conviction": 69
   },
   "sections": {
     "executiveSummary": {
-      "text": "Rigetti is another listed quantum name trading on future possibility rather than current economics. At $14.36 with a market cap near $4.6B and negative EPS, the valuation still reflects thematic enthusiasm more than operating proof. Bottom line: REDUCE - SPECULATIVE . Quantum optionality is real, but the equity is still too dependent on sentiment and future milestones."
+      "text": "Rigetti is another listed quantum name trading on future possibility rather than current economics. At $14.36 with a market cap near $4.6B and negative EPS, the valuation still reflects thematic enthusiasm more than operating proof."
     },
     "businessModel": {
-      "text": "Rigetti develops quantum computing systems and related services. The attraction is exposure to a potentially transformational computing platform. The challenge is that commercial adoption remains early and architecture competition remains unresolved."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: $14.36 Market cap: $4.6B Day range: $14.14 - $15.41 P/E: N/A EPS: -$0.67 Beta: 1.82",
-      "table": []
+      "price": 19.81,
+      "pe": null,
+      "eps": -0.7,
+      "marketCap": "6579902000",
+      "week52High": 58.15,
+      "week52Low": 7.81,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Quantum sector enthusiasm remains the main sentiment driver. Technical milestones matter, but monetisation remains sparse. These names rerate on narrative faster than fundamentals.",
-      "items": [
-        "Quantum sector enthusiasm remains the main sentiment driver.",
-        "Technical milestones matter, but monetisation remains sparse.",
-        "These names rerate on narrative faster than fundamentals."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): quantum adoption accelerates and Rigetti captures meaningful credibility. Base (45%): thematic support persists but commercial reality lags. Bear (30%): sentiment cools and the stock derates sharply. Weighted conviction: 46/100.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Commercialisation risk: demand may remain shallow. Technology risk: no guarantee Rigetti’s path wins. Valuation risk: still priced on future possibility.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Commercialisation risk: demand may remain shallow."
-        },
-        {
-          "rank": 2,
-          "risk": "Technology risk: no guarantee Rigetti’s path wins."
-        },
-        {
-          "rank": 3,
-          "risk": "Valuation risk: still priced on future possibility."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: speculative investors deliberately taking quantum exposure. Should avoid: anyone seeking valuation discipline or earnings support."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - SPECULATIVE at $14.36. Interesting theme, poor valuation support."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Below $10: more interesting speculative entry $10-$15: speculative zone only Key trigger: real commercial adoption signals Conviction Trend Latest conviction: 46/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 46"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price $14.36",
-        "Market Cap $4.6B",
-        "EPS -$0.67",
-        "Day High $15.41",
-        "Day Low $14.14"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 46,
-      "band": "REDUCE",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 69,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 46,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 46
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 46
       }
     ]
   }

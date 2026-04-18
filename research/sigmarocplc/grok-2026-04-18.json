@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "acquisition growth",
+    "construction sector demand",
+    "price stability",
+    "analyst optimism",
+    "sustainability focus"
+  ],
+  "summary": "SigmaRoc PLC (SRC) shows a positive sentiment with a score of 45, driven by recent acquisitions boosting growth prospects and steady demand in the construction materials sector. Analyst tone remains cautiously optimistic, supported by stable price momentum and potential near-term catalysts from sustainability initiatives.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"acquisition growth\", \"construction sector demand\", \"price stability\", \"analyst optimism\", \"sustainability focus\"],\n  \"summary\": \"SigmaRoc PLC (SRC) shows a positive sentiment with a score of 45, driven by recent acquisitions boosting growth prospects and steady demand in the construction materials sector. Analyst tone remains cautiously optimistic, supported by stable price momentum and potential near-term catalysts from sustainability initiatives.\"\n}"
+}

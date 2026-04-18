@@ -1,115 +1,109 @@
 {
   "meta": {
     "ticker": "MA",
-    "company": "MA",
-    "exchange": "",
-    "isin": "",
-    "date": "",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 65,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "MA - Mastercard Inc",
+    "exchange": "NYSE",
+    "isin": "US57636Q1040",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.386Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 521.3,
+    "currency": "USD",
+    "marketCap": "464901688973",
+    "pe": 31.55,
+    "eps": 16.52,
+    "week52High": 601.77,
+    "week52Low": 480.5,
+    "beta": 0.83,
+    "avgVolume": "3316280",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 76,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "digital payment growth",
+      "analyst upgrades",
+      "economic recovery",
+      "partnership expansions"
+    ],
+    "summary": "Mastercard Inc. (MA) exhibits a positive sentiment driven by strong quarterly earnings, growing adoption of digital payments, and recent analyst upgrades. Positive price momentum and strategic partnerships further bolster optimism, with potential near-term catalysts including holiday spending trends and economic recovery signals.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 30,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 12,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Mastercard operates a near-ideal network business: high-skill switching costs, strong take-rate discipline, and exposure to the secular shift from cash to digital payments; valuation is stretched but the quality floor is high."
     },
     "businessModel": {
-      "text": "Revenue from Interchange fees on cardholder spend (Core payment network, ~55%), Processing and issuer services (transaction processing, ~25%), and Other (New Network Services, Advisors, ~20%). Highly capital-light."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 521.3,
+      "pe": 31.55,
+      "eps": 16.52,
+      "marketCap": "464901688973",
+      "week52High": 601.77,
+      "week52Low": 480.5,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Cross-border travel recovery fully normalised - cross-border volume +12% FY24 New network services (STEM, open banking connectors) growing 40%+ YoY Acquisition ofRecorded Future (AI cybersecurity threat intel, 2024) - strategic adjacency Buyback authorised: $25bn multi-year programme, ~5% of market cap annually",
-      "items": [
-        "Cross-border travel recovery fully normalised - cross-border volume +12% FY24",
-        "New network services (STEM, open banking connectors) growing 40%+ YoY",
-        "Acquisition ofRecorded Future (AI cybersecurity threat intel, 2024) - strategic adjacency",
-        "Buyback authorised: $25bn multi-year programme, ~5% of market cap annually"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "75 Bull 65 Base 50 Bear 65 Conviction",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "1. Global regulatory interventions on interchange fees (EU, India, Brazil) could compress take-rates 2. Recession scenario reduces spend volume, directly impacting gross-dollar volume metric 3. Fintech disruption: Revolut, Stripe, PayPal nibbling at commercial card segments 4. CBDC (Central Bank Digital Currency) development - long-term network displacement risk 5. Valuation: P/E 30x is at historical peak - limited re-rating room",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "1. Global regulatory interventions on interchange fees (EU, India, Brazil) could compress take-rates"
-        },
-        {
-          "rank": 2,
-          "risk": "2. Recession scenario reduces spend volume, directly impacting gross-dollar volume metric"
-        },
-        {
-          "rank": 3,
-          "risk": "3. Fintech disruption: Revolut, Stripe, PayPal nibbling at commercial card segments"
-        },
-        {
-          "rank": 4,
-          "risk": "4. CBDC (Central Bank Digital Currency) development - long-term network displacement risk"
-        },
-        {
-          "rank": 5,
-          "risk": "5. Valuation: P/E 30x is at historical peak - limited re-rating room"
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Long-term compounder investors seeking exposure to secular payment-volume growth. Buy-and-hold wealthbuilder with modest dividend. NOT suitable for investors seeking value or turnaround catalysts; valuations rarely compress."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
       "text": ""
     },
-    "entryExit": {
-      "text": "Patient accumulation at $470-$490 (15-20% below 52-week high). HOLD $490-$560. REDUCE above $560. Watch: cross-border volume trends as travel/e-commerce proxy. | BUY: Patient accumulation at $470-$490 (15-20% below 52-week high). | REDUCE above $560."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 65,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 65,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 65
       }
     ]
   }

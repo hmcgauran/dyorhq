@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "Medicaid expansion",
+    "healthcare policy",
+    "stock momentum",
+    "analyst upgrades"
+  ],
+  "summary": "Centene Corp (CNC) exhibits a positive sentiment driven by strong recent earnings performance and optimism around Medicaid expansion opportunities. Analyst tone remains largely bullish, supported by price momentum and potential near-term catalysts from healthcare policy developments.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"Medicaid expansion\", \"healthcare policy\", \"stock momentum\", \"analyst upgrades\"],\n  \"summary\": \"Centene Corp (CNC) exhibits a positive sentiment driven by strong recent earnings performance and optimism around Medicaid expansion opportunities. Analyst tone remains largely bullish, supported by price momentum and potential near-term catalysts from healthcare policy developments.\"\n}"
+}

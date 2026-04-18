@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "smart metering growth",
+    "regulatory support",
+    "energy transition",
+    "acquisition speculation"
+  ],
+  "summary": "SMS (Smart Metering Systems PLC) shows a positive sentiment with strong price momentum and supportive analyst tone highlighting growth in smart metering and energy transition trends. Recent news around potential acquisitions and regulatory backing for metering rollouts adds to near-term bullish catalysts.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"smart metering growth\", \"regulatory support\", \"energy transition\", \"acquisition speculation\"],\n  \"summary\": \"SMS (Smart Metering Systems PLC) shows a positive sentiment with strong price momentum and supportive analyst tone highlighting growth in smart metering and energy transition trends. Recent news around potential acquisitions and regulatory backing for metering rollouts adds to near-term bullish catalysts.\"\n}"
+}

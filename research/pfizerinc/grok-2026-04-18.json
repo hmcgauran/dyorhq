@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "vaccine developments",
+    "earnings growth",
+    "dividend stability",
+    "pipeline innovation",
+    "market competition"
+  ],
+  "summary": "Pfizer Inc. (PFE) shows a positive sentiment driven by ongoing vaccine developments and solid earnings performance, though tempered by competitive pressures in the pharmaceutical market. Recent analyst tone leans cautiously optimistic, with price momentum showing gradual upward trends and potential near-term catalysts from pipeline updates.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"vaccine developments\", \"earnings growth\", \"dividend stability\", \"pipeline innovation\", \"market competition\"],\n  \"summary\": \"Pfizer Inc. (PFE) shows a positive sentiment driven by ongoing vaccine developments and solid earnings performance, though tempered by competitive pressures in the pharmaceutical market. Recent analyst tone leans cautiously optimistic, with price momentum showing gradual upward trends and potential near-term catalysts from pipeline updates.\"\n}"
+}

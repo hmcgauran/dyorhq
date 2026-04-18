@@ -1,109 +1,111 @@
 {
   "meta": {
     "ticker": "DUK",
-    "company": "Duke Energy Corp",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 70,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "DUK - Duke Energy Corp",
+    "exchange": "#N/A",
+    "isin": "US26441C2044",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.381Z",
     "universes": [
+      "fortune100",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 128.03,
+    "currency": "USD",
+    "marketCap": "99622420984",
+    "pe": 20.26,
+    "eps": 6.32,
+    "week52High": 134.49,
+    "week52Low": 111.22,
+    "beta": 0.46,
+    "avgVolume": "4335011",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 63,
+    "signal": "positive",
+    "keyThemes": [
+      "renewable energy transition",
+      "stable dividend",
+      "regulatory environment",
+      "earnings performance"
+    ],
+    "summary": "Duke Energy Corp (DUK) shows a positive sentiment driven by its focus on renewable energy investments and a stable dividend appealing to income-focused investors. Recent news highlights progress in clean energy goals, supported by a generally favorable analyst tone and steady price momentum, though regulatory challenges remain a near-term concern.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 34,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 11,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
       "text": "Duke Energy is a regulated utility operating across the Carolinas, Florida, Ohio, Indiana, and Kentucky; it offers a defensive 3.5% dividend yield supported by rate base growth from grid modernisation, but limited capital appreciation potential keeps us at HOLD."
     },
     "businessModel": {
-      "text": "Duke Energy is a regulated electric and gas utility. Key revenue streams: Regulated Electric Utilities: Generates, transmits, and distributes electricity across six states. Revenue is approved by state utility commissions; recovery of costs plus an allowed return on regulated assets (rate base). Regulated Natural Gas: Pipeline and distribution operations in Ohio, Kentucky, and the Carolinas. Similar regulatory model with approved rates. Commercial Renewables: Growing but still modest portfolio of utility-scale solar and wind assets; unregulated but contracted under long-term PPAs. The regulated utility model is highly predictable: a state commission sets rates to allow recovery of prudent costs plus ~10% return on equity. Growth comes from rate base expansion - building new substations, smart meters, grid hardening, and new generation - approved through capital expenditure programmes."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 128.03,
+      "pe": 20.26,
+      "eps": 6.32,
+      "marketCap": "99622420984",
+      "week52High": 134.49,
+      "week52Low": 111.22,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (30% weight) Aggressive rate case wins support above-average rate base growth; IRA tax credits accelerate renewable build; clean energy demand from data centres drives load growth; EPS grows to $7.50+. Target: $155-170 Base Case (50% weight) Steady rate base growth of 5-6% from grid investment; moderate rate case outcomes; regulated EPS grows in line with historical 4-5% annual guidance; dividend sustained. Target: $130-142 Bear Case (20% weight) Regulatory headwinds delay rate case approvals; interest rate sensitivity raises cost of capital for regulated utilities; load growth disappoints; EPS falls to $5.50; dividend at risk. Target: $95 Weighted Conviction Score: 70 / 100 - HOLD",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Regulatory risk: Rate cases are the central earnings driver; adverse regulatory outcomes - denied investments, reduced rate base, or lower allowed returns - directly compress earnings growth. Interest rate sensitivity: Utilities are bond proxies; a rising rate environment causes re-rating to lower P/E multiples. Also increases the cost of capital for regulated operations. Load growth uncertainty: Decades of flat electricity demand are being disrupted by AI data centre power demand and industrial reshoring; the pace of change creates planning uncertainty. Carbon policy risk: State-level clean energy mandates require significant capital investment; the pace of coal retirement creates stranded asset risk in older generation. Hurricane and storm risk: Duke's service territory includes hurricane-prone areas (Carolinas, Florida); major storm events create restoration costs and regulatory recovery complexity.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Regulatory risk: Rate cases are the central earnings driver; adverse regulatory outcomes - denied investments, reduced rate base, or lower allowed returns - directly compress earnings growth."
-        },
-        {
-          "rank": 2,
-          "risk": "Interest rate sensitivity: Utilities are bond proxies; a rising rate environment causes re-rating to lower P/E multiples. Also increases the cost of capital for regulated operations."
-        },
-        {
-          "rank": 3,
-          "risk": "Load growth uncertainty: Decades of flat electricity demand are being disrupted by AI data centre power demand and industrial reshoring; the pace of change creates planning uncertainty."
-        },
-        {
-          "rank": 4,
-          "risk": "Carbon policy risk: State-level clean energy mandates require significant capital investment; the pace of coal retirement creates stranded asset risk in older generation."
-        },
-        {
-          "rank": 5,
-          "risk": "Hurricane and storm risk: Duke's service territory includes hurricane-prone areas (Carolinas, Florida); major storm events create restoration costs and regulatory recovery complexity."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own It:\n• Income investors who need a 3.5% yield with high conviction of sustainability; utility dividends are among the most reliable in the S&amp;P 500.\n• Defensive portfolio positioning - utilities typically outperform in late-cycle and recessionary environments when growth slows.\n• Long-term investors who want exposure to the grid modernisation and energy transition theme within a regulated, predictable structure.\n\nAvoid It:\n• Growth investors - limited capital appreciation; a utility is a yield vehicle, not a growth story.\n• Those expecting rate cuts - lower rates make utilities less competitive versus bonds and typically cause multiple compression.\n• Tax-inefficient accounts - utility dividends are taxed as ordinary income; tax-efficient accounts benefit from different structures."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD Defensive yield and regulated earnings visibility are appropriate for income-focused investors, but 20.4x P/E and 1.6x price/book near full valuation; wait for better entry. Entry / Exit Framework Conviction Score 70 / 100 - HOLD Entry Below $110 - better value on a utility at 52-week highs Add Below $95 - high conviction defensive entry Reduce / Exit Above $138 - full valuation; yield no longer compensates Time Horizon 36-60 months"
+      "text": ""
     },
-    "entryExit": {
-      "text": "Entry / Exit Framework Conviction Score 70 / 100 - HOLD Entry Below $110 - better value on a utility at 52-week highs Add Below $95 - high conviction defensive entry Reduce / Exit Above $138 - full valuation; yield no longer compensates Time Horizon 36-60 months Sources Live market data via DYOR HQ data pipeline Duke Energy public filings, earnings releases, and investor days State utility commission rate case filings and orders S&amp;P Capital IQ estimates Report generated 11 April 2026. For informational purposes only. Not financial advice."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 70,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 70,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 50
       }
     ]
   }

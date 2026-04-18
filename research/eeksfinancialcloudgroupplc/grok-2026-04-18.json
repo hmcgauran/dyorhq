@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "cloud computing growth",
+    "financial sector demand",
+    "strong earnings",
+    "market expansion",
+    "technical momentum"
+  ],
+  "summary": "Beeks Financial Cloud Group PLC (BKS) shows a positive sentiment driven by strong demand for cloud computing solutions in the financial sector and recent robust earnings reports. Analyst tone remains optimistic with upward price momentum supporting a bullish outlook, though no major near-term catalysts are evident.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"cloud computing growth\", \"financial sector demand\", \"strong earnings\", \"market expansion\", \"technical momentum\"],\n  \"summary\": \"Beeks Financial Cloud Group PLC (BKS) shows a positive sentiment driven by strong demand for cloud computing solutions in the financial sector and recent robust earnings reports. Analyst tone remains optimistic with upward price momentum supporting a bullish outlook, though no major near-term catalysts are evident.\"\n}"
+}

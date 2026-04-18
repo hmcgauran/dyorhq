@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "interest rate environment",
+    "consumer banking growth",
+    "market volatility",
+    "dividend stability"
+  ],
+  "summary": "Bank of America (BAC) shows a positive sentiment driven by strong recent earnings, favorable analyst tone citing resilience in consumer banking, and steady price momentum. However, concerns around market volatility and the impact of the interest rate environment temper overly bullish outlooks, with potential near-term catalysts including upcoming economic data releases.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"interest rate environment\", \"consumer banking growth\", \"market volatility\", \"dividend stability\"],\n  \"summary\": \"Bank of America (BAC) shows a positive sentiment driven by strong recent earnings, favorable analyst tone citing resilience in consumer banking, and steady price momentum. However, concerns around market volatility and the impact of the interest rate environment temper overly bullish outlooks, with potential near-term catalysts including upcoming economic data releases.\"\n}"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 34,
+  "signal": "negative",
+  "key_themes": [
+    "financial struggles",
+    "limited pipeline progress",
+    "stock volatility",
+    "regulatory uncertainty"
+  ],
+  "summary": "Iterum Therapeutics (ITRMF) shows a negative sentiment due to ongoing financial challenges and limited updates on pipeline progress, particularly with their lead candidate sulopenem. Recent analyst tone remains cautious, price momentum is weak with downward trends, and no significant near-term catalysts have been identified to reverse the current outlook.",
+  "raw": "{\n  \"score\": -40,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"financial struggles\", \"limited pipeline progress\", \"stock volatility\", \"regulatory uncertainty\"],\n  \"summary\": \"Iterum Therapeutics (ITRMF) shows a negative sentiment due to ongoing financial challenges and limited updates on pipeline progress, particularly with their lead candidate sulopenem. Recent analyst tone remains cautious, price momentum is weak with downward trends, and no significant near-term catalysts have been identified to reverse the current outlook.\"\n}"
+}

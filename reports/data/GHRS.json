@@ -1,117 +1,110 @@
 {
   "meta": {
     "ticker": "GHRS",
-    "company": "GH Research PLC",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 46,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "GHRS - GH Research PLC",
+    "exchange": "#N/A",
+    "isin": "IE000GID8VI0",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.383Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 18.34,
+    "currency": "USD",
+    "marketCap": "1137618471",
+    "pe": null,
+    "eps": -0.79,
+    "week52High": 19.51,
+    "week52Low": 8.66,
+    "beta": 1,
+    "avgVolume": "190760",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 42,
+    "signal": "negative",
+    "keyThemes": [
+      "clinical trial delays",
+      "analyst caution",
+      "price decline",
+      "uncertain pipeline progress"
+    ],
+    "summary": "GH Research PLC (GHRS) is facing a negative sentiment due to recent delays in clinical trial updates for their psychedelic-based therapies and cautious tones from analysts regarding pipeline progress. The stock has experienced downward price momentum over the past month, with no significant near-term catalysts to drive positive sentiment.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 32,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 14,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "GH Research PLC (GHRS) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 46/100, using $15.72 as the latest stored price reference where available."
+      "text": "GH Research is a clinical-stage neuropsychiatry company focused on psychedelic-derived therapies, so the investment case is driven by clinical signal, safety, trial design and eventual commercial practicality. The upside could be substantial if its approach proves differentiated and scalable, but it remains an early-stage biotech where evidence, not theme, has to do the heavy lifting."
     },
     "businessModel": {
-      "text": "GH Research PLC operates in life sciences, where the investment case depends on pipeline execution, regulatory outcomes, commercial uptake and balance-sheet runway. The rebuilt note replaces generic or misaligned copy with a correct company-level summary."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$15.72"
-        },
-        {
-          "label": "Company",
-          "value": "GH Research PLC"
-        },
-        {
-          "label": "Recommendation",
-          "value": "REDUCE"
-        },
-        {
-          "label": "Conviction",
-          "value": "46/100"
-        },
-        {
-          "label": "Universe",
-          "value": "irish"
-        }
-      ]
+      "price": 18.34,
+      "pe": null,
+      "eps": -0.79,
+      "marketCap": "1137618471",
+      "week52High": 19.51,
+      "week52Low": 8.66,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Clinical data, regulatory decisions, partnership milestones and launch execution are the main catalysts. Cash burn versus funded runway remains central where the business is still scaling."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Clinical setbacks can materially impair the thesis. Regulatory delays can defer revenue and financing options. Commercial uptake may lag if competition intensifies. Capital needs can dilute shareholders. Single-product or single-platform concentration raises volatility.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Clinical setbacks can materially impair the thesis."
-        },
-        {
-          "rank": 2,
-          "risk": "Regulatory delays can defer revenue and financing options."
-        },
-        {
-          "rank": 3,
-          "risk": "Commercial uptake may lag if competition intensifies."
-        },
-        {
-          "rank": 4,
-          "risk": "Capital needs can dilute shareholders."
-        },
-        {
-          "rank": 5,
-          "risk": "Single-product or single-platform concentration raises volatility."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Specialist healthcare investors who accept binary event risk. Avoid: Investors who need near-term earnings visibility and low drawdown risk."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 46/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 46,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 46,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-11",
+        "conviction": 46
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 48
       }
     ]
   }

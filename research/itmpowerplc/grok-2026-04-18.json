@@ -1,0 +1,12 @@
+{
+  "score": 38,
+  "signal": "negative",
+  "key_themes": [
+    "hydrogen sector challenges",
+    "financial performance",
+    "market competition",
+    "stock volatility"
+  ],
+  "summary": "ITM Power plc faces a negative sentiment due to recent underwhelming financial results and broader challenges in the hydrogen sector. Analyst tone remains cautious, with concerns over profitability and competitive pressures, while price momentum shows a downward trend with no significant near-term catalysts to reverse it.",
+  "raw": "{\n  \"score\": -30,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"hydrogen sector challenges\", \"financial performance\", \"market competition\", \"stock volatility\"],\n  \"summary\": \"ITM Power plc faces a negative sentiment due to recent underwhelming financial results and broader challenges in the hydrogen sector. Analyst tone remains cautious, with concerns over profitability and competitive pressures, while price momentum shows a downward trend with no significant near-term catalysts to reverse it.\"\n}"
+}

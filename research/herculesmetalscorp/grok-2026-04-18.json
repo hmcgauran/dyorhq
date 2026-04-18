@@ -1,0 +1,12 @@
+{
+  "score": 76,
+  "signal": "positive",
+  "key_themes": [
+    "exploration success",
+    "analyst optimism",
+    "price uptrend",
+    "upcoming drill results"
+  ],
+  "summary": "Hercules Metals Corp (BIG) shows positive sentiment driven by recent exploration success at its Hercules Silver Property and favorable analyst coverage highlighting growth potential. Strong price momentum and anticipation for upcoming drill results further bolster the bullish outlook.",
+  "raw": "{\n  \"score\": 75,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"exploration success\", \"analyst optimism\", \"price uptrend\", \"upcoming drill results\"],\n  \"summary\": \"Hercules Metals Corp (BIG) shows positive sentiment driven by recent exploration success at its Hercules Silver Property and favorable analyst coverage highlighting growth potential. Strong price momentum and anticipation for upcoming drill results further bolster the bullish outlook.\"\n}"
+}

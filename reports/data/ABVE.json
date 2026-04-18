@@ -1,113 +1,110 @@
 {
   "meta": {
     "ticker": "ABVE",
-    "company": "Above Food Ingredients Inc",
-    "exchange": "US",
+    "company": "ABVE - Above Food Ingredients Inc",
+    "exchange": "#N/A",
     "isin": "CA00373V1004",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "SELL - SPECULATIVE",
-    "recommendationNote": "SELL - SPECULATIVE",
-    "conviction": 31,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.376Z",
     "universes": [
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 1,
+    "currency": "USD",
+    "marketCap": "51321230",
+    "pe": null,
+    "eps": null,
+    "week52High": 6.56,
+    "week52Low": 0.32,
+    "beta": 0.12,
+    "avgVolume": "2250774",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 38,
+    "signal": "negative",
+    "keyThemes": [
+      "recent losses",
+      "market uncertainty",
+      "limited analyst coverage",
+      "price decline",
+      "no immediate catalysts"
+    ],
+    "summary": "ABVE (Above Food Ingredients Inc) shows a negative sentiment with recent financial reports indicating losses and a declining stock price over the past months. Analyst coverage is sparse, and there are no significant near-term catalysts to drive positive momentum.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 32,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 14,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger zone where modest operational setbacks can matter more than the underlying business narrative. Bottom line: SELL - SPECULATIVE . Too small, too weak, and not enough proof."
+      "text": "ABVE trades like what it is: a tiny, loss-making small cap without the financial profile to justify much investor patience. At $0.804 with a market cap of roughly $44.8M, the stock sits in the danger zone where modest operational setbacks can matter more than the underlying business narrative."
     },
     "businessModel": {
-      "text": "Above Food Ingredients is positioned around food and ingredients exposure, but the equity case at this stage is dominated by balance sheet credibility and scale rather than strategic storytelling. For micro-caps, execution and capital access overwhelm everything else."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: $0.804 Market cap: $44.8M Day range: $0.7692 - $0.8962 P/E: N/A EPS: -$3.16 Beta: 0.13",
-      "table": []
+      "price": 1,
+      "pe": null,
+      "eps": null,
+      "marketCap": "51321230",
+      "week52High": 6.56,
+      "week52Low": 0.32,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "No strong live evidence of a positive re-rating catalyst. Micro-cap food and ingredients stories need execution and funding, not narrative alone. Share price weakness remains the main signal.",
-      "items": [
-        "No strong live evidence of a positive re-rating catalyst.",
-        "Micro-cap food and ingredients stories need execution and funding, not narrative alone.",
-        "Share price weakness remains the main signal."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (15%): operational progress surprises positively and the stock bounces sharply from a depressed base. Base (45%): the stock remains stuck in micro-cap limbo. Bear (40%): further weakness or financing pressure damages the equity further. Weighted conviction: 31/100.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Balance sheet risk: always central at this scale. Execution risk: little room for error. Liquidity risk: micro-cap trading cuts both ways.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Balance sheet risk: always central at this scale."
-        },
-        {
-          "rank": 2,
-          "risk": "Execution risk: little room for error."
-        },
-        {
-          "rank": 3,
-          "risk": "Liquidity risk: micro-cap trading cuts both ways."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: only deep-risk micro-cap speculators. Should avoid: almost everyone else."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "SELL - SPECULATIVE at $0.804. Weak setup, weak financial profile."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Any strength: use to reduce At current levels: avoid unless explicitly punting Key trigger: genuine operating and financing improvement Conviction Trend Latest conviction: 31/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 31"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price $0.804",
-        "Market Cap $44.8M",
-        "EPS -$3.16",
-        "Day High $0.8962",
-        "Day Low $0.7692"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 31,
-      "band": "SELL",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 31,
-        "band": "SELL",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 31
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 31
       }
     ]
   }

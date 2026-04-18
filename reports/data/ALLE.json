@@ -1,124 +1,111 @@
 {
   "meta": {
     "ticker": "ALLE",
-    "company": "Allegion plc",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "ALLE - Allegion plc",
+    "exchange": "#N/A",
+    "isin": "US5949181045",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.377Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "current": 144.81,
-    "fiftyTwoWeekHigh": 183.11,
-    "fiftyTwoWeekLow": 120.36,
-    "formatted": ""
+    "current": 144.32,
+    "currency": "USD",
+    "marketCap": "12432517747",
+    "pe": 19.41,
+    "eps": 7.43,
+    "week52High": 183.11,
+    "week52Low": 122.14,
+    "beta": 1.02,
+    "avgVolume": "882921",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "analyst upgrades",
+      "security sector growth",
+      "price stability",
+      "dividend reliability"
+    ],
+    "summary": "Allegion plc (ALLE) shows a positive sentiment with a score of 45, driven by strong recent earnings reports and analyst upgrades highlighting growth in the security solutions sector. Price momentum remains stable with a consistent upward trend, supported by reliable dividend payouts and no immediate negative catalysts.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 38,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 8,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
-      "text": "Allegion plc (ALLE) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $144.81 as the latest stored price reference where available."
+      "text": "Allegion sells mechanical and electronic security products, especially doors, locks, access control and related hardware, with a strong installed-base advantage in institutional and commercial settings. It is a quality industrial, but the investment case usually hinges on whether electronic security growth can outpace any cyclical weakness in non-residential construction. That makes it more of a compounder-at-the-right-price story than a rapid re-rating opportunity."
     },
     "businessModel": {
-      "text": "Allegion plc sells security and access-control products, so demand is tied to non-residential construction, retrofit activity and distribution execution. The repaired note now matches the corrected company metadata and removes the broken generic template."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$144.81"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "N/A"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "N/A"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$183.11"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$120.36"
-        }
-      ]
+      "price": 144.32,
+      "pe": 19.41,
+      "eps": 7.43,
+      "marketCap": "12432517747",
+      "week52High": 183.11,
+      "week52Low": 122.14,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Commercial building demand, price-cost balance, product mix and retrofit spending are the main near-term drivers. Electronic security adoption can support the medium-term mix."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Construction slowdowns can weigh on volume. Input-cost inflation can pressure margins. Channel inventory swings can distort quarterly results. Competition can limit pricing power. Execution missteps in higher-value electronic offerings can delay rerating.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Construction slowdowns can weigh on volume."
-        },
-        {
-          "rank": 2,
-          "risk": "Input-cost inflation can pressure margins."
-        },
-        {
-          "rank": 3,
-          "risk": "Channel inventory swings can distort quarterly results."
-        },
-        {
-          "rank": 4,
-          "risk": "Competition can limit pricing power."
-        },
-        {
-          "rank": 5,
-          "risk": "Execution missteps in higher-value electronic offerings can delay rerating."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors who want exposure to building-security and renovation demand. Avoid: Investors expecting rapid secular growth without cyclical noise."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "2026-04-11",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 73,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-11",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 50
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 61
       }
     ]
   }

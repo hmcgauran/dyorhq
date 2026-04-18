@@ -1,117 +1,111 @@
 {
   "meta": {
     "ticker": "SLMT",
-    "company": "Brera Holdings PLC",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "SELL",
-    "recommendationNote": "SELL",
-    "conviction": 18,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "SLMT - Brera Holdings PLC",
+    "exchange": null,
+    "isin": "IE0004OVVKF1",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.379Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 0.94,
+    "currency": "USD",
+    "marketCap": "77102546",
+    "pe": null,
+    "eps": -2.66,
+    "week52High": 52.95,
+    "week52Low": 0.68,
+    "beta": 2.91,
+    "avgVolume": "669827",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 38,
+    "signal": "negative",
+    "keyThemes": [
+      "financial struggles",
+      "limited analyst coverage",
+      "price decline",
+      "lack of catalysts",
+      "market uncertainty"
+    ],
+    "summary": "SLMT (Brera Holdings PLC) exhibits a negative sentiment due to recent financial struggles and a consistent downward price trend with little positive news or analyst support. The absence of near-term catalysts and limited market attention further dampens the outlook.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 32,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 14,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Brera Holdings PLC (SLMT) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. Coverage rebuilt as a minimal correct note because the prior page referenced unrelated additive-manufacturing content. The current stance is SELL with conviction 18/100, using $0.78 as the latest stored price reference where available."
+      "text": "Brera is a micro-cap multi-club football ownership story. That makes it speculative by default because valuation depends on asset quality, league outcomes, financing and the companys ability to create real economic value from sports ownership rather than just narrative appeal. Investors should treat it more like a high-risk holding company than like a conventional operating business."
     },
     "businessModel": {
-      "text": "Brera Holdings PLC is best treated as a special-situations sports and entertainment holding vehicle rather than a conventional operating business. This repaired note is intentionally concise because the prior page referenced an unrelated industrial company."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$0.78"
-        },
-        {
-          "label": "Company",
-          "value": "Brera Holdings PLC"
-        },
-        {
-          "label": "Recommendation",
-          "value": "SELL"
-        },
-        {
-          "label": "Conviction",
-          "value": "18/100"
-        },
-        {
-          "label": "Universe",
-          "value": "irish"
-        }
-      ]
+      "price": 0.94,
+      "pe": null,
+      "eps": -2.66,
+      "marketCap": "77102546",
+      "week52High": 52.95,
+      "week52Low": 0.68,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Asset transactions, capital raises, sponsorship developments and any improvement in disclosure quality are the main events to watch."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present sell stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Limited disclosure raises fundamental-analysis risk. Liquidity can be very thin. Capital raises can dilute shareholders. Asset values may be hard to verify. Execution risk is elevated for small special-situations vehicles.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Limited disclosure raises fundamental-analysis risk."
-        },
-        {
-          "rank": 2,
-          "risk": "Liquidity can be very thin."
-        },
-        {
-          "rank": 3,
-          "risk": "Capital raises can dilute shareholders."
-        },
-        {
-          "rank": 4,
-          "risk": "Asset values may be hard to verify."
-        },
-        {
-          "rank": 5,
-          "risk": "Execution risk is elevated for small special-situations vehicles."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Special-situations investors who can tolerate very high uncertainty. Avoid: Mainstream equity investors needing transparency and liquidity."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "SELL - Conviction: 18/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a sell stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 18,
-      "band": "SELL",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 18,
-        "band": "SELL",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-11",
+        "conviction": 18
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 28
       }
     ]
   }

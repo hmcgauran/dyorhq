@@ -1,139 +1,108 @@
 {
   "meta": {
     "ticker": "BMY",
-    "company": "Bristol-Myers Squibb Co",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 55,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "BMY - Bristol-Myers Squibb Co",
+    "exchange": "#N/A",
+    "isin": "US1101221089",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.379Z",
     "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 58.62,
-    "marketCap": 119700000000.0,
-    "marketCapFormatted": "$119.70B",
-    "trailingPE": 16.94,
-    "trailingEps": 3.46,
-    "fiftyTwoWeekHigh": 62.89,
-    "fiftyTwoWeekLow": 42.52,
-    "formatted": ""
+    "current": 60.17,
+    "currency": "USD",
+    "marketCap": "122851191211",
+    "pe": 17.39,
+    "eps": 3.46,
+    "week52High": 62.89,
+    "week52Low": 42.52,
+    "beta": 0.27,
+    "avgVolume": "12278936",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 63,
+    "signal": "positive",
+    "keyThemes": [
+      "strong pipeline",
+      "acquisition strategy",
+      "revenue growth",
+      "patent concerns"
+    ],
+    "summary": "Bristol-Myers Squibb (BMY) shows a positive sentiment driven by a robust pipeline and recent revenue growth in key drugs like Opdivo, despite lingering concerns over patent cliffs. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends and potential catalysts from upcoming clinical trial results.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 35,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "BMS faces a significant patent cliff on its largest drug (Eliquis faces generic competition from 2026 onwards under the US IRA) and a sparse pipeline that has failed to replace lost revenues - the shares trade at a low P/E of 17x but this may still overstate earnings durability - REDUCE is the weighted recommendation."
+      "text": "Bristol-Myers Squibb is a biopharmaceutical company focused on oncology, immunology, haematology and cardiovascular disease. Key products include Eliquis (apixaban, anticoagulant - BMS share with Pfizer), Opdivo (nivolumab, PD-1 checkpoint inhibitor), Yervoy (ipilimumab, CTLA-4 inhibitor), Revlimid (lenalidomide - multiple myeloma, facing generics), and Pomalone (pomalidomide)."
     },
     "businessModel": {
-      "text": "Bristol-Myers Squibb is a biopharmaceutical company focused on oncology, immunology, haematology and cardiovascular disease. Key products include Eliquis (apixaban, anticoagulant - BMS share with Pfizer), Opdivo (nivolumab, PD-1 checkpoint inhibitor), Yervoy (ipilimumab, CTLA-4 inhibitor), Revlimid (lenalidomide - multiple myeloma, facing generics), and Pomalone (pomalidomide). The core investment challenge is the magnitude of the revenue cliff: Eliquis, BMS's largest product, is the subject of IRA-mandated price negotiations and faces generic competition starting in the 2026-2028 window. Opdivo has faced competitive pressure from Merck's Keytruda (pembrolizumab) in first-line lung cancer, which has dominated the PD-1 landscape. The $74 billion Celgene acquisition (2019) was intended to provide pipeline optionality, but the Read-2 clinical trial failure in 2022 eliminated a key asset. BMS has attempted to fill the gap through business development, licensing deals and a restructuring announced in 2024."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$58.62"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$119.7 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "16.94x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$3.46"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$62.89"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$42.52"
-        }
-      ]
+      "price": 60.17,
+      "pe": 17.39,
+      "eps": 3.46,
+      "marketCap": "122851191211",
+      "week52High": 62.89,
+      "week52Low": 42.52,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "BMS announced a comprehensive \"Business Transformation\" programme in early 2024, including approximately $1.5 billion in annual cost cuts and a significant pipeline restructuring. The merger with Karuna Therapeutics (~$14 billion) - which brought KarXT (xanomeline-trospium), a novel antipsychotic with a unique muscarinic mechanism - completed in late 2024. KarXT was approved by the FDA for schizophrenia and represents the most significant near-term pipeline catalyst. However, the Eliquis IRA price negotiation outcome remains a significant and quantifiable headwind to EPS from 2026 onwards. The company's dividend is under pressure as free cash flow deteriorates relative to the payout."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (72): KarXT captures meaningful schizophrenia market share with a differentiated mechanism. Reblozyl grows in MDS (myelodysplastic syndromes). Eliquis IRA impact is less severe than feared. BMS executes bolt-on M&A to replenish the pipeline. EPS grows to $4.00+. Price: $70+. Base Case (58): Eliquis IRA pricing reduces revenues and EPS by 15-20% from 2026. KarXT uptake is gradual. Opdivo faces continued Keytruda competition in lung cancer. Cost cuts partially offset. EPS reaches $3.60-$3.80. Price: $56-$63. Bear Case (40): Eliquis suffers faster-than-expected volume loss to generics post-IRA. KarXT fails to displace existing schizophrenia treatments. Keytruda competition further erodes Opdivo revenues. Pipeline produces multiple clinical failures. Dividend is cut. Price: below $42. Weighted Score: 55 - Bull 72 × 30% + Base 58 × 50% + Bear 40 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Eliquis IRA patent cliff: The US Inflation Reduction Act mandates price negotiations on select high-spend drugs. Eliquis is a likely target. Negotiated prices - effective 2026 - will directly reduce BMS revenues and compress margins on what is BMS's single largest product. The magnitude of the impact is material and underappreciated. Pipeline inadequacy: The Read-2 failure eliminated the most important BMS pipeline asset. Karuna's KarXT is the primary new product catalyst, but its market potential in schizophrenia is uncertain and faces entrenched competitors (J&J, Otsuka, etc.). Opdivo competitive erosion: Keytruda's dominance in first-line NSCLC and other indications has materialised at Opdivo's expense. While Opdivo maintains a broad label, its revenue trajectory is inferior to initial projections. Continued Keytruda data readouts could further entrench Merck's position. Free cash flow and dividend sustainability: BMS's dividends (yield ~3.8%) are not well-covered by free cash flow given the earnings trajectory. A dividend cut is a realistic scenario within the base case, which would be a significant negative catalyst for the retail investor base. Karuna integration risk: The $14 billion acquisition was expensive. The KarXT commercial trajectory is uncertain and may not generate sufficient ROI to justify the price paid.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Eliquis IRA patent cliff: The US Inflation Reduction Act mandates price negotiations on select high-spend drugs. Eliquis is a likely target. Negotiated prices - effective 2026 - will directly reduce BMS revenues and compress margins on what is BMS's single largest product. The magnitude of the impact is material and underappreciated."
-        },
-        {
-          "rank": 2,
-          "risk": "Pipeline inadequacy: The Read-2 failure eliminated the most important BMS pipeline asset. Karuna's KarXT is the primary new product catalyst, but its market potential in schizophrenia is uncertain and faces entrenched competitors (J&J, Otsuka, etc.)."
-        },
-        {
-          "rank": 3,
-          "risk": "Opdivo competitive erosion: Keytruda's dominance in first-line NSCLC and other indications has materialised at Opdivo's expense. While Opdivo maintains a broad label, its revenue trajectory is inferior to initial projections. Continued Keytruda data readouts could further entrench Merck's position."
-        },
-        {
-          "rank": 4,
-          "risk": "Free cash flow and dividend sustainability: BMS's dividends (yield ~3.8%) are not well-covered by free cash flow given the earnings trajectory. A dividend cut is a realistic scenario within the base case, which would be a significant negative catalyst for the retail investor base."
-        },
-        {
-          "rank": 5,
-          "risk": "Karuna integration risk: The $14 billion acquisition was expensive. The KarXT commercial trajectory is uncertain and may not generate sufficient ROI to justify the price paid."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Yield investors attracted by the dividend, though this is increasingly risky. Speculative investors betting on KarXT's commercial success as a near-term catalyst. Not a value opportunity at 17x P/E if earnings are in structural decline."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE. BMS is a value trap: the low P/E of 17x does not reflect the structural earnings decline coming from the Eliquis patent cliff under the IRA. The KarXT acquisition provides a catalyst but is insufficient to offset the revenue cliff. The dividend is at risk. Trim and rotate to peers with more durable earnings trajectories. Entry framework: Only BUY below $45 (deep value territory, pricing in significant Eliquis erosion and dividend cut - provides margin of safety if pipeline delivers). Reduce on rallies above $60 (overvalues the earnings trajectory ahead of the IRA cliff). Monitor KarXT quarterly prescriptions as the key pipeline signal."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Only BUY below $45 (deep value territory, pricing in significant Eliquis erosion and dividend cut - provides margin of safety if pipeline delivers). Reduce on rallies above $60 (overvalues the earnings trajectory ahead of the IRA cliff). Monitor KarXT quarterly prescriptions as the key pipeline signal. | Entry framework: Only BUY below $45 (deep value territory, pricing in significant Eliquis erosion and dividend cut - provides margin of safety if pipeline delivers). | Reduce on rallies above $60 (overvalues the earnings trajectory ahead of the IRA cliff)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 55,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 55,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 55
       }
     ]
   }

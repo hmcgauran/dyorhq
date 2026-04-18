@@ -1,141 +1,109 @@
 {
   "meta": {
     "ticker": "BLK",
-    "company": "BlackRock Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 71,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "BLK - BlackRock Inc",
+    "exchange": "#N/A",
+    "isin": "US09247X1019",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.378Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "current": 999.31,
-    "marketCap": 155400000000.0,
-    "marketCapFormatted": "$155.40B",
-    "trailingPE": 28.96,
-    "trailingEps": 34.51,
-    "fiftyTwoWeekHigh": 1.0,
-    "fiftyTwoWeekLow": 840.5,
-    "formatted": ""
+    "current": 1052.14,
+    "currency": "USD",
+    "marketCap": "163465417733",
+    "pe": 27.39,
+    "eps": 38.42,
+    "week52High": 1219.94,
+    "week52Low": 845.82,
+    "beta": 1.48,
+    "avgVolume": "969949",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings growth",
+      "ETF market dominance",
+      "rising AUM",
+      "interest rate tailwinds",
+      "dividend reliability"
+    ],
+    "summary": "BlackRock Inc. (BLK) exhibits a positive sentiment driven by robust quarterly earnings, growing assets under management (AUM), and leadership in the ETF space. Analyst tone remains optimistic with favorable price targets, supported by steady price momentum and potential tailwinds from interest rate environments.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "BlackRock's unassailable position as the world's largest asset manager - with structural tailwinds from ETF secularisation and growing Aladdin platform revenues - is reflected in a 29x P/E, leaving limited near-term upside but a durable long-term compounding franchise - HOLD is the weighted recommendation."
+      "text": "BlackRock manages $10.5 trillion+ in assets under management (AUM) across equities, fixed income, multi-asset, alternatives and cash. The business model generates revenues from advisory fees (basis points on AUM), securities lending, and the Aladdin risk-management technology platform, which is licensed to institutional investors and other asset managers globally."
     },
     "businessModel": {
-      "text": "BlackRock manages $10.5 trillion+ in assets under management (AUM) across equities, fixed income, multi-asset, alternatives and cash. The business model generates revenues from advisory fees (basis points on AUM), securities lending, and the Aladdin risk-management technology platform, which is licensed to institutional investors and other asset managers globally. The secular shift from active to passive (index and ETF) investing has been a structural tailwind for BlackRock, as it is the dominant global ETF provider (iShares franchise). iShares alone accounts for over $3 trillion in AUM and generates highly predictable fee revenues. The Aladdin platform is a high-margin, recurring-revenue technology business that represents BlackRock's answer to the question of how it monetises its institutional relationships beyond AUM fees. The firm has also expanded into private markets (infrastructure, private credit, real assets) to diversify revenue streams as passive fee compression intensifies."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$999.31"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$155.4 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "28.96x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$34.51"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$1,219.94"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$840.50"
-        }
-      ]
+      "price": 1052.14,
+      "pe": 27.39,
+      "eps": 38.42,
+      "marketCap": "163465417733",
+      "week52High": 1219.94,
+      "week52Low": 845.82,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "BlackRock's 2024 full-year results showed AUM reaching record levels, driven by strong ETF inflows and market appreciation. The acquisition of Global Infrastructure Partners (GIP) for $12.5 billion added significant private markets capabilities, particularly in infrastructure. The First Republic FDIC-assisted transaction and BAI (Barclays Africa) partial stake have been successfully integrated. Aladdin revenues have grown double digits as more institutions adopt the platform for portfolio risk management. However, the stock has pulled back from 52-week highs as markets have questioned whether the elevated fee-income cycle has peaked alongside equity markets."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (82): Equity markets grind higher, driving AUM appreciation and fee revenue growth. GIP integration accelerates private markets expansion. Aladdin captures institutional market share from competitors. Technology revenue grows to $2+ billion annually. EPS reaches $42.00+. Price: $1,200+. Base Case (71): ETF inflows remain steady at $200-300 billion annually. Markets deliver mid-single-digit returns. Aladdin grows at 10-12% annually. GIP synergies materialise gradually. EPS reaches $36.00-$38.00. Price: $1,010-$1,100. Bear Case (45): Sustained market correction reduces AUM and fee revenues. Prolonged bear market or liquidity event triggers redemption pressure. Aladdin faces competition from boutique risk platforms. Fee compression on passive accelerates. EPS falls to $29-$31. Price: below $820. Weighted Score: 71 - Bull 82 × 30% + Base 71 × 50% + Bear 45 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Market depreciation AUM risk: BlackRock's earnings are highly correlated with equity market levels. A sustained 20%+ market correction would reduce AUM, fee revenues and EPS simultaneously, and could trigger redemption spirals in active funds. Passive fee compression: While ETF market share continues to grow, fee compression is a secular headwind. As average ETF fees drift toward zero (or negative in some European markets), BlackRock's revenue per dollar of AUM declines even if AUM grows. Regulatory risk in index licensing: Regulators in the EU, UK and increasingly the US have scrutinised index provider practices and potential conflicts of interest. Structural remedies could affect iShares' European market share. Integration execution risk on GIP: The $12.5 billion GIP acquisition adds meaningful private markets scale but integration complexity and infrastructure market cycle risk could produce disappointing returns on the investment. Alternatives competition: The private markets space is crowded with well-capitalised competitors (Apollo, Blackstone, KKR). Generating differentiated returns in infrastructure and private credit at scale is increasingly challenging.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Market depreciation AUM risk: BlackRock's earnings are highly correlated with equity market levels. A sustained 20%+ market correction would reduce AUM, fee revenues and EPS simultaneously, and could trigger redemption spirals in active funds."
-        },
-        {
-          "rank": 2,
-          "risk": "Passive fee compression: While ETF market share continues to grow, fee compression is a secular headwind. As average ETF fees drift toward zero (or negative in some European markets), BlackRock's revenue per dollar of AUM declines even if AUM grows."
-        },
-        {
-          "rank": 3,
-          "risk": "Regulatory risk in index licensing: Regulators in the EU, UK and increasingly the US have scrutinised index provider practices and potential conflicts of interest. Structural remedies could affect iShares' European market share."
-        },
-        {
-          "rank": 4,
-          "risk": "Integration execution risk on GIP: The $12.5 billion GIP acquisition adds meaningful private markets scale but integration complexity and infrastructure market cycle risk could produce disappointing returns on the investment."
-        },
-        {
-          "rank": 5,
-          "risk": "Alternatives competition: The private markets space is crowded with well-capitalised competitors (Apollo, Blackstone, KKR). Generating differentiated returns in infrastructure and private credit at scale is increasingly challenging."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Quality-focused long-term investors seeking secular exposure to the shift toward passive investing and institutional risk management. The compounding story is durable if unspectacular. Dividend growth investors will appreciate the consistent capital return."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. BlackRock is a high-quality, compounding machine with genuine scale advantages in ETFs and an emerging technology platform. The 29x P/E is fair for the quality, but the near-term upside is limited given the stock is ~18% below its 52-week high. Long-term investors should hold; new positions should be accumulated on weakness. Entry framework: BUY below $890 (implies 26x P/E - provides meaningful margin of safety and historical average valuation). Reduce on rallies above $1,120 (implies 32x P/E with limited upside to base case). This is a generational compounder; time in the market matters more than timing."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $890 (implies 26x P/E - provides meaningful margin of safety and historical average valuation). Reduce on rallies above $1,120 (implies 32x P/E with limited upside to base case). This is a generational compounder; time in the market matters more than timing. | Entry framework: BUY below $890 (implies 26x P/E - provides meaningful margin of safety and historical average valuation). | Reduce on rallies above $1,120 (implies 32x P/E with limited upside to base case)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 71,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 71,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 71
       }
     ]
   }

@@ -1,80 +1,110 @@
 {
-  "ticker": "LLY",
-  "company": "Eli Lilly and Company",
-  "isin": "US5324571083",
-  "exchange": "NYSE",
-  "currency": "USD",
-  "price": 923.64,
-  "marketCap": "$872.7B",
-  "sector": "Healthcare — Pharmaceuticals",
-  "date": "17 April 2026",
-  "reportDate": "2026-04-17",
-  "recommendation": "OPPORTUNISTIC BUY",
-  "conviction": 55,
-  "grokScore": 78,
-  "grokSignal": "positive",
-  "convictionHistory": [
-    {
-      "date": "2026-04-11",
-      "conviction": 50
-    },
-    {
-      "date": "2026-04-17",
-      "conviction": 55
-    }
-  ],
-  "analystFlag": {
-    "note": "Grok signal score is 78 (positive) while conviction is held at 55 per report specification. Discrepancy reflects the distance between momentum-based scoring and a fundamental valuation framework that prices in 40x P/E execution risk.",
-    "action": "Flagged for review"
+  "meta": {
+    "ticker": "LLY",
+    "company": "LLY - Eli Lilly and Company",
+    "exchange": "#N/A",
+    "isin": "US5324571083",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 69,
+    "lastRefreshed": "2026-04-18T15:09:10.382Z",
+    "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
+      "watchlist"
+    ]
   },
-  "priceAtLastReport": 923.64,
-  "marketCapAtLastReport": "$872.7B",
-  "priceChangeNote": "Price decline from ~$933 to ~$680 reflects significant repricing; ~$680 appears to be near 52-week low based on current data",
-  "pe": 40.26,
-  "eps": 22.95,
-  "dividendYield": "1.1%",
-  "beta": 0.45,
-  "sharesOut": "950M",
-  "avgVolume": "2.85M",
-  "52wHigh": 1134,
-  "52wLow": 680,
-  "distanceFrom52wHigh": "-40%",
-  "prevClose": 680,
-  "grokKeyThemes": [
-    "GLP-1 / tirzepatide franchise dominance with record Mounjaro + Zepbound sales (> $36B in 2025)",
-    "Strong 2026 guidance ($80-83B revenue, $33.50-35 EPS) beating Street estimates",
-    "Foundayo (orforglipron) oral GLP-1 approval and launch expanding obesity market",
-    "Consistent analyst buy ratings and high price targets ($1,200-$1,500+ vs. ~$920-$930 current price)",
-    "Pipeline momentum and manufacturing scale despite competitive noise from Novo"
-  ],
+  "price": {
+    "current": 927.03,
+    "currency": "USD",
+    "marketCap": "875875399844",
+    "pe": 40.39,
+    "eps": 22.95,
+    "week52High": 1133.95,
+    "week52Low": 623.78,
+    "beta": 0.51,
+    "avgVolume": "2849270",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 76,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "weight loss drug demand",
+      "pipeline innovation",
+      "analyst optimism",
+      "stock momentum"
+    ],
+    "summary": "Eli Lilly (LLY) exhibits a positive sentiment driven by robust demand for its weight loss and diabetes drugs like Mounjaro and Zepbound, coupled with strong recent earnings beats. Analyst tone remains bullish with upward price target revisions, and stock price momentum continues to trend positively with potential catalysts from pipeline updates or regulatory approvals on the horizon.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 27,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 15,
+    "bearScore": 38,
+    "conviction": 69
+  },
   "sections": {
     "executiveSummary": {
-      "text": "Eli Lilly is the dominant GLP-1 franchise with tirzepatide (Mounjaro/Zepbound) driving approximately 45 per cent revenue growth in 2025. The FDA's fast-tracked approval of oral obesity therapy Foundayo (orforglipron) in early April 2026 expands the addressable market into the convenience-obsessed obesity segment. Q1 2026 earnings are scheduled for April 30 with consensus EPS of $7.26. The stock is down approximately 13 per cent year-to-date, trading at 40x P/E on estimated 2026 EPS of $17.00, as the market reprices competitive risk from Novo Nordisk and Amgen. Analyst consensus is overwhelmingly bullish with a $1,224 average price target implying 40+ per cent upside. OPPORTUNISTIC BUY at conviction 55 reflects genuine long-term value but demands patience and tolerance for binary clinical and competitive catalysts. Grok's signal score of 78 is noted; the conviction of 55 is retained pending full thesis review."
+      "text": "Eli Lilly is the GLP-1 obesity drug franchise with the most comprehensive pipeline and the most aggressive expansion of manufacturing capacity in the space. The approval and launch of Zepbound for obesity is a genuine multi-decade revenue opportunity — potentially the largest..."
     },
     "businessModel": {
-      "text": "Eli Lilly discovers, develops, and commercialises pharmaceutical products across several key therapeutic areas. The GLP-1 franchise (Mounjaro/Zepbound/Foundayo) is the crown jewel. Tirzepatide delivered over $36 billion in combined sales in 2025. The April 2026 FDA approval of oral orforglipron (branded Foundayo) positions Lilly against Novo Nordisk's oral Wegovy. Retatrutide demonstrated up to 24 per cent body weight reduction in Phase 3, reinforcing pipeline superiority. Oncology (Verzenio, Jaypirca), immunology (Mirikizumab, Omvoh), neuroscience (donanemab under FDA review), and legacy diabetes products round out the portfolio. Lilly's $10bn+ manufacturing expansion is the most ambitious capacity build in the company's history and a structural competitive moat."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "At approximately $680 per share, Eli Lilly carries a market capitalisation of approximately $650 billion. Trading at approximately 40x P/E on estimated 2026 EPS of $17.00, the valuation is premium but defensible given the GLP-1 earnings trajectory. The dividend yield of approximately 1.1 per cent is modest, reflecting management's capital allocation priority towards growth investment. The stock is approximately 40 per cent below its 52-week high of $1,134 as investors digest competitive data from Novo Nordisk's oral Wegovy launch and Amgen's MariTide. Manufacturing capacity expansion and R&D reinvestment continue at pace."
+      "price": 927.03,
+      "pe": 40.39,
+      "eps": 22.95,
+      "marketCap": "875875399844",
+      "week52High": 1133.95,
+      "week52Low": 623.78,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Foundayo (orforglipron) FDA approval (April 2026): Second oral GLP-1 approved for obesity after Novo Nordisk's oral Wegovy. First-week TRx ~1,390, trailing Novo launch pace. A preprint raised questions about comparative lean-mass loss, adding mild near-term dampener. Q1 2026 Earnings (April 30): Consensus EPS $7.26, revenue $17.61bn. Mizuho upgraded. GLP-1 franchise momentum: Mounjaro $18.4bn (2025), $22.8bn projected (2026). Zepbound $12.5bn (2025), $18.1bn projected (2026). 2026 guidance above Street: $80-83bn revenue, $33.50-35 EPS. Analyst consensus: 30 analysts, average target $1,224.59 (range $850-$1,350). Competitive noise: Oral Wegovy (Novo, December 2025), Amgen MariTide advancing."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (conviction 80): GLP-1 obesity market grows to $150B+ by 2030, Lilly captures 40%+ share, Zepbound peaks at $40-50B annually, EPS reaches $40-45, stock re-rates to 45-50x P/E ($1,200-$1,500+).\nBase Case (conviction 55): GLP-1 adoption gradual, Zepbound peaks at $25-35B, EPS grows to $28-33, stock drifts to $900-$1,100 at 33-38x P/E on continued earnings growth.\nBear Case (conviction 30): Novo/Amgen competition intensifies, Medicare price negotiation caps GLP-1 pricing, pipeline setbacks occur, P/E de-rates to 22-25x, stock falls to $450-$550.\nWeighted: 80x0.30 + 55x0.50 + 30x0.20 = 55.0"
+      "text": ""
     },
     "keyRisks": {
-      "text": "1. GLP-1 safety signals: Long-term safety data in broad obesity populations is still accumulating. Rare serious adverse events could trigger regulatory restrictions. Foundayo lean-mass preprint is an early flag. 2. Competitive GLP-1 entrants: Oral Wegovy (Novo), MariTide (Amgen), Pfizer oral GLP-1, Viking dual agonist are all advancing. 3. Payer reimbursement headwinds: Medicare drug price negotiation under IRA is a genuine pricing cap risk for GLP-1s. 4. Manufacturing execution risk: $10bn+ investment unprecedented; delays or quality issues hand share to competitors. 5. Valuation embeddedness: 40x P/E prices in near-perfect execution; limited margin of safety for disappointment."
+      "text": ""
     },
     "whoShouldOwnIt": {
-      "text": "Owners: Long-term conviction investors (5-10 year horizon) who believe GLP-1 obesity will become the largest drug category in history. Growth-at-reasonable-price investors who accept the premium for a durable earnings runway. Those seeking diversified pharmaceutical exposure without binary single-asset clinical trial risk. Existing holders managing cost basis following the ~13% YTD decline.\nAvoiders: Near-term focused investors requiring earnings momentum or price catalysts. Value investors seeking better P/E support. Those concerned about Medicare pricing headwinds or GLP-1 safety signals creating binary downside at these valuations. Anyone requiring margin of safety at 40x P/E."
+      "text": ""
     },
     "recommendation": {
-      "text": "OPPORTUNISTIC BUY at conviction 55. Eli Lilly is one of the best-positioned pharmaceutical franchises globally with a genuine multi-decade GLP-1 obesity growth opportunity. The ~13% YTD decline and ~40% drawdown from 52-week highs has improved the risk-reward for patient long-term capital. The 40x P/E remains premium but defensible for this earnings trajectory.\nEntry/Exit Framework:\nBUY below $560: Meaningful correction brings risk-reward into compelling territory. Implies approximately 33x P/E on base-case 2026 EPS.\nHOLD $560-$780: Fair value range; accumulate on dips, trim on rallies. 33-46x P/E calibrated to base-case earnings.\nREDUCE above $780: At 46x+ P/E, the market prices near-perfect execution with limited margin of safety for competitive surprises or pricing headwinds.\nSTOP/SELL $480: Technical and fundamental stop level below 52-week low range.\nNote: Analyst consensus price target of $1,224 (30 analysts, per MarketBeat) represents the bull-to-base case ceiling."
+      "text": ""
+    },
+    "entry": {
+      "text": ""
+    },
+    "sources": {
+      "text": ""
     }
   },
-  "sources": [
-    "grok-2026-04-17.json (AI synthesis)",
-    "web-2026-04-17.json (web research: StockTitan, MarketBeat, NPR, Reuters, CNBC, Scientific American, Forbes, Yahoo Finance, Tikr, Public.com)"
-  ]
+  "scores": {
+    "current": {
+      "score": 69,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
+    },
+    "history": [
+      {
+        "date": "2026-04-16",
+        "conviction": 55
+      }
+    ]
+  }
 }

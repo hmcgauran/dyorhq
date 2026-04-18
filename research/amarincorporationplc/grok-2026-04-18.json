@@ -1,0 +1,13 @@
+{
+  "score": 38,
+  "signal": "negative",
+  "key_themes": [
+    "legal challenges",
+    "patent loss",
+    "revenue decline",
+    "generic competition",
+    "pipeline uncertainty"
+  ],
+  "summary": "AMRN faces bearish sentiment due to ongoing legal challenges and patent loss for Vascepa, leading to increased generic competition and revenue declines. Analyst tone remains cautious with limited near-term catalysts, and price momentum has been downward with persistent selling pressure.",
+  "raw": "{\n  \"score\": -30,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"legal challenges\", \"patent loss\", \"revenue decline\", \"generic competition\", \"pipeline uncertainty\"],\n  \"summary\": \"AMRN faces bearish sentiment due to ongoing legal challenges and patent loss for Vascepa, leading to increased generic competition and revenue declines. Analyst tone remains cautious with limited near-term catalysts, and price momentum has been downward with persistent selling pressure.\"\n}"
+}

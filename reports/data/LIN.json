@@ -1,128 +1,112 @@
 {
   "meta": {
     "ticker": "LIN",
-    "company": "Linde PLC",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 61,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "LIN - Linde plc",
+    "exchange": "#N/A",
+    "isin": "IE000S9YS762",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.386Z",
     "universes": [
+      "irish",
       "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 503.15,
-    "marketCap": 233200000000,
-    "marketCapFormatted": "$233.20B",
-    "trailingPE": 34.46,
-    "trailingEps": 14.6,
-    "fiftyTwoWeekHigh": 510.65,
-    "fiftyTwoWeekLow": 387.78,
-    "formatted": ""
+    "current": 492.23,
+    "currency": "USD",
+    "marketCap": "228096433710",
+    "pe": 33.7,
+    "eps": 14.61,
+    "week52High": 510.65,
+    "week52Low": 387.78,
+    "beta": 0.78,
+    "avgVolume": "2452887",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "industrial gas demand",
+      "sustainability initiatives",
+      "strong earnings",
+      "global expansion",
+      "economic recovery"
+    ],
+    "summary": "Linde plc (LIN) exhibits a positive sentiment driven by strong quarterly earnings, growing demand for industrial gases, and a focus on sustainability initiatives. Recent analyst upgrades and upward price momentum further support a bullish outlook, with potential near-term catalysts including global economic recovery and expansion in emerging markets.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 30,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 12,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Linde PLC (LIN) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is HOLD with conviction 61/100, using $503.15 as the latest stored price reference where available."
+      "text": "Linde is one of the highest-quality industrial gas businesses in the world, and that matters because industrial gases are unusually resilient, sticky and cash generative when managed well. The company benefits from long-term on-site contracts, disciplined pricing and exposure to attractive end markets ranging from healthcare to electronics. It is rarely cheap, but there are good reasons why investors often accept that."
     },
     "businessModel": {
-      "text": "Linde PLC is a global industrial-gases franchise, where contract quality, pricing, project backlog and disciplined capital allocation drive the long-term compounding case. The repaired note removes the prior mix-up with another industrial name."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$503.15"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$233.2 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "34.46x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$14.60"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$510.65"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$387.78"
-        }
-      ]
+      "price": 492.23,
+      "pe": 33.7,
+      "eps": 14.61,
+      "marketCap": "228096433710",
+      "week52High": 510.65,
+      "week52Low": 387.78,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Large project wins, base pricing, on-site volume trends and healthcare or electronics demand remain the main operating levers."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present hold stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Industrial production weakness can affect merchant volumes. Large-project timing can move earnings by period. Valuation can compress if growth slows. Energy costs and pass-through timing matter. Execution on major capital projects remains important.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Industrial production weakness can affect merchant volumes."
-        },
-        {
-          "rank": 2,
-          "risk": "Large-project timing can move earnings by period."
-        },
-        {
-          "rank": 3,
-          "risk": "Valuation can compress if growth slows."
-        },
-        {
-          "rank": 4,
-          "risk": "Energy costs and pass-through timing matter."
-        },
-        {
-          "rank": 5,
-          "risk": "Execution on major capital projects remains important."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors seeking high-quality industrial compounding with pricing power. Avoid: Investors who need a low-multiple entry point or rapid cyclical upside."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD - Conviction: 61/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a hold stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 61,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 61,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-11",
+        "conviction": 61
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 80
       }
     ]
   }

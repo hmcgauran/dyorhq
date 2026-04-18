@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "steady growth",
+    "legal services demand",
+    "dividend stability",
+    "market competition",
+    "economic uncertainty"
+  ],
+  "summary": "Gateley (Holdings) PLC (GTLY) shows a positive sentiment with steady growth in its legal and professional services, supported by consistent demand and a stable dividend policy. Recent analyst tone is cautiously optimistic, though price momentum has been moderate, with potential near-term catalysts tied to economic conditions and competitive pressures.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"steady growth\", \"legal services demand\", \"dividend stability\", \"market competition\", \"economic uncertainty\"],\n  \"summary\": \"Gateley (Holdings) PLC (GTLY) shows a positive sentiment with steady growth in its legal and professional services, supported by consistent demand and a stable dividend policy. Recent analyst tone is cautiously optimistic, though price momentum has been moderate, with potential near-term catalysts tied to economic conditions and competitive pressures.\"\n}"
+}

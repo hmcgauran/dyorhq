@@ -1,90 +1,109 @@
 {
-  "ticker": "XOM",
-  "company": "Exxon Mobil Corporation",
-  "isin": "US30231G1022",
-  "exchange": "NYSE",
-  "currency": "USD",
-  "price": 143.05,
-  "marketCap": "$591.9B",
-  "sector": "Energy — Integrated Oil and Gas",
-  "date": "17 April 2026",
-  "reportDate": "2026-04-17",
-  "recommendation": "OPPORTUNISTIC BUY",
-  "conviction": 50,
-  "convictionHistory": [
-    {"date": "2026-04-17", "conviction": 50}
-  ],
-  "priceAtLastReport": 143.05,
-  "marketCapAtLastReport": "$591.9B",
-  "pe": 21.36,
-  "eps": 6.69,
-  "dividendYield": "3.2%",
-  "beta": 0.90,
-  "sharesOut": "4.14B",
-  "avgVolume": "24.3M",
-  "52wHigh": 176.41,
-  "52wLow": 95.00,
-  "prevClose": 144.86,
+  "meta": {
+    "ticker": "XOM",
+    "company": "XOM - Exxon Mobil Corporation",
+    "exchange": null,
+    "isin": "US30231G1022",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.382Z",
+    "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 146.44,
+    "currency": "USD",
+    "marketCap": "608686510107",
+    "pe": 21.9,
+    "eps": 6.69,
+    "week52High": 176.41,
+    "week52Low": 101.19,
+    "beta": 0.29,
+    "avgVolume": "24256782",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 63,
+    "signal": "positive",
+    "keyThemes": [
+      "energy demand recovery",
+      "oil price strength",
+      "sustainability initiatives",
+      "dividend reliability"
+    ],
+    "summary": "Exxon Mobil (XOM) shows a moderately positive sentiment driven by recovering global energy demand and strong oil prices, though tempered by ongoing scrutiny of fossil fuel investments. Analyst tone leans cautiously optimistic, with price momentum showing steady gains and potential catalysts in upcoming earnings and sustainability project updates.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
+  },
   "sections": {
     "executiveSummary": {
-      "text": "Exxon Mobil is a world-class integrated oil company that has staged a remarkable recovery from sub-$100 levels to all-time highs near $176, driven by the Middle East conflict premium and a structural undersupply thesis in crude markets. The company is now approaching its next earnings report on May 1, 2026, with the Q1 print expected to reflect a $5.3 billion hit from hedging and timing effects even as the Iran-conflict-driven oil price elevation supports the broader energy narrative. Guyanese production continues its ramp toward 1.2 million barrels per day by 2027, the Permian is delivering, and the dividend is secure at $70+ oil. The stock at $143 is pricing in an elevated geopolitical risk premium — OPPORTUNISTIC BUY with conviction of 50 reflects the quality of the asset base and the free cash flow yield but acknowledges that near 52-week highs, the risk-reward is more balanced than it was at $100."
+      "text": "Exxon Mobil is a world-class integrated oil company that has staged a remarkable recovery from sub-$100 levels to all-time highs near $176, driven by the Middle East conflict premium and a structural undersupply thesis in crude markets. The company's operational leverage means..."
     },
     "businessModel": {
-      "text": "Exxon Mobil is the largest publicly traded integrated energy company in the world, operating across the full hydrocarbon value chain from upstream exploration and production through to downstream refining, chemicals, and marketing. The company has four core operating divisions: Upstream, covering conventional and unconventional oil and gas production across every major basin; Downstream, encompassing global refining operations and fuels marketing; Chemical, producing olefins, polyolefins, and specialty chemicals; and Low Carbon Solutions, an emerging segment targeting carbon capture, hydrogen, and biofuels. The company's competitive advantage rests on its advantaged asset portfolio — particularly the Permian Basin position in the US and the world-class Stabroek block in Guyana — combined with operational excellence in deepwater development and project execution. At $75-80 oil, Exxon generates $20-25 billion in annual free cash flow, comfortably covering the ~$15 billion annual dividend commitment while funding $17-20 billion in annual share buybacks."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Exxon posted full-year 2025 earnings of approximately $26.2 billion on revenue of $404 billion. The Upstream segment delivered record earnings of $24 billion driven by strong volumes and cost discipline. Downstream and Chemical segments remained under pressure from margin compression, with combined earnings of approximately $5 billion. Capital expenditure was approximately $22 billion, within guidance. Free cash flow after dividends was approximately $12 billion. The balance sheet remains investment grade with net debt of approximately $40 billion. The company returned $14.8 billion to shareholders in 2025 through dividends and buybacks. Guyana production reached approximately 620,000 barrels per day in Q4 2025 and is targeting 1.2 million barrels per day by 2027. Permian production is approximately 650,000 barrels of oil equivalent per day and growing. The 2026 dividend is covered approximately 2.5x by operating cash flow at $70+ oil."
+      "price": 146.44,
+      "pe": 21.9,
+      "eps": 6.69,
+      "marketCap": "608686510107",
+      "week52High": 176.41,
+      "week52Low": 101.19,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "The Iran-conflict situation has elevated geopolitical risk in the Persian Gulf, supporting Brent crude above $90 and providing a sustained tailwind for integrated oil majors. Exxon lost approximately 6% of global production in Q1 2026 as the conflict paralysed oil and natural gas operations across the Gulf region — a direct hit that management flagged will reduce upstream profits despite higher headline oil prices. The company guided to approximately $5 billion, or $1.20 per share, for Q1 despite the hedging drag of $5.3 billion. Separately, production at the Stabroek block in Guyana reached 875,000 gross barrels per day, with the Yellowtail project ramping and the Uaru project commissioned for 2026 — targeting 840,000 barrels per day in Guyana for the full year, up from an estimated 715,000 b/d in 2025. Permian output reached 1.8 million barrels per day in Q4 2025 and is on a growth trajectory. The next major catalyst is the Q1 2026 earnings call on May 1, 2026, with consensus EPS estimates at $1.80 and revenue of $80.45 billion. A $20 billion buyback programme remains active for 2026."
+      "text": ""
     },
     "thesisEvaluation": {
-      "bullCase": {
-        "conviction": 68,
-        "text": "Oil surges above $100 on geopolitical disruption or OPEC+ breakdown, Guyanan production ramps to 1.2MMbpd as planned, Permian output grows to 750,000+ boepd, chemical and downstream margins recover in a demand upcycle. EPS hits $9-10. Buyback accelerates. Stock reaches $175-195 at 20x earnings. This scenario requires the geopolitical risk premium to persist rather than resolve."
-      },
-      "baseCase": {
-        "conviction": 50,
-        "text": "Oil stabilises at $70-80, Guyana performs as guidance, Permian offsets natural decline elsewhere, chemical margins normalise, EPS of $7-8. Stock drifts to $145-160 at 20-22x P/E as geopolitical premium slowly fades. The dividend remains secure and the buyback continues. This is the base case scenario."
-      },
-      "bearCase": {
-        "conviction": 28,
-        "text": "Oil falls below $60 on demand destruction from recession or OPEC+ breakdown, earnings collapse to $3-4 EPS, dividend becomes stretched and is cut, buyback programme suspended. Stock falls to $70-85 on 10-12x P/E. This is the scenario that bears must identify if they are to profit from it."
-      }
+      "text": ""
     },
-    "keyRisks": [
-      {
-        "risk": "Oil price cyclicality",
-        "description": "Exxon's earnings and cash flow are directly correlated to the oil price. A 10% decline in Brent crude translates to approximately $2-3 billion in lost earnings. The stock has historically traded between 8x and 18x earnings depending on the oil price cycle, making it highly volatile for a company of its size."
-      },
-      {
-        "risk": "Energy transition secular headwind",
-        "description": "The long-term demand destruction from electric vehicles, renewable energy, and energy efficiency improvements creates a structural headwind for fossil fuel demand post-2030. Exxon's massive asset base faces potential stranding risk if policy incentives accelerate the transition. The Low Carbon Solutions division remains too small to offset core business headwinds."
-      },
-      {
-        "risk": "Geopolitical resolution",
-        "description": "The current stock price near $143 reflects a geopolitical risk premium embedded in the oil price. If the Middle East situation stabilises or a ceasefire occurs, oil could fall $10-15 and Exxon's earnings would compress accordingly. This is the single most important near-term risk for the stock."
-      },
-      {
-        "risk": "Guyana execution risk",
-        "description": "The Stabroek block is operated by Exxon with partners Hess and CNOCC. While progress has been excellent, the ambitious 1.2MMbpd target by 2027 requires flawless execution across multiple simultaneously operating FPSOs. Any delay, cost overrun, or operational issue could impair the growth thesis. There is also political risk related to the ongoing border dispute between Guyana and Venezuela."
-      },
-      {
-        "risk": "Q1 earnings near-term risk",
-        "description": "The May 1 Q1 earnings print will reflect the $5.3 billion hedging drag. While management has guided to approximately $1.20 per share, any miss versus the $1.80 consensus could create a negative near-term catalyst despite the long-term structural thesis."
-      }
-    ],
+    "keyRisks": {
+      "text": ""
+    },
     "whoShouldOwnIt": {
-      "text": "Exxon is appropriate for investors who understand the oil cycle and want to express a view on geopolitical risk and crude supply scarcity through a high-quality compounder. The stock is most attractive as a tactical position at the lower end of the trading range when oil price support is evident. Yield-oriented investors who want to combine energy exposure with a 3.2% dividend yield will find Exxon attractive relative to bond alternatives. Long-term holders should be aware that the energy transition creates secular demand uncertainty that could impair the business model over a 10-20 year horizon."
+      "text": ""
     },
     "recommendation": {
-      "text": "OPPORTUNISTIC BUY. Exxon is a high-quality compounder that generates extraordinary free cash flow at $75+ oil and continues to execute its growth programme. The Guyanan asset base is among the best in the industry. However, at $143 near 52-week highs, the risk-reward is more balanced than it was at $100. The stock is pricing in an elevated oil price that may not persist if geopolitics stabilises. The Q1 earnings on May 1 will be a test of near-term thesis.",
-      "entryFramework": {
-        "BUY": "below $115 — high quality asset at a reasonable price with meaningful upside to base case",
-        "ADD": "below $105 — attractive risk-reward with margin of safety",
-        "REDUCE": "above $155 — geopolitical premium fully priced, limited upside to base case",
-        "STOP": "below $95 — fundamental deterioration or prolonged oil bear market"
-      }
+      "text": ""
+    },
+    "entry": {
+      "text": ""
+    },
+    "sources": {
+      "text": ""
     }
+  },
+  "scores": {
+    "current": {
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
+    },
+    "history": [
+      {
+        "date": "2026-04-16",
+        "conviction": 50
+      }
+    ]
   }
 }

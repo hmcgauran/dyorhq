@@ -1,139 +1,108 @@
 {
   "meta": {
     "ticker": "LRCX",
-    "company": "Lam Research Corporation",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 59,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "LRCX - Lam Research Corporation",
+    "exchange": null,
+    "isin": "US5184391044",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 69,
+    "lastRefreshed": "2026-04-18T15:09:10.385Z",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 263.66,
-    "marketCap": 331200000000.0,
-    "marketCapFormatted": "$331.20B",
-    "trailingPE": 54.25,
-    "trailingEps": 4.86,
-    "fiftyTwoWeekHigh": 268.23,
-    "fiftyTwoWeekLow": 61.14,
-    "formatted": ""
+    "current": 267.6,
+    "currency": "USD",
+    "marketCap": "334171127221",
+    "pe": 54.84,
+    "eps": 4.88,
+    "week52High": 273.5,
+    "week52Low": 61.14,
+    "beta": 1.74,
+    "avgVolume": "10260468",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "semiconductor demand",
+      "analyst upgrades",
+      "AI-driven growth",
+      "market momentum"
+    ],
+    "summary": "Lam Research Corporation (LRCX) exhibits a positive sentiment driven by strong quarterly earnings, robust demand in the semiconductor sector fueled by AI and data center growth, and recent analyst upgrades. Price momentum remains bullish with the stock near its 52-week high, and potential near-term catalysts include upcoming industry conferences and continued AI infrastructure investments.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 27,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 15,
+    "bearScore": 38,
+    "conviction": 69
   },
   "sections": {
     "executiveSummary": {
-      "text": "Lam Research is a critical semiconductor capital equipment provider with exceptional exposure to memory (DRAM and NAND) and advanced packaging, but the 54x trailing P/E reflects a memory upcycle that is already well underway, limiting upside at current levels. HOLD is the weighted recommendation with a conviction score of 59."
-    },
-    "businessModel": {
       "text": "Lam Research Corporation (LRCX) operates in the Technology sector and is listed on NASDAQ. The business generates revenue through its core operations in technology."
     },
+    "businessModel": {
+      "text": ""
+    },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$263.66"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$331.2 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "54.25x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$4.86"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$268.23"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$61.14"
-        }
-      ]
+      "price": 267.6,
+      "pe": 54.84,
+      "eps": 4.88,
+      "marketCap": "334171127221",
+      "week52High": 273.5,
+      "week52Low": 61.14,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Lam Research Corporation has been navigating the current market environment with its core technology franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (75): HBM4 and advanced packaging demand drives Lam's etch and deposition systems beyond current expectations. Chinese domestic capacity expansion continues. DRAM 3D stacking drives higher system value. EPS grows to $60+. Price: $310+. Base Case (60): Memory upcycle sustains through 2026 with gradual capacity additions. Foundry/logic capex stabilises. China situation remains constructive. EPS: $48-54. Price: $260-295. Bear Case (38): Memory oversupply resurfaces as Samsung and SK Hynix accelerate capacity. AI server memory upgrades plateau. Chinese domestic equipment substitution reduces Lam's addressable market. EPS falls to $38-42. Price: below $215. Weighted Score: 60 - Bull 75 × 30% + Base 60 × 50% + Bear 38 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Memory cyclicality: Lam's revenue is heavily exposed to DRAM and NAND capex cycles. The memory market has historically been highly cyclical with dramatic upcycles and painful downcycles. HBM concentration risk: While HBM is currently a major growth driver, it represents a small fraction of total DRAM bit demand. The durability of the HBM upcycle depends on sustained AI GPU demand. China domestic substitution: China's equipment Self-Sufficiency drive (Made in China 2025) targets semiconductor capital equipment. This is a long-term headwind for Western equipment companies' China revenues. Competitive dynamics: Applied Materials and Tokyo Electron are direct competitors in etch and deposition. Technological leadership shifts between competitors can be sudden. Capex concentration risk: TSMC, Samsung and SK Hynix represent a disproportionate share of Lam's revenue. Any single customer's capex pivot has meaningful financial impact.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Memory cyclicality: Lam's revenue is heavily exposed to DRAM and NAND capex cycles. The memory market has historically been highly cyclical with dramatic upcycles and painful downcycles."
-        },
-        {
-          "rank": 2,
-          "risk": "HBM concentration risk: While HBM is currently a major growth driver, it represents a small fraction of total DRAM bit demand. The durability of the HBM upcycle depends on sustained AI GPU demand."
-        },
-        {
-          "rank": 3,
-          "risk": "China domestic substitution: China's equipment Self-Sufficiency drive (Made in China 2025) targets semiconductor capital equipment. This is a long-term headwind for Western equipment companies' China revenues."
-        },
-        {
-          "rank": 4,
-          "risk": "Competitive dynamics: Applied Materials and Tokyo Electron are direct competitors in etch and deposition. Technological leadership shifts between competitors can be sudden."
-        },
-        {
-          "rank": 5,
-          "risk": "Capex concentration risk: TSMC, Samsung and SK Hynix represent a disproportionate share of Lam's revenue. Any single customer's capex pivot has meaningful financial impact."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Thematic investors seeking semiconductor capital equipment exposure with memory upcycle optionality and advanced packaging upside. Medium-term holding given memory cycle dynamics."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. BUY below $215 (implies 36x base-case EPS - reasonable entry for a quality semiconductor equipment franchise during a memory upcycle). Reduce above $285 (implies 48x+ P/E - not compelling given cyclical earnings profile and China domestic substitution risk)."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $215 (implies 36x base-case EPS - reasonable entry for a quality semiconductor equipment franchise during a memory upcycle). | Reduce above $285 (implies 48x+ P/E - not compelling given cyclical earnings profile and China domestic substitution risk)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 59,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 69,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 59,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 59
       }
     ]
   }

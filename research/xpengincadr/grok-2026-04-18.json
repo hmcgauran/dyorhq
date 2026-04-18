@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "EV market growth",
+    "strong delivery numbers",
+    "competitive pressures",
+    "China policy support"
+  ],
+  "summary": "XPeng Inc (XPEV US) shows a positive sentiment driven by strong delivery growth and supportive EV policies in China, though competitive pressures in the sector remain a concern. Recent news highlights robust sales figures, and analyst tone is cautiously optimistic with improving price momentum.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"EV market growth\", \"strong delivery numbers\", \"competitive pressures\", \"China policy support\"],\n  \"summary\": \"XPeng Inc (XPEV US) shows a positive sentiment driven by strong delivery growth and supportive EV policies in China, though competitive pressures in the sector remain a concern. Recent news highlights robust sales figures, and analyst tone is cautiously optimistic with improving price momentum.\"\n}"
+}

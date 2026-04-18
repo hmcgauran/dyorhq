@@ -1,0 +1,13 @@
+{
+  "score": 76,
+  "signal": "positive",
+  "key_themes": [
+    "strong iPhone sales",
+    "AI integration",
+    "upcoming product launches",
+    "market share growth",
+    "macroeconomic concerns"
+  ],
+  "summary": "Apple Inc. (AAPL) exhibits a positive sentiment driven by strong iPhone sales, optimism around AI integration in products, and anticipation for upcoming launches like the iPhone 16. Analyst tone remains largely bullish, supported by consistent price momentum, though some caution persists due to broader macroeconomic headwinds.",
+  "raw": "{\n  \"score\": 75,\n  \"signal\": \"positive\",\n  \"key_themes\": [\n    \"strong iPhone sales\",\n    \"AI integration\",\n    \"upcoming product launches\",\n    \"market share growth\",\n    \"macroeconomic concerns\"\n  ],\n  \"summary\": \"Apple Inc. (AAPL) exhibits a positive sentiment driven by strong iPhone sales, optimism around AI integration in products, and anticipation for upcoming launches like the iPhone 16. Analyst tone remains largely bullish, supported by consistent price momentum, though some caution persists due to broader macroeconomic headwinds.\"\n}"
+}

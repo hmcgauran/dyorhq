@@ -1,0 +1,12 @@
+{
+  "score": 73,
+  "signal": "positive",
+  "key_themes": [
+    "renewable energy growth",
+    "stable dividends",
+    "European expansion",
+    "market volatility"
+  ],
+  "summary": "Greencoat Renewables PLC (GRP) exhibits a positive sentiment driven by strong fundamentals in the renewable energy sector and consistent dividend payouts, despite some market volatility. Recent news highlights expansion in European wind and solar assets, with analysts maintaining an optimistic tone regarding long-term growth.",
+  "raw": "{\n  \"score\": 65,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"renewable energy growth\", \"stable dividends\", \"European expansion\", \"market volatility\"],\n  \"summary\": \"Greencoat Renewables PLC (GRP) exhibits a positive sentiment driven by strong fundamentals in the renewable energy sector and consistent dividend payouts, despite some market volatility. Recent news highlights expansion in European wind and solar assets, with analysts maintaining an optimistic tone regarding long-term growth.\"\n}"
+}

@@ -1,114 +1,110 @@
 {
   "meta": {
     "ticker": "IONQ",
-    "company": "IonQ Inc",
-    "exchange": "US",
+    "company": "IONQ - IonQ Inc",
+    "exchange": "#N/A",
     "isin": "US46222L1089",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "recommendationNote": "REDUCE - SPECULATIVE",
-    "conviction": 47,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.384Z",
     "universes": [
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 46.09,
+    "currency": "USD",
+    "marketCap": "16898469918",
+    "pe": null,
+    "eps": -1.82,
+    "week52High": 84.64,
+    "week52Low": 23.49,
+    "beta": 2.81,
+    "avgVolume": "24557625",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "quantum computing growth",
+      "partnership announcements",
+      "stock volatility",
+      "industry competition",
+      "technological innovation"
+    ],
+    "summary": "IonQ Inc. shows a positive sentiment driven by recent partnerships and growing interest in quantum computing, though tempered by stock price volatility and competitive pressures. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends and potential near-term catalysts from upcoming earnings or tech demos.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "IonQ is arguably the cleaner public quantum story than some peers, but that still leaves it as a speculative, loss-making business trading on future possibility rather than present economics. At $29.55, only 5% off the 52-week high, the market is valuing the company as if quantum commercialisation is approaching quickly. That remains unproven. There is genuine platform value if IonQ can turn technical leadership into real enterprise demand. Today the stock still looks priced for perfection. Bott"
+      "text": "IonQ is a pure-play quantum computing company trading on the NYSE. The prior report (8 Apr 2026, conviction 47, REDUCE) was written when the stock was at $29.55 — a thoughtful assessment of an overvalued, pre-revenue story. That characterisation is now materially incomplete. The stock has surged over 20% in a single session to $43.25, driven by a photonic interconnect breakthrough, DARPA HARQ program selection, and sector-wide momentum from Nvidia's quantum announcements."
     },
     "businessModel": {
-      "text": "IonQ builds trapped-ion quantum systems and sells access through cloud platforms, direct enterprise engagements, and government relationships. The appeal is technical differentiation, but the business model is still immature because customer demand is early-stage and real production use remains limited. The investment case depends on the company converting technical milestones into repeatable commercial revenue, while defending its approach against competing quantum architectures and larger-cap rivals."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: $29.55 Market cap: $10.4B 52-week range: $28.73 - $31.10 P/E: N/A EPS: -$2.25 Beta: 2.93 The stock is near the top of the range despite negative earnings. That is the entire problem in one line.",
-      "table": []
+      "price": 46.09,
+      "pe": null,
+      "eps": -1.82,
+      "marketCap": "16898469918",
+      "week52High": 84.64,
+      "week52Low": 23.49,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Quantum sector enthusiasm has remained elevated as investors look for the next platform shift after AI. Government and cloud partnerships continue to validate relevance, even if not yet at scale. Technical milestone announcements help sentiment, but monetisation remains the bottleneck.",
-      "items": [
-        "Quantum sector enthusiasm has remained elevated as investors look for the next platform shift after AI.",
-        "Government and cloud partnerships continue to validate relevance, even if not yet at scale.",
-        "Technical milestone announcements help sentiment, but monetisation remains the bottleneck."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): IonQ wins meaningful commercial workloads, maintains perceived technical leadership, and rerates higher. Base (45%): incremental progress continues but revenue lags valuation, leaving the stock volatile and theme-driven. Bear (30%): sentiment cools, commercial adoption disappoints, and the stock derates materially. Weighted conviction: 47/100.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Commercialisation risk: technical promise may not convert into revenue quickly enough. Valuation risk: near-peak pricing with no earnings support. Technology competition: no guarantee trapped-ion wins the market.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Commercialisation risk: technical promise may not convert into revenue quickly enough."
-        },
-        {
-          "rank": 2,
-          "risk": "Valuation risk: near-peak pricing with no earnings support."
-        },
-        {
-          "rank": 3,
-          "risk": "Technology competition: no guarantee trapped-ion wins the market."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: speculative investors who want listed quantum exposure and can tolerate severe drawdowns. Should avoid: investors looking for disciplined entry, cash generation, or conventional valuation support."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - SPECULATIVE at $29.55. Attractive narrative, weak margin of safety."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Below $22: better speculative entry zone $22-$29: hold only if sized appropriately Above $30: trim Key trigger: proof of revenue scale beyond showcase partnerships Conviction Trend Latest conviction: 47/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 47"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price $29.55",
-        "Market Cap $10.4B",
-        "P/E N/A",
-        "52w High $31.10",
-        "52w Low $28.73",
-        "Beta 2.93"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 47,
-      "band": "REDUCE",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 47,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 47
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 68
       }
     ]
   }

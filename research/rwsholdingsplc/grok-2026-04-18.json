@@ -1,0 +1,13 @@
+{
+  "score": 56,
+  "signal": "neutral",
+  "key_themes": [
+    "steady performance",
+    "market uncertainty",
+    "acquisition integration",
+    "language services demand",
+    "economic sensitivity"
+  ],
+  "summary": "RWS Holdings plc shows a neutral sentiment with a slight positive tilt due to steady demand for language services and translation technology, though tempered by broader economic concerns. Recent news highlights ongoing integration of acquisitions, with mixed analyst tone reflecting caution on global market conditions and limited near-term catalysts.",
+  "raw": "{\n  \"score\": 15,\n  \"signal\": \"neutral\",\n  \"key_themes\": [\"steady performance\", \"market uncertainty\", \"acquisition integration\", \"language services demand\", \"economic sensitivity\"],\n  \"summary\": \"RWS Holdings plc shows a neutral sentiment with a slight positive tilt due to steady demand for language services and translation technology, though tempered by broader economic concerns. Recent news highlights ongoing integration of acquisitions, with mixed analyst tone reflecting caution on global market conditions and limited near-term catalysts.\"\n}"
+}

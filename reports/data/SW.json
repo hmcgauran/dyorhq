@@ -1,124 +1,110 @@
 {
   "meta": {
     "ticker": "SW",
-    "company": "Smurfit Westrock",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "SW - Smurfit Westrock plc",
+    "exchange": null,
+    "isin": "IE00BFY0GT14",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.391Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "current": 42.06,
-    "fiftyTwoWeekHigh": 52.65,
-    "fiftyTwoWeekLow": 32.73,
-    "formatted": ""
+    "current": 42.24,
+    "currency": "USD",
+    "marketCap": "22144472943",
+    "pe": 31.79,
+    "eps": 1.33,
+    "week52High": 52.65,
+    "week52Low": 32.73,
+    "beta": null,
+    "avgVolume": "5676857",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "merger integration",
+      "packaging demand",
+      "sustainability focus",
+      "market recovery"
+    ],
+    "summary": "Smurfit Westrock plc (SW) shows a positive sentiment with a score of 45, driven by optimism around the recent merger between Smurfit Kappa and WestRock, creating a global leader in sustainable packaging. Analyst tone is generally constructive, with price momentum showing steady gains and potential catalysts in rising packaging demand and sustainability trends.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Smurfit Westrock (SW) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $42.06 as the latest stored price reference where available."
+      "text": "Smurfit Westrock is a large paper and packaging combination whose appeal rests on scale, geographic breadth and the possibility of extracting meaningful synergies from the merger. Packaging can be a decent business when supply is rational and value-added customer relationships are strong, but it is still cyclical, energy-intensive and sensitive to containerboard pricing. That makes this a merger-execution story as much as a packaging story."
     },
     "businessModel": {
-      "text": "Smurfit Westrock is exposed to packaging volumes, pricing and synergy delivery, with the near-term thesis tied to demand normalisation and cost execution."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$42.06"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "N/A"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "N/A"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$52.65"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$32.73"
-        }
-      ]
+      "price": 42.24,
+      "pe": 31.79,
+      "eps": 1.33,
+      "marketCap": "22144472943",
+      "week52High": 52.65,
+      "week52Low": 32.73,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Box demand, mix, cost savings and balance-sheet progress remain the main drivers."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Industrial and consumer demand can weaken. Pricing can fall faster than costs. Integration or synergy delivery can lag. Leverage can amplify disappointment. Energy and raw-material costs can stay volatile.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Industrial and consumer demand can weaken."
-        },
-        {
-          "rank": 2,
-          "risk": "Pricing can fall faster than costs."
-        },
-        {
-          "rank": 3,
-          "risk": "Integration or synergy delivery can lag."
-        },
-        {
-          "rank": 4,
-          "risk": "Leverage can amplify disappointment."
-        },
-        {
-          "rank": 5,
-          "risk": "Energy and raw-material costs can stay volatile."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors comfortable with cyclical packaging demand and restructuring risk. Avoid: Investors who need low leverage and highly stable volumes."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "2026-04-11",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-11",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 50
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 58
       }
     ]
   }

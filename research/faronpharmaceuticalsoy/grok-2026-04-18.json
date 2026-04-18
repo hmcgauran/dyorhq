@@ -1,0 +1,12 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "clinical trial delays",
+    "funding concerns",
+    "mixed analyst outlook",
+    "volatile price action"
+  ],
+  "summary": "Faron Pharmaceuticals Oy (FARN) exhibits a slightly negative sentiment due to recent delays in clinical trial results and ongoing concerns about funding for pipeline development. While some analysts remain cautiously optimistic about long-term potential, price momentum has been weak with no significant near-term catalysts identified.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"clinical trial delays\", \"funding concerns\", \"mixed analyst outlook\", \"volatile price action\"],\n  \"summary\": \"Faron Pharmaceuticals Oy (FARN) exhibits a slightly negative sentiment due to recent delays in clinical trial results and ongoing concerns about funding for pipeline development. While some analysts remain cautiously optimistic about long-term potential, price momentum has been weak with no significant near-term catalysts identified.\"\n}"
+}

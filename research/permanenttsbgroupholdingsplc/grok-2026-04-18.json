@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "earnings growth",
+    "Irish banking sector recovery",
+    "interest rate environment",
+    "digital transformation"
+  ],
+  "summary": "Permanent TSB Group Holdings PLC (PTSB) shows a positive sentiment driven by recent earnings growth and a recovering Irish banking sector, supported by a favorable interest rate environment. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends, though no major near-term catalysts are evident.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"earnings growth\", \"Irish banking sector recovery\", \"interest rate environment\", \"digital transformation\"],\n  \"summary\": \"Permanent TSB Group Holdings PLC (PTSB) shows a positive sentiment driven by recent earnings growth and a recovering Irish banking sector, supported by a favorable interest rate environment. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends, though no major near-term catalysts are evident.\"\n}"
+}

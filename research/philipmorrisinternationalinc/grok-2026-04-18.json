@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "smoke-free products",
+    "dividend yield",
+    "regulatory scrutiny",
+    "market expansion"
+  ],
+  "summary": "Philip Morris International (PM) exhibits a positive sentiment driven by strong recent earnings, growth in smoke-free product sales like IQOS, and an attractive dividend yield. However, ongoing regulatory pressures in various markets slightly temper the bullish outlook.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"smoke-free products\", \"dividend yield\", \"regulatory scrutiny\", \"market expansion\"],\n  \"summary\": \"Philip Morris International (PM) exhibits a positive sentiment driven by strong recent earnings, growth in smoke-free product sales like IQOS, and an attractive dividend yield. However, ongoing regulatory pressures in various markets slightly temper the bullish outlook.\"\n}"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "portfolio growth",
+    "dividend yield",
+    "market recovery",
+    "interest rate concerns"
+  ],
+  "summary": "MERLIN Properties SOCIMI SA (MRL) shows a positive sentiment driven by strong recent earnings, portfolio expansion in logistics and offices, and an attractive dividend yield. However, lingering concerns about interest rate impacts on real estate valuations temper overly bullish outlooks.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"portfolio growth\", \"dividend yield\", \"market recovery\", \"interest rate concerns\"],\n  \"summary\": \"MERLIN Properties SOCIMI SA (MRL) shows a positive sentiment driven by strong recent earnings, portfolio expansion in logistics and offices, and an attractive dividend yield. However, lingering concerns about interest rate impacts on real estate valuations temper overly bullish outlooks.\"\n}"
+}

@@ -1,108 +1,106 @@
 {
   "meta": {
     "ticker": "MO",
-    "company": "Altria Group, Inc.",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
+    "company": "MO - Altria Group, Inc.",
+    "exchange": null,
+    "isin": "US02209S1033",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
     "conviction": 70,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "lastRefreshed": "2026-04-18T15:09:10.377Z",
     "universes": [
       "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 64.17,
+    "currency": "USD",
+    "marketCap": "107248152149",
+    "pe": 15.59,
+    "eps": 4.12,
+    "week52High": 70.51,
+    "week52Low": 54.7,
+    "beta": 0.41,
+    "avgVolume": "9710224",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 44,
+    "signal": "negative",
+    "keyThemes": [
+      "regulatory pressure",
+      "declining cigarette volumes",
+      "dividend stability",
+      "e-cigarette uncertainty"
+    ],
+    "summary": "Altria Group, Inc. (MO) faces a negative sentiment due to ongoing regulatory challenges and declining traditional cigarette sales, despite a stable dividend appealing to income investors. Recent news highlights concerns over e-cigarette market restrictions, with mixed analyst tone and weak price momentum reflecting caution.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 53,
+    "baseScore": 68,
+    "bearProbability": 14,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Altria's dominant US tobacco franchise provides exceptional cash generation and a 7%+ dividend yield, but secular cigarette volume decline, regulatory pressure and IQOS IPM litigation uncertainty make meaningful re-rating difficult without clearer portfolio diversification -- HOLD . HOLD Conviction Score: 70/100 - HOLD"
+      "text": "Altria's dominant US tobacco franchise provides exceptional cash generation and a 7%+ dividend yield, but secular cigarette volume decline, regulatory pressure and IQOS IPM litigation uncertainty make meaningful re-rating difficult without clearer portfolio diversification --..."
     },
     "businessModel": {
-      "text": "Altria is the parent of Philip Morris USA and holds economic interests in ABI (SABMiller), Anheuser-Busch InBev, and Cronos Group (cannabis). The core business is cigarettes in the US market: Marlboro holds ~40% of the US cigarette market, with other brands including L&M, Chesterfield and Philip Morris. Altria manufactures and distributes tobacco products entirely within the United States. The company also has an equity stake in Philip Morris International (separate entity post-2008 spinoff) and owns the US rights to IQOS (heated tobacco) via its investment in Philip Morris International. Revenue is overwhelmingly cigarette price/mix increases -- the business has enormous pricing power as a legal monopoly. Free cash flow is exceptional, funding an industry-leading dividend (~7.2% yield) and buybacks. Geographic: 100% United States."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Market Cap N/A NYSE Trailing P/E N/A 12-month earnings EPS (TTM) N/A Trailing twelve months 52-Week High $70.51 -4.4% from high 52-Week Low $54.70 From low: +23.2% vs 52-Week High -4.4% Distance to high",
-      "table": []
+      "price": 64.17,
+      "pe": 15.59,
+      "eps": 4.12,
+      "marketCap": "107248152149",
+      "week52High": 70.51,
+      "week52Low": 54.7,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Altria has been working to expand its reduced-risk product portfolio. The FDA has granted Modified Risk Tobacco Product (MRTP) status to IQOS, supporting the heated tobacco harm reduction narrative in the US. However, the International Trade Commission (ITC) ruled in 2023 that Altria must unwind its investment in IQOS (IPM) due to patent litigation findings, creating significant strategic uncertainty around the heated tobacco roadmap. Recent quarterly results showed cigarette volumes declining in the mid-single digits, roughly in line with long-term trends. Pricing has more than offset volume decline, sustaining revenues and EPS. The ABI and Cronos equity stakes continue to provide some portfolio diversification and periodic asset monetisation opportunities."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Reports / MO MO Altria Group, Inc. HOLD 11 April 2026 $$67.38 70 Conviction out of 100 >",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "#1 Secular volume decline: Cigarette volumes in the US have declined for decades at 3-5% annually. This structural headwind is not reversing and may accelerate as health awareness, vaping and illicit trade grow. #2 IQOS IPM litigation uncertainty: The ITC ruling requiring Altria to unwind its IQOS investment has created strategic confusion around Altria's reduced-risk product roadmap in the US. #3 FDA regulatory risk: Potential ban on menthol cigarettes (under FDA consideration) would be highly material to revenues and profitability. FDA nicotine cap proposals could restructure the category. #4 Illicit trade: Growth in counterfeit and contraband cigarettes reduces effective market size and creates pricing pressure without benefiting legitimate manufacturers. #5 Cannabis investment write-downs: The Cronos investment has been a significant drag on book value. Further write-downs are possible if cannabis legalisation and commercial success fail to materialise.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "#1 Secular volume decline: Cigarette volumes in the US have declined for decades at 3-5% annually. This structural headwind is not reversing and may accelerate as health awareness, vaping and illicit trade grow."
-        },
-        {
-          "rank": 2,
-          "risk": "#2 IQOS IPM litigation uncertainty: The ITC ruling requiring Altria to unwind its IQOS investment has created strategic confusion around Altria's reduced-risk product roadmap in the US."
-        },
-        {
-          "rank": 3,
-          "risk": "#3 FDA regulatory risk: Potential ban on menthol cigarettes (under FDA consideration) would be highly material to revenues and profitability. FDA nicotine cap proposals could restructure the category."
-        },
-        {
-          "rank": 4,
-          "risk": "#4 Illicit trade: Growth in counterfeit and contraband cigarettes reduces effective market size and creates pricing pressure without benefiting legitimate manufacturers."
-        },
-        {
-          "rank": 5,
-          "risk": "#5 Cannabis investment write-downs: The Cronos investment has been a significant drag on book value. Further write-downs are possible if cannabis legalisation and commercial success fail to materialise."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Yield-oriented investors who want a high and relatively secure dividend from a legal monopoly. The 7%+ yield is backed by exceptional free cash flow. Suitable for income-focused portfolios requiring low correlation to equity markets. Avoid: Growth investors and ESG-mandated funds will find the tobacco exposure unacceptable. Investors seeking exposure to reduced-risk tobacco products would do better with PMI directly."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD Score: 70/100 Altria is a cash machine offering a 7%+ dividend yield backed by a dominant US tobacco monopoly. The secular headwind is real but pricing power has proven remarkably durable. At current levels, the stock is a bond proxy with a very high yield -- appropriate for income but not for total return investors. Entry Framework: BUY below $58 (provides ~8% yield and meaningful capital appreciation optionality). Reduce above $74 (yields below 6%, inadequate for the fundamental risk). HOLD in the $58-$74 range. BUY below $49 HOLD $$64-$79 REDUCE above $86"
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $49 | HOLD $$64-$79 | REDUCE above $86"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
       "score": 70,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 70,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-11",
+        "conviction": 70
       }
     ]
   }

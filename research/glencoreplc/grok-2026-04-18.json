@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "commodity demand",
+    "energy transition",
+    "dividend policy",
+    "market volatility",
+    "sustainability focus"
+  ],
+  "summary": "Glencore PLC (GLEN) shows a positive sentiment with a score of 35, driven by strong commodity demand and a favorable analyst tone regarding its role in the energy transition. Recent news highlights its robust dividend policy and sustainability efforts, though market volatility remains a concern, with potential near-term catalysts in commodity price movements.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"commodity demand\", \"energy transition\", \"dividend policy\", \"market volatility\", \"sustainability focus\"],\n  \"summary\": \"Glencore PLC (GLEN) shows a positive sentiment with a score of 35, driven by strong commodity demand and a favorable analyst tone regarding its role in the energy transition. Recent news highlights its robust dividend policy and sustainability efforts, though market volatility remains a concern, with potential near-term catalysts in commodity price movements.\"\n}"
+}

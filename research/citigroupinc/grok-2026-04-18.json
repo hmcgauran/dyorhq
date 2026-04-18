@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "earnings growth",
+    "cost-cutting measures",
+    "market volatility",
+    "interest rate sensitivity"
+  ],
+  "summary": "Citigroup Inc. (C) shows a positive sentiment with recent news highlighting improved earnings and successful cost-cutting initiatives, supported by a generally optimistic analyst tone. Price momentum has been steady with a slight upward trend, though near-term catalysts like interest rate changes and market volatility could impact performance.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"earnings growth\", \"cost-cutting measures\", \"market volatility\", \"interest rate sensitivity\"],\n  \"summary\": \"Citigroup Inc. (C) shows a positive sentiment with recent news highlighting improved earnings and successful cost-cutting initiatives, supported by a generally optimistic analyst tone. Price momentum has been steady with a slight upward trend, though near-term catalysts like interest rate changes and market volatility could impact performance.\"\n}"
+}

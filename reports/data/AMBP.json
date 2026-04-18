@@ -1,123 +1,110 @@
 {
   "meta": {
     "ticker": "AMBP",
-    "company": "Ardagh Metal Packaging SA",
-    "exchange": "LN",
-    "isin": "JE00BFSP3X59",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 58,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "AMBP - Ardagh Metal Packaging SA",
+    "exchange": "#N/A",
+    "isin": "LU2319693766",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 69,
+    "lastRefreshed": "2026-04-18T15:09:10.378Z",
     "universes": [
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 4.2,
+    "currency": "USD",
+    "marketCap": "2510337785",
+    "pe": null,
+    "eps": -0.02,
+    "week52High": 5.03,
+    "week52Low": 2.64,
+    "beta": 0.61,
+    "avgVolume": "1508679",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 42,
+    "signal": "negative",
+    "keyThemes": [
+      "weak earnings",
+      "debt concerns",
+      "market competition",
+      "price decline",
+      "macroeconomic headwinds"
+    ],
+    "summary": "AMBP sentiment is negative due to recent underwhelming earnings reports and ongoing concerns about high debt levels amidst a competitive metal packaging market. Analyst tone remains cautious, with price momentum showing a downward trend and no significant near-term catalysts to drive recovery.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 29,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 17,
+    "bearScore": 38,
+    "conviction": 69
   },
   "sections": {
     "executiveSummary": {
-      "text": "Ardagh Metal Packaging is a cyclical packaging business rather than a high-growth equity story. The attraction is operational leverage, defensive end-market exposure through beverage cans, and the possibility of margin recovery if cost pressure eases and utilisation improves. The live share price is $3.91 , with a market cap of roughly $2.34bn . The issue is that the business is not currently clean enough to deserve a bullish call. EPS is still slightly negative at -0.02 , and the stock sits in "
+      "text": "AMBP manufactures metal beverage cans and related packaging, supplying beverage producers across multiple markets. This is a scale manufacturing business where value comes from production footprint, customer relationships, plant utilisation, raw material management and disciplined capital allocation."
     },
     "businessModel": {
-      "text": "AMBP manufactures metal beverage cans and related packaging, supplying beverage producers across multiple markets. This is a scale manufacturing business where value comes from production footprint, customer relationships, plant utilisation, raw material management and disciplined capital allocation. The strategic attraction is that beverage can demand is more durable than many other packaging categories, and metal packaging also benefits from recyclability and sustainability positioning. But it remains a capital-intensive, margin-sensitive business. That means execution and cost discipline matter more than narrative."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: $3.91 Market cap: $2.34bn EPS: -0.02 52 week range: $2.53 to $5.03 3 month move: -10.1% Day move: -2.98% The stock is neither washed out nor extended. It is about 22% below the 52 week high and well above the 52 week low. That usually points to a business the market sees as stabilising but not yet compelling. The negative EPS is the main financial drag. This is not currently being valued like a clean compounding industrial. Investors are still waiting for stronger earnings quality.",
-      "table": []
+      "price": 4.2,
+      "pe": null,
+      "eps": -0.02,
+      "marketCap": "2510337785",
+      "week52High": 5.03,
+      "week52Low": 2.64,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Continued investor interest in defensive and cash-generative industrial names has provided some support Metal packaging remains a structurally relevant category, particularly where sustainability and recyclability matter AMBP has recovered from the 52 week low, suggesting the market is no longer pricing acute stress Even so, the stock has drifted over the last three months, showing that confidence in a sharper rerating remains limited",
-      "items": [
-        "Continued investor interest in defensive and cash-generative industrial names has provided some support",
-        "Metal packaging remains a structurally relevant category, particularly where sustainability and recyclability matter",
-        "AMBP has recovered from the 52 week low, suggesting the market is no longer pricing acute stress",
-        "Even so, the stock has drifted over the last three months, showing that confidence in a sharper rerating remains limited"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): Input costs ease, volumes improve and margin recovery starts to show through more clearly. In that scenario, the market could rerate AMBP as a steadier recovery industrial rather than a low-quality cyclical. Base (50%): The business remains stable but unexciting. Revenue and margin trends improve only gradually, leaving the stock range-bound and dependent on incremental earnings improvements rather than a large rerating. Bear (25%): Margin pressure persists, volumes stay soft and leverage or earnings quality remain concerns. In that case, the stock could drift back toward the lower end of its range. The key question is simple: can AMBP turn from stabilising into improving in a way the market trusts?",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Margin risk: packaging businesses are highly sensitive to input costs, pricing discipline and plant utilisation. Cyclical demand risk: beverage and consumer demand may soften enough to pressure volumes. Execution risk: operational recovery stories fail when cost controls or throughput do not improve as expected. Balance-sheet / capital intensity risk: capital-intensive manufacturers have less room for error than asset-light businesses. Rerating risk: even if the business improves, the market may still cap the multiple if earnings quality remains mediocre.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Margin risk: packaging businesses are highly sensitive to input costs, pricing discipline and plant utilisation."
-        },
-        {
-          "rank": 2,
-          "risk": "Cyclical demand risk: beverage and consumer demand may soften enough to pressure volumes."
-        },
-        {
-          "rank": 3,
-          "risk": "Execution risk: operational recovery stories fail when cost controls or throughput do not improve as expected."
-        },
-        {
-          "rank": 4,
-          "risk": "Balance-sheet / capital intensity risk: capital-intensive manufacturers have less room for error than asset-light businesses."
-        },
-        {
-          "rank": 5,
-          "risk": "Rerating risk: even if the business improves, the market may still cap the multiple if earnings quality remains mediocre."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: investors looking for a recovery-style industrial/packaging name with some defensive end-market exposure and willingness to wait for earnings improvement. Should avoid: anyone looking for a high-growth compounder, clean profitability, or a strong near-term catalyst-driven rerating."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. AMBP is not obviously broken, but it is not obviously attractive enough to deserve a BUY at current levels. The stock looks like a middle-ground name where the business may improve, but the current numbers do not yet support high conviction. This is the type of stock to own only if you believe earnings normalisation is coming and you are content to wait. Without that view, there are cleaner places to put capital."
+      "text": ""
     },
-    "entryExit": {
-      "text": "$3.30 to $3.60: more interesting accumulation zone if the operating thesis remains intact $3.60 to $4.20: fair hold range at current conditions $4.50 to $5.00: sensible trim / reassess zone unless fundamentals have clearly improved Below $3.20: reassess hard, because that would imply the market is losing confidence in the recovery story Conviction Trend Latest conviction: 58/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 58"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price $3.91",
-        "Market Cap $2.34bn",
-        "EPS -0.02",
-        "52w High $5.03",
-        "52w Low $2.53",
-        "3M Move -10.1%"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 58,
-      "band": "HOLD",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 69,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 58,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 58
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 58
       }
     ]
   }

@@ -1,144 +1,107 @@
 {
   "meta": {
     "ticker": "UAL",
-    "company": "United Airlines Holdings Inc (UAL)",
-    "exchange": "",
-    "isin": "",
-    "date": "11 April 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 75,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "UAL - United Airlines Holdings Inc (UAL)",
+    "exchange": null,
+    "isin": "US9100471096",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.393Z",
     "universes": [
+      "fortune100",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 101.8,
+    "currency": "USD",
+    "marketCap": "33049299730",
+    "pe": 9.97,
+    "eps": 10.21,
+    "week52High": 119.21,
+    "week52Low": 63.23,
+    "beta": 1.28,
+    "avgVolume": "8979719",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 42,
+    "signal": "negative",
+    "keyThemes": [
+      "operational challenges",
+      "fuel cost pressures",
+      "industry headwinds",
+      "stock volatility",
+      "labor concerns"
+    ],
+    "summary": "United Airlines (UAL) faces a negative sentiment due to recent operational disruptions and rising fuel costs impacting profitability, coupled with broader airline industry challenges. Analyst tone remains cautious, and price momentum has been weak with no significant near-term catalysts to drive positive sentiment.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 36,
+    "bullScore": 88,
+    "baseProbability": 53,
+    "baseScore": 68,
+    "bearProbability": 11,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
       "text": "United Airlines is a high-quality global network carrier with a compelling international growth trajectory and a P/E under 10x that significantly undervalues its earnings power and asset base, and is rated HOLD."
     },
     "businessModel": {
-      "text": "United is one of the world's largest airlines, operating a comprehensive global network from its hubs at major US cities. Following the 2022 announcement of \"United Next\", the carrier has committed to a significant fleet transformation aimed at improving unit economics and competitive positioning: Mainline Passenger Revenue ~85% of revenue; domestic and international scheduled service Cargo ~5% of revenue; belly cargo on passenger aircraft and freighter operations Mileage Plus (Loyalty) ~7% of revenue; co-brand credit card partnership and retail monetisation ancillary / Other ~3%; ground handling, maintenance services United's \"United Next\" plan involves retiring older narrowbody aircraft and replacing them with a large order of Boeing 737 MAX 10s and Airbus A321neos, which offer significantly better fuel efficiency and passenger experience. The international network -- particularly the Pacific and Atlantic routes -- is United's key differentiator versus low-cost carriers and a major driver of premium revenue."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$96.40"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$31.3bn"
-        },
-        {
-          "label": "P/E Ratio",
-          "value": "9.44x"
-        },
-        {
-          "label": "Earnings Per Share (TTM)",
-          "value": "$10.21"
-        },
-        {
-          "label": "EV / EBITDA (approx.)",
-          "value": "~5x (estimated)"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$119.21"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$61.52"
-        },
-        {
-          "label": "Distance from 52w High",
-          "value": "-19.1%"
-        },
-        {
-          "label": "Average Volume",
-          "value": "4.64m"
-        }
-      ]
+      "price": 101.8,
+      "pe": 9.97,
+      "eps": 10.21,
+      "marketCap": "33049299730",
+      "week52High": 119.21,
+      "week52Low": 63.23,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Q4 2025 Earnings Beat: United reported adjusted EPS of $2.85 in Q4 2025, significantly ahead of the $2.40 consensus estimate, driven by strong international premium demand and continued domestic capacity discipline. Full-year 2025 EPS reached $11.50. Pacific Network Expansion: United launched three new Pacific routes in early 2026 (San Francisco-Shanghai, Los Angeles-Tokyo Haneda, and Denver-Singapore), capitalising on its unique Polaris business class product and capturing corporate travel demand that has shifted from Asian carriers. Mileage Plus Valuation: United's loyalty programme was independently valued at $22-26 billion in a recent analyst note, providing significant embedded value relative to the current enterprise value of the entire airline. Boeing 737 MAX 10 Delivery Delay: Boeing continues to delay 737 MAX 10 certification and deliveries, creating fleet transition risk for United's \"United Next\" plan; the carrier has publicly acknowledged this and is evaluating contingency plans, including the potential substitution of A321neo orders."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Scenario Score Probability Commentary Bull 84 30% International premium demand sustains; United Next fleet transition executes; Mileage Plus monetisation accelerates; EPS reaches $14-16; shares re-rate to 12-14x, reaching $140-160. Base 74 50% Steady demand environment; domestic yields stable; international growth offsets domestic competition; EPS grows to $11-13; shares reach $105-115 on 9-10x. Bear 58 20% Recession hits corporate travel; MAX 10 delays compound capacity constraints; fuel cost spike; EPS falls to $6-7; shares test $50-58. Conviction Score: 84x0.30 + 74x0.50 + 58x0.20 = 75.2 At under 10x earnings, the margin of safety is substantial; even the base case offers strong upside and the bear case is partially cushioned by the loyalty programme valuation.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "# Risk Description 1 Boeing fleet transition risk United has bet heavily on the 737 MAX 10 for its narrowbody fleet renewal. Prolonged Boeing delivery delays would increase operating costs on older aircraft and limit capacity growth, directly impacting earnings. 2 International demand deterioration United's premium valuation depends on sustained transatlantic and transpacific corporate travel demand. A China economic slowdown or recession in key European markets would disproportionately affect United versus low-cost domestic carriers. 3 Fuel price spike Fuel is the largest cost line for any airline; a 20-25% increase in jet fuel prices without ticket price pass-through would erode United's margins significantly given the already thin airline economics. 4 Labour cost escalation Post-pandemic pilot and crew contracts have significantly raised labour costs across the industry. Further increases in the upcoming contract negotiations could add $500-800 million in annual costs. 5 Operational execution United has a history of operational reliability challenges. A high-profile operational failure, IT outage, or safety incident would disproportionately damage the premium brand equity that underpins the investment thesis.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Boeing fleet transition risk - United has bet heavily on the 737 MAX 10 for its narrowbody fleet renewal. Prolonged Boeing delivery delays would increase operating costs on older aircraft and limit capacity growth, directly impacting earnings."
-        },
-        {
-          "rank": 2,
-          "risk": "International demand deterioration - United's premium valuation depends on sustained transatlantic and transpacific corporate travel demand. A China economic slowdown or recession in key European markets would disproportionately affect United versus low-cost domestic carriers."
-        },
-        {
-          "rank": 3,
-          "risk": "Fuel price spike - Fuel is the largest cost line for any airline; a 20-25% increase in jet fuel prices without ticket price pass-through would erode United's margins significantly given the already thin airline economics."
-        },
-        {
-          "rank": 4,
-          "risk": "Labour cost escalation - Post-pandemic pilot and crew contracts have significantly raised labour costs across the industry. Further increases in the upcoming contract negotiations could add $500-800 million in annual costs."
-        },
-        {
-          "rank": 5,
-          "risk": "Operational execution - United has a history of operational reliability challenges. A high-profile operational failure, IT outage, or safety incident would disproportionately damage the premium brand equity that underpins the investment thesis."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own:\n• Deep-value and turnaround investors attracted to the under-10x P/E with improving fundamentals\n• Cyclical investors who see travel secular demand recovery still playing out, particularly in international premium\n• Those who want exposure to United's underappreciated Mileage Plus loyalty programme value\n\nAvoid:\n• Risk-averse or income investors; airlines are inherently volatile and a poor fit for capital preservation mandates\n• Those unwilling to hold through Boeing delivery delays and the associated capacity uncertainty\n• Investors who need predictable short-term earnings; airline earnings are highly sensitive to fuel prices, weather, and macro conditions"
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "Rating: HOLD United Airlines presents one of the most compelling risk/reward opportunities in the airline sector at current levels. The shares trade at under 10x trailing earnings, approximately 19% below their 52-week high, with improving fundamentals and a valuable Mileage Plus loyalty programme that provides meaningful embedded value. The Boeing delivery risk is a legitimate concern but is already partially discounted in the share price. Target $115-125 on a 12-month horizon. Framework Detail Entry point $96.40 (current); attractive entry at under 10x earnings with meaningful downside support Target price (12 months) $115-$125 based on 10-11x base case EPS of $11.00-$12.00 Stop-loss $58.00 (approximately 40% decline; below the 52-week low and near the book value floor) Position sizing Deep-value cyclical position; 1.5-2% portfolio weight; do not overload given fleet execution and fuel price risks Key trigger to upgrade Q1 2026 earnings above $2.60 per share; clarity on Boeing MAX 10 delivery timeline; transatlantic summer yields ahead of expectations"
+      "text": ""
     },
-    "entryExit": {
-      "text": "Target $115-125 on a 12-month horizon. | Entry point: $96.40 (current); attractive entry at under 10x earnings with meaningful downside support | Target price (12 months): $115-$125 based on 10-11x base case EPS of $11.00-$12.00 | Stop-loss: $58.00 (approximately 40% decline; below the 52-week low and near the book value floor)"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 75,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 75,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 75
       }
     ]
   }

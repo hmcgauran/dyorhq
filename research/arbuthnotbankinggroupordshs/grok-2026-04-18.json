@@ -1,0 +1,13 @@
+{
+  "score": 56,
+  "signal": "neutral",
+  "key_themes": [
+    "stable performance",
+    "limited news flow",
+    "cautious analyst outlook",
+    "steady price trend",
+    "no major catalysts"
+  ],
+  "summary": "Arbuthnot Banking Group (ARBB) shows a neutral sentiment with limited recent news or significant catalysts to drive major price movements. Analyst tone remains cautious but not overly bearish, and price momentum has been stable without strong bullish or bearish trends.",
+  "raw": "{\n  \"score\": 15,\n  \"signal\": \"neutral\",\n  \"key_themes\": [\"stable performance\", \"limited news flow\", \"cautious analyst outlook\", \"steady price trend\", \"no major catalysts\"],\n  \"summary\": \"Arbuthnot Banking Group (ARBB) shows a neutral sentiment with limited recent news or significant catalysts to drive major price movements. Analyst tone remains cautious but not overly bearish, and price momentum has been stable without strong bullish or bearish trends.\"\n}"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "steady growth",
+    "public sector contracts",
+    "digital transformation",
+    "stable financials"
+  ],
+  "summary": "IDOX plc shows a positive sentiment with steady growth in public sector software solutions and recent contract wins driving optimism. Analyst tone remains cautiously bullish, supported by consistent price momentum and potential near-term catalysts from digital transformation initiatives.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"steady growth\", \"public sector contracts\", \"digital transformation\", \"stable financials\"],\n  \"summary\": \"IDOX plc shows a positive sentiment with steady growth in public sector software solutions and recent contract wins driving optimism. Analyst tone remains cautiously bullish, supported by consistent price momentum and potential near-term catalysts from digital transformation initiatives.\"\n}"
+}

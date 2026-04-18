@@ -1,0 +1,13 @@
+{
+  "score": 44,
+  "signal": "negative",
+  "key_themes": [
+    "legal challenges",
+    "earnings pressure",
+    "dividend concerns",
+    "macroeconomic headwinds",
+    "stock underperformance"
+  ],
+  "summary": "Sentiment for 3M Co (MMM) is mildly negative due to ongoing legal challenges related to PFAS and earplug litigation, coupled with underwhelming earnings and concerns over dividend sustainability. Analyst tone remains cautious, and price momentum has been weak with the stock underperforming the broader market, though no major near-term catalysts are evident.",
+  "raw": "{\n  \"score\": -15,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"legal challenges\", \"earnings pressure\", \"dividend concerns\", \"macroeconomic headwinds\", \"stock underperformance\"],\n  \"summary\": \"Sentiment for 3M Co (MMM) is mildly negative due to ongoing legal challenges related to PFAS and earplug litigation, coupled with underwhelming earnings and concerns over dividend sustainability. Analyst tone remains cautious, and price momentum has been weak with the stock underperforming the broader market, though no major near-term catalysts are evident.\"\n}"
+}

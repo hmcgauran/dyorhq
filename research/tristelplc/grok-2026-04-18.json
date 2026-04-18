@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong financials",
+    "market expansion",
+    "product innovation",
+    "regulatory approvals",
+    "share price growth"
+  ],
+  "summary": "Tristel Plc (TSTL) exhibits a positive sentiment driven by recent strong financial results and optimism around market expansion, particularly in the healthcare disinfection sector. Analyst tone remains constructive, with price momentum showing steady gains and potential catalysts like new product approvals on the horizon.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong financials\", \"market expansion\", \"product innovation\", \"regulatory approvals\", \"share price growth\"],\n  \"summary\": \"Tristel Plc (TSTL) exhibits a positive sentiment driven by recent strong financial results and optimism around market expansion, particularly in the healthcare disinfection sector. Analyst tone remains constructive, with price momentum showing steady gains and potential catalysts like new product approvals on the horizon.\"\n}"
+}

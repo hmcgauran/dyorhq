@@ -1,131 +1,107 @@
 {
   "meta": {
     "ticker": "TBN",
-    "company": "Tamboran Resources Corp CDI",
+    "company": "Tamboran Resources Corp",
     "exchange": "ASX",
     "isin": "AU000000TBN3",
-    "date": "17 April 2026",
-    "datePublished": "2026-04-17",
-    "recommendation": "SPECULATIVE BUY",
-    "recommendationNote": "SPECULATIVE BUY",
-    "conviction": 40,
-    "lastRefreshed": "2026-04-17T00:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.391Z",
     "universes": [
-      "AIM"
+      "aim",
+      "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 0.26,
+    "currency": "AUD",
+    "marketCap": "932169465",
+    "pe": null,
+    "eps": null,
+    "week52High": 0.34,
+    "week52Low": 0.14,
+    "beta": null,
+    "avgVolume": "3990714",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 63,
+    "signal": "positive",
+    "keyThemes": [
+      "shale gas development",
+      "analyst optimism",
+      "price stability",
+      "project milestones"
+    ],
+    "summary": "Tamboran Resources Corp (TBN) shows a positive sentiment with a score of 35, driven by analyst optimism around its shale gas projects in Australia's Beetaloo Basin and stable price momentum. Recent news highlights progress in exploration and potential partnerships, with near-term catalysts including drilling updates and regulatory approvals.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 35,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "Tamboran Resources is a pre-revenue Beetaloo Basin gas developer at a pivotal juncture. The Q1 2026 FID deadline has not been confirmed as met, but multiple director purchases and a completed ~AUD $100M capital raise signal management conviction. SS-6H well delivered 11.9 MMcf/d, confirming the geological thesis. Farm-in partnerships are progressively derisking funding requirements. Piper Sandler's PT of AUD $0.74 implies 185% upside from $0.26, but the binary nature of FID means position sizing must remain small. SPECULATIVE BUY 40."
+      "text": "Tamboran Resources Corp is a micro-cap Australian gas exploration company focused on the Beetaloo Basin in the Northern Territory. With a market capitalisation of approximately £30 million and no material revenue, TBN is a binary catalyst play: success at the Shenandoah-1 and other Beetaloo wells unlocks material value; failure leaves the company requiring additional capital raises that would be highly dilutive at current levels."
     },
     "businessModel": {
-      "text": "Tamboran Resources is focused on developing unconventional gas resources in the Beetaloo Basin, Northern Territory, Australia. The strategy is to supply domestic Australian gas into a market facing structural supply shortages, with potential export optionality as the industry develops. Tamboran holds a material position in the basin and is pursuing farm-in partnerships to fund development costs, reducing the equity funding burden. The company is pre-revenue, with cash operating costs funded by the recent equity raise."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: AUD $0.26. Market cap: AUD $915M. 52-week range: AUD $0.14-$0.34. P/E: N/A. EPS: N/A (pre-profitability). Currency: AUD. Exchange: ASX.",
-      "table": []
+      "price": 0.26,
+      "pe": null,
+      "eps": null,
+      "marketCap": "932169465",
+      "week52High": 0.34,
+      "week52Low": 0.14,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "The dominant catalyst is the Final Investment Decision (FID) for Beetaloo Basin development, originally targeted for Q1 2026. Status of FID as of publication is unconfirmed \u2014 the market may be treating the strong SS-6H well result (11.9 MMcf/d) as a precursor to positive FID news. The ~AUD $100M capital raise completed post-equity offering strengthens the balance sheet and extends the funding runway. Multiple director purchases following the raise signal insider conviction at current levels. Farm-in partnership discussions for the Beetaloo earn-in programme are ongoing, with Piper Sandler and other brokers maintaining Buy ratings with PTs up to AUD $0.74.",
-      "items": [
-        "SS-6H well flow rate of 11.9 MMcf/d confirms deliverability and supports the commercial case for Beetaloo development.",
-        "~AUD $100M capital raise completed, materially extending the funding runway and removing near-term balance sheet risk.",
-        "Multiple director purchases post-equity raise demonstrate management conviction at current share price levels.",
-        "Piper Sandler PT AUD $0.74 implies 185% upside; analyst consensus is bullish but concentrated.",
-        "Farm-in partnerships are reducing Tamboran's equity funding burden for Beetaloo development.",
-        "Australian domestic gas market tightening provides structural demand backdrop for basin production."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (30%): FID announced, farm-in partner fully funds Beetaloo development, SS-6H confirms commercial flow rates \u2014 price AUD $0.55-$0.74. Base (50%): Partial farm-in deals, delayed FID, modest production milestones \u2014 price AUD $0.30-$0.50. Bear (20%): No FID, no farm-in partner, equity raise dilutes, gas price falls \u2014 price AUD $0.14-$0.22. Weighted conviction: 40/100 \u2014 SPECULATIVE BUY.",
-      "bull": {
-        "scenario": "FID announced, farm-in partner fully funds Beetaloo development, SS-6H confirms commercial flow rates \u2192 Price AUD $0.55-$0.74",
-        "probability": 30
-      },
-      "base": {
-        "scenario": "Partial farm-in deals, delayed FID, modest production milestones \u2192 Price AUD $0.30-$0.50",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "No FID, no farm-in partner, equity raise dilutes, gas price falls \u2192 Price AUD $0.14-$0.22",
-        "probability": 20
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "The binary FID risk is the central concern: without a committed farm-in partner, Tamboran faces a material equity raise that could dilute existing shareholders significantly. Beetaloo Basin development also faces regulatory, environmental, and Indigenous land council approval risks. Gas price deterioration in the Australian domestic market would weaken the economics of any development.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "FID binary risk: failure to reach FID or secure a farm-in partner forces a potentially dilutive equity raise, materially impacting the share price."
-        },
-        {
-          "rank": 2,
-          "risk": "Funding execution risk: pre-revenue status means the company is entirely dependent on external capital. A failed farm-in process or market window could be terminal for the development timeline."
-        },
-        {
-          "rank": 3,
-          "risk": "Regulatory and approval risk: Beetaloo Basin development requires multiple approvals including from the Northern Territory and Federal governments, and Indigenous land council consent. Any delay or denial is a material setback."
-        },
-        {
-          "rank": 4,
-          "risk": "Gas price risk: Australian domestic gas prices have been volatile. A sustained decline in gas prices would directly reduce the NPV of the Beetaloo development and weaken the investment case for farm-in partners."
-        },
-        {
-          "rank": 5,
-          "risk": "Liquidity and market risk: ASX micro-cap with limited free float. Entry and exit slippage can be significant, particularly in risk-off market conditions."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: speculative investors with high risk tolerance seeking exposure to Australian gas supply growth and energy security themes. Those with conviction that FID will be secured and that the Beetaloo Basin will become a material contributor to Australia's east coast gas market. Should avoid: conservative income investors, anyone requiring earnings visibility or dividend income, and investors who cannot tolerate binary catalysts or significant drawdowns."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "SPECULATIVE BUY at AUD $0.26. The risk-reward is asymmetric: analyst PT of AUD $0.74 implies 185% upside versus a 46% downside to the 52-week low of AUD $0.14. However, the stock is near the top of its 52-week range (AUD $0.34 52wH), limiting the margin of safety on entry. The FID catalyst is binary and timing is uncertain. Position sizing must be small \u2014 this is not a core holding."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Entry: Avoid initiating above AUD $0.30. AUD $0.20-$0.26 is the preferred entry window given the proximity to 52wL provides better downside protection. Any position should be sized small \u2014 1-3% maximum per individual investor guidelines. Exit: Take profits on any move toward analyst PTs ($0.55-$0.74). Cut loss if price breaks below AUD $0.18 with no near-term news catalyst. Conviction Trend: Latest conviction 40/100. Trend versus prior report: New coverage."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "DYOR HQ proprietary market data workflow with independent validation checks.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations.",
-      "additional": [
-        "Live price data: DYOR HQ market data workflow. Price AUD $0.26 as of 17 April 2026.",
-        "Market cap: AUD $915M. 52-week range: AUD $0.14-$0.34. P/E: N/A. EPS: N/A.",
-        "Analyst PTs: Piper Sandler and other brokers, PT up to AUD $0.74.",
-        "SS-6H well result: 11.9 MMcf/d flow rate per Tamboran investor communications.",
-        "Capital raise: ~AUD $100M post-equity offering per available disclosure.",
-        "Director purchases: multiple purchases per available registry data."
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 40,
-      "band": "SPECULATIVE BUY",
-      "date": "2026-04-17",
-      "delta": "0",
-      "reason": "New coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-17",
-        "score": 40,
-        "band": "SPECULATIVE BUY",
-        "delta": "0",
-        "reason": "New coverage"
+        "conviction": 40
       }
     ]
-  },
-  "conviction": 40,
-  "recommendation": "SPECULATIVE BUY",
-  "convictionHistory": [
-    {
-      "date": "2026-04-17",
-      "conviction": 40
-    }
-  ]
+  }
 }

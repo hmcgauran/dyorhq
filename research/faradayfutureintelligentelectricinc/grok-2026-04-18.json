@@ -1,0 +1,13 @@
+{
+  "score": 25,
+  "signal": "negative",
+  "key_themes": [
+    "financial struggles",
+    "production delays",
+    "investor skepticism",
+    "legal challenges",
+    "stock volatility"
+  ],
+  "summary": "Faraday Future (FFAI) faces a bearish sentiment due to ongoing financial difficulties, production delays with its FF 91 vehicle, and legal issues impacting investor confidence. Recent news and analyst tone remain cautious, with significant stock price volatility and no clear near-term catalysts to drive positive momentum.",
+  "raw": "{\n  \"score\": -60,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"financial struggles\", \"production delays\", \"investor skepticism\", \"legal challenges\", \"stock volatility\"],\n  \"summary\": \"Faraday Future (FFAI) faces a bearish sentiment due to ongoing financial difficulties, production delays with its FF 91 vehicle, and legal issues impacting investor confidence. Recent news and analyst tone remain cautious, with significant stock price volatility and no clear near-term catalysts to drive positive momentum.\"\n}"
+}

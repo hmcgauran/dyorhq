@@ -1,0 +1,13 @@
+{
+  "score": 38,
+  "signal": "negative",
+  "key_themes": [
+    "oil price volatility",
+    "Falkland Islands uncertainty",
+    "funding challenges",
+    "project delays",
+    "market sentiment"
+  ],
+  "summary": "Rockhopper Exploration Plc (RKH) faces a negative sentiment due to ongoing uncertainties in the Falkland Islands oil projects and volatile oil prices impacting investor confidence. Recent news highlights funding difficulties and delays in key developments, with analysts maintaining a cautious to bearish tone and price momentum showing a downward trend.",
+  "raw": "{\n  \"score\": -30,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"oil price volatility\", \"Falkland Islands uncertainty\", \"funding challenges\", \"project delays\", \"market sentiment\"],\n  \"summary\": \"Rockhopper Exploration Plc (RKH) faces a negative sentiment due to ongoing uncertainties in the Falkland Islands oil projects and volatile oil prices impacting investor confidence. Recent news highlights funding difficulties and delays in key developments, with analysts maintaining a cautious to bearish tone and price momentum showing a downward trend.\"\n}"
+}

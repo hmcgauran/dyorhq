@@ -1,0 +1,13 @@
+{
+  "score": 73,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "infrastructure demand",
+    "analyst upgrades",
+    "acquisition strategy",
+    "macroeconomic tailwinds"
+  ],
+  "summary": "CRH plc exhibits a positive sentiment driven by strong recent earnings, favorable analyst upgrades, and robust price momentum amid growing infrastructure demand. Potential near-term catalysts include further acquisitions and sustained government spending on construction projects.",
+  "raw": "{\n  \"score\": 65,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"infrastructure demand\", \"analyst upgrades\", \"acquisition strategy\", \"macroeconomic tailwinds\"],\n  \"summary\": \"CRH plc exhibits a positive sentiment driven by strong recent earnings, favorable analyst upgrades, and robust price momentum amid growing infrastructure demand. Potential near-term catalysts include further acquisitions and sustained government spending on construction projects.\"\n}"
+}

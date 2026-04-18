@@ -1,0 +1,12 @@
+{
+  "score": 76,
+  "signal": "positive",
+  "key_themes": [
+    "renewable energy growth",
+    "strong earnings",
+    "utility sector stability",
+    "clean energy policy support"
+  ],
+  "summary": "NextEra Energy Inc (NEE) exhibits a positive sentiment driven by strong quarterly earnings, growing investments in renewable energy, and favorable analyst outlook. Recent news highlights the company's leadership in clean energy and potential benefits from supportive government policies, while price momentum remains bullish with steady upward trends.",
+  "raw": "{\n  \"score\": 75,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"renewable energy growth\", \"strong earnings\", \"utility sector stability\", \"clean energy policy support\"],\n  \"summary\": \"NextEra Energy Inc (NEE) exhibits a positive sentiment driven by strong quarterly earnings, growing investments in renewable energy, and favorable analyst outlook. Recent news highlights the company's leadership in clean energy and potential benefits from supportive government policies, while price momentum remains bullish with steady upward trends.\"\n}"
+}

@@ -1,108 +1,109 @@
 {
-  "ticker": "CSCO",
-  "company": "Cisco Systems Inc",
-  "isin": "US17275R1023",
-  "exchange": "NYSE",
-  "currency": "USD",
-  "price": 160.00,
-  "marketCap": "$600bn",
-  "sector": "Technology - Networking",
-  "date": "17 April 2026",
-  "reportDate": "2026-04-17",
-  "recommendation": "OPPORTUNISTIC BUY",
-  "conviction": 65,
-  "grokScore": 65,
-  "grokSignal": "positive",
-  "grokKeyThemes": ["AI infrastructure", "hyperscaler orders $2.1B", "raised guidance"],
-  "convictionHistory": [{"date": "2026-04-17", "conviction": 65}],
-  "priceAtLastReport": 160.00,
-  "marketCapAtLastReport": "$600bn",
-  "pe": 16.8,
-  "eps": 9.50,
-  "dividendYield": "2.8%",
-  "beta": 0.95,
-  "sharesOut": "3.95B",
-  "avgVolume": "22.4M",
-  "52wHigh": 169.08,
-  "52wLow": 48.15,
-  "prevClose": 160.00,
+  "meta": {
+    "ticker": "CSCO",
+    "company": "Cisco Systems Inc",
+    "exchange": "#N/A",
+    "isin": "US17275R1023",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 69,
+    "lastRefreshed": "2026-04-18T15:09:10.380Z",
+    "universes": [
+      "fortune100",
+      "sp100",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 86.25,
+    "currency": "USD",
+    "marketCap": "340678300000",
+    "pe": 31.07,
+    "eps": 2.78,
+    "week52High": 88.19,
+    "week52Low": 53.84,
+    "beta": 0.83,
+    "avgVolume": "22201641",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong quarterly earnings",
+      "AI networking growth",
+      "analyst upgrades",
+      "stock price momentum",
+      "upcoming product launches"
+    ],
+    "summary": "Cisco Systems Inc (CSCO) shows a positive sentiment with a score of 45, driven by strong recent quarterly earnings, growing demand for AI-driven networking solutions, and positive analyst upgrades. Price momentum remains bullish, with potential near-term catalysts from upcoming product launches.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 28,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 15,
+    "bearScore": 38,
+    "conviction": 69
+  },
   "sections": {
     "executiveSummary": {
-      "text": "Cisco is executing a credible AI infrastructure transition, with Q2 FY2026 delivering record $15.3 billion in revenue (+10% YoY) and a sharp acceleration in networking revenue to +21% YoY. AI infrastructure orders hit $2.1 billion in a single quarter, with full-year guidance raised to over $5 billion. At approximately 17x forward P/E and a market capitalisation of roughly $600 billion, Cisco offers a compelling blend of AI exposure, recurring revenue from subscriptions, and substantial free cash flow generation. The valuation is not demanding relative to the quality of the franchise, and the AI infrastructure build-out provides a durable multi-year tailwind. OPPORTUNISTIC BUY reflects solid fundamental progress with a reasonable entry point on recent weakness."
+      "text": "Cisco is a classic mature-network-infrastructure business undergoing an AI-era transition. AI infrastructure demand from hyperscalers is driving order acceleration, the 800G switching and Spectrum X/NVIDIA partnership story is real, and free cash flow provides a floor. OPPORTUNISTIC BUY at 57/100."
     },
     "businessModel": {
-      "text": "Cisco Systems is the global leader in networking hardware and software, serving enterprises, service providers, and hyperscalers. Its portfolio spans switching, routing, wireless, security, collaboration, and observability. The company has been actively shifting towards subscription-based software and services, reducing reliance on cyclical hardware refresh cycles. Partnerships with NVIDIA and VAST Data extend Cisco's reach into AI infrastructure and data centre interconnect, positioning it as a key beneficiary of the accelerated compute build-out. Cisco's installed base of over 300 million connected devices provides a recurring revenue foundation through software upgrades, maintenance contracts, and cloud-delivered services."
+      "text": ""
     },
     "financialSnapshot": {
-      "price": 160.00,
-      "marketCap": "$600bn",
-      "pe": 16.8,
-      "eps": 9.50,
-      "dividendYield": "2.8%",
-      "52wHigh": 169.08,
-      "52wLow": 48.15,
-      "distanceFrom52wHigh": "-5.4%",
-      "avgVolume": "22.4M",
-      "currency": "USD",
-      "isin": "US17275R1023"
+      "price": 86.25,
+      "pe": 31.07,
+      "eps": 2.78,
+      "marketCap": "340678300000",
+      "week52High": 88.19,
+      "week52Low": 53.84,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "bullets": [
-        "Q2 FY2026 revenue of $15.35bn beat consensus ($15.12bn); adjusted EPS $1.04 beat $1.02 expected",
-        "Networking revenue $8.29bn, up 21% YoY - material acceleration from prior quarters",
-        "AI infrastructure orders from hyperscalers reached $2.1bn in a single quarter",
-        "Full-year AI order guidance raised to over $5 billion - underscores pace of infrastructure investment",
-        "NVIDIA and VAST Data partnerships expanding Cisco's addressable market in AI workloads",
-        "FY2026 revenue guidance $61.2bn-$61.7bn implies ~8.5% annual growth"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "bull": {
-        "score": 80,
-        "text": "AI infrastructure demand accelerates Cisco's revenue and margin expansion. Hyperscaler spending on AI fabric and switching sustains 15%+ top-line growth. Subscription mix drives P/E re-rating toward 20-22x as recurring revenue becomes the dominant narrative. Price: $200+."
-      },
-      "base": {
-        "score": 65,
-        "text": "AI orders sustain over $5 billion annually. Campus networking recovers modestly as enterprise spending normalises. Operating margins hold in the 27-29% range. EPS grows to $10.50-$11.00. Price: $170-$195."
-      },
-      "bear": {
-        "score": 42,
-        "text": "Hyperscaler capex slows as AI ROI timelines extend. Enterprise networking demand softens amid macro uncertainty. Margin pressure from product mix (AI hardware is lower-margin than software). Multiple compresses to 14-15x. Price: below $130."
-      },
-      "weightedScore": 65,
-      "weightedCalc": "Bull 80 x 30% + Base 65 x 50% + Bear 42 x 20%"
+      "text": ""
     },
-    "keyRisks": [
-      {
-        "title": "Hyperscaler capex cyclicality",
-        "desc": "AI infrastructure spending is lumpy and dependent on a small number of large customers. A slowdown in hyperscaler investment could materially impact the AI orders narrative and guidance."
-      },
-      {
-        "title": "Margin mix headwinds",
-        "desc": "AI infrastructure products carry lower gross margins than Cisco's traditional software and subscription offerings. A rapid shift in product mix toward AI hardware could compress overall margins."
-      },
-      {
-        "title": "Competitive intensity in AI networking",
-        "desc": "Arista, Juniper, and white-box alternatives are competing aggressively for AI fabric switching contracts. Cisco's market share in AI workloads is not yet established."
-      },
-      {
-        "title": "Enterprise spending sensitivity",
-        "desc": "Campus and branch networking remains tied to broader IT spending budgets, which can soften in economic slowdowns regardless of AI tailwinds."
-      },
-      {
-        "title": "Valuation at a premium",
-        "desc": "At ~17x forward earnings, Cisco trades above its 5-year historical average P/E of approximately 14-15x, leaving limited room for guidance disappointment."
-      }
-    ],
+    "keyRisks": {
+      "text": ""
+    },
     "whoShouldOwnIt": {
-      "owners": "Long-term investors seeking quality AI infrastructure exposure at a reasonable valuation. Income investors attracted to the 2.8% dividend yield supported by strong free cash flow. Infrastructure investors wanting diversified exposure to the AI build-out beyond the hyperscalers themselves.",
-      "avoiders": "Growth investors expecting hyper-scale revenue acceleration may be disappointed by the relatively modest overall growth rate. Those seeking pure-play AI semiconductor exposure should look to NVIDIA or AMD. Short-horizon traders will find the stock's steady compounder profile unsatisfying."
+      "text": ""
     },
     "recommendation": {
-      "verdict": "BUY on weakness. Cisco is doing what it said it would do: delivering AI-driven revenue acceleration, raising guidance, and demonstrating that the installed base transition to subscriptions is progressing. The valuation at ~17x forward P/E is not excessive for a business with this level of cash generation and the AI infrastructure tailwind. At $160, the stock sits 5.4% below its 52-week high, providing a reasonable entry point.",
-      "entryFramework": "BUY below $145 (implies 15x P/E with meaningful margin of safety). HOLD zone $145-$165. Trim on rallies above $175 (implies 18x P/E with limited upside to base-case target). Position size should reflect Cisco's role as a quality core holding rather than a high-conviction thematic bet."
+      "text": ""
+    },
+    "entry": {
+      "text": ""
+    },
+    "sources": {
+      "text": ""
     }
   },
-  "sources": ["DYOR HQ proprietary market data", "Third-party market data validation", "Web search: Cisco IR, CNBC, Yahoo Finance, Motley Fool, Seeking Alpha, Network World"],
-  "reportDateISO": "2026-04-17"
+  "scores": {
+    "current": {
+      "score": 69,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
+    },
+    "history": [
+      {
+        "date": "2026-04-17",
+        "conviction": 57
+      }
+    ]
+  }
 }

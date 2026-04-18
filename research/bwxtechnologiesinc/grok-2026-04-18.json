@@ -1,0 +1,13 @@
+{
+  "score": 73,
+  "signal": "positive",
+  "key_themes": [
+    "nuclear technology growth",
+    "strong earnings",
+    "government contracts",
+    "stock momentum",
+    "industry tailwinds"
+  ],
+  "summary": "BWX Technologies Inc (BWXT) exhibits a positive sentiment driven by strong recent earnings performance and growing demand for nuclear technology solutions, particularly in defense and clean energy sectors. Analyst tone remains optimistic with consistent upward revisions in price targets, supported by robust price momentum and potential near-term catalysts from government contracts.",
+  "raw": "{\n  \"score\": 65,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"nuclear technology growth\", \"strong earnings\", \"government contracts\", \"stock momentum\", \"industry tailwinds\"],\n  \"summary\": \"BWX Technologies Inc (BWXT) exhibits a positive sentiment driven by strong recent earnings performance and growing demand for nuclear technology solutions, particularly in defense and clean energy sectors. Analyst tone remains optimistic with consistent upward revisions in price targets, supported by robust price momentum and potential near-term catalysts from government contracts.\"\n}"
+}

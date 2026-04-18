@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "renewable energy growth",
+    "recent spinoff",
+    "analyst optimism",
+    "market volatility",
+    "upcoming earnings"
+  ],
+  "summary": "GE Vernova Inc (GEV), recently spun off from GE, is viewed positively due to its focus on renewable energy and strong analyst support, though market volatility tempers enthusiasm. Price momentum shows moderate gains, with potential catalysts in upcoming earnings and renewable sector developments.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"renewable energy growth\", \"recent spinoff\", \"analyst optimism\", \"market volatility\", \"upcoming earnings\"],\n  \"summary\": \"GE Vernova Inc (GEV), recently spun off from GE, is viewed positively due to its focus on renewable energy and strong analyst support, though market volatility tempers enthusiasm. Price momentum shows moderate gains, with potential catalysts in upcoming earnings and renewable sector developments.\"\n}"
+}

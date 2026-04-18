@@ -1,113 +1,110 @@
 {
   "meta": {
     "ticker": "FFAI",
-    "company": "Faraday Future Intelligent Electric Inc",
-    "exchange": "US",
+    "company": "FFAI - Faraday Future Intelligent Electric Inc",
+    "exchange": "#N/A",
     "isin": "US3073598852",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "SELL - SPECULATIVE",
-    "recommendationNote": "SELL - SPECULATIVE",
-    "conviction": 18,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.382Z",
     "universes": [
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 0.3,
+    "currency": "USD",
+    "marketCap": "74279517",
+    "pe": null,
+    "eps": -3.14,
+    "week52High": 3.61,
+    "week52Low": 0.21,
+    "beta": 5.58,
+    "avgVolume": "31888858",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 25,
+    "signal": "negative",
+    "keyThemes": [
+      "financial struggles",
+      "production delays",
+      "investor skepticism",
+      "legal challenges",
+      "stock volatility"
+    ],
+    "summary": "Faraday Future (FFAI) faces a bearish sentiment due to ongoing financial difficulties, production delays with its FF 91 vehicle, and legal issues impacting investor confidence. Recent news and analyst tone remain cautious, with significant stock price volatility and no clear near-term catalysts to drive positive momentum.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 32,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 14,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating equity story. It is a distressed speculative stub. Bottom line: SELL - SPECULATIVE . There is no sensible long-only investment case here beyond punting on noise."
+      "text": "FFAI remains exactly the kind of listed EV casualty the market stops giving second chances to. At $0.2115 with a market cap of roughly $45.6M and EPS of -$5.41, this is no longer a serious operating equity story. It is a distressed speculative stub."
     },
     "businessModel": {
-      "text": "Faraday Future was meant to be a premium EV company. In practice, the equity case is dominated by financing stress, execution failures and survival risk rather than vehicle economics or scaling credibility."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: $0.2115 Market cap: $45.6M Day range: $0.2100 - $0.2427 P/E: N/A EPS: -$5.41 Beta: 5.98",
-      "table": []
+      "price": 0.3,
+      "pe": null,
+      "eps": -3.14,
+      "marketCap": "74279517",
+      "week52High": 3.61,
+      "week52Low": 0.21,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "No clean positive operating catalyst is visible in the live data. At this stage, capital markets and survival matter more than product narrative. Extreme volatility is the norm, not the exception.",
-      "items": [
-        "No clean positive operating catalyst is visible in the live data.",
-        "At this stage, capital markets and survival matter more than product narrative.",
-        "Extreme volatility is the norm, not the exception."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (10%): a financing or corporate event triggers a temporary rebound. Base (40%): the equity continues to decay as a distressed micro-cap. Bear (50%): further dilution or breakdown destroys residual value. Weighted conviction: 18/100.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Survival risk: the central issue. Dilution risk: near-certain in distressed structures. Volatility risk: beta near 6 is a warning, not a feature.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Survival risk: the central issue."
-        },
-        {
-          "rank": 2,
-          "risk": "Dilution risk: near-certain in distressed structures."
-        },
-        {
-          "rank": 3,
-          "risk": "Volatility risk: beta near 6 is a warning, not a feature."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: almost nobody besides very short-term punters. Should avoid: everyone treating public markets like investing rather than gambling."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "SELL - SPECULATIVE at $0.2115. Distressed stub, not an investment."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Any spike: use to exit or reduce At current levels: avoid fresh capital Key trigger: only a genuinely credible rescue would change the view Conviction Trend Latest conviction: 18/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 18"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price $0.2115",
-        "Market Cap $45.6M",
-        "EPS -$5.41",
-        "Day High $0.2427",
-        "Day Low $0.2100"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 18,
-      "band": "SELL",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 18,
-        "band": "SELL",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 18
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 18
       }
     ]
   }

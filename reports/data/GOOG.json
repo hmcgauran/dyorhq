@@ -1,139 +1,109 @@
 {
   "meta": {
     "ticker": "GOOG",
-    "company": "Alphabet Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
+    "company": "Alphabet Inc Class C (GOOG)",
+    "exchange": "#N/A",
+    "isin": "US02079K3059",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
     "conviction": 70,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "lastRefreshed": "2026-04-18T15:09:10.377Z",
     "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 315.72,
-    "marketCap": 3800000000000.0,
-    "marketCapFormatted": "$3.80T",
-    "trailingPE": 29.18,
-    "trailingEps": 10.82,
-    "fiftyTwoWeekHigh": 350.15,
-    "fiftyTwoWeekLow": 148.4,
-    "formatted": ""
+    "current": 339.4,
+    "currency": "USD",
+    "marketCap": "4115330503784",
+    "pe": 31.41,
+    "eps": 10.81,
+    "week52High": 350.15,
+    "week52Low": 148.4,
+    "beta": 1.13,
+    "avgVolume": "18909173",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "AI innovation",
+      "cloud growth",
+      "regulatory scrutiny",
+      "strong earnings",
+      "market competition"
+    ],
+    "summary": "GOOG sentiment is positive, driven by strong quarterly earnings, growth in cloud computing, and advancements in AI technology. However, ongoing regulatory challenges and competition in the tech sector temper some enthusiasm.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 30,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 12,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Alphabet's search monopoly generates extraordinary cash flows that fully fund its AI infrastructure buildout, Cloud returns to profitability, and the Gemini AI integration into Search and YouTube represents a genuine competitive response to ChatGPT-era threats. HOLD is the weighted recommendation with a conviction score of 70."
+      "text": "Alphabet is the dominant global internet platform: Google Search holds approximately 91% market share, YouTube is the world's largest video platform, and Google Cloud is the emerging third pillar of the business. The company sits at the intersection of several secular growth themes - AI, cloud computing, and digital advertising - but faces the most significant structural challenge to its core search franchise since its founding. The DOJ antitrust victory in August 2024 and the rise of AI-native search alternatives (Perplexity AI, OpenAI Search, Claude-powered search) create a credible scenario in which Google's search ad inventory erodes over the next five to ten years."
     },
     "businessModel": {
-      "text": "Alphabet Inc (GOOG) operates in the Communication Services sector and is listed on NASDAQ. The business generates revenue through its core operations in communication services."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$315.72"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$3.8 trillion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "29.18x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$10.82"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$350.15"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$148.40"
-        }
-      ]
+      "price": 339.4,
+      "pe": 31.41,
+      "eps": 10.81,
+      "marketCap": "4115330503784",
+      "week52High": 350.15,
+      "week52Low": 148.4,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Alphabet Inc has been navigating the current market environment with its core communication services franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (82): Gemini Ultra closes the capability gap with GPT-4. Search AI Overviews increase engagement and CPMs without materially impacting click-through rates. YouTube and Cloud sustain 25%+ growth. EPS grows to $13+. Price: $370+. Base Case (70): Search remains dominant with modest AI monetisation upside. YouTube grows advertising revenue in line with digital ad market. Cloud maintains trajectory at 21-23% growth. EPS: $11-12. Price: $320-360. Bear Case (52): AI Overviews disruption to search experience reduces click volumes and CPMs. Cloud competitive losses to AWS/Azure accelerate. Antitrust remedies force structural separation of Search. EPS falls to $9-10. Price: below $270. Weighted Score: 70 - Bull 82 × 30% + Base 70 × 50% + Bear 52 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "AI Search disruption risk: If AI Overviews reduce user clicks on search results, Google's core monetisation mechanism is impaired. This is the single largest structural risk to the bull case. Antitrust regulatory risk: The US DOJ's search monopoly case has progressed to remedies phase. Structural remedies (divestiture of Android or AdWords) could materially impair the business. Cloud competitive position: AWS and Azure have meaningful scale advantages in enterprise cloud. Google Cloud's path to sustained profitability requires continued outperformance in AI workloads. Capex intensity: AI infrastructure requires enormous and ongoing capital investment. Free cash flow conversion could remain depressed relative to net income for multiple years. Advertiser concentration risk: The top 100 advertisers represent a disproportionate share of search and YouTube ad revenue. Macro slowdown or major advertiser churn has outsized impact.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "AI Search disruption risk: If AI Overviews reduce user clicks on search results, Google's core monetisation mechanism is impaired. This is the single largest structural risk to the bull case."
-        },
-        {
-          "rank": 2,
-          "risk": "Antitrust regulatory risk: The US DOJ's search monopoly case has progressed to remedies phase. Structural remedies (divestiture of Android or AdWords) could materially impair the business."
-        },
-        {
-          "rank": 3,
-          "risk": "Cloud competitive position: AWS and Azure have meaningful scale advantages in enterprise cloud. Google Cloud's path to sustained profitability requires continued outperformance in AI workloads."
-        },
-        {
-          "rank": 4,
-          "risk": "Capex intensity: AI infrastructure requires enormous and ongoing capital investment. Free cash flow conversion could remain depressed relative to net income for multiple years."
-        },
-        {
-          "rank": 5,
-          "risk": "Advertiser concentration risk: The top 100 advertisers represent a disproportionate share of search and YouTube ad revenue. Macro slowdown or major advertiser churn has outsized impact."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Long-term investors seeking high-quality AI infrastructure exposure with the safety of a dominant search monopoly underwriting the transition. Core technology holding."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "BUY. BUY on any material pullback related to AI Search concerns below $285 (implies 26x base-case EPS - reasonable for the quality of the franchise). Reduce if antitrust structural remedies are confirmed and impose genuine business separation. Monitor AI Overviews click-through rate data carefully."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY on any material pullback related to AI Search concerns below $285 (implies 26x base-case EPS - reasonable for the quality of the franchise)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
       "score": 70,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 70,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 70
       }
     ]
   }

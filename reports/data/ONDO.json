@@ -1,111 +1,110 @@
 {
   "meta": {
     "ticker": "ONDO",
-    "company": "Ondo",
-    "exchange": "CRYPTO",
+    "company": "Ondo Finance",
+    "exchange": null,
     "isin": "GB00BNVVGD77",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "recommendationNote": "REDUCE - SPECULATIVE",
-    "conviction": 48,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.388Z",
     "universes": [
+      "uk",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 15,
+    "currency": "GBX",
+    "marketCap": "22472205",
+    "pe": null,
+    "eps": -0.06,
+    "week52High": 35,
+    "week52Low": 14,
+    "beta": null,
+    "avgVolume": "396302",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "institutional adoption",
+      "DeFi growth",
+      "token performance",
+      "partnership potential"
+    ],
+    "summary": "Ondo Finance (ONDO) exhibits a positive sentiment driven by growing institutional interest in its tokenized real-world assets and recent upward price momentum. Analyst tone remains cautiously optimistic, with potential partnerships or integrations as near-term catalysts.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 37,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 7,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
-      "text": "ONDO sits in the tokenised finance / crypto infrastructure bucket where the thematic upside is obvious and the underwriting is still difficult. The live crypto feed shows ONDO around $0.262. That is enough for a market handle, but not enough to transform it into a high-conviction investment case without stronger token-level and ecosystem data. Bottom line: REDUCE - SPECULATIVE . Interesting theme, insufficient hard support."
+      "text": "Ondo Finance is the dominant protocol in tokenised real-world assets (RWA), with over $3bn in total value locked and a 50-60% market share in tokenised stocks and ETFs. The grok sentiment score of 52/100 reflects caution: the protocol metrics are exceptional (TVL $3bn+, 2900% YoY growth in tokenised stocks), the institutional partnerships (Franklin Templeton, Binance, Clearstream, 360X) are genuinely impressive, and the governance vote on fee-switch revenue sharing in H2 2026 is a potential binary catalyst. But the ONDO token is approximately 88% below its all-time high, weighed down by 1.94bn tokens unlocked in January 2026 and continuous team multisig selling into Coinbase. This is a classic \"protocol success versus token price\" paradox."
     },
     "businessModel": {
-      "text": "Ondo is tied to tokenised finance and blockchain-based financial infrastructure. The attraction is exposure to a credible secular theme. The problem is that token valuation, platform adoption and regulatory direction can diverge wildly."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: $0.262 Source: crypto market feed P/E / EPS: not applicable in the conventional equity sense This is not a normal equity valuation exercise. That alone should keep position sizing disciplined.",
-      "table": []
+      "price": 15,
+      "pe": null,
+      "eps": -0.06,
+      "marketCap": "22472205",
+      "week52High": 35,
+      "week52Low": 14,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Tokenised real-world asset and on-chain finance narratives remain supportive. Adoption and regulatory clarity are the actual medium-term drivers. Crypto beta and sentiment still dominate near-term pricing.",
-      "items": [
-        "Tokenised real-world asset and on-chain finance narratives remain supportive.",
-        "Adoption and regulatory clarity are the actual medium-term drivers.",
-        "Crypto beta and sentiment still dominate near-term pricing."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): tokenisation adoption accelerates and Ondo becomes a meaningful infrastructure beneficiary. Base (45%): thematic progress continues but the token remains sentiment-driven. Bear (30%): adoption disappoints or crypto sentiment weakens. Weighted conviction: 48/100.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Regulatory risk: obvious and material. Token-valuation risk: weak linkage between narrative and price discipline. Crypto beta: sentiment can overwhelm fundamentals.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Regulatory risk: obvious and material."
-        },
-        {
-          "rank": 2,
-          "risk": "Token-valuation risk: weak linkage between narrative and price discipline."
-        },
-        {
-          "rank": 3,
-          "risk": "Crypto beta: sentiment can overwhelm fundamentals."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: only investors intentionally taking tokenised-finance crypto risk. Should avoid: anyone wanting conventional valuation and governance anchors."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - SPECULATIVE at $0.262. Theme is good, evidence base still thin."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Only with small size: if taking thematic exposure Key trigger: measurable adoption and clearer regulatory support Conviction Trend Latest conviction: 48/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 48"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price $0.262",
-        "Instrument Crypto asset",
-        "View Speculative"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 48,
-      "band": "REDUCE",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 73,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 48,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 48
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 58
       }
     ]
   }

@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "HIV treatment leadership",
+    "pipeline innovation",
+    "stock undervaluation",
+    "dividend stability"
+  ],
+  "summary": "Gilead Sciences (GILD) maintains a positive sentiment driven by its strong position in HIV treatments and a promising pipeline, despite mixed analyst views on growth potential. Recent price momentum shows stability with a slight upward trend, supported by consistent dividend payouts and potential near-term catalysts from clinical trial updates.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"HIV treatment leadership\", \"pipeline innovation\", \"stock undervaluation\", \"dividend stability\"],\n  \"summary\": \"Gilead Sciences (GILD) maintains a positive sentiment driven by its strong position in HIV treatments and a promising pipeline, despite mixed analyst views on growth potential. Recent price momentum shows stability with a slight upward trend, supported by consistent dividend payouts and potential near-term catalysts from clinical trial updates.\"\n}"
+}

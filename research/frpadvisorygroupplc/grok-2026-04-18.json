@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "market confidence",
+    "sector growth",
+    "dividend stability"
+  ],
+  "summary": "FRP Advisory Group PLC shows a positive sentiment with a score of 45, driven by recent strong earnings reports and growing confidence in the advisory sector. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like increased demand for restructuring services.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"market confidence\", \"sector growth\", \"dividend stability\"],\n  \"summary\": \"FRP Advisory Group PLC shows a positive sentiment with a score of 45, driven by recent strong earnings reports and growing confidence in the advisory sector. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like increased demand for restructuring services.\"\n}"
+}

@@ -1,113 +1,107 @@
 {
   "meta": {
     "ticker": "MS",
-    "company": "MS",
-    "exchange": "",
-    "isin": "",
-    "date": "",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 62,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "MS - Morgan Stanley",
+    "exchange": null,
+    "isin": "US6174464486",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.387Z",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 188.82,
+    "currency": "USD",
+    "marketCap": "298597316102",
+    "pe": 17.1,
+    "eps": 11.04,
+    "week52High": 194.59,
+    "week52Low": 104.78,
+    "beta": 1.19,
+    "avgVolume": "7156248",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "investment banking recovery",
+      "market optimism",
+      "interest rate sensitivity"
+    ],
+    "summary": "Morgan Stanley (MS) exhibits a positive sentiment driven by strong recent earnings and a recovery in investment banking activity, bolstered by optimistic analyst tone. Price momentum remains upward with potential near-term catalysts tied to macroeconomic conditions and interest rate developments.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 35,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Morgan Stanley's wealth-management franchise is a structural winner in the long-term wealth creation theme; the acquisition of E*Trade (2020) and investment in Eaton Vance (2021) are maturing into fee streams, but the balance sheet remains rate-sensitive."
     },
     "businessModel": {
-      "text": "Revenue from Wealth Management (advisory and brokerage fees, ~45%), Investment Banking (M&A advisory, ECM, debt underwriting, ~25%), and Institutional Securities (sales & trading, equity research, ~30%)."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 188.82,
+      "pe": 17.1,
+      "eps": 11.04,
+      "marketCap": "298597316102",
+      "week52High": 194.59,
+      "week52Low": 104.78,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Wealth Management net new assets +$200bn+ per year; fee-based revenue now 50% of div WM income E*Trade integration completed Q2 FY25 - $3.2tn in client assets Investment Banking revenue surged +26% YoY Q1 2025 on M&A and IPO pipeline MTU (Medium-term note) programme expanding into Asia retail structured products",
-      "items": [
-        "Wealth Management net new assets +$200bn+ per year; fee-based revenue now 50% of div WM income",
-        "E*Trade integration completed Q2 FY25 - $3.2tn in client assets",
-        "Investment Banking revenue surged +26% YoY Q1 2025 on M&A and IPO pipeline",
-        "MTU (Medium-term note) programme expanding into Asia retail structured products"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "72 Bull 62 Base 46 Bear 62 Conviction",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "1. Balance-sheet sensitive to Q3/Q4 2026 rate volatility if Fed resumes hiking 2. Wealth-management front-book revenue depends on equity market levels 3. E*Trade retail client base is lower-margin and rate-sensitive (cash drag) 4. Credit quality in investment bank's leveraged loan book - potential deterioration in stress scenario 5. Technology spend: platform rebuild costing $800M incremental annually through FY26",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "1. Balance-sheet sensitive to Q3/Q4 2026 rate volatility if Fed resumes hiking"
-        },
-        {
-          "rank": 2,
-          "risk": "2. Wealth-management front-book revenue depends on equity market levels"
-        },
-        {
-          "rank": 3,
-          "risk": "3. E*Trade retail client base is lower-margin and rate-sensitive (cash drag)"
-        },
-        {
-          "rank": 4,
-          "risk": "4. Credit quality in investment bank's leveraged loan book - potential deterioration in stress scenario"
-        },
-        {
-          "rank": 5,
-          "risk": "5. Technology spend: platform rebuild costing $800M incremental annually through FY26"
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Wealth-management secular growth thesis combined with investment-banking cyclical upside. Hybrid bank-technology positioning. NOT suitable for pure rate-squeeze plays or investors needing margin expansion clarity in near term."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
       "text": ""
     },
-    "entryExit": {
-      "text": "Accumulate at $160-$172 (10-15% from 52-week low). HOLD $172-$190. REDUCE above $190. Track: wealth management net new assets and investment banking fee trends. | Accumulate at $160-$172 (10-15% from 52-week low). | REDUCE above $190."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 62,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 62,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 62
       }
     ]
   }

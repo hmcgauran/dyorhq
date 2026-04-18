@@ -1,137 +1,109 @@
 {
   "meta": {
     "ticker": "PG",
-    "company": "Procter & Gamble Co",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 63,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "PG - Procter & Gamble Co",
+    "exchange": null,
+    "isin": "US7427181091",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.389Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "current": 145.16,
-    "marketCap": 337400000000.0,
-    "marketCapFormatted": "$337.40B",
-    "trailingPE": 21.51,
-    "trailingEps": 6.75,
-    "fiftyTwoWeekHigh": 171.65,
-    "fiftyTwoWeekLow": 137.62,
-    "formatted": ""
+    "current": 146.93,
+    "currency": "USD",
+    "marketCap": "341465449908",
+    "pe": 21.77,
+    "eps": 6.75,
+    "week52High": 170.99,
+    "week52Low": 137.62,
+    "beta": 0.42,
+    "avgVolume": "10281374",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "consumer demand",
+      "innovation pipeline",
+      "macroeconomic concerns",
+      "dividend reliability"
+    ],
+    "summary": "Procter & Gamble Co (PG) exhibits a positive sentiment driven by strong recent earnings, consistent consumer demand for household products, and a robust innovation pipeline. However, macroeconomic concerns like inflation and supply chain pressures slightly temper the bullish outlook.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "Procter & Gamble is a high-quality defensive consumer staples franchise with-pricing power and a strong dividend, but premium valuation of 21.51x P/E limits upside and argues for HOLD at current levels."
+      "text": "Procter &amp; Gamble is a high-quality defensive consumer staples franchise with-pricing power and a strong dividend, but premium valuation of 21.51x P/E limits upside and argues for HOLD at current levels."
     },
     "businessModel": {
-      "text": "P&G manufactures and markets branded consumer packaged goods across fabric care, home care, baby care, grooming, health care and beauty. Brands include Pampers, Tide, Ariel, Gillette, Olay, Crest and Oral-B. Revenue is generated through direct retail and wholesale distribution globally. P&G has significant pricing power due to brand strength and market share leadership, allowing it to pass through commodity inflation. The company runs a productivity programme (call it P&L+) to offset cost inflation and fund margin expansion."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$145.16"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$337.4 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "21.51x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$6.75"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$171.65"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$137.62"
-        }
-      ]
+      "price": 146.93,
+      "pe": 21.77,
+      "eps": 6.75,
+      "marketCap": "341465449908",
+      "week52High": 170.99,
+      "week52Low": 137.62,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "P&G has navigated a multi-year commodity and supply chain inflation cycle, maintaining or expanding margins through disciplined pricing. Volume trends have stabilised in North America after a period of consumer trade-down to private label. The company raised dividends for 68 consecutive years - a record. Fiscal 2025 guidance was maintained despite mixed consumer sentiment in lower-income brackets."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (74): Volume recovery in North American away-from-home channels continues as lapping Easy-Off and Dawn Easy-Clean ends. Emerging market growth accelerates as middle-class consumption grows. The beauty segment (Olay, SK-II) posts above-average growth. EPS grows to $7.50+. Price: $170+. Base Case (62): Volume is roughly flat; pricing continues to offset input cost inflation. The away-from-home portfolio grows modestly. Margin is maintained. EPS grows slowly to $7.00-$7.30. Price: $145-$160. Bear Case (48): Consumer pressure in lower-income brackets intensifies; private label share gains accelerate. Commodity inflation returns or supply chain disruption hits margins. Volume declines in developed markets. EPS falls to $6.20-$6.50. Price: $125-$135. Weighted Score: 63 - Bull 74 × 30% + Base 62 × 50% + Bear 48 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Valuation premium: P&G trades at 21.51x P/E, a significant premium to the S&P 500 average and to most consumer staples peers. This premium is justified by brand quality and dividend stability, but limits capital appreciation. Consumer spending sensitivity: Trade-down to private label is a real risk in a prolonged consumer slowdown, particularly in entry-level price tiers (powder detergents, value-tier diapers). Commodity and supply chain inflation: P&G's pricing power is not unlimited; if input costs surge beyond what can be passed through, margins compress. Geopolitical and currency exposure: Significant emerging market revenue creates currency translation risk and exposure to geopolitical disruption in key markets.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Valuation premium: P&G trades at 21.51x P/E, a significant premium to the S&P 500 average and to most consumer staples peers. This premium is justified by brand quality and dividend stability, but limits capital appreciation."
-        },
-        {
-          "rank": 2,
-          "risk": "Consumer spending sensitivity: Trade-down to private label is a real risk in a prolonged consumer slowdown, particularly in entry-level price tiers (powder detergents, value-tier diapers)."
-        },
-        {
-          "rank": 3,
-          "risk": "Commodity and supply chain inflation: P&G's pricing power is not unlimited; if input costs surge beyond what can be passed through, margins compress."
-        },
-        {
-          "rank": 4,
-          "risk": "Geopolitical and currency exposure: Significant emerging market revenue creates currency translation risk and exposure to geopolitical disruption in key markets."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Defensive-oriented investors seeking a stable, dividend-growing equity for the long term. Portfolios requiring a high-quality consumer staples anchor with consistent capital return."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. P&G is a high-quality business with genuine brands and strong capital return. The defensive characteristics are valuable in uncertain environments, but the shares are fairly valued at current levels. Entry framework: BUY below $138 (approximately 20x base-case EPS - a more reasonable entry point). Reduce above $165 (22x+ P/E for a slow-growth consumer staples name leaves no margin of safety)."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $138 (approximately 20x base-case EPS - a more reasonable entry point). Reduce above $165 (22x+ P/E for a slow-growth consumer staples name leaves no margin of safety). | Entry framework: BUY below $138 (approximately 20x base-case EPS - a more reasonable entry point). | Reduce above $165 (22x+ P/E for a slow-growth consumer staples name leaves no margin of safety)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 63,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 63,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 63
       }
     ]
   }

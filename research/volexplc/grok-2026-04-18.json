@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "strategic acquisitions",
+    "supply chain challenges",
+    "market expansion"
+  ],
+  "summary": "Volex PLC (VLX) exhibits a positive sentiment driven by recent strong earnings reports and strategic acquisitions that bolster market expansion. However, lingering supply chain challenges slightly temper enthusiasm, though analyst tone remains largely optimistic with upward price momentum supporting a bullish near-term outlook.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"strategic acquisitions\", \"supply chain challenges\", \"market expansion\"],\n  \"summary\": \"Volex PLC (VLX) exhibits a positive sentiment driven by recent strong earnings reports and strategic acquisitions that bolster market expansion. However, lingering supply chain challenges slightly temper enthusiasm, though analyst tone remains largely optimistic with upward price momentum supporting a bullish near-term outlook.\"\n}"
+}

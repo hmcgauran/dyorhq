@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "large-cap growth",
+    "market momentum",
+    "economic recovery",
+    "interest rate sensitivity"
+  ],
+  "summary": "FTC shows a positive sentiment with steady price momentum in large-cap growth stocks and a favorable analyst tone focusing on economic recovery. However, potential near-term risks include sensitivity to rising interest rates, with no major catalysts immediately evident.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"large-cap growth\", \"market momentum\", \"economic recovery\", \"interest rate sensitivity\"],\n  \"summary\": \"FTC shows a positive sentiment with steady price momentum in large-cap growth stocks and a favorable analyst tone focusing on economic recovery. However, potential near-term risks include sensitivity to rising interest rates, with no major catalysts immediately evident.\"\n}"
+}

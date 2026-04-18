@@ -1,0 +1,13 @@
+{
+  "score": 73,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings growth",
+    "medical device innovation",
+    "analyst upgrades",
+    "dividend reliability",
+    "global healthcare demand"
+  ],
+  "summary": "Abbott Laboratories (ABT) shows a positive sentiment driven by strong recent earnings, particularly in medical devices and diagnostics, alongside analyst upgrades citing robust growth potential. Price momentum remains bullish with steady upward trends, and near-term catalysts include potential product launches and sustained global demand for healthcare solutions.",
+  "raw": "{\n  \"score\": 65,\n  \"signal\": \"positive\",\n  \"key_themes\": [\n    \"strong earnings growth\",\n    \"medical device innovation\",\n    \"analyst upgrades\",\n    \"dividend reliability\",\n    \"global healthcare demand\"\n  ],\n  \"summary\": \"Abbott Laboratories (ABT) shows a positive sentiment driven by strong recent earnings, particularly in medical devices and diagnostics, alongside analyst upgrades citing robust growth potential. Price momentum remains bullish with steady upward trends, and near-term catalysts include potential product launches and sustained global demand for healthcare solutions.\"\n}"
+}

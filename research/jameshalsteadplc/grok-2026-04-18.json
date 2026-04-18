@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "stable earnings",
+    "dividend reliability",
+    "market resilience",
+    "cautious growth outlook"
+  ],
+  "summary": "James Halstead PLC (JHD) shows a mildly positive sentiment with stable earnings and a reliable dividend appealing to investors, despite a cautious growth outlook. Recent news highlights resilience in challenging markets, with analysts maintaining a balanced but slightly optimistic tone, supported by steady price momentum and no immediate negative catalysts.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"stable earnings\", \"dividend reliability\", \"market resilience\", \"cautious growth outlook\"],\n  \"summary\": \"James Halstead PLC (JHD) shows a mildly positive sentiment with stable earnings and a reliable dividend appealing to investors, despite a cautious growth outlook. Recent news highlights resilience in challenging markets, with analysts maintaining a balanced but slightly optimistic tone, supported by steady price momentum and no immediate negative catalysts.\"\n}"
+}

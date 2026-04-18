@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "strategic acquisitions",
+    "market expansion",
+    "tech sector growth"
+  ],
+  "summary": "GB Group plc (GBG) exhibits a positive sentiment driven by recent strong earnings reports and strategic acquisitions that bolster its position in identity verification and fraud prevention. Analyst tone remains optimistic with upward price momentum reflecting confidence in near-term growth catalysts like market expansion.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"strategic acquisitions\", \"market expansion\", \"tech sector growth\"],\n  \"summary\": \"GB Group plc (GBG) exhibits a positive sentiment driven by recent strong earnings reports and strategic acquisitions that bolster its position in identity verification and fraud prevention. Analyst tone remains optimistic with upward price momentum reflecting confidence in near-term growth catalysts like market expansion.\"\n}"
+}

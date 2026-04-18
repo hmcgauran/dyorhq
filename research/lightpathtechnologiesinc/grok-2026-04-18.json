@@ -1,0 +1,13 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "mixed earnings",
+    "analyst caution",
+    "price decline",
+    "limited catalysts",
+    "market uncertainty"
+  ],
+  "summary": "LightPath Technologies Inc (LPTH) exhibits a negative sentiment due to recent mixed earnings results and a cautious tone from analysts regarding growth prospects. The stock has experienced downward price momentum over the past month, with no significant near-term catalysts to drive positive movement.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"mixed earnings\", \"analyst caution\", \"price decline\", \"limited catalysts\", \"market uncertainty\"],\n  \"summary\": \"LightPath Technologies Inc (LPTH) exhibits a negative sentiment due to recent mixed earnings results and a cautious tone from analysts regarding growth prospects. The stock has experienced downward price momentum over the past month, with no significant near-term catalysts to drive positive movement.\"\n}"
+}

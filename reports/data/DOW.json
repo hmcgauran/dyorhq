@@ -1,144 +1,106 @@
 {
   "meta": {
     "ticker": "DOW",
-    "company": "Dow Inc (DOW)",
-    "exchange": "",
-    "isin": "",
-    "date": "11 April 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 30,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "DOW - Dow Inc (DOW)",
+    "exchange": "#N/A",
+    "isin": "US2605431038",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.381Z",
     "universes": [
+      "fortune100",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 35.6,
+    "currency": "USD",
+    "marketCap": "25618449541",
+    "pe": null,
+    "eps": -3.7,
+    "week52High": 42.74,
+    "week52Low": 20.4,
+    "beta": 0.51,
+    "avgVolume": "16010359",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 63,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "industrial demand",
+      "sustainability initiatives",
+      "macroeconomic uncertainty"
+    ],
+    "summary": "Dow Inc (DOW) exhibits a positive sentiment driven by recent strong quarterly earnings and robust industrial demand, though tempered by broader macroeconomic concerns. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends and potential catalysts from sustainability projects.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
       "text": "Dow Inc is a structurally challenged diversified chemicals producer navigating a severe cyclical downturn, with the shares running ahead of fundamentals at current levels and the risk/reward skewed firmly to the downside, warranting a REDUCE."
     },
     "businessModel": {
-      "text": "Dow is one of the world's largest diversified chemical companies, spun off from DowDuPont in 2019. It operates across three principal segments: Packaging &amp; Specialty Plastics ~45% of revenue; polyethylene, elastomers, parabolic antennas Industrial Intermediates &amp; Infrastructure ~30% of revenue; polyurethanes, chlor-alkali, PO Performance Materials &amp; Coatings ~25% of revenue; coatings, architectural paints, siloxanes Dow is highly exposed to global GDP growth, particularly in construction, automotive, consumer goods, and packaging. It is a significant energy consumer, with feedstock and fuel costs representing approximately 40% of production costs. The company generates significant free cash flow at the trough of the cycle through cost discipline but requires a constructive macro environment to deliver acceptable returns on capital."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Note: The company is currently loss-making on a GAAP basis. The P/E ratio is not meaningful. Any earnings-based valuation framework should be treated with caution until Dow returns to sustainable profitability.",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$39.01"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$28.1bn"
-        },
-        {
-          "label": "P/E Ratio",
-          "value": "N/A (negative earnings)"
-        },
-        {
-          "label": "Earnings Per Share (TTM)",
-          "value": "-$3.70"
-        },
-        {
-          "label": "Price / Book",
-          "value": "~1.4x (estimated)"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$42.74"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$20.40"
-        },
-        {
-          "label": "Distance from 52w High",
-          "value": "-8.7%"
-        },
-        {
-          "label": "Average Volume",
-          "value": "10.9m"
-        }
-      ]
+      "price": 35.6,
+      "pe": null,
+      "eps": -3.7,
+      "marketCap": "25618449541",
+      "week52High": 42.74,
+      "week52Low": 20.4,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Q4 2025 Earnings Miss: Dow reported a significant bottom-line miss driven by persistent European demand weakness and destocking in the polyurethane chain, underscoring the depth of the cyclical downturn. China Stimulus Optimism: Incremental Chinese government stimulus announcements provided a sentiment boost in late 2025 and early 2026, driving a re-rating of commodity-sensitive names including Dow; actual demand recovery has been slower than hoped. US Gulf Coast Restarts: Several previously idled steam crackers restarted in Q1 2026 as ethane economics improved, raising utilisation rates in the Packaging &amp; Specialty Plastics segment. Cost Restructuring Announced: Dow announced an additional $200 million in structural cost savings targeting high-cost European assets, with writedowns anticipated in Q1 2026."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Scenario Score Probability Commentary Bull 38 30% Global manufacturing PMI returns to expansion; China stimulus drives meaningful demand recovery; European volumes stabilise; Dow returns to $2-3 EPS, re-rates to 20x+. Base 30 50% Sluggish global demand persists; European headwinds continue; Dow returns to break-even or low-single EPS; shares drift in a $36-$42 range. Bear 20 20% Global recession triggers demand collapse; chemical oversupply intensifies; Dow books large impairments; balance sheet deteriorates; shares test $15-18. Conviction Score: 38x0.30 + 30x0.50 + 20x0.20 = 30.2 Bear-case risk dominates. The loss-making base and persistent cyclical headwinds support a cautious stance.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "# Risk Description 1 Cyclical demand collapse Chemicals are highly levered to global GDP. A recession would compound existing oversupply and destroy profitability at Dow's high fixed-cost facilities. 2 European asset base Dow's European operations represent ~25% of capacity and are structurally uncompetitive due to high energy costs and weak local demand; risk of permanent curtailment or divestment. 3 Commodity feedstock volatility Ethane, naphtha, and energy costs are material input variables; spikes in energy costs compress margins without the ability to fully pass through. 4 Balance sheet leverage Dow carries significant debt; a prolonged downturn could pressure the credit profile and limit financial flexibility for shareholders. 5 Structural competition New Middle East and US Gulf Coast capacity additions continue to increase global supply, creating structural headwinds for Western chemical producers.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Cyclical demand collapse - Chemicals are highly levered to global GDP. A recession would compound existing oversupply and destroy profitability at Dow's high fixed-cost facilities."
-        },
-        {
-          "rank": 2,
-          "risk": "European asset base - Dow's European operations represent ~25% of capacity and are structurally uncompetitive due to high energy costs and weak local demand; risk of permanent curtailment or divestment."
-        },
-        {
-          "rank": 3,
-          "risk": "Commodity feedstock volatility - Ethane, naphtha, and energy costs are material input variables; spikes in energy costs compress margins without the ability to fully pass through."
-        },
-        {
-          "rank": 4,
-          "risk": "Balance sheet leverage - Dow carries significant debt; a prolonged downturn could pressure the credit profile and limit financial flexibility for shareholders."
-        },
-        {
-          "rank": 5,
-          "risk": "Structural competition - New Middle East and US Gulf Coast capacity additions continue to increase global supply, creating structural headwinds for Western chemical producers."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own:\n• Contrarian investors with a multi-year horizon who believe in a China-led demand recovery and are comfortable with near-term losses\n• Speculators targeting a short-term re-rating on stimulus headlines\n\nAvoid:\n• Risk-averse or income-oriented investors who need capital preservation\n• Those building a high-conviction materials overweight; better cyclically-positioned alternatives exist (e.g. specialty chemicals)\n• Anyone unwilling to actively manage a volatile, macro-driven position with poor near-term visibility"
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "Rating: REDUCE Dow is navigating a deep and prolonged chemical cycle downturn. The shares have bounced from 2025 lows on China stimulus expectations, but the fundamental picture -- loss-making earnings, structurally high European costs, and a heavily oversupplied global market -- does not support the current valuation. The risk/reward is unfavourable relative to the broader materials sector. Framework Detail Entry point $39.01 (current); too late for new entry; wait for better risk/reward Target price (12 months) $32.00-$36.00 (base case), $42.00+ requires evidence of sustained demand recovery Stop-loss $19.50 (below the 52-week low; would signal cycle deepening) Position sizing Avoid new positions; trim existing holdings on any rally toward $42-44 Key trigger to upgrade Sustained global PMI above 52, European chemical destocking completing, or Dow returning to positive EPS with visible recovery path"
+      "text": ""
     },
-    "entryExit": {
-      "text": "Entry point: $39.01 (current); too late for new entry; wait for better risk/reward | Target price (12 months): $32.00-$36.00 (base case), $42.00+ requires evidence of sustained demand recovery | Stop-loss: $19.50 (below the 52-week low; would signal cycle deepening)"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 30,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 30,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 30
       }
     ]
   }

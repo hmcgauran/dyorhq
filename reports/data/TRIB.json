@@ -1,117 +1,110 @@
 {
   "meta": {
     "ticker": "TRIB",
-    "company": "Trinity Biotech PLC",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "SELL",
-    "recommendationNote": "SELL",
-    "conviction": 12,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "TRIB - Trinity Biotech plc",
+    "exchange": null,
+    "isin": "US8964383066",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.393Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 0.75,
+    "currency": "USD",
+    "marketCap": "13928745",
+    "pe": null,
+    "eps": -2.22,
+    "week52High": 3.44,
+    "week52Low": 0.5,
+    "beta": 0.79,
+    "avgVolume": "222652",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 38,
+    "signal": "negative",
+    "keyThemes": [
+      "financial struggles",
+      "stock volatility",
+      "limited catalysts",
+      "analyst caution"
+    ],
+    "summary": "Trinity Biotech plc (TRIB) shows a negative sentiment due to ongoing financial challenges and inconsistent stock performance, with recent news highlighting operational losses. Analyst tone remains cautious, and price momentum has been weak with no significant near-term catalysts to drive optimism.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 32,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 14,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Trinity Biotech PLC (TRIB) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is SELL with conviction 12/100, using $0.71 as the latest stored price reference where available."
+      "text": "Trinity Biotech is a small diagnostics company where the investment case is dominated by turnaround execution, capital needs and whether any product platform can regain strategic relevance. Diagnostics can be attractive when a company has scale, installed base and dependable consumables. Trinity does not currently enjoy those advantages to the same extent, which is why the shares remain speculative."
     },
     "businessModel": {
-      "text": "Trinity Biotech PLC operates in diagnostics and life-science testing, where product relevance, reimbursement, distribution execution and balance-sheet resilience matter. The rebuilt note now matches the corrected Trinity metadata."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$0.71"
-        },
-        {
-          "label": "Company",
-          "value": "Trinity Biotech PLC"
-        },
-        {
-          "label": "Recommendation",
-          "value": "SELL"
-        },
-        {
-          "label": "Conviction",
-          "value": "12/100"
-        },
-        {
-          "label": "Universe",
-          "value": "irish"
-        }
-      ]
+      "price": 0.75,
+      "pe": null,
+      "eps": -2.22,
+      "marketCap": "13928745",
+      "week52High": 3.44,
+      "week52Low": 0.5,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Commercial recovery, assay demand, distributor execution and any strategic financing update are the main watch points."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present sell stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Small-cap diagnostics businesses can face sharp revenue swings. Funding risk can remain elevated. Product concentration can raise volatility. Commercial execution can lag expectations. Liquidity in the shares may be limited.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Small-cap diagnostics businesses can face sharp revenue swings."
-        },
-        {
-          "rank": 2,
-          "risk": "Funding risk can remain elevated."
-        },
-        {
-          "rank": 3,
-          "risk": "Product concentration can raise volatility."
-        },
-        {
-          "rank": 4,
-          "risk": "Commercial execution can lag expectations."
-        },
-        {
-          "rank": 5,
-          "risk": "Liquidity in the shares may be limited."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Speculative healthcare investors who understand funding and execution risk. Avoid: Investors who need robust liquidity and dependable earnings."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "SELL - Conviction: 12/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a sell stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 12,
-      "band": "SELL",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 12,
-        "band": "SELL",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-11",
+        "conviction": 12
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 31
       }
     ]
   }

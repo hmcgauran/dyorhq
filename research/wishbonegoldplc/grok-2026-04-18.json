@@ -1,0 +1,12 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "exploration challenges",
+    "market uncertainty",
+    "limited catalysts",
+    "price decline"
+  ],
+  "summary": "Wishbone Gold PLC (WSBN) exhibits a negative sentiment due to recent underwhelming exploration updates and a lack of significant near-term catalysts. Analyst tone remains cautious, and price momentum has been downward, reflecting broader market uncertainty.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"exploration challenges\", \"market uncertainty\", \"limited catalysts\", \"price decline\"],\n  \"summary\": \"Wishbone Gold PLC (WSBN) exhibits a negative sentiment due to recent underwhelming exploration updates and a lack of significant near-term catalysts. Analyst tone remains cautious, and price momentum has been downward, reflecting broader market uncertainty.\"\n}"
+}

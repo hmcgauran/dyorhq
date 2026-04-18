@@ -1,115 +1,109 @@
 {
   "meta": {
     "ticker": "LOW",
-    "company": "LOW",
-    "exchange": "",
-    "isin": "",
-    "date": "",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 57,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "LOW - Lowe's Companies Inc",
+    "exchange": "NYSE",
+    "isin": "US5486611073",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.386Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 251.72,
+    "currency": "USD",
+    "marketCap": "140979184903",
+    "pe": 21.24,
+    "eps": 11.85,
+    "week52High": 293.06,
+    "week52Low": 210.33,
+    "beta": 0.97,
+    "avgVolume": "2554789",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "home improvement demand",
+      "analyst upgrades",
+      "economic recovery",
+      "dividend growth"
+    ],
+    "summary": "Lowe's Companies Inc (LOW) exhibits a positive sentiment driven by strong recent earnings performance and sustained demand in the home improvement sector. Analyst tone remains optimistic with several upgrades citing robust sales growth and potential tailwinds from economic recovery.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Lowe's is executing a supply-chain and pro-customer transformation under CEO Marvin Ellison's second-term mandate; the housing-affordability macro headwind tempers but does not eliminate the operational upside from share-gain against rival Home Depot."
     },
     "businessModel": {
-      "text": "Revenue from US Home Improvement retail (85%), Lowe's.com e-commerce (8%), and international/outlet (7%). Split approximately 55% DIY consumer, 45% professional contractor through Pro desks."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 251.72,
+      "pe": 21.24,
+      "eps": 11.85,
+      "marketCap": "140979184903",
+      "week52High": 293.06,
+      "week52Low": 210.33,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Pro-desk segment (>40% revenue) growing double-digit as contractor loyalty recovers TinyAI-driven inventory optimisation rolling out chainwide - reducing stockouts by 22% Lowe's.com marketplace launch Q4 2025 adding third-party SKUs Share-buyback programme authorised: $10bn authorised through FY2026",
-      "items": [
-        "Pro-desk segment (>40% revenue) growing double-digit as contractor loyalty recovers",
-        "TinyAI-driven inventory optimisation rolling out chainwide - reducing stockouts by 22%",
-        "Lowe's.com marketplace launch Q4 2025 adding third-party SKUs",
-        "Share-buyback programme authorised: $10bn authorised through FY2026"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "68 Bull 58 Base 40 Bear 57 Conviction",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "1. US housing-affordability crisis: existing-home sales down 15% YoY Jan 2026 2. Consumer spending shift from big-ticket DIY to repair/maintenance discretionary 3. Home Depot gaining share in pro-contractor segment - direct competitive pressure 4. tariff pressure on Chinese imported building materials (Lowe's sources ~45% Asia) 5. Tight labour market: instore service model requires 80k+ seasonal hires annually",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "1. US housing-affordability crisis: existing-home sales down 15% YoY Jan 2026"
-        },
-        {
-          "rank": 2,
-          "risk": "2. Consumer spending shift from big-ticket DIY to repair/maintenance discretionary"
-        },
-        {
-          "rank": 3,
-          "risk": "3. Home Depot gaining share in pro-contractor segment - direct competitive pressure"
-        },
-        {
-          "rank": 4,
-          "risk": "4. tariff pressure on Chinese imported building materials (Lowe's sources ~45% Asia)"
-        },
-        {
-          "rank": 5,
-          "risk": "5. Tight labour market: instore service model requires 80k+ seasonal hires annually"
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Home-improvement cyclical trade; best entry on housing-starts contraction signals. Pro-contractor differentiation is the structural tailwind. NOT suitable for risk-off macro positioning or investors needing near-term positive earnings revisions."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
       "text": ""
     },
-    "entryExit": {
-      "text": "Average in the $220-$230 range (10% above 52-week low). HOLD $230-$255. REDUCE above $255. Monitor: US existing-home sales monthly data as housing-demand proxy. | BUY: Average in the $220-$230 range (10% above 52-week low). | REDUCE above $255."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 57,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 57,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 57
       }
     ]
   }

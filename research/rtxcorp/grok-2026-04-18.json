@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "defense sector growth",
+    "supply chain challenges",
+    "analyst upgrades",
+    "dividend stability"
+  ],
+  "summary": "RTX Corp exhibits a positive sentiment driven by strong quarterly earnings, growth in the defense sector, and recent analyst upgrades, though tempered by ongoing supply chain concerns. Price momentum remains upward with potential catalysts from upcoming defense contracts.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"defense sector growth\", \"supply chain challenges\", \"analyst upgrades\", \"dividend stability\"],\n  \"summary\": \"RTX Corp exhibits a positive sentiment driven by strong quarterly earnings, growth in the defense sector, and recent analyst upgrades, though tempered by ongoing supply chain concerns. Price momentum remains upward with potential catalysts from upcoming defense contracts.\"\n}"
+}

@@ -1,139 +1,108 @@
 {
   "meta": {
     "ticker": "ISRG",
-    "company": "Intuitive Surgical Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 70,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "ISRG - Intuitive Surgical Inc",
+    "exchange": "#N/A",
+    "isin": "US46120E6023",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 69,
+    "lastRefreshed": "2026-04-18T15:09:10.384Z",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 450.62,
-    "marketCap": 160000000000.0,
-    "marketCapFormatted": "$160.00B",
-    "trailingPE": 57.26,
-    "trailingEps": 7.87,
-    "fiftyTwoWeekHigh": 603.88,
-    "fiftyTwoWeekLow": 427.84,
-    "formatted": ""
+    "current": 469.21,
+    "currency": "USD",
+    "marketCap": "166649124981",
+    "pe": 59.59,
+    "eps": 7.87,
+    "week52High": 603.88,
+    "week52Low": 427.84,
+    "beta": 1.68,
+    "avgVolume": "1707540",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings growth",
+      "robotic surgery demand",
+      "analyst optimism",
+      "da Vinci system adoption",
+      "potential market expansion"
+    ],
+    "summary": "Intuitive Surgical (ISRG) exhibits a positive sentiment driven by strong quarterly earnings, growing demand for robotic surgery systems like da Vinci, and upbeat analyst coverage. Price momentum remains favorable with potential catalysts in upcoming product updates and market expansion.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 27,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 15,
+    "bearScore": 38,
+    "conviction": 69
   },
   "sections": {
     "executiveSummary": {
-      "text": "Intuitive Surgical's da Vinci platform is the undisputed leader in robotic-assisted surgery with exceptional installation base durability, but the 57x trailing P/E prices in a perfection scenario with limited room for system placement slowdown. HOLD is the weighted recommendation with a conviction score of 70."
-    },
-    "businessModel": {
       "text": "Intuitive Surgical Inc (ISRG) operates in the Healthcare sector and is listed on NASDAQ. The business generates revenue through its core operations in healthcare."
     },
+    "businessModel": {
+      "text": ""
+    },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$450.62"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$160.0 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "57.26x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$7.87"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$603.88"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$427.84"
-        }
-      ]
+      "price": 469.21,
+      "pe": 59.59,
+      "eps": 7.87,
+      "marketCap": "166649124981",
+      "week52High": 603.88,
+      "week52Low": 427.84,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Intuitive Surgical Inc has been navigating the current market environment with its core healthcare franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (83): da Vinci 5 launch accelerates procedure conversions and drives system placements above 15% annual growth. Ion platform achieves meaningful revenue scale. International markets (China, India) open materially. EPS grows to $10+. Price: $530+. Base Case (70): System placements grow in line with procedure volumes at 12-14%. da Vinci 5 ramps successfully. Ion contributes increasingly. ISS and MIS procedure volumes stable. EPS: $8.50-9.50. Price: $460-520. Bear Case (52): da Vinci 5 transition disappoints or capital equipment budget constraints slow system placements in the US and Europe. Chinese domestic robotic surgery competitors (Mazor, Tinavi) accelerate. EPS falls to $7-7.50. Price: below $400. Weighted Score: 70 - Bull 83 × 30% + Base 70 × 50% + Bear 52 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Capital equipment cycle risk: da Vinci systems represent significant capital expenditure for hospitals. Any rationalisation of hospital capital budgets directly impacts system placement volumes. da Vinci 5 ramp uncertainty: New system launches carry execution risk. Any clinicalcomplication or technical issue with the dV5 platform would be material to the investment thesis. Competitive entry: Medtronic's Hugo RAS, Johnson & Johnson's Ottava, and Chinese domestic competitors (Mazor, Robdoc) represent meaningful long-term competitive threats. Procedure reimbursement risk: CMS reimbursement rates for robotic procedures could come under pressure, reducing the financial incentive for hospitals to adopt robotic surgery. China geopolitical risk: Sino-US tensions could restrict Intuitive's ability to operate in China, a meaningful long-term growth market.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Capital equipment cycle risk: da Vinci systems represent significant capital expenditure for hospitals. Any rationalisation of hospital capital budgets directly impacts system placement volumes."
-        },
-        {
-          "rank": 2,
-          "risk": "da Vinci 5 ramp uncertainty: New system launches carry execution risk. Any clinicalcomplication or technical issue with the dV5 platform would be material to the investment thesis."
-        },
-        {
-          "rank": 3,
-          "risk": "Competitive entry: Medtronic's Hugo RAS, Johnson & Johnson's Ottava, and Chinese domestic competitors (Mazor, Robdoc) represent meaningful long-term competitive threats."
-        },
-        {
-          "rank": 4,
-          "risk": "Procedure reimbursement risk: CMS reimbursement rates for robotic procedures could come under pressure, reducing the financial incentive for hospitals to adopt robotic surgery."
-        },
-        {
-          "rank": 5,
-          "risk": "China geopolitical risk: Sino-US tensions could restrict Intuitive's ability to operate in China, a meaningful long-term growth market."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Long-term investors seeking surgical robotics pure-play with an unmatched installed base, recurring service revenue and durable competitive moat."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. BUY below $410 (implies 48x base-case EPS - still premium but provides some margin of safety for a genuine platform winner). Reduce above $520 (implies 60x+ P/E - excessive for a company facing the competitive environment that ISRG now confronts)."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $410 (implies 48x base-case EPS - still premium but provides some margin of safety for a genuine platform winner). | Reduce above $520 (implies 60x+ P/E - excessive for a company facing the competitive environment that ISRG now confronts)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 70,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 69,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 70,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 70
       }
     ]
   }

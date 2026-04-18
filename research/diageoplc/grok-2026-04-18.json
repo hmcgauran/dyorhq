@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "premium brand growth",
+    "emerging market expansion",
+    "macroeconomic uncertainty",
+    "sustainability initiatives"
+  ],
+  "summary": "Diageo plc (DGE) exhibits a positive sentiment driven by robust earnings growth, particularly in premium brands and emerging markets, alongside favorable analyst tone. However, macroeconomic headwinds and currency fluctuations pose near-term risks, tempered by potential catalysts like new product launches and sustainability efforts.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"premium brand growth\", \"emerging market expansion\", \"macroeconomic uncertainty\", \"sustainability initiatives\"],\n  \"summary\": \"Diageo plc (DGE) exhibits a positive sentiment driven by robust earnings growth, particularly in premium brands and emerging markets, alongside favorable analyst tone. However, macroeconomic headwinds and currency fluctuations pose near-term risks, tempered by potential catalysts like new product launches and sustainability efforts.\"\n}"
+}

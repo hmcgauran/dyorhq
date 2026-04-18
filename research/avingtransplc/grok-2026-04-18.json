@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong financials",
+    "strategic acquisitions",
+    "market expansion",
+    "stable growth",
+    "sector resilience"
+  ],
+  "summary": "Avingtrans plc (AVG) exhibits a positive sentiment with recent news highlighting robust financial performance and strategic acquisitions boosting investor confidence. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like new contract wins or market expansions.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong financials\", \"strategic acquisitions\", \"market expansion\", \"stable growth\", \"sector resilience\"],\n  \"summary\": \"Avingtrans plc (AVG) exhibits a positive sentiment with recent news highlighting robust financial performance and strategic acquisitions boosting investor confidence. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like new contract wins or market expansions.\"\n}"
+}

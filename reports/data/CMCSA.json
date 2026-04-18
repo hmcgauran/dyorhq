@@ -1,36 +1,110 @@
 {
-  "ticker": "CMCSA",
-  "company": "Comcast Corporation",
-  "isin": "US20030N1019",
-  "exchange": "NASDAQ",
-  "currency": "USD",
-  "price": 34.00,
-  "marketCap": "$140B",
-  "sector": "Communication Services — Media",
-  "date": "17 April 2026",
-  "reportDate": "2026-04-17",
-  "recommendation": "SPECULATIVE BUY",
-  "conviction": 45,
-  "convictionHistory": [
-    {"date": "2026-04-17", "conviction": 45}
-  ],
-  "priceAtLastReport": 34.00,
-  "marketCapAtLastReport": "$140B",
-  "pe": 5.5,
-  "eps": 3.66,
-  "dividendYield": "3.2%",
-  "beta": 1.05,
-  "sharesOut": "3.95B",
-  "avgVolume": "32.9M",
-  "52wHigh": 34.34,
-  "52wLow": 26.80,
-  "prevClose": 29.30,
-  "grokScore": 45,
-  "grokSignal": "positive",
-  "grokKeyThemes": ["low 5.5x P/E", "Q1 EPS expected -24 to -34%", "streaming bundles"],
+  "meta": {
+    "ticker": "CMCSA",
+    "company": "CMCSA - Comcast Corp",
+    "exchange": "#N/A",
+    "isin": "US20030N1019",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.380Z",
+    "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 29.63,
+    "currency": "USD",
+    "marketCap": "106604173960",
+    "pe": 5.5,
+    "eps": 5.39,
+    "week52High": 34.34,
+    "week52Low": 24.12,
+    "beta": 0.79,
+    "avgVolume": "32917735",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 63,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "streaming growth",
+      "broadband demand",
+      "dividend stability",
+      "competitive pressures"
+    ],
+    "summary": "Comcast Corp (CMCSA) shows a positive sentiment driven by strong recent earnings, growth in streaming services like Peacock, and sustained broadband demand. However, competitive pressures in the media and telecom sectors slightly temper the bullish outlook.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 35,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
+  },
   "sections": {
     "executiveSummary": {
-      "text": "Comcast trades at 5.5x earnings with a 3.2% dividend yield — the market is pricing a structural and permanent earnings decline. That may be too pessimistic. Q1 2026 earnings on April 23 are expected to show a sharp EPS decline (consensus $0.82 vs $1.08 in Q1 2025, a fall of approximately 24%), but the Xfinity StreamSaver bundles launched in April 2026 — now incorporating Peacock alongside Netflix, Apple TV, Disney+, Hulu, and HBO Max in a single marketplace — represent a meaningful strategic pivot. If cord-cutting headwinds are priced in too aggressively, Comcast is a deep-value case. SPECULATIVE BUY reflects the compelling valuation support at 5.5x but not a high-conviction view given the secular cable subscriber losses that remain the primary bear argument."
+      "text": "Comcast presents as a deep value trap or a genuine bargain depending on your prior view of the broadband cord-cutting thesis. At 5.5x earnings, the market is pricing that the earnings decline is structural and permanent"
+    },
+    "businessModel": {
+      "text": ""
+    },
+    "financialSnapshot": {
+      "price": 29.63,
+      "pe": 5.5,
+      "eps": 5.39,
+      "marketCap": "106604173960",
+      "week52High": 34.34,
+      "week52Low": 24.12,
+      "revenueTTM": null,
+      "grossMargin": null
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": ""
+    },
+    "keyRisks": {
+      "text": ""
+    },
+    "whoShouldOwnIt": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entry": {
+      "text": ""
+    },
+    "sources": {
+      "text": ""
     }
+  },
+  "scores": {
+    "current": {
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
+    },
+    "history": [
+      {
+        "date": "2026-04-16",
+        "conviction": 42
+      }
+    ]
   }
 }

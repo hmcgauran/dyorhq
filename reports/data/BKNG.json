@@ -1,107 +1,111 @@
 {
   "meta": {
     "ticker": "BKNG",
-    "company": "Booking Holdings Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
+    "company": "BKNG - Booking Holdings Inc",
+    "exchange": "#N/A",
+    "isin": "US09857L1089",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
     "recommendation": "BUY",
-    "recommendationNote": "BUY",
-    "conviction": 81,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.379Z",
     "universes": [
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 192.01,
+    "currency": "USD",
+    "marketCap": "152039945985",
+    "pe": 28.99,
+    "eps": 6.62,
+    "week52High": 233.58,
+    "week52Low": 150.63,
+    "beta": 1.2,
+    "avgVolume": "8169065",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "travel demand recovery",
+      "analyst upgrades",
+      "competitive pressures",
+      "macroeconomic uncertainty"
+    ],
+    "summary": "Booking Holdings Inc (BKNG) exhibits a positive sentiment driven by strong recent earnings, robust travel demand recovery, and favorable analyst upgrades. However, competitive pressures and broader macroeconomic uncertainty slightly temper the bullish outlook.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
       "text": "Booking Holdings is the world's largest online travel agent by revenue, benefiting from structural travel demand recovery and its dominant platform economics; BUY on valuation pullback given strong long-term growth runway."
     },
     "businessModel": {
-      "text": "Booking Holdings operates a portfolio of online travel brands. Key revenue streams: Agency Model (primary): Takes a commission on hotel, flight, and experience bookings. Low-risk, high-margin. ~80% of revenues. Merchant Model: Charges travellers directly for booking services, passing costs to accommodation providers. Smaller share, higher risk. Advertising: Meta search traffic acquisition from Google, plus proprietary search and display within platform. Insurance &amp; Ancillary: Trip protection products, car rental, and dynamic packaging. The group operates Booking.com, Priceline, Kayak, OpenTable, and Rentalcars.com. Its business is asset-light, highly cash generative, and benefits from significant network effects in hotel supply."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 192.01,
+      "pe": 28.99,
+      "eps": 6.62,
+      "marketCap": "152039945985",
+      "week52High": 233.58,
+      "week52Low": 150.63,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (30% weight) Flights expansion succeeds; AI drives conversion uplift; travel recovery fully completes; market re-rates to 28x on earnings momentum. Target: $240-270 Base Case (50% weight) Steady double-digit EPS growth; travel volumes normalise post-pandemic; margins hold; fair value implied at 22-24x earnings. Target: $175-195 Bear Case (20% weight) Recessionary environment triggers travel spending cuts; Airbnb competitive pressure intensifies; EPS falls to $5.50, multiple to 18x. Target: $99 Weighted Conviction Score: 81 / 100 - BUY",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Macro sensitivity: Discretionary travel spend is highly sensitive to consumer confidence, unemployment, and fuel costs. A US recession would directly impair booking volumes. Airbnb and short-term rental competition: Structural shift away from traditional hotels towards alternative accommodation is a long-term headwind for Booking's hotel-heavy model. Google re-entry risk: Google has expanded its own travel metasearch capabilities; any significant shift in traffic acquisition strategy could materially increase marketing costs. Regulatory risk in the EU: DMA (Digital Markets Act) enforcement could require interoperability or reduce exclusive advantages for platform operators. Currency headwinds: Significant European revenue exposure creates earnings volatility from EUR/GBP weakness against USD.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Macro sensitivity: Discretionary travel spend is highly sensitive to consumer confidence, unemployment, and fuel costs. A US recession would directly impair booking volumes."
-        },
-        {
-          "rank": 2,
-          "risk": "Airbnb and short-term rental competition: Structural shift away from traditional hotels towards alternative accommodation is a long-term headwind for Booking's hotel-heavy model."
-        },
-        {
-          "rank": 3,
-          "risk": "Google re-entry risk: Google has expanded its own travel metasearch capabilities; any significant shift in traffic acquisition strategy could materially increase marketing costs."
-        },
-        {
-          "rank": 4,
-          "risk": "Regulatory risk in the EU: DMA (Digital Markets Act) enforcement could require interoperability or reduce exclusive advantages for platform operators."
-        },
-        {
-          "rank": 5,
-          "risk": "Currency headwinds: Significant European revenue exposure creates earnings volatility from EUR/GBP weakness against USD."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own It:\n• Long-term growth investors seeking mega-cap consumer internet exposure with strong cash generation.\n• Those who believe global travel recovery is incomplete and Booking's platform will continue gaining share.\n• Investors with 3-5 year horizons who can tolerate short-term macro-driven volatility.\n\nAvoid It:\n• Value investors - stretched valuation relative to near-term earnings.\n• Those seeking defensive income - BKNG pays no dividend and is purely growth.\n• Macro bears expecting sharp consumer recession - direct leverage to discretionary spend."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "BUY Current price offers an attractive entry given the depth of the pullback from 52-week highs; long-term structural position in travel remains compelling. Entry / Exit Framework Conviction Score 81 / 100 - BUY Entry Below $165 - attractive near-term entry Add Below $145 - high conviction zone Reduce / Exit Above $225 - approaches full valuation Time Horizon 24-48 months"
+      "text": ""
     },
-    "entryExit": {
-      "text": "Entry / Exit Framework Conviction Score 81 / 100 - BUY Entry Below $165 - attractive near-term entry Add Below $145 - high conviction zone Reduce / Exit Above $225 - approaches full valuation Time Horizon 24-48 months Sources Live market data via DYOR HQ data pipeline Booking Holdings public filings, earnings releases, and investor days Euromonitor and Phocuswright industry reports S&amp;P Capital IQ estimates Report generated 11 April 2026. For informational purposes only. Not financial advice."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 81,
+      "score": 72,
       "band": "BUY",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 81,
-        "band": "BUY",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 81
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 50
       }
     ]
   }

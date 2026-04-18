@@ -1,107 +1,107 @@
 {
   "meta": {
     "ticker": "GFTU",
-    "company": "Grafton Group plc",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 65,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "GFTU - Grafton Group plc",
+    "exchange": "LON",
+    "isin": "IE00B00MZ448",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 75,
+    "lastRefreshed": "2026-04-18T15:09:10.383Z",
     "universes": [
+      "irish",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 965.6,
+    "currency": "GBX",
+    "marketCap": "1833801812",
+    "pe": 13.75,
+    "eps": 0.7,
+    "week52High": 1035.6,
+    "week52Low": 844.2,
+    "beta": null,
+    "avgVolume": "717556",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong financial performance",
+      "construction sector growth",
+      "analyst optimism",
+      "dividend stability",
+      "market expansion"
+    ],
+    "summary": "Grafton Group plc (GFTU) exhibits a positive sentiment with a score of 45, driven by robust financial results, favorable analyst commentary, and steady price momentum in recent trading. Potential near-term catalysts include continued growth in the construction sector and strategic market expansions.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 41,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 5,
+    "bearScore": 38,
+    "conviction": 75
   },
   "sections": {
     "executiveSummary": {
       "text": "Grafton Group plc is a well-positioned Irish-UK building materials distribution business, but the current macro uncertainty in UK and Irish construction and housing markets creates a neutral risk-reward at 918.20 GBX -- HOLD . HOLD Conviction Score: 65/100 - HOLD"
     },
     "businessModel": {
-      "text": "Grafton Group plc is a leading distributor of building materials and hardware in Ireland and the UK, operating through its Buildright (UK) and Materialey (Ireland) networks. The company distributes building materials, tools, hardware and safety equipment to small and medium-sized builders, merchants, and tradespeople. The model is characterised by dense branch networks, same-day or next-day delivery, and strong relationships with local tradespeople -- creating high customer retention. Grafton also operates a number of own-brand manufacturing businesses (insulation, doors, seals) that provide higher-margin revenue. Revenue geography: UK (~70%), Ireland (~30%). Grafton's customers are predominantly SME builders and tradespeople -- less exposed to large developer concentration."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Current Price 918.20 GBX LSE Market Cap $2.2B Est. via price x shares Trailing P/E 13.80x 12-month earnings EPS (TTM) $66.54 Trailing twelve months 52-Week High 1,020.00 GBX -10.0% from high 52-Week Low 720.00 GBX +27.5% from low",
-      "table": []
+      "price": 965.6,
+      "pe": 13.75,
+      "eps": 0.7,
+      "marketCap": "1833801812",
+      "week52High": 1035.6,
+      "week52Low": 844.2,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "UK government policy is increasingly supportive of SME housebuilding and renovation, with planning reform targeted at accelerating residential construction -- a direct demand driver for Grafton's merchant network. The DIY-retail segment (through Screwfix UK) continues to grow as professional tradespeople consolidate purchasing. Grafton's merchant digital platforms are improving online ordering penetration. Recent trading statements showed resilient volumes in the merchanting networks, with pricing offsets against modest volume weakness in some regions."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case 80 Target: 1,100.00 GBX | EPS: $82.00 UK housing starts accelerate as planning reform takes effect. Grafton wins significant market share through platform investments. Manufacturing margins improve. EPS reaches GBX 82+. Base Case 65 Target: 960.00 GBX | EPS: $70.00 Stable merchanting volumes with modest pricing. Operating leverage from branch network optimisation. EPS ~GBX 70. Reports / GFTU GFTU Grafton Group plc HOLD 11 April 2026 $918.20 GBX ($11.75 USD equiv.) 65 Conviction out of 100 >",
-      "bull": {
-        "scenario": "UK housing starts accelerate as planning reform takes effect. Grafton wins significant market share through platform investments. Manufacturing margins improve. EPS reaches GBX 82+.",
-        "probability": null
-      },
-      "base": {
-        "scenario": "Stable merchanting volumes with modest pricing. Operating leverage from branch network optimisation. EPS ~GBX 70.",
-        "probability": null
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "#1 UK construction cycle risk: Grafton's revenues are highly correlated with UK construction activity. A sustained slowdown in housebuilding or commercial construction would reduce volumes materially. #2 Currency risk (GBX): Grafton reports in GBX. The GBP/USD exchange rate movements affect the USD-equivalent valuation for US investors. #3 Merchanting competition: Travis Perkins (through Wickes, Jewson), Wolseley (Buildcenter), and independent merchant groups are aggressive competitors in the UK building materials distribution market. #4 Customer concentration: Grafton's revenue is sensitive to the spending patterns of its SME builder customer base. Economic downturns suppress renovation and maintenance activity. #5 Margin pressure in manufacturing: Grafton's manufacturing businesses (insulation, doors) face input cost inflation and competitive pressure from larger building materials groups.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "#1 UK construction cycle risk: Grafton's revenues are highly correlated with UK construction activity. A sustained slowdown in housebuilding or commercial construction would reduce volumes materially."
-        },
-        {
-          "rank": 2,
-          "risk": "#2 Currency risk (GBX): Grafton reports in GBX. The GBP/USD exchange rate movements affect the USD-equivalent valuation for US investors."
-        },
-        {
-          "rank": 3,
-          "risk": "#3 Merchanting competition: Travis Perkins (through Wickes, Jewson), Wolseley (Buildcenter), and independent merchant groups are aggressive competitors in the UK building materials distribution market."
-        },
-        {
-          "rank": 4,
-          "risk": "#4 Customer concentration: Grafton's revenue is sensitive to the spending patterns of its SME builder customer base. Economic downturns suppress renovation and maintenance activity."
-        },
-        {
-          "rank": 5,
-          "risk": "#5 Margin pressure in manufacturing: Grafton's manufacturing businesses (insulation, doors) face input cost inflation and competitive pressure from larger building materials groups."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: UK and Ireland construction cycle investors who understand building materials distribution. The merchanting model provides some earnings stability relative to building materials manufacturers. Avoid: Investors who are uncertain about the UK housing market outlook. Investors seeking high-growth or small-cap growth stories."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD Score: 65/100 Grafton is a solid if uninspiring building materials distribution franchise with strong market positions in Ireland and the UK. The current price reflects a balanced view of the macro environment. HOLD. Entry Framework: BUY below 750 GBX (cyclically depressed entry). HOLD in the 750-1050 GBX range. REDUCE above 1050 GBX (construction premium is priced in). BUY below 1,045.00 GBX HOLD 912.00 GBX-1,045.00 GBX REDUCE above 1,045.00 GBX"
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below 1,045.00 GBX | HOLD 912.00 GBX-1,045.00 GBX | REDUCE above 1,045.00 GBX"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 65,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 75,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 65,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-11",
+        "conviction": 65
       }
     ]
   }

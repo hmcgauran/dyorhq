@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong financial performance",
+    "strategic growth",
+    "stable dividends",
+    "industrial services demand",
+    "market recovery"
+  ],
+  "summary": "Hargreaves Services plc (HSP) shows a positive sentiment with recent news highlighting robust financial results and strategic expansion in industrial services. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts from infrastructure project demand.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong financial performance\", \"strategic growth\", \"stable dividends\", \"industrial services demand\", \"market recovery\"],\n  \"summary\": \"Hargreaves Services plc (HSP) shows a positive sentiment with recent news highlighting robust financial results and strategic expansion in industrial services. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts from infrastructure project demand.\"\n}"
+}

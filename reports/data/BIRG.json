@@ -1,123 +1,111 @@
 {
   "meta": {
     "ticker": "BIRG",
-    "company": "Bank of Ireland Group plc",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "BIRG - Bank of Ireland Group plc",
+    "exchange": "#N/A",
+    "isin": "IE00BD1RP616",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.378Z",
     "universes": [
       "irish",
-      "uk",
       "watchlist"
     ]
   },
   "price": {
-    "current": 16.45,
-    "formatted": ""
+    "current": 17.1,
+    "currency": "EUR",
+    "marketCap": "15792602745",
+    "pe": null,
+    "eps": null,
+    "week52High": 18.02,
+    "week52Low": 9.96,
+    "beta": null,
+    "avgVolume": "872549",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "economic recovery",
+      "interest rate hikes",
+      "dividend growth",
+      "market competition"
+    ],
+    "summary": "Bank of Ireland Group plc (BIRG) shows a positive sentiment driven by strong recent earnings, benefiting from economic recovery in Ireland and favorable interest rate hikes. However, competitive pressures in the banking sector and macroeconomic uncertainties slightly temper the optimism.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Bank of Ireland Group plc (BIRG) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $16.45 as the latest stored price reference where available."
+      "text": "Bank of Ireland is another core domestic lender whose earnings are currently flattered by higher rates, but the longer-term investment case rests on deposit stickiness, credit discipline and the ability to return capital without inviting a harsher regulatory tone. The bank has benefited from consolidation in the Irish market, though investors still need to separate cyclical earnings strength from truly durable franchise improvement."
     },
     "businessModel": {
-      "text": "Bank of Ireland Group plc is a banking franchise exposed to deposit gathering, lending margins, credit quality and capital return discipline. The rebuilt note keeps the company mapping and headline stance coherent while fuller bank-specific analysis is refreshed."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$16.45"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "N/A"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "N/A"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week High",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "N/A"
-        }
-      ]
+      "price": 17.1,
+      "pe": null,
+      "eps": null,
+      "marketCap": "15792602745",
+      "week52High": 18.02,
+      "week52Low": 9.96,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Key swing factors for Bank of Ireland Group plc remain net interest income, deposit pricing, impairment trends and capital return updates. Any change in domestic credit quality or rates can move the earnings outlook quickly."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Margin pressure if rates fall faster than deposit costs reprice. Credit losses can rise if the domestic economy weakens. Regulatory capital requirements can cap distributions. Competitive deposit pricing can erode franchise economics. Sentiment can swing sharply around macro and policy updates.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Margin pressure if rates fall faster than deposit costs reprice."
-        },
-        {
-          "rank": 2,
-          "risk": "Credit losses can rise if the domestic economy weakens."
-        },
-        {
-          "rank": 3,
-          "risk": "Regulatory capital requirements can cap distributions."
-        },
-        {
-          "rank": 4,
-          "risk": "Competitive deposit pricing can erode franchise economics."
-        },
-        {
-          "rank": 5,
-          "risk": "Sentiment can swing sharply around macro and policy updates."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Income and value investors who understand bank-cycle volatility. Avoid: Investors seeking structural growth or low macro sensitivity."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "2026-04-11",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-11",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 50
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 59
       }
     ]
   }

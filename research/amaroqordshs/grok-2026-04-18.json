@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "exploration progress",
+    "analyst optimism",
+    "price uptrend",
+    "Greenland mining",
+    "funding updates"
+  ],
+  "summary": "Amaroq Minerals (AMRQ) shows a positive sentiment with recent news highlighting exploration advancements in Greenland and constructive analyst commentary on growth potential. Price momentum has been upward, supported by investor interest, with potential near-term catalysts including funding updates or project milestones.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"exploration progress\", \"analyst optimism\", \"price uptrend\", \"Greenland mining\", \"funding updates\"],\n  \"summary\": \"Amaroq Minerals (AMRQ) shows a positive sentiment with recent news highlighting exploration advancements in Greenland and constructive analyst commentary on growth potential. Price momentum has been upward, supported by investor interest, with potential near-term catalysts including funding updates or project milestones.\"\n}"
+}

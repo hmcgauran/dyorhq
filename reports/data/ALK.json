@@ -1,115 +1,110 @@
 {
   "meta": {
-    "ticker": "ALK.L · LSE",
-    "company": "Alkemy Capital Investments plc",
-    "exchange": "LN",
+    "ticker": "ALK",
+    "company": "ALK - Alkemy Capital Investments PLC",
+    "exchange": "LON",
     "isin": "GB00BMD6C023",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "HOLD - SPECULATIVE",
-    "recommendationNote": "HOLD - SPECULATIVE",
-    "conviction": 68,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.377Z",
     "universes": [
-      "irish",
+      "uk",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 314,
+    "currency": "GBX",
+    "marketCap": "34466586",
+    "pe": null,
+    "eps": -0.2,
+    "week52High": 468.3,
+    "week52Low": 95,
+    "beta": null,
+    "avgVolume": "45107",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 42,
+    "signal": "negative",
+    "keyThemes": [
+      "lithium market challenges",
+      "funding concerns",
+      "price volatility",
+      "project delays"
+    ],
+    "summary": "ALK (Alkemy Capital Investments PLC) shows a negative sentiment due to recent challenges in the lithium market and concerns over funding for key projects. Analyst tone remains cautious, with price momentum trending downward and no significant near-term catalysts to drive optimism.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 32,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 14,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Alkemy Capital Investments is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania - a hard rock lithium project with a completed Definitive Feasibility Study and a binding Glencore offtake agreement covering 40% of projected production at competitive pricing. At 334.0p, the stock has recovered from distressed levels but remains fully priced as a development story pending Final Inve"
+      "text": "Alkemy Capital Investments PLC is a development-stage investment company focused on critical minerals and battery materials infrastructure. The core asset is the Tavasciute lithium project in Lithuania — a hard rock lithium project with a completed Definitive Feasibility Study and a binding Glencore offtake agreement covering 40% of projected production at competitive pricing. Wates Group has been appointed as the construction partner, FEED is complete, and the project is awaiting Final Investment Decision (FID)."
     },
     "businessModel": {
-      "text": "Alkemy Capital is an investment vehicle structured to develop and operate the Tavasciute lithium project in Lithuania. The model is to advance the project through financing to construction, then operation, generating revenue from long-term battery-quality lithium concentrate sales into the European market. The Glencore offtake agreement is the commercial anchor - it de-risks the revenue model significantly by providing a credible, creditworthy buyer at fixed pricing for a material portion of production. The investment case is fundamentally different from a mining equity: the value creation happens as the project moves through financing, construction, and ramp-up milestones. The listed equity is the junior financing layer - it benefits from project success but is exposed to dilution risk if equity financing is required at unfavourable prices."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: 334.0p 52-week range: 325.0p - 354.0p (current: ~73rd percentile) Market cap: meaningful premium to the equity raise completed in 2025, reflecting project development optionality P/E: N/A - development-stage company EPS: N/A - no operating revenue yet Beta: N/A - small-cap development mining name The equity has recovered from lows in the 250-280p range as financing expectations have firmed. The current price implies significant project development optionality is priced in, which is why the conviction score is 68 rather than higher.",
-      "table": []
+      "price": 314,
+      "pe": null,
+      "eps": -0.2,
+      "marketCap": "34466586",
+      "week52High": 468.3,
+      "week52Low": 95,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Binding Glencore offtake (January 2026): The 40% TVL offtake agreement with Glencore is the commercial anchor. Glencore's involvement as both offtake customer and ~US$100M equity investor (via Ara Partners) provides significant third-party validation of project economics. Wates Group as construction partner: The appointment of Wates Group as the construction partner for the mine development provides a credible EPC contractor, reducing execution risk for the development phase. Ara Partners equity commitment: ~US$100M equity commitment from Ara Partners is non-binding but contingent on FID. This is a credible infrastructure-specialist investor validating the project thesis. FID timing: The chairman has stated a Q1 2026 FID deadline. As of April 2026, the FID has not yet been formally announced. The delay itself is a yellow flag - the market is watching closely. Lithium price context: Lithium prices have been volatile, ranging from $80,000/tonne peaks to $15,000/tonne troughs. Tavasciute's economics are viable at a range of lithium prices, but lower prices compress NPV and may complicate financing terms.",
-      "items": [
-        "Binding Glencore offtake (January 2026): The 40% TVL offtake agreement with Glencore is the commercial anchor. Glencore's involvement as both offtake customer and ~US$100M equity investor (via Ara Partners) provides significant third-party validation of project economics.",
-        "Wates Group as construction partner: The appointment of Wates Group as the construction partner for the mine development provides a credible EPC contractor, reducing execution risk for the development phase.",
-        "Ara Partners equity commitment: ~US$100M equity commitment from Ara Partners is non-binding but contingent on FID. This is a credible infrastructure-specialist investor validating the project thesis.",
-        "FID timing: The chairman has stated a Q1 2026 FID deadline. As of April 2026, the FID has not yet been formally announced. The delay itself is a yellow flag - the market is watching closely.",
-        "Lithium price context: Lithium prices have been volatile, ranging from $80,000/tonne peaks to $15,000/tonne troughs. Tavasciute's economics are viable at a range of lithium prices, but lower prices compress NPV and may complicate financing terms."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Scenario Probability Price Target Key Drivers Bull 35% 500p+ FID announced on schedule; Ara Partners equity commitment converts to binding; equity raise at premium to current price; project construction begins Base 40% 310-380p FID delayed but still on track; equity remains range-bound as financing uncertainty persists; project timeline stretches 6-12 months Bear 25% 200-270p FID slips materially; Ara Partners walks; equity raise at significant discount; lithium price deterioration complicates project economics Weighted price target: 35% × 500 + 40% × 345 + 25% × 235 = 371p . Current price of 334p is below base-case fair value, which is why the recommendation is HOLD with a positive tilt. Adjusted conviction: 68/100 . The binary nature of FID makes this SPECULATIVE despite the attractive risk/reward.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "1 FID delay or cancellation: The non-binding Ara Partners commitment and chairman's Q1 2026 FID target are meaningful but not yet binding. If either financing or permitting slips, the investment case deteriorates sharply. This is the primary binary risk. 2 Equity dilution: If the equity raise required to fund Alkemy's portion of development costs is large relative to current market cap, existing shareholders face dilution at prices below current levels. Watch the raise size carefully at FID. 3 Lithium price volatility: Tavasciute's NPV is sensitive to lithium prices. A sustained fall in lithium to below $20,000/tonne would reduce the equity's claim on project value and complicate debt financing terms. 4 Lithuania geopolitical risk: Any escalation of Baltic/NATO geopolitical tension would make a Lithuanian lithium mine a more complex proposition for European infrastructure capital.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "1 FID delay or cancellation: The non-binding Ara Partners commitment and chairman's Q1 2026 FID target are meaningful but not yet binding. If either financing or permitting slips, the investment case deteriorates sharply. This is the primary binary risk."
-        },
-        {
-          "rank": 2,
-          "risk": "2 Equity dilution: If the equity raise required to fund Alkemy's portion of development costs is large relative to current market cap, existing shareholders face dilution at prices below current levels. Watch the raise size carefully at FID."
-        },
-        {
-          "rank": 3,
-          "risk": "3 Lithium price volatility: Tavasciute's NPV is sensitive to lithium prices. A sustained fall in lithium to below $20,000/tonne would reduce the equity's claim on project value and complicate debt financing terms."
-        },
-        {
-          "rank": 4,
-          "risk": "4 Lithuania geopolitical risk: Any escalation of Baltic/NATO geopolitical tension would make a Lithuanian lithium mine a more complex proposition for European infrastructure capital."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: Speculative investors who understand development-stage mining equities and want direct exposure to European lithium self-sufficiency. Those who believe in the battery materials secular theme and want a more asymmetric entry than established producers. Position sizing should be small - this is binary project finance risk. Should avoid: Anyone who needs operating cash flows or dividends. Investors who cannot tolerate the binary nature of FID-linked equity events. Anyone who lacks the patience for development-stage mining timelines (typically 2-4 years from FID to first production)."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD - SPECULATIVE at 334.0p. The risk/reward is genuinely attractive for a development-stage battery materials name with a binding offtake and a credible FID timeline. But FID is binary, and position sizing must reflect that."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Below 280p - more attractive speculative entry. 280p-350p - hold zone, accumulate on any weakness. Above 400p without FID confirmed - trim significantly. Key trigger: binding FID announcement,. Ara Partners conversion, equity raise details. Conviction Trend Latest conviction: 68/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 68"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report."
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 68,
-      "band": "HOLD",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 68,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 62
       }
     ]
   }

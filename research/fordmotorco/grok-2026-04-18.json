@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "EV transition",
+    "strong sales",
+    "cost concerns",
+    "dividend appeal"
+  ],
+  "summary": "Ford Motor Company shows a positive sentiment with strong sales performance and investor confidence in its EV strategy, despite ongoing concerns about rising costs. Recent analyst tone is cautiously optimistic, and price momentum has been steady with potential catalysts like new model launches on the horizon.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"EV transition\", \"strong sales\", \"cost concerns\", \"dividend appeal\"],\n  \"summary\": \"Ford Motor Company shows a positive sentiment with strong sales performance and investor confidence in its EV strategy, despite ongoing concerns about rising costs. Recent analyst tone is cautiously optimistic, and price momentum has been steady with potential catalysts like new model launches on the horizon.\"\n}"
+}

@@ -1,124 +1,111 @@
 {
   "meta": {
     "ticker": "ICLR",
-    "company": "Icon plc",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "ICLR - ICON plc",
+    "exchange": "#N/A",
+    "isin": "IE0005711209",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 75,
+    "lastRefreshed": "2026-04-18T15:09:10.384Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "current": 106.81,
-    "fiftyTwoWeekHigh": 211,
-    "fiftyTwoWeekLow": 66.57,
-    "formatted": ""
+    "current": 119.68,
+    "currency": "USD",
+    "marketCap": "9138756445",
+    "pe": 16.18,
+    "eps": 7.4,
+    "week52High": 211,
+    "week52Low": 66.58,
+    "beta": 1.28,
+    "avgVolume": "954492",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "analyst upgrades",
+      "clinical research demand",
+      "stock momentum",
+      "industry tailwinds"
+    ],
+    "summary": "ICON plc (ICLR) exhibits a positive sentiment driven by strong recent earnings performance and analyst upgrades highlighting robust demand in clinical research services. Price momentum remains bullish with consistent upward trends and potential near-term catalysts from expanding partnerships and industry tailwinds.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 40,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 5,
+    "bearScore": 38,
+    "conviction": 75
   },
   "sections": {
     "executiveSummary": {
-      "text": "Icon plc (ICLR) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $106.81 as the latest stored price reference where available."
+      "text": "ICON is one of the leading contract research organisations serving the pharmaceutical and biotech industry. The appeal is straightforward: outsourcing remains structural, sponsors still need global trial execution expertise, and scale matters in winning and delivering complex studies. The main issue for investors is not whether the business is strategically important, but how much cyclical biopharma spending caution is already reflected in the shares."
     },
     "businessModel": {
-      "text": "Icon plc serves drug developers through outsourced research and development services, so backlog quality, bookings and execution matter more than one quarter in isolation."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$106.81"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "N/A"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "N/A"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$211.00"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$66.57"
-        }
-      ]
+      "price": 119.68,
+      "pe": 16.18,
+      "eps": 7.4,
+      "marketCap": "9138756445",
+      "week52High": 211,
+      "week52Low": 66.58,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Large pharma outsourcing budgets, biotech funding conditions and book-to-bill trends are the main drivers."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Biotech funding weakness can slow demand. Programme delays can defer revenue recognition. Large-client concentration can matter. Labour and delivery execution remain important. Pricing can soften if industry capacity rises.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Biotech funding weakness can slow demand."
-        },
-        {
-          "rank": 2,
-          "risk": "Programme delays can defer revenue recognition."
-        },
-        {
-          "rank": 3,
-          "risk": "Large-client concentration can matter."
-        },
-        {
-          "rank": 4,
-          "risk": "Labour and delivery execution remain important."
-        },
-        {
-          "rank": 5,
-          "risk": "Pricing can soften if industry capacity rises."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors who want outsourced pharma-services exposure. Avoid: Investors who need low sensitivity to biotech funding cycles."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "2026-04-11",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 75,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-11",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 50
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 72
       }
     ]
   }

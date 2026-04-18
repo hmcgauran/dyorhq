@@ -1,0 +1,13 @@
+{
+  "score": 76,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "cybersecurity demand",
+    "price momentum",
+    "analyst upgrades",
+    "cloud security growth"
+  ],
+  "summary": "CrowdStrike Holdings Inc. (CRWD) exhibits a positive sentiment driven by strong quarterly earnings, growing demand for cybersecurity solutions, and consistent upward price momentum. Recent analyst upgrades and the increasing focus on cloud security further bolster the bullish outlook.",
+  "raw": "{\n  \"score\": 75,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"cybersecurity demand\", \"price momentum\", \"analyst upgrades\", \"cloud security growth\"],\n  \"summary\": \"CrowdStrike Holdings Inc. (CRWD) exhibits a positive sentiment driven by strong quarterly earnings, growing demand for cybersecurity solutions, and consistent upward price momentum. Recent analyst upgrades and the increasing focus on cloud security further bolster the bullish outlook.\"\n}"
+}

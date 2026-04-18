@@ -1,139 +1,107 @@
 {
   "meta": {
     "ticker": "SYY",
-    "company": "Sysco Corp",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 62,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "SYY - Sysco Corp",
+    "exchange": null,
+    "isin": "US8718291078",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.391Z",
     "universes": [
+      "fortune100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 72.82,
-    "marketCap": 34800000000.0,
-    "marketCapFormatted": "$34.80B",
-    "trailingPE": 19.58,
-    "trailingEps": 3.72,
-    "fiftyTwoWeekHigh": 91.85,
-    "fiftyTwoWeekLow": 68.0,
-    "formatted": ""
+    "current": 76.27,
+    "currency": "USD",
+    "marketCap": "36470649708",
+    "pe": 20.51,
+    "eps": 3.72,
+    "week52High": 91.85,
+    "week52Low": 68,
+    "beta": 0.69,
+    "avgVolume": "5549435",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "supply chain recovery",
+      "foodservice demand",
+      "analyst optimism",
+      "dividend stability"
+    ],
+    "summary": "Sysco Corp (SYY) exhibits a positive sentiment driven by strong recent earnings, recovery in foodservice demand, and optimistic analyst outlooks. Price momentum is steady with potential upside from ongoing supply chain improvements and consistent dividend payouts.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 34,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 11,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "Sysco is the dominant global food service distributor with a defensive, recession-resistant revenue base and a solid balance sheet, but the stock trades near the top of its 52-week range and the margin improvement story has not yet translated into meaningful earnings momentum - HOLD is appropriate here."
-    },
-    "businessModel": {
       "text": "Sysco is the world's largest food service distribution company, serving over 700,000 customer locations including restaurants, hospitals, hotels, schools and government accounts. The model is a classic route-based distribution business:Sysco procures, stores and delivers food and related products to food service operators, charging a margin on cost plus a logistics fee. The business is highly defensive because food service demand is relatively insensitive to economic cycles - restaurants and hospitals need to feed people regardless of GDP growth. Sysco's significant scale provides procurement advantages and the ability to invest in technology and specialty product categories that smaller distributors cannot match. The company has been investing in its specialty meat and seafood, local/sustainable sourcing and culinary innovation programmes to expand margins."
     },
+    "businessModel": {
+      "text": ""
+    },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$72.82"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$34.8 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "19.58x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$3.72"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$91.85"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$68.00"
-        }
-      ]
+      "price": 76.27,
+      "pe": 20.51,
+      "eps": 3.72,
+      "marketCap": "36470649708",
+      "week52High": 91.85,
+      "week52Low": 68,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Food service volume has been recovering from pandemic-era disruptions as restaurant traffic normalises, though the recovery has been uneven across customer segments. Hospitality and travel-related accounts have seen stronger rebounds than education and office catering. Sysco's \"Best [Customer] Service\" transformation programme has been running for several years, targeting $600 million in gross productivity savings by fiscal 2026. The programme has delivered savings but revenue growth has been below expectations as pass-through of food cost inflation has been limited by competitive pressure. The stock has traded in a range between $68 and $91.85 over the past 52 weeks and is currently near the lower end of that range."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (72): The transformation programme delivers ahead of schedule. Food service volumes accelerate as the US consumer normalises spending on dining out. Specialty and fresh categories grow to 50%+ of mix, improving overall gross margins. EPS grows to $4.50+. Price: $88+. Base Case (63): Transformation savings materialise as projected. Volume growth is modest. Food cost inflation is manageable. EPS grows to $3.90-$4.10. Price: $73-$80. Bear Case (47): Consumer spending on food service slows in a recessionary environment. Food cost inflation erodes margins without full pass-through. Transformation savings are delayed or smaller than targeted. EPS falls to $3.20-$3.40. Price: $58-$65. Weighted Score: 62 - Bull 72 x 30% + Base 63 x 50% + Bear 47 x 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Consumer spending sensitivity: While food service is more defensive than retail, a meaningful consumer recession would reduce restaurant traffic and directly impair Sysco's volume growth and case-per-delivery metrics. Food cost inflation: Commodity price volatility in proteins, dairy and produce can compress margins if Sysco cannot fully pass through cost increases to customers in a competitive environment. Labour and logistics costs: The distribution business is labour-intensive. Tight labour markets and rising driver wages are a structural margin headwind that transformation savings must offset. Competitive pressure from local and regional distributors: Specialty and local food service distributors are gaining share in the high-growth restaurant segment by offering hyper-local sourcing and personalised service that Sysco's national model cannot easily replicate. Transformation execution risk: The $600 million savings target is a multi-year programme. Any delays in execution or shortfalls in productivity gains would disappoint analyst expectations and weigh on the share price.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Consumer spending sensitivity: While food service is more defensive than retail, a meaningful consumer recession would reduce restaurant traffic and directly impair Sysco's volume growth and case-per-delivery metrics."
-        },
-        {
-          "rank": 2,
-          "risk": "Food cost inflation: Commodity price volatility in proteins, dairy and produce can compress margins if Sysco cannot fully pass through cost increases to customers in a competitive environment."
-        },
-        {
-          "rank": 3,
-          "risk": "Labour and logistics costs: The distribution business is labour-intensive. Tight labour markets and rising driver wages are a structural margin headwind that transformation savings must offset."
-        },
-        {
-          "rank": 4,
-          "risk": "Competitive pressure from local and regional distributors: Specialty and local food service distributors are gaining share in the high-growth restaurant segment by offering hyper-local sourcing and personalised service that Sysco's national model cannot easily replicate."
-        },
-        {
-          "rank": 5,
-          "risk": "Transformation execution risk: The $600 million savings target is a multi-year programme. Any delays in execution or shortfalls in productivity gains would disappoint analyst expectations and weigh on the share price."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Defensive-oriented investors seeking a reliable food service franchise with a solid dividend (approximately 2.5-3% yield) and exposure to the structural recovery in US dining. The stock belongs in income-oriented portfolios as a partial hedge against equity market volatility."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. Sysco is a high-quality, recession-resistant business with a strong market position and a progressive dividend. The transformation programme has good long-term merit but near-term earnings momentum is pedestrian. At $72.82 the stock is fairly valued at 19.6x P/E. Entry framework: BUY below $68 (52-week low - better margin of safety at 18x P/E or below on base-case EPS). Reduce on rallies above $85 (implies 22x+ P/E - excessive for a mature distribution business). Hold between $68 and $85."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $68 (52-week low - better margin of safety at 18x P/E or below on base-case EPS). Reduce on rallies above $85 (implies 22x+ P/E - excessive for a mature distribution business). Hold between $68 and $85. | Entry framework: BUY below $68 (52-week low - better margin of safety at 18x P/E or below on base-case EPS). | Reduce on rallies above $85 (implies 22x+ P/E - excessive for a mature distribution business)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 62,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 62,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 62
       }
     ]
   }

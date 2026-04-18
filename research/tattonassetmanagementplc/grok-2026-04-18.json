@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "steady growth",
+    "dividend reliability",
+    "market confidence",
+    "economic uncertainty"
+  ],
+  "summary": "Tatton Asset Management PLC (TAM) shows a positive sentiment with steady growth in assets under management and a reliable dividend policy boosting investor confidence. However, broader economic uncertainty may temper short-term upside.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"steady growth\", \"dividend reliability\", \"market confidence\", \"economic uncertainty\"],\n  \"summary\": \"Tatton Asset Management PLC (TAM) shows a positive sentiment with steady growth in assets under management and a reliable dividend policy boosting investor confidence. However, broader economic uncertainty may temper short-term upside.\"\n}"
+}

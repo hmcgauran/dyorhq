@@ -1,0 +1,12 @@
+{
+  "score": 56,
+  "signal": "positive",
+  "key_themes": [
+    "steady growth",
+    "technology adoption",
+    "market expansion",
+    "financial stability"
+  ],
+  "summary": "Activeops PLC (AOM) shows a mildly positive sentiment with steady price momentum and growing interest in its workforce optimization software, as reflected in recent news. Analyst tone remains cautiously optimistic, with potential near-term catalysts including new client acquisitions or partnerships.",
+  "raw": "{\n  \"score\": 15,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"steady growth\", \"technology adoption\", \"market expansion\", \"financial stability\"],\n  \"summary\": \"Activeops PLC (AOM) shows a mildly positive sentiment with steady price momentum and growing interest in its workforce optimization software, as reflected in recent news. Analyst tone remains cautiously optimistic, with potential near-term catalysts including new client acquisitions or partnerships.\"\n}"
+}

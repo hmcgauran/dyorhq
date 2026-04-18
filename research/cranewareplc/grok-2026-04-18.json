@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "healthcare tech growth",
+    "stable demand",
+    "analyst optimism",
+    "price uptrend"
+  ],
+  "summary": "Craneware plc (CRW) exhibits a positive sentiment driven by strong recent earnings reports and growing demand for healthcare technology solutions. Analyst tone remains optimistic, supported by steady price momentum and no immediate negative catalysts.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"healthcare tech growth\", \"stable demand\", \"analyst optimism\", \"price uptrend\"],\n  \"summary\": \"Craneware plc (CRW) exhibits a positive sentiment driven by strong recent earnings reports and growing demand for healthcare technology solutions. Analyst tone remains optimistic, supported by steady price momentum and no immediate negative catalysts.\"\n}"
+}

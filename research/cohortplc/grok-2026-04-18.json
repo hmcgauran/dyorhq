@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "defense sector growth",
+    "contract wins",
+    "stable momentum",
+    "analyst optimism"
+  ],
+  "summary": "Cohort PLC (CHRT) shows a positive sentiment with recent strong earnings reports and contract wins in the defense sector driving optimism. Analyst tone remains favorable, supported by steady price momentum and potential near-term catalysts from ongoing defense projects.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"defense sector growth\", \"contract wins\", \"stable momentum\", \"analyst optimism\"],\n  \"summary\": \"Cohort PLC (CHRT) shows a positive sentiment with recent strong earnings reports and contract wins in the defense sector driving optimism. Analyst tone remains favorable, supported by steady price momentum and potential near-term catalysts from ongoing defense projects.\"\n}"
+}

@@ -1,123 +1,109 @@
 {
   "meta": {
     "ticker": "OKLO",
-    "company": "Oklo Inc.",
-    "exchange": "US",
-    "isin": "US67987P1059",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "HOLD - SPECULATIVE",
-    "recommendationNote": "HOLD - SPECULATIVE",
-    "conviction": 61,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "OKLO - Oklo Inc.",
+    "exchange": "NYSE",
+    "isin": "US02156V1098",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.388Z",
     "universes": [
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 66.81,
+    "currency": "USD",
+    "marketCap": "11596124423",
+    "pe": null,
+    "eps": -0.72,
+    "week52High": 193.84,
+    "week52Low": 19.89,
+    "beta": 0.93,
+    "avgVolume": "9417800",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "nuclear energy innovation",
+      "sustainability focus",
+      "market volatility",
+      "early-stage growth"
+    ],
+    "summary": "Oklo Inc. (OKLO) shows a positive sentiment driven by growing interest in nuclear energy as a sustainable power source and innovative reactor technology, though tempered by market volatility and its early-stage status. Recent news highlights partnerships and analyst tone leans cautiously optimistic, with price momentum showing moderate upward trends and potential catalysts in regulatory approvals or funding announcements.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Oklo is one of the cleanest listed ways to express the view that AI-era electricity demand will force the market to take advanced nuclear seriously. The company’s appeal is not just “nuclear”, it is power for compute . That positioning matters because it links Oklo directly to one of the strongest structural demand stories in the market. The live price is $46.59 , with a market cap of roughly $8.09bn . It is still a loss-making company with EPS -0.72 , and the stock is down 76.0% from the 52 wee"
+      "text": "Oklo is developing advanced microreactors designed to supply reliable, low-carbon power where uptime and energy density matter. The commercial target set is attractive: data centres, industrial sites, remote applications and other environments where firm power can command premium economics."
     },
     "businessModel": {
-      "text": "Oklo is developing advanced microreactors designed to supply reliable, low-carbon power where uptime and energy density matter. The commercial target set is attractive: data centres, industrial sites, remote applications and other environments where firm power can command premium economics. The company’s strength is narrative alignment. If hyperscalers, data-centre developers or industrial power buyers start securing future dedicated nuclear capacity, Oklo is positioned to benefit. The weakness is that this still needs to move from strategic interest to deployable, financeable commercial reality."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: $46.59 Market cap: $8.09bn EPS: -0.72 52 week range: $19.89 to $193.84 3 month share price move: -52.3% The market cap remains large relative to present fundamentals. That means investors are still capitalising future strategic value, not current earnings power. It also means downside remains real if timelines slip.",
-      "table": []
+      "price": 66.81,
+      "pe": null,
+      "eps": -0.72,
+      "marketCap": "11596124423",
+      "week52High": 193.84,
+      "week52Low": 19.89,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Regulatory progress has helped keep the licensing pathway credible The stock remains tightly linked to the AI infrastructure power-demand story Investor interest remains elevated despite the sharp pullback from prior highs Oklo continues to sit near the centre of the market’s advanced nuclear speculation basket",
-      "items": [
-        "Regulatory progress has helped keep the licensing pathway credible",
-        "The stock remains tightly linked to the AI infrastructure power-demand story",
-        "Investor interest remains elevated despite the sharp pullback from prior highs",
-        "Oklo continues to sit near the centre of the market’s advanced nuclear speculation basket"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (30%) Oklo secures stronger counterparties, continues to clear milestones and becomes one of the market’s preferred listed beneficiaries of AI-linked power demand. Base (45%) The story remains attractive, but progress is gradual and the stock continues to trade on thematic sentiment more than on current economics. Bear (25%) Commercial adoption takes longer than hoped, regulatory timelines stretch and the market cuts the premium attached to the AI-power nuclear theme. Oklo does not need to be profitable tomorrow to work as a stock, but it does need to keep investors convinced that it can become strategically important before capital patience fades.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Execution risk: deployment remains ahead of the company, not behind it. Licensing risk: advanced nuclear pathways remain slow and can surprise to the downside. Valuation risk: the stock can compress sharply when expectations move faster than fundamentals. Financing risk: pre-profit businesses remain exposed to capital market conditions. Narrative concentration: much of the bull case depends on AI-power urgency staying strong.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Execution risk: deployment remains ahead of the company, not behind it."
-        },
-        {
-          "rank": 2,
-          "risk": "Licensing risk: advanced nuclear pathways remain slow and can surprise to the downside."
-        },
-        {
-          "rank": 3,
-          "risk": "Valuation risk: the stock can compress sharply when expectations move faster than fundamentals."
-        },
-        {
-          "rank": 4,
-          "risk": "Financing risk: pre-profit businesses remain exposed to capital market conditions."
-        },
-        {
-          "rank": 5,
-          "risk": "Narrative concentration: much of the bull case depends on AI-power urgency staying strong."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: investors who want high-upside exposure to the AI-power and advanced nuclear theme and can tolerate large valuation swings. Should avoid: anyone who prioritises current profitability, predictable cash generation or lower-volatility execution."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD - SPECULATIVE. Oklo is the more compelling speculative equity than NuScale because the market story is cleaner and more current. But it still belongs in the speculative bucket. The right stance is to own it only if you are deliberately buying future optionality, not near-term business certainty."
+      "text": ""
     },
-    "entryExit": {
-      "text": "$40-$45: attractive area for speculative adds if the AI-power thesis remains intact $46-$60: fair hold range with performance tied to milestone delivery $70-$85: sensible trim zone if the market prices hype ahead of fundamentals Conviction Trend Latest conviction: 61/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-08 Report date Conviction 2026-04-08 61"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price $46.59",
-        "Market Cap $8.09bn",
-        "EPS -0.72",
-        "52w High $193.84",
-        "52w Low $19.89",
-        "From 52w High -76.0%"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 61,
-      "band": "HOLD",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 61,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 61
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 61
       }
     ]
   }

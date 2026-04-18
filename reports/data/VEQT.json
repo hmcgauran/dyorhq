@@ -1,135 +1,110 @@
 {
   "meta": {
-    "ticker": "VEQT.TO (TSX)",
-    "company": "Vanguard All-Equity ETF Portfolio",
-    "exchange": "TO",
+    "ticker": "VEQT",
+    "company": "VEQT - Vanguard All-Equity ETF Portfolio",
+    "exchange": "TSE",
     "isin": "CA92201C1077",
-    "date": "7 Apr 2026",
-    "datePublished": "2026-04-07",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 71,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.394Z",
     "universes": [
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 57.71,
+    "currency": "CAD",
+    "marketCap": "#N/A",
+    "pe": null,
+    "eps": null,
+    "week52High": 57.84,
+    "week52Low": 41.28,
+    "beta": 0.68,
+    "avgVolume": "471910",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "global equity exposure",
+      "low-cost structure",
+      "market recovery",
+      "diversification",
+      "interest rate sensitivity"
+    ],
+    "summary": "VEQT shows a positive sentiment with strong price momentum reflecting broader market recovery and investor confidence in diversified, low-cost equity ETFs. Analyst tone remains constructive, focusing on VEQT's global equity exposure, though near-term catalysts like interest rate changes could introduce volatility.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "VEQT is a passive, all-equity index fund-of-funds ETF that holds a diversified portfolio of Vanguard's underlying regional equity ETFs - covering Canada, the US, Europe, Asia, and emerging markets. It offers 100% equity exposure with 13,000+ stocks globally, at a confirmed 0.00% management expense ratio (MER). There is no investment thesis here beyond the long-term equity risk premium: buy global equities cheaply, hold forever, benefit from compounding. At CAD 54.60, the fund is sitting ~4% belo"
+      "text": "Vanguard All-Equity ETF Portfolio is a broadly diversified, low-cost all-equity portfolio investing across global developed and emerging market equities via a multi-ETF wrapper. It is an efficient, hands-off solution for long-term investors seeking full market exposure without..."
     },
     "businessModel": {
-      "text": "VEQT is a fund-of-funds ETF. It does not hold individual stocks - it holds other Vanguard ETFs, which in turn hold individual securities. The portfolio is weighted approximately: ~45% North America - VCN (Canada), VSP (US), VUN (US), VGG (US growth) ~25% Europe - VEF (Europe), VDU (UK), VIU (Europe ex-UK) ~15% Asia Pacific - VRE (Real estate), VA (Australia), VEE (Emerging markets Asia) ~15% Emerging Markets - VEF, VEE, VWO-weighted exposure The fund rebalances quarterly. It holds 13,000+ individual stocks across 40+ countries. It is a complete, self-contained global equity portfolio in a single ticker. The 0.00% MER is the headline - it is effectively free to hold from a fee perspective. Vanguard achieves this partly through fee waiver programmes that may have an end date; investors should confirm the current fee structure is still honoured. There is no active management, no stock selection, no market timing. The fund owns the market. That is the entire proposition."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Price: CAD 54.60 52-week range: CAD 39.75 - CAD 56.92 Market cap / AUM: Confirm from TSX - AUM has grown significantly as passive investing has accelerated in Canada MER / Expense ratio: 0.00% (confirmed - this is the key selling point) Trading volume: ~347,000 shares/day - reasonably liquid for an ETF Distributions: Quarterly dividends from underlying ETF holdings, reinvested by default in a non-registered account 5-day trend: 54.05 → 54.48 → 54.54 → 54.81 → 54.60 (narrow range, stable) Currency: CAD - trades on TSX, valued in Canadian dollars There are no traditional financial metrics like P/E, EPS, or debt because VEQT is not a company - it is a basket of securities. The relevant comparison is total return versus the global equity benchmark, and the relevant cost metric is the MER. On both counts, VEQT is extremely competitive.",
-      "table": []
+      "price": 57.71,
+      "pe": null,
+      "eps": null,
+      "marketCap": "#N/A",
+      "week52High": 57.84,
+      "week52Low": 41.28,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Current price: CAD 54.60 - near the upper end of the 52-week range From 52w low (CAD 39.75): +37.4% recovery - the 2025 selloff was significant but has substantially reversed From 52w high (CAD 56.92): −4.1% - all-time highs were hit in late 2025/early 2026 and price has held near them 2025 full year: Held up well relative to individual equity markets - the diversification benefit was visible during the August 2025 volatility VEQT's performance should be judged on a 5-10 year basis, not days or weeks. As a global all-equity fund, it will drop sharply in bear markets and recover in bull markets. The 2025 low of CAD 39.75 was the test - patient buyers who added there have been rewarded.",
-      "items": [
-        "Current price: CAD 54.60 - near the upper end of the 52-week range",
-        "From 52w low (CAD 39.75): +37.4% recovery - the 2025 selloff was significant but has substantially reversed",
-        "From 52w high (CAD 56.92): −4.1% - all-time highs were hit in late 2025/early 2026 and price has held near them",
-        "2025 full year: Held up well relative to individual equity markets - the diversification benefit was visible during the August 2025 volatility"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (35%) Global equity markets continue their long-term upward trend. VEQT sets new all-time highs above CAD 57. Compounding at 7-10% annually over 10 years. Value: CAD 75-100+ on 10-year view. Base (50%) Markets grind sideways to slightly higher. VEQT holds CAD 50-58 range. 5-7% annual return from dividends + modest growth. Value: CAD 65-80 on 5-year view. Bear (15%) Global recession, geopolitical shock, or rates spike causes 30-40% equity drawdown. VEQT falls to CAD 30-35 range. Value: CAD 30-35 (buying opportunity, not a reason to sell). VEQT is not a stock to calculate expected value on. The bull and bear cases are simply \"equities go up over time\" and \"equities go down over time.\" The long-run evidence for global equities is strongly positive. The bear case for VEQT is not a sell signal - it is a buying opportunity. Key Risks Market risk (HIGH): VEQT is 100% equities. In a sustained bear market, a 30-40% drawdown is realistic. If you need the money within 3-5 years, this is the wrong product. The 2025 low of CAD 39.75 (from CAD 56 high) was a −29% drawdown - that is the risk you are taking. MER/fee waiver risk (LOW-MEDIUM): The 0.00% MER is confirmed but may reflect a fee waiver programme. If Vanguard reduces the waiver, the MER could increase. Monitor the fund's annual report for fee changes. Currency risk (MEDIUM): VEQT holds significant US and international exposure but is denominated in CAD. A rising Canadian dollar will reduce returns for CAD-based investors from non-Canada holdings. A falling CAD will amplify returns from international holdings. Canada concentration (LOW-MEDIUM): The underlying ETFs include significant Canadian equity exposure. Canada is ~25-30% of global equity markets by cap but VEQT likely has higher Canadian weighting than a pure global market-cap weighting would suggest. Complexity risk (LOW): As a fund-of-funds, VEQT has a layered fee structure (the underlying ETFs also have small MERs). The total fee drag is still extremely low but not technically zero when you include the cost of the underlying holdings. Liquidity risk (LOW): ETF structure means you can sell at any time at market price. Bid-ask spreads are narrow. This is not a concern for VEQT.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Market risk (HIGH): VEQT is 100% equities. In a sustained bear market, a 30-40% drawdown is realistic. If you need the money within 3-5 years, this is the wrong product. The 2025 low of CAD 39.75 (from CAD 56 high) was a −29% drawdown - that is the risk you are taking. MER/fee waiver risk (LOW-MEDIUM): The 0.00% MER is confirmed but may reflect a fee waiver programme. If Vanguard reduces the waiver, the MER could increase. Monitor the fund's annual report for fee changes. Currency risk (MEDIUM): VEQT holds significant US and international exposure but is denominated in CAD. A rising Canadian dollar will reduce returns for CAD-based investors from non-Canada holdings. A falling CAD will amplify returns from international holdings. Canada concentration (LOW-MEDIUM): The underlying ETFs include significant Canadian equity exposure. Canada is ~25-30% of global equity markets by cap but VEQT likely has higher Canadian weighting than a pure global market-cap weighting would suggest. Complexity risk (LOW): As a fund-of-funds, VEQT has a layered fee structure (the underlying ETFs also have small MERs). The total fee drag is still extremely low but not technically zero when you include the cost of the underlying holdings. Liquidity risk (LOW): ETF structure means you can sell at any time at market price. Bid-ask spreads are narrow. This is not a concern for VEQT.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Market risk (HIGH): VEQT is 100% equities. In a sustained bear market, a 30-40% drawdown is realistic. If you need the money within 3-5 years, this is the wrong product. The 2025 low of CAD 39.75 (from CAD 56 high) was a −29% drawdown - that is the risk you are taking."
-        },
-        {
-          "rank": 2,
-          "risk": "MER/fee waiver risk (LOW-MEDIUM): The 0.00% MER is confirmed but may reflect a fee waiver programme. If Vanguard reduces the waiver, the MER could increase. Monitor the fund's annual report for fee changes."
-        },
-        {
-          "rank": 3,
-          "risk": "Currency risk (MEDIUM): VEQT holds significant US and international exposure but is denominated in CAD. A rising Canadian dollar will reduce returns for CAD-based investors from non-Canada holdings. A falling CAD will amplify returns from international holdings."
-        },
-        {
-          "rank": 4,
-          "risk": "Canada concentration (LOW-MEDIUM): The underlying ETFs include significant Canadian equity exposure. Canada is ~25-30% of global equity markets by cap but VEQT likely has higher Canadian weighting than a pure global market-cap weighting would suggest."
-        },
-        {
-          "rank": 5,
-          "risk": "Complexity risk (LOW): As a fund-of-funds, VEQT has a layered fee structure (the underlying ETFs also have small MERs). The total fee drag is still extremely low but not technically zero when you include the cost of the underlying holdings."
-        },
-        {
-          "rank": 6,
-          "risk": "Liquidity risk (LOW): ETF structure means you can sell at any time at market price. Bid-ask spreads are narrow. This is not a concern for VEQT."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: long-term investors who want a simple, low-cost, globally diversified all-equity core holding and can tolerate equity-market drawdowns. Should avoid: anyone with a short time horizon, low tolerance for volatility, or a need for income stability over growth."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "BUY for long-term investors (5+ year horizon). VEQT is a core portfolio holding, not a trade. The MER of 0.00% makes it one of the cheapest ways to own global equities in Canada. Key levels: CAD 50-52 or below: Attractive entry - significant recovery from the 52w low but still reasonable. Add here. CAD 52-56: Fair value. Hold if already owned. Reasonably priced for a long-term buy-and-hold. CAD 56.92 or above: All-time high territory. Not expensive, but the best risk/reward entry has passed. Hold and accumulate on any future pullback. CAD 40-45: Rare pullback opportunity - would be a major market stress event. If it comes, buy aggressively. The 2025 episode proved these levels don't last long. VEQT is not a replacement for knowing what you own. But for a Canadian investor who wants 100% global equity exposure, diversified across 13,000+ stocks, at effectively zero cost, it is an excellent single-position solution. Rebalance annually and ignore the noise."
+      "text": ""
     },
-    "entryExit": {
-      "text": "CAD 50-52: preferred accumulation zone on weakness CAD 52-56: acceptable long-term hold range Above CAD 56.92: not a sell signal by itself, but expect more muted forward returns from that level Below CAD 45: reassess only for asset-allocation reasons, not because the ETF structure is broken Conviction Trend Latest conviction: 71/100 . Trend versus prior report: Flat . 100 75 50 25 0 2026-04-07 Report date Conviction 2026-04-07 71"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "CAD 50-52: Attractive entry",
-        "CAD 52-56: Fair value, hold",
-        "CAD 56.92+: All-time highs, hold",
-        "CAD 40-45: Rare pullback - buy",
-        "Market/equity drawdown risk",
-        "MER/fee waiver changes",
-        "Currency risk (CAD base)",
-        "Canada concentration",
-        "Layered fee structure",
-        "Zero MER - effectively free to hold",
-        "13,000+ stocks in one ticker",
-        "100% equity - no fixed income drag",
-        "Vanguard brand - stable, low-cost",
-        "TSX-listed - CAD denominated"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 71,
-      "band": "HOLD",
-      "date": "2026-04-07",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-07",
-        "score": 71,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-15",
+        "conviction": 55
       }
     ]
   }

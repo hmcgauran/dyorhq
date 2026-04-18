@@ -1,139 +1,106 @@
 {
   "meta": {
     "ticker": "SCHW",
-    "company": "Charles Schwab Corporation",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 70,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "SCHW - Charles Schwab Corporation",
+    "exchange": null,
+    "isin": "US8085131055",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.380Z",
     "universes": [
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 94.8,
-    "marketCap": 166100000000.0,
-    "marketCapFormatted": "$166.10B",
-    "trailingPE": 20.39,
-    "trailingEps": 4.65,
-    "fiftyTwoWeekHigh": 107.5,
-    "fiftyTwoWeekLow": 72.8,
-    "formatted": ""
+    "current": 92.28,
+    "currency": "USD",
+    "marketCap": "160391773598",
+    "pe": 18.29,
+    "eps": 5.05,
+    "week52High": 107.5,
+    "week52Low": 73.76,
+    "beta": 0.9,
+    "avgVolume": "9722287",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "client asset growth",
+      "interest rate environment",
+      "market volatility"
+    ],
+    "summary": "Charles Schwab Corporation (SCHW) exhibits a positive sentiment driven by strong recent earnings and significant growth in client assets, despite some concerns over market volatility. Analyst tone remains largely optimistic, supported by steady price momentum and potential benefits from the current interest rate environment.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 37,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 7,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
-      "text": "Charles Schwab is structurally well-positioned in wealth management with the TD Ameritrade integration delivering tangible cost synergies, but a normalisation of net interest margin and slower-than-expected transactional revenue growth cap the upside - HOLD is the weighted recommendation."
-    },
-    "businessModel": {
       "text": "Charles Schwab is the largest US retail brokerage by number of accounts, with approximately 35 million active brokerage accounts, $9 trillion+ in total client assets and 8.5 million Banking and Lending accounts (as of recent filings). Its core model combines brokerage services (equity trading, wealth advisory) with banking products (deposits, mortgages, credit cards) through its bank subsidiary. Post-integration of TD Ameritrade (acquired 2020), Schwab is absorbing a massive platform migration while seeking cost synergies. The business earns revenue primarily through net interest income (on deposit franchises), asset management fees, and trading commissions."
     },
+    "businessModel": {
+      "text": ""
+    },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$94.80"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$166.1B"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "20.39x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$4.65"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$107.50"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$72.80"
-        }
-      ]
+      "price": 92.28,
+      "pe": 18.29,
+      "eps": 5.05,
+      "marketCap": "160391773598",
+      "week52High": 107.5,
+      "week52Low": 73.76,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Schwab has completed the conversion of the majority of TD Ameritrade client accounts onto its unified platform, with the remaining conversions proceeding. Cost synergies from the TD Ameritrade deal are being realised ahead of the original timeline. New client asset gathering remains robust, particularly in the Wealth Management segment. The Fed's current rate pause provides a window for NIM to stabilise. Management has maintained its medium-term EPS guidance of $5.50-$6.00."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (70): Interest rate environment remains elevated and NIM normalises above 2.0%. Integration of TD Ameritrade is complete and full synergy run-rate achieved by end-2026. New client asset gathering is strong and net new assets accelerate. EPS grows to $6.50-$7.00. Price: $115+. Base Case (50): Rates moderate gradually, compressing NIM modestly. TD Ameritrade integration delivers most synergies but some client attrition persists. Market volatility keeps transactional revenues above trough. EPS: $5.50-$6.00. Price: $90-$108. Bear Case (40): Fed cuts rates aggressively. NIM falls below normalised levels and client activity remains subdued. Integration charges exceed estimates. Operating expense ratio rises. EPS falls below $4.50. Price: below $70. Weighted Score: 70 - Bull 70 × 30% + Base 50 × 50% + Bear 40 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Net interest margin compression: Schwab's bank subsidiary earns NIM on its deposit franchise. Aggressive Federal Reserve rate cuts directly compress NIM, which accounts for a substantial portion of operating revenues. The deposit beta advantage Schwab has historically enjoyed is not permanent. Client attrition post-integration: The TD Ameritrade merger brought legacy accounts that may be more prone to attrition as Schwab migrates platforms and adjusts fee structures. Sustaining net new asset flows is essential to the revenue growth thesis. Competitive pressure on brokerage pricing: Zero-commission trading is now industry standard. Schwab's ability to monetise advisory fees and banking relationships is under pressure as fintech competitors (Robinhood, Wealthfront, Betterment) target younger, digital-native investors. Deposit repricing risk: As interest rates normalise, Schwab's deposit franchise will face runoff as clients move cash into higher-yielding alternatives. Managing the deposit beta and retaining deposit funding is a key risk for the bank subsidiary. Market activity dependence: Trading volumes and market volatility directly affect transactional revenues. A sustained low-volatility environment reduces client trading activity, directly impacting commission and fee revenues.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Net interest margin compression: Schwab's bank subsidiary earns NIM on its deposit franchise. Aggressive Federal Reserve rate cuts directly compress NIM, which accounts for a substantial portion of operating revenues. The deposit beta advantage Schwab has historically enjoyed is not permanent."
-        },
-        {
-          "rank": 2,
-          "risk": "Client attrition post-integration: The TD Ameritrade merger brought legacy accounts that may be more prone to attrition as Schwab migrates platforms and adjusts fee structures. Sustaining net new asset flows is essential to the revenue growth thesis."
-        },
-        {
-          "rank": 3,
-          "risk": "Competitive pressure on brokerage pricing: Zero-commission trading is now industry standard. Schwab's ability to monetise advisory fees and banking relationships is under pressure as fintech competitors (Robinhood, Wealthfront, Betterment) target younger, digital-native investors."
-        },
-        {
-          "rank": 4,
-          "risk": "Deposit repricing risk: As interest rates normalise, Schwab's deposit franchise will face runoff as clients move cash into higher-yielding alternatives. Managing the deposit beta and retaining deposit funding is a key risk for the bank subsidiary."
-        },
-        {
-          "rank": 5,
-          "risk": "Market activity dependence: Trading volumes and market volatility directly affect transactional revenues. A sustained low-volatility environment reduces client trading activity, directly impacting commission and fee revenues."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Income-oriented investors seeking a financial sector yield play with exposure to the structural growth of US wealth management. Also suited to investors who want diversified large-cap financial exposure with an integrated brokerage/banking model."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. BUY below $78 (approximately 15x forward P/E on base-case EPS - below intrinsic value based on normalised earnings power). Reduce above $108 (approximately 21x P/E - NIM normalisation is priced in aggressively at this level)."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $78 (approximately 15x forward P/E on base-case EPS - below intrinsic value based on normalised earnings power). | Reduce above $108 (approximately 21x P/E - NIM normalisation is priced in aggressively at this level)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 70,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 73,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 70,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 70
       }
     ]
   }

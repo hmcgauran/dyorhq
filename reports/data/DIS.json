@@ -2,165 +2,108 @@
   "meta": {
     "ticker": "DIS",
     "company": "Walt Disney Co",
-    "exchange": "NYSE",
+    "exchange": "#N/A",
     "isin": "US2546871060",
-    "date": "17 Apr 2026",
-    "datePublished": "",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
     "recommendationNote": "OPPORTUNISTIC BUY",
-    "conviction": 52,
-    "lastRefreshed": "2026-04-17T10:00:00Z",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.394Z",
     "universes": [
-      "S&P 100",
-      "Fortune 100"
+      "fortune100",
+      "sp100",
+      "watchlist"
     ]
   },
   "price": {
-    "current": 106.15,
-    "marketCap": 188100000000.0,
-    "marketCapFormatted": "$188.1B",
-    "trailingPE": 15.64,
-    "trailingEps": 6.79,
-    "fiftyTwoWeekHigh": 124.69,
-    "fiftyTwoWeekLow": 82.98,
+    "current": 106.29,
+    "currency": "USD",
+    "marketCap": "188294756131",
+    "pe": 15.66,
+    "eps": 6.79,
+    "week52High": 124.69,
+    "week52Low": 82.98,
     "beta": 1.44,
-    "formatted": ""
+    "avgVolume": "10221737",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "theme park recovery",
+      "streaming growth",
+      "content pipeline",
+      "economic reopening",
+      "analyst optimism"
+    ],
+    "summary": "Sentiment for Walt Disney Co (DIS) is positive, driven by strong theme park recovery, growth in Disney+ streaming subscribers, and optimism around upcoming content releases. Recent analyst upgrades and robust price momentum further support a bullish outlook, with potential near-term catalysts including holiday season performance and new film releases.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 37,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 7,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
-      "text": "Disney sits 19% below its 52-week high and trades at a historically modest 15.6x P/E, with aggressive cost restructuring, improving streaming profitability, and record theme park revenues combining to create a compelling risk-reward at current levels - OPPORTUNISTIC BUY is the weighted recommendation."
+      "text": "Disney sits 19% below its 52-week high and trades at a historically modest 15.6x P/E, with aggressive cost restructuring, improving streaming profitability, and record theme park revenues combining to create a compelling risk-reward at current levels - OPPORTUNISTIC BUY is the..."
     },
     "businessModel": {
-      "text": "Walt Disney operates across three core reportable segments: Disney Entertainment, which encompasses television networks (ABC, Disney Channels), film studios (Disney, Marvel, Pixar, Lucasfilm, Searchlight), and streaming platforms (Disney+, Hulu, ESPN+); Disney Experiences, covering global theme parks, cruise lines, and consumer products licensing; and ESPN, including the sports cable networks, direct-to-consumer streaming ambitions, and the forthcoming ESPN flagship streaming service. The model blends high-margin intellectual property exploitation (Marvel, Star Wars, Pixar) with capital-intensive physical experiences (parks and cruise). Revenue concentration in the experiences segment has historically provided counter-cyclical resilience, though streaming subscriber growth and ARPU improvement are now the primary value drivers."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$106.15"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$188.1 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "15.64x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$6.79"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$124.69"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$82.98"
-        },
-        {
-          "label": "Distance from 52w High",
-          "value": "-14.9%"
-        },
-        {
-          "label": "Distance from 52w Low",
-          "value": "+27.9%"
-        },
-        {
-          "label": "Beta",
-          "value": "1.44"
-        },
-        {
-          "label": "Currency",
-          "value": "USD"
-        }
-      ]
+      "price": 106.29,
+      "pe": 15.66,
+      "eps": 6.79,
+      "marketCap": "188294756131",
+      "week52High": 124.69,
+      "week52Low": 82.98,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Q1 FY2026 results (reported February 2026) delivered revenue of approximately $23 billion with adjusted EPS of $1.15, beating consensus estimates. Disney Experiences posted record quarterly revenue, driven by domestic park attendance and per-capita spending growth, alongside strong merchandise and food & beverage revenues. Disney+ added subscribers sequentially, with ARPU improvement continuing as bundle adoption rises. The ongoing cost restructuring programme under CEO Bob Iger and parks chairman Josh D'Amaro has removed approximately 1,000 roles across the Experiences segment, improving segment margins. Disney+/Hulu combined SVOD operating income improved sharply year-on-year, approaching breakeven on a run-rate basis. Analyst sentiment has shifted constructive, with the average price target sitting near $128 (approximately 20% upside from current levels). A board director purchased shares in the open market in Q1 2026, and the board approved a dividend increase - both signalling internal confidence in the intrinsic value thesis. The flagship ESPN streaming service remains on track for a 2025 launch, with a phased roll-out of a streaming-only tier planned."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (75): Streaming reaches full profitability with Disney+ surpassing 250 million subscribers and ARPU improving as premium tiers expand. ESPN flagship streaming launches successfully in H1 2026, capturing cord-cutters and adding 20-30 million subscribers in year one. Theme parks sustain record attendance with new attractions (Tiana's Bayou Adventure, Avengers Campus expansions) driving++capex-light incremental revenue. EPS reaches $8-9. P/E re-rates to 20-22x. Price: $160-180. Base Case (55): Cost restructuring delivers $1.5-2 billion in annual savings. Streaming stabilises with Disney+/Hulu combined approaching operating profit. Parks moderates to +3-5% revenue growth as some demand normalisation offsets new attraction openings. ESPN streaming launches on schedule but subscriber ramp is gradual. EPS grows to $7.50-8.00. P/E holds at 17-19x. Price: $127-152. Bear Case (25): Consumer discretionary spending pressure visibly impacts parks attendance and merchandise revenue in H2 2026. Streaming competition from Netflix, Amazon, and Apple intensifies, forcing elevated content spend with limited ARPU upside. ESPN streaming disappoints on subscriber targets and monetisation timeline. Debt-funded parks capex strains free cash flow. EPS falls to $5.50-6.00. P/E compresses to 13-15x. Price: $71-90. Weighted Score: 52 - Bull 75 x 20% + Base 55 x 60% + Bear 25 x 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 20
-      },
-      "base": {
-        "scenario": "",
-        "probability": 60
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 20
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "ESPN streaming execution risk: The most significant near-term catalyst is also its key risk. If the ESPN flagship streaming service underperforms subscriber targets or fails to monetise effectively, the re-rating thesis collapses and the P/E multiple may not expand from current depressed levels. Consumer spending cyclicality: Disney Experiences is a consumer discretionary business highly sensitive to macroeconomic conditions. A deterioration in US consumer confidence could pressure park attendance, per-capita spending, and merchandise revenues disproportionately. Streaming competition intensity: Netflix remains the dominant global streaming platform. Amazon Prime Video, Apple TV+, and Warner Bros. Discovery's Max continue investing in premium content, maintaining elevated industry content spend that compresses all players' margins. Capital allocation and leverage: Park expansion capex (Avengers Campus, FrontierlandRiverboat replacement, etc.) is substantial. If free cash flow disappoints while debt rises, the dividend and buyback programme may come under review. Activist and governance uncertainty: While the Iger era has brought stability, the ESPN ownership structure (currently 80% Disney, 20% Hearst) and potential ESPN spinoff or IPO scenarios could introduce governance complexity and timeline uncertainty.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "ESPN streaming execution risk: The most significant near-term catalyst is also its key risk. If the ESPN flagship streaming service underperforms subscriber targets or fails to monetise effectively, the re-rating thesis collapses and the P/E multiple may not expand from current depressed levels."
-        },
-        {
-          "rank": 2,
-          "risk": "Consumer spending cyclicality: Disney Experiences is a consumer discretionary business highly sensitive to macroeconomic conditions. A deterioration in US consumer confidence could pressure park attendance, per-capita spending, and merchandise revenues disproportionately."
-        },
-        {
-          "rank": 3,
-          "risk": "Streaming competition intensity: Netflix remains the dominant global streaming platform. Amazon Prime Video, Apple TV+, and Warner Bros. Discovery's Max continue investing in premium content, maintaining elevated industry content spend that compresses all players' margins."
-        },
-        {
-          "rank": 4,
-          "risk": "Capital allocation and leverage: Park expansion capex is substantial. If free cash flow disappoints while debt rises, the dividend and buyback programme may come under review."
-        },
-        {
-          "rank": 5,
-          "risk": "Activist and governance uncertainty: The ESPN ownership structure and potential ESPN spinoff or IPO scenarios could introduce governance complexity and timeline uncertainty."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Long-term value investors attracted to a world-class IP portfolio at a below-average valuation. Thematic investors in streaming media consolidation who believe ESPN streaming is underpriced by the market. Those who bought at 52-week lows and are looking to average up on confirmed momentum."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "BUY. Disney at $106 with a 15.6x P/E represents a reasonable entry point for a business with this IP depth and streaming optionality. The cost restructuring is real, streaming losses are narrowing, and parks are at record levels. The 52-week range ($82.98-$124.69) provides clear context: this is not a recovery from an obscure bottom, but the stock has room to run if ESPN streaming delivers and cost cuts continue. Position sizing should reflect the binary nature of the ESPN streaming launch and consumer spending sensitivity. The analyst consensus of ~$128 (20% upside) and insider director purchases validate the directional thesis."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $110 (current entry - attractive relative to 52-week range and below analyst consensus PT). ADD on dips below $95 (re-tests 52-week low, offers stronger risk-reward for conviction buyers). Take profits partially at $125 (approaches 52-week high, limited additional upside without fundamental upgrades). EXIT above $130 if ESPN streaming launch disappoints or macro data signals consumer spending deterioration. | Entry: BUY below $110 | Add below $95 | Partial profit at $125 | Exit above $130 on catalyst miss."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, beta, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and RNS filings where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 52,
-      "band": "OPPORTUNISTIC BUY",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 73,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 52,
-        "band": "OPPORTUNISTIC BUY",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-17",
+        "conviction": 52
       }
     ]
-  },
-  "conviction": 52,
-  "recommendation": "OPPORTUNISTIC BUY",
-  "convictionHistory": [
-    {
-      "date": "2026-04-17",
-      "conviction": 52
-    }
-  ]
+  }
 }

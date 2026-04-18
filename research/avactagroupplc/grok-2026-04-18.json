@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "therapeutics development",
+    "partnership potential",
+    "stock volatility",
+    "clinical trial progress"
+  ],
+  "summary": "Avacta Group Plc (AVCT) shows a positive sentiment driven by recent progress in its therapeutics and diagnostics divisions, particularly with its Affimer platform, though stock price momentum has been mixed with some volatility. Analyst tone remains cautiously optimistic, with potential near-term catalysts including updates on clinical trials or strategic partnerships.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"therapeutics development\", \"partnership potential\", \"stock volatility\", \"clinical trial progress\"],\n  \"summary\": \"Avacta Group Plc (AVCT) shows a positive sentiment driven by recent progress in its therapeutics and diagnostics divisions, particularly with its Affimer platform, though stock price momentum has been mixed with some volatility. Analyst tone remains cautiously optimistic, with potential near-term catalysts including updates on clinical trials or strategic partnerships.\"\n}"
+}

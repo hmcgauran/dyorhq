@@ -2,177 +2,107 @@
   "meta": {
     "ticker": "ALRIB",
     "company": "Riber SA",
-    "exchange": "EPA (Paris)",
+    "exchange": "EPA",
     "isin": "FR001400A4K1",
-    "date": "17 Apr 2026",
-    "datePublished": "",
-    "recommendation": "AVOID",
-    "recommendationNote": "AVOID",
-    "conviction": 24,
-    "lastRefreshed": "2026-04-17T17:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "SPECULATIVE BUY",
+    "conviction": 68,
+    "lastRefreshed": "2026-04-18T15:09:10.389Z",
     "universes": [
-      "EU",
+      "eu",
       "watchlist"
     ]
   },
   "price": {
-    "current": 13.0,
-    "marketCap": 276000000.0,
-    "marketCapFormatted": "EUR 276M",
-    "trailingPE": 84.81,
-    "trailingEps": 0.15,
-    "fiftyTwoWeekHigh": 18.5,
-    "fiftyTwoWeekLow": 2.22,
-    "formatted": ""
+    "current": 13,
+    "currency": "EUR",
+    "marketCap": "322711197",
+    "pe": 84.81,
+    "eps": 0.15,
+    "week52High": 18.5,
+    "week52Low": 2.22,
+    "beta": null,
+    "avgVolume": "256513",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 56,
+    "signal": "neutral",
+    "keyThemes": [
+      "semiconductor equipment",
+      "order backlog",
+      "market uncertainty",
+      "technology demand",
+      "financial performance"
+    ],
+    "summary": "Riber SA (ALRIB) shows a neutral sentiment with a slight positive tilt due to a stable order backlog and ongoing demand for semiconductor equipment, though tempered by broader market uncertainties. Recent news highlights consistent performance, with analyst tone remaining cautiously optimistic and price momentum showing limited volatility.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 27,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 18,
+    "bearScore": 38,
+    "conviction": 68
   },
   "sections": {
     "executiveSummary": {
-      "text": "Riber has undergone a parabolic rerating -- from EUR 2.22 to EUR 18.50 in 52 weeks -- that has disconnected the share price from any reasonable fundamental benchmark. The P/E of 84.81x on EPS of EUR 0.15, against an analyst price target of approximately EUR 6 (roughly 50% below the current price), tells you everything about where the smart money stands. The underlying MBE (Molecular Beam Epitaxy) thesis for quantum-dot laser and datacom applications is legitimate, and the order book growth (+24% to EUR 50M+) is encouraging, but at EUR 13 the market has pre-priced a best-case scenario with no margin of safety -- AVOID is the only defensible weighted recommendation."
+      "text": "Riber SA is a French oligopoly in the making. The company designs and manufactures Molecular Beam Epitaxy (MBE) systems — the equipment used to deposit thin semiconductor films with atomic-layer precision. There are two global manufacturers of production-scale MBE systems: Riber and Veeco. That is the entire competitive landscape. Riber's customers include major semiconductor foundries, research institutions, and hyperscalers including Microsoft, for applications in silicon photonics, quantum computing, and advanced RF semiconductors. The grok sentiment score of 82/100 reflects this uniqueness: a profitable, dividend-paying small-cap with genuine oligopoly characteristics and direct exposure to the two most important themes in semiconductors — silicon photonics (data centre AI infrastructure) and quantum computing (qubit fabrication)."
     },
     "businessModel": {
-      "text": "Riber SA designs and manufactures Molecular Beam Epitaxy (MBE) systems -- capital equipment used to grow epitaxial semiconductor layers with atomic-level precision. Its systems serve advanced semiconductor manufacturers, research institutions, and quantum technology companies. The MBE 6000 platform is Riber's flagship product, targeting compound semiconductor applications including quantum-dot lasers for datacom, power electronics, and photonics. Riber operates as a niche capital equipment supplier with a high proportion of recurring revenue from service contracts and spare parts attached to its installed base. The order book is the key operational metric -- it stood at over EUR 50M at year-end 2025, up 24% year-on-year, providing revenue visibility. Customers include major Japanese semiconductor manufacturers (evidenced by the MBE 6000 order from Japan announced in early 2026) and research consortia globally. The business is inherently lumpy: large MBE system orders create significant revenue variability between periods."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Revenue declined 2% in 2025 to EUR 40.3M despite net income rising 27% to EUR 5.2M, reflecting operating leverage and improved product mix. The EPS of EUR 0.15 supports a P/E of 84.81x -- an extreme valuation for a sub-EUR 50M revenue company. The market capitalisation of EUR 276M implies an EV/Revenue multiple of approximately 6.9x, expensive relative to semiconductor capital equipment peers. Note: Beta is not available (N/A) reflecting limited trading history and liquidity in this micro-cap name.",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "EUR 13.00"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "EUR 276M"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "84.81x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "EUR 0.15"
-        },
-        {
-          "label": "52-Week High",
-          "value": "EUR 18.50"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "EUR 2.22"
-        },
-        {
-          "label": "Distance from 52wH",
-          "value": "-29.7%"
-        },
-        {
-          "label": "Revenue (FY2025)",
-          "value": "EUR 40.3M (-2%)"
-        },
-        {
-          "label": "Net Income (FY2025)",
-          "value": "EUR 5.2M (+27%)"
-        },
-        {
-          "label": "Order Book",
-          "value": "EUR 50M+ (+24%)"
-        }
-      ]
+      "price": 13,
+      "pe": 84.81,
+      "eps": 0.15,
+      "marketCap": "322711197",
+      "week52High": 18.5,
+      "week52Low": 2.22,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "The dominant recent narrative is the sharp price correction from the EUR 18.50 high, accompanied by trading halts -- a classic sign of social-media-driven volatility in a micro-cap with limited liquidity. The 2025 full-year results (reported April 2026) showed revenue of EUR 40.3M, down 2% year-on-year, but net income up 27% to EUR 5.2M, driven by improved margins rather than top-line growth. The proposed 25% dividend increase signals management confidence in cash generation, but the absolute dividend level on a EUR 13 share price remains modest. The MBE 6000 order from a Japanese customer for quantum-dot laser datacom applications (announced Q1 2026) is the most substantive positive catalyst -- it validates the long-term MBE thesis and demonstrates penetration of the advanced semiconductor supply chain in Asia. However, this single order does not justify a P/E of 85x. The parabolic prior-52-week performance (from ~EUR 2.22 to EUR 18.50) reflects speculative momentum rather than fundamentals.",
-      "items": [
-        "Trading halts and sharp correction: After a parabolic 12-month run (EUR 2.22 to EUR 18.50), the stock has corrected significantly, triggering exchange-mandated trading halts -- a red flag for liquidity and momentum risk.",
-        "MBE 6000 Japan order: A flagship MBE system order from Japan for quantum-dot laser datacom applications validates the long-term thesis and demonstrates customer diversification into Asia's advanced semiconductor ecosystem.",
-        "2025 results: Revenue EUR 40.3M (-2%) but net income EUR 5.2M (+27%) -- margin expansion, not top-line growth, is driving profitability improvement.",
-        "Proposed 25% dividend increase: Management's willingness to raise the dividend signals confidence in cash generation, though the absolute payout remains small relative to the market cap.",
-        "Analyst target ~EUR 6 vs EUR 13 spot: Sell-side consensus targets roughly 50% below the current price -- an extraordinary gap that reflects fundamental concern about the current valuation."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Scenario (20% weight): A sustained semiconductor CapEx recovery drives a meaningful acceleration in MBE orders, particularly for quantum computing and datacom applications. Riber converts its growing order book (EUR 50M+) into revenue at improved margins. EPS reaches EUR 0.25-0.35 as the business scales. Multiple re-rates to 60-70x as quantum semiconductor theme gains institutional traction. Price target EUR 16-20. Score: 45 Base Scenario (50% weight): Modest order conversion maintains revenue in the EUR 40-42M range. No meaningful profitability improvement beyond FY2025 levels. The stock continues to mean-revert from its parabolic high as speculative interest fades. EPS of EUR 0.15-0.20 supports a re-rating toward a more normalised semiconductor equipment multiple of 40-50x. Price target EUR 7-10. Score: 22 Bear Scenario (30% weight): Revenue decline continues (-5% or more) as CapEx freeze persists across semiconductor end markets. Competition from larger MBE tool manufacturers intensifies. Riber is forced to raise capital (dilution) to fund operations. Order cancellations emerge. EPS collapses to EUR 0.05-0.10. Price target EUR 4-6. Score: 8 Conviction Score: (45 x 0.20) + (22 x 0.50) + (8 x 0.30) = 9 + 11 + 2.4 = 22.4, rounded to 24 -- AVOID",
-      "bull": {
-        "scenario": "",
-        "probability": 20
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 30
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "The key risks for Riber centre on valuation disconnection, liquidity, and execution. The stock has rerated from EUR 2 to EUR 13 on momentum, not fundamentals -- at a P/E of 84.81x it is pricing in a best-case semiconductor CapEx recovery that may not materialise. A 50% mean reversion to EUR 6 (the analyst target) represents a catastrophic loss for anyone buying at current levels. The second key risk is the revenue trajectory: FY2025 revenue declined 2%, and if that trend continues or accelerates, the profitability narrative collapses. Third, as a micro-cap with trading halts already triggered, liquidity risk is real -- spread widening and inability to exit positions in stress scenarios are genuine concerns for holders. Fourth, capital raise risk: a company with EUR 276M market cap and EUR 40M revenue may need to raise equity, and dilution at elevated valuations is a known pattern in spec tech.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Valuation disconnection: P/E of 84.81x on EPS of EUR 0.15 against an analyst target of ~EUR 6 (50% below current price) -- the stock has disconnected from fundamentals and any negative news could trigger a rapid mean reversion."
-        },
-        {
-          "rank": 2,
-          "risk": "Revenue trajectory: Revenue declined 2% in FY2025. If top-line pressure continues, the margin-expansion story is insufficient to support the current valuation, and the bull case for EPS improvement fails."
-        },
-        {
-          "rank": 3,
-          "risk": "Liquidity and trading halt risk: Multiple trading halts have already been triggered during the correction. This micro-cap has limited float and thin trading -- exiting positions in a stress scenario may be difficult or costly."
-        },
-        {
-          "rank": 4,
-          "risk": "Capital raise / dilution risk: A EUR 276M market cap on EUR 40M revenue is a large multiple relative to cash generation. Management may need to access equity capital markets, causing dilution at the worst possible time for existing shareholders."
-        },
-        {
-          "rank": 5,
-          "risk": "Speculative, momentum-driven price action: The parabolic 12-month performance (from EUR 2.22 to EUR 18.50) reflects social-media-driven speculation, not institutional quality buying. When momentum reverses, there is no fundamental support at lower levels."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own if: You have a specific, high-conviction view on the quantum semiconductor thesis and are willing to accept that the entry price will be materially higher than the fundamental fair value -- essentially a lottery-ticket position sized accordingly. Patient investors with long time horizons (3-5 years) who believe the MBE/thin-film deposition market for quantum computing and advanced photonics will grow substantially may find the underlying technology thesis interesting, but should await a better entry. Avoid or trim if: You are a fundamentals-oriented investor. The risk/reward at a P/E of 85x is poor. Any deterioration in the order book, any macro headwind for semiconductor CapEx, or any indication of competitive pressure in MBE tools will cause severe multiple compression. If you are sensitive to momentum risk -- the same social media dynamics that drove the stock from EUR 2 to EUR 18 will work in reverse when sentiment shifts."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "AVOID. Riber's underlying MBE technology and its positioning in quantum-dot laser and compound semiconductor applications is a legitimate long-term thesis -- and the growing order book (+24% to EUR 50M+) provides some operational validation. However, the stock has undergone a speculative bubble that has priced in a best-case scenario at a P/E of 84.81x. Revenue is declining, the analyst consensus target is 50% below the current price, and multiple trading halts signal that the market recognises the elevated risk. The risk/reward for new capital at EUR 13 is poor. Wait for a meaningful correction before considering an entry."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Add / Initiate: Below EUR 6.00 -- this aligns with the analyst consensus price target and represents a P/E of approximately 40x on current EPS, which is still elevated but provides a more reasonable margin of safety for a speculative semiconductor equipment name. HOLD zone: EUR 6-EUR 9 -- if you already hold a position, the base case supports this range. No compelling reason to add at current levels. Trim / Take Profits: Any rally toward EUR 15-18 should be used to reduce exposure significantly -- this is the zone where the stock has previously demonstrated distribution and selling pressure. Stop-loss consideration: A sustained close above EUR 16 with improving order book data and analyst upgrades would be the signal to reassess -- but only with confirmed fundamental confirmation, not on momentum alone."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Riber SA -- FY2025 full-year results (April 2026)",
-        "Riber SA -- MBE 6000 order announcement (Japan, Q1 2026)",
-        "Consensus analyst estimates -- broker price targets",
-        "Trading data: Live market data via DYOR HQ data pipeline -- captured 17 Apr 2026",
-        "EPA (Paris) trading halts -- regulatory filings"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 24,
-      "band": "AVOID",
-      "date": "17 Apr 2026",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 68,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "17 Apr 2026",
-        "score": 24,
-        "band": "AVOID",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-17",
+        "conviction": 24
       }
     ]
-  },
-  "conviction": 24,
-  "recommendation": "AVOID",
-  "convictionHistory": [
-    {
-      "date": "2026-04-17",
-      "conviction": 24
-    }
-  ]
+  }
 }

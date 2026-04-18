@@ -1,0 +1,12 @@
+{
+  "score": 76,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "digital payments growth",
+    "global expansion",
+    "economic recovery"
+  ],
+  "summary": "Visa Inc. (V) exhibits a positive sentiment driven by strong quarterly earnings, growing adoption of digital payments, and optimism around global economic recovery. Analyst tone remains bullish, supported by consistent price momentum and potential catalysts like holiday spending trends.",
+  "raw": "{\n  \"score\": 75,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"digital payments growth\", \"global expansion\", \"economic recovery\"],\n  \"summary\": \"Visa Inc. (V) exhibits a positive sentiment driven by strong quarterly earnings, growing adoption of digital payments, and optimism around global economic recovery. Analyst tone remains bullish, supported by consistent price momentum and potential catalysts like holiday spending trends.\"\n}"
+}

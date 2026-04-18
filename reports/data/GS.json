@@ -1,113 +1,109 @@
 {
-  "ticker": "GS",
-  "company": "Goldman Sachs Group Inc",
-  "isin": "US38141G1040",
-  "exchange": "NYSE",
-  "currency": "USD",
-  "price": 923.77,
-  "marketCap": "$273.1B",
-  "sector": "Financials — Investment Banking",
-  "date": "17 April 2026",
-  "reportDate": "2026-04-17",
-  "recommendation": "OPPORTUNISTIC BUY",
-  "conviction": 62,
-  "grokScore": 68,
-  "grokSignal": "positive",
-  "grokKeyThemes": [
-    "Strong Q1 2026 earnings beat with record equities trading revenue",
-    "Investment banking momentum and high ROE of 19.8%",
-    "FICC trading weakness causing post-earnings stock pullback",
-    "Constructive 2026 macroeconomic outlook from GS Research",
-    "Profit-taking after strong run amid macro volatility concerns"
-  ],
-  "convictionHistory": [{"date": "2026-04-17", "conviction": 62}],
-  "priceAtLastReport": 923.77,
-  "marketCapAtLastReport": "$273.1B",
-  "pe": 16.86,
-  "eps": 54.72,
-  "dividendYield": "2.2%",
-  "beta": 1.30,
-  "sharesOut": "298M",
-  "avgVolume": "2.26M",
-  "52wHigh": 984.70,
-  "52wLow": 580.00,
-  "prevClose": 915.50,
-  "analystPriceTarget": "$919.48",
-  "analystCount": 22,
-  "analystConsensus": "Hold",
+  "meta": {
+    "ticker": "GS",
+    "company": "GS - Goldman Sachs Group Inc",
+    "exchange": "#N/A",
+    "isin": "US38141G1040",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.383Z",
+    "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 925.95,
+    "currency": "USD",
+    "marketCap": "273149697901",
+    "pe": 16.92,
+    "eps": 54.72,
+    "week52High": 984.7,
+    "week52Low": 494.68,
+    "beta": 1.32,
+    "avgVolume": "2259833",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "investment banking recovery",
+      "market optimism",
+      "interest rate sensitivity"
+    ],
+    "summary": "Goldman Sachs (GS) exhibits a positive sentiment driven by strong recent earnings and a recovery in investment banking activity, bolstered by optimistic analyst tone and steady price momentum. However, potential headwinds from interest rate changes remain a near-term concern.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 35,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
+  },
   "sections": {
     "executiveSummary": {
-      "text": "Goldman Sachs delivered its second-highest quarterly revenue on record in Q1 2026, powered by record equity trading and a 48% year-on-year surge in investment banking fees. Net revenues of $17.23 billion and EPS of $17.55 beat consensus expectations by a wide margin, while the bank posted a 19.8% annualised return on common equity. The stock dipped on the day as fixed income trading disappointed — a persistent structural concern — but has stabilised near $900 as investors process the headline beat. At 16.86x P/E on $54.72 TTM EPS, Goldman remains one of the cheapest major US banks relative to earnings power. The OPPORTUNISTIC BUY thesis is that the IB cycle has turned, record equities revenue is sustainable in an elevated-volatility environment, and that FICC weakness is already priced into the discount versus peers."
+      "text": "Goldman Sachs is a high-quality investment bank and global financial institution that had an exceptional Q1 2026 — record equity trading revenues, investment banking fees up 48% YoY to $2.84B, and net revenues of $17.23B beating consensus"
     },
     "businessModel": {
-      "text": "Goldman Sachs is a global investment bank and financial services company operating across four core businesses: Investment Banking (M&A advisory, equity and debt underwriting, IPO mandates), Global Markets (equity and fixed income trading, prime brokerage, securities financing), Asset Management (alternatives, private wealth, and wealth management), and Consumer Banking (Marcus by Goldman, Apple Card partnership). Revenue is weighted toward transaction-driven businesses, making it highly cyclical but also leveraged to market activity, IPO flow, and M&A volumes. The firm has materially improved its capital ratios under Basel III and maintains a strong balance sheet with $2.6 trillion in assets under supervision reaching a record $3.65 trillion in Q1 2026. Management has prioritised moderate ROE expansion while maintaining conservative leverage ratios, and the consumer segment (Marcus + Apple Card) represents a long-term diversification play into stable net interest income. At 16.86x P/E, Goldman is one of the cheapest major US banks relative to earnings power — a discount that reflects structural concerns about FICC underperformance and the unresolved consumer banking story."
+      "text": ""
     },
     "financialSnapshot": {
-      "marketCap": "$273.1B",
-      "pe": "16.86x",
-      "eps": "$54.72",
-      "dividendYield": "2.2%",
-      "beta": "1.30",
-      "price": "$923.77",
-      "prevClose": "$915.50",
-      "52wHigh": "$984.70",
-      "52wLow": "$580.00",
-      "avgVolume": "2.26M",
-      "sharesOut": "298M",
-      "currency": "USD",
-      "distanceFrom52wHigh": "-6.2%",
-      "distanceFrom52wLow": "+59.3%",
-      "analystPriceTarget": "$919.48",
-      "analystCount": 22,
-      "analystConsensus": "Hold"
+      "price": 925.95,
+      "pe": 16.92,
+      "eps": 54.72,
+      "marketCap": "273149697901",
+      "week52High": 984.7,
+      "week52Low": 494.68,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Q1 2026 was Goldman's second-highest quarterly revenue on record. Net revenues of $17.23 billion beat consensus of approximately $16.50 billion, with net earnings of $5.63 billion — up 19% year-on-year — and diluted EPS of $17.55. The annualised return on average common shareholders' equity was a robust 19.8%. Three catalysts drove the beat. First, record equity trading revenues hit an all-time high of $3.6 billion, capitalising on elevated market volatility and strong client activity throughout the quarter — Goldman's own research noted that 'market chaos is good for business.' Second, investment banking fees surged 48% year-on-year to $2.84 billion, the strongest quarterly IB performance in three years, as the IPO pipeline reopened and M&A advisory gained momentum. Third, assets under supervision reached a record $3.65 trillion, reflecting inflows into the asset management franchise. The post-earnings selloff was triggered by fixed income revenues of $4.1 billion — below the $4.5 billion-plus that bulls had modelled — a recurring frustration that capped the upside on an otherwise outstanding quarter. Goldman's own research economists are constructive on equities for 2026, forecasting global growth of 2.8% versus a consensus of 2.5%, supporting the deal environment.",
-      "bullets": [
-        "Q1 net revenues $17.23B, EPS $17.55 — second-highest quarterly revenue on record",
-        "Net earnings $5.63B, up 19% YoY; ROE 19.8% annualised",
-        "Record equity trading revenues of $3.6B — all-time high",
-        "Investment banking fees up 48% YoY to $2.84B — strongest IB quarter in three years",
-        "Assets under supervision at record $3.65 trillion",
-        "Post-earnings selloff triggered by FICC miss at $4.1B vs $4.5B+ expected",
-        "GS Research forecasts 2.8% global growth in 2026 vs 2.5% consensus"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "bullCase": {
-        "conviction": 78,
-        "text": "Investment banking continues its recovery as the IPO window widens further and M&A advisory revenues grow 20%+ as corporates regain confidence in strategic transactions. FICC stabilises and begins generating $5 billion-plus per quarter. EPS reaches $62-$68 in 2026 as equity trading remains elevated and IB adds $2 billion-plus in incremental revenues. The stock re-rates to 18-20x P/E on a premium franchise. Price target: $1,100-$1,350."
-      },
-      "baseCase": {
-        "conviction": 62,
-        "text": "Wall Street revenues remain steady. IB recovery is moderate — not every quarter hits the 48% growth rate. FICC stays range-bound at $4-4.5 billion per quarter. EPS of $57-$63 in 2026. The stock drifts to $950-$1,050 at 16-17x P/E, roughly in line with current levels. Dividend growth continues. The consumer franchise stabilises without being a meaningful earnings contributor."
-      },
-      "bearCase": {
-        "conviction": 35,
-        "text": "Recession fears close the IPO window and stall M&A activity. Credit losses in the consumer bank accelerate beyond current allowances. FICC revenues collapse again as the 2022-2024 pattern of volatility-driven losses repeats. The stock falls to $600-$700 on 10-12x P/E. Capital ratios come under pressure from consumer credit deterioration. Net revenues decline 15-20% from peak."
-      }
+      "text": ""
     },
     "keyRisks": {
-      "bullets": [
-        "Investment banking cycle risk: IB revenues are lumpy and highly sensitive to market conditions, deal flow, and corporate confidence. A single strong quarter does not a cycle make.",
-        "FICC volatility: Goldman's fixed income franchise has underperformed peers for three consecutive years — a structural concern that limits multiple expansion.",
-        "Consumer credit exposure: Apple Card receivables and Marcus loan book represent significant unsecured consumer credit that could face stress in an economic slowdown.",
-        "Marcus deposit costs: As rates normalise, the cost of funding the consumer bank rises and compresses net interest margins.",
-        "Regulatory capital requirements: As a G-SIB, Goldman faces ongoing capital surcharges that constrain buybacks and limit leverage under Basel III Endgame rules.",
-        "Valuation discount vs peers: Persistently lower P/E than JPM, Morgan Stanley, and Bank of America reflects historical capital allocation decisions and the unresolved consumer bank question."
-      ]
+      "text": ""
     },
     "whoShouldOwnIt": {
-      "text": "Owners: Investors who want concentrated exposure to a Wall Street recovery and an eventual re-rating of the IB franchise. Long-term holders comfortable with earnings volatility who understand that the Q1 2026 IB surge signals the cycle has turned. Value investors attracted to 16.86x P/E — one of the cheapest major US banks relative to earnings power. Avoiders: Growth investors seeking predictable, compounding earnings will be frustrated by the cyclicality. Those who want a stable, high-quality consumer banking franchise should look at JPM or BAC instead. Short-term traders should note the high beta (1.30) and elevated options premium."
+      "text": ""
     },
     "recommendation": {
-      "text": "OPPORTUNISTIC BUY. Goldman Sachs at 16.86x P/E is one of the cheapest major US banks relative to its earnings power. Q1 2026 proved the IB franchise is alive and that equity trading can generate record revenues. FICC remains the structural weakness but it is already priced in at this multiple. BUY below $820. ADD below $750. TRIM above $950 toward $984. The Q1 beat and the $5 billion buyback programme signal management's confidence in intrinsic value. At these levels, the asymmetric upside to $1,100-$1,350 in the bull case is more attractive than the downside to $600 in the bear case."
+      "text": ""
+    },
+    "entry": {
+      "text": ""
+    },
+    "sources": {
+      "text": ""
     }
   },
-  "sources": [
-    {"label": "Live Prices", "desc": "DYOR HQ proprietary market data workflow with independent validation checks"},
-    {"label": "Financial Metrics", "desc": "Third-party market data validation for market capitalisation, valuation ratios, earnings metrics, and trading ranges"},
-    {"label": "News & Catalysts", "desc": "Finnhub RSS feed and web search — corporate announcements, broker research, industry news"},
-    {"label": "Report date", "desc": "Financial data is correct as of 17 Apr 2026."}
-  ]
+  "scores": {
+    "current": {
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
+    },
+    "history": [
+      {
+        "date": "2026-04-16",
+        "conviction": 62
+      }
+    ]
+  }
 }

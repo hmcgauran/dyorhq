@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong sales growth",
+    "automotive sector recovery",
+    "dividend potential",
+    "economic uncertainty",
+    "used car market demand"
+  ],
+  "summary": "Vertu Motors Plc (VTU) exhibits a positive sentiment driven by recent reports of robust sales growth and a recovering automotive sector, though tempered by broader economic uncertainties. Analyst tone remains cautiously optimistic, with price momentum showing steady upward trends and potential dividend announcements as a near-term catalyst.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong sales growth\", \"automotive sector recovery\", \"dividend potential\", \"economic uncertainty\", \"used car market demand\"],\n  \"summary\": \"Vertu Motors Plc (VTU) exhibits a positive sentiment driven by recent reports of robust sales growth and a recovering automotive sector, though tempered by broader economic uncertainties. Analyst tone remains cautiously optimistic, with price momentum showing steady upward trends and potential dividend announcements as a near-term catalyst.\"\n}"
+}

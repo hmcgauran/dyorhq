@@ -1,0 +1,13 @@
+{
+  "score": 56,
+  "signal": "positive",
+  "key_themes": [
+    "steady performance",
+    "analyst optimism",
+    "market stability",
+    "potential acquisitions",
+    "sector growth"
+  ],
+  "summary": "Science Group PLC (SAG) shows a mildly positive sentiment with steady financial performance and optimistic analyst tone in recent reports. Price momentum remains stable with potential upside from strategic acquisitions or sector tailwinds.",
+  "raw": "{\n  \"score\": 15,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"steady performance\", \"analyst optimism\", \"market stability\", \"potential acquisitions\", \"sector growth\"],\n  \"summary\": \"Science Group PLC (SAG) shows a mildly positive sentiment with steady financial performance and optimistic analyst tone in recent reports. Price momentum remains stable with potential upside from strategic acquisitions or sector tailwinds.\"\n}"
+}

@@ -1,72 +1,109 @@
 {
-  "ticker": "F",
-  "company": "Ford Motor Company",
-  "isin": "US3453708600",
-  "exchange": "NYSE",
-  "currency": "USD",
-  "price": 11.50,
-  "marketCap": "$45B",
-  "sector": "Consumer Discretionary — Auto Manufacturers",
-  "date": "17 April 2026",
-  "reportDate": "2026-04-17",
-  "recommendation": "OPPORTUNISTIC BUY",
-  "conviction": 58,
-  "convictionHistory": [
-    {
-      "date": "2026-04-17",
-      "conviction": 38
-    },
-    {
-      "date": "2026-04-17",
-      "conviction": 58
-    }
-  ],
-  "priceAtLastReport": 12.98,
-  "marketCapAtLastReport": "$52.2B",
-  "pe": "7x",
-  "eps": 1.65,
-  "dividendYield": "5.2%",
-  "beta": 1.30,
-  "sharesOut": "3.9bn",
-  "avgVolume": "47.8m",
-  "52wHigh": 14.80,
-  "52wLow": 10.50,
-  "prevClose": 11.50,
+  "meta": {
+    "ticker": "F",
+    "company": "F - Ford Motor Company",
+    "exchange": "#N/A",
+    "isin": "US3453708600",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.382Z",
+    "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 12.87,
+    "currency": "USD",
+    "marketCap": "51622612010",
+    "pe": null,
+    "eps": -2.06,
+    "week52High": 14.8,
+    "week52Low": 9.35,
+    "beta": 1.69,
+    "avgVolume": "47814399",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 63,
+    "signal": "positive",
+    "keyThemes": [
+      "EV transition",
+      "strong sales",
+      "cost concerns",
+      "dividend appeal"
+    ],
+    "summary": "Ford Motor Company shows a positive sentiment with strong sales performance and investor confidence in its EV strategy, despite ongoing concerns about rising costs. Recent analyst tone is cautiously optimistic, and price momentum has been steady with potential catalysts like new model launches on the horizon.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
+  },
   "sections": {
     "executiveSummary": {
-      "text": "Ford is executing one of the most complex turnarounds in automotive history — managing a legacy ICE and hybrid business while funding a large EV development programme that is currently destroying near-term earnings. The Ford Pro commercial vehicle segment is the strategic centrepiece, generating strong margins from fleet operators and bundled software subscriptions growing at 29%. The UBS upgrade to Buy with a $15 price target reflects growing confidence that Ford Pro's growth can fund the EV transition without catastrophic equity dilution. At ~$11.50 with a 7x forward P/E and 5.2% dividend yield, Ford is priced as if the restructuring will fail — creating an OPPORTUNISTIC BUY entry for investors with a 2-3 year horizon who can tolerate elevated volatility."
+      "text": "Ford is navigating one of the most complex turnarounds in automotive history — simultaneously managing a legacy ICE and hybrid business while funding a large EV development programme that is currently destroying earnings. The UBS upgrade to Buy on improving earnings outlook..."
     },
     "businessModel": {
-      "text": "Ford operates across four primary segments: Ford Pro (commercial vehicles and fleet services), Blue (legacy ICE and hybrid passenger vehicles), Model e (EV development and production), and Ford Credit (financing arm). The Ford Pro segment is the strategic centrepiece — it sells commercial vans, trucks, and transit vehicles to fleet operators at materially higher margins than retail channels, bundled with connected-vehicle software and service contracts that generate recurring revenue. The Blue segment manages the legacy ICE portfolio which still generates the bulk of group profitability but faces long-term structural decline as EV penetration increases. Model e is the loss-making EV unit, currently burning billions annually as Ford invests in next-generation electric platforms. Ford Credit provides financing to dealers and customers, generating stable earnings that partially offset volatility elsewhere."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Ford trades at ~$11.50 with a market capitalisation of approximately $45B. The 7x forward P/E on $1.65 EPS reflects a modest valuation that prices in ongoing EV investment costs. The 5.2% dividend yield provides income support for patient investors. Beta of 1.30 indicates elevated volatility relative to the broader market — Ford is a high-beta cyclical. Average volume of 47.8M shares per day confirms strong liquidity. The 52-week range of $10.50-$14.80 shows the stock has pulled back from highs to the lower end of the range, improving the entry point post-UBS upgrade. With approximately 3.9B shares outstanding, the equity base is large but the balance sheet carries meaningful pension obligations and legacy warranty reserves."
+      "price": 12.87,
+      "pe": null,
+      "eps": -2.06,
+      "marketCap": "51622612010",
+      "week52High": 14.8,
+      "week52Low": 9.35,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "UBS upgraded Ford to Buy in early April 2026 with a $15 price target, citing a credible path to earning more than $2 per share in 2027 and a pragmatic EV strategy leveraging Ford's U.S. production flexibility. Q1 2026 financial results are expected on April 29 with consensus EPS of $0.22 and expected revenue of $43.36 billion. A new Product Creation and Industrialisation organisation was announced targeting an 8% profit margin by 2029 alongside leadership changes. Q1 2026 retail market share improved to 11.6% driven by double-digit growth in high-margin large SUVs — Explorer and Expedition each up 30% — even as total U.S. sales fell 8.8% amid model transitions. Ford Pro software subscription revenue is growing at 29%, adding recurring revenue to the commercial vehicle franchise. F-Series truck market leadership remains intact. Shares have pulled back from April highs of $12.60-$12.70 to ~$11.50, improving the entry point following the upgrade-driven rally. EV weakness remains a headwind but hybrids are providing a bridge strategy."
+      "text": ""
     },
     "thesisEvaluation": {
-      "bull": "Ford Pro commercial grows to $10B+ EBIT, EV losses narrow to $2-3B by 2027, tariffs manageable, EPS exceeds $2.00, dividend reinstated and grown, stock re-rates to $14-16 as margin story convinces.",
-      "base": "Ford Pro holds at $8-9B EBIT, EV losses remain elevated at $4-5B, overall EPS reaches $1.50-1.80, dividend maintained, stock drifts to $12-14 ahead of 8% margin target delivery by 2029.",
-      "bear": "Ford Pro hits cyclical headwinds, EV losses remain above $5B, severe tariff impact adds billions in costs, pension underfunding surfaces, multiple compresses below 6x, stock falls to $7-9."
+      "text": ""
     },
     "keyRisks": {
-      "bull": "Ford Pro commercial grows to $10B+ EBIT, EV losses narrow to $2-3B by 2027, tariffs manageable, EPS exceeds $2.00, dividend reinstated and grown, stock re-rates to $14-16 as margin story convinces.",
-      "base": "Ford Pro holds at $8-9B EBIT, EV losses remain elevated at $4-5B, overall EPS reaches $1.50-1.80, dividend maintained, stock drifts to $12-14 ahead of 8% margin target delivery by 2029.",
-      "bear": "Ford Pro hits cyclical headwinds, EV losses remain above $5B, severe tariff impact adds billions in costs, pension underfunding surfaces, multiple compresses below 6x, stock falls to $7-9.",
-      "risksList": [
-        "EV transition execution risk: Ford has committed tens of billions to EV capacity. Failure to close the cost and range gap with Tesla leaves Model e perpetually loss-making.",
-        "Tariff impact on costs and pricing: U.S. tariffs on imported components and foreign-assembled vehicles could add $1-2B to annual costs.",
-        "Ford Pro cyclicality: Commercial vehicle demand tracks economic activity and fleet replacement cycles. A recession would hit Ford Pro orders hard.",
-        "Pension obligations: Ford's defined-benefit pension scheme carries significant underfunding. Deteriorating equity markets or rising longevity assumptions could trigger large cash contributions.",
-        "Product creation reorganisation execution: The new 8% margin target by 2029 is a multi-year transformation with execution risk."
-      ]
+      "text": ""
     },
     "whoShouldOwnIt": {
-      "text": "Owners: Value-oriented investors with high risk tolerance and a multi-year horizon who understand the automotive cyclical. Turnaround investors and special situations funds will find the Ford Pro growth story compelling. Thematic investors bullish on commercial vehicle electrification. Avoiders: Income investors requiring immediate dividend income. Growth investors seeking near-term earnings visibility. Investors requiring short-term capital appreciation."
+      "text": ""
     },
     "recommendation": {
-      "text": "OPPORTUNISTIC BUY at ~$11.50. Ford has refocused the investment thesis on the Ford Pro commercial growth story. The UBS upgrade to $15 and pullback from April highs to ~$11.50 create a more attractive entry than the $12.60-$12.70 levels seen earlier in the month. Entry framework: BUY below $10.00 (deep value). ADD in the $10-$13 range (current entry). TRIM/REDUCE on rallies above $15. The 5.2% dividend yield provides a floor for patient investors."
+      "text": ""
+    },
+    "entry": {
+      "text": ""
+    },
+    "sources": {
+      "text": ""
     }
+  },
+  "scores": {
+    "current": {
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
+    },
+    "history": [
+      {
+        "date": "2026-04-16",
+        "conviction": 38
+      }
+    ]
   }
 }

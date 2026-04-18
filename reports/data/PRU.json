@@ -1,139 +1,106 @@
 {
   "meta": {
     "ticker": "PRU",
-    "company": "Prudential Financial Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 63,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "PRU - Prudential Financial Inc",
+    "exchange": null,
+    "isin": "US7443201022",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.389Z",
     "universes": [
+      "fortune100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 96.9,
-    "marketCap": 33700000000.000004,
-    "marketCapFormatted": "$33.70B",
-    "trailingPE": 9.7,
-    "trailingEps": 9.99,
-    "fiftyTwoWeekHigh": 119.76,
-    "fiftyTwoWeekLow": 91.89,
-    "formatted": ""
+    "current": 101.65,
+    "currency": "USD",
+    "marketCap": "35355771385",
+    "pe": 10.17,
+    "eps": 9.99,
+    "week52High": 119.76,
+    "week52Low": 91.89,
+    "beta": 0.95,
+    "avgVolume": "2259882",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "dividend stability",
+      "market volatility",
+      "interest rate sensitivity"
+    ],
+    "summary": "Prudential Financial Inc (PRU) shows a positive sentiment driven by recent strong quarterly earnings and a stable dividend yield, though tempered by broader market volatility and sensitivity to interest rate changes. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends and potential catalysts from upcoming economic data releases.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 38,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 8,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
-      "text": "Prudential is a well-diversified US life insurance and asset management franchise trading at a modest 9.7x P/E with a 4%+ dividend yield, but structural challenges in its legacy variable annuity book and muted growth outlook keep the conviction score below a BUY - HOLD is appropriate for now."
-    },
-    "businessModel": {
-      "text": "Prudential Financial is a leading US insurance and asset management company serving individual and institutional customers across five core segments: Individual Life (term, whole life, universal life), Group Insurance (employer-sponsored life, disability, dental), Retirement Strategies (defined benefit, structured settlements, stable value), Asset Management (PGIM, which manages assets for third parties including equities, fixed income and real estate), and Closed Life Insurance (run-off of legacy blocks). The PGIM asset management franchise is a key differentiator, generating fee income from approximately $1.4 trillion in assets under management. The combination of insurance float and a fee-based asset management business provides two distinct earnings engines."
-    },
-    "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$96.90"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$33.7 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "9.70x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$9.99"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$119.76"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$91.89"
-        }
-      ]
-    },
-    "recentCatalysts": {
       "text": "Prudential has been navigating the same interest rate and variable annuity headwinds as its peers. Higher rates have been a net positive for investment income on the general account float but have increased the cost of guaranteed living benefits in the VA book. The PGIM asset management division has seen net inflows in public fixed income strategies but outflows in some equity strategies as clients de-risk. The Individual Life business has been relatively stable. The stock is down approximately 19% from its 52-week high of $119.76, reflecting market concern about the VA book and macro uncertainty. The 9.7x P/E is the lowest in the life insurance peer group and reflects the market's discount for the complexity and headwinds in the business."
     },
+    "businessModel": {
+      "text": ""
+    },
+    "financialSnapshot": {
+      "price": 101.65,
+      "pe": 10.17,
+      "eps": 9.99,
+      "marketCap": "35355771385",
+      "week52High": 119.76,
+      "week52Low": 91.89,
+      "revenueTTM": null,
+      "grossMargin": null
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
     "thesisEvaluation": {
-      "text": "Bull Case (73): Interest rates stabilise at current levels, supporting investment income. The VA book runs off without major guarantee costs. PGIM achieves positive net flows across all asset classes. Individual Life grows at mid-single digits. EPS grows to $12+. Price: $120+. Base Case (64): Rates remain range-bound. VA surrender rates stabilise. PGIM is flat-to-slightly positive on flows. Group Insurance is steady. EPS grows to $10.50-$11.00. Price: $97-$105. Bear Case (47): Equity markets decline, triggering VA guarantee costs. Interest rates fall, impairing investment income and increasing VA reserves. A recession reduces group insurance volumes. EPS falls to $8.50-$9.00. Price: $72-$82. Weighted Score: 63 - Bull 73 x 30% + Base 64 x 50% + Bear 47 x 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Variable annuity guarantee costs: Prudential has one of the largest VA books in the industry, with guaranteed death benefits and guaranteed withdrawal benefits. A sustained equity market decline or prolonged low-rate environment would require reserve additions that impair earnings. PGIM asset management outflows: Third-party asset management businesses are sensitive to market performance and investor risk appetite. Continued outflows in equity strategies would reduce fee income and could impair the PGIM growth story. Low interest rate sensitivity: While the current rate environment is supportive, a return to a low-rate world would structurally impair the earnings power of Prudential's life insurance float and increase the present value of long-duration liabilities. Individual Life pressure: The Individual Life segment faces headwinds from declining universal life sales as interest-sensitive whole life and UL products become less competitive against bank and direct-to-consumer alternatives. Valuation near 52-week low: The stock is near its 52-week low of $91.89. While the 9.7x P/E looks cheap, the market is correctly discounting the structural complexity of the VA book and limited visibility on the earnings trajectory.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Variable annuity guarantee costs: Prudential has one of the largest VA books in the industry, with guaranteed death benefits and guaranteed withdrawal benefits. A sustained equity market decline or prolonged low-rate environment would require reserve additions that impair earnings."
-        },
-        {
-          "rank": 2,
-          "risk": "PGIM asset management outflows: Third-party asset management businesses are sensitive to market performance and investor risk appetite. Continued outflows in equity strategies would reduce fee income and could impair the PGIM growth story."
-        },
-        {
-          "rank": 3,
-          "risk": "Low interest rate sensitivity: While the current rate environment is supportive, a return to a low-rate world would structurally impair the earnings power of Prudential's life insurance float and increase the present value of long-duration liabilities."
-        },
-        {
-          "rank": 4,
-          "risk": "Individual Life pressure: The Individual Life segment faces headwinds from declining universal life sales as interest-sensitive whole life and UL products become less competitive against bank and direct-to-consumer alternatives."
-        },
-        {
-          "rank": 5,
-          "risk": "Valuation near 52-week low: The stock is near its 52-week low of $91.89. While the 9.7x P/E looks cheap, the market is correctly discounting the structural complexity of the VA book and limited visibility on the earnings trajectory."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Value-oriented income investors who want a 4%+ dividend yield from a diversified financial franchise. The 9.7x P/E provides a margin of safety relative to book value and normalised earnings, and patient investors may be rewarded as the VA book runs off over the next 3-5 years."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. Prudential is a well-capitalised financial franchise with an attractive dividend yield and an asset management business with genuine scale. The 9.7x P/E is the cheapest in the life insurance peer group and offers value for patient investors, but the VA book complexity and muted growth outlook limit the near-term re-rating potential. Entry framework: BUY below $91 (52-week low - historically cheap on book value and normalised earnings for this franchise). Hold between $91 and $110. Reduce on rallies above $115 (approaching book value - the VA overhang limits the re-rating potential even at 52-week highs)."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $91 (52-week low - historically cheap on book value and normalised earnings for this franchise). Hold between $91 and $110. Reduce on rallies above $115 (approaching book value - the VA overhang limits the re-rating potential even at 52-week highs). | Entry framework: BUY below $91 (52-week low - historically cheap on book value and normalised earnings for this franchise). | Reduce on rallies above $115 (approaching book value - the VA overhang limits the re-rating potential even at 52-week highs)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 63,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 73,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 63,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 63
       }
     ]
   }

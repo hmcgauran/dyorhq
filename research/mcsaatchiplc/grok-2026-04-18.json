@@ -1,0 +1,13 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "financial performance",
+    "client losses",
+    "management changes",
+    "market competition",
+    "cost pressures"
+  ],
+  "summary": "M&C Saatchi Plc (SAA) faces a negative sentiment due to recent client losses and underwhelming financial performance, compounded by competitive pressures in the advertising sector. Analyst tone remains cautious, with limited price momentum and no significant near-term catalysts to drive optimism.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"financial performance\", \"client losses\", \"management changes\", \"market competition\", \"cost pressures\"],\n  \"summary\": \"M&C Saatchi Plc (SAA) faces a negative sentiment due to recent client losses and underwhelming financial performance, compounded by competitive pressures in the advertising sector. Analyst tone remains cautious, with limited price momentum and no significant near-term catalysts to drive optimism.\"\n}"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "lack of recent news",
+    "stagnant price momentum",
+    "no clear catalysts",
+    "limited analyst coverage"
+  ],
+  "summary": "Goldbank Mining Corp (GLB) shows a slightly negative sentiment due to a lack of recent news or significant updates, coupled with stagnant price momentum. There are no clear near-term catalysts or strong analyst support to drive positive sentiment.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"lack of recent news\", \"stagnant price momentum\", \"no clear catalysts\", \"limited analyst coverage\"],\n  \"summary\": \"Goldbank Mining Corp (GLB) shows a slightly negative sentiment due to a lack of recent news or significant updates, coupled with stagnant price momentum. There are no clear near-term catalysts or strong analyst support to drive positive sentiment.\"\n}"
+}

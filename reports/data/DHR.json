@@ -1,54 +1,108 @@
 {
-  "ticker": "DHR",
-  "company": "Danaher Corporation",
-  "isin": "US2358511028",
-  "exchange": "NYSE",
-  "currency": "USD",
-  "price": 240.00,
-  "marketCap": "$170bn",
-  "sector": "Healthcare — Life Sciences Tools",
-  "date": "17 April 2026",
-  "reportDate": "2026-04-17",
-  "recommendation": "OPPORTUNISTIC BUY",
-  "conviction": 52,
-  "convictionHistory": [
-    {"date": "2026-04-17", "conviction": 52}
-  ],
-  "priceAtLastReport": 240.00,
-  "marketCapAtLastReport": "$170bn",
-  "pe": 39.34,
-  "eps": 6.10,
-  "dividendYield": "0.4%",
-  "beta": 0.95,
-  "sharesOut": "724m",
-  "avgVolume": "3.87m",
-  "52wHigh": 242.80,
-  "52wLow": 165.00,
-  "prevClose": null,
+  "meta": {
+    "ticker": "DHR",
+    "company": "DHR - Danaher Corp",
+    "exchange": "#N/A",
+    "isin": "US2358511028",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.381Z",
+    "universes": [
+      "fortune100",
+      "sp100",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 194.75,
+    "currency": "USD",
+    "marketCap": "137824458150",
+    "pe": 38.74,
+    "eps": 5.03,
+    "week52High": 242.8,
+    "week52Low": 180.03,
+    "beta": 0.96,
+    "avgVolume": "3865198",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "portfolio diversification",
+      "healthcare innovation",
+      "market leadership"
+    ],
+    "summary": "Danaher Corp (DHR) exhibits a positive sentiment driven by strong recent earnings performance and analyst optimism regarding its diversified portfolio in life sciences and diagnostics. Price momentum remains bullish with consistent upward trends, and near-term catalysts include potential growth in healthcare innovation and strategic acquisitions.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 30,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 12,
+    "bearScore": 38,
+    "conviction": 70
+  },
   "sections": {
     "executiveSummary": {
-      "text": "Danaher is a world-class life sciences tools franchise with an excellent track record of scientific instrument and diagnostics portfolio management. The Q1 2026 earnings call on April 21 is the central near-term event — consensus sits at $1.94 EPS on $5.99 billion in revenue. Morgan Stanley's 2026 upgrade reflects growing confidence in a biotech capex recovery, which directly drives Danaher's Analytical Instruments and Diagnostics segments. The stock has recovered from the ~$165 low toward $240 as the market prices in the recovery thesis. OPPORTUNISTIC BUY reflects that Danaher is an exceptional business with genuine pricing power and a strong management culture, but at 39x earnings on suppressed earnings the margin of safety is limited. Conviction: 52/100."
+      "text": "Danaher is a world-class life sciences tools franchise with an excellent track record of scientific instrument and diagnostics portfolio management. Morgan Stanley's upgrade in 2026 reflects growing confidence in a 2026 recovery in biotech capex spending, which directly drives..."
     },
     "businessModel": {
-      "text": "Danaher operates across three primary segments: Life Sciences, which provides chromatography, mass spectrometry, microscopy, and sample preparation instruments to pharmaceutical, biotechnology, and academic research customers; Diagnostics, encompassing Cepheid molecular diagnostics, Beckman Coulter clinical chemistry and immunoassay systems, and Hemostasis testing platforms; and Biotechnology, covering Fortuna Process chromatography systems and other bioprocessing tools used in biologics manufacturing. The Danaher Business System (DBS) is a disciplined, data-driven operational philosophy that has consistently delivered superior margin expansion through lean manufacturing, commercial excellence, and strategic portfolio allocation. This system is the core competitive moat — peers have tried to replicate it, but Danaher's execution culture is the true differentiator. The strategic acquisition of Masimo strengthens the diagnostics franchise, though it has received some shareholder scrutiny."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Danaher generates revenues of approximately $23-24 billion across its three segments with a blended organic growth target of 3-6%. Management guided $8.35-$8.50 adjusted EPS for fiscal 2026 with 100-basis-point operating margin expansion. The company raised the dividend by 25% to $0.40 per share. DBS-driven productivity gains have consistently offset input cost inflation, protecting margins without sacrificing R&D investment. The balance sheet is conservative with leverage typically below 2x EBITDA, preserving financial flexibility for bolt-on acquisitions. Earnings are suppressed relative to peak cycle as biotech customers digest prior capex, but the long-term EPS trajectory remains intact under DBS management."
+      "price": 194.75,
+      "pe": 38.74,
+      "eps": 5.03,
+      "marketCap": "137824458150",
+      "week52High": 242.8,
+      "week52Low": 180.03,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Danaher is scheduled to release Q1 2026 earnings on April 21, 2026 before market open. Consensus estimate is $1.94 EPS on $5.99 billion in revenue. Morgan Stanley upgraded Danaher in 2026 citing growing evidence that biotech capex spending is bottoming and should accelerate through H2 2026 and into 2027 — biotech lab spending directly drives demand for Danaher's Analytical Instruments and Diagnostics businesses. At the TD Cowen 46th Annual Health Care Conference, Danaher projected 3%-6% revenue growth for 2026 driven by bioprocessing strength. Masimo acquisition closed, adding a strategic diagnostics asset with some shareholder scrutiny. The 25% dividend increase to $0.40 signals management confidence in the long-term earnings trajectory. Life sciences tools end market remains robust — Danaher is presenting at AACR 2026 (April 17-22, San Diego) and Analytica 2026 (Munich)."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull case (72): Biotech capex recovery accelerates in H2 2026, Danaher Analytical Instruments grows 10%+ as pharma and biotech customers return to instrument purchasing. Masimo integration delivers synergies ahead of schedule. Diagnostics benefits from post-COVID normalisation in routine testing volumes and Cepheid hospital placement expansion. Management reaffirms mid-teens EPS growth, stock re-rates to 42-45x P/E toward $250-260. Base case (52): Steady 5-8% revenue growth as bioprocessing offsets China pricing pressure and currency headwinds. EPS of $5.50-$6.00 with DBS-driven productivity gains. Stock drifts to $215-235 at 38-40x P/E as the market waits for evidence of the recovery. Bear case (30): Biotech customers cut capex further as funding environment remains tight. China pricing pressure and currency impacts accelerate. Cepheid/Fortuna diagnostics competition from Roche/Abbott intensifies. P/E de-rates to 28-30x, stock falls to $130-145. Weighted: 52 — Bull 72 x 30% + Base 52 x 50% + Bear 30 x 20%."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Biotech spending cycle: Danaher's instruments business is directly exposed to biotech R&D spending. A prolonged funding winter would delay instrument purchases and compress Analytical Instruments growth. China pricing and currency: China represents a meaningful end market for Life Sciences. Pricing pressure in China combined with currency headwinds represent an ongoing margin risk. Roche/Abbott competition: In diagnostics, Roche and Abbott are formidable competitors with broader menu and deeper hospital relationships. Cepheid's molecular dominance faces ongoing pressure. Tariff and trade risk: High-value scientific instruments are subject to tariff escalation. Masimo acquisition integration: The Masimo deal has received some shareholder scrutiny. Integration execution and synergy realisation represent a known risk in large bolt-on acquisitions."
+      "text": ""
     },
-    "whoShouldOwnOrAvoid": {
-      "text": "Owners: Long-term quality investors who understand the DBS framework and want exposure to best-in-class life sciences tools. Biotech recovery bulls who want a leveraged way to play the capex cycle without single-stock risk in a biotech developer. Avoiders: Value investors expecting a margin of safety will find the 39x P/E uncomfortable, particularly with suppressed earnings. Growth-at-any-price investors should look at pure-play tools peers with stronger near-term earnings visibility. Anyone unwilling to wait for the Q1 2026 earnings signal on April 21."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "OPPORTUNISTIC BUY. Danaher is an exceptional business operating in attractive end markets with genuine pricing power, a world-class management culture, and DBS-driven execution that has consistently compounded shareholder value. The valuation (39x P/E) reflects a market that is waiting for evidence of the biotech capex recovery rather than pricing it in. That uncertainty is the opportunity. Entry framework: BUY below $200 (implies sub-33x P/E on base-case EPS — historical average for Danaher in growth phases). Trim above $260 (implies 42x+ P/E pricing in full recovery with limited upside to bull case). Q1 2026 earnings on April 21 are the near-term catalyst — watch for revenue growth guidance and bioprocessing demand signals."
+      "text": ""
+    },
+    "entry": {
+      "text": ""
+    },
+    "sources": {
+      "text": ""
     }
+  },
+  "scores": {
+    "current": {
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
+    },
+    "history": [
+      {
+        "date": "2026-04-16",
+        "conviction": 52
+      }
+    ]
   }
 }

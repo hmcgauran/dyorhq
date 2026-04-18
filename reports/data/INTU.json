@@ -1,141 +1,107 @@
 {
   "meta": {
     "ticker": "INTU",
-    "company": "Intuit Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 66,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "INTU - Intuit Inc",
+    "exchange": "#N/A",
+    "isin": "US4612021034",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.384Z",
     "universes": [
+      "fortune100",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "current": 350.94,
-    "marketCap": 97700000000.0,
-    "marketCapFormatted": "$97.70B",
-    "trailingPE": 22.83,
-    "trailingEps": 15.37,
-    "fiftyTwoWeekHigh": 813.7,
-    "fiftyTwoWeekLow": 342.11,
-    "formatted": ""
+    "current": 393.25,
+    "currency": "USD",
+    "marketCap": "108753287500",
+    "pe": 25.52,
+    "eps": 15.41,
+    "week52High": 813.7,
+    "week52Low": 342.11,
+    "beta": 1.21,
+    "avgVolume": "3540076",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "AI innovation",
+      "tax season boost",
+      "analyst upgrades"
+    ],
+    "summary": "Intuit Inc. (INTU) shows a positive sentiment driven by strong recent earnings, enthusiasm around AI-driven product innovations, and favorable analyst upgrades. Price momentum remains bullish with potential catalysts from the upcoming tax season.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "Intuit benefits from the forced annual tax season engagement of 7+ million US TurboTax users and a growing ecosystem in small business software (QuickBooks, Mailchimp), but the 43x P/E demands flawless execution on the AI-assisted accounting vision. HOLD is the weighted recommendation with a conviction score of 66."
-    },
-    "businessModel": {
       "text": "Intuit Inc (INTU) operates in the Technology sector and is listed on NASDAQ. The business generates revenue through its core operations in technology."
     },
+    "businessModel": {
+      "text": ""
+    },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$350.94"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$97.7 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "22.83x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$15.37"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$813.70"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$342.11"
-        }
-      ]
+      "price": 393.25,
+      "pe": 25.52,
+      "eps": 15.41,
+      "marketCap": "108753287500",
+      "week52High": 813.7,
+      "week52Low": 342.11,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Intuit Inc has been navigating the current market environment with its core technology franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (80): TurboTax Live adoption accelerates as AI-assisted tax preparation becomes mainstream. QuickBooks Online subscribers grow at 20%+ with AI bookkeeping features. Mailchimp monetisation improves. Credit Karma profitable. EPS grows to $19+. Price: $420+. Base Case (67): TurboTax franchise steady with Live growing share. QuickBooks sustains mid-teens subscriber growth. Mailchimp synergies materialise gradually. Credit Karma remains a modest drag. EPS: $16-17.50. Price: $360-410. Bear Case (48): TurboTax faces regulatory threat from IRS Direct File (free government tax preparation). QuickBooks faces intensified competition from Xero and freshbooks. Mailchimp monetisation disappoints. EPS falls to $13-14. Price: below $310. Weighted Score: 67 - Bull 80 × 30% + Base 67 × 50% + Bear 48 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "IRS Direct File threat: The IRS launched a free direct file programme in 2024. Expanded access could structurally impair TurboTax's paid subscriber base and force pricing concessions. QuickBooks competitive intensity: Xero, FreshBooks and Wave compete aggressively in SMB accounting. Microsoft Dynamics also targets the upper end of the market. AI execution risk: Intuit's AI strategy (Assistants, Intuit AI) requires flawless implementation. Errors in AI tax preparation carry regulatory and reputational consequences. Mailchimp integration and monetisation: Mailchimp has been slower to monetise than expected. Email marketing platforms face their own competitive dynamics. Credit Karma valuation risk: Credit Karma is loss-making and sensitive to the interest rate and consumer credit quality environment.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "IRS Direct File threat: The IRS launched a free direct file programme in 2024. Expanded access could structurally impair TurboTax's paid subscriber base and force pricing concessions."
-        },
-        {
-          "rank": 2,
-          "risk": "QuickBooks competitive intensity: Xero, FreshBooks and Wave compete aggressively in SMB accounting. Microsoft Dynamics also targets the upper end of the market."
-        },
-        {
-          "rank": 3,
-          "risk": "AI execution risk: Intuit's AI strategy (Assistants, Intuit AI) requires flawless implementation. Errors in AI tax preparation carry regulatory and reputational consequences."
-        },
-        {
-          "rank": 4,
-          "risk": "Mailchimp integration and monetisation: Mailchimp has been slower to monetise than expected. Email marketing platforms face their own competitive dynamics."
-        },
-        {
-          "rank": 5,
-          "risk": "Credit Karma valuation risk: Credit Karma is loss-making and sensitive to the interest rate and consumer credit quality environment."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Long-term investors seeking a compounding software business with a powerful annual subscription engagement model and AI transformation optionality."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. BUY below $310 (implies 34x base-case EPS - reasonable for a high-quality SaaS compounding business with AI optionality). Reduce above $400 (implies 44x+ P/E with limited upside to fair value on base case)."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $310 (implies 34x base-case EPS - reasonable for a high-quality SaaS compounding business with AI optionality). | Reduce above $400 (implies 44x+ P/E with limited upside to fair value on base case)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 66,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 66,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 66
       }
     ]
   }

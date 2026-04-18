@@ -1,0 +1,13 @@
+{
+  "score": 76,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "cybersecurity demand",
+    "stock momentum",
+    "AI integration",
+    "analyst upgrades"
+  ],
+  "summary": "Palo Alto Networks (PANW) exhibits a positive sentiment driven by strong quarterly earnings, growing demand for cybersecurity solutions, and upward price momentum. Recent analyst upgrades and the company's focus on AI-driven security platforms further bolster optimism, with potential near-term catalysts including upcoming product launches and industry conferences.",
+  "raw": "{\n  \"score\": 75,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"cybersecurity demand\", \"stock momentum\", \"AI integration\", \"analyst upgrades\"],\n  \"summary\": \"Palo Alto Networks (PANW) exhibits a positive sentiment driven by strong quarterly earnings, growing demand for cybersecurity solutions, and upward price momentum. Recent analyst upgrades and the company's focus on AI-driven security platforms further bolster optimism, with potential near-term catalysts including upcoming product launches and industry conferences.\"\n}"
+}

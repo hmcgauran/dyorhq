@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong quarterly results",
+    "growing asthma diagnostics demand",
+    "strategic partnerships",
+    "stock price recovery",
+    "potential regulatory approvals"
+  ],
+  "summary": "NIOX Group PLC shows a positive sentiment with a score of 45, driven by strong recent quarterly results and growing demand for asthma diagnostics. Analyst tone remains cautiously optimistic, with price momentum showing recovery and potential catalysts like regulatory approvals on the horizon.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong quarterly results\", \"growing asthma diagnostics demand\", \"strategic partnerships\", \"stock price recovery\", \"potential regulatory approvals\"],\n  \"summary\": \"NIOX Group PLC shows a positive sentiment with a score of 45, driven by strong recent quarterly results and growing demand for asthma diagnostics. Analyst tone remains cautiously optimistic, with price momentum showing recovery and potential catalysts like regulatory approvals on the horizon.\"\n}"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 56,
+  "signal": "neutral",
+  "key_themes": [
+    "stable performance",
+    "insurance sector trends",
+    "limited news flow",
+    "modest price growth",
+    "no major catalysts"
+  ],
+  "summary": "Helios Underwriting PLC (HUW) shows a neutral sentiment with a slight positive tilt due to modest price momentum and stable performance in the insurance sector. However, limited recent news and lack of significant near-term catalysts keep the outlook cautious.",
+  "raw": "{\n  \"score\": 15,\n  \"signal\": \"neutral\",\n  \"key_themes\": [\"stable performance\", \"insurance sector trends\", \"limited news flow\", \"modest price growth\", \"no major catalysts\"],\n  \"summary\": \"Helios Underwriting PLC (HUW) shows a neutral sentiment with a slight positive tilt due to modest price momentum and stable performance in the insurance sector. However, limited recent news and lack of significant near-term catalysts keep the outlook cautious.\"\n}"
+}

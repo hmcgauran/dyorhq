@@ -1,108 +1,107 @@
 {
   "meta": {
     "ticker": "CRH",
-    "company": "CRH plc",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
+    "company": "CRH - CRH plc",
+    "exchange": "#N/A",
+    "isin": "IE0001827041",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
     "recommendation": "BUY",
-    "recommendationNote": "BUY",
-    "conviction": 82,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.381Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 117.05,
+    "currency": "USD",
+    "marketCap": "78212940794",
+    "pe": 21.11,
+    "eps": 5.54,
+    "week52High": 131.55,
+    "week52Low": 81.6,
+    "beta": 1.3,
+    "avgVolume": "5585480",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "infrastructure demand",
+      "analyst upgrades",
+      "acquisition strategy",
+      "macroeconomic tailwinds"
+    ],
+    "summary": "CRH plc exhibits a positive sentiment driven by strong recent earnings, favorable analyst upgrades, and robust price momentum amid growing infrastructure demand. Potential near-term catalysts include further acquisitions and sustained government spending on construction projects.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 36,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 8,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
-      "text": "CRH plc is a high-quality global building materials champion with exceptional cash flow generation, a disciplined capital allocation record, and a rock-solid balance sheet, trading at a material discount to US-listed peers despite superior returns -- BUY . BUY Conviction Score: 82/100 - BUY"
+      "text": "CRH plc is a high-quality global building materials champion with exceptional cash flow generation, a disciplined capital allocation record, and a rock-solid balance sheet, trading at a material discount to US-listed peers despite superior returns -- BUY . BUY Conviction Score:..."
     },
     "businessModel": {
-      "text": "CRH plc is one of the world's largest building materials businesses, operating across three segments: Americas Materials (aggregates, cement, ready-mix concrete, asphalt), Europe Materials (similar product set across Western Europe), and Building Products (precast concrete, masonry, fencing, architectural stone). CRH is the dominant building materials operator in North America and has strong positions in Western Europe. The business is characterised by strong pricing power in cement and aggregates (regional oligopolies, high transport costs relative to value), essential nature of products (no substitutes at scale for infrastructure and housing), and operational leverage from its asset-intensive model. CRH's financial strength reflects its high return on invested capital and conservative leverage."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Current Price $117.89 NYSE Market Cap $38.0B Est. via price x shares Trailing P/E 18.80x 12-month earnings EPS (TTM) $6.27 Trailing twelve months 52-Week High $131.55 -10.4% from high 52-Week Low $81.60 +44.5% from low",
-      "table": []
+      "price": 117.05,
+      "pe": 21.11,
+      "eps": 5.54,
+      "marketCap": "78212940794",
+      "week52High": 131.55,
+      "week52Low": 81.6,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "US infrastructure spending under the bipartisan Infrastructure Investment and Jobs Act (IIJA) is accelerating demand for cement, aggregates and asphalt across CRH's North American footprint. US infrastructure project backlogs are at multi-decade highs. CRH's ongoing Americas Materials acquisitions are expanding its aggregates reserves and building its solutions capability. Housing starts in the US remain supportive, providing a floor for cement and building products demand. Recent quarterly results showed strong revenue growth driven by pricing across all segments, with EBITDA margins expanding. CRH continues to generate robust free cash flow, funding buybacks, dividends and bolt-on M&A."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case 92 Target: $145.00 | EPS: $8.50 Infrastructure spending peaks as IIJA-funded projects reach execution phase. CRH wins material asphalt and cement contracts in infrastructure. Acquisition programme delivers synergies above expectations. EPS reaches $8.50+. Base Case 82 Target: $128.00 | EPS: $7.20 Stabl Reports / CRH CRH CRH plc BUY 11 April 2026 $$117.89 82 Conviction out of 100 >",
-      "bull": {
-        "scenario": "Infrastructure spending peaks as IIJA-funded projects reach execution phase. CRH wins material asphalt and cement contracts in infrastructure. Acquisition programme delivers synergies above expectations. EPS reaches $8.50+.",
-        "probability": null
-      },
-      "base": {
-        "scenario": "Stabl Reports / CRH",
-        "probability": null
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "#1 Construction cycle risk: CRH's earnings are fundamentally tied to construction activity. A prolonged slowdown in US or European construction would impair demand across all segments. #2 Energy and input cost inflation: Cement production is extremely energy-intensive. Natural gas, electricity and petcoke cost increases are a significant headwind that requires full pricing offset. #3 Environmental regulation of cement: Cement production is a major source of CO2 emissions. tightening emissions regulations globally could require substantial capital expenditure on carbon capture and alternative fuels. #4 Acquisition integration risk: CRH has a strong M&A track record, but each acquisition carries integration risk. A large bolt-on that fails to meet return hurdles would impair returns. #5 Currency risk: CRH reports in USD but earns significant revenues in EUR, GBP and other currencies. Translation effects can create reported earnings volatility.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "#1 Construction cycle risk: CRH's earnings are fundamentally tied to construction activity. A prolonged slowdown in US or European construction would impair demand across all segments."
-        },
-        {
-          "rank": 2,
-          "risk": "#2 Energy and input cost inflation: Cement production is extremely energy-intensive. Natural gas, electricity and petcoke cost increases are a significant headwind that requires full pricing offset."
-        },
-        {
-          "rank": 3,
-          "risk": "#3 Environmental regulation of cement: Cement production is a major source of CO2 emissions. tightening emissions regulations globally could require substantial capital expenditure on carbon capture and alternative fuels."
-        },
-        {
-          "rank": 4,
-          "risk": "#4 Acquisition integration risk: CRH has a strong M&A track record, but each acquisition carries integration risk. A large bolt-on that fails to meet return hurdles would impair returns."
-        },
-        {
-          "rank": 5,
-          "risk": "#5 Currency risk: CRH reports in USD but earns significant revenues in EUR, GBP and other currencies. Translation effects can create reported earnings volatility."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Infrastructure and building materials investors seeking a high-quality compounders with strong capital returns. The Ireland domicile provides a familiar and straightforward regulatory environment. Avoid: Macro-sensitive investors who believe US construction will slow materially in 2026. Investors who require growth and find the building materials sector insufficiently exciting."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "BUY Score: 82/100 CRH is one of the best-run building materials businesses in the world, with a disciplined capital allocation approach, strong cash generation and clear competitive moats in aggregates and cement. The valuation is attractive relative to US-listed peers. BUY. Entry Framework: BUY below $98 (sub-$100 provides meaningful margin of safety). HOLD in the $98-$135 range. REDUCE above $135 (infrastructure premium is largely priced in). BUY below $123.25 HOLD $108.80-$123.25 REDUCE above $123.25"
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $123.25 | HOLD $108.80-$123.25 | REDUCE above $123.25"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 82,
+      "score": 73,
       "band": "BUY",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 82,
-        "band": "BUY",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 82
       }
     ]
   }

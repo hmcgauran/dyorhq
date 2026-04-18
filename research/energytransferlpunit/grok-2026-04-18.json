@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "dividend stability",
+    "pipeline expansion",
+    "energy demand growth",
+    "market volatility"
+  ],
+  "summary": "Energy Transfer LP (ET) shows a positive sentiment with a score of 45, driven by stable dividend payouts and optimism around pipeline projects amid growing energy demand. However, market volatility and broader energy sector concerns temper overly bullish outlooks.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"dividend stability\", \"pipeline expansion\", \"energy demand growth\", \"market volatility\"],\n  \"summary\": \"Energy Transfer LP (ET) shows a positive sentiment with a score of 45, driven by stable dividend payouts and optimism around pipeline projects amid growing energy demand. However, market volatility and broader energy sector concerns temper overly bullish outlooks.\"\n}"
+}

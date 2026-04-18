@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "analyst optimism",
+    "price uptrend",
+    "consumer health demand",
+    "potential acquisitions"
+  ],
+  "summary": "Glanbia plc (GL9) exhibits a positive sentiment with a score of 45, driven by strong recent earnings reports and upbeat analyst commentary highlighting growth in consumer health products. Price momentum remains favorable with a steady uptrend over the past quarter, supported by potential acquisition rumors as a near-term catalyst.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"analyst optimism\", \"price uptrend\", \"consumer health demand\", \"potential acquisitions\"],\n  \"summary\": \"Glanbia plc (GL9) exhibits a positive sentiment with a score of 45, driven by strong recent earnings reports and upbeat analyst commentary highlighting growth in consumer health products. Price momentum remains favorable with a steady uptrend over the past quarter, supported by potential acquisition rumors as a near-term catalyst.\"\n}"
+}

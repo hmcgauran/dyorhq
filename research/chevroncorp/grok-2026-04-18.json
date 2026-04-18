@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "energy sector strength",
+    "oil price recovery",
+    "dividend reliability",
+    "sustainability initiatives",
+    "geopolitical risks"
+  ],
+  "summary": "Chevron Corp (CVX) shows a positive sentiment driven by recovering oil prices and strong energy sector demand, bolstered by a reliable dividend appealing to income-focused investors. However, geopolitical tensions and mixed analyst views on long-term sustainability efforts temper overly bullish outlooks.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"energy sector strength\", \"oil price recovery\", \"dividend reliability\", \"sustainability initiatives\", \"geopolitical risks\"],\n  \"summary\": \"Chevron Corp (CVX) shows a positive sentiment driven by recovering oil prices and strong energy sector demand, bolstered by a reliable dividend appealing to income-focused investors. However, geopolitical tensions and mixed analyst views on long-term sustainability efforts temper overly bullish outlooks.\"\n}"
+}

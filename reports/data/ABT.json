@@ -1,141 +1,108 @@
 {
   "meta": {
     "ticker": "ABT",
-    "company": "Abbott Laboratories",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
+    "company": "ABT - Abbott Laboratories",
+    "exchange": "#N/A",
+    "isin": "US0028241000",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
     "conviction": 72,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "lastRefreshed": "2026-04-18T15:09:10.375Z",
     "universes": [
+      "fortune100",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "current": 100.3,
-    "marketCap": 174300000000.0,
-    "marketCapFormatted": "$174.30B",
-    "trailingPE": 26.87,
-    "trailingEps": 3.73,
-    "fiftyTwoWeekHigh": 139.06,
-    "fiftyTwoWeekLow": 99.34,
-    "formatted": ""
+    "current": 96.81,
+    "currency": "USD",
+    "marketCap": "168224215697",
+    "pe": 26.96,
+    "eps": 3.59,
+    "week52High": 139.06,
+    "week52Low": 93.92,
+    "beta": 0.79,
+    "avgVolume": "12553905",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings growth",
+      "medical device innovation",
+      "analyst upgrades",
+      "dividend reliability",
+      "global healthcare demand"
+    ],
+    "summary": "Abbott Laboratories (ABT) shows a positive sentiment driven by strong recent earnings, particularly in medical devices and diagnostics, alongside analyst upgrades citing robust growth potential. Price momentum remains bullish with steady upward trends, and near-term catalysts include potential product launches and sustained global demand for healthcare solutions.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "Abbott's diversified healthcare franchise - spanning diagnostics, medical devices, nutrition and established pharmaceuticals - is well-positioned to deliver mid-to-high single-digit EPS growth, but the shares are fully valued at the top of their 52-week range - HOLD is the weighted recommendation."
+      "text": "Abbott operates across four principal divisions. Medical Devices covers cardiovascular stents, rhythm management, neuromodulation and Alinity diagnostics platforms. Diagnostics - a legacy COVID-19 strength - includes point-of-care and laboratory-based testing. Nutrition (Similac, Ensure, Pedialyte) serves maternal, infant and adult nutritional needs globally. Established Pharmaceuticals sells generic branded medicines in emerging markets."
     },
     "businessModel": {
-      "text": "Abbott operates across four principal divisions. Medical Devices covers cardiovascular stents, rhythm management, neuromodulation and Alinity diagnostics platforms. Diagnostics - a legacy COVID-19 strength - includes point-of-care and laboratory-based testing. Nutrition (Similac, Ensure, Pedialyte) serves maternal, infant and adult nutritional needs globally. Established Pharmaceuticals sells generic branded medicines in emerging markets. The diversity of revenue streams is Abbott's structural advantage: no single product or therapy represents an existential dependency. The FreeStyle Libre continuous glucose monitor is the primary growth accelerant within Medical Devices, having displaced traditional fingerstick monitoring in type 2 diabetes management across major markets. Abbott's emerging-market exposure (Established Pharmaceuticals and Nutrition) provides long-term demographic tailwinds, though near-term currency and macroeconomic volatility are headwinds."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$100.30"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$174.3 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "26.87x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$3.73"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$139.06"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$99.34"
-        }
-      ]
+      "price": 96.81,
+      "pe": 26.96,
+      "eps": 3.59,
+      "marketCap": "168224215697",
+      "week52High": 139.06,
+      "week52Low": 93.92,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Abbott has continued to expand Libre's indication set, most recently securing additional type 1 diabetes approvals in key European markets and advancing its bidirectional glucose-insulin integration device programme. The AVEIR dual-chamber leadless pacemaker has gained regulatory approvals and is ramping commercially. In nutrition, US market share stabilised following supply disruptions in 2022-2023. The company's 2025 full-year guidance pointed to high-single-digit EPS growth, supported by margin expansion in Medical Devices."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (80): Libre adoption accelerates in type 2 diabetes globally, with international markets representing a multi-year growth runway. AVEIR gains meaningful share in the leadless pacemaker market. Nutrition margins recover fully and emerging market currencies stabilise. EPS grows to $4.20+. Price: $125+. Base Case (72): Medical Devices delivers high-single-digit organic growth, with Libre international expansion offsetting slower US volume growth. Diagnostics normalises post-COVID. Nutrition stabilises. EPS reaches $3.95-$4.10. Price: $108-$122. Bear Case (55): Economic pressures reduce elective procedure volumes, impacting cardiovascular device implants. Libre faces competitive entry from Dexcom. Emerging market currency weakness persists. EPS falls to $3.40-$3.50. Price: below $95. Weighted Score: 72 - Bull 80 × 30% + Base 72 × 50% + Bear 55 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "FreeStyle Libre competitive intensity: Dexcom's G7 and next-generation platforms are competitive. Pricing pressure or market share loss in Abbott's most important growth product would be material. Elective procedure volumes: Cardiovascular implant procedures are sensitive to healthcare system capacity, reimbursement rates and patient co-pays. A recession-driven reduction in non-urgent procedures would hit device revenues. Currency and emerging market risk: Approximately 40% of revenues are international. Emerging market currency depreciation, economic instability or geopolitical disruption (Latin America, Africa, Asia) could suppress reported growth. COVID-19 test revenue normalisation: Although largely normalized, residual rapid-test inventory builds in prior years created tough comps; the base effect can produce misleading near-term reported growth figures. Supply chain and manufacturing concentration: Abbott's manufacturing footprint is concentrated in the US, Ireland and certain emerging market facilities; disruption at key sites could affect multiple product lines simultaneously.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "FreeStyle Libre competitive intensity: Dexcom's G7 and next-generation platforms are competitive. Pricing pressure or market share loss in Abbott's most important growth product would be material."
-        },
-        {
-          "rank": 2,
-          "risk": "Elective procedure volumes: Cardiovascular implant procedures are sensitive to healthcare system capacity, reimbursement rates and patient co-pays. A recession-driven reduction in non-urgent procedures would hit device revenues."
-        },
-        {
-          "rank": 3,
-          "risk": "Currency and emerging market risk: Approximately 40% of revenues are international. Emerging market currency depreciation, economic instability or geopolitical disruption (Latin America, Africa, Asia) could suppress reported growth."
-        },
-        {
-          "rank": 4,
-          "risk": "COVID-19 test revenue normalisation: Although largely normalized, residual rapid-test inventory builds in prior years created tough comps; the base effect can produce misleading near-term reported growth figures."
-        },
-        {
-          "rank": 5,
-          "risk": "Supply chain and manufacturing concentration: Abbott's manufacturing footprint is concentrated in the US, Ireland and certain emerging market facilities; disruption at key sites could affect multiple product lines simultaneously."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Long-term healthcare investors seeking a diversified medical device franchise with a clear growth catalyst (Libre international expansion). Quality-conscious investors who want exposure to diabetes device without single-product company risk."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. Abbott is a high-quality, genuinely diversified healthcare company with a durable competitive position in diabetes monitoring. At $100 and 27x P/E, the valuation is fair but not compelling. The growth story is real but incremental - investors should be patient and await better entry points on market weakness. Entry framework: BUY below $92 (implies 25x P/E on base-case EPS - meaningful margin of safety). Reduce on rallies above $118 (implies 32x P/E with limited upside to bull case). Position size accordingly; this is a long-term core holding rather than a tactical trade."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $92 (implies 25x P/E on base-case EPS - meaningful margin of safety). Reduce on rallies above $118 (implies 32x P/E with limited upside to bull case). Position size accordingly; this is a long-term core holding rather than a tactical trade. | Entry framework: BUY below $92 (implies 25x P/E on base-case EPS - meaningful margin of safety). | Reduce on rallies above $118 (implies 32x P/E with limited upside to bull case)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
       "score": 72,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 72,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 72
       }
     ]
   }

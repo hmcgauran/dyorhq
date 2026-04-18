@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "product pipeline",
+    "partnerships",
+    "revenue growth",
+    "market expansion"
+  ],
+  "summary": "Cosmo Pharmaceuticals NV (C43) shows a positive sentiment driven by promising developments in its product pipeline and strategic partnerships, alongside steady price momentum. Recent analyst tone remains cautiously optimistic, with potential near-term catalysts including updates on clinical trials or regulatory approvals.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"product pipeline\", \"partnerships\", \"revenue growth\", \"market expansion\"],\n  \"summary\": \"Cosmo Pharmaceuticals NV (C43) shows a positive sentiment driven by promising developments in its product pipeline and strategic partnerships, alongside steady price momentum. Recent analyst tone remains cautiously optimistic, with potential near-term catalysts including updates on clinical trials or regulatory approvals.\"\n}"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "poor on-field performance",
+    "financial underperformance",
+    "ownership uncertainty",
+    "stock price decline",
+    "fan discontent"
+  ],
+  "summary": "Manchester United PLC (MANU) is facing negative sentiment due to disappointing on-field results, financial struggles, and ongoing uncertainty around ownership changes. Recent news and analyst tone reflect concerns over the club's competitive outlook and stock price momentum remains weak with no significant near-term catalysts to drive optimism.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"poor on-field performance\", \"financial underperformance\", \"ownership uncertainty\", \"stock price decline\", \"fan discontent\"],\n  \"summary\": \"Manchester United PLC (MANU) is facing negative sentiment due to disappointing on-field results, financial struggles, and ongoing uncertainty around ownership changes. Recent news and analyst tone reflect concerns over the club's competitive outlook and stock price momentum remains weak with no significant near-term catalysts to drive optimism.\"\n}"
+}

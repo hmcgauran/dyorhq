@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "automotive testing growth",
+    "market expansion",
+    "stock price uptrend",
+    "innovation focus"
+  ],
+  "summary": "AB Dynamics PLC (ABDP) exhibits a positive sentiment with a score of 45, driven by recent strong earnings reports and growing demand for automotive testing solutions. Analyst tone remains optimistic, supported by consistent price momentum and potential near-term catalysts like new product launches or market expansions.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"automotive testing growth\", \"market expansion\", \"stock price uptrend\", \"innovation focus\"],\n  \"summary\": \"AB Dynamics PLC (ABDP) exhibits a positive sentiment with a score of 45, driven by recent strong earnings reports and growing demand for automotive testing solutions. Analyst tone remains optimistic, supported by consistent price momentum and potential near-term catalysts like new product launches or market expansions.\"\n}"
+}

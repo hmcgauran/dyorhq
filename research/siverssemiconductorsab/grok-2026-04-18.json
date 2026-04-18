@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "5G growth",
+    "semiconductor demand",
+    "strategic partnerships",
+    "market expansion"
+  ],
+  "summary": "Sivers Semiconductors AB (SIVE.ST) shows a positive sentiment driven by strong demand for 5G and semiconductor solutions, with recent news highlighting strategic partnerships and market expansion. Analyst tone remains cautiously optimistic, supported by moderate upward price momentum and potential near-term catalysts like new contract announcements.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"5G growth\", \"semiconductor demand\", \"strategic partnerships\", \"market expansion\"],\n  \"summary\": \"Sivers Semiconductors AB (SIVE.ST) shows a positive sentiment driven by strong demand for 5G and semiconductor solutions, with recent news highlighting strategic partnerships and market expansion. Analyst tone remains cautiously optimistic, supported by moderate upward price momentum and potential near-term catalysts like new contract announcements.\"\n}"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 73,
+  "signal": "positive",
+  "key_themes": [
+    "theme park recovery",
+    "streaming growth",
+    "content pipeline",
+    "economic reopening",
+    "analyst optimism"
+  ],
+  "summary": "Sentiment for Walt Disney Co (DIS) is positive, driven by strong theme park recovery, growth in Disney+ streaming subscribers, and optimism around upcoming content releases. Recent analyst upgrades and robust price momentum further support a bullish outlook, with potential near-term catalysts including holiday season performance and new film releases.",
+  "raw": "{\n  \"score\": 65,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"theme park recovery\", \"streaming growth\", \"content pipeline\", \"economic reopening\", \"analyst optimism\"],\n  \"summary\": \"Sentiment for Walt Disney Co (DIS) is positive, driven by strong theme park recovery, growth in Disney+ streaming subscribers, and optimism around upcoming content releases. Recent analyst upgrades and robust price momentum further support a bullish outlook, with potential near-term catalysts including holiday season performance and new film releases.\"\n}"
+}

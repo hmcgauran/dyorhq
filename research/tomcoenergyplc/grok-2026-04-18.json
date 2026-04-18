@@ -1,0 +1,13 @@
+{
+  "score": 34,
+  "signal": "negative",
+  "key_themes": [
+    "financial struggles",
+    "operational delays",
+    "market uncertainty",
+    "low investor confidence",
+    "potential restructuring"
+  ],
+  "summary": "TomCo Energy Plc (TOM) is facing a bearish sentiment due to recent financial difficulties and operational setbacks, compounded by a lack of positive near-term catalysts. Analyst tone remains cautious, with declining price momentum reflecting low investor confidence.",
+  "raw": "{\n  \"score\": -40,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"financial struggles\", \"operational delays\", \"market uncertainty\", \"low investor confidence\", \"potential restructuring\"],\n  \"summary\": \"TomCo Energy Plc (TOM) is facing a bearish sentiment due to recent financial difficulties and operational setbacks, compounded by a lack of positive near-term catalysts. Analyst tone remains cautious, with declining price momentum reflecting low investor confidence.\"\n}"
+}

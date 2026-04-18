@@ -1,139 +1,108 @@
 {
   "meta": {
     "ticker": "FDX",
-    "company": "FedEx Corporation",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 58,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "FDX - FedEx Corporation",
+    "exchange": "#N/A",
+    "isin": "US31428X1063",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.382Z",
     "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 374.08,
-    "marketCap": 89300000000.0,
-    "marketCapFormatted": "$89.30B",
-    "trailingPE": 19.96,
-    "trailingEps": 18.74,
-    "fiftyTwoWeekHigh": 392.86,
-    "fiftyTwoWeekLow": 199.85,
-    "formatted": ""
+    "current": 392.38,
+    "currency": "USD",
+    "marketCap": "93624498111",
+    "pe": 20.9,
+    "eps": 18.77,
+    "week52High": 392.86,
+    "week52Low": 201.1,
+    "beta": 1.28,
+    "avgVolume": "1951420",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "e-commerce growth",
+      "operational efficiency",
+      "macroeconomic uncertainty"
+    ],
+    "summary": "FedEx (FDX) shows a positive sentiment driven by strong recent earnings, continued e-commerce demand, and improved operational efficiency. However, macroeconomic headwinds and potential softening in global trade pose near-term risks.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 34,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 11,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "FedEx's DRIVE transformation is delivering tangible cost savings and margin expansion, but the stock trades near fair value with limited upside without evidence of sustained revenue growth. HOLD is the weighted recommendation with a conviction score of 58."
-    },
-    "businessModel": {
       "text": "FedEx Corporation (FDX) operates in the Industrials sector and is listed on NYSE. The business generates revenue through its core operations in industrials."
     },
+    "businessModel": {
+      "text": ""
+    },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$374.08"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$89.3 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "19.96x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$18.74"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$392.86"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$199.85"
-        }
-      ]
+      "price": 392.38,
+      "pe": 20.9,
+      "eps": 18.77,
+      "marketCap": "93624498111",
+      "week52High": 392.86,
+      "week52Low": 201.1,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "FedEx Corporation has been navigating the current market environment with its core industrials franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (72): DRIVE programme delivers $4bn+ in structural cost savings by FY2026. Express volume recovery and Ground margin stabilisation drive EPS above $23. Free cash flow reconvergence supports multiple re-rating. Price: $430+. Base Case (58): DRIVE savings partially offset by persistent Express weakness and macroeconomic headwinds for premium shipping. EPS grows to $20-21 on modest volume recovery. Price: $370-400. Bear Case (40): DRIVE savings disappoint or Express volumes continue declining. Competition from UPS and Amazon Logistics intensifies. Economic slowdown crushes premium freight. EPS falls to $17-18. Price: below $310. Weighted Score: 59 - Bull 72 × 30% + Base 58 × 50% + Bear 40 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Express segment structural decline: Premium express volumes continue migrating to ground and deferred options, threatening the high-margin part of the network. DRIVE execution risk: The $4bn cost transformation programme may face delays, higher-than-expected one-time costs, or fail to achieve targeted savings. Macroeconomic sensitivity: FedEx's premium freight business is correlated with global trade volumes, manufacturing activity and business confidence. Competitive pressure: UPS expansion into deferred freight and Amazon Logistics' continued build-out create structural pricing headwinds across all segments. High capital intensity: Ongoing aircraft fleet modernisation and ground network investment limits free cash flow optionality.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Express segment structural decline: Premium express volumes continue migrating to ground and deferred options, threatening the high-margin part of the network."
-        },
-        {
-          "rank": 2,
-          "risk": "DRIVE execution risk: The $4bn cost transformation programme may face delays, higher-than-expected one-time costs, or fail to achieve targeted savings."
-        },
-        {
-          "rank": 3,
-          "risk": "Macroeconomic sensitivity: FedEx's premium freight business is correlated with global trade volumes, manufacturing activity and business confidence."
-        },
-        {
-          "rank": 4,
-          "risk": "Competitive pressure: UPS expansion into deferred freight and Amazon Logistics' continued build-out create structural pricing headwinds across all segments."
-        },
-        {
-          "rank": 5,
-          "risk": "High capital intensity: Ongoing aircraft fleet modernisation and ground network investment limits free cash flow optionality."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors seeking a turnaround story with visible cost-savings execution and a decent dividend yield (~1.5%). Suitable for a contrarian industrial position."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. BUY below $330 (implies 17x P/E on base-case EPS - reasonable for a restructuring story with cash generation). Reduce on rallies above $395 (implying 20x+ P/E without clear revenue growth catalyst)."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $330 (implies 17x P/E on base-case EPS - reasonable for a restructuring story with cash generation). | Reduce on rallies above $395 (implying 20x+ P/E without clear revenue growth catalyst)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 58,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 58,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 58
       }
     ]
   }

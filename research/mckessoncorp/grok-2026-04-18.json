@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "healthcare demand",
+    "supply chain stability",
+    "dividend growth"
+  ],
+  "summary": "McKesson Corporation (MCK) exhibits a positive sentiment driven by recent strong quarterly earnings and sustained demand for healthcare services. Analyst tone remains optimistic with upward revisions in price targets, supported by steady price momentum and potential near-term catalysts like expanding pharmaceutical distribution contracts.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"healthcare demand\", \"supply chain stability\", \"dividend growth\"],\n  \"summary\": \"McKesson Corporation (MCK) exhibits a positive sentiment driven by recent strong quarterly earnings and sustained demand for healthcare services. Analyst tone remains optimistic with upward revisions in price targets, supported by steady price momentum and potential near-term catalysts like expanding pharmaceutical distribution contracts.\"\n}"
+}

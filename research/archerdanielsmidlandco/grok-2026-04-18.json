@@ -1,0 +1,12 @@
+{
+  "score": 56,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "agriculture demand",
+    "sustainability focus",
+    "price stability"
+  ],
+  "summary": "ADM shows a mildly positive sentiment with recent earnings beating expectations and sustained demand in agriculture driving optimism. Analyst tone remains cautiously bullish, supported by stable price momentum and a focus on sustainability initiatives as a near-term catalyst.",
+  "raw": "{\n  \"score\": 15,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"agriculture demand\", \"sustainability focus\", \"price stability\"],\n  \"summary\": \"ADM shows a mildly positive sentiment with recent earnings beating expectations and sustained demand in agriculture driving optimism. Analyst tone remains cautiously bullish, supported by stable price momentum and a focus on sustainability initiatives as a near-term catalyst.\"\n}"
+}

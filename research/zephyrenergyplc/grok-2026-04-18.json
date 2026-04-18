@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "production growth",
+    "asset development",
+    "market volatility",
+    "energy sector trends"
+  ],
+  "summary": "Zephyr Energy plc (ZPHR.L) shows a positive sentiment driven by recent updates on production increases and successful drilling operations in key assets, though tempered by broader energy market volatility. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends and potential near-term catalysts from upcoming operational updates.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"production growth\", \"asset development\", \"market volatility\", \"energy sector trends\"],\n  \"summary\": \"Zephyr Energy plc (ZPHR.L) shows a positive sentiment driven by recent updates on production increases and successful drilling operations in key assets, though tempered by broader energy market volatility. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends and potential near-term catalysts from upcoming operational updates.\"\n}"
+}

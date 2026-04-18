@@ -1,0 +1,13 @@
+{
+  "score": 73,
+  "signal": "positive",
+  "key_themes": [
+    "industrial gas demand",
+    "sustainability initiatives",
+    "strong earnings",
+    "global expansion",
+    "economic recovery"
+  ],
+  "summary": "Linde plc (LIN) exhibits a positive sentiment driven by strong quarterly earnings, growing demand for industrial gases, and a focus on sustainability initiatives. Recent analyst upgrades and upward price momentum further support a bullish outlook, with potential near-term catalysts including global economic recovery and expansion in emerging markets.",
+  "raw": "{\n  \"score\": 65,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"industrial gas demand\", \"sustainability initiatives\", \"strong earnings\", \"global expansion\", \"economic recovery\"],\n  \"summary\": \"Linde plc (LIN) exhibits a positive sentiment driven by strong quarterly earnings, growing demand for industrial gases, and a focus on sustainability initiatives. Recent analyst upgrades and upward price momentum further support a bullish outlook, with potential near-term catalysts including global economic recovery and expansion in emerging markets.\"\n}"
+}

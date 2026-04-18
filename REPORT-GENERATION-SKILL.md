@@ -9,19 +9,9 @@ Complete reference for generating a DYOR HQ investment report. Fully self-contai
 
 For a given ticker:
 
-1. **Google Sheet quote** — `gws sheets spreadsheets values get` on `1N3lmSP2KI3pVOI3JlnsCn3YKKEWEKGiTILYKvPAJPoM`. Fetch columns: ticker, company, exchange, currency, price, marketCap, P/E, EPS. For US tickers, this is the fallback if FMP fails.
+1. **Google Sheet quote (PRIMARY — always used first)** — `gws sheets spreadsheets values get` on `1N3lmSP2KI3pVOI3JlnsCn3YKKEWEKGiTILYKvPAJPoM`. Fetch columns: ticker, company, exchange, currency, price, marketCap, P/E, EPS. This is the authoritative source for all financial fields. Use this price for all calculations and display. Never substitute FMP or any other source for the primary price field without first checking whether the sheet price is valid and current.
 
-2. **FMP API** (US tickers only) — Call `/stable/` endpoints:
-   - `GET https://financialmodelingprep.com/stable/quote?symbol={TICKER}&apikey={FMP_API_KEY}` → price, marketCap, yearHigh, yearLow
-   - `GET https://financialmodelingprep.com/stable/profile?symbol={TICKER}&apikey={FMP_API_KEY}` → companyName, sector, industry, currency, exchange
-   - `GET https://financialmodelingprep.com/stable/income-statement?symbol={TICKER}&period=quarter&limit=4&apikey={FMP_API_KEY}` → quarterly revenue, grossProfit, epsDiluted
-   - Compute TTM EPS = sum of last 4 quarters' epsDiluted
-   - Compute TTM revenue = sum of last 4 quarters' revenue
-   - Compute grossMargin = TTM_grossProfit / TTM_revenue
-   - Compute PE = price / ttmEpsDiluted
-   - Compute sharesOutstanding = marketCap / price
-   - Persist to `research/{company-slug}/fmp-{YYYY-MM-DD}.json`
-   - Non-US tickers: skip FMP, use sheet data only
+2. **FMP API** (US tickers only, SUPPLEMENTAL to sheet) — Call `/stable/` endpoints. Use FMP to fill in fields that are missing or invalid in the Google Sheet (e.g. sharesOutstanding, beta, sector, industry, revenueTTM, grossMargin). If sheet already has a valid price, marketCap, P/E, or EPS, prefer the sheet value. FMP is a supplement for enrichment only, not a replacement for sheet pricing.
 
 3. **Grok sentiment** — `POST https://api.x.ai/v1/chat/completions` with system prompt:
    ```
@@ -126,7 +116,7 @@ One to three paragraphs. Investment thesis in one sentence. Key risks in one sen
 Revenue breakdown. Who uses the product. How money is made. 2-4 paragraphs.
 
 ### Section 4: Financial Snapshot
-Unordered list. Fields: Price, P/E, Market Cap, EPS (TTM), 52-Week High, 52-Week Low, Revenue (TTM), grossMargin. Use sheet data as primary, FMP as supplement.
+Unordered list. Fields: Price, P/E, Market Cap, EPS (TTM), 52-Week High, 52-Week Low, Revenue (TTM), grossMargin. **Google Sheet data is the primary source for all financial fields.** FMP supplements only where sheet data is missing or invalid. Never present FMP price as if it were the primary reference.
 
 ### Section 5: Recent Catalysts
 驱动 by Grok key themes. List 3-6 specific recent events with dates where known. For AVCT: note AACR conference (17-22 April 2026) and check abstracts directly at AACR website.

@@ -1,0 +1,13 @@
+{
+  "score": 56,
+  "signal": "neutral",
+  "key_themes": [
+    "acquisition strategy",
+    "market uncertainty",
+    "price stability",
+    "limited catalysts",
+    "analyst caution"
+  ],
+  "summary": "AdvancedAdvT Ltd (ADVT) shows a neutral sentiment with a slight positive tilt due to stable price momentum and ongoing acquisition strategies, though tempered by limited near-term catalysts. Analyst tone remains cautious amid broader market uncertainties.",
+  "raw": "{\n  \"score\": 15,\n  \"signal\": \"neutral\",\n  \"key_themes\": [\"acquisition strategy\", \"market uncertainty\", \"price stability\", \"limited catalysts\", \"analyst caution\"],\n  \"summary\": \"AdvancedAdvT Ltd (ADVT) shows a neutral sentiment with a slight positive tilt due to stable price momentum and ongoing acquisition strategies, though tempered by limited near-term catalysts. Analyst tone remains cautious amid broader market uncertainties.\"\n}"
+}

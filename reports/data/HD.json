@@ -1,31 +1,109 @@
 {
-  "ticker": "HD",
-  "company": "Home Depot Inc",
-  "isin": "US4370761029",
-  "exchange": "NYSE",
-  "currency": "USD",
-  "price": 346.55,
-  "marketCap": "$346.5B",
-  "sector": "Consumer Discretionary — Home Improvement Retail",
-  "date": "17 April 2026",
-  "reportDate": "2026-04-17",
-  "recommendation": "SPECULATIVE BUY",
-  "conviction": 48,
-  "convictionHistory": [{"date": "2026-04-17", "conviction": 48}],
-  "priceAtLastReport": 346.55,
-  "marketCapAtLastReport": "$346.5B",
-  "pe": 23.10,
-  "eps": 15.00,
-  "dividendYield": "2.4%",
-  "beta": 1.05,
-  "sharesOut": "998M",
-  "avgVolume": "3.5M",
-  "52wHigh": 395.00,
-  "52wLow": 310.00,
-  "prevClose": 343.20,
+  "meta": {
+    "ticker": "HD",
+    "company": "HD - Home Depot Inc",
+    "exchange": "#N/A",
+    "isin": "US4370761029",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.384Z",
+    "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 349.4,
+    "currency": "USD",
+    "marketCap": "348012002420",
+    "pe": 24.56,
+    "eps": 14.23,
+    "week52High": 426.75,
+    "week52Low": 315.31,
+    "beta": 1.09,
+    "avgVolume": "4001589",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "housing market recovery",
+      "analyst optimism",
+      "consumer spending"
+    ],
+    "summary": "Home Depot (HD) exhibits a positive sentiment driven by strong recent earnings that exceeded expectations and growing optimism around a recovering housing market. Analyst tone remains bullish, supported by steady price momentum and potential near-term catalysts like increased consumer spending on home improvement.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
+  },
   "sections": {
     "executiveSummary": {
-      "text": "Home Depot is the dominant US home improvement retailer with unrivalled scale and a high-quality Pro-customer ecosystem. Q4 2025 results beat on earnings but missed on sales as the US housing market remains stalled — big-ticket categories (kitchens, bathrooms, major renovations) are weak and homeowners are deferring projects waiting for mortgage rate relief. Despite near-term pressure, 39 analysts maintain a Strong Buy / Moderate Buy consensus with an average price target of $414, implying approximately 23% upside from current levels. The strategic pivot toward trade professionals (Pro Xtra, supply house formats) and ongoing dividend growth underpin the bull case. At 23x P/E on ~$15 EPS with a 2.4% dividend yield, the risk-reward is attractive for a cyclically-adjusted entry — SPECULATIVE BUY with conviction tempered by uncertain US housing cycle timing."
+      "text": "Home Depot is the dominant US home improvement retailer with unrivalled scale and a high-quality pro-customer ecosystem. Q4 2025 results beat on earnings but missed on sales in a still-challenged housing market — the big ticket categories (kitchens, bathrooms, major renovations)..."
+    },
+    "businessModel": {
+      "text": ""
+    },
+    "financialSnapshot": {
+      "price": 349.4,
+      "pe": 24.56,
+      "eps": 14.23,
+      "marketCap": "348012002420",
+      "week52High": 426.75,
+      "week52Low": 315.31,
+      "revenueTTM": null,
+      "grossMargin": null
+    },
+    "recentCatalysts": {
+      "text": ""
+    },
+    "thesisEvaluation": {
+      "text": ""
+    },
+    "keyRisks": {
+      "text": ""
+    },
+    "whoShouldOwnIt": {
+      "text": ""
+    },
+    "recommendation": {
+      "text": ""
+    },
+    "entry": {
+      "text": ""
+    },
+    "sources": {
+      "text": ""
     }
+  },
+  "scores": {
+    "current": {
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
+    },
+    "history": [
+      {
+        "date": "2026-04-16",
+        "conviction": 48
+      }
+    ]
   }
 }

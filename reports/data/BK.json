@@ -1,107 +1,111 @@
 {
   "meta": {
     "ticker": "BK",
-    "company": "Bank of New York Mellon Corp",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 72,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "BK - Bank of New York Mellon Corp",
+    "exchange": "#N/A",
+    "isin": "US05587G2030",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.378Z",
     "universes": [
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 135.1,
+    "currency": "USD",
+    "marketCap": "92979458390",
+    "pe": 18.25,
+    "eps": 7.4,
+    "week52High": 137.54,
+    "week52Low": 73.55,
+    "beta": 1.06,
+    "avgVolume": "3702903",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "asset management growth",
+      "interest rate benefits",
+      "market volatility concerns",
+      "dividend reliability"
+    ],
+    "summary": "Bank of New York Mellon Corp (BK) shows a positive sentiment driven by recent strong quarterly earnings, growth in asset management, and benefits from rising interest rates, though tempered by broader market volatility concerns. Analyst tone remains cautiously optimistic, with price momentum showing steady gains and potential catalysts from upcoming economic data releases.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 38,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 8,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
       "text": "The Bank of New York Mellon is a structurally advantaged custodian bank with fee-based revenues that should benefit from rising interest rates and growing assets under custody, but faces margin pressure and subdued equity markets; HOLD at $127.56."
     },
     "businessModel": {
-      "text": "BNY Mellon is one of the world's largest custodian banks and asset managers. Key revenue streams: Investment Services: Custody, fund administration, clearing, and collateral management - generates the bulk of fees from $50trn+ assets under custody. Investment Management: Traditional and alternative asset management across equities, fixed income, and multi-asset strategies. Issuance Services: Corporate trust, depositary receipts, and employee equity plans. Market &amp; Liquidity: Treasury services, forex, and short-term funding activities. The model is heavily fee-based, providing significant earnings stability regardless of interest rate environment, though net interest income (NII) remains a material contributor."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 135.1,
+      "pe": 18.25,
+      "eps": 7.4,
+      "marketCap": "92979458390",
+      "week52High": 137.54,
+      "week52Low": 73.55,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (30% weight) Sustained elevated rate environment accelerates NII growth; equity market recovery drives custody fee increase; AI efficiency savings materialise. EPS reaches $10.50+, price re-rates to 16-17x earnings. Target: $168-178 Base Case (50% weight) Gradual rate normalisation depresses NII modestly; fee income grows mid-single digits; operating expenses contained. EPS stabilises around $9.20. Target: $128-138 Bear Case (20% weight) Rapid rate cuts compress NII significantly; equity outflows reduce AuC; credit deterioration in loan book. EPS falls to $7.50, multiple compresses to 12x. Target: $90 Weighted Conviction Score: 72 - HOLD",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Interest rate sensitivity: NII constitutes ~35% of revenue; rate cuts directly compress margins. The single largest variable for earnings. Equity market dependence: Custody and management fees correlate with AuC levels and market valuations; drawdowns reduce fee income materially. Competitive pressure: Entrants in digital custody, blockchain-based settlement, and fintech fund administration are targeting BNY's traditional business. Operational risk: As a systemically important institution, any operational failure, cyber incident, or regulatory breach carries reputational and financial penalties. Credit risk: Although primarily a custodial bank, its balance sheet carries credit exposure through its lending and liquidity portfolio.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Interest rate sensitivity: NII constitutes ~35% of revenue; rate cuts directly compress margins. The single largest variable for earnings."
-        },
-        {
-          "rank": 2,
-          "risk": "Equity market dependence: Custody and management fees correlate with AuC levels and market valuations; drawdowns reduce fee income materially."
-        },
-        {
-          "rank": 3,
-          "risk": "Competitive pressure: Entrants in digital custody, blockchain-based settlement, and fintech fund administration are targeting BNY's traditional business."
-        },
-        {
-          "rank": 4,
-          "risk": "Operational risk: As a systemically important institution, any operational failure, cyber incident, or regulatory breach carries reputational and financial penalties."
-        },
-        {
-          "rank": 5,
-          "risk": "Credit risk: Although primarily a custodial bank, its balance sheet carries credit exposure through its lending and liquidity portfolio."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own It:\n• Conservative income investors seeking a quality financial with 2.4% yield and capital appreciation optionality.\n• Institutional investors building mega-cap financial exposure with low volatility profile.\n• Those who believe rates will settle higher for longer - direct beneficiary of persistent NII.\n\nAvoid It:\n• Growth-oriented investors - limited upside beyond fee volume normalisation.\n• Those expecting rapid rate cuts - NII compression is a structural headwind.\n• Investors wanting operational leverage - BK is a slow-to-adapt institutional bank."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD Structurally sound custodian with improving fee income but material interest rate sensitivity keeps upside capped near current levels. Entry / Exit Framework Conviction Score 72 / 100 - HOLD Entry Below $118 - attractive relative to intrinsic value Add Below $108 - high conviction buy zone Reduce / Exit Above $150 - approaches fair value ceiling Time Horizon 18-36 months"
+      "text": ""
     },
-    "entryExit": {
-      "text": "Entry / Exit Framework Conviction Score 72 / 100 - HOLD Entry Below $118 - attractive relative to intrinsic value Add Below $108 - high conviction buy zone Reduce / Exit Above $150 - approaches fair value ceiling Time Horizon 18-36 months Sources Live market data via DYOR HQ data pipeline Bank of New York Mellon public filings and earnings releases Federal Reserve policy communications S&amp;P Capital IQ estimates Report generated 11 April 2026. For informational purposes only. Not financial advice."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 72,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 73,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 72,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 72
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 50
       }
     ]
   }

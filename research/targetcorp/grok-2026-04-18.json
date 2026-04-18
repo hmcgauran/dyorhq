@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "strong holiday sales",
+    "analyst upgrades",
+    "price recovery",
+    "competitive retail environment"
+  ],
+  "summary": "Target Corp (TGT) shows a positive sentiment with strong holiday sales performance and recent analyst upgrades boosting confidence, though competition in the retail sector remains a concern. Price momentum has been upward, supported by optimism around consumer spending trends.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong holiday sales\", \"analyst upgrades\", \"price recovery\", \"competitive retail environment\"],\n  \"summary\": \"Target Corp (TGT) shows a positive sentiment with strong holiday sales performance and recent analyst upgrades boosting confidence, though competition in the retail sector remains a concern. Price momentum has been upward, supported by optimism around consumer spending trends.\"\n}"
+}

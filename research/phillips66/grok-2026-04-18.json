@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "refining margin strength",
+    "energy sector recovery",
+    "dividend reliability",
+    "crude oil price volatility",
+    "sustainability initiatives"
+  ],
+  "summary": "Phillips 66 (PSX) shows a positive sentiment driven by strong refining margins and a recovering energy sector, bolstered by consistent dividend payouts. However, crude oil price volatility and mixed analyst views on long-term growth temper enthusiasm.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\n    \"refining margin strength\",\n    \"energy sector recovery\",\n    \"dividend reliability\",\n    \"crude oil price volatility\",\n    \"sustainability initiatives\"\n  ],\n  \"summary\": \"Phillips 66 (PSX) shows a positive sentiment driven by strong refining margins and a recovering energy sector, bolstered by consistent dividend payouts. However, crude oil price volatility and mixed analyst views on long-term growth temper enthusiasm.\"\n}"
+}

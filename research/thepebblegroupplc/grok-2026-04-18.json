@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "steady growth",
+    "digital marketing strength",
+    "economic uncertainty",
+    "share price stability",
+    "upcoming earnings"
+  ],
+  "summary": "The Pebble Group PLC (TPFG) shows a mildly positive sentiment with steady growth in its digital marketing and promotional products segments, supported by stable share price momentum and a generally neutral-to-positive analyst tone. However, broader economic uncertainty slightly tempers enthusiasm, with upcoming earnings as a potential near-term catalyst.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"steady growth\", \"digital marketing strength\", \"economic uncertainty\", \"share price stability\", \"upcoming earnings\"],\n  \"summary\": \"The Pebble Group PLC (TPFG) shows a mildly positive sentiment with steady growth in its digital marketing and promotional products segments, supported by stable share price momentum and a generally neutral-to-positive analyst tone. However, broader economic uncertainty slightly tempers enthusiasm, with upcoming earnings as a potential near-term catalyst.\"\n}"
+}

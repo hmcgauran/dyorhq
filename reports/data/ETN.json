@@ -1,117 +1,112 @@
 {
   "meta": {
     "ticker": "ETN",
-    "company": "Eaton Corporation PLC",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 68,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "ETN - Eaton Corporation plc",
+    "exchange": "#N/A",
+    "isin": "DE000A3GV1U5",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.381Z",
     "universes": [
+      "fortune100",
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 406.21,
+    "currency": "USD",
+    "marketCap": "157603505397",
+    "pe": 38.88,
+    "eps": 10.45,
+    "week52High": 410.91,
+    "week52Low": 255.1,
+    "beta": 1.17,
+    "avgVolume": "2521136",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "industrial growth",
+      "sustainability focus",
+      "analyst upgrades",
+      "macroeconomic tailwinds"
+    ],
+    "summary": "Eaton Corporation (ETN) exhibits a positive sentiment driven by strong recent earnings, analyst upgrades, and robust price momentum over the past quarter. The company's focus on sustainability and growth in industrial and electrical sectors, alongside favorable macroeconomic conditions, positions it well for near-term catalysts like potential infrastructure spending.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 30,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 12,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Eaton Corporation PLC (ETN) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is HOLD with conviction 68/100, using $403 as the latest stored price reference where available."
+      "text": "Eaton is a well-positioned electrical and power management company benefiting from grid modernisation, data centre power demand, industrial electrification and a generally stronger mix than it had a decade ago. The key attraction is that several growth themes now reinforce each other: utilities need upgrades, buildings need smarter electrical systems, and AI-related infrastructure is stretching power availability. This still does not make Eaton immune to industrial cycles, but it does make the franchise more durable than a typical conglomerate."
     },
     "businessModel": {
-      "text": "Eaton Corporation PLC sells power-management and electrical systems, with returns driven by end-market mix, backlog conversion and margin discipline. The rebuilt note now reflects the correct industrial company rather than an unrelated asset manager."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$403"
-        },
-        {
-          "label": "Company",
-          "value": "Eaton Corporation PLC"
-        },
-        {
-          "label": "Recommendation",
-          "value": "HOLD"
-        },
-        {
-          "label": "Conviction",
-          "value": "68/100"
-        },
-        {
-          "label": "Universe",
-          "value": "irish"
-        }
-      ]
+      "price": 406.21,
+      "pe": 38.88,
+      "eps": 10.45,
+      "marketCap": "157603505397",
+      "week52High": 410.91,
+      "week52Low": 255.1,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Data-centre, utility, aerospace and electrification demand remain the main growth supports, while order trends and margin progression drive sentiment."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present hold stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Industrial demand can slow after a strong cycle. Project timing can create uneven quarters. Valuation can compress if growth moderates. Cost inflation can pressure margins. Execution across multiple end-markets increases complexity.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Industrial demand can slow after a strong cycle."
-        },
-        {
-          "rank": 2,
-          "risk": "Project timing can create uneven quarters."
-        },
-        {
-          "rank": 3,
-          "risk": "Valuation can compress if growth moderates."
-        },
-        {
-          "rank": 4,
-          "risk": "Cost inflation can pressure margins."
-        },
-        {
-          "rank": 5,
-          "risk": "Execution across multiple end-markets increases complexity."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors who want diversified electrification and power-management exposure. Avoid: Investors seeking very low valuation risk after a strong rerating."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD - Conviction: 68/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a hold stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 68,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 68,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-11",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 75
       }
     ]
   }

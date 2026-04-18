@@ -1,0 +1,13 @@
+{
+  "score": 76,
+  "signal": "positive",
+  "key_themes": [
+    "cloud growth",
+    "AI innovation",
+    "strong earnings",
+    "market leadership",
+    "tech sector momentum"
+  ],
+  "summary": "Microsoft (MSFT) exhibits a positive sentiment driven by robust cloud computing growth through Azure and increasing AI integration across its products, as highlighted in recent earnings reports and analyst commentary. Price momentum remains bullish with consistent upward trends, and near-term catalysts include potential AI product announcements and continued enterprise adoption.",
+  "raw": "{\n  \"score\": 75,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"cloud growth\", \"AI innovation\", \"strong earnings\", \"market leadership\", \"tech sector momentum\"],\n  \"summary\": \"Microsoft (MSFT) exhibits a positive sentiment driven by robust cloud computing growth through Azure and increasing AI integration across its products, as highlighted in recent earnings reports and analyst commentary. Price momentum remains bullish with consistent upward trends, and near-term catalysts include potential AI product announcements and continued enterprise adoption.\"\n}"
+}

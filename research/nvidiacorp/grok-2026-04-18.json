@@ -1,0 +1,13 @@
+{
+  "score": 76,
+  "signal": "positive",
+  "key_themes": [
+    "AI growth",
+    "strong earnings",
+    "data center demand",
+    "high valuation concerns",
+    "upcoming product launches"
+  ],
+  "summary": "NVIDIA (NVDA) sentiment is positive, driven by strong earnings, robust demand for AI and data center solutions, and optimism around upcoming product launches. However, concerns about high valuation and potential market corrections slightly temper the bullish outlook.",
+  "raw": "{\n  \"score\": 75,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"AI growth\", \"strong earnings\", \"data center demand\", \"high valuation concerns\", \"upcoming product launches\"],\n  \"summary\": \"NVIDIA (NVDA) sentiment is positive, driven by strong earnings, robust demand for AI and data center solutions, and optimism around upcoming product launches. However, concerns about high valuation and potential market corrections slightly temper the bullish outlook.\"\n}"
+}

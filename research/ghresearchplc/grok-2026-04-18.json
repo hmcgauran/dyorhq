@@ -1,0 +1,12 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "clinical trial delays",
+    "analyst caution",
+    "price decline",
+    "uncertain pipeline progress"
+  ],
+  "summary": "GH Research PLC (GHRS) is facing a negative sentiment due to recent delays in clinical trial updates for their psychedelic-based therapies and cautious tones from analysts regarding pipeline progress. The stock has experienced downward price momentum over the past month, with no significant near-term catalysts to drive positive sentiment.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"clinical trial delays\", \"analyst caution\", \"price decline\", \"uncertain pipeline progress\"],\n  \"summary\": \"GH Research PLC (GHRS) is facing a negative sentiment due to recent delays in clinical trial updates for their psychedelic-based therapies and cautious tones from analysts regarding pipeline progress. The stock has experienced downward price momentum over the past month, with no significant near-term catalysts to drive positive sentiment.\"\n}"
+}

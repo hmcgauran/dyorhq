@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "clinical trial progress",
+    "analyst optimism",
+    "stock price recovery",
+    "upcoming data readouts",
+    "China market expansion"
+  ],
+  "summary": "HUTCHMED (HCM) shows a positive sentiment with recent news highlighting progress in clinical trials for key oncology drugs and growing traction in China. Analyst tone remains cautiously optimistic, supported by a moderate upward price momentum over the past month, with potential near-term catalysts from upcoming trial data.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\n    \"clinical trial progress\",\n    \"analyst optimism\",\n    \"stock price recovery\",\n    \"upcoming data readouts\",\n    \"China market expansion\"\n  ],\n  \"summary\": \"HUTCHMED (HCM) shows a positive sentiment with recent news highlighting progress in clinical trials for key oncology drugs and growing traction in China. Analyst tone remains cautiously optimistic, supported by a moderate upward price momentum over the past month, with potential near-term catalysts from upcoming trial data.\"\n}"
+}

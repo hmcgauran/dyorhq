@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong financial performance",
+    "construction sector growth",
+    "analyst optimism",
+    "dividend stability",
+    "market expansion"
+  ],
+  "summary": "Grafton Group plc (GFTU) exhibits a positive sentiment with a score of 45, driven by robust financial results, favorable analyst commentary, and steady price momentum in recent trading. Potential near-term catalysts include continued growth in the construction sector and strategic market expansions.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong financial performance\", \"construction sector growth\", \"analyst optimism\", \"dividend stability\", \"market expansion\"],\n  \"summary\": \"Grafton Group plc (GFTU) exhibits a positive sentiment with a score of 45, driven by robust financial results, favorable analyst commentary, and steady price momentum in recent trading. Potential near-term catalysts include continued growth in the construction sector and strategic market expansions.\"\n}"
+}

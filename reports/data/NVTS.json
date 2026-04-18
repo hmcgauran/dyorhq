@@ -1,124 +1,110 @@
 {
   "meta": {
     "ticker": "NVTS",
-    "company": "Navitas Semiconductor",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "NVTS - Navitas Semiconductor Corp",
+    "exchange": null,
+    "isin": "US63942X1063",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.387Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "current": 9.54,
-    "fiftyTwoWeekHigh": 17.79,
-    "fiftyTwoWeekLow": 1.67,
-    "formatted": ""
+    "current": 12.32,
+    "currency": "USD",
+    "marketCap": "2843365993",
+    "pe": null,
+    "eps": -0.57,
+    "week52High": 17.79,
+    "week52Low": 1.73,
+    "beta": 3.15,
+    "avgVolume": "21532580",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong growth in EV market",
+      "positive analyst upgrades",
+      "upward price trend",
+      "potential earnings catalyst"
+    ],
+    "summary": "Navitas Semiconductor (NVTS) shows a positive sentiment driven by strong growth in the electric vehicle (EV) and renewable energy sectors, coupled with recent analyst upgrades highlighting its GaN technology leadership. Price momentum has been upward with increasing institutional interest, and the upcoming earnings report could serve as a near-term catalyst.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Navitas Semiconductor (NVTS) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $9.54 as the latest stored price reference where available."
+      "text": "Navitas is a power semiconductor company focused on gallium nitride and silicon carbide technologies, so the story depends on whether next-generation materials win enough sockets in chargers, data centres, solar, storage and EV systems to justify the current strategic excitement. The technology case is interesting. The investment case is harder because commercial ramp timing and competition can remain uncertain for longer than investors expect."
     },
     "businessModel": {
-      "text": "Navitas Semiconductor is exposed to semiconductor content growth, with valuation tied to design wins, adoption curves and margin progression rather than headline narratives alone."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$9.54"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "N/A"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "N/A"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$17.79"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$1.67"
-        }
-      ]
+      "price": 12.32,
+      "pe": null,
+      "eps": -0.57,
+      "marketCap": "2843365993",
+      "week52High": 17.79,
+      "week52Low": 1.73,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Customer ramps, new platform wins, gross-margin direction and end-market recovery remain the main operating triggers."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Customer concentration can create sharp earnings swings. Technology transitions may take longer than planned. Competition can compress pricing. Inventory corrections can hit near-term demand. Capital-market sentiment toward semis can overshoot fundamentals.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Customer concentration can create sharp earnings swings."
-        },
-        {
-          "rank": 2,
-          "risk": "Technology transitions may take longer than planned."
-        },
-        {
-          "rank": 3,
-          "risk": "Competition can compress pricing."
-        },
-        {
-          "rank": 4,
-          "risk": "Inventory corrections can hit near-term demand."
-        },
-        {
-          "rank": 5,
-          "risk": "Capital-market sentiment toward semis can overshoot fundamentals."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors who understand semiconductor adoption cycles. Avoid: Investors seeking steady earnings and low volatility."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "2026-04-11",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-11",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 50
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 49
       }
     ]
   }

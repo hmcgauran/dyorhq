@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "digital marketing growth",
+    "market expansion",
+    "stock momentum",
+    "analyst optimism"
+  ],
+  "summary": "Dotdigital Group plc (DOTD) shows a positive sentiment with a score of 45, driven by strong recent earnings reports and growing demand for digital marketing solutions. Analyst tone remains optimistic, supported by upward price momentum and potential near-term catalysts like market expansion initiatives.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"digital marketing growth\", \"market expansion\", \"stock momentum\", \"analyst optimism\"],\n  \"summary\": \"Dotdigital Group plc (DOTD) shows a positive sentiment with a score of 45, driven by strong recent earnings reports and growing demand for digital marketing solutions. Analyst tone remains optimistic, supported by upward price momentum and potential near-term catalysts like market expansion initiatives.\"\n}"
+}

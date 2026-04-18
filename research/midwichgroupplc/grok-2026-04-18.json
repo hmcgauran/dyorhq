@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "market expansion",
+    "dividend growth",
+    "economic uncertainty"
+  ],
+  "summary": "Midwich Group PLC (MIDW) exhibits a positive sentiment driven by recent strong earnings reports and successful expansion into new markets, though tempered by broader economic concerns. Analyst tone remains cautiously optimistic, with price momentum showing steady upward trends and potential catalysts in upcoming dividend announcements.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"market expansion\", \"dividend growth\", \"economic uncertainty\"],\n  \"summary\": \"Midwich Group PLC (MIDW) exhibits a positive sentiment driven by recent strong earnings reports and successful expansion into new markets, though tempered by broader economic concerns. Analyst tone remains cautiously optimistic, with price momentum showing steady upward trends and potential catalysts in upcoming dividend announcements.\"\n}"
+}

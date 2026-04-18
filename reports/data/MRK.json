@@ -1,115 +1,109 @@
 {
   "meta": {
     "ticker": "MRK",
-    "company": "MRK",
-    "exchange": "",
-    "isin": "",
-    "date": "",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 52,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "MRK - Merck & Co Inc",
+    "exchange": null,
+    "isin": "US58933Y1055",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.386Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 119.07,
+    "currency": "USD",
+    "marketCap": "294088491776",
+    "pe": 16.35,
+    "eps": 7.28,
+    "week52High": 125.14,
+    "week52Low": 73.31,
+    "beta": 0.27,
+    "avgVolume": "9791304",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "Keytruda growth",
+      "pipeline innovation",
+      "analyst optimism",
+      "dividend stability"
+    ],
+    "summary": "Merck & Co Inc (MRK) exhibits a positive sentiment driven by strong quarterly earnings, continued growth in Keytruda sales, and optimism around its pipeline of innovative drugs. Analyst tone remains bullish with upward price target revisions, supported by steady price momentum and a reliable dividend, though investors await updates on upcoming clinical trial results as a near-term catalyst.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 37,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 7,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "Merck faces a significant Keytruda-exposure overhang as US patent expiry approaches (~2028); the oncology franchise is being actively diversified via pipeline acquisitions, but the market is correctly discounting the long-term IP cliff."
     },
     "businessModel": {
-      "text": "Revenue from Pharmaceutical (Keytruda, Januvia, Gardasil, ~80%), Animal Health (Vifor integrated, ~12%), and Healthcare Services (Walgreens partnership, ~8%). High-margin proprietary drug portfolio."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 119.07,
+      "pe": 16.35,
+      "eps": 7.28,
+      "marketCap": "294088491776",
+      "week52High": 125.14,
+      "week52Low": 73.31,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Keytruda: global sales $25bn+ FY24; label expansions ongoing in adjuvant melanoma, bladder, gastric Caplanex acquisition (ADC platform, 2024) adds 3 oncology assets in Phase II Vifor Pharma integration (acquired 2023) - renal/vascular franchise now contributing $1.8bn Winrevair (sotatercept) approved 2024 for pulmonary arterial hypertension - c.$3bn peak potential",
-      "items": [
-        "Keytruda: global sales $25bn+ FY24; label expansions ongoing in adjuvant melanoma, bladder, gastric",
-        "Caplanex acquisition (ADC platform, 2024) adds 3 oncology assets in Phase II",
-        "Vifor Pharma integration (acquired 2023) - renal/vascular franchise now contributing $1.8bn",
-        "Winrevair (sotatercept) approved 2024 for pulmonary arterial hypertension - c.$3bn peak potential"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "62 Bull 52 Base 38 Bear 52 Conviction",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "1. Keytruda composition-of-matter patent expires 2028 - biosimilar erosion begins immediately 2. US IRA (Inflation Reduction Act) price negotiation reduces revenue on selected drugs in 2026-28 3. Clinical setback risk on pembrolizumab combination trials in 1L lung cancer 4. Vifor integration slower than planned - $700M synergies not yet realised 5. Vaccine franchise (Gardasil) faces pricing pressure in US and European Gavi markets",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "1. Keytruda composition-of-matter patent expires 2028 - biosimilar erosion begins immediately"
-        },
-        {
-          "rank": 2,
-          "risk": "2. US IRA (Inflation Reduction Act) price negotiation reduces revenue on selected drugs in 2026-28"
-        },
-        {
-          "rank": 3,
-          "risk": "3. Clinical setback risk on pembrolizumab combination trials in 1L lung cancer"
-        },
-        {
-          "rank": 4,
-          "risk": "4. Vifor integration slower than planned - $700M synergies not yet realised"
-        },
-        {
-          "rank": 5,
-          "risk": "5. Vaccine franchise (Gardasil) faces pricing pressure in US and European Gavi markets"
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Pharma-turnaround investor play on pipeline maturation post-Keytruda exclusivity cliff. Healthcare-portfolio diversifier with attractive dividend yield (~2.8%). NOT suitable for investors unable to hold through clinical setbacks or who require near-term revenue growth acceleration."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
       "text": ""
     },
-    "entryExit": {
-      "text": "Scale in at $108-$118 (15-20% below 52-week high). HOLD $118-$132. REDUCE above $132. Monitor: Keytruda label expansion approvals and FY26 IRA price negotiation list drugs. | BUY: Scale in at $108-$118 (15-20% below 52-week high). | REDUCE above $132."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 52,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 73,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 52,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 52
       }
     ]
   }

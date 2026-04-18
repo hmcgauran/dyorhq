@@ -1,88 +1,110 @@
 {
-  "ticker": "COST",
-  "company": "Costco Wholesale Corporation",
-  "isin": "US22160K1051",
-  "exchange": "NASDAQ",
-  "currency": "USD",
-  "price": 982.97,
-  "marketCap": "$438.1B",
-  "sector": "Consumer Staples — Discount Retail",
-  "date": "17 April 2026",
-  "reportDate": "2026-04-17",
-  "recommendation": "OPPORTUNISTIC BUY",
-  "conviction": 55,
-  "convictionHistory": [{"date": "2026-04-17", "conviction": 55}],
-  "priceAtLastReport": 982.97,
-  "marketCapAtLastReport": "$438.1B",
-  "pe": 51.19,
-  "eps": 19.23,
-  "dividendYield": "0.5%",
-  "beta": 0.95,
-  "sharesOut": "443M",
-  "avgVolume": "1.8M",
-  "52wHigh": 1067.08,
-  "52wLow": 682.20,
-  "prevClose": 985.00,
-  "grokScore": 68,
-  "grokSignal": "positive",
-  "grokKeyThemes": ["Q2 +9.1% sales", "March +11.3%", "defensive", "Mizuho PT $1,100"],
+  "meta": {
+    "ticker": "COST",
+    "company": "COST - Costco Wholesale Corp",
+    "exchange": "#N/A",
+    "isin": "US22160K1052",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 69,
+    "lastRefreshed": "2026-04-18T15:09:10.380Z",
+    "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
+      "watchlist"
+    ]
+  },
+  "price": {
+    "current": 999.89,
+    "currency": "USD",
+    "marketCap": "443603704723",
+    "pe": 52,
+    "eps": 19.23,
+    "week52High": 1067.08,
+    "week52Low": 844.06,
+    "beta": 0.99,
+    "avgVolume": "1804949",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 76,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "membership growth",
+      "consumer spending resilience",
+      "holiday season potential",
+      "competitive positioning"
+    ],
+    "summary": "Costco Wholesale Corp (COST) exhibits a positive sentiment driven by strong recent earnings, consistent membership growth, and resilience in consumer spending. Analyst tone remains optimistic, with price momentum showing steady upward trends and potential catalysts in the upcoming holiday season.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 27,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 15,
+    "bearScore": 38,
+    "conviction": 69
+  },
   "sections": {
     "executiveSummary": {
-      "text": "Costco is a high-quality membership-driven retail compounding machine with exceptional pricing power and customer loyalty metrics that are the envy of the retail sector. Q2 FY2026 net sales grew 9.1% to $68.2 billion, with March sales accelerating to 11.3% year-on-year — a signal that defensive consumer spending remains robust even as broader economic uncertainty rises. The membership fee model generates enormous float and pricing power that sustains comparable-store sales growth above the industry average. The 51.19x P/E reflects precisely this quality — the market prices in near-perfect execution and continuation of the fee model. The risk is not the business model; it is the entry price. At $982.97, 8% below the 52-week high and pricing in 51x earnings, there is very little margin of safety for a new investor. OPPORTUNISTIC BUY reflects that Costco is genuinely excellent but not cheap. Mizuho has a $1,100 price target."
+      "text": "Costco is a high-quality membership-driven retail compounding machine with exceptional pricing power and customer loyalty metrics that are the envy of the retail sector. The 51.19x P/E reflects precisely this quality — the market prices in near-perfect execution and the..."
     },
     "businessModel": {
-      "text": "Costco operates a membership warehouse club model, generating the vast majority of profit from annual membership fees rather than merchandise margin. The model depends on high volumes, tight cost control, and a curated assortment of approximately 3,800 SKUs per store versus 100,000+ at a typical hypermarket. This curation drives exceptional inventory turnover and allows Costco to offer branded goods at significant discounts to MSRP, sustaining member renewal rates above 90%.\n\nTwo membership tiers — Gold Star and Business — generate recurring, pre-paid revenue with near-zero incremental cost. Costco then cross-subsidises selected staple categories (fuel, hot dogs, rotisserie chicken) to drive foot traffic, knowing that members who visit more frequently renew at higher rates. The e-commerce platform supplements but does not displace the warehouse experience. This combination of recurring fee income, defensive traffic, and a disciplined cost base underpins a wide and durable competitive moat."
+      "text": ""
     },
     "financialSnapshot": {
-      "price": 982.97,
-      "marketCap": "$438.1B",
-      "pe": 51.19,
+      "price": 999.89,
+      "pe": 52,
       "eps": 19.23,
-      "dividendYield": "0.5%",
-      "beta": 0.95,
-      "sharesOut": "443M",
-      "avgVolume": "1.8M",
-      "52wHigh": 1067.08,
-      "52wLow": 682.20,
-      "prevClose": 985.00,
-      "distanceFrom52wH": "-7.9%"
+      "marketCap": "443603704723",
+      "week52High": 1067.08,
+      "week52Low": 844.06,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Q2 FY2026 net sales increased 9.1% year-on-year to $68.2 billion, with March sales accelerating to 11.3% year-on-year. This is the strongest sequential acceleration in the current fiscal year and reflects Costco's unique positioning as a defensive spending destination — consumers trade down to warehouse formats when discretionary budgets tighten without cancelling memberships, because the annual fee is already paid.\n\nMizuho Securities raised the price target to $1,100, citing durable membership fee growth, resilient traffic trends, and Costco's ability to sustain comp sales above industry peers through any economic cycle. The $1,100 target implies approximately 13% upside from current levels.\n\nCostco has also continued to expand its e-commerce capabilities and same-day delivery infrastructure, preserving relevance with younger, digitally-native members who may initially engage online but convert to in-store shoppers over time. The stock has historically performed well during periods of consumer uncertainty as investors reward the predictability of the membership fee model."
+      "text": ""
     },
     "thesisEvaluation": {
-      "bull": {"score": 75, "text": "Membership fee increases continue on a 5-6 year cadence without meaningful churn. E-commerce penetration rises to 15%+ of revenue, improving margins on already high-turnover inventory. International expansion (particularly in France, Spain, and Poland) adds meaningful new club locations. Mizuho's $1,100 price target is reached as the defensive narrative compounds. Price: $1,100+."},
-      "base": {"score": 58, "text": "Low-single-digit comparable sales growth continues. Membership fee income grows mid-single digits as existing members up-tier and new members join. Tariff-driven cost inflation is partially absorbed through private-label substitution and supplier negotiations. EPS reaches $21-$23. Price: $950-$1,050."},
-      "bear": {"score": 40, "text": "Recessionary conditions compress member spending per visit, offsetting continued membership growth. Private-label quality concerns erode value perception. Tariff costs on imported goods compress margins more severely than modelled. Multiple de-rates below 45x as growth slows. Price: below $800."},
-      "weightedScore": 59,
-      "weightedFormula": "Bull 75 x 25% + Base 58 x 55% + Bear 40 x 20%"
+      "text": ""
     },
-    "keyRisks": [
-      {"risk": "Membership fee saturation", "description": "With US household penetration already very high, future membership growth must come from new households or up-tier conversions — both harder to achieve at scale. Any sustained churn increase would directly impair the core earnings driver."},
-      {"risk": "Tariff and cost inflation exposure", "description": "A significant portion of Costco's merchandise is imported. Broad tariff escalation could compress merchandise margins or require pricing increases that risk member perception of value."},
-      {"risk": "Margin pressure from competitive dynamics", "description": "Walmart and Amazon continue to invest aggressively in grocery and everyday essentials. While Costco's model is differentiated, sustained price gap widening could slow new member acquisition and renewal rates."},
-      {"risk": "Labour cost inflation", "description": "Warehouse retail is labour-intensive. Minimum wage escalation and union pressure on wages in key markets could structurally raise the cost base without commensurate pricing power."},
-      {"risk": "Valuation at a premium", "description": "At 51x earnings, Costco prices in near-perfect execution. Any meaningful slowdown in comp sales, membership growth, or margin compression would likely trigger a significant de-rating given limited margin of safety."}
-    ],
+    "keyRisks": {
+      "text": ""
+    },
     "whoShouldOwnIt": {
-      "owners": "Defensive equity investors seeking high-quality consumer staples exposure with a compounding model. Long-term orientated investors who understand that Costco's value proposition strengthens during economic uncertainty and who can tolerate elevated multiples for the quality floor.",
-      "avoiders": "Deep-value investors will find better entry points elsewhere. Growth-at-a-reasonable-price investors seeking margin of safety will find the 51x P/E too rich for a business growing high-single-digit organically. Cyclical investors who want exposure to consumer spending upswings should look at higher-beta retail plays."
+      "text": ""
     },
     "recommendation": {
-      "action": "HOLD",
-      "rationale": "Costco is genuinely excellent — the membership model is durable, the traffic is defensive, and the execution record is impeccable. Q2 FY2026 results (9.1% net sales growth, March +11.3% YoY) confirm the thesis. The risk is the entry price. At 51x earnings with limited near-term catalysts for multiple expansion, new investors are paying a full valuation for quality that is already well understood. OPPORTUNISTIC BUY at conviction 55.",
-      "entryFramework": {
-        "buy": "below $850 (implies 44x P/E on base-case EPS — a meaningful margin of safety for a business of this quality)",
-        "add": "on further weakness toward $750 (implies 39x — close to historically discounted levels)",
-        "reduce": "on rallies above $1,050 (implies 55x+ with limited upside to the Mizuho $1,100 target)"
-      },
-      "positionSizing": "Given the defensive nature of the business, a core holding of 2-4% is appropriate for a diversified portfolio. Avoid overlaying with other defensive consumer staples at full valuation — rotation opportunities from here are asymmetric to the upside only if a meaningful correction occurs."
+      "text": ""
+    },
+    "entry": {
+      "text": ""
+    },
+    "sources": {
+      "text": ""
     }
   },
-  "sources": [
-    {"label": "Live Prices", "desc": "DYOR HQ proprietary market data workflow with independent validation checks"},
-    {"label": "Financial Metrics", "desc": "Third-party market data validation for market capitalisation, valuation ratios, earnings metrics, and trading ranges"},
-    {"label": "News & Catalysts", "desc": "Finnhub RSS feed and web search - corporate announcements, broker research, industry news"},
-    {"label": "Grok AI Research", "desc": "Intelligence from Grok AI - score 68, signal positive, key themes: Q2 +9.1% sales, March +11.3%, defensive, Mizuho PT $1,100"}
-  ]
+  "scores": {
+    "current": {
+      "score": 69,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
+    },
+    "history": [
+      {
+        "date": "2026-04-16",
+        "conviction": 55
+      }
+    ]
+  }
 }

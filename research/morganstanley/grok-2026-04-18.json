@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "investment banking recovery",
+    "market optimism",
+    "interest rate sensitivity"
+  ],
+  "summary": "Morgan Stanley (MS) exhibits a positive sentiment driven by strong recent earnings and a recovery in investment banking activity, bolstered by optimistic analyst tone. Price momentum remains upward with potential near-term catalysts tied to macroeconomic conditions and interest rate developments.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"investment banking recovery\", \"market optimism\", \"interest rate sensitivity\"],\n  \"summary\": \"Morgan Stanley (MS) exhibits a positive sentiment driven by strong recent earnings and a recovery in investment banking activity, bolstered by optimistic analyst tone. Price momentum remains upward with potential near-term catalysts tied to macroeconomic conditions and interest rate developments.\"\n}"
+}

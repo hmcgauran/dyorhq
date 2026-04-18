@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "theme park demand",
+    "technology adoption",
+    "market expansion"
+  ],
+  "summary": "Accesso Technology Group PLC (ACSO) shows a positive sentiment driven by strong recent earnings reports and growing demand for its ticketing and virtual queuing solutions in the theme park industry. Analyst tone remains optimistic, with price momentum reflecting steady upward trends, though no major near-term catalysts are evident.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"theme park demand\", \"technology adoption\", \"market expansion\"],\n  \"summary\": \"Accesso Technology Group PLC (ACSO) shows a positive sentiment driven by strong recent earnings reports and growing demand for its ticketing and virtual queuing solutions in the theme park industry. Analyst tone remains optimistic, with price momentum reflecting steady upward trends, though no major near-term catalysts are evident.\"\n}"
+}

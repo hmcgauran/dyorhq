@@ -1,0 +1,12 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "clinical trial delays",
+    "analyst caution",
+    "stock price decline",
+    "pipeline uncertainty"
+  ],
+  "summary": "Autolus Therapeutics PLC (AUTL) faces a negative sentiment due to recent delays in clinical trial updates and cautious analyst commentary regarding pipeline progress. The stock has experienced downward price momentum, reflecting investor concerns over near-term catalysts.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"clinical trial delays\", \"analyst caution\", \"stock price decline\", \"pipeline uncertainty\"],\n  \"summary\": \"Autolus Therapeutics PLC (AUTL) faces a negative sentiment due to recent delays in clinical trial updates and cautious analyst commentary regarding pipeline progress. The stock has experienced downward price momentum, reflecting investor concerns over near-term catalysts.\"\n}"
+}

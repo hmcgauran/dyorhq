@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "sustainability focus",
+    "strong earnings",
+    "market expansion",
+    "macroeconomic risks",
+    "building materials demand"
+  ],
+  "summary": "Kingspan Group ADR (KGSPY) shows a positive sentiment driven by strong recent earnings reports and a focus on sustainable building solutions, though tempered by broader macroeconomic concerns. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends and potential catalysts in upcoming infrastructure projects.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"sustainability focus\", \"strong earnings\", \"market expansion\", \"macroeconomic risks\", \"building materials demand\"],\n  \"summary\": \"Kingspan Group ADR (KGSPY) shows a positive sentiment driven by strong recent earnings reports and a focus on sustainable building solutions, though tempered by broader macroeconomic concerns. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends and potential catalysts in upcoming infrastructure projects.\"\n}"
+}

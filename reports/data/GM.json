@@ -1,139 +1,108 @@
 {
   "meta": {
     "ticker": "GM",
-    "company": "General Motors Company",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "GM - General Motors Company",
+    "exchange": "#N/A",
+    "isin": "US37045V1008",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.383Z",
     "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 76.42,
-    "marketCap": 71300000000.0,
-    "marketCapFormatted": "$71.30B",
-    "trailingPE": 23.37,
-    "trailingEps": 3.27,
-    "fiftyTwoWeekHigh": 87.62,
-    "fiftyTwoWeekLow": 42.75,
-    "formatted": ""
+    "current": 81.32,
+    "currency": "USD",
+    "marketCap": "73510661220",
+    "pe": 24.88,
+    "eps": 3.27,
+    "week52High": 87.62,
+    "week52Low": 43.77,
+    "beta": 1.34,
+    "avgVolume": "7181085",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "EV transition",
+      "strong earnings",
+      "supply chain recovery",
+      "labor negotiations"
+    ],
+    "summary": "General Motors shows a positive sentiment with strong recent earnings performance and optimism around its electric vehicle (EV) strategy, despite lingering concerns over labor negotiations. Analyst tone remains cautiously bullish, supported by upward price momentum and potential catalysts like new EV model launches.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 34,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 11,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "General Motors is in the midst of an electric vehicle transformation while simultaneously extracting profitability from its traditional ICE truck and SUV franchise, but the EV losses and UAW cost headwinds create a challenging near-term earnings backdrop. REDUCE is the weighted recommendation with a conviction score of 50."
-    },
-    "businessModel": {
       "text": "General Motors Company (GM) operates in the Consumer Disc. sector and is listed on NYSE. The business generates revenue through its core operations in consumer disc.."
     },
+    "businessModel": {
+      "text": ""
+    },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$76.42"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$71.3 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "23.37x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$3.27"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$87.62"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$42.75"
-        }
-      ]
+      "price": 81.32,
+      "pe": 24.88,
+      "eps": 3.27,
+      "marketCap": "73510661220",
+      "week52High": 87.62,
+      "week52Low": 43.77,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "General Motors Company has been navigating the current market environment with its core consumer disc. franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (68): EV losses peak in 2026 and begin narrowing as Ultium battery costs fall and Bolt EUV volumes scale. ICE truck pricing remains disciplined. Cruise robotaxi generates first meaningful revenue. EPS recovers to $6+. Price: $90+. Base Case (52): EV losses persist longer than hoped. ICE truck cycle peak and elevated UAW labour costs compress margins. Equity buybacks and dividend provide capital return. EPS: $4.00-5.00. Price: $72-84. Bear Case (34): EV adoption slows materially. Chinese domestic OEMs take share in the US market. Price war in full-size trucks intensifies. Cruise fails commercially. EPS falls to $2.50-3.00. Price: below $55. Weighted Score: 53 - Bull 68 × 30% + Base 52 × 50% + Bear 34 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "EV transformation cost drag: GM is investing $35bn+ in EVs through 2025. Ultium battery platform losses, charging infrastructure and EV manufacturing ramp create persistent margin headwinds. Full-size truck pricing cyclicality: GM's most profitable segment is sensitive to economic cycles, competitor discounting behaviour and commodity cost inflation. UAW labour cost headwinds: The 2023 UAW strike resulted in significant wage increases and restored defined-benefit pensions. Labour costs are structurally higher than peers. Chinese EV import risk: Chinese EV manufacturers (BYD, NIO, XPeng) could pursue US market entry, creating a competitive shock in the mass-market EV segment. Cruise robotaxi commercial failure: The 2023 pedestrian incident accelerated regulatory scrutiny. Restarting commercial service is taking longer and costing more than initially modelled.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "EV transformation cost drag: GM is investing $35bn+ in EVs through 2025. Ultium battery platform losses, charging infrastructure and EV manufacturing ramp create persistent margin headwinds."
-        },
-        {
-          "rank": 2,
-          "risk": "Full-size truck pricing cyclicality: GM's most profitable segment is sensitive to economic cycles, competitor discounting behaviour and commodity cost inflation."
-        },
-        {
-          "rank": 3,
-          "risk": "UAW labour cost headwinds: The 2023 UAW strike resulted in significant wage increases and restored defined-benefit pensions. Labour costs are structurally higher than peers."
-        },
-        {
-          "rank": 4,
-          "risk": "Chinese EV import risk: Chinese EV manufacturers (BYD, NIO, XPeng) could pursue US market entry, creating a competitive shock in the mass-market EV segment."
-        },
-        {
-          "rank": 5,
-          "risk": "Cruise robotaxi commercial failure: The 2023 pedestrian incident accelerated regulatory scrutiny. Restarting commercial service is taking longer and costing more than initially modelled."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Contrarian value investors who believe in the ICE truck cash flow underwriting the EV transformation. Not suitable as a pure EV or growth story."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE. BUY below $52 (near trough multiples for a restructuring auto story with strong truck franchise). Accumulate only on significant pullbacks. Sell or reduce on rallies above $82 (excessive multiple for a company facing EV transformation costs and cyclical headwinds)."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $52 (near trough multiples for a restructuring auto story with strong truck franchise). | Sell or reduce on rallies above $82 (excessive multiple for a company facing EV transformation costs and cyclical headwinds)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 50
       }
     ]
   }

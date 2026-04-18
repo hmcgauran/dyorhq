@@ -1,0 +1,13 @@
+{
+  "score": 73,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "AI demand",
+    "stock momentum",
+    "dividend growth",
+    "chip sector tailwinds"
+  ],
+  "summary": "Broadcom Inc. (AVGO) exhibits a positive sentiment driven by strong quarterly earnings, growing demand for AI-related chips, and consistent stock price momentum. Analyst tone remains largely bullish, with potential near-term catalysts including further AI sector developments and upcoming dividend announcements.",
+  "raw": "{\n  \"score\": 65,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"AI demand\", \"stock momentum\", \"dividend growth\", \"chip sector tailwinds\"],\n  \"summary\": \"Broadcom Inc. (AVGO) exhibits a positive sentiment driven by strong quarterly earnings, growing demand for AI-related chips, and consistent stock price momentum. Analyst tone remains largely bullish, with potential near-term catalysts including further AI sector developments and upcoming dividend announcements.\"\n}"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "retail recovery",
+    "dividend stability",
+    "mall traffic trends",
+    "interest rate sensitivity"
+  ],
+  "summary": "Simon Property Group (SPG) shows a positive sentiment driven by recent news of improving retail sales and mall traffic, alongside a stable dividend outlook that appeals to income-focused investors. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends, though concerns about interest rate impacts linger as a near-term catalyst.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"retail recovery\", \"dividend stability\", \"mall traffic trends\", \"interest rate sensitivity\"],\n  \"summary\": \"Simon Property Group (SPG) shows a positive sentiment driven by recent news of improving retail sales and mall traffic, alongside a stable dividend outlook that appeals to income-focused investors. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends, though concerns about interest rate impacts linger as a near-term catalyst.\"\n}"
+}

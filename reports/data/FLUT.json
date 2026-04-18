@@ -1,124 +1,111 @@
 {
   "meta": {
     "ticker": "FLUT",
-    "company": "Flutter Entertainment",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "FLUT - Flutter Entertainment plc",
+    "exchange": "#N/A",
+    "isin": "IE00BWT6H894",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.382Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "current": 102.38,
-    "fiftyTwoWeekHigh": 313.69,
-    "fiftyTwoWeekLow": 98.88,
-    "formatted": ""
+    "current": 110.08,
+    "currency": "USD",
+    "marketCap": "19195541567",
+    "pe": null,
+    "eps": -1.75,
+    "week52High": 313.69,
+    "week52Low": 98.88,
+    "beta": 1.16,
+    "avgVolume": "3004564",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "US market growth",
+      "analyst upgrades",
+      "sports betting expansion",
+      "market competition"
+    ],
+    "summary": "Flutter Entertainment (FLUT) exhibits a positive sentiment driven by strong quarterly earnings, significant growth in the US sports betting market through FanDuel, and recent analyst upgrades. However, competitive pressures in the online gambling sector remain a concern.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "Flutter Entertainment (FLUT) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $102.38 as the latest stored price reference where available."
+      "text": "Flutter is one of the strongest operators in online betting and gaming, with powerful brands, scale advantages and a broad geographic footprint, but it remains an industry where regulation and customer acquisition discipline can change the investment case quickly. The important question is not whether Flutter is a serious operator, it plainly is. The question is how much of that quality is already reflected in the share price and how durable current US and international economics prove to be."
     },
     "businessModel": {
-      "text": "Flutter Entertainment operates in online betting and gaming, where market share, customer economics, regulation and product execution drive returns. The repaired note replaces a generic placeholder with a coherent company-level summary."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$102.38"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "N/A"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "N/A"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$313.69"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$98.88"
-        }
-      ]
+      "price": 110.08,
+      "pe": null,
+      "eps": -1.75,
+      "marketCap": "19195541567",
+      "week52High": 313.69,
+      "week52Low": 98.88,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "US state launches, sportsbook hold, iGaming mix and cost control remain the most important near-term variables."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Regulatory changes can affect growth and profitability. Customer acquisition can stay expensive. Sports results can create quarterly volatility. Competitive intensity can compress margins. Execution across multiple jurisdictions adds complexity.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Regulatory changes can affect growth and profitability."
-        },
-        {
-          "rank": 2,
-          "risk": "Customer acquisition can stay expensive."
-        },
-        {
-          "rank": 3,
-          "risk": "Sports results can create quarterly volatility."
-        },
-        {
-          "rank": 4,
-          "risk": "Competitive intensity can compress margins."
-        },
-        {
-          "rank": 5,
-          "risk": "Execution across multiple jurisdictions adds complexity."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors who accept regulatory and quarterly volatility for digital gaming exposure. Avoid: Investors who want predictable cash flows and low headline risk."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "2026-04-11",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-11",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 50
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 64
       }
     ]
   }

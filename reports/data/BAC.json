@@ -1,141 +1,109 @@
 {
   "meta": {
     "ticker": "BAC",
-    "company": "Bank of America Corp",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 60,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "BAC - Bank of America Corp",
+    "exchange": "#N/A",
+    "isin": "US0605051046",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.378Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "current": 52.54,
-    "marketCap": 375400000000.0,
-    "marketCapFormatted": "$375.40B",
-    "trailingPE": 13.89,
-    "trailingEps": 3.78,
-    "fiftyTwoWeekHigh": 57.55,
-    "fiftyTwoWeekLow": 34.81,
-    "formatted": ""
+    "current": 53.91,
+    "currency": "USD",
+    "marketCap": "384373339192",
+    "pe": 13.48,
+    "eps": 4,
+    "week52High": 57.55,
+    "week52Low": 36.49,
+    "beta": 1.23,
+    "avgVolume": "40853751",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "interest rate environment",
+      "consumer banking growth",
+      "market volatility",
+      "dividend stability"
+    ],
+    "summary": "Bank of America (BAC) shows a positive sentiment driven by strong recent earnings, favorable analyst tone citing resilience in consumer banking, and steady price momentum. However, concerns around market volatility and the impact of the interest rate environment temper overly bullish outlooks, with potential near-term catalysts including upcoming economic data releases.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 35,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "Bank of America's net interest income is in structural decline as the Fed rate cycle turns, credit costs are rising from cyclical lows, and the shares are not meaningfully cheap enough to compensate - REDUCE is the weighted recommendation."
+      "text": "Bank of America is a diversified global financial institution organised into four principal divisions: Consumer Banking (deposits, mortgages, credit cards, auto loans), Global Wealth &amp; Investment Management ( Merrill Lynch private wealth and brokerage), Global Banking (corporate lending, M&amp;A advisory, capital markets), and Global Markets (FICC trading, prime brokerage)."
     },
     "businessModel": {
-      "text": "Bank of America is a diversified global financial institution organised into four principal divisions: Consumer Banking (deposits, mortgages, credit cards, auto loans), Global Wealth & Investment Management ( Merrill Lynch private wealth and brokerage), Global Banking (corporate lending, M&A advisory, capital markets), and Global Markets (FICC trading, prime brokerage). BAC's financial performance is heavily driven by net interest income (NII): the spread between what the bank pays depositors and what it earns on loans and securities. As the Federal Reserve has raised rates, BofA's asset-sensitive balance sheet (floating-rate loans reprice upward faster than deposit costs) benefited materially - NII peaked in the rate cycle. Now, as the Fed holds or cuts rates, NII faces compression. BofA has been slower than peers to pass through full deposit repricing, which protects NII in the near term but risks deposit outflows. The credit card and consumer lending divisions are a growing proportion of earnings, adding both growth and credit cycle risk."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$52.54"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$375.4 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "13.89x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$3.78"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$57.55"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$34.81"
-        }
-      ]
+      "price": 53.91,
+      "pe": 13.48,
+      "eps": 4,
+      "marketCap": "384373339192",
+      "week52High": 57.55,
+      "week52Low": 36.49,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "BofA's Q4 2025 earnings showed NII of approximately $14.4 billion, slightly below expectations as deposit repricing and loan spread compression began to bite. Credit costs have increased as net charge-offs normalise from COVID-era lows - the bank released $700 million of COVID-era provisions in 2024, a tailwind that has now reversed. Management guided for modest NII decline in 2026 as the rate environment evolves. Investment banking fees have recovered modestly from 2022 lows, providing some offset. The stock has been range-bound for 18 months as the market digests a post-peak NII environment."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (72): A resilient US economy keeps credit losses contained. Investment banking and capital markets revenues recover strongly as M&A and IPO activity normalises. BofA's efficiency ratio improves via cost-cutting. EPS grows to $4.20+. Price: $62+. Base Case (65): NII declines modestly as the Fed cuts 50-75bps. Credit normalises to historical levels, with net charge-offs around 1.5-1.8%. Investment banking recovery is gradual. EPS reaches $3.80-$4.00. Price: $53-$58. Bear Case (45): A hard landing causes credit deterioration across consumer and CRE portfolios. NII compresses faster as deposit betas accelerate. Investment banking collapses. Provisions spike. EPS falls to $2.80-$3.10. Price: below $38. Weighted Score: 60 - Bull 72 × 30% + Base 65 × 50% + Bear 45 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "NII cyclical peak and compression: BofA benefited enormously from the rate-rising cycle. As the cycle turns, the asset-sensitive balance sheet will reprice downward. The magnitude and pace of NII compression is the single most important near-term earnings variable. Consumer credit normalisation: Net charge-offs have been rising from COVID lows but are not yet at historical peaks. A US recession would accelerate credit deterioration and increase provisions, directly suppressing earnings. Commercial real estate exposure: BofA has meaningful exposure to office and commercial real estate loans, particularly in its CRE portfolio. Elevated vacancy rates and rate pressure on CRE valuations have increased loss-given-default assumptions. Deposit repricing risk: BofA's strategy of minimising deposit repricing is a two-edged sword. If deposit outflows accelerate as customers seek higher-yield alternatives (money market funds, Treasury bills), the cost of funds rises regardless. Capital markets cyclicality: IB revenues are highly variable and difficult to model. A sustained M&A drought would suppress investment banking fees, which are a key EPS variable.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "NII cyclical peak and compression: BofA benefited enormously from the rate-rising cycle. As the cycle turns, the asset-sensitive balance sheet will reprice downward. The magnitude and pace of NII compression is the single most important near-term earnings variable."
-        },
-        {
-          "rank": 2,
-          "risk": "Consumer credit normalisation: Net charge-offs have been rising from COVID lows but are not yet at historical peaks. A US recession would accelerate credit deterioration and increase provisions, directly suppressing earnings."
-        },
-        {
-          "rank": 3,
-          "risk": "Commercial real estate exposure: BofA has meaningful exposure to office and commercial real estate loans, particularly in its CRE portfolio. Elevated vacancy rates and rate pressure on CRE valuations have increased loss-given-default assumptions."
-        },
-        {
-          "rank": 4,
-          "risk": "Deposit repricing risk: BofA's strategy of minimising deposit repricing is a two-edged sword. If deposit outflows accelerate as customers seek higher-yield alternatives (money market funds, Treasury bills), the cost of funds rises regardless."
-        },
-        {
-          "rank": 5,
-          "risk": "Capital markets cyclicality: IB revenues are highly variable and difficult to model. A sustained M&A drought would suppress investment banking fees, which are a key EPS variable."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Value investors attracted to a cheap bank stock with a dividend yield (~2.5%) and the optionality on a rate recovery. Long-term holders who have ridden the rate cycle tailwind. Not a compelling new position at current levels."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE. BofA is a well-run bank with genuine franchise value, but the NII tailwind of the rate cycle has peaked and is now a headwind. The 14x P/E does not adequately discount the earnings deterioration ahead. Trim exposure and rotate toward banks with more resilient fee income or less NII sensitivity. Entry framework: BUY below $40 (implies 11x P/E - historically cheap for BofA and discounts a hard landing). Reduce on rallies above $56 (implies 15x+ P/E in a declining earnings environment). Monitor NII guidance and charge-off trends as key signals."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $40 (implies 11x P/E - historically cheap for BofA and discounts a hard landing). Reduce on rallies above $56 (implies 15x+ P/E in a declining earnings environment). Monitor NII guidance and charge-off trends as key signals. | Entry framework: BUY below $40 (implies 11x P/E - historically cheap for BofA and discounts a hard landing). | Reduce on rallies above $56 (implies 15x+ P/E in a declining earnings environment)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 60,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 60,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 60
       }
     ]
   }

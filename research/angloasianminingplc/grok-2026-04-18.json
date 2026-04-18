@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "production growth",
+    "copper market strength",
+    "geopolitical risks",
+    "dividend potential",
+    "exploration updates"
+  ],
+  "summary": "Anglo Asian Mining Plc (AAZ) shows a positive sentiment driven by recent production increases and favorable copper market conditions, though tempered by geopolitical risks in Azerbaijan. Analyst tone remains cautiously optimistic with potential upside from exploration updates and dividend announcements.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"production growth\", \"copper market strength\", \"geopolitical risks\", \"dividend potential\", \"exploration updates\"],\n  \"summary\": \"Anglo Asian Mining Plc (AAZ) shows a positive sentiment driven by recent production increases and favorable copper market conditions, though tempered by geopolitical risks in Azerbaijan. Analyst tone remains cautiously optimistic with potential upside from exploration updates and dividend announcements.\"\n}"
+}

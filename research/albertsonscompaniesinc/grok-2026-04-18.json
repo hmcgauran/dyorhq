@@ -1,0 +1,11 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "grocery sector stability",
+    "earnings performance",
+    "merger speculation"
+  ],
+  "summary": "Albertsons Companies Inc (ACI) shows a mildly positive sentiment driven by stable performance in the grocery sector and decent recent earnings, though tempered by mixed analyst views. Price momentum is slightly upward with ongoing speculation about potential merger developments as a near-term catalyst.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"grocery sector stability\", \"earnings performance\", \"merger speculation\"],\n  \"summary\": \"Albertsons Companies Inc (ACI) shows a mildly positive sentiment driven by stable performance in the grocery sector and decent recent earnings, though tempered by mixed analyst views. Price momentum is slightly upward with ongoing speculation about potential merger developments as a near-term catalyst.\"\n}"
+}

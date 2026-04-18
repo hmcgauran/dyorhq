@@ -1,122 +1,111 @@
 {
   "meta": {
     "ticker": "GL9",
-    "company": "Glanbia plc",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "GL9 - Glanbia plc",
+    "exchange": "#N/A",
+    "isin": "IE0000669501",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.383Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "current": 16.94,
-    "formatted": ""
+    "current": 16.4,
+    "currency": "EUR",
+    "marketCap": "4106263064",
+    "pe": 26.71,
+    "eps": 0.61,
+    "week52High": 18.5,
+    "week52Low": 9.4,
+    "beta": null,
+    "avgVolume": "270",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "analyst optimism",
+      "price uptrend",
+      "consumer health demand",
+      "potential acquisitions"
+    ],
+    "summary": "Glanbia plc (GL9) exhibits a positive sentiment with a score of 45, driven by strong recent earnings reports and upbeat analyst commentary highlighting growth in consumer health products. Price momentum remains favorable with a steady uptrend over the past quarter, supported by potential acquisition rumors as a near-term catalyst.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 34,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 11,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "Glanbia plc (GL9) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $16.94 as the latest stored price reference where available."
+      "text": "Glanbia is a nutrition and dairy-linked business whose better qualities come from brand strength and performance nutrition exposure, while its weaker points stem from ingredient volatility and a market that rarely gives dairy-linked names a generous valuation. The investment case improves when branded nutrition is carrying the story. It weakens when commodity-linked concerns dominate."
     },
     "businessModel": {
-      "text": "Glanbia plc is exposed to nutrition, ingredients and branded food demand, with the core thesis driven by mix, margins and execution across consumer and business channels."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$16.94"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "N/A"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "N/A"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week High",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "N/A"
-        }
-      ]
+      "price": 16.4,
+      "pe": 26.71,
+      "eps": 0.61,
+      "marketCap": "4106263064",
+      "week52High": 18.5,
+      "week52Low": 9.4,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Input-cost trends, volume recovery, mix improvement and margin delivery remain the main catalysts."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Consumer demand can soften under pressure on household budgets. Input costs can remain volatile. Execution in branded and ingredient channels can diverge. Competitive intensity can limit pricing. FX can cloud reported progress.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Consumer demand can soften under pressure on household budgets."
-        },
-        {
-          "rank": 2,
-          "risk": "Input costs can remain volatile."
-        },
-        {
-          "rank": 3,
-          "risk": "Execution in branded and ingredient channels can diverge."
-        },
-        {
-          "rank": 4,
-          "risk": "Competitive intensity can limit pricing."
-        },
-        {
-          "rank": 5,
-          "risk": "FX can cloud reported progress."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors who want moderate-defensive food and nutrition exposure. Avoid: Investors looking for very high growth or very low commodity sensitivity."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "2026-04-11",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-11",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 50
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 60
       }
     ]
   }

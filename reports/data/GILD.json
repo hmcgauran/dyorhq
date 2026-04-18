@@ -1,139 +1,107 @@
 {
   "meta": {
     "ticker": "GILD",
-    "company": "Gilead Sciences Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 61,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "GILD - Gilead Sciences Inc",
+    "exchange": "#N/A",
+    "isin": "US3755581036",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.383Z",
     "universes": [
+      "fortune100",
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 138.99,
-    "marketCap": 172500000000.0,
-    "marketCapFormatted": "$172.50B",
-    "trailingPE": 20.5,
-    "trailingEps": 6.78,
-    "fiftyTwoWeekHigh": 157.29,
-    "fiftyTwoWeekLow": 93.37,
-    "formatted": ""
+    "current": 137.64,
+    "currency": "USD",
+    "marketCap": "170841657682",
+    "pe": 20.3,
+    "eps": 6.78,
+    "week52High": 157.27,
+    "week52Low": 93.37,
+    "beta": 0.39,
+    "avgVolume": "5721191",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 63,
+    "signal": "positive",
+    "keyThemes": [
+      "HIV treatment leadership",
+      "pipeline innovation",
+      "stock undervaluation",
+      "dividend stability"
+    ],
+    "summary": "Gilead Sciences (GILD) maintains a positive sentiment driven by its strong position in HIV treatments and a promising pipeline, despite mixed analyst views on growth potential. Recent price momentum shows stability with a slight upward trend, supported by consistent dividend payouts and potential near-term catalysts from clinical trial updates.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Gilead's HIV franchise remains highly cash-generative, long-acting prevention (lenacapavir) is a genuine breakthrough, and the oncology expansion via Trodelvy is gaining traction, but the liver disease franchise faces generic headwinds. HOLD is the weighted recommendation with a conviction score of 61."
-    },
-    "businessModel": {
       "text": "Gilead Sciences Inc (GILD) operates in the Healthcare sector and is listed on NASDAQ. The business generates revenue through its core operations in healthcare."
     },
+    "businessModel": {
+      "text": ""
+    },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$138.99"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$172.5 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "20.50x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$6.78"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$157.29"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$93.37"
-        }
-      ]
+      "price": 137.64,
+      "pe": 20.3,
+      "eps": 6.78,
+      "marketCap": "170841657682",
+      "week52High": 157.27,
+      "week52Low": 93.37,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Gilead Sciences Inc has been navigating the current market environment with its core healthcare franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (76): Lenacapavir achieves wide uptake in both prevention and treatment settings globally. Trodelvy succeeds in earlier-line breast cancer indications. HBV functional cure programmes produce Phase III data. EPS grows to $8.50+. Price: $170+. Base Case (62): HIV franchise holds steady with Biktarvy growth offsetting Truvaya/Descovy generic pressure. Trodelvy grows but faces competitive ADC dynamics. Liver disease revenues stabilise. EPS: $7.00-7.80. Price: $140-165. Bear Case (43): Lenacapavir uptake slower due to pricing/access barriers. Trodelvy fails in key Phase III readouts. Generic competition to liver disease drugs accelerates faster than modelled. EPS falls to $5.50-6.00. Price: below $115. Weighted Score: 62 - Bull 76 × 30% + Base 62 × 50% + Bear 43 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "HIV franchise competitive entry: GSK/ViiV's long-acting cabotegravir directly competes with lenacapavir in prevention. Pricing and access negotiations could limit peak penetration. Trodelvy competitive dynamics: The ADC space in oncology is rapidly becoming crowded (AstraZeneca/Daiichi, Gilead's ownpipeline). Confirmatory trials and survival data may not support current trajectories. Biktarvy patent cliff: While Biktarvy is protected into the early 2030s, any future generic entry would represent a significant revenue event for the core HIV business. Liver disease revenue volatility: Revenue from HCV treatments is declining as the treated patient pool normalises. NASH/ASH programmes remain speculative. Acquisition integration and capital allocation: Gilead's $21bn Immunomedics acquisition has performed better than feared but the high acquisition price constrains management flexibility.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "HIV franchise competitive entry: GSK/ViiV's long-acting cabotegravir directly competes with lenacapavir in prevention. Pricing and access negotiations could limit peak penetration."
-        },
-        {
-          "rank": 2,
-          "risk": "Trodelvy competitive dynamics: The ADC space in oncology is rapidly becoming crowded (AstraZeneca/Daiichi, Gilead's ownpipeline). Confirmatory trials and survival data may not support current trajectories."
-        },
-        {
-          "rank": 3,
-          "risk": "Biktarvy patent cliff: While Biktarvy is protected into the early 2030s, any future generic entry would represent a significant revenue event for the core HIV business."
-        },
-        {
-          "rank": 4,
-          "risk": "Liver disease revenue volatility: Revenue from HCV treatments is declining as the treated patient pool normalises. NASH/ASH programmes remain speculative."
-        },
-        {
-          "rank": 5,
-          "risk": "Acquisition integration and capital allocation: Gilead's $21bn Immunomedics acquisition has performed better than feared but the high acquisition price constrains management flexibility."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Income-oriented investors seeking a generous dividend backed by a durable HIV cash flow franchise. Thematic investors in HIV prevention and oncology ADC platforms."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD. BUY below $115 (implies 17x P/E on base-case EPS - attractive for a cash-generative franchise with lenacapavir optionality). Reduce above $155 (implies 23x P/E pricing in optimistic lenacapavir scenarios)."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $115 (implies 17x P/E on base-case EPS - attractive for a cash-generative franchise with lenacapavir optionality). | Reduce above $155 (implies 23x P/E pricing in optimistic lenacapavir scenarios)."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 61,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 61,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 61
       }
     ]
   }

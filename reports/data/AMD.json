@@ -1,171 +1,108 @@
 {
   "meta": {
     "ticker": "AMD",
-    "company": "Advanced Micro Devices Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "10 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 60,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "AMD - Advanced Micro Devices Inc",
+    "exchange": "#N/A",
+    "isin": "US0079031078",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "SPECULATIVE BUY",
+    "conviction": 66,
+    "lastRefreshed": "2026-04-18T15:09:10.376Z",
     "universes": [
+      "fortune100",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "current": 245.04,
-    "marketCap": 399500000000.0,
-    "marketCapFormatted": "$399.50B",
-    "trailingPE": 93.91,
-    "trailingEps": 2.61,
-    "fiftyTwoWeekHigh": 267.08,
-    "fiftyTwoWeekLow": 83.75,
-    "formatted": ""
+    "current": 278.39,
+    "currency": "USD",
+    "marketCap": "453870000000",
+    "pe": 106.69,
+    "eps": 2.61,
+    "week52High": 281.05,
+    "week52Low": 83.75,
+    "beta": 1.96,
+    "avgVolume": "33725212",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "AI chip demand",
+      "strong quarterly earnings",
+      "competitive positioning",
+      "data center growth",
+      "stock price rally"
+    ],
+    "summary": "AMD sentiment is positive driven by strong demand for AI chips and robust quarterly earnings, with analysts maintaining an optimistic tone due to growth in data center revenue. Recent price momentum reflects investor confidence, and near-term catalysts include upcoming product launches and potential market share gains against competitors.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 22,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 20,
+    "bearScore": 38,
+    "conviction": 66
   },
   "sections": {
     "executiveSummary": {
-      "text": "AMD is the most credible alternative to NVIDIA in AI accelerators and has made genuine GPU architecture progress, but at a P/E of 94x the market is already pricing a successful execution of an extremely demanding AI trajectory - HOLD is the appropriate recommendation at current levels."
+      "text": "AMD is the most credible alternative to NVIDIA in AI accelerators and has made genuine GPU architecture progress, but at a P/E of 94x the market is already pricing a successful execution of an extremely demanding AI trajectory"
     },
     "businessModel": {
-      "text": "AMD designs and sells semiconductors across four primary segments: Data Centre (servers, AI accelerators, EPYC CPUs), Client (Ryzen PC and laptop processors), Gaming (Radeon GPUs and semi-custom chips for consoles), and Embedded (XPandIO, FPGAs, and networking). The Data Centre segment is now the primary value driver, having surpassed Client as the largest revenue contributor in FY2024-25, driven by demand for MI300X AI accelerators which compete directly with NVIDIA's H100/H200 stack. AMD's ROCm software ecosystem is improving but remains a weaker moat than NVIDIA's CUDA - this is the single most important competitive variable going forward. The companyfabless model - manufacturing via TSMC - provides capital efficiency but means AMD does not control its own foundry capacity, a structural consideration in times of supply constraint."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Note: Revenue figures are consensus estimates. Cash and debt from last reported balance sheet.",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$245.04"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$399.5 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "93.91x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$2.61"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$267.08"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$83.75"
-        },
-        {
-          "label": "Shares Outstanding",
-          "value": "1.63 billion"
-        },
-        {
-          "label": "Avg Daily Volume",
-          "value": "33.9 million"
-        },
-        {
-          "label": "Revenue (FY2025 est.)",
-          "value": "~$30-32 billion"
-        },
-        {
-          "label": "Data Centre Revenue (FY2025 est.)",
-          "value": "~$13-15 billion"
-        }
-      ]
+      "price": 278.39,
+      "pe": 106.69,
+      "eps": 2.61,
+      "marketCap": "453870000000",
+      "week52High": 281.05,
+      "week52Low": 83.75,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "MI300X acceleration: AMD's AI accelerator sales have grown meaningfully since the MI300X launch, reaching multi-billion-dollar annual revenue run rate. Hyperscaler adoption beyond the initial Microsoft and Meta deployments is the key test - and evidence of expanded uptake has supported the stock in 2025-26. ROCm software ecosystem: AMD has invested heavily in making its software stack more developer-friendly, closing the gap with CUDA. Greater ROCm compatibility reduces the switching cost for AI model deployments away from NVIDIA, which is a necessary condition for AMD to gain AI market share. Consumption tariff risk: Like all semiconductor names, AMD is exposed to tariff-driven cost inflation. The fabless model via TSMC provides some insulation, but end-product pricing pressure is a margin risk if the full tariff burden cannot be passed on. China revenue exposure: US export controls restrict AMD's ability to sell high-end AI chips to China. This limits the total addressable market and creates uncertainty around geographic revenue mix. Intel competition dynamics: Intel's foundry difficulties and competitive weakness in AI create a two-way framing for AMD - less competitive pressure on CPU, but the Data Centre AI narrative is primarily judged against NVIDIA, not Intel.",
-      "items": [
-        "MI300X acceleration: AMD's AI accelerator sales have grown meaningfully since the MI300X launch, reaching multi-billion-dollar annual revenue run rate. Hyperscaler adoption beyond the initial Microsoft and Meta deployments is the key test - and evidence of expanded uptake has supported the stock in 2025-26.",
-        "ROCm software ecosystem: AMD has invested heavily in making its software stack more developer-friendly, closing the gap with CUDA. Greater ROCm compatibility reduces the switching cost for AI model deployments away from NVIDIA, which is a necessary condition for AMD to gain AI market share.",
-        "Consumption tariff risk: Like all semiconductor names, AMD is exposed to tariff-driven cost inflation. The fabless model via TSMC provides some insulation, but end-product pricing pressure is a margin risk if the full tariff burden cannot be passed on.",
-        "China revenue exposure: US export controls restrict AMD's ability to sell high-end AI chips to China. This limits the total addressable market and creates uncertainty around geographic revenue mix.",
-        "Intel competition dynamics: Intel's foundry difficulties and competitive weakness in AI create a two-way framing for AMD - less competitive pressure on CPU, but the Data Centre AI narrative is primarily judged against NVIDIA, not Intel."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Scenario (30% weight): MI300 series gains significant hyperscaler traction, ROCm closes the software gap to CUDA, and AMD achieves 20%+ Data Centre market share in AI accelerators by 2027. EPS inflects sharply higher, justifying a re-rating. Price target ~$310-340. Score: 85 Base Scenario (50% weight): AMD maintains steady Data Centre CPU share, MI300 series grows but at a measured pace, and ROCm ecosystem gains gradual adoption. EPS grows at 15-20% annually but the P/E stays elevated, capping share price appreciation. Price target ~$250-280. Score: 60 Bear Scenario (20% weight): NVIDIA's competitive moat (CUDA, NVLink, new Blackwell architecture) proves insurmountable; hyperscalers consolidate AI chip buying around NVIDIA; AMD's MI series growth plateaus. Multiple de-rates sharply to 50-60x P/E. Price target ~$120-145. Score: 25 Conviction Score: (85×0.30) + (60×0.50) + (25×0.20) = 59.5 → 60 - HOLD (borderline REDUCE)",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "NVIDIA CUDA moat: The single biggest risk is that CUDA ecosystem lock-in is durable enough that AMD's hardware progress cannot convert into meaningful AI accelerator market share. Software ecosystem is the long-pole in this race. Valuation stretch: A P/E of 94x for a company with EPS of $2.61 leaves almost no room for execution missteps. Any Data Centre revenue miss would cause a sharp de-rating. TSMC supply and geopolitical concentration: AMD relies entirely on TSMC for leading-edge silicon. Taiwan Strait risk or TSMC capacity constraints would be disruptive, and there is no obvious alternative supplier at scale. Export controls: US restrictions on AI chip exports to China limit AMD's addressable market in what is a large and growing AI compute market. Competitive CPU pressure: Intel's Xeon roadmap recovery and ARM-based CPU competition (Qualcomm, Ampere, Amazon's Graviton) could pressure the Server CPU business that underpins AMD's base earnings power.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "NVIDIA CUDA moat: The single biggest risk is that CUDA ecosystem lock-in is durable enough that AMD's hardware progress cannot convert into meaningful AI accelerator market share. Software ecosystem is the long-pole in this race."
-        },
-        {
-          "rank": 2,
-          "risk": "Valuation stretch: A P/E of 94x for a company with EPS of $2.61 leaves almost no room for execution missteps. Any Data Centre revenue miss would cause a sharp de-rating."
-        },
-        {
-          "rank": 3,
-          "risk": "TSMC supply and geopolitical concentration: AMD relies entirely on TSMC for leading-edge silicon. Taiwan Strait risk or TSMC capacity constraints would be disruptive, and there is no obvious alternative supplier at scale."
-        },
-        {
-          "rank": 4,
-          "risk": "Export controls: US restrictions on AI chip exports to China limit AMD's addressable market in what is a large and growing AI compute market."
-        },
-        {
-          "rank": 5,
-          "risk": "Competitive CPU pressure: Intel's Xeon roadmap recovery and ARM-based CPU competition (Qualcomm, Ampere, Amazon's Graviton) could pressure the Server CPU business that underpins AMD's base earnings power."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own if: You have high conviction that AMD's MI300 series will achieve significant AI accelerator market share gains, you have a 3-5 year horizon, and you are comfortable with elevated volatility at a 94x P/E. Speculative and thematic tech allocators may find the risk-reward compelling here. Avoid or trim if: You are valuation-sensitive or managing risk in a concentrated tech position. The risk of NVIDIA maintaining an insurmountable software moat is underweighted by the market at current levels. A position in AMD should not crowd out exposure to NVIDIA itself in a diversified AI allocation."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD - with a narrow margin to REDUCE. AMD is a genuinely good semiconductor business with a credible AI accelerator story. The problem is price: at $245 and a P/E of 94x, almost all the good news appears to be in the stock. The conviction score of 60 reflects this - it sits precisely at the boundary between HOLD and REDUCE. If you already own it from lower levels, holding is reasonable. Initiating a new position here requires either strong conviction in a bull scenario or a willingness to absorb significant volatility."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Add / Initiate: Below $190 - a ~22% pullback from current levels, representing a P/E of ~73x, which begins to price in some execution risk rather than assuming everything goes right. HOLD zone: $190-$255 - current levels. AMD is not dramatically mispriced in either direction for a investor with a 3-year horizon and conviction in the AI accelerator theme. Trim / Reduce: $255-$268 - approaching the 52-week high of $267.08. At these levels the risk-reward is poor given the elevated P/E. Stop-loss consideration: A sustained break below $185 (52-week low is $83.75, so this is a wide band) would need fundamental explanation - but any sustained weakness below $185 following an earnings miss would be a signal to reduce materially."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "AMD Q4 FY2024 / Q1-Q3 FY2025 earnings releases and SEC filings",
-        "Consensus estimates via Bloomberg / FactSet (FY2025 EPS $2.61)",
-        "Trading data: Live market data via DYOR HQ data pipeline - captured 10 Apr 2026",
-        "52-week high/low, volume: same source",
-        "TSMC capacity and geopolitical risk analysis (multiple industry sources)",
-        "US Commerce Department export control documentation"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 60,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 66,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 60,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 60
       }
     ]
   }

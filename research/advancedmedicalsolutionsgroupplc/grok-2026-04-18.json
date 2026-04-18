@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "innovation pipeline",
+    "market expansion",
+    "analyst optimism",
+    "share price growth"
+  ],
+  "summary": "Advanced Medical Solutions Group plc (AMS) exhibits a positive sentiment driven by recent strong earnings reports and optimism from analysts regarding its innovation in wound care and surgical products. Price momentum has been upward with consistent gains, and potential near-term catalysts include new product launches and expansion into emerging markets.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"innovation pipeline\", \"market expansion\", \"analyst optimism\", \"share price growth\"],\n  \"summary\": \"Advanced Medical Solutions Group plc (AMS) exhibits a positive sentiment driven by recent strong earnings reports and optimism from analysts regarding its innovation in wound care and surgical products. Price momentum has been upward with consistent gains, and potential near-term catalysts include new product launches and expansion into emerging markets.\"\n}"
+}

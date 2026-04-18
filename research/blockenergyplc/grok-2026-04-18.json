@@ -1,0 +1,13 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "operational challenges",
+    "price decline",
+    "limited catalysts",
+    "analyst caution",
+    "market sentiment"
+  ],
+  "summary": "Block Energy PLC (BLOE) exhibits a negative sentiment due to recent operational updates showing limited production growth and a declining share price trend over the past few months. Analyst tone remains cautious with no significant near-term catalysts to drive positive momentum.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"operational challenges\", \"price decline\", \"limited catalysts\", \"analyst caution\", \"market sentiment\"],\n  \"summary\": \"Block Energy PLC (BLOE) exhibits a negative sentiment due to recent operational updates showing limited production growth and a declining share price trend over the past few months. Analyst tone remains cautious with no significant near-term catalysts to drive positive momentum.\"\n}"
+}

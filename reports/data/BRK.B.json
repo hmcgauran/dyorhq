@@ -1,107 +1,113 @@
 {
   "meta": {
     "ticker": "BRK.B",
-    "company": "Berkshire Hathaway Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
+    "company": "BRK.B - Berkshire Hathaway Inc",
+    "exchange": "#N/A",
+    "isin": "US0846707026",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
     "recommendation": "BUY",
-    "recommendationNote": "BUY",
-    "conviction": 83,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.378Z",
     "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 474.58,
+    "currency": "USD",
+    "marketCap": "1023141877788",
+    "pe": 0.01,
+    "eps": 46563.02,
+    "week52High": 542.07,
+    "week52Low": 455.19,
+    "beta": 0.71,
+    "avgVolume": "4551966",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong fundamentals",
+      "diversified portfolio",
+      "Buffett leadership",
+      "market confidence",
+      "economic recovery"
+    ],
+    "summary": "Berkshire Hathaway (BRK.B) exhibits a positive sentiment driven by confidence in Warren Buffett's leadership and the company's diversified holdings, which continue to perform well amid economic recovery. Recent analyst tone remains optimistic, supported by steady price momentum and no immediate negative catalysts.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 37,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 7,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
       "text": "Berkshire Hathaway is a conglomerate holding company with dominant insurance operations and a disciplined capital allocation philosophy; its intrinsic value growing at above-market rates and significant liquidity make it a compelling long-term hold at $479.90."
     },
     "businessModel": {
-      "text": "Berkshire operates a diversified conglomerate with two core segments. Key revenue streams: Insurance underwriting: GEICO, reinsurance (General Re, BRK B reinsurance), and other specialty insurers. Float-funded investments generate investment income. Insurance investment income: Float from insurance operations is invested in equities, bonds, and cash - a significant and growing earnings driver. Railroad (BNSF): One of North America's largest freight railroads, generating stable, capital-intensive cash flows. Utilities (Berkshire Hathaway Energy): Regulated and unregulated energy businesses providing reliable long-term earnings. Manufacturing, Services &amp; Retail: Wide-ranging operations from Precision Castparts to Dairy Queen - diverse, often cyclical. Apple and equity portfolio: Significant minority stakes in publicly traded companies, particularly Apple (~$150bn+ position). The genius of the model is the insurance float - capital collected before claims are paid - deployed at Berkshire's discretion into higher-returning assets."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 474.58,
+      "pe": 0.01,
+      "eps": 46563.02,
+      "marketCap": "1023141877788",
+      "week52High": 542.07,
+      "week52Low": 455.19,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
       "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (30% weight) Major acquisition or strategic share buyback funded by the $325bn+ cash pile; Apple position continues to appreciate; insurance float compounds at historic rates. Target: $560-610 Base Case (50% weight) Steady intrinsic value growth of 8-10% annually driven by insurance earnings and portfolio; stock trades in line with book value growth; modest premium to book persists. Target: $480-520 Bear Case (20% weight) Prolonged equity drawdown hits investment portfolio; major catastrophe loss in reinsurance; recession compresses railroad and manufacturing earnings; book value per share falls. Target: $355 Weighted Conviction Score: 83 / 100 - BUY",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Equity market drawdown: ~$400bn+ of the investment portfolio is in publicly traded equities; a 30% market correction would reduce reported book value significantly. Succession risk: Post-Buffett, the investment and capital allocation decisions - arguably the most critical ingredient in Berkshire's value - face an execution gap. Catastrophe risk: As a major reinsurer, large natural catastrophes or man-made losses can create large, sudden underwriting losses. Concentration risk: Apple alone represents ~40% of the equity portfolio; a drawdown in Apple disproportionately affects reported results. Overpayment risk: Berkshire's size makes it difficult to deploy capital at attractive rates; acquirers of last resort risk overpaying in competitive processes.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Equity market drawdown: ~$400bn+ of the investment portfolio is in publicly traded equities; a 30% market correction would reduce reported book value significantly."
-        },
-        {
-          "rank": 2,
-          "risk": "Succession risk: Post-Buffett, the investment and capital allocation decisions - arguably the most critical ingredient in Berkshire's value - face an execution gap."
-        },
-        {
-          "rank": 3,
-          "risk": "Catastrophe risk: As a major reinsurer, large natural catastrophes or man-made losses can create large, sudden underwriting losses."
-        },
-        {
-          "rank": 4,
-          "risk": "Concentration risk: Apple alone represents ~40% of the equity portfolio; a drawdown in Apple disproportionately affects reported results."
-        },
-        {
-          "rank": 5,
-          "risk": "Overpayment risk: Berkshire's size makes it difficult to deploy capital at attractive rates; acquirers of last resort risk overpaying in competitive processes."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own It:\n• Long-term investors seeking a diversified, conservatively managed holding company that compounds capital reliably.\n• Those who want equity-like returns with bond-like downside discipline - Berkshire rarely overpays and often buys back shares opportunistically.\n• Investors who trust the insurance float model and Berkshire's ability to deploy massive cash at above-market rates.\n\nAvoid It:\n• Investors needing income - no dividend.\n• Short-term traders - the stock is a compounding machine, not a trading vehicle.\n• Those expecting Berkshire to always deploy cash aggressively - management's discipline is a feature, not a bug, but means periods of apparent inactivity."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "BUY Trading below 52-week high with a P/E of 11.8x and price/book of 1.23x, Berkshire offers exceptional quality at reasonable valuation; the cash pile and insurance float provide a structural advantage unavailable to most investors. Entry / Exit Framework Conviction Score 83 / 100 - BUY Entry Below $470 - attractive relative to intrinsic value Add Below $400 - high conviction deep value zone Reduce / Exit Above $580 - full valuation; shift to less expensive quality Time Horizon 36-60 months minimum"
+      "text": ""
     },
-    "entryExit": {
-      "text": "Entry / Exit Framework Conviction Score 83 / 100 - BUY Entry Below $470 - attractive relative to intrinsic value Add Below $400 - high conviction deep value zone Reduce / Exit Above $580 - full valuation; shift to less expensive quality Time Horizon 36-60 months minimum Sources Live market data via DYOR HQ data pipeline Berkshire Hathaway annual reports (Letter to Shareholders) and SEC filings SNL Financial and S&amp;P Capital IQ Insurance Information Institute and A.M. Best Report generated 11 April 2026. For informational purposes only. Not financial advice."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 83,
+      "score": 73,
       "band": "BUY",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 83,
-        "band": "BUY",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 83
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 50
       }
     ]
   }

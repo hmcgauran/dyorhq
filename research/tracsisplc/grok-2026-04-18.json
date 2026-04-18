@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "contract wins",
+    "technology adoption",
+    "market expansion"
+  ],
+  "summary": "Tracsis Plc (TRCS) exhibits a positive sentiment driven by recent strong earnings reports and new contract wins in the rail technology sector. Analyst tone remains cautiously optimistic, with price momentum showing steady upward trends, though no major near-term catalysts are evident.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"contract wins\", \"technology adoption\", \"market expansion\"],\n  \"summary\": \"Tracsis Plc (TRCS) exhibits a positive sentiment driven by recent strong earnings reports and new contract wins in the rail technology sector. Analyst tone remains cautiously optimistic, with price momentum showing steady upward trends, though no major near-term catalysts are evident.\"\n}"
+}

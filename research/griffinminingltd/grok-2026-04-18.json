@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong production",
+    "rising zinc prices",
+    "China operations risk",
+    "analyst optimism",
+    "dividend potential"
+  ],
+  "summary": "Griffin Mining Ltd (GFM) shows positive sentiment driven by strong production updates at its Caijiaying Mine and favorable zinc price trends, though risks tied to operations in China persist. Analyst tone remains cautiously optimistic, with price momentum showing steady gains and potential for dividend announcements as a near-term catalyst.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong production\", \"rising zinc prices\", \"China operations risk\", \"analyst optimism\", \"dividend potential\"],\n  \"summary\": \"Griffin Mining Ltd (GFM) shows positive sentiment driven by strong production updates at its Caijiaying Mine and favorable zinc price trends, though risks tied to operations in China persist. Analyst tone remains cautiously optimistic, with price momentum showing steady gains and potential for dividend announcements as a near-term catalyst.\"\n}"
+}

@@ -1,0 +1,12 @@
+{
+  "score": 56,
+  "signal": "positive",
+  "key_themes": [
+    "steady performance",
+    "sustainability focus",
+    "market stability",
+    "dividend reliability"
+  ],
+  "summary": "FW Thorpe plc (TFW) shows a mildly positive sentiment with stable financial performance and a focus on sustainable lighting solutions gaining traction. Recent news highlights consistent dividends and steady demand, though price momentum remains moderate with no significant near-term catalysts.",
+  "raw": "{\n  \"score\": 15,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"steady performance\", \"sustainability focus\", \"market stability\", \"dividend reliability\"],\n  \"summary\": \"FW Thorpe plc (TFW) shows a mildly positive sentiment with stable financial performance and a focus on sustainable lighting solutions gaining traction. Recent news highlights consistent dividends and steady demand, though price momentum remains moderate with no significant near-term catalysts.\"\n}"
+}

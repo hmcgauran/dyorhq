@@ -1,0 +1,13 @@
+{
+  "score": 44,
+  "signal": "negative",
+  "key_themes": [
+    "earnings miss",
+    "competitive pressure",
+    "stock decline",
+    "management challenges",
+    "generic drug pricing"
+  ],
+  "summary": "Perrigo Company plc (PRGO) is facing a negative sentiment due to a recent earnings miss and ongoing challenges in the generic drug market with pricing pressures. Analyst tone remains cautious, and price momentum has been downward with no significant near-term catalysts to reverse the trend.",
+  "raw": "{\n  \"score\": -15,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"earnings miss\", \"competitive pressure\", \"stock decline\", \"management challenges\", \"generic drug pricing\"],\n  \"summary\": \"Perrigo Company plc (PRGO) is facing a negative sentiment due to a recent earnings miss and ongoing challenges in the generic drug market with pricing pressures. Analyst tone remains cautious, and price momentum has been downward with no significant near-term catalysts to reverse the trend.\"\n}"
+}

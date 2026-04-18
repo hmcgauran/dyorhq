@@ -1,0 +1,13 @@
+{
+  "score": 76,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "cloud networking demand",
+    "AI infrastructure growth",
+    "analyst upgrades",
+    "price momentum"
+  ],
+  "summary": "Arista Networks (ANET) exhibits a positive sentiment driven by strong quarterly earnings, robust demand for cloud networking solutions, and increasing relevance in AI infrastructure. Recent analyst upgrades and sustained upward price momentum further bolster the bullish outlook, with potential near-term catalysts including continued enterprise adoption and upcoming industry events.",
+  "raw": "{\n  \"score\": 75,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"cloud networking demand\", \"AI infrastructure growth\", \"analyst upgrades\", \"price momentum\"],\n  \"summary\": \"Arista Networks (ANET) exhibits a positive sentiment driven by strong quarterly earnings, robust demand for cloud networking solutions, and increasing relevance in AI infrastructure. Recent analyst upgrades and sustained upward price momentum further bolster the bullish outlook, with potential near-term catalysts including continued enterprise adoption and upcoming industry events.\"\n}"
+}

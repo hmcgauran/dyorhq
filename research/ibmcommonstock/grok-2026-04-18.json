@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "cloud growth",
+    "AI innovation",
+    "dividend stability",
+    "economic uncertainty",
+    "hybrid cloud strategy"
+  ],
+  "summary": "IBM shows a positive sentiment driven by strong growth in its cloud and AI sectors, with recent news highlighting advancements in hybrid cloud solutions and analyst tone remaining cautiously optimistic. Price momentum has been steady with potential near-term catalysts from upcoming earnings and AI product launches.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"cloud growth\", \"AI innovation\", \"dividend stability\", \"economic uncertainty\", \"hybrid cloud strategy\"],\n  \"summary\": \"IBM shows a positive sentiment driven by strong growth in its cloud and AI sectors, with recent news highlighting advancements in hybrid cloud solutions and analyst tone remaining cautiously optimistic. Price momentum has been steady with potential near-term catalysts from upcoming earnings and AI product launches.\"\n}"
+}

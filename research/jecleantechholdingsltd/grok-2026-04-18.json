@@ -1,0 +1,13 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "weak financials",
+    "limited news coverage",
+    "stagnant price action",
+    "lack of catalysts",
+    "market uncertainty"
+  ],
+  "summary": "JCSE (JE Cleantech Holdings Ltd) exhibits a slightly negative sentiment due to limited recent news, underwhelming financial performance, and stagnant price momentum. Analyst tone remains cautious with no significant near-term catalysts to drive positive movement.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"weak financials\", \"limited news coverage\", \"stagnant price action\", \"lack of catalysts\", \"market uncertainty\"],\n  \"summary\": \"JCSE (JE Cleantech Holdings Ltd) exhibits a slightly negative sentiment due to limited recent news, underwhelming financial performance, and stagnant price momentum. Analyst tone remains cautious with no significant near-term catalysts to drive positive movement.\"\n}"
+}

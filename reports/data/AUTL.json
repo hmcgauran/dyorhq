@@ -1,113 +1,109 @@
 {
   "meta": {
     "ticker": "AUTL",
-    "company": "Autolus Therapeutics plc",
-    "exchange": "US",
-    "isin": "US05280R1005",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "REDUCE - SPECULATIVE",
-    "recommendationNote": "REDUCE - SPECULATIVE",
-    "conviction": 48,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "Autolus Therapeutics PLC",
+    "exchange": "NASDAQ",
+    "isin": null,
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.395Z",
     "universes": [
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 1.6,
+    "currency": "USD",
+    "marketCap": "425829126",
+    "pe": null,
+    "eps": -1.08,
+    "week52High": 2.7,
+    "week52Low": 1.15,
+    "beta": 2.04,
+    "avgVolume": "1712640",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 42,
+    "signal": "negative",
+    "keyThemes": [
+      "clinical trial delays",
+      "analyst caution",
+      "stock price decline",
+      "pipeline uncertainty"
+    ],
+    "summary": "Autolus Therapeutics PLC (AUTL) faces a negative sentiment due to recent delays in clinical trial updates and cautious analyst commentary regarding pipeline progress. The stock has experienced downward price momentum, reflecting investor concerns over near-term catalysts.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 32,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 14,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Autolus is a clinical biotech name where the upside exists only if the science and regulatory path work. At $1.49 with a market cap of roughly $362M and negative EPS, the stock is still deep in speculative territory. This is a pipeline bet, not an operating company. Bottom line: REDUCE - SPECULATIVE . Real upside if clinical outcomes land, but still too binary to rate more positively from here."
+      "text": "AUCATZYL Year-1 revenue USD 75M, 2026 guidance USD 120-135M. Commercial launch real but facing Tecartus competition. Cash burn and financing risk. REDUCE SPEC at USD 1.61."
     },
     "businessModel": {
-      "text": "Autolus develops engineered T-cell therapies in oncology. Value comes from clinical trial success, regulatory progress and partnership credibility. Like all biotech development names, the business model is essentially capital deployment into data generation until something works."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: $1.49 Market cap: $362M Day range: $1.41 - $1.50 P/E: N/A EPS: -$1.08 Beta: 2.10",
-      "table": []
+      "price": 1.6,
+      "pe": null,
+      "eps": -1.08,
+      "marketCap": "425829126",
+      "week52High": 2.7,
+      "week52Low": 1.15,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Clinical and regulatory updates remain the whole story. Biotech funding conditions matter heavily at this scale. Any data disappointment would be painful from here.",
-      "items": [
-        "Clinical and regulatory updates remain the whole story.",
-        "Biotech funding conditions matter heavily at this scale.",
-        "Any data disappointment would be painful from here."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): positive clinical and regulatory progress rerates the shares sharply. Base (45%): continued uncertainty keeps the stock speculative and volatile. Bear (30%): data or financing disappointments drive further downside. Weighted conviction: 48/100.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Clinical risk: always number one. Funding risk: biotech balance sheets matter. Binary volatility: event-driven drawdowns can be severe.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Clinical risk: always number one."
-        },
-        {
-          "rank": 2,
-          "risk": "Funding risk: biotech balance sheets matter."
-        },
-        {
-          "rank": 3,
-          "risk": "Binary volatility: event-driven drawdowns can be severe."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: only biotech investors comfortable with binary risk. Should avoid: anyone needing earnings visibility or risk control."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - SPECULATIVE at $1.49. Still a data trade, not a de-risked investment case."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Below $1.20: more interesting for biotech specialists only $1.2-$1.6: speculative zone Key trigger: clearly positive clinical and regulatory progress Conviction Trend Latest conviction: 48/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 48"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price $1.49",
-        "Market Cap $362M",
-        "EPS -$1.08",
-        "Day High $1.50",
-        "Day Low $1.41"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 48,
-      "band": "REDUCE",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 48,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 48
+      },
+      {
+        "date": "2026-04-16",
+        "conviction": 44
       }
     ]
   }

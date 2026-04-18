@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "market expansion",
+    "analyst optimism",
+    "share price growth"
+  ],
+  "summary": "YouGov Plc (YOU) exhibits a positive sentiment with a score of 45, driven by recent strong earnings reports and successful market expansion efforts. Analyst tone remains optimistic, supported by consistent price momentum and potential near-term catalysts like new data product launches.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"market expansion\", \"analyst optimism\", \"share price growth\"],\n  \"summary\": \"YouGov Plc (YOU) exhibits a positive sentiment with a score of 45, driven by recent strong earnings reports and successful market expansion efforts. Analyst tone remains optimistic, supported by consistent price momentum and potential near-term catalysts like new data product launches.\"\n}"
+}

@@ -1,117 +1,110 @@
 {
   "meta": {
     "ticker": "ADSE",
-    "company": "Ads-Tec Energy PLC",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 38,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "ADSE - Ads-Tec Energy PLC",
+    "exchange": "#N/A",
+    "isin": "IE000DU292E6",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.376Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 11.61,
+    "currency": "USD",
+    "marketCap": "696725156",
+    "pe": null,
+    "eps": -1.08,
+    "week52High": 14.05,
+    "week52Low": 7.89,
+    "beta": 0.38,
+    "avgVolume": "9531",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 42,
+    "signal": "negative",
+    "keyThemes": [
+      "weak earnings",
+      "market competition",
+      "limited catalysts",
+      "price decline"
+    ],
+    "summary": "ADSE (Ads-Tec Energy PLC) shows a negative sentiment due to recent underwhelming earnings reports and increasing competition in the EV charging sector. Analyst tone remains cautious, with price momentum trending downward over the past month, and no significant near-term catalysts to drive positive movement.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 32,
+    "bullScore": 88,
+    "baseProbability": 54,
+    "baseScore": 68,
+    "bearProbability": 14,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Ads-Tec Energy PLC (ADSE) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 38/100, using $11.8 as the latest stored price reference where available."
+      "text": "Ads-Tec Energy makes battery-buffered fast charging systems and related energy management software. The interesting part of the story is not simply EV charging demand, but whether the company can prove that its buffer technology solves grid-connection bottlenecks in locations where conventional ultra-fast chargers are hard or expensive to install. The shares still look speculative because adoption depends on project execution, channel build-out and funding discipline rather than a long record of recurring cash generation."
     },
     "businessModel": {
-      "text": "Ads-Tec Energy PLC is exposed to EV charging and energy-storage infrastructure, so execution, customer adoption and funding access matter more than simple theme exposure."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$11.8"
-        },
-        {
-          "label": "Company",
-          "value": "Ads-Tec Energy PLC"
-        },
-        {
-          "label": "Recommendation",
-          "value": "REDUCE"
-        },
-        {
-          "label": "Conviction",
-          "value": "38/100"
-        },
-        {
-          "label": "Universe",
-          "value": "irish"
-        }
-      ]
+      "price": 11.61,
+      "pe": null,
+      "eps": -1.08,
+      "marketCap": "696725156",
+      "week52High": 14.05,
+      "week52Low": 7.89,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Project wins, deployment pace, margin direction and backlog conversion are the core catalysts."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Early-stage infrastructure demand can be lumpy. Execution risk remains high in hardware deployments. Capital needs can dilute shareholders. Competition in charging and storage can intensify. Policy support can change faster than expected.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Early-stage infrastructure demand can be lumpy."
-        },
-        {
-          "rank": 2,
-          "risk": "Execution risk remains high in hardware deployments."
-        },
-        {
-          "rank": 3,
-          "risk": "Capital needs can dilute shareholders."
-        },
-        {
-          "rank": 4,
-          "risk": "Competition in charging and storage can intensify."
-        },
-        {
-          "rank": 5,
-          "risk": "Policy support can change faster than expected."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: High-risk investors seeking thematic electrification exposure. Avoid: Investors needing cash-flow stability and low dilution risk."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 38/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 38,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 38,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-11",
+        "conviction": 38
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 54
       }
     ]
   }

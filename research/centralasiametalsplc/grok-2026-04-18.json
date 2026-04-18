@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "stable production",
+    "copper demand",
+    "dividend yield",
+    "geopolitical risks",
+    "price recovery"
+  ],
+  "summary": "Central Asia Metals PLC (CAML) shows a positive sentiment with stable production reports and a strong dividend yield attracting investor interest, supported by recovering copper prices. However, geopolitical risks in Central Asia remain a concern, tempering overly bullish outlooks.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"stable production\", \"copper demand\", \"dividend yield\", \"geopolitical risks\", \"price recovery\"],\n  \"summary\": \"Central Asia Metals PLC (CAML) shows a positive sentiment with stable production reports and a strong dividend yield attracting investor interest, supported by recovering copper prices. However, geopolitical risks in Central Asia remain a concern, tempering overly bullish outlooks.\"\n}"
+}

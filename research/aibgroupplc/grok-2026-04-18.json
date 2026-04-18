@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "economic recovery",
+    "interest rate environment",
+    "dividend growth",
+    "market competition"
+  ],
+  "summary": "AIB Group plc (AIBG) shows a positive sentiment driven by strong recent earnings reports and optimism around economic recovery in Ireland, though tempered by competitive pressures in the banking sector. Analyst tone remains cautiously bullish, with price momentum showing steady gains and potential catalysts like rising interest rates and dividend announcements on the horizon.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"economic recovery\", \"interest rate environment\", \"dividend growth\", \"market competition\"],\n  \"summary\": \"AIB Group plc (AIBG) shows a positive sentiment driven by strong recent earnings reports and optimism around economic recovery in Ireland, though tempered by competitive pressures in the banking sector. Analyst tone remains cautiously bullish, with price momentum showing steady gains and potential catalysts like rising interest rates and dividend announcements on the horizon.\"\n}"
+}

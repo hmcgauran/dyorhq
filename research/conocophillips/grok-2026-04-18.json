@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "oil price recovery",
+    "dividend stability",
+    "production growth",
+    "energy sector tailwinds"
+  ],
+  "summary": "ConocoPhillips (COP) exhibits a positive sentiment driven by strong recent earnings, favorable oil price trends, and consistent dividend payouts. Analyst tone remains cautiously optimistic, with price momentum showing steady gains and potential catalysts from increased production targets in upcoming quarters.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"oil price recovery\", \"dividend stability\", \"production growth\", \"energy sector tailwinds\"],\n  \"summary\": \"ConocoPhillips (COP) exhibits a positive sentiment driven by strong recent earnings, favorable oil price trends, and consistent dividend payouts. Analyst tone remains cautiously optimistic, with price momentum showing steady gains and potential catalysts from increased production targets in upcoming quarters.\"\n}"
+}

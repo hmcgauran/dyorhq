@@ -1,124 +1,111 @@
 {
   "meta": {
     "ticker": "JHX",
-    "company": "James Hardie Industries",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "JHX - James Hardie Industries plc",
+    "exchange": "#N/A",
+    "isin": "US47030M1062",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "SPECULATIVE BUY",
+    "conviction": 68,
+    "lastRefreshed": "2026-04-18T15:09:10.385Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "current": 21.02,
-    "fiftyTwoWeekHigh": 29.83,
-    "fiftyTwoWeekLow": 16.46,
-    "formatted": ""
+    "current": 21.75,
+    "currency": "USD",
+    "marketCap": "12618714900",
+    "pe": 81.27,
+    "eps": 0.27,
+    "week52High": 29.83,
+    "week52Low": 16.46,
+    "beta": null,
+    "avgVolume": "6957184",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "housing market demand",
+      "analyst upgrades",
+      "global expansion",
+      "raw material costs"
+    ],
+    "summary": "James Hardie Industries (JHX) exhibits a positive sentiment driven by strong quarterly earnings and sustained demand in the housing market, bolstered by analyst upgrades. However, potential headwinds from rising raw material costs could temper optimism in the near term.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 25,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 18,
+    "bearScore": 38,
+    "conviction": 68
   },
   "sections": {
     "executiveSummary": {
-      "text": "James Hardie Industries (JHX) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $21.02 as the latest stored price reference where available."
+      "text": "James Hardie is a building products specialist best known for fibre cement siding, with a strong position in the US market. The company has enviable brand and category strength, but the shares always carry housing-cycle risk because repair, remodel and new-build activity remain central to demand. The challenge for investors is paying the right price for a very good business in a cyclical end market."
     },
     "businessModel": {
-      "text": "James Hardie Industries is exposed to repair, remodel and non-residential building activity, with returns shaped by volume discipline, pricing and product mix. The rebuilt note now matches the corrected company mapping."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$21.02"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "N/A"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "N/A"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$29.83"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$16.46"
-        }
-      ]
+      "price": 21.75,
+      "pe": 81.27,
+      "eps": 0.27,
+      "marketCap": "12618714900",
+      "week52High": 29.83,
+      "week52Low": 16.46,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Housing and renovation demand, infrastructure activity, mix improvement and cost recovery are the main operating levers."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Construction activity can soften in a weaker macro backdrop. Input-cost inflation can pressure margins. Volumes can fall faster than pricing adjusts. Acquisition or integration execution can disappoint. Channel destocking can create noisy quarters.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Construction activity can soften in a weaker macro backdrop."
-        },
-        {
-          "rank": 2,
-          "risk": "Input-cost inflation can pressure margins."
-        },
-        {
-          "rank": 3,
-          "risk": "Volumes can fall faster than pricing adjusts."
-        },
-        {
-          "rank": 4,
-          "risk": "Acquisition or integration execution can disappoint."
-        },
-        {
-          "rank": 5,
-          "risk": "Channel destocking can create noisy quarters."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors who want cyclical building-products exposure with operating leverage. Avoid: Investors seeking defensive earnings and low macro sensitivity."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "2026-04-11",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 68,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-11",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 50
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 60
       }
     ]
   }

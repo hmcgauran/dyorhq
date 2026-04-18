@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "stable dividends",
+    "renewable energy investments",
+    "regulatory challenges",
+    "strong Q3 earnings",
+    "infrastructure growth"
+  ],
+  "summary": "Southern Company (SO) shows a positive sentiment with a score of 45, driven by strong Q3 earnings and consistent dividend stability, alongside growing investments in renewable energy. However, regulatory hurdles in key markets slightly temper the bullish outlook.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\n    \"stable dividends\",\n    \"renewable energy investments\",\n    \"regulatory challenges\",\n    \"strong Q3 earnings\",\n    \"infrastructure growth\"\n  ],\n  \"summary\": \"Southern Company (SO) shows a positive sentiment with a score of 45, driven by strong Q3 earnings and consistent dividend stability, alongside growing investments in renewable energy. However, regulatory hurdles in key markets slightly temper the bullish outlook.\"\n}"
+}

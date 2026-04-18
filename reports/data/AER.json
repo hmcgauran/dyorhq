@@ -1,124 +1,110 @@
 {
   "meta": {
     "ticker": "AER",
-    "company": "AerCap Holdings N.V.",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "AER - AerCap Holdings N.V.",
+    "exchange": "#N/A",
+    "isin": "NL0000687663",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 75,
+    "lastRefreshed": "2026-04-18T15:09:10.376Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "current": 145.53,
-    "fiftyTwoWeekHigh": 154.94,
-    "fiftyTwoWeekLow": 89.41,
-    "formatted": ""
+    "current": 147.45,
+    "currency": "USD",
+    "marketCap": "24605939415",
+    "pe": 6.92,
+    "eps": 21.3,
+    "week52High": 154.94,
+    "week52Low": 93.28,
+    "beta": 0.99,
+    "avgVolume": "1382964",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "aircraft leasing demand",
+      "stock price recovery",
+      "global travel rebound"
+    ],
+    "summary": "AerCap Holdings N.V. (AER) exhibits a positive sentiment driven by strong quarterly earnings and increasing demand for aircraft leasing amid a global travel rebound. Analyst tone remains optimistic, supported by recent price momentum and no significant near-term negative catalysts.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 40,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 5,
+    "bearScore": 38,
+    "conviction": 75
   },
   "sections": {
     "executiveSummary": {
-      "text": "AerCap Holdings N.V. (AER) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $145.53 as the latest stored price reference where available."
+      "text": "AerCap is the largest listed aircraft lessor and its investment case is driven by fleet quality, lease yields, funding access and residual value discipline. The company benefits when airlines want capacity but prefer not to own aircraft outright, especially in a market where manufacturer delivery delays keep equipment tight. The question is less about top-line growth than about how long the current favourable supply-demand balance can support lease economics without a credit or travel downturn intervening."
     },
     "businessModel": {
-      "text": "AerCap Holdings N.V. is an aircraft leasing business whose valuation depends on fleet utilisation, funding costs, asset values and airline credit quality. The repaired note is concise but now correctly reflects the company rather than an unrelated defence name."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$145.53"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "N/A"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "N/A"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$154.94"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$89.41"
-        }
-      ]
+      "price": 147.45,
+      "pe": 6.92,
+      "eps": 21.3,
+      "marketCap": "24605939415",
+      "week52High": 154.94,
+      "week52Low": 93.28,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Lease-rate factors, aircraft delivery delays, used-aircraft values and airline capacity discipline remain the major moving parts. Financing spreads also matter for equity returns."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Higher funding costs can squeeze lease economics. Airline stress can raise defaults, restructurings or repossessions. Residual aircraft values can fall in a weaker cycle. OEM delivery delays can disrupt growth assumptions. Geopolitical or regulatory shocks can affect fleet placement.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Higher funding costs can squeeze lease economics."
-        },
-        {
-          "rank": 2,
-          "risk": "Airline stress can raise defaults, restructurings or repossessions."
-        },
-        {
-          "rank": 3,
-          "risk": "Residual aircraft values can fall in a weaker cycle."
-        },
-        {
-          "rank": 4,
-          "risk": "OEM delivery delays can disrupt growth assumptions."
-        },
-        {
-          "rank": 5,
-          "risk": "Geopolitical or regulatory shocks can affect fleet placement."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors comfortable with aviation cycles and balance-sheet analysis. Avoid: Investors wanting simple, low-leverage earnings streams."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "2026-04-11",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 75,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-11",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 50
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 63
       }
     ]
   }

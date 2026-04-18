@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "strategic acquisitions",
+    "market recovery",
+    "dividend growth"
+  ],
+  "summary": "Restore PLC (RST) shows a positive sentiment with recent strong earnings reports and strategic acquisitions boosting investor confidence. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like further market recovery.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"strategic acquisitions\", \"market recovery\", \"dividend growth\"],\n  \"summary\": \"Restore PLC (RST) shows a positive sentiment with recent strong earnings reports and strategic acquisitions boosting investor confidence. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like further market recovery.\"\n}"
+}

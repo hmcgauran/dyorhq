@@ -1,113 +1,111 @@
 {
   "meta": {
-    "ticker": "QED.L",
-    "company": "Quadrise plc",
-    "exchange": "LN",
+    "ticker": "QED",
+    "company": "QED - QED Oncology Inc",
+    "exchange": "LON",
     "isin": "GB00B11DDB67",
-    "date": "8 Apr 2026",
-    "datePublished": "2026-04-08",
-    "recommendation": "HOLD - SPECULATIVE",
-    "recommendationNote": "HOLD - SPECULATIVE",
-    "conviction": 56,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.389Z",
     "universes": [
       "uk",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 3.2,
+    "currency": "GBX",
+    "marketCap": "64099936",
+    "pe": null,
+    "eps": null,
+    "week52High": 5,
+    "week52Low": 1.5,
+    "beta": null,
+    "avgVolume": "7265186",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "clinical trial progress",
+      "analyst optimism",
+      "stock price uptrend",
+      "potential partnerships",
+      "upcoming data readouts"
+    ],
+    "summary": "QED Oncology Inc. shows a positive sentiment with recent news highlighting advancements in clinical trials and favorable analyst coverage pointing to growth potential. Price momentum has been upward over the past month, supported by speculation around near-term catalysts like data readouts and possible partnerships.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 35,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "Quadrise has spent years living in the zone where commercial promise exists, but full validation remains just over the horizon. At 2.70p, up on the day and trading on strong volume, the market is still willing to speculate on the fuel technology and licensing story. That does not make it de-risked. Bottom line: HOLD - SPECULATIVE . Interesting technology optionality, but still too dependent on commercial conversion milestones."
+      "text": "QED Oncology Inc is a loss-making clinical-stage biotechnology company with a market capitalisation of approximately USD 75 million on the Nasdaq. Trading at USD 1.25, the shares sit near the lower end of a 52-week range of USD 0.90 to USD 3.50, reflecting the elevated binary risk typical of early-to-mid stage oncology development. The absence of product revenue, negative EPS of USD -2.57, and reliance on capital markets to fund ongoing clinical programmes render this a high-risk, speculative holding appropriate only for investors with a genuine tolerance for biotech-specific risk and a portfolio large enough to absorb a total loss. No formal P/E applies. HOLD. Conviction Score: 35/100 - HOLD."
     },
     "businessModel": {
-      "text": "Quadrise develops fuel technologies intended to improve economics or emissions outcomes in industrial and shipping applications. Value creation depends on proving commercial use cases, signing meaningful agreements and converting pilot work into recurring revenue. This is effectively a technology commercialisation story, not a mature operating business."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "Live price: 2.70p Day range: 2.40p - 3.00p Volume: 16.66M shares P/E: unavailable on current live pull EPS: unavailable on current live pull High volume tells you people care. It does not tell you the commercial model is proven.",
-      "table": []
+      "price": 3.2,
+      "pe": null,
+      "eps": null,
+      "marketCap": "64099936",
+      "week52High": 5,
+      "week52Low": 1.5,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Commercial milestone updates remain the key driver. Shipping and industrial decarbonisation themes provide narrative support. The market is still waiting for cleaner proof of scalable adoption.",
-      "items": [
-        "Commercial milestone updates remain the key driver.",
-        "Shipping and industrial decarbonisation themes provide narrative support.",
-        "The market is still waiting for cleaner proof of scalable adoption."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull (25%): meaningful commercial conversion lands and rerates the stock sharply. Base (50%): progress continues but remains slower than holders want. Bear (25%): timelines stretch again and the market loses patience. Weighted conviction: 56/100.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Commercialisation risk: the main issue is turning pilots into revenue. Execution delay risk: repeated timeline slippage destroys confidence. Funding risk: prolonged development usually means more capital needs.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Commercialisation risk: the main issue is turning pilots into revenue."
-        },
-        {
-          "rank": 2,
-          "risk": "Execution delay risk: repeated timeline slippage destroys confidence."
-        },
-        {
-          "rank": 3,
-          "risk": "Funding risk: prolonged development usually means more capital needs."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Should own: speculative investors who specifically want technology commercialisation upside. Should avoid: anyone looking for already-proven business models."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "HOLD - SPECULATIVE at 2.70p. Worth keeping on the board, not worth pretending it is de-risked."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Below 2.3p: more attractive speculative entry 2.3p-3.0p: hold zone Above 3.2p without hard commercial proof: trim Key trigger: real commercial contract conversion Conviction Trend Latest conviction: 56/100 . Trend versus prior report: Flat . 0 25 50 75 100 2026-04-08 Report date Conviction 2026-04-08 56"
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [
-        "Authoritative market data source: DYOR HQ proprietary market data workflow. This combines multiple market data inputs, internal normalisation, and validation checks for live price, market capitalisation, trading range, valuation metrics, volume, and related quote statistics used in the report.",
-        "Company disclosures: Public company filings, regulatory announcements, investor presentations, and investor-relations materials where referenced in the analysis.",
-        "Additional public sources: Any specifically cited third-party materials linked inline in the report.",
-        "Price 2.70p",
-        "Day High 3.00p",
-        "Day Low 2.40p",
-        "Volume 16.66M"
-      ],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 56,
-      "band": "HOLD",
-      "date": "2026-04-08",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-08",
-        "score": 56,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 56
+      },
+      {
+        "date": "2026-04-15",
+        "conviction": 35
       }
     ]
   }

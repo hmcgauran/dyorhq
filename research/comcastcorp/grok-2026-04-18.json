@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "streaming growth",
+    "broadband demand",
+    "dividend stability",
+    "competitive pressures"
+  ],
+  "summary": "Comcast Corp (CMCSA) shows a positive sentiment driven by strong recent earnings, growth in streaming services like Peacock, and sustained broadband demand. However, competitive pressures in the media and telecom sectors slightly temper the bullish outlook.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"streaming growth\", \"broadband demand\", \"dividend stability\", \"competitive pressures\"],\n  \"summary\": \"Comcast Corp (CMCSA) shows a positive sentiment driven by strong recent earnings, growth in streaming services like Peacock, and sustained broadband demand. However, competitive pressures in the media and telecom sectors slightly temper the bullish outlook.\"\n}"
+}

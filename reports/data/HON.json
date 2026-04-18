@@ -1,162 +1,109 @@
 {
   "meta": {
     "ticker": "HON",
-    "company": "Honeywell International Inc",
-    "exchange": "NASDAQ",
-    "isin": "US4385163067",
-    "date": "17 Apr 2026",
-    "datePublished": "2026-04-17",
-    "recommendation": "OPPORTUNISTIC BUY",
+    "company": "HON - Honeywell International Inc",
+    "exchange": "#N/A",
+    "isin": "US4385161066",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
     "recommendationNote": "OPPORTUNISTIC BUY",
-    "conviction": 52,
-    "lastRefreshed": "2026-04-17T00:00:00Z",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.384Z",
     "universes": [
+      "fortune100",
+      "fortune101",
+      "sp100",
       "watchlist"
-    ],
-    "grokScore": 65,
-    "grokSignal": "positive",
-    "grokNote": "Score 65 above 60 threshold but below 75; flagged for Hugh review"
+    ]
   },
   "price": {
-    "current": 235.34,
-    "marketCap": 149800000000,
-    "marketCapFormatted": "$149.8B",
-    "trailingPE": 34.14,
-    "trailingEps": 6.88,
-    "forwardEpsLow": 10.35,
-    "forwardEpsHigh": 10.65,
-    "fiftyTwoWeekHigh": 248.18,
-    "fiftyTwoWeekLow": 185.00,
-    "formatted": ""
+    "current": 233.55,
+    "currency": "USD",
+    "marketCap": "147989730148",
+    "pe": 33.93,
+    "eps": 6.88,
+    "week52High": 248.18,
+    "week52Low": 181.01,
+    "beta": 0.92,
+    "avgVolume": "3685794",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "industrial growth",
+      "aerospace demand",
+      "sustainability focus",
+      "macroeconomic uncertainty"
+    ],
+    "summary": "Honeywell International Inc. (HON) exhibits a positive sentiment driven by strong recent earnings, robust demand in aerospace, and a focus on sustainability initiatives. However, broader macroeconomic concerns slightly temper the bullish outlook.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 30,
+    "bullScore": 88,
+    "baseProbability": 58,
+    "baseScore": 68,
+    "bearProbability": 12,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Honeywell International is a high-quality diversified industrial franchise with leading positions in aerospace, building automation, and performance materials. Q4 2025 results beat consensus on both revenue and EPS, and management issued 2026 guidance above prior expectations -- adjusted EPS of $10.35-$10.65 reflecting genuine confidence at scale. The planned spin of the Aerospace business (target Q3 2026) is the defining catalyst: it separates the secular growth aerospace franchise from the more cyclical automation and materials businesses, creating two cleaner investment propositions and eliminating the conglomerate discount that has persistently suppressed the shares. At 34x trailing P/E but ~22x 2026 estimated EPS, and with 22 analysts collectively targeting $252, Honeywell deserves more credit than the market is currently giving it. OPPORTUNISTIC BUY reflects the Aerospace spin catalyst and the improving earnings trajectory. Note: Grok sentiment score is 65 -- above the 60 threshold but below the 75 that would elevate conviction. Flagged for Hugh's review."
+      "text": "Honeywell International is a high-quality diversified industrial franchise with leading positions in aerospace, building automation, and performance materials. Q4 2025 results beat consensus and management issued 2026 guidance above the high end of prior expectations -- a rare..."
     },
     "businessModel": {
-      "text": "Honeywell operates across three core divisions: Aerospace, which supplies avionics, propulsion systems, and aftermarket services to commercial and defence airframe manufacturers and operators; Building Automation, providing smart building technologies including HVAC controls, fire safety, and energy management systems; and Performance Materials and Technologies, producing specialty chemicals, industrial sensors, and process automation solutions. The Aerospace spin announced for Q3 2026 will create two independent companies: the standalone Aerospace entity (ticker: HONA, planned Nasdaq listing) with its secular growth profile, and the remaining Honeywell focused on automation and materials. This is the most significant portfolio restructuring in Honeywell's history and represents a clean break from the conglomerate discount."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$235.34"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$149.8 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "34.14x"
-        },
-        {
-          "label": "2026E EPS Range",
-          "value": "$10.35-$10.65"
-        },
-        {
-          "label": "Dividend Yield",
-          "value": "1.8%"
-        },
-        {
-          "label": "Beta",
-          "value": "1.05"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$248.18"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$185.00"
-        },
-        {
-          "label": "Avg Volume",
-          "value": "3.69M"
-        },
-        {
-          "label": "Shares Outstanding",
-          "value": "642M"
-        }
-      ]
+      "price": 233.55,
+      "pe": 33.93,
+      "eps": 6.88,
+      "marketCap": "147989730148",
+      "week52High": 248.18,
+      "week52Low": 181.01,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Q4 2025 results beat consensus on both revenue and EPS, with adjusted sales up 11% organically and 23% orders growth -- a strong close to the year. Management issued 2026 adjusted EPS guidance of $10.35-$10.65, above the high end of prior expectations. The Aerospace spin is on track for Q3 2026: the Form 10 registration statement has been filed with the SEC, and Honeywell Aerospace launched a private offering of up to $16 billion in senior notes in March 2026 to establish standalone capital structure ahead of separation. Building Automation is delivering high-single-digit growth as smart building investment and energy efficiency retrofit programmes accelerate. The board has signalled capital return intentions post-spin, including potential buybacks on the post-spin entity. Analyst consensus sits at Buy with a mean 12-month price target of approximately $252, implying roughly 7% upside from current levels."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (70): Aerospace spin completes successfully Q3 2026, each entity re-rates independently. Honeywell post-spin targets 20% ROIC. Building automation grows 10%+ as smart building investment accelerates. Automation and robotics exposure drives incremental multiple expansion. EPS reaches $9-10, stock re-rates to 30-35x ($270-320). Base Case (52): Spin completes on time Q3 2026. Standalone Honeywell (post-spin) grows EPS at 8-10%. Automation supports revenues. Record aerospace backlog drives consistent aftermarket growth. Stock drifts to $255-275 at 28-32x P/E. Bear Case (30): Spin delayed or fails to unlock value. Aerospace aftermarket growth slows. Automation faces project deferrals. P/E de-rates to 22-25x. Stock falls to $175-200. Weighted Score: 52 -- Bull 70 x 25% + Base 52 x 50% + Bear 30 x 25%",
-      "bull": {
-        "scenario": "Aerospace spin completes successfully Q3 2026, each entity re-rates independently. Honeywell post-spin targets 20% ROIC. Building automation grows 10%+ as smart building investment accelerates. Automation and robotics exposure drives incremental multiple expansion. EPS reaches $9-10, stock re-rates to 30-35x ($270-320).",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "Spin completes on time Q3 2026. Standalone Honeywell (post-spin) grows EPS at 8-10%. Automation supports revenues. Record aerospace backlog drives consistent aftermarket growth. Stock drifts to $255-275 at 28-32x P/E.",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "Spin delayed or fails to unlock value. Aerospace aftermarket growth slows. Automation faces project deferrals. P/E de-rates to 22-25x. Stock falls to $175-200.",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Aerospace spin execution: The Q3 2026 spin timeline is tight. Form 10 is filed and senior notes are being priced, but any delay or structural complication in separating Aerospace could cause the market to reassess the catalyst negatively. Commercial aerospace cycle: While aerospace aftermarket is recovering with record backlog, any softness in new aircraft build rates or airline capacity expansion could pressure the spun entity. Building automation deferrals: Smart building investment is sensitive to commercial real estate capital expenditure cycles and interest rates. Pension obligations: Honeywell carries significant pension liabilities that could become a burden if discount rates decline or longevity assumptions shift. EM exposure: Emerging market revenues in automation and materials are exposed to currency volatility and geopolitical risk in key markets.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Aerospace spin execution: The Q3 2026 spin timeline is tight. Form 10 is filed and senior notes are being priced, but any delay or structural complication in separating Aerospace could cause the market to reassess the catalyst negatively."
-        },
-        {
-          "rank": 2,
-          "risk": "Commercial aerospace cycle: While aerospace aftermarket is recovering with record backlog, any softness in new aircraft build rates or airline capacity expansion could pressure the spun entity."
-        },
-        {
-          "rank": 3,
-          "risk": "Building automation deferrals: Smart building investment is sensitive to commercial real estate capital expenditure cycles and interest rates."
-        },
-        {
-          "rank": 4,
-          "risk": "Pension obligations: Honeywell carries significant pension liabilities that could become a burden if discount rates decline or longevity assumptions shift."
-        },
-        {
-          "rank": 5,
-          "risk": "EM exposure: Emerging market revenues in automation and materials are exposed to currency volatility and geopolitical risk in key markets."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Owners: Quality-focused investors who want diversified industrial exposure with a genuine restructuring catalyst. Long-term compounder looking for the post-spin re-rating. Those who believe aerospace aftermarket recovery has further to run. investors seeking exposure to automation and robotics megatrends. Avoiders: Short-cycle traders seeking rapid momentum. Investors who require near-term earnings visibility will find the spin uncertainty uncomfortable. Those who prefer pure-play growth businesses."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "OPPORTUNISTIC BUY. The Aerospace spin is a genuine catalyst and the market is not giving Honeywell enough credit for what the restructuring will unlock. Trading at ~22x 2026 EPS with a 7% analyst target upside, the risk-reward is compelling ahead of Q3 2026. The Form 10 filing and $16bn senior notes launch confirm the spin is in advanced preparation. Entry framework: BUY below $215. ADD below $200. TRIM above $240. The spin completes Q3 2026 -- positioning ahead of that catalyst with the current entry point makes sense for investors with a 12-18 month horizon."
+      "text": ""
     },
-    "entryExit": {
-      "text": "BUY below $215. ADD below $200. TRIM above $240. The spin is a genuine catalyst; ~22x 2026 EPS is fair for the quality and the upcoming restructuring. Target: $255-275 base case, $270-320 bull case at 12-18 months."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks.",
-      "companyFilings": "Honeywell Q4 2025 earnings release, Form 10 registration statement, SEC filings, investor presentations.",
-      "analystConsensus": "22 analysts, mean 12-month price target $252 (MarketBeat, April 2026).",
-      "grokSentiment": "xAI Grok analysis, score 65, signal positive, 20+ sources, Jan-Apr 2026.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 52,
-      "band": "OPPORTUNISTIC BUY",
-      "date": "2026-04-17",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "2026-04-17",
-        "score": 52,
-        "band": "OPPORTUNISTIC BUY",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 52
       }
     ]
   }

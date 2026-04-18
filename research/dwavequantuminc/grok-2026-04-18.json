@@ -1,0 +1,12 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "quantum computing challenges",
+    "financial performance",
+    "market competition",
+    "stock volatility"
+  ],
+  "summary": "QBTS (D-Wave Quantum Inc) shows a slightly negative sentiment due to recent concerns over financial performance and intense competition in the quantum computing space. While price momentum has been weak with downward trends, there are no significant near-term catalysts to shift sentiment positively.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"quantum computing challenges\", \"financial performance\", \"market competition\", \"stock volatility\"],\n  \"summary\": \"QBTS (D-Wave Quantum Inc) shows a slightly negative sentiment due to recent concerns over financial performance and intense competition in the quantum computing space. While price momentum has been weak with downward trends, there are no significant near-term catalysts to shift sentiment positively.\"\n}"
+}

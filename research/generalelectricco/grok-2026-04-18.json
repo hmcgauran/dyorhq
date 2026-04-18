@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "renewable energy growth",
+    "debt reduction",
+    "industrial recovery",
+    "earnings outlook"
+  ],
+  "summary": "General Electric (GE) shows a positive sentiment with a score of 35, driven by recent progress in renewable energy and debt reduction efforts, alongside a recovering industrial sector. Analyst tone remains cautiously optimistic, with price momentum showing gradual improvement and potential catalysts in upcoming earnings reports.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"renewable energy growth\", \"debt reduction\", \"industrial recovery\", \"earnings outlook\"],\n  \"summary\": \"General Electric (GE) shows a positive sentiment with a score of 35, driven by recent progress in renewable energy and debt reduction efforts, alongside a recovering industrial sector. Analyst tone remains cautiously optimistic, with price momentum showing gradual improvement and potential catalysts in upcoming earnings reports.\"\n}"
+}

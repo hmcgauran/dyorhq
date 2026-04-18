@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong financials",
+    "dividend growth",
+    "biotech innovation",
+    "market stability",
+    "limited near-term catalysts"
+  ],
+  "summary": "Bioventix PLC (BVXP) shows a positive sentiment driven by strong recent financial performance and consistent dividend growth, though limited near-term catalysts temper enthusiasm. Analyst tone remains cautiously optimistic, with steady price momentum reflecting market confidence in the biotech sector.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong financials\", \"dividend growth\", \"biotech innovation\", \"market stability\", \"limited near-term catalysts\"],\n  \"summary\": \"Bioventix PLC (BVXP) shows a positive sentiment driven by strong recent financial performance and consistent dividend growth, though limited near-term catalysts temper enthusiasm. Analyst tone remains cautiously optimistic, with steady price momentum reflecting market confidence in the biotech sector.\"\n}"
+}

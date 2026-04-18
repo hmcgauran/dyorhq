@@ -1,115 +1,109 @@
 {
   "meta": {
     "ticker": "JPM",
-    "company": "JPM",
-    "exchange": "",
-    "isin": "",
-    "date": "",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 68,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "JPM - JPMorgan Chase & Co",
+    "exchange": "#N/A",
+    "isin": "US46625H1005",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 73,
+    "lastRefreshed": "2026-04-18T15:09:10.385Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 310.29,
+    "currency": "USD",
+    "marketCap": "832265756429",
+    "pe": 14.86,
+    "eps": 20.88,
+    "week52High": 337.25,
+    "week52Low": 226.34,
+    "beta": 1.05,
+    "avgVolume": "10378329",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "economic recovery",
+      "interest rate hikes",
+      "investment banking growth",
+      "consumer spending resilience"
+    ],
+    "summary": "JPMorgan Chase & Co. exhibits a positive sentiment driven by strong recent earnings, optimism around economic recovery, and benefits from rising interest rates. Analyst tone remains constructive, with price momentum showing steady upward trends and potential catalysts from upcoming Fed decisions.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 37,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 7,
+    "bearScore": 38,
+    "conviction": 73
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "JPMorgan Chase is the highest-quality large-cap US bank, running well ahead on NII guidance while credit costs remain near-cycle lows; the Dimon-succession overhang and tariff-related macro headwinds keep the base case range-bound."
     },
     "businessModel": {
-      "text": "Revenue from Consumer & Community Banking (retail deposits, cards, auto loans, 40%), Corporate & Investment Bank (advisory, markets, lending, 35%), and Asset & Wealth Management (advisory fees, AUM-based, 25%)."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 310.29,
+      "pe": 14.86,
+      "eps": 20.88,
+      "marketCap": "832265756429",
+      "week52High": 337.25,
+      "week52Low": 226.34,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Full-year 2025 net income ~$55bn; ROTCE consistently above 17% NII (Net Interest Income) guidance raised Q4 2025 to $91.5bn+ for FY25 Investment-banking fees rebounded Q1 2025 (+26% YoY) on M&A and ECM activity BlackRock partnership deepens wealth-management cross-sell (AUM $4.3tn)",
-      "items": [
-        "Full-year 2025 net income ~$55bn; ROTCE consistently above 17%",
-        "NII (Net Interest Income) guidance raised Q4 2025 to $91.5bn+ for FY25",
-        "Investment-banking fees rebounded Q1 2025 (+26% YoY) on M&A and ECM activity",
-        "BlackRock partnership deepens wealth-management cross-sell (AUM $4.3tn)"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "78 Bull 68 Base 52 Bear 68 Conviction",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "1. Tariff and recession risk could trigger loan-loss provision build in 2H 2026 2. Jamie Dimon announced retirement - succession risk creates governance premium 3. NII is duration-sensitive: Fed rate cuts compress NIM faster than modelled 4. Consumer-credit card charge-offs rising off COVID-era lows (now ~2.8%) 5. Russian/Chinese market exposure: sanctions compliance costs and reputational risk",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "1. Tariff and recession risk could trigger loan-loss provision build in 2H 2026"
-        },
-        {
-          "rank": 2,
-          "risk": "2. Jamie Dimon announced retirement - succession risk creates governance premium"
-        },
-        {
-          "rank": 3,
-          "risk": "3. NII is duration-sensitive: Fed rate cuts compress NIM faster than modelled"
-        },
-        {
-          "rank": 4,
-          "risk": "4. Consumer-credit card charge-offs rising off COVID-era lows (now ~2.8%)"
-        },
-        {
-          "rank": 5,
-          "risk": "5. Russian/Chinese market exposure: sanctions compliance costs and reputational risk"
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Quality-focused investors seeking above-peer ROE with superior franchise durability. Dividend yield (~2.3%) plus buyback provides dual return mechanism. NOT suitable for investors expecting rapid balance-sheet de-levering or those wanting pure investment-bank beta."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
       "text": ""
     },
-    "entryExit": {
-      "text": "Add on intraday dips below $295 (10% from 52-week low). HOLD $295-$320. REDUCE above $320. Watch: NII quarterly guidance vs consensus for rate sensitivity. | BUY: Add on intraday dips below $295 (10% from 52-week low). | REDUCE above $320."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 68,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 73,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 68,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 68
       }
     ]
   }

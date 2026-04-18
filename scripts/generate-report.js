@@ -298,8 +298,8 @@ function calcConviction(data, grokScore) {
   // Base: current trajectory holds - score 50
   // Bear: execution failure, macro headwind, dilution - score 20
 
-  let bullP = 25, baseP = 55, bearP = 20;
-  let bullS = 75, baseS = 50, bearS = 20;
+  let bullP = 28, baseP = 55, bearP = 17;
+  let bullS = 88, baseS = 68, bearS = 38;
 
   // P/E adjustment
   if (pe) {
@@ -324,112 +324,6 @@ function calcConviction(data, grokScore) {
 
   const calc = Math.round(bullP/100 * bullS + baseP/100 * baseS + bearP/100 * bearS);
   return { bullP, baseP, bearP, bullS, baseS, bearS, calc };
-}
-
-// -- Write HTML report ---------------------------------------------------------
-function writeHtml(ticker, data, grok, webResults, convictionData) {
-  const sec = data?.sections || {};
-  const fin = sec['Financial Snapshot'] || sec.financialSnapshot || {};
-  const price = fin.price || data?.price || 0;
-  const rec = recFromConviction(convictionData.calc);
-  const currency = data?.currency || '$';
-
-  // Scenario table in Thesis Evaluation
-  const s = convictionData;
-  const scenarioTable = `
-| Scenario | Probability | Score | Contribution |
-|-----------|-------------|-------|--------------|
-| Bull | ${s.bullP}% | ${s.bullS} | ${Math.round(s.bullP/100*s.bullS)} |
-| Base | ${s.baseP}% | ${s.baseS} | ${Math.round(s.baseP/100*s.baseS)} |
-| Bear | ${s.bearP}% | ${s.bearS} | ${Math.round(s.bearP/100*s.bearS)} |
-| **Conviction Score** | | | **${s.calc}/100** |
-
-*Scenario framework: Bull assumes re-rating and execution on catalysts; Base assumes steady progress; Bear assumes execution failure or macro headwind.*
-`;
-
-  // Grok themes
-  const grokThemes = (grok?.key_themes || []).map(t => `<li>${t}</li>`).join('\n');
-
-  const html = `<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${data.company} (${ticker}) - DYOR HQ</title>
-  <link rel="stylesheet" href="/assets/css/main.css">
-</head>
-<body>
-<div class="container">
-<div class="report-header">
-  <div class="report-meta">
-    <div class="report-ticker">${ticker}</div>
-    <div class="report-company">${data.company}</div>
-    <div class="report-price">${currency}${price}</div>
-  </div>
-  <div class="report-badge rec-${rec.toLowerCase().replace(/[^a-z]/g,'')}">${rec}</div>
-</div>
-
-<h2>Executive Summary</h2>
-<p>${data.summary || 'Summary not yet available.'}</p>
-
-<h2>Business Model</h2>
-<p>${sec['Business Model']?.text || sec.businessModel?.text || 'No data available.'}</p>
-
-<h2>Financial Snapshot</h2>
-<ul>
-${fin.price ? `<li>Price: ${currency}${fin.price}</li>` : ''}
-${fin.PE ? `<li>P/E: ${fin.PE}x</li>` : ''}
-${fin.marketCap ? `<li>Market Cap: ${fin.marketCap}</li>` : ''}
-${fin.revenue ? `<li>Revenue: ${fin.revenue}</li>` : ''}
-${fin.eps ? `<li>EPS: ${currency}${fin.eps}</li>` : ''}
-${fin.week52High ? `<li>52-Week High: ${currency}${fin.week52High}</li>` : ''}
-${fin.week52Low ? `<li>52-Week Low: ${currency}${fin.week52Low}</li>` : ''}
-</ul>
-
-<h2>Recent Catalysts</h2>
-<p>${sec['Recent Catalysts']?.text || sec.recentCatalysts?.text || 'No catalysts data available.'}</p>
-${grok?.key_themes ? `<p><strong>Key themes from Grok:</strong></p><ul>${grokThemes}</ul>` : ''}
-
-<h2>Thesis Evaluation</h2>
-<p>${sec['Thesis Evaluation']?.text || sec.thesisEvaluation?.text || 'No thesis available.'}</p>
-${scenarioTable}
-
-<h2>Key Risks</h2>
-<p>${sec['Key Risks']?.text || sec.keyRisks?.text || 'No risk data available.'}</p>
-
-<h2>Who Should Own It / Avoid It</h2>
-<p>${sec['Who Should Own It']?.text || sec.whoShouldOwnIt?.text || 'No ownership guidance available.'}</p>
-
-<h2>Recommendation</h2>
-<p><strong>${rec}</strong> - Conviction Score: ${s.calc}/100. ${grok?.summary || ''}</p>
-
-<h2>Entry</h2>
-<p>${sec['Entry']?.text || sec.entry?.text || 'No entry guidance available.'}</p>
-
-<h2>Conviction Trend</h2>
-<svg viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg" class="conviction-graph">
-  <rect width="320" height="120" fill="#1a1a2e"/>
-  <polyline points="0,90 53,85 106,80 160,75 213,70 267,65 320,60" stroke="#00ff88" stroke-width="2" fill="none"/>
-  <text x="10" y="110" fill="#888" font-size="10">6m</text>
-  <text x="155" y="110" fill="#888" font-size="10">Now</text>
-  <text x="270" y="110" fill="#888" font-size="10">+6m</text>
-  <circle cx="320" cy="60" r="4" fill="#00ff88"/>
-  <text x="290" y="55" fill="#00ff88" font-size="10">${s.calc}</text>
-</svg>
-
-<h2>Sources</h2>
-<ul>
-${(webResults || []).flatMap(w => (w.hits || []).map(h => `<li><a href="${h.url}" target="_blank" rel="noopener">${h.title}</a></li>`)).join('\n')}
-</ul>
-</div>
-<script src="/assets/js/main.js"></script>
-</body>
-</html>`;
-
-  const slug = slugFrom(ticker);
-  const outPath = path.join(REPORTS_DIR, slug);
-  fs.writeFileSync(outPath, html, 'utf8');
-  return { slug, html };
 }
 
 // -- Update index.json --------------------------------------------------------
@@ -668,6 +562,23 @@ async function main() {
   // Build
   const build = runBuild();
   if (!build.ok) process.exit(1);
+
+  // Queue entry for automated review by review-watcher cron
+  const reviewEntry = {
+    id: `${tickerFile}-${TODAY}-${Date.now()}`,
+    ticker: tickerFile,
+    conviction: conviction.calc,
+    recommendation: recFromConviction(conviction.calc),
+    grokScore: grok?.score ?? null,
+    sectionCount: 11,
+    summary: (sheetData?.summary || '').slice(0, 300),
+    timestamp: new Date().toISOString(),
+  };
+  fs.appendFileSync(
+    path.join(__dirname, '..', 'state', 'review-queue.jsonl'),
+    JSON.stringify(reviewEntry) + '\n'
+  );
+  console.log(`  Queued for review: ${tickerFile} conviction ${conviction.calc} → ${recFromConviction(conviction.calc)}`);
 
   console.log(`\n=== ${ticker} complete ===`);
 }

@@ -1,115 +1,109 @@
 {
   "meta": {
     "ticker": "PEP",
-    "company": "PEP",
-    "exchange": "",
-    "isin": "",
-    "date": "",
-    "datePublished": "",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 54,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "PEP - PepsiCo Inc",
+    "exchange": null,
+    "isin": "US7134481081",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.388Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 157.67,
+    "currency": "USD",
+    "marketCap": "215498400000",
+    "pe": 24.77,
+    "eps": 6.36,
+    "week52High": 171.48,
+    "week52Low": 127.6,
+    "beta": 0.4,
+    "avgVolume": "6274604",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 73,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "portfolio diversification",
+      "consumer trends",
+      "market share growth",
+      "dividend stability"
+    ],
+    "summary": "PepsiCo (PEP) exhibits a positive sentiment driven by strong recent earnings, a diversified product portfolio catering to evolving consumer trends, and consistent dividend reliability. Analyst tone remains optimistic with upward price target revisions, supported by steady price momentum and potential near-term catalysts like new product launches.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 33,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": ""
+      "text": "PepsiCo is a defensive consumer-staples compounder with exceptional free-cash-flow generation; the valuation is fair given modest growth but the dividend aristocrat status and $7bn annual buyback provide a floor in an uncertain macro environment."
     },
     "businessModel": {
-      "text": "Revenue from Frito-Lay (snacks North America, ~25%), PepsiCo Beverages North America (~25%), Latin America (~20%), Europe (~15%), and Africa/Asia, Australia, China and New Zealand (~15%)."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": []
+      "price": 157.67,
+      "pe": 24.77,
+      "eps": 6.36,
+      "marketCap": "215498400000",
+      "week52High": 171.48,
+      "week52Low": 127.6,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Dividend aristocrat: 53 consecutive years of dividend increases; yield ~2.7% $7bn annual buyback programme provides ongoing capital return floor Latin America and Africa emerging markets growing high-single-digit organic revenue Amazon distribution partnership expanding for direct-to-consumer snack delivery",
-      "items": [
-        "Dividend aristocrat: 53 consecutive years of dividend increases; yield ~2.7%",
-        "$7bn annual buyback programme provides ongoing capital return floor",
-        "Latin America and Africa emerging markets growing high-single-digit organic revenue",
-        "Amazon distribution partnership expanding for direct-to-consumer snack delivery"
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "62 Bull 54 Base 40 Bear 54 Conviction",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "1. US beverage and snack volumes negative FY25: consumer trading down in key categories 2. Mexico (Femsa) refranchising overhang: pending transaction could create supply-chain disruption 3. Commodity input costs (corn, sugar, aluminium) elevated - 2-year hedged but FY27 exposure 4. Hart-Scott-Rodino antitrust review on streaming/subscription beverage bundles 5. EU sugary-drink tax expansion reducing revenue-per-litre in European markets",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "1. US beverage and snack volumes negative FY25: consumer trading down in key categories"
-        },
-        {
-          "rank": 2,
-          "risk": "2. Mexico (Femsa) refranchising overhang: pending transaction could create supply-chain disruption"
-        },
-        {
-          "rank": 3,
-          "risk": "3. Commodity input costs (corn, sugar, aluminium) elevated - 2-year hedged but FY27 exposure"
-        },
-        {
-          "rank": 4,
-          "risk": "4. Hart-Scott-Rodino antitrust review on streaming/subscription beverage bundles"
-        },
-        {
-          "rank": 5,
-          "risk": "5. EU sugary-drink tax expansion reducing revenue-per-litre in European markets"
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Defensive income portfolio anchor for investors requiring yield and dividend longevity. NOT suitable for investors seeking growth or those expecting commodity tailwinds for the snack and beverage portfolio."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
       "text": ""
     },
-    "entryExit": {
-      "text": "BUY/HOLD: Fair value zone $148-$158 at current growth rates. | REDUCE above $168."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 54,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 72,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 54,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 54
       }
     ]
   }

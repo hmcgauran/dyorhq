@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "strong holiday sales",
+    "China recovery",
+    "labor costs",
+    "innovation focus",
+    "analyst optimism"
+  ],
+  "summary": "Starbucks (SBUX) shows a positive sentiment with strong holiday sales and optimism around China market recovery, though tempered by rising labor costs. Analyst tone remains largely bullish, supported by price momentum and innovation in product offerings as near-term catalysts.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong holiday sales\", \"China recovery\", \"labor costs\", \"innovation focus\", \"analyst optimism\"],\n  \"summary\": \"Starbucks (SBUX) shows a positive sentiment with strong holiday sales and optimism around China market recovery, though tempered by rising labor costs. Analyst tone remains largely bullish, supported by price momentum and innovation in product offerings as near-term catalysts.\"\n}"
+}

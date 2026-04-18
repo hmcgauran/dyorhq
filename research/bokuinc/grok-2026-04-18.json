@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "mobile payments growth",
+    "strategic partnerships",
+    "market expansion",
+    "stock volatility"
+  ],
+  "summary": "Boku Inc. exhibits a positive sentiment driven by recent news of expanding mobile payment solutions and strategic partnerships, alongside a generally optimistic analyst tone. However, price momentum has shown some volatility, with potential near-term catalysts including new market entries or contract announcements.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"mobile payments growth\", \"strategic partnerships\", \"market expansion\", \"stock volatility\"],\n  \"summary\": \"Boku Inc. exhibits a positive sentiment driven by recent news of expanding mobile payment solutions and strategic partnerships, alongside a generally optimistic analyst tone. However, price momentum has shown some volatility, with potential near-term catalysts including new market entries or contract announcements.\"\n}"
+}

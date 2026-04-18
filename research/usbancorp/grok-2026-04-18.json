@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "stable earnings",
+    "interest rate sensitivity",
+    "regional banking strength",
+    "dividend reliability"
+  ],
+  "summary": "US Bancorp (USB) exhibits a positive sentiment driven by stable earnings reports and a reliable dividend, though tempered by sensitivity to interest rate changes. Recent analyst tone is cautiously optimistic, with price momentum showing moderate upward trends and no major near-term catalysts identified.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"stable earnings\", \"interest rate sensitivity\", \"regional banking strength\", \"dividend reliability\"],\n  \"summary\": \"US Bancorp (USB) exhibits a positive sentiment driven by stable earnings reports and a reliable dividend, though tempered by sensitivity to interest rate changes. Recent analyst tone is cautiously optimistic, with price momentum showing moderate upward trends and no major near-term catalysts identified.\"\n}"
+}

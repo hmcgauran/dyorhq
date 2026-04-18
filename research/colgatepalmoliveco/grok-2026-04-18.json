@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "stable growth",
+    "strong brand",
+    "analyst optimism",
+    "consumer staples resilience",
+    "dividend reliability"
+  ],
+  "summary": "Colgate-Palmolive Co (CL) exhibits a positive sentiment with steady price momentum and favorable analyst tone highlighting its strong brand and consistent performance in the consumer staples sector. Recent news underscores its resilience and reliable dividend, with potential near-term catalysts including upcoming earnings and product innovation updates.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"stable growth\", \"strong brand\", \"analyst optimism\", \"consumer staples resilience\", \"dividend reliability\"],\n  \"summary\": \"Colgate-Palmolive Co (CL) exhibits a positive sentiment with steady price momentum and favorable analyst tone highlighting its strong brand and consistent performance in the consumer staples sector. Recent news underscores its resilience and reliable dividend, with potential near-term catalysts including upcoming earnings and product innovation updates.\"\n}"
+}

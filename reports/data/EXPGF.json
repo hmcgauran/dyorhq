@@ -1,117 +1,112 @@
 {
   "meta": {
     "ticker": "EXPGF",
-    "company": "Experian plc",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 48,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "EXPGF - Experian plc",
+    "exchange": "#N/A",
+    "isin": "GB00B19NLV48",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.382Z",
     "universes": [
       "irish",
+      "uk",
       "watchlist"
     ]
   },
   "price": {
-    "formatted": ""
+    "current": 39,
+    "currency": "USD",
+    "marketCap": "34889620000",
+    "pe": null,
+    "eps": null,
+    "week52High": 55.2,
+    "week52Low": 33,
+    "beta": 1.33,
+    "avgVolume": "2720",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong financial performance",
+      "data analytics growth",
+      "market expansion",
+      "stable analyst outlook",
+      "consumer credit trends"
+    ],
+    "summary": "Experian plc (EXPGF) shows a positive sentiment with a score of 45, driven by strong recent financial results and growth in data analytics and market expansion. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like increasing demand for consumer credit insights.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Experian plc (EXPGF) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 48/100, using $35.04 as the latest stored price reference where available."
+      "text": "Experian is a data and analytics franchise with entrenched positions in credit information, decisioning and identity-related services. It benefits when lenders, insurers and businesses need better underwriting and fraud tools, but the real attraction is that the business is deeply embedded in customer workflows and produces recurring revenue with good cash conversion. It is not cheap in a headline sense, yet there are credible reasons why the market often pays up for it."
     },
     "businessModel": {
-      "text": "Experian plc sits in data, analytics and consumer credit infrastructure, where recurring revenues, data quality and regulatory discipline underpin the franchise."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$35.04"
-        },
-        {
-          "label": "Company",
-          "value": "Experian plc"
-        },
-        {
-          "label": "Recommendation",
-          "value": "REDUCE"
-        },
-        {
-          "label": "Conviction",
-          "value": "48/100"
-        },
-        {
-          "label": "Universe",
-          "value": "irish"
-        }
-      ]
+      "price": 39,
+      "pe": null,
+      "eps": null,
+      "marketCap": "34889620000",
+      "week52High": 55.2,
+      "week52Low": 33,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Credit demand, analytics adoption, pricing and product expansion remain the main drivers."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Regulatory scrutiny can raise compliance costs. Credit-cycle weakness can affect transaction volumes. Competition in analytics can pressure pricing. Cybersecurity and data-governance risks remain material. Execution on new products can lag expectations.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Regulatory scrutiny can raise compliance costs."
-        },
-        {
-          "rank": 2,
-          "risk": "Credit-cycle weakness can affect transaction volumes."
-        },
-        {
-          "rank": 3,
-          "risk": "Competition in analytics can pressure pricing."
-        },
-        {
-          "rank": 4,
-          "risk": "Cybersecurity and data-governance risks remain material."
-        },
-        {
-          "rank": 5,
-          "risk": "Execution on new products can lag expectations."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Investors who favour data-rich recurring-revenue businesses. Avoid: Investors uncomfortable with credit-cycle and data-regulation risk."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 48/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 48,
-      "band": "REDUCE",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 48,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-11",
+        "conviction": 48
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 73
       }
     ]
   }

@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "production growth",
+    "gold price strength",
+    "operational efficiency",
+    "debt management",
+    "market volatility"
+  ],
+  "summary": "Metals Exploration Plc (MTL) shows a positive sentiment driven by recent reports of increased gold production and operational improvements at its Runruno project, alongside favorable gold prices. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends, though concerns over debt levels and market volatility temper enthusiasm.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"production growth\", \"gold price strength\", \"operational efficiency\", \"debt management\", \"market volatility\"],\n  \"summary\": \"Metals Exploration Plc (MTL) shows a positive sentiment driven by recent reports of increased gold production and operational improvements at its Runruno project, alongside favorable gold prices. Analyst tone remains cautiously optimistic, with price momentum showing moderate upward trends, though concerns over debt levels and market volatility temper enthusiasm.\"\n}"
+}

@@ -1,0 +1,13 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "Alaska project updates",
+    "oil exploration potential",
+    "share price recovery",
+    "investor confidence",
+    "operational risks"
+  ],
+  "summary": "Pantheon Resources Plc (PANR) shows a positive sentiment driven by recent updates on its Alaska projects and growing investor interest in its oil exploration potential, though operational risks remain. Analyst tone is cautiously optimistic, and price momentum has shown a moderate upward trend with potential catalysts from upcoming drilling results.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"Alaska project updates\", \"oil exploration potential\", \"share price recovery\", \"investor confidence\", \"operational risks\"],\n  \"summary\": \"Pantheon Resources Plc (PANR) shows a positive sentiment driven by recent updates on its Alaska projects and growing investor interest in its oil exploration potential, though operational risks remain. Analyst tone is cautiously optimistic, and price momentum has shown a moderate upward trend with potential catalysts from upcoming drilling results.\"\n}"
+}

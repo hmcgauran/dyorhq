@@ -1,124 +1,111 @@
 {
   "meta": {
     "ticker": "JAZZ",
-    "company": "Jazz Pharmaceuticals",
-    "exchange": "",
-    "isin": "",
-    "date": "2026-04-11",
-    "datePublished": "2026-04-11",
-    "recommendation": "REDUCE",
-    "recommendationNote": "REDUCE",
-    "conviction": 50,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "JAZZ - Jazz Pharmaceuticals plc",
+    "exchange": "#N/A",
+    "isin": "IE00B4Q5ZN47",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 70,
+    "lastRefreshed": "2026-04-18T15:09:10.385Z",
     "universes": [
       "irish",
       "watchlist"
     ]
   },
   "price": {
-    "current": 194.2,
-    "fiftyTwoWeekHigh": 200.24,
-    "fiftyTwoWeekLow": 97.5,
-    "formatted": ""
+    "current": 203.42,
+    "currency": "USD",
+    "marketCap": "12522600181",
+    "pe": null,
+    "eps": -5.87,
+    "week52High": 204.13,
+    "week52Low": 97.51,
+    "beta": 0.23,
+    "avgVolume": "899566",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "strong earnings",
+      "pipeline progress",
+      "stock momentum",
+      "analyst optimism",
+      "potential acquisitions"
+    ],
+    "summary": "Jazz Pharmaceuticals (JAZZ) shows a positive sentiment with strong recent earnings performance and optimism around its drug pipeline, particularly in neuroscience and oncology. Analyst tone remains constructive, supported by upward price momentum and speculation of strategic acquisitions as near-term catalysts.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 31,
+    "bullScore": 88,
+    "baseProbability": 56,
+    "baseScore": 68,
+    "bearProbability": 13,
+    "bearScore": 38,
+    "conviction": 70
   },
   "sections": {
     "executiveSummary": {
-      "text": "Jazz Pharmaceuticals (JAZZ) is now back in sync with the canonical DYOR HQ sheet after the metadata repair pass. The current stance is REDUCE with conviction 50/100, using $194.2 as the latest stored price reference where available."
+      "text": "Jazz is a profitable specialty pharmaceutical company with meaningful positions in sleep, epilepsy and oncology, so it sits in a better place than speculative biotech but still faces familiar pharma questions around product concentration and replenishing growth. The market tends to respect the cash flow but remain cautious about what happens as established products mature. That makes the shares depend heavily on portfolio durability and capital allocation quality."
     },
     "businessModel": {
-      "text": "Jazz Pharmaceuticals operates in life sciences, where the investment case depends on pipeline execution, regulatory outcomes, commercial uptake and balance-sheet runway. The rebuilt note replaces generic or misaligned copy with a correct company-level summary."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$194.20"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "N/A"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "N/A"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "N/A"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$200.24"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$97.50"
-        }
-      ]
+      "price": 203.42,
+      "pe": null,
+      "eps": -5.87,
+      "marketCap": "12522600181",
+      "week52High": 204.13,
+      "week52Low": 97.51,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "Clinical data, regulatory decisions, partnership milestones and launch execution are the main catalysts. Cash burn versus funded runway remains central where the business is still scaling."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Base case: the core operating backdrop remains good enough to support the present reduce stance, but not strong enough to justify a looser risk view without better evidence. Bull case: execution and demand improve faster than expected. Bear case: operating or funding pressure worsens and compresses valuation further."
+      "text": ""
     },
     "keyRisks": {
-      "text": "Clinical setbacks can materially impair the thesis. Regulatory delays can defer revenue and financing options. Commercial uptake may lag if competition intensifies. Capital needs can dilute shareholders. Single-product or single-platform concentration raises volatility.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Clinical setbacks can materially impair the thesis."
-        },
-        {
-          "rank": 2,
-          "risk": "Regulatory delays can defer revenue and financing options."
-        },
-        {
-          "rank": 3,
-          "risk": "Commercial uptake may lag if competition intensifies."
-        },
-        {
-          "rank": 4,
-          "risk": "Capital needs can dilute shareholders."
-        },
-        {
-          "rank": 5,
-          "risk": "Single-product or single-platform concentration raises volatility."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Specialist healthcare investors who accept binary event risk. Avoid: Investors who need near-term earnings visibility and low drawdown risk."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "REDUCE - Conviction: 50/100. This rebuilt page is intentionally concise, but it is now internally coherent and aligned to the corrected ticker and company metadata."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Keep position sizing consistent with a reduce stance until fuller company-specific analysis is refreshed."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow and internal canonical mapping.",
-      "companyFilings": "Public company filings, regulatory disclosures and investor materials where available.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 50,
-      "band": "REDUCE",
-      "date": "2026-04-11",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 70,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
         "date": "2026-04-11",
-        "score": 50,
-        "band": "REDUCE",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "conviction": 50
+      },
+      {
+        "date": "2026-04-11",
+        "conviction": 62
       }
     ]
   }

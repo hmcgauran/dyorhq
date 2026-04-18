@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "construction sector growth",
+    "price stability",
+    "dividend consistency"
+  ],
+  "summary": "Somero Enterprises Inc (SOM) exhibits a positive sentiment driven by recent strong earnings reports and steady demand in the construction sector. Analyst tone remains cautiously optimistic, with stable price momentum and potential near-term catalysts from infrastructure spending.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"construction sector growth\", \"price stability\", \"dividend consistency\"],\n  \"summary\": \"Somero Enterprises Inc (SOM) exhibits a positive sentiment driven by recent strong earnings reports and steady demand in the construction sector. Analyst tone remains cautiously optimistic, with stable price momentum and potential near-term catalysts from infrastructure spending.\"\n}"
+}

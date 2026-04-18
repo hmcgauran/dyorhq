@@ -1,139 +1,107 @@
 {
   "meta": {
     "ticker": "GEV",
-    "company": "GE Vernova Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
-    "recommendation": "HOLD",
-    "recommendationNote": "HOLD",
-    "conviction": 74,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "company": "GEV - GE Vernova Inc",
+    "exchange": "#N/A",
+    "isin": "US36828A1016",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
+    "recommendation": "BUY",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 68,
+    "lastRefreshed": "2026-04-18T15:09:10.383Z",
     "universes": [
+      "sp100",
       "watchlist"
     ]
   },
   "price": {
-    "current": 991.32,
-    "marketCap": 267200000000.0,
-    "marketCapFormatted": "$267.20B",
-    "trailingPE": 55.98,
-    "trailingEps": 17.71,
-    "fiftyTwoWeekHigh": 999.43,
-    "fiftyTwoWeekLow": 306.0,
-    "formatted": ""
+    "current": 1002.75,
+    "currency": "USD",
+    "marketCap": "269595554550",
+    "pe": 56.67,
+    "eps": 17.7,
+    "week52High": 1009.49,
+    "week52Low": 306.21,
+    "beta": null,
+    "avgVolume": "2432387",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 66,
+    "signal": "positive",
+    "keyThemes": [
+      "renewable energy growth",
+      "recent spinoff",
+      "analyst optimism",
+      "market volatility",
+      "upcoming earnings"
+    ],
+    "summary": "GE Vernova Inc (GEV), recently spun off from GE, is viewed positively due to its focus on renewable energy and strong analyst support, though market volatility tempers enthusiasm. Price momentum shows moderate gains, with potential catalysts in upcoming earnings and renewable sector developments.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 25,
+    "bullScore": 88,
+    "baseProbability": 57,
+    "baseScore": 68,
+    "bearProbability": 18,
+    "bearScore": 38,
+    "conviction": 68
   },
   "sections": {
     "executiveSummary": {
-      "text": "GE Vernova is in the early innings of a power infrastructure supercycle driven by data centre demand, grid modernisation and energy transition investment, but the premium 56x P/E demands near-perfect execution. HOLD is the weighted recommendation with a conviction score of 74."
-    },
-    "businessModel": {
       "text": "GE Vernova Inc (GEV) operates in the Industrials sector and is listed on NYSE. The business generates revenue through its core operations in industrials."
     },
+    "businessModel": {
+      "text": ""
+    },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$991.32"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$267.2 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "55.98x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$17.71"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$999.43"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$306.00"
-        }
-      ]
+      "price": 1002.75,
+      "pe": 56.67,
+      "eps": 17.7,
+      "marketCap": "269595554550",
+      "week52High": 1009.49,
+      "week52Low": 306.21,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "GE Vernova Inc has been navigating the current market environment with its core industrials franchise. Key developments over the past 3-6 months include ongoing execution of strategic priorities, macroeconomic sensitivity assessments in relevant end markets, and competitive positioning updates. Investors should monitor quarterly earnings reports and any material company announcements for the most current view on near-term catalysts."
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Bull Case (87): Data centre power demand accelerates the gas turbine and grid equipment backlog materially. HVDC and grid automation businesses exceed growth targets. LNG terminal buildout adds incremental revenue. EPS grows to $22+. Price: $1,150+. Base Case (73): Strong grid modernisation and energy transition spending sustains high-single-digit revenue growth. Gas turbine service backlog provides earnings visibility. EPS grows to $19-21. Price: $980-1,080. Bear Case (52): Data centre power demand growth slows as hyperscalers ration capex. Gas turbine new-build orders disappoint. Competition in grid automation (Siemens, ABB) intensifies. EPS falls to $15-16. Price: below $820. Weighted Score: 73 - Bull 87 × 30% + Base 73 × 50% + Bear 52 × 20%",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Execution risk on backlog conversion: GE Vernova has a large installed base and ambitious service margin targets. Service profitability assumptions may prove optimistic. Data centre demand cyclicality: The AI power buildout is a genuine structural tailwind but hyperscaler capex cycles are not guaranteed to be smooth or uninterrupted. Gas turbine competitive dynamics: Siemens Energy and Mitsubishi Power compete aggressively in heavy-duty gas turbines. Pricing pressure could compress equipment margins. Regulatory and permitting risk: Grid infrastructure projects face long permitting timelines that could delay revenue recognition for the grid segment. High valuation demanding clean execution: At 56x trailing P/E, even modest execution missteps could trigger significant multiple compression.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Execution risk on backlog conversion: GE Vernova has a large installed base and ambitious service margin targets. Service profitability assumptions may prove optimistic."
-        },
-        {
-          "rank": 2,
-          "risk": "Data centre demand cyclicality: The AI power buildout is a genuine structural tailwind but hyperscaler capex cycles are not guaranteed to be smooth or uninterrupted."
-        },
-        {
-          "rank": 3,
-          "risk": "Gas turbine competitive dynamics: Siemens Energy and Mitsubishi Power compete aggressively in heavy-duty gas turbines. Pricing pressure could compress equipment margins."
-        },
-        {
-          "rank": 4,
-          "risk": "Regulatory and permitting risk: Grid infrastructure projects face long permitting timelines that could delay revenue recognition for the grid segment."
-        },
-        {
-          "rank": 5,
-          "risk": "High valuation demanding clean execution: At 56x trailing P/E, even modest execution missteps could trigger significant multiple compression."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Thematic investors seeking pure-play exposure to the power infrastructure supercycle driven by AI data centre demand, electrification and grid modernisation."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "BUY. BUY with a 12-15% portfolio allocation. Accumulate on pullbacks below $900. Reduce or take profits if multiple re-rates above 65x P/E without EPS revisions."
+      "text": ""
     },
-    "entryExit": {
-      "text": "Accumulate on pullbacks below $900."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 74,
-      "band": "HOLD",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "score": 68,
+      "band": "BUY",
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 74,
-        "band": "HOLD",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 74
       }
     ]
   }

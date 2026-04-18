@@ -1,0 +1,13 @@
+{
+  "score": 42,
+  "signal": "negative",
+  "key_themes": [
+    "commodity price volatility",
+    "regulatory scrutiny",
+    "debt concerns",
+    "market uncertainty",
+    "dividend policy"
+  ],
+  "summary": "GGP (Glencore Partnership Portfolio PLC) faces a negative sentiment due to recent commodity price volatility and ongoing regulatory scrutiny impacting investor confidence. Analyst tone remains cautious, with price momentum showing a slight downward trend and no significant near-term catalysts to drive recovery.",
+  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"commodity price volatility\", \"regulatory scrutiny\", \"debt concerns\", \"market uncertainty\", \"dividend policy\"],\n  \"summary\": \"GGP (Glencore Partnership Portfolio PLC) faces a negative sentiment due to recent commodity price volatility and ongoing regulatory scrutiny impacting investor confidence. Analyst tone remains cautious, with price momentum showing a slight downward trend and no significant near-term catalysts to drive recovery.\"\n}"
+}

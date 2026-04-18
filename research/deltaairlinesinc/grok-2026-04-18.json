@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "strong summer travel demand",
+    "improved operational performance",
+    "fuel cost pressures",
+    "analyst upgrades",
+    "debt reduction progress"
+  ],
+  "summary": "Delta Air Lines (DAL) shows a positive sentiment driven by robust summer travel demand and recent analyst upgrades highlighting operational improvements. However, lingering concerns over fuel costs and macroeconomic uncertainty temper the bullish outlook.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\n    \"strong summer travel demand\",\n    \"improved operational performance\",\n    \"fuel cost pressures\",\n    \"analyst upgrades\",\n    \"debt reduction progress\"\n  ],\n  \"summary\": \"Delta Air Lines (DAL) shows a positive sentiment driven by robust summer travel demand and recent analyst upgrades highlighting operational improvements. However, lingering concerns over fuel costs and macroeconomic uncertainty temper the bullish outlook.\"\n}"
+}

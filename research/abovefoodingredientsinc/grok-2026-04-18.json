@@ -1,0 +1,13 @@
+{
+  "score": 38,
+  "signal": "negative",
+  "key_themes": [
+    "recent losses",
+    "market uncertainty",
+    "limited analyst coverage",
+    "price decline",
+    "no immediate catalysts"
+  ],
+  "summary": "ABVE (Above Food Ingredients Inc) shows a negative sentiment with recent financial reports indicating losses and a declining stock price over the past months. Analyst coverage is sparse, and there are no significant near-term catalysts to drive positive momentum.",
+  "raw": "{\n  \"score\": -30,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"recent losses\", \"market uncertainty\", \"limited analyst coverage\", \"price decline\", \"no immediate catalysts\"],\n  \"summary\": \"ABVE (Above Food Ingredients Inc) shows a negative sentiment with recent financial reports indicating losses and a declining stock price over the past months. Analyst coverage is sparse, and there are no significant near-term catalysts to drive positive momentum.\"\n}"
+}

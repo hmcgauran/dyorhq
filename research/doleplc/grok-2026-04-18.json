@@ -1,0 +1,13 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "strong earnings",
+    "analyst upgrades",
+    "supply chain challenges",
+    "consumer demand",
+    "dividend stability"
+  ],
+  "summary": "Dole plc (DOLE) exhibits a positive sentiment with a score of 35, driven by recent strong quarterly earnings and analyst upgrades highlighting robust consumer demand for fresh produce. However, lingering supply chain challenges slightly temper the bullish outlook, while dividend stability and potential market expansion act as near-term catalysts.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"analyst upgrades\", \"supply chain challenges\", \"consumer demand\", \"dividend stability\"],\n  \"summary\": \"Dole plc (DOLE) exhibits a positive sentiment with a score of 35, driven by recent strong quarterly earnings and analyst upgrades highlighting robust consumer demand for fresh produce. However, lingering supply chain challenges slightly temper the bullish outlook, while dividend stability and potential market expansion act as near-term catalysts.\"\n}"
+}

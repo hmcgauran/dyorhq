@@ -1,149 +1,108 @@
 {
   "meta": {
     "ticker": "T",
-    "company": "AT&T Inc",
-    "exchange": "",
-    "isin": "",
-    "date": "11 Apr 2026",
-    "datePublished": "",
+    "company": "T - AT&T Inc",
+    "exchange": null,
+    "isin": "US00206R1023",
+    "date": "2026-04-18",
+    "datePublished": "2026-04-18",
     "recommendation": "BUY",
-    "recommendationNote": "BUY",
-    "conviction": 81,
-    "lastRefreshed": "2026-04-11T10:00:00Z",
+    "recommendationNote": "OPPORTUNISTIC BUY",
+    "conviction": 72,
+    "lastRefreshed": "2026-04-18T15:09:10.378Z",
     "universes": [
+      "fortune100",
+      "fortune101",
       "sp100",
-      "watchlist",
-      "fortune100"
+      "watchlist"
     ]
   },
   "price": {
-    "current": 26.46,
-    "marketCap": 184700000000.0,
-    "marketCapFormatted": "$184.70B",
-    "trailingPE": 8.67,
-    "trailingEps": 3.05,
-    "fiftyTwoWeekHigh": 29.79,
-    "fiftyTwoWeekLow": 22.95,
-    "formatted": ""
+    "current": 26.51,
+    "currency": "USD",
+    "marketCap": "185096612528",
+    "pe": 8.69,
+    "eps": 3.05,
+    "week52High": 29.79,
+    "week52Low": 22.95,
+    "beta": 0.34,
+    "avgVolume": "42003838",
+    "sharesOutstanding": null
+  },
+  "grok": {
+    "score": 56,
+    "signal": "positive",
+    "keyThemes": [
+      "dividend stability",
+      "debt reduction",
+      "5G expansion",
+      "streaming competition"
+    ],
+    "summary": "AT&T Inc. (T) shows a mildly positive sentiment with stable dividend appeal and progress in debt reduction, though it faces ongoing competition in streaming. Recent news highlights 5G network growth, with analysts maintaining a cautiously optimistic tone and price momentum showing slight upward trends.",
+    "bullCase": "",
+    "bearCase": "",
+    "sources": ""
+  },
+  "scenario": {
+    "bullProbability": 35,
+    "bullScore": 88,
+    "baseProbability": 55,
+    "baseScore": 68,
+    "bearProbability": 10,
+    "bearScore": 38,
+    "conviction": 72
   },
   "sections": {
     "executiveSummary": {
-      "text": "AT&T is a recovering telecom blue chip that has completed its structural reset - the WarnerMedia spin, aggressive network expansion, and dividend reduction have cleared the path to free cash flow growth - and at 8.67x earnings with a 6%+ dividend yield and a credible fibre monetisation story, the shares offer one of the most attractive risk-reward profiles in the Fortune 100 universe, making BUY the appropriate recommendation."
+      "text": "AT&amp;T is a major US telecommunications provider, historically operating in two distinct segments: Mobility (wireless) and the now-spun-off WarnerMedia (entertainment). The post-2022 AT&amp;T is a focused telecom business built on three pillars:"
     },
     "businessModel": {
-      "text": "AT&T is a major US telecommunications provider, historically operating in two distinct segments: Mobility (wireless) and the now-spun-off WarnerMedia (entertainment). The post-2022 AT&T is a focused telecom business built on three pillars: Mobility: AT&T is the second-largest US wireless provider by subscriber count (approximately 100 million postpaid and 75 million prepaid connections). The wireless business is the primary earnings engine, generating strong cash flow from a relatively mature subscriber base. Postpaid phone churn is well-managed at approximately 1% or below monthly, and ARPU (average revenue per user) growth is driven by plan price increases and device upgrade cycles rather than subscriber growth. The capital-light nature of the wireless model (predominantly roaming and small-cell additions rather than major new build) makes it a high-quality cash flow generator. fibre (FTTH): AT&T's fibre-to-the-home build is the primary growth driver of the current investment thesis. The company has deployed fibre to over 25 million customer locations across 21 states, making it one of the largest fibre owners in the US alongside Alphabet's Google Fiber and Lumen/CenturyLink's Quantum Fiber. The strategy is to convert FTTH customers from copper DSL or cable DOCSIS connections, offering fibre broadband at significantly higher ARPU. The fibre business is also being monetised through sale of minority stakes to infrastructure investors and joint ventures, unlocking value without giving up network control. Mexico Wireless (AT&T Mexico): A smaller but meaningful business operating in the third-largest wireless market globally. AT&T Mexico has been profitable and generates cash but faces intense competitive dynamics from Telcel (America Movil). AT&T's dividend was reduced from $2.08 to $1.11 per share in 2022 following the WarnerMedia separation, and has since been raised incrementally to approximately $1.13 per share. The current yield of approximately 6.1% is the highest of any major US telecommunications company and provides a compelling income floor while the fibre and wireless businesses compound."
+      "text": ""
     },
     "financialSnapshot": {
-      "text": "",
-      "table": [
-        {
-          "label": "Current Price",
-          "value": "$26.46"
-        },
-        {
-          "label": "Market Capitalisation",
-          "value": "$184.7 billion"
-        },
-        {
-          "label": "Price-to-Earnings (P/E)",
-          "value": "8.67x"
-        },
-        {
-          "label": "Earnings Per Share (EPS)",
-          "value": "$3.05"
-        },
-        {
-          "label": "52-Week High",
-          "value": "$29.79"
-        },
-        {
-          "label": "52-Week Low",
-          "value": "$22.95"
-        }
-      ]
+      "price": 26.51,
+      "pe": 8.69,
+      "eps": 3.05,
+      "marketCap": "185096612528",
+      "week52High": 29.79,
+      "week52Low": 22.95,
+      "revenueTTM": null,
+      "grossMargin": null
     },
     "recentCatalysts": {
-      "text": "AT&T has consistently beaten consensus free cash flow estimates in recent quarters, demonstrating that the post-WarnerMedia AT&T is a leaner, more focused business with strong cash generation. FY2025 free cash flow guidance has been met and exceeded, building credibility with investors who were sceptical post-2022 dividend cut. The fibre-to-the-home build is ahead of schedule. AT&T has expanded fibre passings faster than expected, and the fibre subscriber base (approximately 7-8 million customers as of late 2025) is growing at 20%+ annually. This is the key metric for the bull case - fibre customers generate 2-3x the ARPU of copper customers and churn at significantly lower rates. Minority stake sales in fibre infrastructure (including a notable transaction with a sovereign wealth fund investor) have validated the market's valuation of the fibre asset base at $15-20 billion+, significantly above the book value of the fibre network. This sum-of-parts disconnect from the quoted share price is a catalyst for sum-of-parts re-rating. Wireless pricing remains firm. AT&T and Verizon have both raised unlimited plan prices by 5-10% in 2024-2025, demonstrating that the US wireless oligopoly retains pricing power - a critical positive for the earnings base. Debt reduction has been consistent and ahead of schedule. Net debt/EBITDA has moved toward 2.5x or below, and management has committed to achieving investment-grade metric (BBB-) metrics, which would reduce financing costs and improve financial flexibility. AI-driven network efficiency: AT&T is deploying AI tools to reduce network operating costs and improve spectral efficiency - this is beginning to show up in margin improvements in the wireless segment.",
-      "items": [
-        "AT&T has consistently beaten consensus free cash flow estimates in recent quarters, demonstrating that the post-WarnerMedia AT&T is a leaner, more focused business with strong cash generation. FY2025 free cash flow guidance has been met and exceeded, building credibility with investors who were sceptical post-2022 dividend cut.",
-        "The fibre-to-the-home build is ahead of schedule. AT&T has expanded fibre passings faster than expected, and the fibre subscriber base (approximately 7-8 million customers as of late 2025) is growing at 20%+ annually. This is the key metric for the bull case - fibre customers generate 2-3x the ARPU of copper customers and churn at significantly lower rates.",
-        "Minority stake sales in fibre infrastructure (including a notable transaction with a sovereign wealth fund investor) have validated the market's valuation of the fibre asset base at $15-20 billion+, significantly above the book value of the fibre network. This sum-of-parts disconnect from the quoted share price is a catalyst for sum-of-parts re-rating.",
-        "Wireless pricing remains firm. AT&T and Verizon have both raised unlimited plan prices by 5-10% in 2024-2025, demonstrating that the US wireless oligopoly retains pricing power - a critical positive for the earnings base.",
-        "Debt reduction has been consistent and ahead of schedule. Net debt/EBITDA has moved toward 2.5x or below, and management has committed to achieving investment-grade metric (BBB-) metrics, which would reduce financing costs and improve financial flexibility.",
-        "AI-driven network efficiency: AT&T is deploying AI tools to reduce network operating costs and improve spectral efficiency - this is beginning to show up in margin improvements in the wireless segment."
-      ]
+      "text": ""
     },
     "thesisEvaluation": {
-      "text": "Scenario Probability Thesis Bull 30% Fibre monetisation accelerates via infrastructure fund transactions. Fibre subscriber base compounds to 12+ million by FY2027, generating substantial ARPU uplift. Wireless pricing remains firm with 3-5% annual ARPU growth. EPS clears $3.80 by FY2027. Sum-of-parts analysis (wireless at 10x EV/EBITDA, fibre at $15bn+ for minority stakes) implies $35-$40 intrinsic value. Shares re-rate to 12-15x earnings = $36-$45+. Dividend raised materially, attracting yield buyers. Total return of 40-60% from current levels. Base 50% Fibre subscriber growth of 15-20% annually continues. Wireless ARPU grows at 2-3% annually through plan increases. EPS approaches $3.30-$3.50 in FY2026-2027. Debt continues to decline. Dividend maintained at $1.13/share. Shares trade $28-$33, equivalent to 9-10x base-case earnings - appropriate for a stable telecoms with high dividend yield. Total return of 12-20% including dividend - solid from a low-risk yield play. Bear 20% Fibre subscriber growth disappoints due to construction delays or competitive pressure from cable. T-Mobile price competition intensifies, compressing wireless ARPU. Earnings per share falls toward $2.50-$2.70. Dividend sustainability questioned again. Shares fall to $18-$22, approximately 7-8x depressed earnings - historically the trough range for US telecoms. Debt/EBITDA expands again, limiting buybacks.",
-      "bull": {
-        "scenario": "",
-        "probability": 25
-      },
-      "base": {
-        "scenario": "",
-        "probability": 50
-      },
-      "bear": {
-        "scenario": "",
-        "probability": 25
-      }
+      "text": ""
     },
     "keyRisks": {
-      "text": "Fibre build execution risk: AT&T's ability to convert copper customers to fibre at the expected rate is the single most important near-term variable. If fibre subscriber additions disappoint due to construction delays, competitive pressure from cable broadband, or customer reluctance to switch, the investment case for the FTTH programme weakens materially. The programme is capital-intensive and cash flow negative in early years; a slowdown in conversions would extend the payback period significantly. Wireless pricing power sustainability: The 2024-2025 wireless price increases have been the key earnings positive. If T-Mobile or Dish/T-Mobile USA responds with aggressive price promotions, AT&T's ARPU growth could stall or reverse. The US wireless market remains a three-player oligopoly, but competitive dynamics can shift quickly, particularly if T-Mobile's 5G network advantages translate into meaningful subscriber momentum. Dividend sustainability: While the dividend has been stabilised and modestly raised since the 2022 cut, any deterioration in free cash flow (from fibre capex, competitive pressure, or economic slowdown) could put the dividend at risk again. The current 6%+ yield implies the market still has some residual concern about this risk. Debt and leverage: AT&T carries approximately $120+ billion in net debt following the post-WarnerMedia restructuring. While the company is actively deleveraging, a deterioration in cash flow or an acquisition (buying back spectrum or assets) could slow the deleveraging trajectory and create financial flexibility concerns. Fibre monetisation execution: The strategy of selling minority stakes in the fibre network to infrastructure funds is novel and depends on investor appetite for telecom infrastructure assets. Any deterioration in credit markets or shift in infrastructure fund sentiment could impair AT&T's ability to execute this monetisation at attractive valuations.",
-      "risks": [
-        {
-          "rank": 1,
-          "risk": "Fibre build execution risk: AT&T's ability to convert copper customers to fibre at the expected rate is the single most important near-term variable. If fibre subscriber additions disappoint due to construction delays, competitive pressure from cable broadband, or customer reluctance to switch, the investment case for the FTTH programme weakens materially. The programme is capital-intensive and cash flow negative in early years; a slowdown in conversions would extend the payback period significantly."
-        },
-        {
-          "rank": 2,
-          "risk": "Wireless pricing power sustainability: The 2024-2025 wireless price increases have been the key earnings positive. If T-Mobile or Dish/T-Mobile USA responds with aggressive price promotions, AT&T's ARPU growth could stall or reverse. The US wireless market remains a three-player oligopoly, but competitive dynamics can shift quickly, particularly if T-Mobile's 5G network advantages translate into meaningful subscriber momentum."
-        },
-        {
-          "rank": 3,
-          "risk": "Dividend sustainability: While the dividend has been stabilised and modestly raised since the 2022 cut, any deterioration in free cash flow (from fibre capex, competitive pressure, or economic slowdown) could put the dividend at risk again. The current 6%+ yield implies the market still has some residual concern about this risk."
-        },
-        {
-          "rank": 4,
-          "risk": "Debt and leverage: AT&T carries approximately $120+ billion in net debt following the post-WarnerMedia restructuring. While the company is actively deleveraging, a deterioration in cash flow or an acquisition (buying back spectrum or assets) could slow the deleveraging trajectory and create financial flexibility concerns."
-        },
-        {
-          "rank": 5,
-          "risk": "Fibre monetisation execution: The strategy of selling minority stakes in the fibre network to infrastructure funds is novel and depends on investor appetite for telecom infrastructure assets. Any deterioration in credit markets or shift in infrastructure fund sentiment could impair AT&T's ability to execute this monetisation at attractive valuations."
-        }
-      ]
+      "text": ""
     },
-    "whoShouldOwn": {
-      "text": "Own: Yield-focused investors seeking a 6%+ dividend yield from a high-quality telecoms with improving fundamentals; value investors who see the sum-of-parts disconnect between the quoted share price and the asset base; income investors who want a telecoms yield play with a credible restructuring story behind it. Long-term holders who want to capture both the dividend income and fibre option value."
+    "whoShouldOwnIt": {
+      "text": ""
     },
     "recommendation": {
-      "text": "BUY - Conviction Score: 81/100 AT&T is the rare situation where a stock offers both a high yield and a genuine operational turnaround story at an attractive valuation. The post-WarnerMedia AT&T is a simpler, more focused business that has demonstrated it can grow free cash flow while paying a 6%+ dividend. The fibre FTTH programme is the primary earnings growth driver over the next 3-5 years, converting higher-ARPU fibre subscribers from legacy copper. The minority stake sales validate the fibre asset value and create a sum-of-parts re-rating catalyst. At 8.67x trailing earnings and 6%+ yield, the risk-reward is compelling for income and value investors. Entry framework: The shares are currently attractively priced for a BUY. Buy on any dips below $24 as enhanced conviction. Target $33-$36 over 12-18 months on a base-case EPS of $3.30 and a 10x multiple - this implies approximately 25-35% capital appreciation plus the 6% dividend yield, for a total return of 30-40%. In the bull scenario, a fibre subscriber inflection and monetisation acceleration could push the shares toward $40+. Stop-loss: A sustained break below $20 would suggest either a dividend cut or a more serious competitive deterioration than is currently priced in. This would be a signal to reassess the thesis and potentially cut the position."
+      "text": ""
     },
-    "entryExit": {
-      "text": "The shares are currently attractively priced for a BUY. Buy on any dips below $24 as enhanced conviction. Target $33-$36 over 12-18 months on a base-case EPS of $3.30 and a 10x multiple - this implies approximately 25-35% capital appreciation plus the 6% dividend yield, for a total return of 30-40%. In the bull scenario, a fibre subscriber inflection and monetisation acceleration could push the shares toward $40+. | A sustained break below $20 would suggest either a dividend cut or a more serious competitive deterioration than is currently priced in. This would be a signal to reassess the thesis and potentially cut the position. | Buy on any dips below $24 as enhanced conviction. | Target $33-$36 over 12-18 months on a base-case EPS of $3."
+    "entry": {
+      "text": ""
     },
     "sources": {
-      "marketData": "Live quote data sourced via the DYOR HQ proprietary market data workflow using multiple market data inputs and validation checks. Fields include price, market capitalisation, 52-week range, P/E, EPS, and volume.",
-      "companyFilings": "Public company filings, regulatory announcements, investor presentations, and regulatory announcements where referenced in the analysis.",
-      "additional": [],
-      "literature": []
+      "text": ""
     }
   },
   "scores": {
     "current": {
-      "score": 81,
+      "score": 72,
       "band": "BUY",
-      "date": "",
-      "delta": "0",
-      "reason": "Initial coverage"
+      "date": "2026-04-18",
+      "delta": "3",
+      "reason": "Formula fix"
     },
     "history": [
       {
-        "date": "",
-        "score": 81,
-        "band": "BUY",
-        "delta": "0",
-        "reason": "Initial coverage"
+        "date": "2026-04-16",
+        "conviction": 81
       }
     ]
   }

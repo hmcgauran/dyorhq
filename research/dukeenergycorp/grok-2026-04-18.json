@@ -1,0 +1,12 @@
+{
+  "score": 63,
+  "signal": "positive",
+  "key_themes": [
+    "renewable energy transition",
+    "stable dividend",
+    "regulatory environment",
+    "earnings performance"
+  ],
+  "summary": "Duke Energy Corp (DUK) shows a positive sentiment driven by its focus on renewable energy investments and a stable dividend appealing to income-focused investors. Recent news highlights progress in clean energy goals, supported by a generally favorable analyst tone and steady price momentum, though regulatory challenges remain a near-term concern.",
+  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"renewable energy transition\", \"stable dividend\", \"regulatory environment\", \"earnings performance\"],\n  \"summary\": \"Duke Energy Corp (DUK) shows a positive sentiment driven by its focus on renewable energy investments and a stable dividend appealing to income-focused investors. Recent news highlights progress in clean energy goals, supported by a generally favorable analyst tone and steady price momentum, though regulatory challenges remain a near-term concern.\"\n}"
+}

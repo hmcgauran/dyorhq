@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "signal": "positive",
+  "key_themes": [
+    "cloud growth",
+    "AI integration",
+    "earnings performance",
+    "competitive landscape"
+  ],
+  "summary": "Oracle Corp (ORCL) shows positive sentiment driven by strong cloud revenue growth and increasing adoption of AI-driven solutions, as highlighted in recent news and analyst commentary. Price momentum remains steady with a constructive outlook, supported by anticipation of upcoming earnings as a near-term catalyst.",
+  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"cloud growth\", \"AI integration\", \"earnings performance\", \"competitive landscape\"],\n  \"summary\": \"Oracle Corp (ORCL) shows positive sentiment driven by strong cloud revenue growth and increasing adoption of AI-driven solutions, as highlighted in recent news and analyst commentary. Price momentum remains steady with a constructive outlook, supported by anticipation of upcoming earnings as a near-term catalyst.\"\n}"
+}
