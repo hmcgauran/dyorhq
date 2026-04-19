@@ -1,13 +1,14 @@
 {
-  "score": 38,
-  "signal": "negative",
+  "score": 78,
+  "rawScore": 55,
+  "signal": "positive",
   "key_themes": [
-    "oil price volatility",
-    "Falkland Islands uncertainty",
-    "funding challenges",
-    "project delays",
-    "market sentiment"
+    "Sea Lion FID and development progress",
+    "Reserves upgrade confirming commercial viability",
+    "Analyst buy ratings with 30-40%+ upside",
+    "Institutional ownership and long-term confidence",
+    "Path to production amid volatility"
   ],
-  "summary": "Rockhopper Exploration Plc (RKH) faces a negative sentiment due to ongoing uncertainties in the Falkland Islands oil projects and volatile oil prices impacting investor confidence. Recent news highlights funding difficulties and delays in key developments, with analysts maintaining a cautious to bearish tone and price momentum showing a downward trend.",
-  "raw": "{\n  \"score\": -30,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"oil price volatility\", \"Falkland Islands uncertainty\", \"funding challenges\", \"project delays\", \"market sentiment\"],\n  \"summary\": \"Rockhopper Exploration Plc (RKH) faces a negative sentiment due to ongoing uncertainties in the Falkland Islands oil projects and volatile oil prices impacting investor confidence. Recent news highlights funding difficulties and delays in key developments, with analysts maintaining a cautious to bearish tone and price momentum showing a downward trend.\"\n}"
+  "summary": "Rockhopper Exploration (RKH.L) is experiencing positive investor sentiment driven by major de-risking milestones on the Sea Lion Phase 1 project in the Falklands, including the Final Investment Decision (late 2025), a April 2026 independent reserves report reclassifying the field as commercially viable, and secured financing. Analysts maintain Buy ratings with average targets around 97-113p versus the recent ~80p price, implying meaningful upside, while institutional owners remain supportive after strong multi-year gains. The stock is volatile — it pulled back over 5% on April 17 on elevated volume after hitting recent highs — but the dominant narrative centers on nearing production and project execution rather than fundamental concerns.[[1]](https://finance.yahoo.com/quote/RKH.L/)[[2]](https://rockhopperexploration.co.uk/news/)[[3]](https://uk.investing.com/equities/rockhopper-exploration-plc-news)[[4]](https://www.marketbeat.com/stocks/LON/RKH/forecast/)",
+  "sources": "10+ recent news articles and RNS announcements (Apr 2026 reserves report, FID updates, financing), Limited X/Twitter activity (~8-10 relevant low-engagement posts found since 2026), LSE share chat context, analyst notes (Canaccord, Zeus, Cavendish), Yahoo Finance/Simply Wall St coverage"
 }

@@ -1,12 +1,14 @@
 {
-  "score": 38,
-  "signal": "negative",
+  "score": 86,
+  "rawScore": 72,
+  "signal": "positive",
   "key_themes": [
-    "hydrogen sector challenges",
-    "financial performance",
-    "market competition",
-    "stock volatility"
+    "Strategic Rheinmetall partnership for NATO synthetic fuels / e-fuels",
+    "Great British Energy government investment and funding support",
+    "Record revenue in H1 FY2026 and improved execution discipline",
+    "Momentum surge into defense and mission-critical hydrogen applications",
+    "Analyst upgrades and shifting narrative toward commercial viability"
   ],
-  "summary": "ITM Power plc faces a negative sentiment due to recent underwhelming financial results and broader challenges in the hydrogen sector. Analyst tone remains cautious, with concerns over profitability and competitive pressures, while price momentum shows a downward trend with no significant near-term catalysts to reverse it.",
-  "raw": "{\n  \"score\": -30,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"hydrogen sector challenges\", \"financial performance\", \"market competition\", \"stock volatility\"],\n  \"summary\": \"ITM Power plc faces a negative sentiment due to recent underwhelming financial results and broader challenges in the hydrogen sector. Analyst tone remains cautious, with concerns over profitability and competitive pressures, while price momentum shows a downward trend with no significant near-term catalysts to reverse it.\"\n}"
+  "summary": "ITM Power (ITM.L / ITMPF) has generated strongly bullish sentiment after its stock surged approximately 40% in one session and over 85% in a week to around 131.5 GBp. Key catalysts include a strategic collaboration with Rheinmetall on decentralized synthetic fuel plants for NATO forces and an investment plus funding support from Great British Energy. Recent half-year results highlighted record revenue and better commercial traction in green hydrogen electrolysers, shifting the story from past execution issues toward tangible defense and energy transition opportunities, though profitability risks and elevated valuation post-surge remain noted by some observers.",
+  "sources": "15+ recent news articles (Yahoo Finance, MarketBeat, TipRanks, Reuters, Energy Global), 20+ X posts discussing 40-85% weekly gains and key deals (April 2026)"
 }

@@ -1,12 +1,45 @@
 {
-  "score": 66,
+  "ticker": "ACSO",
+  "company": "Accesso Technology Group PLC",
+  "generatedAt": "2026-04-18T22:11:29.203Z",
+  "score": 45,
   "signal": "positive",
   "key_themes": [
-    "strong earnings",
-    "theme park demand",
-    "technology adoption",
-    "market expansion"
+    "AI acquisition (Dexibit) and new Accesso Intelligence platform for higher-margin recurring revenue",
+    "Strong profit growth (+38% pretax) and efficiency gains (headcount reduction, margin improvement) despite modest revenue",
+    "Bullish analyst consensus (Buy ratings, ~100%+ upside to 500-575p targets) vs. weak recent share price momentum"
   ],
-  "summary": "Accesso Technology Group PLC (ACSO) shows a positive sentiment driven by strong recent earnings reports and growing demand for its ticketing and virtual queuing solutions in the theme park industry. Analyst tone remains optimistic, with price momentum reflecting steady upward trends, though no major near-term catalysts are evident.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"theme park demand\", \"technology adoption\", \"market expansion\"],\n  \"summary\": \"Accesso Technology Group PLC (ACSO) shows a positive sentiment driven by strong recent earnings reports and growing demand for its ticketing and virtual queuing solutions in the theme park industry. Analyst tone remains optimistic, with price momentum reflecting steady upward trends, though no major near-term catalysts are evident.\"\n}"
+  "sources_checked": [
+    "Yahoo Finance/Proactive Investors articles (Mar 2026)",
+    "LSE RNS, earnings releases, and Investegate announcements",
+    "Analyst consensus (Shore Capital, Deutsche Bank, MarketBeat)",
+    "X posts on results and acquisition"
+  ],
+  "summary": "Accesso reported solid 2025 results with revenue up 1.8% to $155.1m (stronger like-for-like and recurring revenue growth) and pretax profit up 38%, alongside efficiency improvements and the $12.1m Dexibit AI acquisition to launch a cross-platform intelligence product that should reduce footfall cyclicality. Analysts are enthusiastic about the strategic pivot, maintaining Buy ratings with targets implying over 100% upside from current ~250p levels, and the company confirmed 2026 guidance in line with expectations. The biggest risk is execution on integration/leadership transition (CEO Steve Brown stepping down May 2026), plus macro sensitivity in leisure attractions and geopolitical exposure in the Middle East.",
+  "recent_posts": [
+    {
+      "source": "X @proactive_x",
+      "date": "Mar 31, 2026",
+      "sentiment": "positive",
+      "highlight": "Accesso harnessing AI in next phase of growth plans, say analysts"
+    },
+    {
+      "source": "X @proactive_x",
+      "date": "Mar 30, 2026",
+      "sentiment": "positive",
+      "highlight": "Acquires Dexibit in $12.1m AI push as it confirms 2026 outlook"
+    },
+    {
+      "source": "X @AliceTaylor___",
+      "date": "Mar 30, 2026",
+      "sentiment": "positive",
+      "highlight": "Exciting news: CEO change, profit surge, and a new acquisition!"
+    },
+    {
+      "source": "X @advfn",
+      "date": "Mar 30, 2026",
+      "sentiment": "positive",
+      "highlight": "Lifts profits and accelerates AI strategy as CEO transition approaches"
+    }
+  ]
 }

@@ -1,0 +1,45 @@
+{
+  "ticker": "ALL",
+  "company": "ALL - Allstate Corp",
+  "generatedAt": "2026-04-18T22:16:07.173Z",
+  "score": 42,
+  "signal": "positive",
+  "key_themes": [
+    "Strong recent earnings beats with policy growth",
+    "Material Q1 2026 catastrophe losses from storms",
+    "Bullish analyst consensus with moderate upside to targets"
+  ],
+  "sources_checked": [
+    "Allstate Investor Relations",
+    "Yahoo Finance/MarketBeat",
+    "Reinsurance News/AMBEST",
+    "X posts (semantic + keyword search)"
+  ],
+  "summary": "Allstate delivered very strong earnings in recent quarters, including a massive Q4 2025 beat ($14.31 EPS vs. ~$9 consensus) and solid YoY policy growth of ~2.3-2.5% in auto and homeowners lines, supporting a Moderate Buy/Overweight analyst consensus with average price targets near $239 (from current levels around $216).[[1]](https://www.marketbeat.com/stocks/NYSE/ALL/forecast/)[[2]](https://www.marketbeat.com/stocks/NYSE/ALL/earnings/) However, Q1 2026 brought $1.24 billion in pre-tax catastrophe losses ($980 million after-tax), the majority ($925 million pre-tax) occurring in a stormy March dominated by wind and hail; this will weigh on the upcoming April 29/30 earnings report and highlights persistent weather/climate risk as the biggest near-term concern.[[3]](https://www.reinsurancene.ws/allstate-estimates-1-24bn-q126-cat-losses-with-march-contributing-925m/)[[4]](https://www.stocktitan.net/sec-filings/ALL/8-k-allstate-corp-reports-material-event-ec4b3a64925c.html) Overall momentum remains net positive from operational trends and analyst support, but the heavy cat losses prevent a stronger rating.",
+  "recent_posts": [
+    {
+      "source": "X @MaerinoResearch",
+      "date": "Apr 16, 2026",
+      "sentiment": "mixed",
+      "highlight": "BREAKING: Allstate reports $925M March catastrophe losses with 80% from wind/hail events, while policies in force grow 2.3% YoY. Q1 pre-tax catastrophe losses: $1.24B."
+    },
+    {
+      "source": "X @MultibaggAIHQ",
+      "date": "Apr 12, 2026",
+      "sentiment": "mixed",
+      "highlight": "$ALL ZACKS CUTS ALLSTATE (ALL) TO HOLD AHEAD OF EARNINGS; OTHER ANALYSTS DISAGREE. DOES THE SPLIT IN RATINGS SIGNAL A CHANGE IN ALLSTATE'S UNDERLYING FUNDAMENTALS?"
+    },
+    {
+      "source": "X @SafetyMarginIO",
+      "date": "Apr 12, 2026",
+      "sentiment": "positive",
+      "highlight": "$ALL trading at 70% discount to intrinsic value with 16.3% FCF yield. When insurers trade at 5.5x earnings while generating 40% ROIC, the market prices in disaster."
+    },
+    {
+      "source": "TipRanks/Reinsurance News",
+      "date": "Apr 2026",
+      "sentiment": "negative",
+      "highlight": "Allstate estimates $1.24bn Q1'26 cat losses with March contributing $925m... highlighting a heavy weather-related claims burden despite steady policy growth."
+    }
+  ]
+}

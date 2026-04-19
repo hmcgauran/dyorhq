@@ -1,12 +1,14 @@
 {
-  "score": 63,
+  "score": 88,
+  "rawScore": 75,
   "signal": "positive",
   "key_themes": [
-    "sustainable palm oil",
-    "strong production growth",
-    "market volatility",
-    "dividend potential"
+    "Record 2025 profits and revenue growth",
+    "Higher dividends and shareholder returns",
+    "Operational improvements and sustainability in palm oil",
+    "Strong balance sheet with net cash and low valuation",
+    "Analyst buy ratings and market outperformance"
   ],
-  "summary": "M P Evans Group PLC shows a positive sentiment with steady production growth in palm oil and a focus on sustainability, which aligns with market trends. Recent analyst tone is cautiously optimistic, supported by stable price momentum, though near-term catalysts like commodity price fluctuations could impact performance.",
-  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"sustainable palm oil\", \"strong production growth\", \"market volatility\", \"dividend potential\"],\n  \"summary\": \"M P Evans Group PLC shows a positive sentiment with steady production growth in palm oil and a focus on sustainability, which aligns with market trends. Recent analyst tone is cautiously optimistic, supported by stable price momentum, though near-term catalysts like commodity price fluctuations could impact performance.\"\n}"
+  "summary": "M.P. Evans Group PLC (MPE.L), an Indonesian palm oil producer, reported record 2025 results with revenue rising 5% to $371m, gross profit up 22%, EPS over 160p, and a 14% dividend increase to 60p per share. The company is debt-free with $87.5m net cash, improved yields/extraction rates, expanding planted area beyond 70,000 hectares, and a positive 2026 start. The stock has delivered strong returns (≈33% YTD, 65% 1-year as of mid-April 2026), outperforming the market, with consensus analyst targets around 1,650-1,750 GBp and a Buy/Strong Buy rating.[[1]](https://finance.yahoo.com/quote/MPE.L/)[[1]](https://finance.yahoo.com/quote/MPE.L/)",
+  "sources": "10+ news articles/RNS on FY2025 record results (Mar 2026), 5 relevant recent X posts (Mar-Apr 2026), Yahoo Finance (quote, performance, analysts), Company reports, presentations & investor site, LSE/ADVFN share chat references and Morningstar data"
 }

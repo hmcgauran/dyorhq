@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 68,
+  "rawScore": 35,
   "signal": "positive",
   "key_themes": [
-    "digital growth",
-    "youth engagement",
-    "revenue potential",
-    "market expansion",
-    "content innovation"
+    "Motor finance mis-selling provisions and FCA redress scheme",
+    "Analyst price target upgrades and constructive ratings",
+    "Attractive dividends, buybacks, and shareholder returns",
+    "Strong 2025 performance with Q1 2026 results imminent",
+    "Valuation appeal amid UK banking stability"
   ],
-  "summary": "LBG Media PLC shows a positive sentiment driven by strong digital growth and engagement with younger demographics through platforms like LADbible. Recent news highlights robust revenue potential and analyst tone remains cautiously optimistic, supported by upward price momentum and potential near-term catalysts like new content partnerships.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"digital growth\", \"youth engagement\", \"revenue potential\", \"market expansion\", \"content innovation\"],\n  \"summary\": \"LBG Media PLC shows a positive sentiment driven by strong digital growth and engagement with younger demographics through platforms like LADbible. Recent news highlights robust revenue potential and analyst tone remains cautiously optimistic, supported by upward price momentum and potential near-term catalysts like new content partnerships.\"\n}"
+  "summary": "Lloyds Banking Group (LLOY.L / LBG / LYG), the UK high-street bank, delivered strong 2025 results with profit growth, cost discipline, and elevated shareholder distributions including a 15% higher dividend and buybacks.[[1]](https://www.lloydsbankinggroup.com/investors.html)[[2]](https://www.lloydsbankinggroup.com/investors/shareholder-information/dividends.html) It is maintaining its ~£2bn provision for motor finance compensation after the FCA finalized its redress scheme and is not increasing the charge, though legal risks and customer claims persist.[[3]](https://uk.finance.yahoo.com/news/lloyds-sticks-2bn-provision-motor-071453047.html)[[4]](https://www.bloomberg.com/news/articles/2026-04-02/lloyds-to-keep-2-billion-car-loan-charge-after-fca-final-rules) Recent analyst upgrades and PT increases (e.g. JPMorgan to 121p) reflect confidence in stabilized profitability, the ~3.5% yield, and upside to current levels around 103-105p, with Q1 2026 results due April 29.[[5]](https://www.cnbc.com/quotes/LLOY-GB)[[6]](https://finance.yahoo.com/quote/LYG/)",
+  "sources": "20+ web news/articles (Yahoo Finance, Reuters, Bloomberg, LSE, BBC, company site), X posts: ~40 reviewed (moderate volume focused on PT changes and provisions)"
 }

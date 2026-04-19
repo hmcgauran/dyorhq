@@ -1,13 +1,14 @@
 {
   "score": 63,
+  "rawScore": 25,
   "signal": "positive",
   "key_themes": [
-    "steady growth",
-    "legal services demand",
-    "dividend stability",
-    "market competition",
-    "economic uncertainty"
+    "High dividend yield (~13%) creating income/value appeal after sharp decline",
+    "Jylo AI platform deployment for efficiency, governance, and growth",
+    "Director/insider share purchases signaling confidence",
+    "Strong revenue and organic growth offset by margin pressure and lower underlying PBT",
+    "Significant share price de-rating (down ~50-58% over 1yr) with recent stabilization and analyst upgrade to Hold"
   ],
-  "summary": "Gateley (Holdings) PLC (GTLY) shows a positive sentiment with steady growth in its legal and professional services, supported by consistent demand and a stable dividend policy. Recent analyst tone is cautiously optimistic, though price momentum has been moderate, with potential near-term catalysts tied to economic conditions and competitive pressures.",
-  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"steady growth\", \"legal services demand\", \"dividend stability\", \"market competition\", \"economic uncertainty\"],\n  \"summary\": \"Gateley (Holdings) PLC (GTLY) shows a positive sentiment with steady growth in its legal and professional services, supported by consistent demand and a stable dividend policy. Recent analyst tone is cautiously optimistic, though price momentum has been moderate, with potential near-term catalysts tied to economic conditions and competitive pressures.\"\n}"
+  "summary": "Gateley (Holdings) Plc (GTLY.L), a UK professional services group, delivered solid revenue growth (up 9.3% organically in H1 to Oct 2025) but saw underlying profit before tax decline, contributing to a steep multi-month share price sell-off from over 139p to around 70p. Recent developments have improved the narrative: deployment of the Jylo AI platform in March 2026 to securely access leading AI tools, multiple director share purchases in January 2026, maintenance of a high dividend yield that appeals to income investors, and a recent upgrade from Sell to Hold/Accumulate. Sentiment is turning cautiously constructive around the value opportunity and strategic moves, though margin recovery and debt levels remain watch points.[[1]](https://gateleyplc.com/insight/market-announcements/half-year-results-for-the-six-months-ended-31-october-2025/)[[2]](https://www.londonstockexchange.com/news-article/GTLY/agreement-to-deploy-the-jylo-ai-platform/17497236)[[3]](https://stockinvest.us/stock/GTLY.L)",
+  "sources": "10+ web/news articles (Yahoo Finance, LSE RNS, Reuters, TipRanks, Stockinvest.us, company site), Investor discussion forums (ADVFN, Stockopedia, Investing.com share chat), X/Twitter: 0 relevant posts found (keyword + semantic searches returned unrelated or general market content; very low social media buzz for this small-cap name)"
 }

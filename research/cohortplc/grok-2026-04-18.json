@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 83,
+  "rawScore": 65,
   "signal": "positive",
   "key_themes": [
-    "strong earnings",
-    "defense sector growth",
-    "contract wins",
-    "stable momentum",
-    "analyst optimism"
+    "Significant defense contract wins (naval, satellite comms, acoustic projects)",
+    "Record H1 revenue and strong order book (>£600m) providing visibility",
+    "Strong Buy analyst consensus with ~20-25% average upside",
+    "Geopolitical tailwinds driving European/UK defense spending",
+    "Consistent dividend growth despite H1 profitability pressures"
   ],
-  "summary": "Cohort PLC (CHRT) shows a positive sentiment with recent strong earnings reports and contract wins in the defense sector driving optimism. Analyst tone remains favorable, supported by steady price momentum and potential near-term catalysts from ongoing defense projects.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"defense sector growth\", \"contract wins\", \"stable momentum\", \"analyst optimism\"],\n  \"summary\": \"Cohort PLC (CHRT) shows a positive sentiment with recent strong earnings reports and contract wins in the defense sector driving optimism. Analyst tone remains favorable, supported by steady price momentum and potential near-term catalysts from ongoing defense projects.\"\n}"
+  "summary": "Cohort plc (CHRT.L), a UK defense technology group, is seeing positive investor sentiment driven by multiple contract wins totaling tens of millions of pounds/euros across subsidiaries (EID €42.3m Portuguese Navy, MCL £17.9m, EM Solutions ~£11.5m satellite comms). H1 2026 delivered record revenue of £128.8m and a sustained strong order book, though adjusted profits saw modest pressure; the interim dividend was increased 10%. With a Strong Buy consensus, average targets around 1,670p (from current ~1,350p), and exposure to rising defense budgets, the outlook is constructive despite some stock volatility off its highs.[[1]](https://www.investing.com/equities/cohort-plc-consensus-estimates)[[2]](https://finance.yahoo.com/news/cohort-plc-fra-c7k-h1-010025930.html)",
+  "sources": "10+ relevant recent X posts/RNS notifications (contracts, holdings, discussions), 8+ news articles and releases (LSE RNS, Yahoo Finance, Morningstar, company site), Analyst consensus from 5 firms (Strong Buy, avg target ~£1,670)"
 }

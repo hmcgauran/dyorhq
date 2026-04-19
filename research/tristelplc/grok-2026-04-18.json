@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 79,
+  "rawScore": 58,
   "signal": "positive",
   "key_themes": [
-    "strong financials",
-    "market expansion",
-    "product innovation",
-    "regulatory approvals",
-    "share price growth"
+    "Robust H1 FY2026 results with 14% revenue growth to record £25.6M",
+    "Six-fold US revenue increase and accelerating North American adoption",
+    "Strong margins (29% adjusted EBITDA), cash generation, and progressive dividend",
+    "Product innovation, clinical guideline wins, and global expansion strategy",
+    "Retail investor interest via director buys, investor events, and buy-rated commentary"
   ],
-  "summary": "Tristel Plc (TSTL) exhibits a positive sentiment driven by recent strong financial results and optimism around market expansion, particularly in the healthcare disinfection sector. Analyst tone remains constructive, with price momentum showing steady gains and potential catalysts like new product approvals on the horizon.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong financials\", \"market expansion\", \"product innovation\", \"regulatory approvals\", \"share price growth\"],\n  \"summary\": \"Tristel Plc (TSTL) exhibits a positive sentiment driven by recent strong financial results and optimism around market expansion, particularly in the healthcare disinfection sector. Analyst tone remains constructive, with price momentum showing steady gains and potential catalysts like new product approvals on the horizon.\"\n}"
+  "summary": "Tristel plc (TSTL.L), an infection prevention specialist using proprietary chlorine dioxide technology, reported strong interim results for the first half of FY2026, with record revenues up 14%, EBITDA margins at 29%, and particularly impressive six-fold US growth. Investor and social media sentiment is positive, driven by US commercial traction, solid cash flow with no debt, new product momentum, and upcoming investor presentations. The stock has been range-bound near 380-390p with a reasonable valuation for a growth company, supported by director buying and bullish retail commentary, though some analysts maintain a Hold rating pending further US scaling evidence.[[1]](https://www.investormeetcompany.com/meetings/interim-results-551)[[2]](https://www.businessweekly.co.uk/posts/strong-us-growth-for-tristel-with-sixfold-increase-in-revenues-year-on-year)[[3]](https://finance.yahoo.com/quote/TSTL.L/)",
+  "sources": "Web/news: 10+ articles and RNS on interim results (Jan-Mar 2026), X posts: ~15 recent relevant mentions (primarily Mar-Apr 2026), Investor forums: Active discussions on ADVFN, LSE.co.uk, Stockopedia, Analyst views: Consensus leaning Hold-to-Buy with price targets ~400-460p"
 }

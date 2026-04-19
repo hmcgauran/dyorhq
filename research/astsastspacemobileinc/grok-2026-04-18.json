@@ -1,0 +1,54 @@
+{
+  "ticker": "ASTS",
+  "company": "ASTS - AST SpaceMobile Inc",
+  "generatedAt": "2026-04-18T22:05:47.358Z",
+  "score": 42,
+  "signal": "positive",
+  "key_themes": [
+    "Accelerating satellite launches with imminent New Glenn mission",
+    "Q4 2025 revenue beat, strong 2026 guidance, and $3.9B liquidity",
+    "Recurring dilution from convertibles/equity offerings and execution risks",
+    "Mixed-to-cautious analyst consensus (mostly Hold/Neutral, PTs below current price)",
+    "Volatility with pullback from $120+ highs amid broader tech selloff"
+  ],
+  "sources_checked": [
+    "Yahoo Finance news & earnings",
+    "Seeking Alpha",
+    "Motley Fool",
+    "Analyst reports (Barclays, UBS, B. Riley, Scotiabank)",
+    "Recent X posts (latest and semantic search)"
+  ],
+  "summary": "AST SpaceMobile delivered a Q4/FY2025 revenue beat ($70.9M, top of guidance), holds ~$3.9B in liquidity after major raises, and is accelerating toward 45-60 satellite launches in 2026 with commercial service targeted by year-end, supported by government contracts and carrier partnerships; an imminent Blue Origin New Glenn launch is generating excitement as a near-term catalyst. However, repeated convertible note and equity offerings have caused notable dilution (stock dropped sharply on February announcements), production scaling has lagged past guidance, and most analysts hold Neutral/Hold or Underweight ratings with price targets (~$65-72 average) below the current ~$85-90 level. The biggest risk is execution slippage on the aggressive launch cadence, which could delay meaningful revenue and exacerbate dilution pressure in a volatile pre-profit story.[[1]](https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-6-9-130732041.html)[[2]](https://www.fool.com/investing/2026/04/02/prediction-ast-spacemobile-stock-will-soar-in-2026/)[[3]](https://investor.wedbush.com/wedbush/article/finterra-2026-3-30-ast-spacemobile-asts-navigating-the-2026-tech-sell-off-and-the-race-for-space-based-broadband)[[4]](https://seekingalpha.com/news/4559915-ast-spacemobile-outlines-150m-200m-2026-revenue-target-while-accelerating-global-satellite)",
+  "recent_posts": [
+    {
+      "source": "X (@scottwisniews - AST President)",
+      "date": "2026-04-18",
+      "sentiment": "positive",
+      "highlight": "Full scale rocket. Less than 24 hours to go! (referring to upcoming New Glenn launch with ASTS satellites)"
+    },
+    {
+      "source": "X (@JennyHPhoto)",
+      "date": "2026-04-18",
+      "sentiment": "positive",
+      "highlight": "Blue Origin New Glenn mission tomorrow carrying ASTS comms satellites; first stage reflight attempt"
+    },
+    {
+      "source": "X (@retail_mourinho)",
+      "date": "2026-04-17",
+      "sentiment": "negative",
+      "highlight": "Sentiment on $ASTS across X is overwhelmingly negative right now... the kind of pessimism you typically see near market bottoms"
+    },
+    {
+      "source": "Motley Fool",
+      "date": "2026-04-02",
+      "sentiment": "positive",
+      "highlight": "Prediction: AST SpaceMobile stock will soar in 2026 on revenue ramp (expected >$180M in 2026, much higher later)"
+    },
+    {
+      "source": "X (@KevinLMak)",
+      "date": "2026-03-03",
+      "sentiment": "negative",
+      "highlight": "Reduced position due to satellite production scaling challenges, past guidance misses, and risk of slower constellation build than expected"
+    }
+  ]
+}

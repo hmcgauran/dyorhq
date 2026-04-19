@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 73,
+  "rawScore": 45,
   "signal": "positive",
   "key_themes": [
-    "strong sales growth",
-    "automotive sector recovery",
-    "dividend potential",
-    "economic uncertainty",
-    "used car market demand"
+    "Resilient aftersales and used car performance offsetting new vehicle weakness",
+    "ZEV mandate regulatory headwinds in UK auto market",
+    "Capital returns via £12m share buyback and maintained dividend",
+    "FY26 results in line with expectations and strong free cash flow",
+    "Analyst price target upside (76p vs ~64p current) and undervaluation signals"
   ],
-  "summary": "Vertu Motors Plc (VTU) exhibits a positive sentiment driven by recent reports of robust sales growth and a recovering automotive sector, though tempered by broader economic uncertainties. Analyst tone remains cautiously optimistic, with price momentum showing steady upward trends and potential dividend announcements as a near-term catalyst.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong sales growth\", \"automotive sector recovery\", \"dividend potential\", \"economic uncertainty\", \"used car market demand\"],\n  \"summary\": \"Vertu Motors Plc (VTU) exhibits a positive sentiment driven by recent reports of robust sales growth and a recovering automotive sector, though tempered by broader economic uncertainties. Analyst tone remains cautiously optimistic, with price momentum showing steady upward trends and potential dividend announcements as a near-term catalyst.\"\n}"
+  "summary": "Vertu Motors (VTU.L), a major UK automotive retailer, is navigating regulatory pressures from the Zero Emission Vehicle (ZEV) mandate that has disrupted new car sales and margins. However, robust aftersales growth, used vehicle performance, cost discipline, and strong cash generation have kept FY26 adjusted profit before tax on track with market expectations. With a new £12m share buyback, stable dividend, analyst targets implying ~20% upside, and the stock showing decent longer-term returns, sentiment is mildly positive with the business viewed as resilient despite sector challenges.[[1]](https://finance.yahoo.com/quote/VTU.L/)[[2]](https://markets.ft.com/data/announce/detail?dockey=1323-17488388-6OA392ORUN765C1G6C4UCB6J46)[[3]](https://www.insidermedia.com/news/north-east/vertu-motors-on-track-for-profit-target-despite-continued-impact-of-zev-mandate)",
+  "sources": "10+ web news/articles and company announcements (trading updates, interim results, EBT purchases), Yahoo Finance, Investing.com, company investor site (vertumotors.com/investors), Simply Wall St analysis, X/Twitter: ~5 recent company promotional posts (primarily BTCC motorsport sponsorship); limited retail investor discussion found"
 }

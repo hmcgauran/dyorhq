@@ -1,0 +1,45 @@
+{
+  "ticker": "ALRIB",
+  "company": "Riber SA",
+  "generatedAt": "2026-04-18T21:59:28.928Z",
+  "score": 62,
+  "signal": "positive",
+  "key_themes": [
+    "Strong profitability growth and margin expansion",
+    "Growing order book, new MBE orders in quantum dot lasers/photonics for AI/datacom",
+    "Explosive stock rally with stretched valuation risks"
+  ],
+  "sources_checked": [
+    "Riber official press releases and website",
+    "Semiconductor Today",
+    "Yahoo Finance (stock data, news, valuation)",
+    "X posts (recent investor and analyst commentary)"
+  ],
+  "summary": "Riber SA reported 2025 results showing net income up 27% to €5.2m and operating margin at 13% (gross margin +4.7pts to 38.6%) despite a 2% revenue decline to €40.3m, driven by a favorable product mix, cost control, and strong demand for advanced semiconductors.[[1]](https://www.semiconductor-today.com/news_items/2026/apr/riber-100426.shtml)[[2]](https://www.globenewswire.com/news-release/2026/04/08/3269808/0/en/RIBER-delivers-strong-earnings-growth-in-2025.html) The order book rose 24% to €26.9m with new MBE 6000 orders (e.g., Japan for quantum dot laser scaling in datacom) and ROSIE platform progress tied to AI, photonics, and quantum applications, sparking bullish investor commentary and a massive stock rally (YTD +271%, 1Y +466%, MC ~€273m at €13).[[3]](https://finance.yahoo.com/quote/ALRIB.PA/)[[4]](https://finance.yahoo.com/markets/stocks/articles/look-riber-enxtpa-alrib-valuation-080738566.html) Biggest risk is the now-stretched valuation (P/E ~52x with analyst targets ~€6 lagging the surge), plus volatility and reliance on continued niche order wins.[[4]](https://finance.yahoo.com/markets/stocks/articles/look-riber-enxtpa-alrib-valuation-080738566.html)",
+  "recent_posts": [
+    {
+      "source": "X (@topsecretstocks)",
+      "date": "April 2026",
+      "sentiment": "positive",
+      "highlight": "Delivered strong earnings growth in 2025 with net income +27%, order book +24%; momentum from AI and data transmission demand; positioned as global MBE leader."
+    },
+    {
+      "source": "X (@mattpurdy89)",
+      "date": "April 2026",
+      "sentiment": "positive",
+      "highlight": "Took position in sub-€200M (earlier) MC company as picks-and-shovels for exploding photonics/AI demand; ROSIE platform, new European/Japanese orders, margin expansion to 38.6%."
+    },
+    {
+      "source": "X (@aleabitoreddit)",
+      "date": "April 2026",
+      "sentiment": "positive",
+      "highlight": "Rare to have MSFT Quantum supplier and IQE/Fujitsu quantum dot ties at this market cap; compares favorably to larger laser peers."
+    },
+    {
+      "source": "X (@jyves94)",
+      "date": "April 2026",
+      "sentiment": "positive",
+      "highlight": "No longer pure speculation — transitioning to credible small-cap industrial expansion story."
+    }
+  ]
+}

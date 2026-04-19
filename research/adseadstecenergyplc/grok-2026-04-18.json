@@ -1,0 +1,46 @@
+{
+  "ticker": "ADSE",
+  "company": "ADSE - Ads-Tec Energy PLC",
+  "generatedAt": "2026-04-18T22:13:08.698Z",
+  "score": -45,
+  "signal": "negative",
+  "key_themes": [
+    "Severe revenue collapse and widened operating losses from key customer insolvency plus strategic pivot",
+    "Service revenue growth, storage order backlog, and new contract wins in Germany/Australia",
+    "Liquidity pressure, negative equity, cash burn, and premium valuation on depressed sales"
+  ],
+  "sources_checked": [
+    "Yahoo Finance (quote, news, statistics)",
+    "Business Wire / TipRanks earnings release (Apr 2026)",
+    "Seeking Alpha / Simply Wall St commentary",
+    "MarketBeat analyst notes and price action",
+    "X posts via keyword and semantic search"
+  ],
+  "summary": "ADSE reported a steep 71% revenue drop to €31.6M in 2025 (from €110M in 2024) due to a major customer insolvency in its legacy EV-charging business and a still-unproven shift toward battery storage and recurring service models; this produced a gross loss, a €56.7M operating loss (including a €10.2M inventory write-down), negative equity, €7M cash, heavy cash burn, and reliance on further financing. Service revenue nearly doubled and the company has a €9M storage backlog plus recent project wins, but coverage is thin with bearish analyst views and headlines reinforcing concerns over execution and margins. The biggest risk is that the strategic pivot fails to scale fast enough to offset ongoing losses, liquidity strain, and potential dilution in a competitive energy storage market.[[1]](https://finance.yahoo.com/sectors/energy/articles/ads-tec-energy-reports-preliminary-074000670.html)[[2]](https://www.stocktitan.net/sec-filings/ADSE/6-k-ads-tec-energy-public-ltd-co-current-report-foreign-issuer-170b041f6a47.html)[[3]](https://www.tipranks.com/news/company-announcements/ads-tec-energy-posts-steep-2025-revenue-drop-as-it-accelerates-shift-to-storage-platform)[[4]](https://finance.yahoo.com/quote/ADSE/)",
+  "recent_posts": [
+    {
+      "source": "X/@ADSTEC_Energy",
+      "date": "Apr 9, 2026",
+      "sentiment": "positive",
+      "highlight": "Announced battery-buffered ultra-fast charging deployment with Elanga at Penske dealership in Australia; company promotional post."
+    },
+    {
+      "source": "X news bots (e.g. @Lycanbull, @NewsFromBW)",
+      "date": "Apr 13, 2026",
+      "sentiment": "negative",
+      "highlight": "Posted preliminary FY2025 results highlighting revenue plunge to €31.6M, widened operating loss, and inventory write-down."
+    },
+    {
+      "source": "X/@TheOddsmakerInc",
+      "date": "Apr 14, 2026",
+      "sentiment": "neutral",
+      "highlight": "Included $ADSE in 'Loved, Liquid, & Late List' of stocks (data-driven options interest context); low engagement."
+    },
+    {
+      "source": "X individual traders",
+      "date": "Mar-Apr 2026",
+      "sentiment": "mixed",
+      "highlight": "Posts noting sharp intraday drops/recoveries (e.g. -11.6% reversal, regret selling before bounces to $15 or $12); reflects volatility with limited fundamental discussion."
+    }
+  ]
+}

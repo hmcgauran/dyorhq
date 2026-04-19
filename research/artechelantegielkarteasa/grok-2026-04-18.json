@@ -1,12 +1,40 @@
 {
-  "score": 66,
+  "ticker": "ART",
+  "company": "Arteche Lantegi Elkartea SA",
+  "generatedAt": "2026-04-18T22:05:26.347Z",
+  "score": 68,
   "signal": "positive",
   "key_themes": [
-    "strong earnings",
-    "renewable energy focus",
-    "European market expansion",
-    "stable demand"
+    "Exceptional earnings growth and margin expansion",
+    "Strong orders, renewables/grid tailwinds, and strategic catalysts",
+    "Elevated valuation with analyst targets below current price"
   ],
-  "summary": "Arteche Lantegi Elkartea SA (ART) shows a positive sentiment with a score of 45, driven by strong recent earnings reports and a strategic focus on renewable energy solutions. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts from European market expansion.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"renewable energy focus\", \"European market expansion\", \"stable demand\"],\n  \"summary\": \"Arteche Lantegi Elkartea SA (ART) shows a positive sentiment with a score of 45, driven by strong recent earnings reports and a strategic focus on renewable energy solutions. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts from European market expansion.\"\n}"
+  "sources_checked": [
+    "Arteche investor website and press releases",
+    "Yahoo Finance (performance, stats, news)",
+    "Marketscreener/analyst consensus",
+    "Quartr earnings summaries",
+    "X posts via semantic/keyword search"
+  ],
+  "summary": "Arteche reported outstanding FY2025 results, with net profit surging 93.4% to €45.3 million, sales rising 15.3% to €508.4 million (first time over €500M), orders up 16% to €590.1 million, and significant margin improvement, beating elements of its 2024-2026 strategic plan.[[1]](https://www.arteche.com/en/news/arteche-achieves-net-profit-eu453-million-2025-934-2024)[[2]](https://www.arteche.com/en/investors-corner)[[2]](https://www.arteche.com/en/investors-corner) H1 2025 was record-setting with 168% net profit growth and book-to-bill >1x. Major positives include new renewable contracts (e.g. Australia REZ), acquisitions (RTR Energía, UPTECH stake), upgraded listing to Spain's main market in Feb 2026, and rising dividends amid electrification tailwinds.[[3]](https://www.arteche.com/en/news/arteche-strengthens-its-presence-australia-joining-central-west-orana-rez-project-acerez)[[4]](https://finance.yahoo.com/quote/ART.MC/) Biggest risk is rich valuation (PE ~35-47x, analyst avg target €24.83 vs ~€28 current price), which could pressure the stock if growth moderates despite consensus \"Buy\" ratings.[[5]](https://www.investing.com/equities/arteche-lantegi-elkartea-consensus-estimates)[[6]](https://www.marketscreener.com/quote/stock/ARTECHE-LANTEGI-ELKARTEA--123776304/consensus/)",
+  "recent_posts": [
+    {
+      "source": "X (@EstrategiasTv)",
+      "date": "April 13, 2026",
+      "sentiment": "positive",
+      "highlight": "Arteche closes 2025 with major growth, moves to main Bolsa listing, and benefits from heavy electrical network investments."
+    },
+    {
+      "source": "X investor discussion",
+      "date": "March 19, 2026",
+      "sentiment": "neutral",
+      "highlight": "Clarification sought on EPS €0.79 and implied dividend payout post strong results release."
+    },
+    {
+      "source": "X (semantic results)",
+      "date": "Recent 2025-2026",
+      "sentiment": "mixed/irrelevant",
+      "highlight": "Limited relevant discussion; some unrelated tickers or older data; overall low volume of retail sentiment on platform."
+    }
+  ]
 }

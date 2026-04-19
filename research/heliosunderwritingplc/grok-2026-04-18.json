@@ -1,13 +1,14 @@
 {
-  "score": 56,
-  "signal": "neutral",
+  "score": 73,
+  "rawScore": 45,
+  "signal": "positive",
   "key_themes": [
-    "stable performance",
-    "insurance sector trends",
-    "limited news flow",
-    "modest price growth",
-    "no major catalysts"
+    "Improving syndicate profit forecasts and upward revisions",
+    "NAV per share growth with persistent discount to book value",
+    "Strategic portfolio optimization (higher freehold capacity, quality focus)",
+    "Consistent dividends and solid total shareholder returns",
+    "Positive analyst coverage with price target upside"
   ],
-  "summary": "Helios Underwriting PLC (HUW) shows a neutral sentiment with a slight positive tilt due to modest price momentum and stable performance in the insurance sector. However, limited recent news and lack of significant near-term catalysts keep the outlook cautious.",
-  "raw": "{\n  \"score\": 15,\n  \"signal\": \"neutral\",\n  \"key_themes\": [\"stable performance\", \"insurance sector trends\", \"limited news flow\", \"modest price growth\", \"no major catalysts\"],\n  \"summary\": \"Helios Underwriting PLC (HUW) shows a neutral sentiment with a slight positive tilt due to modest price momentum and stable performance in the insurance sector. However, limited recent news and lack of significant near-term catalysts keep the outlook cautious.\"\n}"
+  "summary": "Helios Underwriting (HUW.L), which offers listed access to Lloyd’s of London syndicates, is showing constructive momentum. The April 2026 quarterly syndicate update lifted profit mid-points for the 2023 (to 17%) and 2024 (to 9.3%) years of account, while NAV per share reached £2.48 by end-Q3 2025. Capacity for 2026 was trimmed slightly to £467m with a 35% increase in higher-quality freehold participation. The shares trade around 202p (discount to NAV, ~3% dividend yield) with analyst targets near 244p, supporting mildly positive sentiment among specialist investors despite modest retail buzz on social media.",
+  "sources": "8+ recent RNS/company announcements (Jan-Apr 2026), Yahoo Finance, LSE, Reuters, Insurance Business Mag articles, Limited X activity (~5 relevant posts found, mostly 2025 results announcements)"
 }

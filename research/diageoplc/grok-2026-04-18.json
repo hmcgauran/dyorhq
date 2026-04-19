@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 74,
+  "rawScore": 48,
   "signal": "positive",
   "key_themes": [
-    "strong earnings",
-    "premium brand growth",
-    "emerging market expansion",
-    "macroeconomic uncertainty",
-    "sustainability initiatives"
+    "New CEO Dave Lewis and aggressive turnaround priorities (portfolio repositioning, customer relationships, operating redesign)",
+    "Sharp dividend cut, lowered FY2026 guidance, and 'kitchen sink' reset amid weak US/alcohol demand",
+    "Stock viewed as undervalued with attractive yield and recovery potential post-reset",
+    "Recent analyst upgrades (e.g. Deutsche Bank to Buy) and institutional buying (Artisan ~5% stake)",
+    "Portfolio optimization via asset sales (e.g. East African Breweries deal approved)"
   ],
-  "summary": "Diageo plc (DGE) exhibits a positive sentiment driven by robust earnings growth, particularly in premium brands and emerging markets, alongside favorable analyst tone. However, macroeconomic headwinds and currency fluctuations pose near-term risks, tempered by potential catalysts like new product launches and sustainability efforts.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"premium brand growth\", \"emerging market expansion\", \"macroeconomic uncertainty\", \"sustainability initiatives\"],\n  \"summary\": \"Diageo plc (DGE) exhibits a positive sentiment driven by robust earnings growth, particularly in premium brands and emerging markets, alongside favorable analyst tone. However, macroeconomic headwinds and currency fluctuations pose near-term risks, tempered by potential catalysts like new product launches and sustainability efforts.\"\n}"
+  "summary": "Diageo (DGE.L/DEO) is executing a major reset under new CEO Dave Lewis (appointed early 2026), who delivered weak HY results, cut the dividend to a $0.50 floor, lowered full-year organic sales guidance to -2-3%, and outlined immediate turnaround priorities with a full plan due in Q3. The stock has fallen sharply over three years (~60% in one investor's view) amid industry headwinds and US demand weakness, but is now increasingly seen as a value opportunity with high yield, analyst upgrades to Buy, and fresh institutional interest. Sentiment has shifted cautiously positive as the 'Drastic Dave' reset is viewed as necessary medicine that gets the bad news out upfront.",
+  "sources": "20+ web news/articles (Yahoo Finance, Reuters, Bloomberg, Investing.com, MoneyShow - April 2026), 10+ relevant X posts on $DGE/$DEO/$DEO from semantic and keyword searches (investor discussions, Feb-Apr 2026)"
 }

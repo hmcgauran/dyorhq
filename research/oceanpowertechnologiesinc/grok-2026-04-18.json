@@ -1,13 +1,14 @@
 {
-  "score": 42,
-  "signal": "negative",
+  "score": 71,
+  "rawScore": 42,
+  "signal": "positive",
   "key_themes": [
-    "financial struggles",
-    "limited adoption",
-    "stock volatility",
-    "renewable energy sector challenges",
-    "project delays"
+    "US Homeland Security, DHS, and defense contracts",
+    "Record backlog (~$20M, +165% YoY) with increasing deployments and revenue visibility",
+    "Advancements in PowerBuoy, WAM-V, maritime autonomy, and persistent offshore infrastructure",
+    "Revenue misses, widened losses, high stock-based compensation, and cash burn",
+    "Analyst Buy ratings with substantial upside ($1.50 target vs. ~$0.38 current price)"
   ],
-  "summary": "Ocean Power Technologies Inc (RUOC) faces a negative sentiment due to ongoing financial challenges and limited commercial adoption of its wave energy technology. Recent news highlights project delays and underwhelming revenue, with analyst tone remaining cautious and price momentum showing a downward trend, though potential catalysts like new contracts could shift outlook.",
-  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"financial struggles\", \"limited adoption\", \"stock volatility\", \"renewable energy sector challenges\", \"project delays\"],\n  \"summary\": \"Ocean Power Technologies Inc (RUOC) faces a negative sentiment due to ongoing financial challenges and limited commercial adoption of its wave energy technology. Recent news highlights project delays and underwhelming revenue, with analyst tone remaining cautious and price momentum showing a downward trend, though potential catalysts like new contracts could shift outlook.\"\n}"
+  "summary": "Ocean Power Technologies (OPTT / RUOC) is executing well on strategic priorities, with multiple 2026 announcements of PowerBuoy deployments and shipments for U.S. Homeland Security/Coast Guard missions, a Nordic WAM-V order, conference participation, and a record $19.9M backlog that provides multi-quarter visibility. Q3 FY2026 results showed a sharp revenue miss ($0.5M vs expectations) and widened net loss, driven by timing issues and higher expenses, but management emphasized the shift toward higher-margin recurring revenue and autonomy platforms.[[1]](https://finance.yahoo.com/quote/OPTT/)[[2]](https://www.stocktitan.net/news/OPTT/ocean-power-technologies-inc-announces-third-quarter-fiscal-2026-se9r54lbgled.html)[[3]](https://investors.oceanpowertechnologies.com/news-releases/news-release-details/ocean-power-technologies-inc-announces-third-quarter-fiscal-2026) Investor and social sentiment is cautiously optimistic—driven by tangible defense contract progress and analyst targets implying ~300% upside—but tempered by typical microcap challenges including volatility, dilution fears, and slow backlog conversion.[[4]](https://www.reddit.com/r/OceanPower/)[[5]](https://www.reddit.com/r/OceanPower/comments/1qb1wum/not_a_good_day_for_optt_why/)",
+  "sources": "10+ recent web/news articles (Yahoo Finance, company press releases, Proactive, GlobeNewswire) from March–April 2026 focusing on earnings and contracts, ~15–20 recent X posts (mostly watchlists, momentum mentions, and news shares in April 2026), Reddit r/OceanPower discussions (long-term holder views mixed with frustration over volatility and dilution)"
 }

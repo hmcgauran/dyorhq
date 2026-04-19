@@ -1,0 +1,171 @@
+{
+  "generatedAt": "2026-04-19T19:51:17.707Z",
+  "total": 44,
+  "fetched": 25,
+  "failed": 9,
+  "results": [
+    {
+      "ticker": "MP",
+      "row": 349,
+      "isin": "BBG000CW7ZH2"
+    },
+    {
+      "ticker": "AA",
+      "row": 350,
+      "isin": "BBG0013R5N17"
+    },
+    {
+      "ticker": "TECK",
+      "row": 351,
+      "isin": "BBG000BSJTT0"
+    },
+    {
+      "ticker": "ALM",
+      "row": 352,
+      "isin": "BBG000BKD1G8"
+    },
+    {
+      "ticker": "FCX",
+      "row": 353,
+      "isin": "BBG000BJDB15"
+    },
+    {
+      "ticker": "CRS",
+      "row": 354,
+      "isin": "BBG000BGCQT9"
+    },
+    {
+      "ticker": "MTRN",
+      "row": 355,
+      "isin": "BBG000BDTT76"
+    },
+    {
+      "ticker": "HXL",
+      "row": 356,
+      "isin": "BBG000BLMDQ9"
+    },
+    {
+      "ticker": "ATI",
+      "row": 357,
+      "isin": "BBG000GL4G78"
+    },
+    {
+      "ticker": "GLW",
+      "row": 358,
+      "isin": "BBG000BKFZM4"
+    },
+    {
+      "ticker": "PKE",
+      "row": 359,
+      "isin": "BBG000BR89C6"
+    },
+    {
+      "ticker": "ADI",
+      "row": 360,
+      "isin": "BBG000BB6G37"
+    },
+    {
+      "ticker": "MCHP",
+      "row": 361,
+      "isin": "BBG000BHCP19"
+    },
+    {
+      "ticker": "QRVO",
+      "row": 362,
+      "isin": "BBG007TJF1N7"
+    },
+    {
+      "ticker": "MRCY",
+      "row": 363,
+      "isin": "BBG000BX5GS3"
+    },
+    {
+      "ticker": "TTMI",
+      "row": 364,
+      "isin": "BBG000BYQ0B1"
+    },
+    {
+      "ticker": "COHR",
+      "row": 365,
+      "isin": "BBG000BLW102"
+    },
+    {
+      "ticker": "LITE",
+      "row": 366,
+      "isin": "BBG000BM14D4"
+    },
+    {
+      "ticker": "AVGO",
+      "row": 367,
+      "isin": "BBG00KHY5S69"
+    },
+    {
+      "ticker": "NVDA",
+      "row": 368,
+      "isin": "BBG000BBJQV0"
+    },
+    {
+      "ticker": "APD",
+      "row": 369,
+      "isin": "BBG000BC4JJ4"
+    },
+    {
+      "ticker": "NEU",
+      "row": 370,
+      "isin": "BBG000BJ5SS8"
+    },
+    {
+      "ticker": "TDY",
+      "row": 371,
+      "isin": "BBG000BMT9T6"
+    },
+    {
+      "ticker": "APH",
+      "row": 372,
+      "isin": "BBG000B9YJ35"
+    },
+    {
+      "ticker": "KRMN",
+      "row": 345,
+      "isin": "BBG01RXK1PK9"
+    }
+  ],
+  "errors": [
+    {
+      "ticker": "RBC",
+      "row": 343
+    },
+    {
+      "ticker": "PH",
+      "row": 344
+    },
+    {
+      "ticker": "MDA",
+      "row": 336
+    },
+    {
+      "ticker": "LUNR",
+      "row": 337
+    },
+    {
+      "ticker": "GILT",
+      "row": 338
+    },
+    {
+      "ticker": "VSAT",
+      "row": 339
+    },
+    {
+      "ticker": "GSAT",
+      "row": 340
+    },
+    {
+      "ticker": "BKSY",
+      "row": 341
+    },
+    {
+      "ticker": "IRDM",
+      "row": 342
+    }
+  ]
+}

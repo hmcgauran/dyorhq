@@ -1,13 +1,14 @@
 {
-  "score": 56,
+  "score": 81,
+  "rawScore": 62,
   "signal": "positive",
   "key_themes": [
-    "steady performance",
-    "analyst optimism",
-    "market stability",
-    "potential acquisitions",
-    "sector growth"
+    "Significant copper drill intercepts and zone expansion at Soo Project",
+    "Confirmation of large-scale Cu-Mo porphyry system",
+    "High-grade bornite-covellite discoveries",
+    "2026 TSX Venture 50 recognition after 520% 2025 gains",
+    "Aggressive 25,000m+ 2026 drill program and non-core asset sale"
   ],
-  "summary": "Science Group PLC (SAG) shows a mildly positive sentiment with steady financial performance and optimistic analyst tone in recent reports. Price momentum remains stable with potential upside from strategic acquisitions or sector tailwinds.",
-  "raw": "{\n  \"score\": 15,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"steady performance\", \"analyst optimism\", \"market stability\", \"potential acquisitions\", \"sector growth\"],\n  \"summary\": \"Science Group PLC (SAG) shows a mildly positive sentiment with steady financial performance and optimistic analyst tone in recent reports. Price momentum remains stable with potential upside from strategic acquisitions or sector tailwinds.\"\n}"
+  "summary": "Sterling Metals (TSXV: SAG / SAG.V), a junior copper explorer, is seeing positive sentiment following strong 2025-2026 drill results at its Soo Copper Project in Ontario. Key intercepts such as 235.5m at 0.42% Cu (including higher-grade sections) and the discovery of new bornite-covellite zones have confirmed a district-scale porphyry system, building on prior high-grade hits. The company earned a spot on the 2026 TSX Venture 50 for its 520% share price rise in 2025, recently sold its non-core Sail Pond project to sharpen focus, and has a major drill campaign planned—though the stock has consolidated ~25% in recent weeks amid typical junior miner volatility.[[1]](https://finance.yahoo.com/quote/SAG.V/)[[2]](https://finance.yahoo.com/markets/stocks/articles/sterling-metals-announces-sale-sail-210000415.html)[[3]](https://investingnews.com/sterling-metals-intersects-235-5m-at-0-42-cu-and-0-042-g-t-au-including-32-75m-at-1-31-cu-and-0-11-g-t-au-and-discovers-new-bornite-covellite-zone/)",
+  "sources": "8+ company news releases (Feb-Apr 2026), 10-15 relevant X posts from mining investor accounts (Mar-Apr 2026), Yahoo Finance, Junior Mining Network, TradingView, SterlingMetals.ca"
 }

@@ -1,0 +1,14 @@
+{
+  "score": 91,
+  "rawScore": 82,
+  "signal": "positive",
+  "key_themes": [
+    "Record rally to all-time highs with longest winning streak in nearly 20 years",
+    "Strong AI-driven demand for CPUs and GPUs in data centers",
+    "Bullish analyst upgrades citing dual growth engines and raised price targets",
+    "Major partnerships with Meta, OpenAI and hyperscalers for large GPU deployments",
+    "Anticipation for Q1 2026 earnings on May 5 amid supply tightness and revenue growth"
+  ],
+  "summary": "AMD has surged to all-time highs in mid-April 2026, up over 13% in a week with a 13+ day winning streak — its longest in two decades — on robust AI momentum, TSMC demand signals, and strong analyst commentary. CEO Lisa Su highlighted CPU demand for AI workloads significantly exceeding already bullish expectations with noted supply tightness, while partnerships like the multi-gigawatt Meta/OpenAI GPU deployments are seen as major upcoming catalysts alongside data center expansion. Analyst sentiment is strongly bullish with repeated Buy ratings, raised targets up to $330+, and expectations of 4.5x data center revenue growth, though a few voices note the pace of the rally appears stretched.",
+  "sources": "20+ recent news articles (CNBC, Motley Fool, Yahoo Finance, AMD IR, Economic Times), 20+ X posts (semantic search on AI sentiment/performance + keyword search for $AMD since March 2026)"
+}

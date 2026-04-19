@@ -1,12 +1,14 @@
 {
-  "score": 66,
+  "score": 84,
+  "rawScore": 68,
   "signal": "positive",
   "key_themes": [
-    "strong earnings",
-    "analyst upgrades",
-    "market expansion",
-    "price uptrend"
+    "Strong FY2025 results with revenue growth to £85.9m and EBITDA up 16.6%",
+    "Significant insider buying (£175k) signaling management confidence",
+    "Analyst coverage highlighting undervaluation and strong growth potential",
+    "High recurring SaaS/subscription revenue (57%) and excellent cash conversion (102%)",
+    "Strategic updates including partnerships, joint broker appointment, and AGM"
   ],
-  "summary": "Fintel PLC (FNTL) shows positive sentiment driven by recent strong earnings reports and analyst upgrades, with price momentum reflecting a steady uptrend. Potential near-term catalysts include further market expansion announcements.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"analyst upgrades\", \"market expansion\", \"price uptrend\"],\n  \"summary\": \"Fintel PLC (FNTL) shows positive sentiment driven by recent strong earnings reports and analyst upgrades, with price momentum reflecting a steady uptrend. Potential near-term catalysts include further market expansion announcements.\"\n}"
+  "summary": "Fintel Plc (FNTL.L), a provider of financial data and intelligence services, reported solid FY2025 results with revenue rising to £85.9m (including inorganic contribution), adjusted EBITDA up 16.6% to £25.9m, a 30% margin, and 102% cash conversion, though adjusted EPS growth was a modest 4%.[[1]](https://finance.yahoo.com/markets/stocks/articles/fintel-plc-lse-fntl-full-010224520.html)[[2]](https://sbiz.ir-data.com/article/id/286) News coverage and analyst reports are bullish, repeatedly featuring the stock in 'undervalued UK small caps,' 'value picks,' and 'high insider ownership growth' lists, with one noting potential 80% upside and a Strong Buy target of 326p versus levels near 180-190p.[[3]](https://finance.yahoo.com/quote/FNTL.L/news/)[[4]](https://www.msn.com/en-us/money/stockdetails/fntl-gb-stock/fi-azkdkr) Recent insider purchases of £175k and strategic moves (partnerships, new broker) reinforce positivity despite YTD share price weakness.[[3]](https://finance.yahoo.com/quote/FNTL.L/news/)",
+  "sources": "8+ news/analyst articles (Yahoo Finance, Morningstar, LSE), Multiple RNS/company announcements (earnings, partnerships, broker, AGM), X posts: ~15 searched with only 1-2 relevant investor mentions (low volume)"
 }

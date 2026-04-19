@@ -1,0 +1,6 @@
+{
+  "ticker": "MSFT",
+  "error": "FINRA 404: { \"statusCode\" : 404, \"statusDescription\" : \"Resource Not Found\", \"message\": \"Invalid resource. Check path or other request details.\", \"requestId\" : \"0ee0224a-3694-492a-863b-612799df6c48\"}",
+  "fetchedAt": "2026-04-19T16:10:55.418Z",
+  "storedAt": "2026-04-19T16:10:55.419Z"
+}

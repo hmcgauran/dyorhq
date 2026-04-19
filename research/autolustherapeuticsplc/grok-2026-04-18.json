@@ -1,12 +1,14 @@
 {
-  "score": 42,
-  "signal": "negative",
+  "score": 74,
+  "rawScore": 48,
+  "signal": "positive",
   "key_themes": [
-    "clinical trial delays",
-    "analyst caution",
-    "stock price decline",
-    "pipeline uncertainty"
+    "Strong real-world, pediatric, and long-term efficacy/safety data for AUCATZYL (obe-cel) in B-ALL with high response rates and low severe CRS/ICANS",
+    "Commercial momentum with 2025 revenue ~$75M, 2026 guidance of $120-135M, center expansion (67 activated), and shift to positive gross margin",
+    "Significant analyst upside (avg PT ~$8.80–$10, Buy ratings from Needham/Deutsche Bank) versus current ~$1.60 share price",
+    "Pipeline expansion into frontline ALL, pediatric ALL, lupus, MS, and autoimmune diseases",
+    "Dilution concerns from recent share offerings/shelf filing amid ongoing losses in a volatile biotech sector"
   ],
-  "summary": "Autolus Therapeutics PLC (AUTL) faces a negative sentiment due to recent delays in clinical trial updates and cautious analyst commentary regarding pipeline progress. The stock has experienced downward price momentum, reflecting investor concerns over near-term catalysts.",
-  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"clinical trial delays\", \"analyst caution\", \"stock price decline\", \"pipeline uncertainty\"],\n  \"summary\": \"Autolus Therapeutics PLC (AUTL) faces a negative sentiment due to recent delays in clinical trial updates and cautious analyst commentary regarding pipeline progress. The stock has experienced downward price momentum, reflecting investor concerns over near-term catalysts.\"\n}"
+  "summary": "Autolus Therapeutics is seeing positive momentum driven by encouraging real-world ROKA and pediatric data for its approved CAR-T AUCATZYL, showing ~95% early response rates, high MRD-negative remissions, and a favorable safety profile that supports frontline and broader use. Management is guiding for strong 2026 revenue growth, positive gross margins this year, and a path to improved cash flow, while analysts maintain Buy ratings with price targets implying over 5x upside from the current ~$1.60 level. Investor chatter on X and Reddit highlights undervaluation and CAR-T/autoimmune potential, tempered by dilution from recent offerings and typical biotech caution.",
+  "sources": "12+ recent news articles (Yahoo Finance, GlobeNewswire, MarketBeat, Seeking Alpha, company releases), 15–20 relevant X posts (March–April 2026, mostly low-moderate engagement), Multiple Reddit threads (primarily bullish on undervaluation from prior periods)"
 }

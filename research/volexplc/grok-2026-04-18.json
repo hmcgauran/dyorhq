@@ -1,12 +1,14 @@
 {
-  "score": 66,
-  "signal": "positive",
+  "score": 28,
+  "rawScore": -45,
+  "signal": "negative",
   "key_themes": [
-    "strong earnings",
-    "strategic acquisitions",
-    "supply chain challenges",
-    "market expansion"
+    "Sharp price crash in early April 2026 (from ~$0.01 to ~$0.00065)",
+    "Micro-cap status with ~$2M market cap and very low/insignificant trading volume",
+    "Highly speculative 2026 price predictions with extreme variance (some modest recovery to $0.001+, others near-zero)",
+    "Ongoing pivot to open-source development, community participation, and high TPS scalability claims",
+    "Minimal genuine investor or social-media momentum outside occasional promotional micro-token activity"
   ],
-  "summary": "Volex PLC (VLX) exhibits a positive sentiment driven by recent strong earnings reports and strategic acquisitions that bolster market expansion. However, lingering supply chain challenges slightly temper enthusiasm, though analyst tone remains largely optimistic with upward price momentum supporting a bullish near-term outlook.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"strategic acquisitions\", \"supply chain challenges\", \"market expansion\"],\n  \"summary\": \"Volex PLC (VLX) exhibits a positive sentiment driven by recent strong earnings reports and strategic acquisitions that bolster market expansion. However, lingering supply chain challenges slightly temper enthusiasm, though analyst tone remains largely optimistic with upward price momentum supporting a bullish near-term outlook.\"\n}"
+  "summary": "Velas (VLX) is trading at rock-bottom levels around $0.00065 with a market cap of roughly $2 million following a brutal drop in April 2026. While scattered prediction models float optimistic 2026 targets and the project touts open-source renewal plus ambitious throughput goals, real-world traction, volume, and investor interest remain negligible. Social chatter is thin and largely consists of small promotional accounts shilling ecosystem or copycat tokens rather than substantive analysis of the main asset.",
+  "sources": "15+ web articles and price-prediction reports (BeInCrypto, DigitalCoinPrice, MEXC, SwapSpace, CoinDataFlow, Forbes, etc.), X/Twitter: ~10 recent posts (mostly low-engagement promotional activity for $VLX-related or derivative tokens on Klever/Solana; limited discussion of core Velas project)"
 }

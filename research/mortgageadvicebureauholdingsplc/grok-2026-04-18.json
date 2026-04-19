@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 78,
+  "rawScore": 55,
   "signal": "positive",
   "key_themes": [
-    "strong earnings",
-    "housing market recovery",
-    "interest rate sensitivity",
-    "dividend growth",
-    "analyst optimism"
+    "Strategic acquisition of HomeOwners Alliance for digital/property advice expansion and lead generation",
+    "Analyst Buy ratings with ambitious price targets (~1150p vs current ~600p)",
+    "Modest insider/director share purchases signaling confidence",
+    "MAB 2.0 growth plan targeting higher market share, margins (>15% PBT), and revenue doubling",
+    "Strong fundamentals (34% ROCE, high FCF conversion, cash generative) despite cyclical mortgage market pressures"
   ],
-  "summary": "Mortgage Advice Bureau (Holdings) PLC (MAB1) shows a positive sentiment with a score of 45, driven by strong recent earnings, a recovering UK housing market, and favorable analyst commentary. Price momentum is steady with potential catalysts from interest rate changes and ongoing demand for mortgage advice.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"housing market recovery\", \"interest rate sensitivity\", \"dividend growth\", \"analyst optimism\"],\n  \"summary\": \"Mortgage Advice Bureau (Holdings) PLC (MAB1) shows a positive sentiment with a score of 45, driven by strong recent earnings, a recovering UK housing market, and favorable analyst commentary. Price momentum is steady with potential catalysts from interest rate changes and ongoing demand for mortgage advice.\"\n}"
+  "summary": "Sentiment around MAB1.L (Mortgage Advice Bureau) has turned positive in mid-April 2026 following the acquisition of HomeOwners Alliance, a leading UK property advice site with millions of visitors that provides strong strategic fit for lead generation and advisor network expansion. Analysts maintain Buy ratings with price targets implying ~80-90% upside, supported by recent modest insider buying, a resilient balance sheet, high ROCE, and the company's MAB 2.0 plan for market share gains in mortgages, protection, and refinancing. While the stock has been weak YTD (hitting 52-week lows near 500p amid higher rates and housing market softness), recent price strength (+5.7% to ~610p), robust profitability, and value investor accumulation point to improving momentum and undervaluation.[[1]](https://finance.yahoo.com/quote/MAB1.L/)[[2]](https://www.londonstockexchange.com/stock/MAB1/mortgage-advice-bureau-holdings-plc/analysis)[[3]](https://www.tipranks.com/news/company-announcements/mortgage-advice-bureau-discloses-modest-insider-share-purchases)",
+  "sources": "10+ news/RNS items (Yahoo Finance, LSE, Tipranks, Reuters, MarketBeat), ~8-10 relevant recent X posts (acquisition reactions, investor buys, insider notes), Detailed investor Substack analysis and MelloEvents discussion, Share price data, analyst notes (Berenberg Buy), and ADVFN context"
 }

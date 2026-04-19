@@ -1,12 +1,14 @@
 {
-  "score": 63,
+  "score": 81,
+  "rawScore": 62,
   "signal": "positive",
   "key_themes": [
-    "strong earnings",
-    "contract wins",
-    "technology adoption",
-    "market expansion"
+    "Solid H1 FY26 growth (revenue ~£39m, adj. EBITDA ~£5m, up significantly YoY)",
+    "Strategic acquisition of German digital ticketing firm Vesputi (€5.8m, earnings accretive, European expansion)",
+    "Ongoing £3m share buyback and strong net cash position (~£26m)",
+    "Significant analyst upside (average targets ~618p vs current ~320p)",
+    "Frequent positive mentions in UK small-cap investor podcasts and commentary"
   ],
-  "summary": "Tracsis Plc (TRCS) exhibits a positive sentiment driven by recent strong earnings reports and new contract wins in the rail technology sector. Analyst tone remains cautiously optimistic, with price momentum showing steady upward trends, though no major near-term catalysts are evident.",
-  "raw": "{\n  \"score\": 35,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"contract wins\", \"technology adoption\", \"market expansion\"],\n  \"summary\": \"Tracsis Plc (TRCS) exhibits a positive sentiment driven by recent strong earnings reports and new contract wins in the rail technology sector. Analyst tone remains cautiously optimistic, with price momentum showing steady upward trends, though no major near-term catalysts are evident.\"\n}"
+  "summary": "Tracsis (TRCS.L), a transport technology and rail analytics provider, is generating positive sentiment after reporting in-line H1 growth with rising recurring revenues, a strong cash balance, and its latest bolt-on acquisition of Vesputi to expand digital ticketing into Germany. Analyst price targets sit near 618p—nearly double the current ~320p level—while the company continues its share buyback program. UK small-cap investors and fund managers frequently discuss it constructively in podcasts, though some caution remains around the elevated valuation multiple and modest recent share price performance. Results are due late April 2026.[[1]](https://finance.yahoo.com/quote/TRCS.L/)[[2]](https://www.research-tree.com/newsfeed/article/tracsis-plc-trading-update-and-north-american-contract-win-3185635)[[3]](https://www.investing.com/news/company-news/tracsis-acquires-german-ticketing-firm-vesputi-for-58m-93CH-4594709)",
+  "sources": "10+ news articles (Yahoo Finance, Investing.com, LSE RNS, MarketBeat), ~10 relevant X posts (primarily small-cap investor mentions in 2025-2026), Analyst notes, trading updates, and forum/blog references (ADVFN, Stockopedia, specialist blogs)"
 }

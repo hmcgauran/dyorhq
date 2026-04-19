@@ -1,0 +1,39 @@
+{
+  "ticker": "APTV",
+  "company": "APTV - Aptiv plc",
+  "generatedAt": "2026-04-18T21:48:50.084Z",
+  "score": 45,
+  "signal": "positive",
+  "key_themes": [
+    "Successful Versigent spin-off refocusing on higher-margin ADAS, electrification & software",
+    "Q4/FY2025 adjusted EPS & revenue beats with record results and $30B+ 2026 bookings pipeline",
+    "Persistent commodity/FX margin pressure, one-time impairment, and post-spin analyst PT reductions"
+  ],
+  "sources_checked": [
+    "Aptiv IR & earnings releases",
+    "Yahoo Finance & MarketBeat analyst consensus",
+    "Seeking Alpha & TipRanks news",
+    "X posts"
+  ],
+  "summary": "Aptiv delivered record full-year 2025 revenue of $20.4B (up 3%) and beat Q4 adjusted EPS ($1.86 vs $1.82 expected) with strong cash flow, while successfully completing the Versigent (EDS) spin-off in early April 2026 to create a pure-play technology company in automation, high-voltage EV systems, and software. New Aptiv 2026 guidance calls for ~4% revenue growth and adjusted EPS of $5.70–$6.10; analysts largely maintain Buy/Outperform ratings with an ~$88 average target (significant upside from the ~$60 share price), though many cut targets to reflect the smaller entity. Biggest risk is ongoing margin compression from commodities, FX volatility, and auto OEM demand softness.[[1]](https://ir.aptiv.com/news/news-details/2026/Aptiv-Reports-Fourth-Quarter-2025-Financial-Results/)[[2]](https://www.marketbeat.com/stocks/NYSE/APTV/earnings/)[[3]](https://simplywall.st/stocks/us/automobiles/nyse-aptv/aptiv/news/a-look-at-aptiv-aptv-valuation-after-debt-tender-offer-and-v)[[4]](https://finance.yahoo.com/quote/APTV/)",
+  "recent_posts": [
+    {
+      "source": "X (@MarcJacksonLA)",
+      "date": "Apr 15, 2026",
+      "sentiment": "neutral",
+      "highlight": "TD Cowen maintains Buy on $APTV but lowers price target to $90 from $93 post-spin."
+    },
+    {
+      "source": "X (@tenet_research)",
+      "date": "Apr 15, 2026",
+      "sentiment": "positive",
+      "highlight": "$APTV maintained at Buy by TD Cowen, signaling continued confidence in the company’s outlook."
+    },
+    {
+      "source": "Yahoo Finance / news aggregation",
+      "date": "mid-Apr 2026",
+      "sentiment": "positive",
+      "highlight": "Aptiv gaining attention as strong EV play despite recent declines; analysts optimistic on post-spin growth potential."
+    }
+  ]
+}

@@ -7,9 +7,9 @@
     "date": "2026-04-18",
     "datePublished": "2026-04-18",
     "recommendation": "BUY",
-    "recommendationNote": "OPPORTUNISTIC BUY",
-    "conviction": 73,
-    "lastRefreshed": "2026-04-18T15:21:22.640Z",
+    "recommendationNote": "BUY (STRONG)",
+    "conviction": 77,
+    "lastRefreshed": "2026-04-18T22:39:42.055Z",
     "universes": [
       "irish",
       "watchlist"
@@ -25,31 +25,33 @@
     "week52Low": 9.4,
     "beta": null,
     "avgVolume": "270",
-    "sharesOutstanding": null
+    "sharesOutstanding": null,
+    "irUrl": "https://www.euronext.com/en/listed/companies/GL9",
+    "pressReleasesUrl": "https://www.euronext.com/en/listed/companies/GL9/press-releases"
   },
   "grok": {
-    "score": 66,
+    "score": 79,
     "signal": "positive",
     "keyThemes": [
-      "strong earnings",
-      "analyst optimism",
-      "price uptrend",
-      "consumer health demand",
-      "potential acquisitions"
+      "Strong volume and like-for-like revenue growth across Performance Nutrition, Health & Nutrition, and Dairy segments",
+      "Strategic portfolio optimization via SlimFast divestiture and targeted acquisitions",
+      "Margin and EBITDA pressure from record whey/input costs despite top-line progress",
+      "Robust cash flow, share buybacks, dividend growth, and 2026–2028 ambitions outlined at Capital Markets Day",
+      "Strong 1-year share price appreciation (~75–83%) with analyst Strong Buy ratings and moderate upside"
     ],
-    "summary": "Glanbia plc (GL9) exhibits a positive sentiment with a score of 45, driven by strong recent earnings reports and upbeat analyst commentary highlighting growth in consumer health products. Price momentum remains favorable with a steady uptrend over the past quarter, supported by potential acquisition rumors as a near-term catalyst.",
+    "summary": "Glanbia plc (GL9.IR), the Irish 'Better Nutrition' company, reported solid FY2025 results with revenue up 2.3% and like-for-like volume growth across all segments, supported by strong cash conversion and capital returns to shareholders. The successful sale of SlimFast US/UK brands in 2025 allows greater focus on core high-growth nutrition categories amid favorable supplements market tailwinds, though elevated whey costs pressured margins and EBITDA. Overall financial and analyst sentiment is positive, reflected in the stock's strong ~80% 1-year return and Strong Buy consensus, while social/investor chatter on X remains quiet and mostly non-financial.[[1]](https://finance.yahoo.com/quote/GL9.IR/)[[2]](https://www.glanbia.com/media/press-releases/full-year-2025-results)",
     "bullCase": "",
     "bearCase": "",
-    "sources": ""
+    "sources": "12+ web/news articles (Yahoo Finance, Reuters, company releases, Morningstar, Simply Wall St), 15+ X posts reviewed (limited relevant investor discussion; majority unrelated crypto promotions or company product updates)"
   },
   "scenario": {
-    "bullProbability": 39,
+    "bullProbability": 48,
     "bullScore": 92,
-    "baseProbability": 51,
-    "baseScore": 68,
-    "bearProbability": 10,
+    "baseProbability": 53,
+    "baseScore": 62,
+    "bearProbability": -1,
     "bearScore": 25,
-    "conviction": 73
+    "conviction": 77
   },
   "sections": {
     "executiveSummary": {
@@ -92,13 +94,41 @@
   },
   "scores": {
     "current": {
-      "score": 73,
+      "score": 77,
       "band": "BUY",
       "date": "2026-04-18",
-      "delta": "3",
+      "delta": "0",
       "reason": "Formula fix"
     },
     "history": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 73
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 70
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 55
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 51
+      },
       {
         "date": "2026-04-11",
         "conviction": 50
@@ -108,5 +138,6 @@
         "conviction": 60
       }
     ]
-  }
+  },
+  "_irEnriched": "2026-04-19"
 }

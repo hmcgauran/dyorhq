@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 78,
+  "rawScore": 55,
   "signal": "positive",
   "key_themes": [
-    "strong quarterly earnings",
-    "AI networking growth",
-    "analyst upgrades",
-    "stock price momentum",
-    "upcoming product launches"
+    "AI infrastructure orders and hyperscaler demand surge",
+    "Q2 FY2026 earnings beat with raised full-year guidance",
+    "Attractive valuation with dividend yield in AI buildout",
+    "Analyst PT upgrades and overweight ratings",
+    "Recurring revenue, security, and networking upgrades"
   ],
-  "summary": "Cisco Systems Inc (CSCO) shows a positive sentiment with a score of 45, driven by strong recent quarterly earnings, growing demand for AI-driven networking solutions, and positive analyst upgrades. Price momentum remains bullish, with potential near-term catalysts from upcoming product launches.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\n    \"strong quarterly earnings\",\n    \"AI networking growth\",\n    \"analyst upgrades\",\n    \"stock price momentum\",\n    \"upcoming product launches\"\n  ],\n  \"summary\": \"Cisco Systems Inc (CSCO) shows a positive sentiment with a score of 45, driven by strong recent quarterly earnings, growing demand for AI-driven networking solutions, and positive analyst upgrades. Price momentum remains bullish, with potential near-term catalysts from upcoming product launches.\"\n}"
+  "summary": "As of mid-April 2026, Cisco (CSCO) shows positive sentiment driven by strong Q2 FY2026 results (record $15.3B revenue, double-digit growth, $2.1B AI orders), raised full-year guidance, and continued hyperscaler momentum in AI networking. The stock experienced a post-earnings dip on margin and near-term guidance notes but has recovered toward the $86 level with recent analyst raises (JPM to $96) and average targets near $90, viewed as a stable, undervalued way to play AI infrastructure with a ~2% dividend yield. Investor discussions highlight improving growth from low single-digits to high single-digits, recurring revenue strength, and favorable risk/reward versus pure-play AI names.",
+  "sources": "20+ news articles (CNBC, Yahoo Finance, Seeking Alpha, investor.cisco.com on Q2 earnings, AI orders >$5B FY26 target, JPM PT raise), 25+ X posts analyzed (influential investors like @DanielTNiles strongly positive; recent chatter lighter but generally constructive)"
 }

@@ -1,12 +1,14 @@
 {
-  "score": 42,
-  "signal": "negative",
+  "score": 83,
+  "rawScore": 65,
+  "signal": "positive",
   "key_themes": [
-    "lack of recent news",
-    "stagnant price momentum",
-    "no clear catalysts",
-    "limited analyst coverage"
+    "Ongoing €50m share buyback program with frequent repurchases",
+    "Strong 1-year stock performance (+70%+)",
+    "Resilient FY2025 results with dividend growth",
+    "Shareholder capital returns focus",
+    "Sports/lifestyle nutrition brand strength"
   ],
-  "summary": "Goldbank Mining Corp (GLB) shows a slightly negative sentiment due to a lack of recent news or significant updates, coupled with stagnant price momentum. There are no clear near-term catalysts or strong analyst support to drive positive sentiment.",
-  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"lack of recent news\", \"stagnant price momentum\", \"no clear catalysts\", \"limited analyst coverage\"],\n  \"summary\": \"Goldbank Mining Corp (GLB) shows a slightly negative sentiment due to a lack of recent news or significant updates, coupled with stagnant price momentum. There are no clear near-term catalysts or strong analyst support to drive positive sentiment.\"\n}"
+  "summary": "Glanbia plc (GLB.L), a nutrition company with leading sports nutrition brands like Optimum Nutrition and Isopure, shows solidly positive sentiment. Management is aggressively returning capital via a €50 million buyback program (launched Feb 2026, with near-daily repurchases and cancellations announced in April), supporting the stock which is up over 70% in the past year, +19% YTD, and trading near its 52-week high around €17.[[1]](https://finance.yahoo.com/quote/GLB.L/)[[2]](https://www.tipranks.com/news/company-announcements/glanbia-continues-e50m-share-buyback-with-new-repurchase-on-euronext-dublin) FY2025 results were described as resilient with a 10% dividend increase. Investor discussion is quiet on X and forums with limited retail buzz, but news flow is consistently supportive of shareholder value.[[3]](https://www.marketbeat.com/stocks/LON/GLB/)",
+  "sources": "10+ buyback RNS announcements (Apr 2026), FY2025 results coverage (Feb 2026), Yahoo Finance, Morningstar, TipRanks, LSE pages, ~4-5 relevant X posts found (low volume), LSE/ADVFN share chat references"
 }

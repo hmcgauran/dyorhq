@@ -1,0 +1,14 @@
+{
+  "score": 59,
+  "rawScore": 18,
+  "signal": "neutral",
+  "key_themes": [
+    "Critical zero-day vulnerability disclosure (CVE-2026-35616) in FortiClient EMS causing 5-7% stock drop and trust concerns",
+    "Consistent earnings beats with Q4 2025 EPS $0.81 beating estimates and revenue growth",
+    "Resilient enterprise cybersecurity budgets amid broader tech spending caution",
+    "Analyst Hold consensus with average price targets ~$88 (8-12% upside from ~$82 levels)",
+    "Anticipation for Q1 2026 earnings on May 6 with expected modest EPS growth"
+  ],
+  "summary": "Sentiment around FTNT is neutral-to-mildly positive as the company approaches Q1 2026 earnings on May 6. A early-April disclosure of an actively exploited critical vulnerability (CVE-2026-35616) in its FortiClient Endpoint Management Server triggered a sharp 5-7% selloff, CISA alerts, and questions about liability and product security.[[1]](https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-down-7-1-100353738.html)[[2]](https://www.forbes.com/sites/daveywinder/2026/04/06/new-fortinet-zero-day-warning-update-now-attacks-underway/) Offsetting this are Fortinet’s strong track record of earnings beats (Q4 2025 EPS $0.81 vs. ~$0.74 expected), resilient cybersecurity demand (no budget cuts despite SaaS/AI pressures), and analyst targets averaging near $88 versus recent prices around $80-82. News sentiment has been positive overall, though the consensus rating remains Hold.",
+  "sources": "15+ web news articles (Yahoo Finance, MarketBeat, Forbes, Fortinet IR, Investors.com), 20+ X posts from keyword/semantic searches (Apr 2026 focus), Analyst ratings from 25+ firms (MarketBeat, Argus, Mizuho)"
+}

@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 79,
+  "rawScore": 58,
   "signal": "positive",
   "key_themes": [
-    "strong earnings",
-    "digital marketing growth",
-    "market expansion",
-    "stock momentum",
-    "analyst optimism"
+    "Strategic acquisition of Alia Software enhancing Shopify integration and ARR",
+    "Strong H1 FY2026 results with ARR exceeding £81m and recurring revenue growth",
+    "Insider buying by CFO and Chairman amid recent share price weakness",
+    "Attractive single-digit P/E valuation for quality SaaS/marketing tech business",
+    "Analyst buy ratings, new CRO appointment, and expansion initiatives"
   ],
-  "summary": "Dotdigital Group plc (DOTD) shows a positive sentiment with a score of 45, driven by strong recent earnings reports and growing demand for digital marketing solutions. Analyst tone remains optimistic, supported by upward price momentum and potential near-term catalysts like market expansion initiatives.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"digital marketing growth\", \"market expansion\", \"stock momentum\", \"analyst optimism\"],\n  \"summary\": \"Dotdigital Group plc (DOTD) shows a positive sentiment with a score of 45, driven by strong recent earnings reports and growing demand for digital marketing solutions. Analyst tone remains optimistic, supported by upward price momentum and potential near-term catalysts like market expansion initiatives.\"\n}"
+  "summary": "dotDigital Group (DOTD.L), a marketing automation and customer experience SaaS platform, is generating positive sentiment following strong H1 FY2026 results showing ARR over £81 million (14% 3yr CAGR) and the strategically important acquisition of Alia Software (up to $60m deal) to accelerate Shopify ecosystem growth and data capabilities.[[1]](https://www.investing.com/equities/dotdigital-group-plc)[[2]](https://seekingalpha.com/article/4882657-dotdigital-group-plc-dotdf-q2-2026-earnings-call-transcript)[[3]](https://www.youtube.com/watch?v=-1NYrolYpfI) Insider purchases by the CFO and Chairman on the recent share price dip, combined with maintained buy ratings from analysts like Canaccord Genuity and Deutsche Bank plus the appointment of a first Chief Revenue Officer, point to confidence in the growth strategy.[[4]](https://www.cnbc.com/quotes/DOTD-GB)[[5]](https://x.com/UKInvestorMAG/status/2035853977602994446) While the stock trades near the low end of its 52-week range (~44-48p vs highs near 92p), the single-digit P/E for a recurring-revenue SaaS business with expanding product suite is viewed as compelling.[[6]](https://x.com/1James1n1/status/2037123759375593874)",
+  "sources": "10+ web news articles (earnings calls, Alia acquisition, director deals, analyst notes), Investor discussion boards (LSE Share Chat, Stockopedia, ADVFN), ~15 relevant X posts discussing acquisition, valuation, and results"
 }

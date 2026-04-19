@@ -1,0 +1,47 @@
+{
+  "ticker": "AMGN",
+  "company": "AMGN - Amgen Inc",
+  "generatedAt": "2026-04-18T22:00:38.935Z",
+  "score": 45,
+  "signal": "positive",
+  "key_themes": [
+    "Strong Q4 2025 earnings beat with revenue growth",
+    "Positive Phase 3 TEPEZZA subcutaneous data (April 2026)",
+    "Recent analyst PT raises (e.g. UBS to $400) but overall Hold consensus and modest 2026 outlook",
+    "Legacy product pressure (Prolia/Xgeva declines) and insider selling"
+  ],
+  "sources_checked": [
+    "Yahoo Finance",
+    "Amgen Investor Relations",
+    "MarketBeat",
+    "Investing.com/Benzinga",
+    "X posts"
+  ],
+  "summary": "Amgen posted a solid Q4 2025 beat (EPS $5.29 vs $4.76 est., revenue +8.6% YoY) and delivered strong positive topline Phase 3 results for subcutaneous TEPEZZA on April 6 (77% proptosis response vs 19.6% placebo), prompting recent PT increases such as UBS lifting to $400.[[1]](https://finance.yahoo.com/quote/AMGN/)[[2]](https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease) Consensus remains Hold with average targets near the current ~$355 price, as many see 2026 as a transitional 'waiting year' with modest overall revenue growth and notable declines in mature products like Prolia and Xgeva.[[3]](https://public.com/stocks/amgn/forecast-price-target)[[4]](https://www.investing.com/news/stock-market-news/bernstein-downgrades-amgen-as-2026-lacks-nearterm-catalysts-4455836) The biggest risk is legacy revenue erosion, pipeline timing (e.g. MariTide), competitive threats, and continued insider/institutional selling pressure amid high debt levels.",
+  "recent_posts": [
+    {
+      "source": "Amgen PR / Yahoo Finance",
+      "date": "April 6-13, 2026",
+      "sentiment": "positive",
+      "highlight": "Positive TEPEZZA Phase 3 topline (77% response rate, >3mm proptosis reduction) and UBS PT raise to $400 citing continued upside"
+    },
+    {
+      "source": "X @presgetswealth",
+      "date": "April 16, 2026",
+      "sentiment": "positive",
+      "highlight": "$AMGN still a sleeping giant with bullish monthly hammer and technical setup targeting $360–370"
+    },
+    {
+      "source": "MarketBeat / Analyst notes",
+      "date": "Recent (Q1 2026 period)",
+      "sentiment": "mixed",
+      "highlight": "Consensus Hold rating; some PT raises (Citigroup, Wells Fargo, Daiwa) but Bernstein earlier downgrade on limited 2026 catalysts and estimate cuts by Leerink"
+    },
+    {
+      "source": "Yahoo Finance / Insider filings",
+      "date": "Feb-Mar 2026",
+      "sentiment": "negative",
+      "highlight": "Multiple insider sales including EVP sales and large tax-related transactions totaling millions in shares"
+    }
+  ]
+}

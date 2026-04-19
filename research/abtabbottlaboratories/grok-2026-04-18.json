@@ -1,0 +1,46 @@
+{
+  "ticker": "ABT",
+  "company": "ABT - Abbott Laboratories",
+  "generatedAt": "2026-04-18T22:09:52.277Z",
+  "score": -40,
+  "signal": "negative",
+  "key_themes": [
+    "Q1 earnings beat overshadowed by lowered 2026 EPS guidance due to Exact Sciences acquisition dilution",
+    "Maintained solid comparable sales growth outlook (6.5-7.5%) with strong MedTech (~13%) and oncology diagnostics momentum",
+    "Negative near-term price action and analyst PT reductions despite ongoing Moderate Buy consensus and $122+ average targets"
+  ],
+  "sources_checked": [
+    "Reuters",
+    "Yahoo Finance",
+    "PR Newswire / Abbott investor materials",
+    "MarketBeat / Benzinga analyst notes",
+    "X semantic & keyword searches"
+  ],
+  "summary": "Abbott beat Q1 2026 estimates (EPS $1.15 vs ~$1.14 expected; revenue $11.16B beating by ~$170M) on robust Medical Devices growth, but cut full-year adjusted EPS guidance to $5.38–$5.58 (from prior $5.55–$5.80) primarily due to $0.20/share dilution from its completed ~$23B Exact Sciences deal, plus a weaker respiratory season and Q2 guidance below consensus; shares fell 5–7% on the news and have pulled back materially from recent highs.[[1]](https://www.investors.com/news/technology/abbott-laboratories-stock-abbott-laboratories-earnings-q1-2026/)[[2]](https://www.reuters.com/business/healthcare-pharmaceuticals/abbott-first-quarter-results-beat-cancer-diagnostics-medical-device-strength-2026-04-16/)[[3]](https://finance.yahoo.com/quote/ABT/) While the acquisition accelerates leadership in high-growth cancer diagnostics (adding meaningful sales) and analysts largely reaffirm Buy/Outperform ratings with average targets around $122–$133 (25–35%+ upside from ~$97), the self-downgrade in profitability created clear near-term disappointment. The biggest risk is sustained margin compression, integration hiccups from the large deal, or continued competitive pressure in diabetes CGM and nutrition.[[2]](https://www.reuters.com/business/healthcare-pharmaceuticals/abbott-first-quarter-results-beat-cancer-diagnostics-medical-device-strength-2026-04-16/)[[4]](https://www.marketbeat.com/instant-alerts/abbott-laboratories-abt-buy-rating-reaffirmed-at-btig-research-2026-04-17/)",
+  "recent_posts": [
+    {
+      "source": "X/@FrenzyCapital",
+      "date": "2026-04-16",
+      "sentiment": "negative",
+      "highlight": "$ABT down -6.98% today: 'Abbott Labs Annual Guidance Cut Overshadows Earnings Beat, Stock Cracks'"
+    },
+    {
+      "source": "Reuters / IBD coverage",
+      "date": "2026-04-16/17",
+      "sentiment": "negative",
+      "highlight": "Shares slammed on post-Exact Sciences guidance cut; EPS outlook reduced ~20 cents on dilution despite Q1 beat"
+    },
+    {
+      "source": "X/@stocksnatcher",
+      "date": "2026-04-18",
+      "sentiment": "positive",
+      "highlight": "$ABT has a pretty solid entry right now (buy-the-dip view post-selloff)"
+    },
+    {
+      "source": "X/@CapitalWisdomAI",
+      "date": "2026-04-13",
+      "sentiment": "negative",
+      "highlight": "Strong Sell alert on insider selling (118M shares mentioned) and technicals, despite higher consensus targets"
+    }
+  ]
+}

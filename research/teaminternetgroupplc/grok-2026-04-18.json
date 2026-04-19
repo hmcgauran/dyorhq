@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 89,
+  "rawScore": 78,
   "signal": "positive",
   "key_themes": [
-    "strong revenue growth",
-    "strategic acquisitions",
-    "market expansion",
-    "upcoming earnings report",
-    "positive analyst outlook"
+    "Algorithmic innovation beyond raw compute",
+    "Tight tokenomics and scarcity-driven upside",
+    "DeSci and AI narrative momentum",
+    "SOTA algorithm achievements and new challenges",
+    "Community rotations from $TAO"
   ],
-  "summary": "Team Internet Group PLC (TIG) shows a positive sentiment with strong revenue growth and recent strategic acquisitions driving optimism. Analysts maintain a favorable tone, and an upcoming earnings report could serve as a near-term catalyst, supported by steady price momentum.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong revenue growth\", \"strategic acquisitions\", \"market expansion\", \"upcoming earnings report\", \"positive analyst outlook\"],\n  \"summary\": \"Team Internet Group PLC (TIG) shows a positive sentiment with strong revenue growth and recent strategic acquisitions driving optimism. Analysts maintain a favorable tone, and an upcoming earnings report could serve as a near-term catalyst, supported by steady price momentum.\"\n}"
+  "summary": "The Innovation Game ($TIG), a protocol rewarding algorithmic breakthroughs via a novel optimizable proof-of-work system, is seeing strongly positive sentiment with ~24% gains in the last 24 hours to around $0.87, robust $6.6M volume, and a ~$12M market cap.[[1]](https://coinmarketcap.com/currencies/the-innovation-game/)[[1]](https://coinmarketcap.com/currencies/the-innovation-game/) Discussions highlight its elegant incentives for real innovation (not just more GPUs), recent DeSci leadership with +30-50% weekly gains, new protocol challenges, and illiquid supply that could drive sharp upside on adoption or licensing.[[2]](https://www.coingecko.com/en/coins/the-innovation-game)[[3]](https://x.com/_0xghost_/status/2044576055055302807) Investors are actively rotating from related tokens like $TAO, calling it early, high-conviction, and fundamentally strong despite volatility.",
+  "sources": "~40 recent X posts (overwhelmingly bullish), CoinMarketCap, CoinGecko, and Uniswap pages, TIG Foundation official site and docs, Recent project announcements on X"
 }

@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 91,
+  "rawScore": 82,
   "signal": "positive",
   "key_themes": [
-    "strong earnings",
-    "healthcare tech growth",
-    "stable demand",
-    "analyst optimism",
-    "price uptrend"
+    "Blockbuster AI infrastructure deals (Meta $21B expansion, Anthropic multi-year, Jane Street $6B)",
+    "Massive revenue backlog growth ($66-88B) signaling strong visibility",
+    "Analyst upgrades, raised price targets (up to $156+), and Outperform ratings",
+    "Leadership in specialized GPU/AI cloud computing with top AI labs",
+    "Technical recovery, bullish options flow, high short interest, and accumulation signals"
   ],
-  "summary": "Craneware plc (CRW) exhibits a positive sentiment driven by strong recent earnings reports and growing demand for healthcare technology solutions. Analyst tone remains optimistic, supported by steady price momentum and no immediate negative catalysts.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"healthcare tech growth\", \"stable demand\", \"analyst optimism\", \"price uptrend\"],\n  \"summary\": \"Craneware plc (CRW) exhibits a positive sentiment driven by strong recent earnings reports and growing demand for healthcare technology solutions. Analyst tone remains optimistic, supported by steady price momentum and no immediate negative catalysts.\"\n}"
+  "summary": "CoreWeave (CRWV, frequently discussed in CRW contexts) is generating strongly positive financial sentiment fueled by a wave of massive AI-related contracts that dramatically expand its revenue backlog and validate its position as a premier provider of GPU cloud infrastructure. Landmark deals with Meta ($21B), Anthropic, and Jane Street ($6B), alongside bond offerings and upcoming Q1 2026 earnings on May 7, have analysts raising targets and investors highlighting recovery potential from the pullback below $187 highs. While debt and execution risks are noted by some, trader enthusiasm on X around charts, call flow, and long-term growth (some citing 10x potential) dominates recent discussion.",
+  "sources": "15+ recent news articles (Yahoo Finance, Zacks, Motley Fool, Barron's, TipRanks, company releases), 25+ relevant X posts (bullish bias in semantic and keyword searches), Analyst notes from Wolfe Research, Stifel, Evercore, Cantor"
 }

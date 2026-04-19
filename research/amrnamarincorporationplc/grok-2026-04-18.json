@@ -1,0 +1,40 @@
+{
+  "ticker": "AMRN",
+  "company": "AMRN - Amarin Corporation plc",
+  "generatedAt": "2026-04-18T22:01:11.805Z",
+  "score": 35,
+  "signal": "positive",
+  "key_themes": [
+    "Turnaround to positive cash flow with strong balance sheet and cost savings",
+    "Clinical/guideline support for IPE but persistent revenue pressure from generics",
+    "Analyst caution on valuation/growth with PT below current price"
+  ],
+  "sources_checked": [
+    "Amarin investor press releases (Jan-Apr 2026)",
+    "Yahoo Finance / GlobeNewswire",
+    "MarketBeat analyst consensus",
+    "Seeking Alpha articles and earnings transcripts",
+    "X/Twitter keyword and semantic searches"
+  ],
+  "summary": "Amarin has delivered clear operational progress by achieving positive cash flow in Q4 2025 (ahead of plan), reaching ~$303M cash with no debt, sustaining >50% U.S. IPE market share, completing its international partner transition, and realizing roughly half of $70M in OPEX savings. New REDUCE-IT data and updated 2026 ACC/AHA guidelines reinforce the science, supporting moderate optimism. However, revenues continue to decline (Q4 2025 ~$49M, -21% Y/Y; full-year ~$212-217M), restructuring costs came in slightly higher, and analyst consensus is Hold with a $12 average PT (vs. ~$15 current price), reflecting skepticism on sustainable growth. Biggest risk is ongoing revenue erosion if international partners (e.g. Recordati) under-deliver or no meaningful BD/acquisition materializes.[[1]](https://finance.yahoo.com/quote/AMRN/press-releases/)[[2]](https://www.biospace.com/press-releases/amarin-announces-preliminary-2025-financial-highlights-and-operational-accomplishments-including-achieving-positive-cash-flow-company-well-positioned-to-capture-global-growth-opportunities)[[3]](https://finance.yahoo.com/news/amarin-announces-preliminary-2025-financial-120000677.html)",
+  "recent_posts": [
+    {
+      "source": "X (@prosperousguy)",
+      "date": "Apr 17, 2026",
+      "sentiment": "negative",
+      "highlight": "Referenced past AMRN hype cycle (stock from $20+ to $1 with reverse split and CEO change) as cautionary tale against over-optimism on catalysts."
+    },
+    {
+      "source": "Amarin PR / Yahoo Finance",
+      "date": "Jan 8, 2026",
+      "sentiment": "positive",
+      "highlight": "Preliminary 2025 results highlighted positive cash flow ahead of schedule, U.S. leadership, managed care wins, $70M savings on track, and positioning for 2026 global opportunities."
+    },
+    {
+      "source": "Seeking Alpha",
+      "date": "2025-2026",
+      "sentiment": "mixed",
+      "highlight": "Multiple articles titled 'Amarin Is A Sell Despite the Large Cash Balance,' 'Headwinds Persist,' and 'Small Signs of Recovery May Not Be Enough'; some note hope from activism (Sarissa) or international pivot but emphasize topline contraction."
+    }
+  ]
+}

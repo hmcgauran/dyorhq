@@ -1,12 +1,41 @@
 {
-  "score": 56,
+  "ticker": "AOM",
+  "company": "Activeops PLC",
+  "generatedAt": "2026-04-18T21:48:24.395Z",
+  "score": 65,
   "signal": "positive",
   "key_themes": [
-    "steady growth",
-    "technology adoption",
-    "market expansion",
-    "financial stability"
+    "Strong organic SaaS/ARR growth and customer retention",
+    "Microsoft WorkiQ trademark sale for $10m cash injection",
+    "Bullish analyst consensus (Strong Buy, ~55% average upside)",
+    "AI product innovation (ControliQ Series 5, CaseWorkiQ) with improving profitability"
   ],
-  "summary": "Activeops PLC (AOM) shows a mildly positive sentiment with steady price momentum and growing interest in its workforce optimization software, as reflected in recent news. Analyst tone remains cautiously optimistic, with potential near-term catalysts including new client acquisitions or partnerships.",
-  "raw": "{\n  \"score\": 15,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"steady growth\", \"technology adoption\", \"market expansion\", \"financial stability\"],\n  \"summary\": \"Activeops PLC (AOM) shows a mildly positive sentiment with steady price momentum and growing interest in its workforce optimization software, as reflected in recent news. Analyst tone remains cautiously optimistic, with potential near-term catalysts including new client acquisitions or partnerships.\"\n}"
+  "sources_checked": [
+    "ActiveOps investor relations (H1 FY26 results, FY25 report, presentations)",
+    "LSE RNS announcements (Microsoft deal, trading updates)",
+    "Analyst consensus (Canaccord, multiple brokers via MarketBeat/Investing.com)",
+    "Yahoo Finance, Sharecast, TipRanks news",
+    "X posts on results and Microsoft deal"
+  ],
+  "summary": "ActiveOps reported strong H1 FY26 results with organic SaaS revenue up ~22% (constant currency), ARR reaching £40.6m (organic growth 27% CCY), NRR of 114%, and Adj. EBITDA doubling to £2.0m, building on double-digit FY25 growth. The April 2026 sale of WorkiQ trademarks to Microsoft for $10m provides a material cash boost (company remains debt-free with ~£13m cash previously) with no disruption to core products or roadmap. Analysts maintain Strong Buy ratings with average targets ~317p (vs. recent ~202-205p share price), citing growth momentum. Biggest risk is execution on sales scaling, acquisition integration (Enlighten), and competition in the AI decision intelligence space amid ongoing R&D/GTM investments.",
+  "recent_posts": [
+    {
+      "source": "X (@ShareProphets)",
+      "date": "2026-04-02",
+      "sentiment": "positive",
+      "highlight": "Announced sale of WorkiQ trademarks to Microsoft for $10m; board to outline capital use with July FY results."
+    },
+    {
+      "source": "X (@Redpanda73)",
+      "date": "2026-04-02",
+      "sentiment": "positive",
+      "highlight": "Stock +3% on Microsoft trademark deal news; capital deployment details expected in July."
+    },
+    {
+      "source": "X (@ZaksTradersCafe)",
+      "date": "2025-12-19",
+      "sentiment": "positive",
+      "highlight": "Post-results interview highlighting 55% ARR growth (organic 24-27%), strong revenue momentum."
+    }
+  ]
 }

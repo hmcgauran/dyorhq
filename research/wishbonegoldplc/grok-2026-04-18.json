@@ -1,12 +1,14 @@
 {
-  "score": 42,
-  "signal": "negative",
+  "score": 73,
+  "rawScore": 45,
+  "signal": "positive",
   "key_themes": [
-    "exploration challenges",
-    "market uncertainty",
-    "limited catalysts",
-    "price decline"
+    "Operational progress and infrastructure build-out at Red Setter (new access road to Nifty Copper Mine, new camp setup)",
+    "Confirmation of gold-copper mineralization from prior drilling with major 2026 follow-up program planned (~9,000m, 25 holes)",
+    "Strategic tenement expansion near major producers (Telfer gold mine)",
+    "Attractive entry valuation amid gold price strength and logistical cost savings for 2026 exploration",
+    "Speculative junior miner upside with steady news flow but volatile share price history"
   ],
-  "summary": "Wishbone Gold PLC (WSBN) exhibits a negative sentiment due to recent underwhelming exploration updates and a lack of significant near-term catalysts. Analyst tone remains cautious, and price momentum has been downward, reflecting broader market uncertainty.",
-  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"exploration challenges\", \"market uncertainty\", \"limited catalysts\", \"price decline\"],\n  \"summary\": \"Wishbone Gold PLC (WSBN) exhibits a negative sentiment due to recent underwhelming exploration updates and a lack of significant near-term catalysts. Analyst tone remains cautious, and price momentum has been downward, reflecting broader market uncertainty.\"\n}"
+  "summary": "Wishbone Gold (WSBN.L), a small-cap Australian gold-copper explorer, is experiencing mildly positive sentiment driven by consistent operational updates and preparations for an active 2026 field season. Key positives include confirmed mineralization at Red Setter, a new access road and camp that will cut costs and improve logistics via proximity to the Nifty mine, plus a strategic tenement win near the Telfer gold mine. While the share price has pulled back significantly from 2025 highs (now trading ~32p with a ~£9.7M market cap), engaged investors and influencers view current levels as a buying opportunity ahead of assay results and drilling, though discussion volume remains niche and typical for a junior miner.[[1]](https://finance.yahoo.com/quote/WSBN.L/)[[2]](https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3230152:0-wsbn-over-4-800-metres-drilled-at-red-setter-new-access-road-to-nifty-to-boost-2026-exploration/)[[3]](https://www.share-talk.com/wishbone-gold-awarded-key-tenement-near-telfer-drilling-plans-for-2026/)",
+  "sources": "Company X account (@WishboneGoldPlc) and ~10 relevant investor posts (Apr 2026), 5+ recent news/RNS items (Feb–Apr 2026: tenement win, mineralization confirmation, 4,800m drilled update, road/camp progress), Stock pages and quotes (Yahoo Finance, LSE, Google Finance, London Stock Exchange), Share chat references (ADVFN, LSE.co.uk)"
 }

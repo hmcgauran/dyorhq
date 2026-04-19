@@ -7,9 +7,9 @@
     "date": "2026-04-18",
     "datePublished": "2026-04-18",
     "recommendation": "BUY",
-    "recommendationNote": "OPPORTUNISTIC BUY",
-    "conviction": 74,
-    "lastRefreshed": "2026-04-18T15:21:22.634Z",
+    "recommendationNote": "BUY (STRONG)",
+    "conviction": 77,
+    "lastRefreshed": "2026-04-18T22:39:42.051Z",
     "universes": [
       "irish",
       "watchlist"
@@ -25,30 +25,33 @@
     "week52Low": 47.8,
     "beta": null,
     "avgVolume": "131",
-    "sharesOutstanding": null
+    "sharesOutstanding": null,
+    "irUrl": null,
+    "pressReleasesUrl": null
   },
   "grok": {
-    "score": 66,
+    "score": 83,
     "signal": "positive",
     "keyThemes": [
-      "product pipeline",
-      "partnerships",
-      "revenue growth",
-      "market expansion"
+      "Strong recurring revenue growth from GI Genius AI platform and Winlevi",
+      "€2.10 per share dividend approved (ex-date Apr 24, 2026)",
+      "Constructive 2026 guidance with double-digit recurring revenue and EBITDA growth",
+      "Positive reaction to Clascoterone pipeline/news and product developments",
+      "Robust balance sheet (strong cash, no debt) and 2030 growth vision"
     ],
-    "summary": "Cosmo Pharmaceuticals NV (C43) shows a positive sentiment driven by promising developments in its product pipeline and strategic partnerships, alongside steady price momentum. Recent analyst tone remains cautiously optimistic, with potential near-term catalysts including updates on clinical trials or regulatory approvals.",
+    "summary": "Cosmo N.V. (ticker C43.F / COPN), focused on GI, dermatology, and health tech, reported 2025 revenue of €104.2M with recurring revenues up 15% to €88.1M (85% of total) and EBITDA of €9.5M. The company secured shareholder approval for a €2.10 dividend, issued upbeat 2026 guidance targeting continued double-digit growth, and benefited from recent positive product news around Clascoterone that drove short-term share gains. Investor and trader sentiment is predominantly positive, underpinned by the shift to high-quality recurring revenues, AI-enabled MedTech, a debt-free balance sheet with substantial cash, and solid long-term pipeline momentum despite some post-results volatility.",
     "bullCase": "",
     "bearCase": "",
-    "sources": ""
+    "sources": "6+ news articles (FY2025 results, AGM outcomes, dividend announcement), 10+ recent X posts mentioning $COPN / C43.F with trading and product commentary"
   },
   "scenario": {
-    "bullProbability": 40,
+    "bullProbability": 49,
     "bullScore": 92,
-    "baseProbability": 51,
-    "baseScore": 68,
-    "bearProbability": 9,
+    "baseProbability": 53,
+    "baseScore": 62,
+    "bearProbability": -2,
     "bearScore": 25,
-    "conviction": 74
+    "conviction": 77
   },
   "sections": {
     "executiveSummary": {
@@ -91,13 +94,41 @@
   },
   "scores": {
     "current": {
-      "score": 74,
+      "score": 77,
       "band": "BUY",
       "date": "2026-04-18",
-      "delta": "3",
+      "delta": "0",
       "reason": "Formula fix"
     },
     "history": [
+      {
+        "date": "2026-04-18",
+        "conviction": 67
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 74
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 71
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 72
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 69
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 56
+      },
+      {
+        "date": "2026-04-18",
+        "conviction": 51
+      },
       {
         "date": "2026-04-11",
         "conviction": 50
@@ -107,5 +138,6 @@
         "conviction": 55
       }
     ]
-  }
+  },
+  "_irEnriched": "2026-04-19"
 }

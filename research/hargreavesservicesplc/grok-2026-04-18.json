@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 86,
+  "rawScore": 72,
   "signal": "positive",
   "key_themes": [
-    "strong financial performance",
-    "strategic growth",
-    "stable dividends",
-    "industrial services demand",
-    "market recovery"
+    "Capital returns via upsized £20m tender offer at 16%+ premium and dividend increase",
+    "Strong H1 revenue (+41% in services) and profit growth from UK infrastructure contracts (HS2, Sizewell C, AMP8)",
+    "Successful renewable energy land asset sales at premiums to independent valuations",
+    "Debt-free balance sheet, cash generative, solid order book, and positive analyst 'buy' coverage",
+    "Orderly CEO succession and strategic shift toward higher-return, capital-light operations"
   ],
-  "summary": "Hargreaves Services plc (HSP) shows a positive sentiment with recent news highlighting robust financial results and strategic expansion in industrial services. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts from infrastructure project demand.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong financial performance\", \"strategic growth\", \"stable dividends\", \"industrial services demand\", \"market recovery\"],\n  \"summary\": \"Hargreaves Services plc (HSP) shows a positive sentiment with recent news highlighting robust financial results and strategic expansion in industrial services. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts from infrastructure project demand.\"\n}"
+  "summary": "Hargreaves Services (AIM: HSP.L), a diversified environmental, infrastructure, and property services group, is seeing strongly positive sentiment in 2026. Robust interim results highlighted substantial services revenue and EBITDA growth driven by major UK infrastructure projects, supporting an increased £20 million tender offer at 850p (≈16% premium to the pre-announcement price), a higher dividend, and ongoing monetization of its renewable land portfolio at uplifts to valuation.[[1]](https://www.proactiveinvestors.com/companies/news/1089646/hargreaves-services-launches-20-million-tender-offer-at-16-premium-1089646.html)[[2]](https://finance.yahoo.com/quote/HSP.L/) With a debt-free balance sheet, strong order book coverage, positive contract wins, beneficial Tungsten West exposure, and 'buy' tips in the media, investors on X and forums are focused on the attractive total return profile combining growth, capital distributions, and strategic execution.[[3]](https://x.com/hargreaves_plc/status/2019365501370257798)[[4]](https://x.com/ANKITSH85153215/status/2037488445019574377)",
+  "sources": "X/Twitter: 15+ relevant posts and company announcements (primarily Jan-Apr 2026), News/RNS: 20+ articles and announcements from LSE, Proactive Investors, Yahoo Finance, ADVFN, Stockopedia, and Investors Chronicle (Jan-Apr 2026), Investor discussions: ADVFN & Stockopedia share chat boards plus analyst notes"
 }

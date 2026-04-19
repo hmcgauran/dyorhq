@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 86,
+  "rawScore": 72,
   "signal": "positive",
   "key_themes": [
-    "strong financials",
-    "strategic acquisitions",
-    "market expansion",
-    "stable growth",
-    "sector resilience"
+    "Major new nuclear orders exceeding £10M in 2026",
+    "SMR prototype development and growth prospects",
+    "Alignment with AI data center energy demand and energy security trends",
+    "Positive technical momentum and broker Buy consensus",
+    "Strong long-term shareholder returns"
   ],
-  "summary": "Avingtrans plc (AVG) exhibits a positive sentiment with recent news highlighting robust financial performance and strategic acquisitions boosting investor confidence. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like new contract wins or market expansions.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong financials\", \"strategic acquisitions\", \"market expansion\", \"stable growth\", \"sector resilience\"],\n  \"summary\": \"Avingtrans plc (AVG) exhibits a positive sentiment with recent news highlighting robust financial performance and strategic acquisitions boosting investor confidence. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like new contract wins or market expansions.\"\n}"
+  "summary": "Avingtrans PLC (LON:AVG), focused on engineering with strong nuclear exposure, is experiencing clearly positive sentiment after announcing over £10 million in nuclear orders since the start of 2026, including pump contracts and SMR prototype work with a leading next-gen nuclear firm.[[1]](https://global.morningstar.com/en-gb/news/alliance-news/1776348557388784600/avingtrans-reports-orders-over-gbp10-million-for-nuclear-applications)[[2]](https://x.com/MBdaytrading/status/2044673577060851773) The news has driven share price gains, with the stock crossing above its 50-day moving average, showing buy signals, and prompting bullish investor commentary linking nuclear demand to AI data centers.[[3]](https://www.marketbeat.com/instant-alerts/avingtrans-lonavg-stock-passes-above-50-day-moving-average-heres-what-happened-2026-04-16/)[[4]](https://stockinvest.us/stock/AVG.L) Social media discussion, while not voluminous, is distinctly upbeat among holders emphasizing growth potential; longer-term performance remains strong with favorable multi-year returns.[[5]](https://finance.yahoo.com/quote/AVG.L/news/)",
+  "sources": "X posts: 5+ relevant recent posts on nuclear orders, 10+ news/RNS items from LSE, MarketBeat, Yahoo Finance (2026 announcements), Company updates on orders, interim results, and magnet shipments"
 }

@@ -1,13 +1,45 @@
 {
-  "score": 66,
+  "ticker": "AAZ",
+  "company": "Anglo Asian Mining Plc",
+  "generatedAt": "2026-04-18T21:51:52.638Z",
+  "score": 58,
   "signal": "positive",
   "key_themes": [
-    "production growth",
-    "copper market strength",
-    "geopolitical risks",
-    "dividend potential",
-    "exploration updates"
+    "Copper production surge and new mine ramp-up (Demirli/Gilar)",
+    "Swing to net cash position with strong Q1 sales and inventory build",
+    "Transition to copper-focused growth without equity dilution"
   ],
-  "summary": "Anglo Asian Mining Plc (AAZ) shows a positive sentiment driven by recent production increases and favorable copper market conditions, though tempered by geopolitical risks in Azerbaijan. Analyst tone remains cautiously optimistic with potential upside from exploration updates and dividend announcements.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"production growth\", \"copper market strength\", \"geopolitical risks\", \"dividend potential\", \"exploration updates\"],\n  \"summary\": \"Anglo Asian Mining Plc (AAZ) shows a positive sentiment driven by recent production increases and favorable copper market conditions, though tempered by geopolitical risks in Azerbaijan. Analyst tone remains cautiously optimistic with potential upside from exploration updates and dividend announcements.\"\n}"
+  "sources_checked": [
+    "Yahoo Finance/Reuters financials and news",
+    "Proactive Investors and TipRanks updates",
+    "Company RNS/Investegate announcements and results centre",
+    "X posts (keyword and semantic search)"
+  ],
+  "summary": "AAZ reported a major Q1 2026 operational beat with copper production jumping to 3,711 tonnes (nearly 7x YoY), stable gold, higher silver, $45.6m in concentrate/bullion sales, and a $15.4m swing to $17.7m net cash while building $30.8m inventory.[[1]](https://www.tipranks.com/news/company-announcements/anglo-asian-mining-swings-to-net-cash-on-strong-q1-copper-output)[[2]](https://www.proactiveinvestors.com/companies/news/1090579/anglo-asian-mining-sees-copper-volumes-ramp-up-supporting-production-growth-1090579.html)[[3]](https://www.proactiveinvestors.co.uk/companies/news/1090579/anglo-asian-mining-sees-copper-volumes-ramp-up-supporting-production-growth-1090579.html) This follows H1 2025 profitability recovery and the 1Moz GEO milestone, supporting its pivot to a mid-tier copper producer. Historical losses and one skeptical investor view on valuation/transparency and revenue-per-GEO exist, but recent catalysts dominate; biggest risk is execution on the remaining growth pipeline (Xarxar/Garadag) amid commodity volatility.[[4]](https://theoakbloke.substack.com/p/aaz-i-got-skewered)[[5]](https://x.com/BlokeOak57182/status/2044357848323264702)",
+  "recent_posts": [
+    {
+      "source": "X (@proactive_x)",
+      "date": "Apr 15, 2026",
+      "sentiment": "positive",
+      "highlight": "Copper volumes ramp-up supporting production growth and strategy execution"
+    },
+    {
+      "source": "ShareProphets (X-linked article)",
+      "date": "Apr 17, 2026",
+      "sentiment": "positive",
+      "highlight": "Q1 2026 Production and Sales Review – still a Buy? Highlights strong copper, gold output and net cash swing"
+    },
+    {
+      "source": "X (@BlokeOak57182 / The Oak Bloke)",
+      "date": "Apr 15, 2026",
+      "sentiment": "negative",
+      "highlight": "Questions revenue per GEO (~$2,560) appearing low, production pace vs annual target, and high market cap"
+    },
+    {
+      "source": "TipRanks / Company announcement",
+      "date": "mid-Apr 2026",
+      "sentiment": "positive",
+      "highlight": "Record copper output, swing to net cash, strengthened balance sheet and growth pipeline in Azerbaijan"
+    }
+  ]
 }

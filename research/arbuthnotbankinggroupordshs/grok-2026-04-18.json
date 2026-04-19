@@ -1,13 +1,46 @@
 {
-  "score": 56,
-  "signal": "neutral",
+  "ticker": "ARBB",
+  "company": "Arbuthnot Banking Group Ord Shs",
+  "generatedAt": "2026-04-18T22:05:01.219Z",
+  "score": 45,
+  "signal": "positive",
   "key_themes": [
-    "stable performance",
-    "limited news flow",
-    "cautious analyst outlook",
-    "steady price trend",
-    "no major catalysts"
+    "Resilient growth in deposits (+11% to £4.57bn) and FUMA (+21%) with strengthened capital, liquidity, and higher dividend despite 31% PBT decline to £24.2m",
+    "Significant Chairman & CEO insider buying (£2.6m / 300k shares at 860p) and stock trading at ~50-52% of NAV with attractive ~6-7% yield",
+    "Analyst views (Hardman & Co and consensus) point to 2026 profit stability, higher EPS (~169p), higher-for-longer rates tailwind, and price targets of 1,200p (material upside from ~850p)"
   ],
-  "summary": "Arbuthnot Banking Group (ARBB) shows a neutral sentiment with limited recent news or significant catalysts to drive major price movements. Analyst tone remains cautious but not overly bearish, and price momentum has been stable without strong bullish or bearish trends.",
-  "raw": "{\n  \"score\": 15,\n  \"signal\": \"neutral\",\n  \"key_themes\": [\"stable performance\", \"limited news flow\", \"cautious analyst outlook\", \"steady price trend\", \"no major catalysts\"],\n  \"summary\": \"Arbuthnot Banking Group (ARBB) shows a neutral sentiment with limited recent news or significant catalysts to drive major price movements. Analyst tone remains cautious but not overly bearish, and price momentum has been stable without strong bullish or bearish trends.\"\n}"
+  "sources_checked": [
+    "FY2025 Results (LSE/TipRanks/MarketBeat)",
+    "Hardman & Co Research (April 2026)",
+    "Insider transaction reports (Yahoo/Simply Wall St)",
+    "X posts (Hardman & Co, investors, market updates)",
+    "Price action and analyst target data (Yahoo, MarketBeat)"
+  ],
+  "summary": "Arbuthnot Banking Group delivered resilient 2025 results with strong deposit and wealth management growth, robust balance sheet metrics, and an increased dividend, even as pre-tax profit fell 31% to £24.2m from lower rates, high surplus liquidity, and some one-off items. The Chairman & CEO’s large open-market share purchase at 860p, combined with the stock trading at roughly half of NAV and analyst forecasts for 2026 stability plus a 1,200p target, reflect clear value and confidence. The biggest risk is sustained net interest margin pressure if rates remain lower for longer or liquidity stays elevated.[[1]](https://www.marketbeat.com/instant-alerts/arbuthnot-banking-group-lonarbb-hits-new-1-year-low-should-you-sell-2026-04-16/)[[2]](https://www.tipranks.com/news/company-announcements/arbuthnot-banking-group-delivers-resilient-2025-as-deposits-and-assets-grow-despite-profit-dip)[[3]](https://finance.yahoo.com/markets/stocks/articles/chairman-ceo-arbuthnot-banking-group-074727256.html)[[4]](https://hardmanandco.com/research/corporate-research/arbb-2025-lower-margins-2026-profit-stability/)",
+  "recent_posts": [
+    {
+      "source": "X @HardmanandCo",
+      "date": "April 2026",
+      "sentiment": "positive",
+      "highlight": "2025 results show strong deposit/wealth growth and specialist lending; margins squeezed by rates but 2026 profit stability expected"
+    },
+    {
+      "source": "X @graham69717",
+      "date": "April 2026",
+      "sentiment": "positive",
+      "highlight": "CEO bought ~£2.8m at 860p post-results; PER ~8.9, ~6.6% yield, trading at 52% of net assets"
+    },
+    {
+      "source": "X @SentinelFlash",
+      "date": "March 2026",
+      "sentiment": "positive",
+      "highlight": "Undervalued 190-year merchant bank at 52% of tangible book; sticky deposits, overcapitalized, heavy insider buying"
+    },
+    {
+      "source": "MarketBeat",
+      "date": "April 2026",
+      "sentiment": "negative",
+      "highlight": "Stock reached new 52-week low (~775p) with recent price weakness below moving averages"
+    }
+  ]
 }

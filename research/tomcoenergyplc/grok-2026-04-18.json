@@ -1,13 +1,14 @@
 {
-  "score": 34,
-  "signal": "negative",
+  "score": 68,
+  "rawScore": 35,
+  "signal": "positive",
   "key_themes": [
-    "financial struggles",
-    "operational delays",
-    "market uncertainty",
-    "low investor confidence",
-    "potential restructuring"
+    "Recycling division weakness, low commodity prices, and restructuring (recovery delayed past 2026)",
+    "Record Collection results and expansion into new deposit return markets (Poland, Portugal, Singapore)",
+    "Strong Food segment profitability and growing order backlog",
+    "Analyst Outperform/Strong Buy consensus with ~20% average upside to price targets (~147-150 NOK)",
+    "Long-term tailwinds from circular economy, EU regulations, and sustainability initiatives"
   ],
-  "summary": "TomCo Energy Plc (TOM) is facing a bearish sentiment due to recent financial difficulties and operational setbacks, compounded by a lack of positive near-term catalysts. Analyst tone remains cautious, with declining price momentum reflecting low investor confidence.",
-  "raw": "{\n  \"score\": -40,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"financial struggles\", \"operational delays\", \"market uncertainty\", \"low investor confidence\", \"potential restructuring\"],\n  \"summary\": \"TomCo Energy Plc (TOM) is facing a bearish sentiment due to recent financial difficulties and operational setbacks, compounded by a lack of positive near-term catalysts. Analyst tone remains cautious, with declining price momentum reflecting low investor confidence.\"\n}"
+  "summary": "Tomra Systems (TOM.OL) shows mildly positive sentiment as a leader in sensor-based recycling and sorting technology. Q4 2025 highlighted record Collection performance and solid Food results amid new market rollouts and strong order backlogs, offsetting weakness in Recycling that prompted cost cuts and a warning that meaningful recovery is unlikely before late 2026 or 2027.[[1]](https://stockinvest.us/earnings-report/TMRAF)[[2]](https://www.marketscreener.com/quote/stock/TOMRA-SYSTEMS-ASA-1413304/news/) Analysts largely maintain Buy/Outperform ratings with targets implying 20%+ upside from current levels near 124 NOK, a dividend is proposed, and long-term sustainability trends remain supportive despite near-term pressures and mixed recent share performance.[[3]](https://growthinvesting.net/stock/OB-TOM/profile)[[4]](https://www.marketscreener.com/quote/stock/TOMRA-SYSTEMS-ASA-1413304/consensus/)",
+  "sources": "Yahoo Finance TOM.OL (price, performance, analyst targets), Tomra IR (Q4 2025 report, consensus estimates, upcoming Q1 2026 earnings on Apr 24), 10+ news articles (earnings calls, Pareto Buy reiteration, dividend proposal, warnings on recycling), X/Twitter posts and discussions (~15 scanned; limited high-engagement investor chatter)"
 }

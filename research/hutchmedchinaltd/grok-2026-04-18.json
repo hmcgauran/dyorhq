@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 81,
+  "rawScore": 62,
   "signal": "positive",
   "key_themes": [
-    "clinical trial progress",
-    "analyst optimism",
-    "stock price recovery",
-    "upcoming data readouts",
-    "China market expansion"
+    "Oncology pipeline momentum with multiple AACR 2026 data presentations",
+    "Clinical trial progress including new Phase III initiations",
+    "Strong 2025 financial results and global commercial expansion",
+    "Favorable analyst coverage with significant upside price targets ($20–23 avg)",
+    "Prior FDA approvals, partnerships, and solid fundamentals (high margins, attractive valuation)"
   ],
-  "summary": "HUTCHMED (HCM) shows a positive sentiment with recent news highlighting progress in clinical trials for key oncology drugs and growing traction in China. Analyst tone remains cautiously optimistic, supported by a moderate upward price momentum over the past month, with potential near-term catalysts from upcoming trial data.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\n    \"clinical trial progress\",\n    \"analyst optimism\",\n    \"stock price recovery\",\n    \"upcoming data readouts\",\n    \"China market expansion\"\n  ],\n  \"summary\": \"HUTCHMED (HCM) shows a positive sentiment with recent news highlighting progress in clinical trials for key oncology drugs and growing traction in China. Analyst tone remains cautiously optimistic, supported by a moderate upward price momentum over the past month, with potential near-term catalysts from upcoming trial data.\"\n}"
+  "summary": "Sentiment around HCM is positive but measured. The biotech continues to advance its oncology pipeline with upcoming data presentations at AACR 2026, new Phase III trials, and highlights from strong 2025 results showing global expansion and impressive profitability. Analysts generally lean constructive with average price targets implying 30–45% upside from current levels near $15.70, though some consensus ratings are closer to Hold. Social media and investor discussion on X remains relatively quiet and news-driven, with limited retail fervor.[[1]](https://finance.yahoo.com/quote/HCM/)[[2]](https://www.marketbeat.com/stocks/NASDAQ/HCM/news/)[[3]](https://www.tipranks.com/stocks/hcm/forecast)",
+  "sources": "15+ recent news articles (Yahoo Finance, GlobeNewswire, TipRanks, MarketBeat, GuruFocus), 10+ recent X posts (primarily from biotech news, corporate, and catalyst-tracking accounts with modest engagement)"
 }

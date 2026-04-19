@@ -1,0 +1,46 @@
+{
+  "ticker": "ANCR",
+  "company": "ANCR - Animalcare Group Plc",
+  "generatedAt": "2026-04-18T21:47:33.660Z",
+  "score": 82,
+  "signal": "positive",
+  "key_themes": [
+    "Recommended PE takeover at 36% premium",
+    "Strong FY25 revenue growth (+20%) and EBITDA expansion from Randlab integration",
+    "Cash certainty and accelerated private-sector investment in R&D/M&A"
+  ],
+  "sources_checked": [
+    "Investegate/RNS (takeover announcement)",
+    "Yahoo Finance (price, analysts, metrics)",
+    "Company website & results releases",
+    "Proactive Investors & Investing.com (growth updates)",
+    "X posts (recent sentiment)"
+  ],
+  "summary": "Animalcare Group (ANCR.L) has seen strongly positive momentum after a recommended £235.2m cash takeover by Charterhouse Capital Partners at 336p per share (36% premium to the 15 Apr 2026 close of 247p), driving the stock up ~35% to ~333p on heavy volume.[[1]](https://www.proactiveinvestors.com/companies/news/1090665/animalcare-group-shares-rise-35-after-it-agrees-235m-pe-buyout-deal-1090665.html)[[2]](https://stockinvest.us/stock/ANCR.L) This follows robust FY25 performance with revenue of ~£89.1m (+20% YoY, in line with expectations), underlying EBITDA growth of ~50%, successful Randlab integration, higher-margin product expansion, and a strong balance sheet (net debt £9.1m, leverage <1x).[[3]](https://www.investing.com/news/stock-market-news/animalcare-group-reports-20-revenue-growth-in-fy25-93CH-4459450)[[3]](https://www.investing.com/news/stock-market-news/animalcare-group-reports-20-revenue-growth-in-fy25-93CH-4459450) The board unanimously recommends the deal, citing better scope for ambitious 2030 targets as a private company; major shareholders (including directors and Harwood ~41%) have given irrevocable undertakings. Biggest risk is deal non-completion (regulatory/FIRB approval or other conditions), though momentum and support make this appear low. Pre-deal analyst targets averaged ~323p.[[4]](https://finance.yahoo.com/quote/ANCR.L/)",
+  "recent_posts": [
+    {
+      "source": "X/@proactive_x",
+      "date": "Apr 16, 2026",
+      "sentiment": "positive",
+      "highlight": "ANCR shares rise 35% after agreeing £235m PE buyout deal at 336p (36% premium)."
+    },
+    {
+      "source": "X/@reb40",
+      "date": "Apr 16, 2026",
+      "sentiment": "positive",
+      "highlight": "Another takeover at decent premium (from 247p to 336p); well-needed win for shareholders including Christopher Mills & Harwood."
+    },
+    {
+      "source": "X/@tradingfloorai",
+      "date": "Apr 16, 2026",
+      "sentiment": "positive",
+      "highlight": "Animalcare Group accepted £235.2m takeover bid; shares jumped 35%."
+    },
+    {
+      "source": "X/@CapitalPmh",
+      "date": "Apr 17, 2026",
+      "sentiment": "positive",
+      "highlight": "ANCR discussed positively in small-cap investor show alongside other ideas."
+    }
+  ]
+}

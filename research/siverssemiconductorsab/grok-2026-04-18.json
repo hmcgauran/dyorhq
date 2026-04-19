@@ -1,12 +1,14 @@
 {
-  "score": 66,
+  "score": 84,
+  "rawScore": 68,
   "signal": "positive",
   "key_themes": [
-    "5G growth",
-    "semiconductor demand",
-    "strategic partnerships",
-    "market expansion"
+    "AI data center photonics and co-packaged optics partnerships",
+    "Potential Nasdaq dual listing attracting US investors",
+    "Record 2025 revenue growth with expanding contracts",
+    "Momentum as emerging silicon photonics play (compared to LITE)",
+    "New product launches in 5G/6G, SATCOM, and LiDAR"
   ],
-  "summary": "Sivers Semiconductors AB (SIVE.ST) shows a positive sentiment driven by strong demand for 5G and semiconductor solutions, with recent news highlighting strategic partnerships and market expansion. Analyst tone remains cautiously optimistic, supported by moderate upward price momentum and potential near-term catalysts like new contract announcements.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"5G growth\", \"semiconductor demand\", \"strategic partnerships\", \"market expansion\"],\n  \"summary\": \"Sivers Semiconductors AB (SIVE.ST) shows a positive sentiment driven by strong demand for 5G and semiconductor solutions, with recent news highlighting strategic partnerships and market expansion. Analyst tone remains cautiously optimistic, supported by moderate upward price momentum and potential near-term catalysts like new contract announcements.\"\n}"
+  "summary": "Sivers Semiconductors (SIVE.ST) is seeing strongly positive sentiment fueled by strategic AI optics collaborations (including Jabil for 1.6T transceivers, POET, O-Net/Enablence for CPO), consideration of a Nasdaq dual listing, and record revenues in its photonics business. The stock has surged dramatically (from ~2.85 SEK 52-week low to ~23-26 SEK recently) amid high trading volume and excitement as an 'undiscovered' silicon photonics name tied to AI data centers, with investors comparing it to LITE. While some note the rapid run-up has it trading well above analyst targets and a skeptical view on promotional activity exists, the dominant investor discussion is bullish on long-term growth potential with pullbacks viewed as buying opportunities.[[1]](https://finance.yahoo.com/quote/SIVE.ST/)[[2]](https://www.sivers-semiconductors.com/press/sivers-semiconductors-ab-evaluates-a-potential-dual-listing-of-its-shares-on-the-nasdaq-new-york/)[[3]](https://simplywall.st/stocks/se/semiconductors/sto-sive/sivers-semiconductors-shares/news/a-look-at-sivers-semiconductors-omsive-valuation-after-new-c)",
+  "sources": "8+ recent news articles and PRs (Yahoo Finance, TipRanks, company releases, Mar-Apr 2026), 15+ relevant investor X posts (bullish thematic commentary, Apr 2026)"
 }

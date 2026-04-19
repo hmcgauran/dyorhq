@@ -1,0 +1,46 @@
+{
+  "ticker": "ACI",
+  "company": "ACI - Albertsons Companies Inc",
+  "generatedAt": "2026-04-18T22:10:40.121Z",
+  "score": 42,
+  "signal": "positive",
+  "key_themes": [
+    "Adjusted EPS beat with raised shareholder returns (13% dividend hike, $2B buyback expansion)",
+    "Strong digital sales growth (16-21%) and loyalty gains offsetting pharmacy/IRA headwinds",
+    "Revenue miss, opioid settlement charge (GAAP net loss), margin pressure, and competitive grocery challenges"
+  ],
+  "sources_checked": [
+    "Albertsons Companies IR / Q4 2025 Earnings Release",
+    "Yahoo Finance / Zacks",
+    "MarketBeat / analyst consensus",
+    "Seeking Alpha",
+    "X posts (semantic & keyword search)"
+  ],
+  "summary": "Albertsons delivered an adjusted Q4 EPS beat of $0.48 (vs ~$0.43 expected), 7.7% revenue growth, higher adjusted EBITDA, strong digital acceleration, and raised its dividend 13% while expanding buybacks to $2B, with slightly improved fiscal 2026 guidance in key areas.[[1]](https://finance.yahoo.com/markets/stocks/articles/albertsons-beats-q4-earnings-despite-142600754.html)[[2]](https://www.albertsonscompanies.com/investors/financial-reports/quarterly-results/default.aspx)[[3]](https://public.com/stocks/aci/earnings) The stock reacted negatively to the revenue miss, large opioid settlement (~$774M) driving a GAAP net loss, modest margin compression, and pharmacy headwinds.[[4]](https://www.investing.com/news/transcripts/earnings-call-transcript-albertsons-beats-eps-but-misses-revenue-in-q4-2025-93CH-4613113)[[5]](https://www.quiverquant.com/news/Albertsons+Companies+Inc.+(ACI)+Releases+Q4+2025+Earnings:+Revenue+Up+but+Net+Loss+and+EPS+Drop) Biggest risk is sustained top-line pressure and margin compression from competition and digital/pharmacy mix shifts in a challenging grocery environment; analysts remain mostly constructive (Hold/Overweight consensus, ~$21-22 average PT implying material upside from ~$16.40 levels) but trimmed some targets post-earnings.[[6]](https://www.marketbeat.com/stocks/NYSE/ACI/forecast/)[[7]](https://stockanalysis.com/stocks/aci/ratings/)",
+  "recent_posts": [
+    {
+      "source": "X @MarketsHistory",
+      "date": "2026-04-14",
+      "sentiment": "neutral",
+      "highlight": "HOLD rating post-earnings; notes resilience, digital/ loyalty catalysts and productivity program but highlights pharmacy pressures and industry trends"
+    },
+    {
+      "source": "X @BreakingEquity",
+      "date": "2026-04-14",
+      "sentiment": "negative",
+      "highlight": "Stock slid after quarterly sales miss, slower GLP-1 impacts, higher gas prices, and disclosure of $774M opioid settlement"
+    },
+    {
+      "source": "Yahoo Finance / Zacks",
+      "date": "2026-04-15",
+      "sentiment": "positive",
+      "highlight": "Beats on Q4 adjusted EPS despite IRA pharmacy headwinds; digital sales +16%, loyalty members +12%, adjusted EBITDA growth"
+    },
+    {
+      "source": "Seeking Alpha",
+      "date": "2026-04-15",
+      "sentiment": "mixed",
+      "highlight": "EPS and EBITDA beats but revenue miss highlighting top-line growth challenges amid competitive pressures; notes dividend/buyback confidence"
+    }
+  ]
+}

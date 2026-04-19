@@ -1,12 +1,14 @@
 {
-  "score": 66,
+  "score": 89,
+  "rawScore": 78,
   "signal": "positive",
   "key_themes": [
-    "gold production",
-    "operational growth",
-    "market conditions",
-    "exploration potential"
+    "Record revenue, profits, and high profit margins in gold production",
+    "Low-cost operations with strong cash position",
+    "Consistent dividends and shareholder returns",
+    "Advancing exploration pipeline and multi-asset growth in West Africa",
+    "Strong Buy analyst ratings with ~45-55% implied upside"
   ],
-  "summary": "Thor Explorations Ltd (THX) shows a positive sentiment driven by steady gold production updates and operational progress at its Segilola mine, alongside favorable analyst commentary on growth potential. Recent price momentum reflects moderate bullishness, with potential near-term catalysts tied to exploration results and gold price trends.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"gold production\", \"operational growth\", \"market conditions\", \"exploration potential\"],\n  \"summary\": \"Thor Explorations Ltd (THX) shows a positive sentiment driven by steady gold production updates and operational progress at its Segilola mine, alongside favorable analyst commentary on growth potential. Recent price momentum reflects moderate bullishness, with potential near-term catalysts tied to exploration results and gold price trends.\"\n}"
+  "summary": "Thor Explorations Ltd. (TSXV: THX, AIM: THX), a West African gold producer, is generating strongly positive financial sentiment after reporting record 2025 revenue/profits, robust Q1 2026 operating results, exceptionally high margins (one of the top among gold miners), and maintained guidance.[[1]](https://finance.yahoo.com/quote/THX.V/)[[1]](https://finance.yahoo.com/quote/THX.V/)[[2]](https://www.tipranks.com/stocks/tse:thx) Investors and brokers highlight its low-cost Segilola mine, substantial net cash, ongoing dividends (yielding ~3.4%), and progress at the Douta project plus other exploration targets, positioning the company for multi-mine growth amid elevated gold prices. Analysts maintain Strong Buy ratings with average 12-month targets around C$2.21–2.31 (roughly 45–55% upside from ~C$1.50).[[1]](https://finance.yahoo.com/quote/THX.V/)[[3]](https://www.alphaspread.com/security/xtsx/thx/analyst-estimates)",
+  "sources": "10+ recent news articles (Yahoo Finance, Proactive, Tipranks, Reuters, etc.), 15+ relevant X posts and investor discussions (April 2026), Earnings releases, investor webinars, broker notes, and LSE share chat"
 }

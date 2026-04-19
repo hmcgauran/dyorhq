@@ -1,0 +1,47 @@
+{
+  "ticker": "ALLE",
+  "company": "ALLE - Allegion plc",
+  "generatedAt": "2026-04-18T21:06:10.624Z",
+  "score": 38,
+  "signal": "positive",
+  "key_themes": [
+    "Solid revenue and organic growth with strategic pivot to electronics, software, AI-enabled security",
+    "Q4 2025 profit miss and cautious 2026 guidance (residential weakness) triggered ~8-9% post-earnings sell-off",
+    "Capital returns via dividend increase and $500M buyback expansion; analyst consensus PT implies ~18% upside despite some PT cuts",
+    "Mixed analyst actions (new Buy initiation offset by several target reductions); Hold consensus overall"
+  ],
+  "sources_checked": [
+    "Company investor releases (earnings, dividend, buyback, Q1 webcast)",
+    "MarketBeat analyst consensus and recent actions",
+    "Yahoo Finance / Reuters news and estimates",
+    "TipRanks / financial media on ratings and strategy",
+    "Recent web coverage on residential demand and electronics push"
+  ],
+  "summary": "Allegion delivered revenue growth in FY2025 and is executing a multi-year shift toward higher-margin electronic/software/AI products while raising its dividend and expanding buybacks, supporting moderate optimism and meaningful analyst price-target upside from current levels near $144. However, a Q4 profit miss on weak U.S. residential demand plus 2026 guidance that disappointed investors caused a sharp sell-off in February, with several brokerages trimming targets in early 2026. The biggest risk is prolonged residential market softness and execution on the electronics transition ahead of Q1 results on April 28.",
+  "recent_posts": [
+    {
+      "source": "Company Release / TipRanks",
+      "date": "Apr 15, 2026",
+      "sentiment": "positive",
+      "highlight": "Allegion expands share repurchase authorization by $500M alongside quarterly dividend declaration"
+    },
+    {
+      "source": "Evercore ISI via TipRanks",
+      "date": "Apr 13, 2026",
+      "sentiment": "positive",
+      "highlight": "Initiates coverage with Buy/Outperform rating, highlighting long-term electronics and software opportunity"
+    },
+    {
+      "source": "MarketBeat / financial media",
+      "date": "Apr 2026",
+      "sentiment": "mixed",
+      "highlight": "Consensus Hold with $171 PT (18%+ upside) but recent PT cuts by Barclays, Wells Fargo, Goldman, and JPM"
+    },
+    {
+      "source": "Reuters / earnings coverage",
+      "date": "Feb 17, 2026",
+      "sentiment": "negative",
+      "highlight": "Q4 profit miss on weak residential demand; 2026 EPS guidance midpoint below expectations, stock drops sharply"
+    }
+  ]
+}

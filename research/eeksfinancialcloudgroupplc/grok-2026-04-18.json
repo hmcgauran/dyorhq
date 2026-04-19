@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 83,
+  "rawScore": 65,
   "signal": "positive",
   "key_themes": [
-    "cloud computing growth",
-    "financial sector demand",
-    "strong earnings",
-    "market expansion",
-    "technical momentum"
+    "Revenue-funded token buybacks from live event ticket sales",
+    "Upcoming major artist announcements and high-profile concerts",
+    "Community giveaways and VIP ticket incentives requiring $BKS holdings",
+    "Trading campaigns driving visibility and volume on MEXC",
+    "Real-world utility in Web3 ticketing, travel, and rewards platform"
   ],
-  "summary": "Beeks Financial Cloud Group PLC (BKS) shows a positive sentiment driven by strong demand for cloud computing solutions in the financial sector and recent robust earnings reports. Analyst tone remains optimistic with upward price momentum supporting a bullish outlook, though no major near-term catalysts are evident.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"cloud computing growth\", \"financial sector demand\", \"strong earnings\", \"market expansion\", \"technical momentum\"],\n  \"summary\": \"Beeks Financial Cloud Group PLC (BKS) shows a positive sentiment driven by strong demand for cloud computing solutions in the financial sector and recent robust earnings reports. Analyst tone remains optimistic with upward price momentum supporting a bullish outlook, though no major near-term catalysts are evident.\"\n}"
+  "summary": "$BKS is the utility token for Backstage Global, a Web3 platform focused on event ticketing, travel, and fan rewards. Sentiment is positive due to strong buyback execution powered by real event sales, teaser for a major upcoming artist announcement, frequent VIP concert giveaways (e.g. Ricky Martin, Antonis Remos in Istanbul), and active trading competitions. While the micro-cap token (~$0.0025, market cap $1.5-2.6M) shows high volatility with double-digit daily swings, the community highlights growing utility and engagement as supportive of longer-term optimism.[[1]](https://coinmarketcap.com/currencies/backstage/)[[2]](https://www.coingecko.com/en/coins/backstage)",
+  "sources": "15+ recent X posts (April 2026), CoinMarketCap, CoinGecko, Yahoo Finance, Kraken price data for $BKS crypto, Web searches on Backstage Global and $BKS token activity"
 }

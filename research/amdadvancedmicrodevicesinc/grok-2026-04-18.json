@@ -1,0 +1,45 @@
+{
+  "ticker": "AMD",
+  "company": "AMD - Advanced Micro Devices Inc",
+  "generatedAt": "2026-04-18T22:00:13.845Z",
+  "score": 52,
+  "signal": "positive",
+  "key_themes": [
+    "AI/data center momentum with Meta/OpenAI shipments and EPYC demand",
+    "Analyst upgrades, raised targets, and bullish 2026-2027 estimates",
+    "High valuation premium and Nvidia competition as ongoing risks"
+  ],
+  "sources_checked": [
+    "AMD Investor Relations earnings releases",
+    "MarketBeat/Yahoo Finance analyst consensus",
+    "Seeking Alpha and Forbes commentary",
+    "X semantic/keyword searches"
+  ],
+  "summary": "AMD reported strong Q4 2025 earnings beats with record revenue of $10.3B and non-GAAP EPS of $1.53, guiding Q1 2026 to ~$9.8B while highlighting accelerating AI GPU scaling and EPYC CPU demand exceeding expectations. Analyst sentiment is broadly bullish with a Moderate Buy consensus, multiple upgrades, and price targets centered around $280-300 amid optimism on MI450 series, agentic AI CPU opportunities, and partnerships with Meta, OpenAI and others. The biggest risk is Nvidia's continued dominance in high-end AI accelerators combined with AMD's elevated valuation (P/E ~80-100x), which could trigger volatility on any execution shortfall or slower market share gains.",
+  "recent_posts": [
+    {
+      "source": "X @allday_stocks",
+      "date": "Apr 17, 2026",
+      "sentiment": "bullish",
+      "highlight": "Wolfe raises long-term AI outlook for AMD to $74B revenue / $12.63 EPS in CY27 on META demand, first GPU shipments to OpenAI/META, notes client segment as drag"
+    },
+    {
+      "source": "X @wallstengine",
+      "date": "Mar 30, 2026",
+      "sentiment": "bullish",
+      "highlight": "Aletheia Capital reiterates Buy with $330 PT; sees AMD with two growth engines (server CPU + MI GPU), forecasting data center revenue growing 4.5x to $58-77B by 2027-28"
+    },
+    {
+      "source": "X @HyperTechInvest",
+      "date": "Mar 3, 2026",
+      "sentiment": "positive",
+      "highlight": "Lisa Su states CPU demand exceeding already bullish expectations, CPU performance for AI workloads surprising hyperscalers, supply tightness, hints at 20%+ CPU growth"
+    },
+    {
+      "source": "X @ChartingCycles",
+      "date": "Apr 18, 2026",
+      "sentiment": "mixed",
+      "highlight": "Lists $AMD with bearish L2 technical signal (80% win rate for downside in historical data), part of broader set of daily bearish chart indicators"
+    }
+  ]
+}

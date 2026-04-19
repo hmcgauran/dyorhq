@@ -1,13 +1,14 @@
 {
-  "score": 42,
-  "signal": "negative",
+  "score": 69,
+  "rawScore": 38,
+  "signal": "positive",
   "key_themes": [
-    "weak earnings",
-    "market competition",
-    "economic headwinds",
-    "share price decline",
-    "limited catalysts"
+    "International expansion in India as top growth priority",
+    "EV/BEV transition supported by increased French government electrification spending",
+    "Attractive valuation with analyst consensus price targets €39–45 (current ~€32.5)",
+    "Technical rebound and breakout from bearish trend",
+    "High dividend yield (~6.8–7%) amid margin pressures"
   ],
-  "summary": "Rhi Office Group PLC (RNO) exhibits a negative sentiment due to recent underwhelming earnings reports and heightened competition in the office supplies sector. Analyst tone remains cautious, with price momentum showing a downward trend and no significant near-term catalysts to drive recovery.",
-  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"weak earnings\", \"market competition\", \"economic headwinds\", \"share price decline\", \"limited catalysts\"],\n  \"summary\": \"Rhi Office Group PLC (RNO) exhibits a negative sentiment due to recent underwhelming earnings reports and heightened competition in the office supplies sector. Analyst tone remains cautious, with price momentum showing a downward trend and no significant near-term catalysts to drive recovery.\"\n}"
+  "summary": "Renault SA (RNO.PA) is attracting renewed investor attention with strategic moves into high-growth markets like India ('futuREady India' initiative and CEO prioritization) and supportive French government plans to double annual electrification investment to €10 billion by 2030.[[1]](https://finance.yahoo.com/quote/RNO.PA/)[[2]](https://x.com/Emil_M_Hansen/status/2044763732677472589)[[3]](https://x.com/byul_finance/status/2044143859643613403) The stock rose over 3% on April 17 to ~€32.52 but remains down YTD and well below its 52-week high, trading at a notable discount to average analyst targets of €39–45 with buy-tilt ratings.[[1]](https://finance.yahoo.com/quote/RNO.PA/)[[4]](https://capital.com/en-int/analysis/renault-stock-forecast)[[5]](https://www.tradingview.com/symbols/EURONEXT-RNO/forecast/) While 2026 margin outlook is muted amid EV pricing pressure and a negative TTM EPS, the combination of growth initiatives, government tailwinds, technical improvement, and high dividend yield supports mildly positive sentiment.[[6]](https://global.morningstar.com/en-eu/stocks/renault-earnings-muted-2026-outlook-signals-ongoing-margin-pressure-shares-undervalued)",
+  "sources": "15+ recent X posts (keyword & semantic search), 12+ news & analysis articles (Yahoo Finance, Morningstar, Bloomberg, TradingView, MarketScreener), Analyst consensus data (price targets and ratings)"
 }

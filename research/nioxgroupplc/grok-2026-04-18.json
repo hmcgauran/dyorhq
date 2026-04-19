@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 83,
+  "rawScore": 65,
   "signal": "positive",
   "key_themes": [
-    "strong quarterly results",
-    "growing asthma diagnostics demand",
-    "strategic partnerships",
-    "stock price recovery",
-    "potential regulatory approvals"
+    "Strong FY2025 results with 17% revenue growth to £48.7m and 21% Adj. EBITDA growth",
+    "Increased dividend, robust cash position (£19.9m net cash), and high FCF yield",
+    "Product innovation (NIOX PRO, home-use development) and market expansion (US, Japan reimbursement +45%)",
+    "Razor-and-blade business model with growing installed base and test volumes",
+    "Potential for buybacks, tender offers, or M&A due to tax loss carryforwards and strong balance sheet"
   ],
-  "summary": "NIOX Group PLC shows a positive sentiment with a score of 45, driven by strong recent quarterly results and growing demand for asthma diagnostics. Analyst tone remains cautiously optimistic, with price momentum showing recovery and potential catalysts like regulatory approvals on the horizon.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong quarterly results\", \"growing asthma diagnostics demand\", \"strategic partnerships\", \"stock price recovery\", \"potential regulatory approvals\"],\n  \"summary\": \"NIOX Group PLC shows a positive sentiment with a score of 45, driven by strong recent quarterly results and growing demand for asthma diagnostics. Analyst tone remains cautiously optimistic, with price momentum showing recovery and potential catalysts like regulatory approvals on the horizon.\"\n}"
+  "summary": "NIOX Group (NIOX.L), the medical device company specializing in FeNO testing for asthma and COPD, reported strong full-year 2025 results with revenue up 17% to £48.7 million, adjusted EBITDA up 21% to £16.7 million, higher profits, and an increased final dividend.[[1]](https://x.com/tradingfloorai/status/2036342617533780168)[[2]](https://x.com/always_invest/status/2036414000473281004) Trading has started well in 2026 with positive Japan reimbursement changes and US commercial expansion. Investor discussions highlight the attractive ~6% FCF yield, debt-free balance sheet with substantial cash, consistent growth, and potential shareholder returns or acquisition appeal due to tax attributes, though some note range-bound share price performance near 56-57p (off 52-week highs).[[3]](https://uk.finance.yahoo.com/quote/NIOX.L/history?p=NIOX.L)[[4]](https://x.com/PerpetualValue/status/2036399772253176226) Overall sentiment remains positive, underpinned by operational execution and a compelling razor-and-blade recurring revenue model.",
+  "sources": "10+ web news articles and RNS announcements (LSE, TipRanks, company reports on FY results, director option exercises, April 2026), ~10 relevant investor X posts discussing March 2026 results, LSE share chat threads and Yahoo Finance/Morningstar coverage"
 }

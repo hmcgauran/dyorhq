@@ -1,0 +1,6 @@
+{
+  "ticker": "NVDA",
+  "error": "FINRA 404: { \"statusCode\" : 404, \"statusDescription\" : \"Resource Not Found\", \"message\": \"Invalid resource. Check path or other request details.\", \"requestId\" : \"d8b8d083-a670-48ce-9c56-842ef8183e31\"}",
+  "fetchedAt": "2026-04-19T16:10:55.110Z",
+  "storedAt": "2026-04-19T16:10:55.111Z"
+}

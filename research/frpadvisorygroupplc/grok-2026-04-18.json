@@ -1,12 +1,14 @@
 {
-  "score": 66,
-  "signal": "positive",
+  "score": 53,
+  "rawScore": 5,
+  "signal": "neutral",
   "key_themes": [
-    "strong earnings",
-    "market confidence",
-    "sector growth",
-    "dividend stability"
+    "Strategic Altman Logistics acquisition and 1.6M sqft development pipeline",
+    "Sharp occupancy decline and NOI drag in Commercial & Industrial portfolio",
+    "Strong, high-margin performance from Mining & Royalty segment",
+    "Significantly higher G&A expenses during integration/transition year",
+    "Flat 2026 NOI guidance reflecting intentional near-term investment"
   ],
-  "summary": "FRP Advisory Group PLC shows a positive sentiment with a score of 45, driven by recent strong earnings reports and growing confidence in the advisory sector. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like increased demand for restructuring services.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"market confidence\", \"sector growth\", \"dividend stability\"],\n  \"summary\": \"FRP Advisory Group PLC shows a positive sentiment with a score of 45, driven by recent strong earnings reports and growing confidence in the advisory sector. Analyst tone remains cautiously optimistic, supported by steady price momentum and potential near-term catalysts like increased demand for restructuring services.\"\n}"
+  "summary": "FRP Holdings (FRPH) reported weak 2025 results with net income down ~48% YoY, driven by acquisition/integration costs for the Altman Logistics platform, elevated G&A, and a steep drop in C&I occupancy (to ~47.5%). Management is positioning the company for long-term growth through in-house merchant building and a large logistics pipeline, supported by resilient mining royalties, but 2026 guidance shows essentially flat NOI ($37.1–37.7M) and a ~45% jump in G&A as they invest in the platform. Sentiment is neutral: investors appear to acknowledge the strategic pivot but are cautious on near-term leasing execution, vacancy absorption, and margin pressure in a transition year. The stock has been relatively stable (YTD +2.15%, 1-yr +17%) with limited retail discussion on X.",
+  "sources": "10+ recent news articles and press releases (Yahoo Finance, Seeking Alpha, company filings, ACCESS Newswire), 15+ X posts (primarily earnings summaries and AI analysis with low organic engagement)"
 }

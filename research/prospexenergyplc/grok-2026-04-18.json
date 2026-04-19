@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 79,
+  "rawScore": 58,
   "signal": "positive",
   "key_themes": [
-    "operational progress",
-    "energy sector tailwinds",
-    "UK gas assets",
-    "share price recovery",
-    "funding updates"
+    "Polish onshore gas exploration licence awards and European expansion",
+    "Cash generation from producing assets (Viura, Selva, El Romeral)",
+    "Significant analyst/broker valuation upside (targets ~21p-40p vs current ~3.25p)",
+    "New CEO, investor presentations, and oversubscribed funding",
+    "Undervalued micro-cap in supportive natural gas market"
   ],
-  "summary": "Prospex Energy PLC (PXEN) shows a positive sentiment with a score of 45, driven by recent operational updates on its UK gas projects and a recovering share price supported by broader energy sector strength. While analyst tone remains cautiously optimistic, potential near-term catalysts include funding announcements or production milestones.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"operational progress\", \"energy sector tailwinds\", \"UK gas assets\", \"share price recovery\", \"funding updates\"],\n  \"summary\": \"Prospex Energy PLC (PXEN) shows a positive sentiment with a score of 45, driven by recent operational updates on its UK gas projects and a recovering share price supported by broader energy sector strength. While analyst tone remains cautiously optimistic, potential near-term catalysts include funding announcements or production milestones.\"\n}"
+  "summary": "Prospex Energy (PXEN.L), an AIM-listed European gas/power investment company with assets in Spain, Italy, and new Polish licences, is generating positive sentiment. Recent developments include the San licence award (April 1 2026), oversubscribed CLN funding, resumed production contributing hundreds of thousands in monthly cash, and well-attended investor presentations under new CEO Tom Reynolds. At a ~£14M market cap and share price near 3.25p (as of mid-April 2026), the stock shows strong YTD/1-yr outperformance with broker targets implying 6-10x upside, though it faces typical micro-cap volatility and some technical sell signals.[[1]](https://finance.yahoo.com/quote/PXEN.L/)[[2]](https://www.londonstockexchange.com/stock/PXEN/prospex-energy-plc/analysis)[[1]](https://finance.yahoo.com/quote/PXEN.L/)",
+  "sources": "8+ recent RNS/news items (LSE, Yahoo Finance, ADVFN, HL.co.uk; Mar-Apr 2026), 10+ relevant X posts (primarily Mar 25-Apr 5 2026), Yahoo Finance analyst data (Strong Buy bias, 21p target)"
 }

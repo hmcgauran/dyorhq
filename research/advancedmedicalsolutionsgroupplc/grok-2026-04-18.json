@@ -1,13 +1,46 @@
 {
-  "score": 66,
+  "ticker": "AMS",
+  "company": "Advanced Medical Solutions Group plc",
+  "generatedAt": "2026-04-18T22:02:23.979Z",
+  "score": 55,
   "signal": "positive",
   "key_themes": [
-    "strong earnings",
-    "innovation pipeline",
-    "market expansion",
-    "analyst optimism",
-    "share price growth"
+    "Record 29% revenue growth (£229m) with 10% organic and full-year Peters Surgical contribution",
+    "Margin dilution (adj. PBT -1.8pp to 14.8%) from acquisition mix, restructuring, and tariffs offset by strong cash flow (+67%) and synergies",
+    "Bullish analyst consensus (Buy ratings, 270-300p targets implying 20-35% upside), positive outlook with R&D pipeline and 2026 guidance in line with expectations"
   ],
-  "summary": "Advanced Medical Solutions Group plc (AMS) exhibits a positive sentiment driven by recent strong earnings reports and optimism from analysts regarding its innovation in wound care and surgical products. Price momentum has been upward with consistent gains, and potential near-term catalysts include new product launches and expansion into emerging markets.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong earnings\", \"innovation pipeline\", \"market expansion\", \"analyst optimism\", \"share price growth\"],\n  \"summary\": \"Advanced Medical Solutions Group plc (AMS) exhibits a positive sentiment driven by recent strong earnings reports and optimism from analysts regarding its innovation in wound care and surgical products. Price momentum has been upward with consistent gains, and potential near-term catalysts include new product launches and expansion into emerging markets.\"\n}"
+  "sources_checked": [
+    "AMS preliminary results & IR site (Mar 2026)",
+    "MarketBeat / Berenberg / consensus analyst notes",
+    "Investors Chronicle",
+    "Yahoo Finance / Simply Wall St",
+    "X semantic & keyword searches"
+  ],
+  "summary": "AMS delivered strong FY2025 results with record revenue up 29% to £228.9m (10% organic constant currency growth in the legacy business plus Peters Surgical), adjusted EPS +12%, reported profit before tax +81%, robust cash generation that reduced net debt, and a 10% dividend increase. Integration of the acquisition is progressing well with commercial synergies already visible and £10m+ annual operational benefits targeted from 2027; the R&D pipeline has multiple approvals lined up for 2026-27 supporting further Surgical strength and Woundcare recovery.[[1]](https://admedsol.com/regulatory-news-announcements/7921351/)[[2]](https://admedsol.com/investor-relations/financial-highlights/)[[3]](https://www.investorschronicle.co.uk/content/7427af7b-5820-4f2a-81d1-de07c4e302d9) Analysts maintain Buy ratings with targets well above the recent ~220p share price, but the biggest risk is sustained or slower-than-expected margin recovery given dilution from lower-margin acquired assets, restructuring costs, inventory normalization, US tariffs, and currency effects.[[4]](https://www.marketbeat.com/instant-alerts/advanced-medical-solutions-group-lonams-stock-price-passes-below-200-day-moving-average-heres-what-happened-2026-04-03/)",
+  "recent_posts": [
+    {
+      "source": "AMS Preliminary Results RNS",
+      "date": "Mar 18, 2026",
+      "sentiment": "positive",
+      "highlight": "Record sales, strong organic growth in Surgical (+35%) and Woundcare recovery (+9%), confident in delivering 2026 consensus (£245m revenue, £55m adj EBITDA), synergies on track"
+    },
+    {
+      "source": "MarketBeat / Berenberg",
+      "date": "Apr 2026",
+      "sentiment": "positive",
+      "highlight": "Consensus Buy rating with ~274p target; Berenberg Buy at 300p (significant upside from current levels); shares reacted positively to results and dividend hike"
+    },
+    {
+      "source": "Investors Chronicle",
+      "date": "Mar 18, 2026",
+      "sentiment": "positive",
+      "highlight": "Notes 'better quality growth' post-acquisition integration and rising dividend; market reaction positive"
+    },
+    {
+      "source": "Simply Wall St / Yahoo Finance",
+      "date": "Recent 2026",
+      "sentiment": "mixed",
+      "highlight": "Shares potentially 50% below intrinsic value but 'returns on capital signal tricky times ahead' given low ROE (~4%) and margin pressure"
+    }
+  ]
 }

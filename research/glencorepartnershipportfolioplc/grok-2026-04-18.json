@@ -1,13 +1,14 @@
 {
-  "score": 42,
-  "signal": "negative",
+  "score": 88,
+  "rawScore": 75,
+  "signal": "positive",
   "key_themes": [
-    "commodity price volatility",
-    "regulatory scrutiny",
-    "debt concerns",
-    "market uncertainty",
-    "dividend policy"
+    "Strong quarterly gold production (82,723 oz in March 2026) and sales with YTD on or above guidance",
+    "Significant cash buildup to $1.2 billion with zero debt and robust free cash flow",
+    "Benefiting from elevated gold prices and rapid growth to a top-tier ASX gold producer",
+    "Positive investor sentiment around management competence, resource expansion (Telfer/Havieron), and price targets (850p+)",
+    "Mixed analyst views (Citi Buy, recent Macquarie Hold) but dominant bullish narrative on X and forums"
   ],
-  "summary": "GGP (Glencore Partnership Portfolio PLC) faces a negative sentiment due to recent commodity price volatility and ongoing regulatory scrutiny impacting investor confidence. Analyst tone remains cautious, with price momentum showing a slight downward trend and no significant near-term catalysts to drive recovery.",
-  "raw": "{\n  \"score\": -20,\n  \"signal\": \"negative\",\n  \"key_themes\": [\"commodity price volatility\", \"regulatory scrutiny\", \"debt concerns\", \"market uncertainty\", \"dividend policy\"],\n  \"summary\": \"GGP (Glencore Partnership Portfolio PLC) faces a negative sentiment due to recent commodity price volatility and ongoing regulatory scrutiny impacting investor confidence. Analyst tone remains cautious, with price momentum showing a slight downward trend and no significant near-term catalysts to drive recovery.\"\n}"
+  "summary": "Greatland Resources (GGP.L / GGP.AX), a gold and copper producer with key assets at Telfer and Havieron, is generating strongly positive financial sentiment following its March 2026 quarter update showing 82,723 oz gold produced, 4,128 t copper, sales exceeding production, and cash rising $260M to $1.208 billion while remaining debt-free.[[1]](https://finance.yahoo.com/markets/commodities/articles/greatland-resources-14-lifts-cash-100005924.html)[[2]](https://www.investegate.co.uk/announcement/rns/greatland-gold--ggp/march-2026-quarter-production-update/9509909) Investors highlight its transformation into the third-largest gold producer on the ASX in just over a year, strong FCF run-rate, and resource growth in a high gold price environment.[[3]](https://x.com/Share_Talk/status/2045476270985625617) X posts and investor discussions are enthusiastic about “stellar progress,” competent management, and further upside, with the share price recently running toward its 52-week high near 800p despite a Macquarie downgrade to Hold.[[4]](https://www.cnbc.com/quotes/GGP-GB)[[4]](https://www.cnbc.com/quotes/GGP-GB)",
+  "sources": "10+ recent news articles and RNS on production updates and analyst notes, 15+ relevant X posts (April 2026, focused on $GGP/#GGP, production, cash, MD interviews), LSE.co.uk share chat, ADVFN discussions, Yahoo Finance community, TipRanks analyst summaries, company announcements on ASX/AIM"
 }

@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 81,
+  "rawScore": 62,
   "signal": "positive",
   "key_themes": [
-    "strong financials",
-    "dividend growth",
-    "biotech innovation",
-    "market stability",
-    "limited near-term catalysts"
+    "Recent insider buying by Chairman and directors (multiple PDMR transactions in April 2026, including ~£39k by Peter Harrison)",
+    "Five-fold increase in Tau/neuro royalties to £150k driven by Alzheimer's disease research assays",
+    "High dividend yield (~8%) with interim dividend maintained at 70p despite modest H1 revenue/PBT decline",
+    "Stable core antibody business, strong cash position (£5.3m), and full-year trading in line with expectations",
+    "Mixed longer-term shareholder returns and stock pullback from highs, offset by institutional ownership and high margins"
   ],
-  "summary": "Bioventix PLC (BVXP) shows a positive sentiment driven by strong recent financial performance and consistent dividend growth, though limited near-term catalysts temper enthusiasm. Analyst tone remains cautiously optimistic, with steady price momentum reflecting market confidence in the biotech sector.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong financials\", \"dividend growth\", \"biotech innovation\", \"market stability\", \"limited near-term catalysts\"],\n  \"summary\": \"Bioventix PLC (BVXP) shows a positive sentiment driven by strong recent financial performance and consistent dividend growth, though limited near-term catalysts temper enthusiasm. Analyst tone remains cautiously optimistic, with steady price momentum reflecting market confidence in the biotech sector.\"\n}"
+  "summary": "Bioventix, a UK developer of high-affinity monoclonal antibodies for clinical diagnostics, shows positive sentiment driven by repeated director share purchases in April 2026 and strong growth in its neuro/Tau royalty stream linked to Alzheimer's applications. H1 2026 results (ended Dec 2025) showed a modest revenue decline to £6.16m and PBT of £4.85m due to FX effects, but constant-currency figures were stable-to-up, cash rose slightly, the interim dividend was held, and the company expressed confidence in meeting full-year expectations. With robust profitability, an attractive ~8% yield, and insider buying signals, the stock appeals to income and long-term investors despite its retreat from 52-week highs near £30.",
+  "sources": "10+ news/articles (Yahoo Finance, LSE/RNS, company announcements, Simply Wall St, MarketBeat), ~5-8 relevant recent X posts (primarily director buy mentions and small-cap discussions)"
 }

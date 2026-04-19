@@ -1,0 +1,40 @@
+{
+  "ticker": "AIG",
+  "company": "AIG - American International Group Inc (AIG)",
+  "generatedAt": "2026-04-18T21:41:39.751Z",
+  "score": 45,
+  "signal": "positive",
+  "key_themes": [
+    "Strong 2025 earnings beats with 43% adj. EPS growth and record underwriting income",
+    "Successful repositioning, ROE target beat, Fitch upgrades, and robust capital returns",
+    "CEO succession announcement triggered selloff and YTD price weakness",
+    "Hold consensus from analysts with moderate ~10-11% upside to ~$87 targets"
+  ],
+  "sources_checked": [
+    "AIG Investor Relations / Earnings Releases / Annual Report",
+    "Yahoo Finance (news, ratings, performance)",
+    "MarketBeat / Chartmill / analyst aggregates",
+    "X keyword and semantic searches"
+  ],
+  "summary": "AIG delivered excellent FY 2025 results with adjusted after-tax income per share up 43% to $7.09, underwriting income rising 22% to over $2.3 billion (first time above $2B since 2008 excluding divestitures), improved combined ratios, 11.1% ROE exceeding targets, and $6.8 billion returned to shareholders.[[1]](https://www.aig.com/home/investor-relations/aig-2025-annual-report)[[2]](https://finance.yahoo.com/news/american-international-group-inc-aig-210308507.html)[[3]](https://www.marketbeat.com/stocks/NYSE/AIG/earnings/) This reflects a successful multi-year turnaround with positive 2026 guidance on premium growth. Offsetting factors include a ~7% stock drop in January on CEO Peter Zaffino’s planned transition (to Executive Chair with new CEO from Aon), recent price action off December 2025 highs near $87 down to ~$78-79, a Q4 revenue miss, and predominantly Hold/Neutral analyst ratings.[[4]](https://finance.yahoo.com/quote/AIG/)[[5]](https://www.marketbeat.com/stocks/NYSE/AIG/chart/)[[6]](https://finance.yahoo.com/news/why-aig-aig-shares-getting-200616366.html) The biggest risk is leadership transition uncertainty plus exposure to insurance market cycles, catastrophes, interest rates, and economic conditions.",
+  "recent_posts": [
+    {
+      "source": "X",
+      "date": "2026-04-17",
+      "sentiment": "positive",
+      "highlight": "$AIG flagged in algorithmic scan for crossing bullish trend EMAs and monthly S/R levels on multiple timeframes."
+    },
+    {
+      "source": "Yahoo Finance / News",
+      "date": "early 2026",
+      "sentiment": "negative",
+      "highlight": "Shares dropped sharply (~7%) on announcement of long-time CEO Peter Zaffino transitioning; investors appeared unhappy with leadership change timing."
+    },
+    {
+      "source": "Analyst commentary (Mizuho / aggregates)",
+      "date": "2026-04-13",
+      "sentiment": "neutral",
+      "highlight": "Mizuho maintains Neutral, slightly lowers target to $84; overall consensus Hold with average target ~$87 from current ~$79 levels."
+    }
+  ]
+}

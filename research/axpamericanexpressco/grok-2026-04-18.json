@@ -1,0 +1,46 @@
+{
+  "ticker": "AXP",
+  "company": "AXP - American Express Co",
+  "generatedAt": "2026-04-18T22:07:19.684Z",
+  "score": 48,
+  "signal": "positive",
+  "key_themes": [
+    "Solid 2026 EPS/revenue guidance with expected Q1 beat",
+    "AI initiatives, Hypercard acquisition, and new headquarters driving growth narrative",
+    "YTD stock recovery amid premium customer resilience, offset by regulatory noise and insider selling"
+  ],
+  "sources_checked": [
+    "Yahoo Finance",
+    "MarketBeat",
+    "Motley Fool",
+    "Company IR",
+    "X/Twitter semantic & keyword search"
+  ],
+  "summary": "American Express enters its April 23, 2026 Q1 earnings with consensus expectations for ~10%+ EPS and revenue growth, solid 2026 guidance ($17.30–$17.90 EPS), and positive strategic moves including an AI startup acquisition (Hypercard) and new World Trade Center headquarters.[[1]](https://finance.yahoo.com/quote/AXP/)[[2]](https://finance.yahoo.com/markets/stocks/articles/american-express-axp-earnings-expected-140007447.html)[[3]](https://www.marketbeat.com/instant-alerts/american-express-axp-expected-to-announce-earnings-on-thursday-2026-04-16/) The stock has recovered to ~$332 (YTD positive as of mid-April) after earlier weakness, with analysts maintaining largely overweight views and an average price target near $356.[[1]](https://finance.yahoo.com/quote/AXP/)[[4]](https://www.marketwatch.com/investing/stock/axp/analystestimates) Biggest risk is regulatory/political pressure on credit card rates or fees (e.g., Trump comments), plus ongoing insider selling and macro sensitivity for premium spending.[[5]](https://www.marketbeat.com/stocks/NYSE/AXP/insider-trades/)[[6]](https://x.com/KobeissiLetter/status/2010715577254347076)",
+  "recent_posts": [
+    {
+      "source": "X (@KobeissiLetter)",
+      "date": "Jan 12, 2026",
+      "sentiment": "negative",
+      "highlight": "AXP falls -4% after Trump calls for 10% cap on credit card interest rates"
+    },
+    {
+      "source": "X (@oguzerkan)",
+      "date": "Jan 12, 2026",
+      "sentiment": "positive",
+      "highlight": "Warren Buffett praises Amex's special position; Berkshire owns ~22% and isn't selling on rate-cap noise"
+    },
+    {
+      "source": "X (@wallstengine)",
+      "date": "Feb 23, 2026",
+      "sentiment": "negative",
+      "highlight": "AXP having its worst day since April 2025 amid AI displacement trade"
+    },
+    {
+      "source": "X (@JesseCohenInv & others)",
+      "date": "Apr 18, 2026",
+      "sentiment": "neutral",
+      "highlight": "Multiple posts highlight AXP as a key earnings release in a heavy week, with anticipation building"
+    }
+  ]
+}

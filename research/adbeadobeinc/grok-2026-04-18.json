@@ -1,0 +1,45 @@
+{
+  "ticker": "ADBE",
+  "company": "ADBE - Adobe Inc",
+  "generatedAt": "2026-04-18T22:11:51.828Z",
+  "score": -45,
+  "signal": "negative",
+  "key_themes": [
+    "Q1 earnings beat with 12% revenue growth, EPS beat, and tripling AI ARR",
+    "CEO Shantanu Narayen transition announcement sparking multiple analyst downgrades",
+    "AI disruption fears from rivals like Canva, Figma, OpenAI/Anthropic driving sharp stock de-rating and bearish sentiment"
+  ],
+  "sources_checked": [
+    "Adobe Newsroom (earnings release)",
+    "Yahoo Finance / MarketBeat (analyst ratings & price targets)",
+    "Seeking Alpha & Futurum (commentary)",
+    "X semantic & keyword posts (investor sentiment)"
+  ],
+  "summary": "Adobe delivered strong Q1 FY2026 results on March 12 (revenue $6.40B +12% YoY, non-GAAP EPS $6.06 beating estimates, AI-first ARR more than tripling) and reaffirmed guidance, but the simultaneous announcement of longtime CEO Shantanu Narayen's planned transition overshadowed the positives and triggered downgrades (e.g. Barclays to Equal Weight, William Blair to Market Perform, Argus to Hold).[[1]](https://finance.yahoo.com/news/adobe-downgraded-nio-upgraded-wall-133931738.html)[[2]](https://futurumgroup.com/insights/adobe-q1-fy-2026-earnings-show-ai-monetization-progress-amid-ceo-transition/)[[3]](https://www.marketbeat.com/stocks/NASDAQ/ADBE/earnings/) The stock has fallen sharply to around $244 (down ~30% YTD and over longer periods), trading at depressed multiples (~10-14x forward) amid persistent fears of AI tools eroding its creative moat. The biggest risk is accelerating competitive threats and margin/ARR re-acceleration challenges in an AI-disrupted environment, leaving overall market sentiment net negative with a Hold consensus despite underlying growth.[[4]](https://finance.yahoo.com/quote/ADBE/history/)[[5]](https://www.trefis.com/stock/adbe/articles2/595618/how-adobe-stock-slipped-30/2026-04-02)",
+  "recent_posts": [
+    {
+      "source": "X/@QualCompounders",
+      "date": "Apr 12, 2026",
+      "sentiment": "bullish",
+      "highlight": "ADBE is the dog of the portfolio down 35% YTD on AI fears but trading at 9.8x forward PE; generational buy if it delivers numbers as fundamentals unchanged."
+    },
+    {
+      "source": "X/@OptionsAhoy",
+      "date": "Apr 12, 2026",
+      "sentiment": "bearish",
+      "highlight": "Wonder when Adobe is going to turn it around or is it in a constant death spiral? Down 36% past 12 months on AI fears."
+    },
+    {
+      "source": "X/@RealNickMugalli",
+      "date": "Apr 18, 2026",
+      "sentiment": "bearish",
+      "highlight": "People still buying $ADBE ... ? (in context of AI replacing coding/software layers and moats eroding)."
+    },
+    {
+      "source": "X/@BCalusinski",
+      "date": "Feb 11, 2026",
+      "sentiment": "bullish",
+      "highlight": "This is a steal — down 60% (2Y), trading 11.3x while posting record numbers; AI assists but doesn't replace professional tools."
+    }
+  ]
+}

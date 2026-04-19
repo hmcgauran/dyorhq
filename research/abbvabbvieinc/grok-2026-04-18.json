@@ -1,0 +1,46 @@
+{
+  "ticker": "ABBV",
+  "company": "ABBV - AbbVie Inc",
+  "generatedAt": "2026-04-18T22:09:07.626Z",
+  "score": 42,
+  "signal": "positive",
+  "key_themes": [
+    "Strong Skyrizi/Rinvoq growth driving revenue beats and offsetting Humira erosion",
+    "Recent 2026 EPS guidance cut from $744M IPR&D charge",
+    "Attractive valuation, high FCF/dividend yield (~3.3%), and moderate buy consensus"
+  ],
+  "sources_checked": [
+    "Yahoo Finance",
+    "Seeking Alpha",
+    "MarketBeat",
+    "AbbVie investor relations",
+    "X posts"
+  ],
+  "summary": "AbbVie continues to post earnings beats (Q4 2025 EPS $2.71 beat estimates; revenue +10% YoY) with Skyrizi and Rinvoq powering growth, robust FCF supporting its dividend aristocrat status (~3.3% yield), and analysts holding a Moderate Buy rating with ~$249 average target (implying ~20% upside from ~$208).[[1]](https://finance.yahoo.com/quote/ABBV/)[[1]](https://finance.yahoo.com/quote/ABBV/) However, the early-April 2026 cut to FY EPS guidance ($13.96–$14.16 from prior $14.37–$14.57) due to a large Q1 IPR&D expense, combined with ongoing Humira declines, rising competition in immunology (e.g. J&J oral therapies), and a high earnings bar, tempers momentum.[[2]](https://www.marketbeat.com/instant-alerts/abbvie-nyseabbv-issues-q1-2026-earnings-guidance-2026-04-09/)[[3]](https://www.investing.com/news/sec-filings/abbvie-reports-744-million-iprd-expense-for-q1-updates-2026-earnings-guidance-93CH-4597303)[[4]](https://www.stocktitan.net/sec-filings/ABBV/8-k-abb-vie-inc-reports-material-event-244b91cfdff9.html) Biggest risk is intensified competitive pressure on key growth drivers Skyrizi and Rinvoq alongside pipeline execution needs.[[5]](https://www.forbes.com/sites/greatspeculations/2026/03/19/buy-or-fear-abbvie-stock-at-210/)",
+  "recent_posts": [
+    {
+      "source": "X (@Alphaglaze)",
+      "date": "2026-04-13",
+      "sentiment": "positive",
+      "highlight": "High 3% yield, 54-year dividend streak, successful pivot to new drugs like Skyrizi"
+    },
+    {
+      "source": "Seeking Alpha",
+      "date": "2026-04-06",
+      "sentiment": "positive",
+      "highlight": "Buy rating; shares attractive on valuation and forward EPS growth despite 8% YTD decline and high 2026 bar"
+    },
+    {
+      "source": "X (@Londinia_IA)",
+      "date": "2026-04-17",
+      "sentiment": "negative",
+      "highlight": "Strongly bearish daily trend; price stagnating"
+    },
+    {
+      "source": "Yahoo Finance / Motley Fool",
+      "date": "April 2026",
+      "sentiment": "positive",
+      "highlight": "No-brainer stock to buy on the dip; highlighted in high-yield dividend lists"
+    }
+  ]
+}

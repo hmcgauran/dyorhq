@@ -1,13 +1,14 @@
 {
-  "score": 66,
+  "score": 83,
+  "rawScore": 65,
   "signal": "positive",
   "key_themes": [
-    "strong production",
-    "rising zinc prices",
-    "China operations risk",
-    "analyst optimism",
-    "dividend potential"
+    "Operational progress including gold-only stopes and improved profitability expectations",
+    "Sustainability milestone with 100% renewable energy at Caijiaying mine",
+    "Major shareholder (Richard Griffiths) increasing stake to over 21%",
+    "Frequent coverage as undervalued UK value stock with growth in returns on capital",
+    "Positive analyst ratings and share price momentum"
   ],
-  "summary": "Griffin Mining Ltd (GFM) shows positive sentiment driven by strong production updates at its Caijiaying Mine and favorable zinc price trends, though risks tied to operations in China persist. Analyst tone remains cautiously optimistic, with price momentum showing steady gains and potential for dividend announcements as a near-term catalyst.",
-  "raw": "{\n  \"score\": 45,\n  \"signal\": \"positive\",\n  \"key_themes\": [\"strong production\", \"rising zinc prices\", \"China operations risk\", \"analyst optimism\", \"dividend potential\"],\n  \"summary\": \"Griffin Mining Ltd (GFM) shows positive sentiment driven by strong production updates at its Caijiaying Mine and favorable zinc price trends, though risks tied to operations in China persist. Analyst tone remains cautiously optimistic, with price momentum showing steady gains and potential for dividend announcements as a near-term catalyst.\"\n}"
+  "summary": "Griffin Mining (GFM.L), the AIM-listed zinc, gold, silver and lead producer operating the Caijiaying mine in China, is enjoying positive sentiment. Key drivers include the February 2026 announcement of first production from gold-only stopes (causing shares to climb), the March 2026 milestone of 100% renewable energy usage at the mine, expectations of improved profits, and a major TR1 filing in April showing investor Richard Griffiths increasing his holding to 21.04%. While some earlier insider sales and mixed earnings were noted, the company is repeatedly featured in 2026 coverage as undervalued with growing returns on capital and Buy ratings (e.g. Berenberg PT 300p).",
+  "sources": "15+ news articles and RNS announcements (Yahoo Finance, Investegate, ADVFN, Proactive), Multiple relevant X posts (production updates, TR1 filings, podcasts), Active UK investor forum discussion (ADVFN share chat with 80k+ historical posts)"
 }
