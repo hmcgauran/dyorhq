@@ -1,0 +1,1772 @@
+{
+  "NVDA": {
+    "ticker": "NVDA",
+    "slug": "nvidiacorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/nvidiacorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "fetchedAt": "2026-04-19T11:38:04.063Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "AAPL": {
+    "ticker": "AAPL",
+    "slug": "aaplappleinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/aaplappleinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+    "fetchedAt": "2026-04-19T11:38:16.096Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MMM": {
+    "ticker": "MMM",
+    "slug": "mmm3mco",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/mmm3mco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/66740/000006674026000014/mmm-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:23.320Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ABT": {
+    "ticker": "ABT",
+    "slug": "abtabbottlaboratories",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/abtabbottlaboratories/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026010185/abt-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:24.215Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ABBV": {
+    "ticker": "ABBV",
+    "slug": "abbvabbvieinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/abbvabbvieinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:25.126Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ACN": {
+    "ticker": "ACN",
+    "slug": "acnaccentureplc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/acnaccentureplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000217/acn-20250831.htm",
+    "fetchedAt": "2026-04-19T11:41:26.937Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ADNT": {
+    "ticker": "ADNT",
+    "slug": "adntadientplc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/adntadientplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1670541/000167054125000152/adnt-20250930.htm",
+    "fetchedAt": "2026-04-19T11:41:27.966Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ADBE": {
+    "ticker": "ADBE",
+    "slug": "adbeadobeinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/adbeadobeinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/adbe-20251128.htm",
+    "fetchedAt": "2026-04-19T11:41:28.895Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "AMS": {
+    "ticker": "AMS",
+    "slug": "advancedmedicalsolutionsgroupplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/advancedmedicalsolutionsgroupplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/744825/000143774926010731/asha20251231_10k.htm",
+    "fetchedAt": "2026-04-19T11:41:30.636Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "AMD": {
+    "ticker": "AMD",
+    "slug": "amdadvancedmicrodevicesinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/amdadvancedmicrodevicesinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+    "fetchedAt": "2026-04-19T11:41:31.542Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ACI": {
+    "ticker": "ACI",
+    "slug": "acialbertsonscompaniesinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/acialbertsonscompaniesinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1646972/000164697225000052/aci-20250222.htm",
+    "fetchedAt": "2026-04-19T11:41:33.196Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ALK": {
+    "ticker": "ALK",
+    "slug": "alkalkemycapitalinvestmentsplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/alkalkemycapitalinvestmentsplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/766421/000076642126000010/alk-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:34.871Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ALKS": {
+    "ticker": "ALKS",
+    "slug": "alksalkermesplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/alksalkermesplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1520262/000119312526068925/alks-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:35.821Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ALLE": {
+    "ticker": "ALLE",
+    "slug": "alleallegionplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/alleallegionplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000007/alle-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:36.676Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ALL": {
+    "ticker": "ALL",
+    "slug": "allallstatecorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/allallstatecorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:37.670Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "GOOGL": {
+    "ticker": "GOOGL",
+    "slug": "alphabetincclassa",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/alphabetincclassa/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:38.529Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "GOOG": {
+    "ticker": "GOOG",
+    "slug": "alphabetincclasscgoog",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/alphabetincclasscgoog/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:39.393Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MO": {
+    "ticker": "MO",
+    "slug": "moaltriagroupinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/moaltriagroupinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418026000017/mo-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:40.293Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "AMRN": {
+    "ticker": "AMRN",
+    "slug": "amrnamarincorporationplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/amrnamarincorporationplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/897448/000119312526085818/amrn-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:41.279Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "AMZN": {
+    "ticker": "AMZN",
+    "slug": "amznamazoncominc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/amznamazoncominc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:42.125Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "AXP": {
+    "ticker": "AXP",
+    "slug": "axpamericanexpressco",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/axpamericanexpressco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000080/axp-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:43.064Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "AIG": {
+    "ticker": "AIG",
+    "slug": "aigamericaninternationalgroupincaig",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/aigamericaninternationalgroupincaig/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/5272/000000527226000023/aig-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:44.243Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "AMGN": {
+    "ticker": "AMGN",
+    "slug": "amgnamgeninc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/amgnamgeninc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000010/amgn-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:45.162Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "APTV": {
+    "ticker": "APTV",
+    "slug": "aptvaptivplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/aptvaptivplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000009/aptv-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:46.041Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ADM": {
+    "ticker": "ADM",
+    "slug": "admarcherdanielsmidlandco",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/admarcherdanielsmidlandco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/7084/000000708426000011/adm-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:47.822Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ANET": {
+    "ticker": "ANET",
+    "slug": "anetaristanetworksinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/anetaristanetworksinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000013/anet-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:49.516Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ASTS": {
+    "ticker": "ASTS",
+    "slug": "astsastspacemobileinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/astsastspacemobileinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1780312/000178031226000006/asts-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:50.482Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "T": {
+    "ticker": "T",
+    "slug": "tattinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/tattinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/t-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:51.410Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "BAC": {
+    "ticker": "BAC",
+    "slug": "bacbankofamericacorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/bacbankofamericacorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:52.872Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "BK": {
+    "ticker": "BK",
+    "slug": "bkbankofnewyorkmelloncorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/bkbankofnewyorkmelloncorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000033/bk-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:53.897Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "BLK": {
+    "ticker": "BLK",
+    "slug": "blkblackrockinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/blkblackrockinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:55.023Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "BA": {
+    "ticker": "BA",
+    "slug": "baboeingco",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/baboeingco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:55.877Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "BKNG": {
+    "ticker": "BKNG",
+    "slug": "bkngbookingholdingsinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/bkngbookingholdingsinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/bkng-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:56.734Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "BMY": {
+    "ticker": "BMY",
+    "slug": "bmybristolmyerssquibbco",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/bmybristolmyerssquibbco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000004/bmy-20251231.htm",
+    "fetchedAt": "2026-04-19T11:41:58.433Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "AVGO": {
+    "ticker": "AVGO",
+    "slug": "avgobroadcominc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/avgobroadcominc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm",
+    "fetchedAt": "2026-04-19T11:41:59.284Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "BUR": {
+    "ticker": "BUR",
+    "slug": "burfordcapitallimited",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/burfordcapitallimited/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1714174/000171417426000007/bur-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:00.178Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "BWXT": {
+    "ticker": "BWXT",
+    "slug": "bwxtbwxtechnologiesinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/bwxtbwxtechnologiesinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1486957/000148695726000007/bwxt-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:01.026Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "COF": {
+    "ticker": "COF",
+    "slug": "cofcapitalonefinancialcorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/cofcapitalonefinancialcorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/927628/000092762826000024/cof-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:02.789Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CAH": {
+    "ticker": "CAH",
+    "slug": "cahcardinalhealthinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/cahcardinalhealthinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137125000079/cah-20250630.htm",
+    "fetchedAt": "2026-04-19T11:42:03.866Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CAT": {
+    "ticker": "CAT",
+    "slug": "catcaterpillarinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/catcaterpillarinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:04.778Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "COR": {
+    "ticker": "COR",
+    "slug": "corcencorainc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/corcencorainc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1140859/000114085925000131/cor-20250930.htm",
+    "fetchedAt": "2026-04-19T11:42:05.642Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CNC": {
+    "ticker": "CNC",
+    "slug": "cnccentenecorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/cnccentenecorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000049/cnc-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:06.512Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SCHW": {
+    "ticker": "SCHW",
+    "slug": "schwcharlesschwabcorporation",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/schwcharlesschwabcorporation/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:07.422Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CVX": {
+    "ticker": "CVX",
+    "slug": "cvxchevroncorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/cvxchevroncorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:09.157Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CI": {
+    "ticker": "CI",
+    "slug": "cicignagroup",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/cicignagroup/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000006/ci-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:10.145Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CMPR": {
+    "ticker": "CMPR",
+    "slug": "cmprcimpressplc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/cmprcimpressplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262976/000162828025039200/cmpr-20250630.htm",
+    "fetchedAt": "2026-04-19T11:42:11.000Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CSCO": {
+    "ticker": "CSCO",
+    "slug": "ciscosystemsinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/ciscosystemsinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm",
+    "fetchedAt": "2026-04-19T11:42:11.879Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "C": {
+    "ticker": "C",
+    "slug": "ccitigroupinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/ccitigroupinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000083100126000011/c-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:13.205Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "NET": {
+    "ticker": "NET",
+    "slug": "netcloudflareinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/netcloudflareinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000016/cloud-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:14.042Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "KO": {
+    "ticker": "KO",
+    "slug": "cocacolaconyseko",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/cocacolaconyseko/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:14.954Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CL": {
+    "ticker": "CL",
+    "slug": "clcolgatepalmoliveco",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/clcolgatepalmoliveco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/21665/000002166526000006/cl-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:15.909Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CMCSA": {
+    "ticker": "CMCSA",
+    "slug": "cmcsacomcastcorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/cmcsacomcastcorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:16.779Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "COP": {
+    "ticker": "COP",
+    "slug": "conocophillips",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/conocophillips/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000116316526000009/cop-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:17.693Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "COST": {
+    "ticker": "COST",
+    "slug": "costcostcowholesalecorp",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/costcostcowholesalecorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm",
+    "fetchedAt": "2026-04-19T11:42:18.523Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CRH": {
+    "ticker": "CRH",
+    "slug": "crhcrhplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/crhcrhplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/849395/000162828026009043/crh-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:19.421Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CRWD": {
+    "ticker": "CRWD",
+    "slug": "crwdcrowdstrikeholdingsinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/crwdcrowdstrikeholdingsinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000010/crwd-20260131.htm",
+    "fetchedAt": "2026-04-19T11:42:20.349Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CRIS": {
+    "ticker": "CRIS",
+    "slug": "criscurisinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/criscurisinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1108205/000110820526000043/cris-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:21.181Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CVS": {
+    "ticker": "CVS",
+    "slug": "cvscvshealthcorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/cvscvshealthcorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/cvs-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:22.124Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "DHR": {
+    "ticker": "DHR",
+    "slug": "dhrdanahercorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/dhrdanahercorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/dhr-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:23.012Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "DE": {
+    "ticker": "DE",
+    "slug": "dedeerecompany",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/dedeerecompany/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/de-20251102x10k.htm",
+    "fetchedAt": "2026-04-19T11:42:24.028Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "DELL": {
+    "ticker": "DELL",
+    "slug": "delldelltechnologiesinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/delldelltechnologiesinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000008/dell-20260130.htm",
+    "fetchedAt": "2026-04-19T11:42:24.980Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "DAL": {
+    "ticker": "DAL",
+    "slug": "daldeltaairlinesincdal",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/daldeltaairlinesincdal/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/dal-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:25.841Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "DOLE": {
+    "ticker": "DOLE",
+    "slug": "doledoleplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/doledoleplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1857475/000185747526000028/dole-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:26.872Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "DOW": {
+    "ticker": "DOW",
+    "slug": "dowdowincdow",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/dowdowincdow/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1751788/000175178826000018/dow-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:27.866Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "DUK": {
+    "ticker": "DUK",
+    "slug": "dukdukeenergycorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/dukdukeenergycorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000014/duk-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:29.009Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "QBTS": {
+    "ticker": "QBTS",
+    "slug": "dwavequantuminc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/dwavequantuminc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000026/qbts-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:29.863Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ETN": {
+    "ticker": "ETN",
+    "slug": "etneatoncorporationplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/etneatoncorporationplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:30.720Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ELV": {
+    "ticker": "ELV",
+    "slug": "elvelevancehealthinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/elvelevancehealthinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000013/elv-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:31.675Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "LLY": {
+    "ticker": "LLY",
+    "slug": "llyelilillyandcompany",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/llyelilillyandcompany/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:32.523Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "EMR": {
+    "ticker": "EMR",
+    "slug": "emremersonelectricco",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/emremersonelectricco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260425000087/emr-20250930.htm",
+    "fetchedAt": "2026-04-19T11:42:33.368Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ET": {
+    "ticker": "ET",
+    "slug": "etenergytransferlp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/etenergytransferlp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1276187/000127618726000013/et-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:34.276Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "EPD": {
+    "ticker": "EPD",
+    "slug": "epdenterpriseproductspartnerslpepd",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/epdenterpriseproductspartnerslpepd/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1061219/000106121926000006/epd-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:35.185Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "XOM": {
+    "ticker": "XOM",
+    "slug": "xomexxonmobilcorporation",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/xomexxonmobilcorporation/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:36.130Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "FFAI": {
+    "ticker": "FFAI",
+    "slug": "ffaifaradayfutureintelligentelectricinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/ffaifaradayfutureintelligentelectricinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1805521/000162828026022509/ffie-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:37.009Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "FDX": {
+    "ticker": "FDX",
+    "slug": "fdxfedexcorporation",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/fdxfedexcorporation/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/fdx-20250531.htm",
+    "fetchedAt": "2026-04-19T11:42:37.919Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "FLUT": {
+    "ticker": "FLUT",
+    "slug": "flutflutterentertainmentplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/flutflutterentertainmentplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1635327/000163532726000005/flut-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:38.805Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "F": {
+    "ticker": "F",
+    "slug": "ffordmotorcompany",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/ffordmotorcompany/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799626000015/f-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:39.693Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "FTNT": {
+    "ticker": "FTNT",
+    "slug": "ftntfortinetinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/ftntfortinetinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000007/ftnt-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:40.518Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "GD": {
+    "ticker": "GD",
+    "slug": "gdgeneraldynamicscorporation",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/gdgeneraldynamicscorporation/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/40533/000004053326000006/gd-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:41.374Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "GE": {
+    "ticker": "GE",
+    "slug": "gegeneralelectriccompany",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/gegeneralelectriccompany/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:42.235Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "GM": {
+    "ticker": "GM",
+    "slug": "gmgeneralmotorscompany",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/gmgeneralmotorscompany/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000013/gm-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:43.135Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "GEV": {
+    "ticker": "GEV",
+    "slug": "gevgevernovainc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/gevgevernovainc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:44.071Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "GILD": {
+    "ticker": "GILD",
+    "slug": "gildgileadsciencesinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/gildgileadsciencesinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209526000006/gild-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:45.717Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "GS": {
+    "ticker": "GS",
+    "slug": "gsgoldmansachsgroupinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/gsgoldmansachsgroupinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:46.743Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "HCA": {
+    "ticker": "HCA",
+    "slug": "hcahcahealthcareinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/hcahcahealthcareinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/860730/000119312526044769/hca-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:47.670Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "HD": {
+    "ticker": "HD",
+    "slug": "hdhomedepotinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/hdhomedepotinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm",
+    "fetchedAt": "2026-04-19T11:42:48.496Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "HON": {
+    "ticker": "HON",
+    "slug": "honhoneywellinternationalinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/honhoneywellinternationalinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/773840/000077384026000013/hon-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:49.395Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "HUM": {
+    "ticker": "HUM",
+    "slug": "humhumanainc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/humhumanainc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000009/hum-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:50.281Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "IBM": {
+    "ticker": "IBM",
+    "slug": "ibmibmcommonstock",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/ibmibmcommonstock/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:51.896Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "IR": {
+    "ticker": "IR",
+    "slug": "iringersollrandinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/iringersollrandinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699150/000162828026008617/iri-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:53.538Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "INTC": {
+    "ticker": "INTC",
+    "slug": "intcintelcorporation",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/intcintelcorporation/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+    "fetchedAt": "2026-04-19T11:42:54.395Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "INTU": {
+    "ticker": "INTU",
+    "slug": "intuintuitinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/intuintuitinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000035/intu-20250731.htm",
+    "fetchedAt": "2026-04-19T11:42:55.251Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ISRG": {
+    "ticker": "ISRG",
+    "slug": "isrgintuitivesurgicalinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/isrgintuitivesurgicalinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526726000010/isrg-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:56.116Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "IONQ": {
+    "ticker": "IONQ",
+    "slug": "ionqionqinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/ionqionqinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1824920/000119312526071562/ionq-20251231.htm",
+    "fetchedAt": "2026-04-19T11:42:57.041Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "IREN": {
+    "ticker": "IREN",
+    "slug": "irenirenltd",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/irenirenltd/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884825000063/iren-20250630.htm",
+    "fetchedAt": "2026-04-19T11:42:57.953Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ITRMF": {
+    "ticker": "ITRMF",
+    "slug": "itrmfiterumtherapeuticsplc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/itrmfiterumtherapeuticsplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1659323/000095017025015857/itrm-20241231.htm",
+    "fetchedAt": "2026-04-19T11:42:58.982Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "JAZZ": {
+    "ticker": "JAZZ",
+    "slug": "jazzjazzpharmaceuticalsplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/jazzjazzpharmaceuticalsplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1232524/000123252426000013/jazz-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:01.177Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "JCI": {
+    "ticker": "JCI",
+    "slug": "jcijohnsoncontrolsinternationalplc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/jcijohnsoncontrolsinternationalplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344425000097/jci-20250930.htm",
+    "fetchedAt": "2026-04-19T11:43:03.814Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "JNJ": {
+    "ticker": "JNJ",
+    "slug": "jnjjohnsonjohnson",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/jnjjohnsonjohnson/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+    "fetchedAt": "2026-04-19T11:43:04.745Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "JPM": {
+    "ticker": "JPM",
+    "slug": "jpmjpmorganchaseco",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/jpmjpmorganchaseco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:06.048Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "KR": {
+    "ticker": "KR",
+    "slug": "krkrogerco",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/krkrogerco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926037723/kr-20260131x10k.htm",
+    "fetchedAt": "2026-04-19T11:43:07.067Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "LRCX": {
+    "ticker": "LRCX",
+    "slug": "lrcxlamresearchcorporation",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/lrcxlamresearchcorporation/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm",
+    "fetchedAt": "2026-04-19T11:43:07.919Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "LPTH": {
+    "ticker": "LPTH",
+    "slug": "lightpathtechnologiesinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/lightpathtechnologiesinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/889971/000165495425011130/lpth_10k.htm",
+    "fetchedAt": "2026-04-19T11:43:09.536Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "LIN": {
+    "ticker": "LIN",
+    "slug": "linlindeplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/linlindeplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1707925/000162828026011430/lin-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:10.522Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "LMT": {
+    "ticker": "LMT",
+    "slug": "lmtlockheedmartincorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/lmtlockheedmartincorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026004195/lmt-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:11.373Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "LOW": {
+    "ticker": "LOW",
+    "slug": "lowlowescompaniesinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/lowlowescompaniesinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000029/low-20260130.htm",
+    "fetchedAt": "2026-04-19T11:43:12.218Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MPC": {
+    "ticker": "MPC",
+    "slug": "mpcmarathonpetroleumcorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/mpcmarathonpetroleumcorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000009/mpc-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:14.073Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MA": {
+    "ticker": "MA",
+    "slug": "mamastercardinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/mamastercardinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:14.962Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MCD": {
+    "ticker": "MCD",
+    "slug": "mcdmcdonaldscorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/mcdmcdonaldscorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:15.801Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MCK": {
+    "ticker": "MCK",
+    "slug": "mckmckessoncorporation",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/mckmckessoncorporation/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/927653/000092765325000036/mck-20250331.htm",
+    "fetchedAt": "2026-04-19T11:43:16.896Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MDT": {
+    "ticker": "MDT",
+    "slug": "mdtmedtronicplc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/mdtmedtronicplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310325000091/mdt-20250425.htm",
+    "fetchedAt": "2026-04-19T11:43:17.803Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MRK": {
+    "ticker": "MRK",
+    "slug": "mrkmerckcoinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/mrkmerckcoinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:18.699Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "META": {
+    "ticker": "META",
+    "slug": "metametaplatformsinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/metametaplatformsinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:19.631Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MET": {
+    "ticker": "MET",
+    "slug": "metmetlifeinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/metmetlifeinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000013/met-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:20.720Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MU": {
+    "ticker": "MU",
+    "slug": "mumicrontechnologyinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/mumicrontechnologyinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm",
+    "fetchedAt": "2026-04-19T11:43:21.643Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MSFT": {
+    "ticker": "MSFT",
+    "slug": "msftmicrosoftcorporation",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/msftmicrosoftcorporation/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm",
+    "fetchedAt": "2026-04-19T11:43:22.614Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MDLZ": {
+    "ticker": "MDLZ",
+    "slug": "mdlzmondelezinternationalinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/mdlzmondelezinternationalinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026005345/mdlz-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:23.563Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MS": {
+    "ticker": "MS",
+    "slug": "msmorganstanley",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/msmorganstanley/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000086/ms-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:24.827Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "NVTS": {
+    "ticker": "NVTS",
+    "slug": "nvtsnavitassemiconductorcorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/nvtsnavitassemiconductorcorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1821769/000182176926000007/nvts-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:25.676Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "NFLX": {
+    "ticker": "NFLX",
+    "slug": "nflxnetflixinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/nflxnetflixinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:26.555Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "NEE": {
+    "ticker": "NEE",
+    "slug": "neenexteraenergyinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/neenexteraenergyinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000015/nee-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:27.437Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "NKE": {
+    "ticker": "NKE",
+    "slug": "nkenikeinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/nkenikeinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm",
+    "fetchedAt": "2026-04-19T11:43:28.290Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "NOC": {
+    "ticker": "NOC",
+    "slug": "nocnorthropgrummancorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/nocnorthropgrummancorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:29.952Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SMR": {
+    "ticker": "SMR",
+    "slug": "smrnuscalepowercorporation",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/smrnuscalepowercorporation/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1822966/000182296626000018/smr-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:30.784Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "OKLO": {
+    "ticker": "OKLO",
+    "slug": "oklookloinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/oklookloinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026018698/oklo-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:31.600Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ORCL": {
+    "ticker": "ORCL",
+    "slug": "orcloraclecorp",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/orcloraclecorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm",
+    "fetchedAt": "2026-04-19T11:43:32.591Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PLTR": {
+    "ticker": "PLTR",
+    "slug": "pltrpalantirtechnologiesinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/pltrpalantirtechnologiesinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000011/pltr-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:33.445Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PANW": {
+    "ticker": "PANW",
+    "slug": "panwpaloaltonetworksinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/panwpaloaltonetworksinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000027/panw-20250731.htm",
+    "fetchedAt": "2026-04-19T11:43:34.290Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PEP": {
+    "ticker": "PEP",
+    "slug": "peppepsicoinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/peppepsicoinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm",
+    "fetchedAt": "2026-04-19T11:43:35.196Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PRGO": {
+    "ticker": "PRGO",
+    "slug": "prgoperrigocompanyplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/prgoperrigocompanyplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585364/000158536426000009/prgo-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:36.065Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PFE": {
+    "ticker": "PFE",
+    "slug": "pfepfizerinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/pfepfizerinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:36.957Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PM": {
+    "ticker": "PM",
+    "slug": "pmphilipmorrisinternationalinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/pmphilipmorrisinternationalinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026005939/pm-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:37.850Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PSX": {
+    "ticker": "PSX",
+    "slug": "psxphillips66",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/psxphillips66/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000006/psx-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:38.747Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PG": {
+    "ticker": "PG",
+    "slug": "pgproctergambleco",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/pgproctergambleco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm",
+    "fetchedAt": "2026-04-19T11:43:39.588Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PGR": {
+    "ticker": "PGR",
+    "slug": "pgrprogressivecorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/pgrprogressivecorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:40.451Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PRTA": {
+    "ticker": "PRTA",
+    "slug": "prtaprothenacorporationplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/prtaprothenacorporationplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1559053/000155905326000008/prta-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:41.293Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "PRU": {
+    "ticker": "PRU",
+    "slug": "pruprudentialfinancialinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/pruprudentialfinancialinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000048/pru-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:42.372Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "QCOM": {
+    "ticker": "QCOM",
+    "slug": "qcomqualcomminc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/qcomqualcomminc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm",
+    "fetchedAt": "2026-04-19T11:43:43.284Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "RGTI": {
+    "ticker": "RGTI",
+    "slug": "rgtirigetticomputinginc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/rgtirigetticomputinginc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1838359/000110465926023454/rgti-20251231x10k.htm",
+    "fetchedAt": "2026-04-19T11:43:44.126Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "RTX": {
+    "ticker": "RTX",
+    "slug": "rtxrtxcorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/rtxrtxcorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:45.020Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "CRM": {
+    "ticker": "CRM",
+    "slug": "crmsalesforceinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/crmsalesforceinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm",
+    "fetchedAt": "2026-04-19T11:43:46.621Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "STX": {
+    "ticker": "STX",
+    "slug": "stxseagatetechnologyholdingsplc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/stxseagatetechnologyholdingsplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778925000157/stx-20250627.htm",
+    "fetchedAt": "2026-04-19T11:43:47.453Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "NOW": {
+    "ticker": "NOW",
+    "slug": "nowservicenowinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/nowservicenowinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:48.298Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SPG": {
+    "ticker": "SPG",
+    "slug": "spgsimonpropertygroupinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/spgsimonpropertygroupinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000110465926019419/spg-20251231x10k.htm",
+    "fetchedAt": "2026-04-19T11:43:49.338Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SLP": {
+    "ticker": "SLP",
+    "slug": "slpsimulationsplusinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/slpsimulationsplusinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1023459/000102345925000060/simu-20250831.htm",
+    "fetchedAt": "2026-04-19T11:43:50.176Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SW": {
+    "ticker": "SW",
+    "slug": "swsmurfitwestrockplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/swsmurfitwestrockplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828026012555/smur-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:51.087Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SO": {
+    "ticker": "SO",
+    "slug": "sosoutherncompany",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/sosoutherncompany/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212226000006/so-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:52.186Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SPIR": {
+    "ticker": "SPIR",
+    "slug": "spirspireglobalinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/spirspireglobalinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526116169/spir-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:53.093Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SBUX": {
+    "ticker": "SBUX",
+    "slug": "sbuxstarbuckscorp",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/sbuxstarbuckscorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm",
+    "fetchedAt": "2026-04-19T11:43:53.948Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "STE": {
+    "ticker": "STE",
+    "slug": "stesterisplc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/stesterisplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1757898/000175789825000005/ste-20250331.htm",
+    "fetchedAt": "2026-04-19T11:43:54.901Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SNEX": {
+    "ticker": "SNEX",
+    "slug": "snexstonexgroupinc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/snexstonexgroupinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/913760/000091376025000196/intl-20250930.htm",
+    "fetchedAt": "2026-04-19T11:43:55.789Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SYY": {
+    "ticker": "SYY",
+    "slug": "syysyscocorp",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/syysyscocorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/96021/000009602125000099/syy-20250628.htm",
+    "fetchedAt": "2026-04-19T11:43:56.683Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "TBN": {
+    "ticker": "TBN",
+    "slug": "tamboranresourcescorp",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/tamboranresourcescorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1997652/000162828025042774/trc-20250630.htm",
+    "fetchedAt": "2026-04-19T11:43:57.526Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "TGT": {
+    "ticker": "TGT",
+    "slug": "tgttargetcorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/tgttargetcorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000016/tgt-20260131.htm",
+    "fetchedAt": "2026-04-19T11:43:58.376Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "TSLA": {
+    "ticker": "TSLA",
+    "slug": "tslateslainc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/tslateslainc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm",
+    "fetchedAt": "2026-04-19T11:43:59.359Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "TXN": {
+    "ticker": "TXN",
+    "slug": "txntexasinstrumentsinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/txntexasinstrumentsinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:00.187Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "TMO": {
+    "ticker": "TMO",
+    "slug": "tmothermofisherscientificinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/tmothermofisherscientificinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000018/tmo-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:01.050Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "TJX": {
+    "ticker": "TJX",
+    "slug": "tjxtjxcompaniesinctjx",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/tjxtjxcompaniesinctjx/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/tjx-20260131.htm",
+    "fetchedAt": "2026-04-19T11:44:01.904Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "TMUS": {
+    "ticker": "TMUS",
+    "slug": "tmustmobileusinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/tmustmobileusinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:02.821Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "TT": {
+    "ticker": "TT",
+    "slug": "tttranetechnologiesplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/tttranetechnologiesplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1466258/000162828026005731/tt-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:03.773Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "UBER": {
+    "ticker": "UBER",
+    "slug": "uberubertechnologiesinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/uberubertechnologiesinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:05.431Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "UNP": {
+    "ticker": "UNP",
+    "slug": "unpunionpacificcorporation",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/unpunionpacificcorporation/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/unp-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:06.332Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "UAL": {
+    "ticker": "UAL",
+    "slug": "ualunitedairlinesholdingsincual",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/ualunitedairlinesholdingsincual/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/100517/000010051726000023/ual-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:07.184Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "UNH": {
+    "ticker": "UNH",
+    "slug": "unhunitedhealthgroupinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/unhunitedhealthgroupinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:08.050Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "UPS": {
+    "ticker": "UPS",
+    "slug": "upsunitedparcelserviceinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/upsunitedparcelserviceinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000162828026008432/ups-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:09.049Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "USB": {
+    "ticker": "USB",
+    "slug": "usbusbancorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/usbusbancorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/36104/000003610426000011/usb-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:09.861Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "VLO": {
+    "ticker": "VLO",
+    "slug": "vlovaleroenergycorp",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/vlovaleroenergycorp/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026011499/vlo-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:10.741Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "VZ": {
+    "ticker": "VZ",
+    "slug": "vzverizoncommunicationsinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/vzverizoncommunicationsinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:11.615Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "SPCE": {
+    "ticker": "SPCE",
+    "slug": "spcevirgingalacticholdingsinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/spcevirgingalacticholdingsinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1706946/000170694626000019/spce-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:12.439Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "V": {
+    "ticker": "V",
+    "slug": "vvisainc",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/vvisainc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm",
+    "fetchedAt": "2026-04-19T11:44:13.307Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "WMT": {
+    "ticker": "WMT",
+    "slug": "wmtwalmartinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/wmtwalmartinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+    "fetchedAt": "2026-04-19T11:44:14.143Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "DIS": {
+    "ticker": "DIS",
+    "slug": "waltdisneyco",
+    "year": 2025,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/waltdisneyco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm",
+    "fetchedAt": "2026-04-19T11:44:15.195Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "WFC": {
+    "ticker": "WFC",
+    "slug": "wfcwellsfargoco",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/wfcwellsfargoco/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm",
+    "fetchedAt": "2026-04-19T11:44:16.006Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "YOU": {
+    "ticker": "YOU",
+    "slug": "yougovplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/yougovplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1856314/000185631426000006/you-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:16.833Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "ZYME": {
+    "ticker": "ZYME",
+    "slug": "zymezymeworksinc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/zymezymeworksinc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1937653/000193765326000015/zyme-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:17.685Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "AUTL": {
+    "ticker": "AUTL",
+    "slug": "autolustherapeuticsplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/autolustherapeuticsplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730463/000173046326000038/autl-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:18.537Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  },
+  "MSI": {
+    "ticker": "MSI",
+    "slug": "msinternationalplc",
+    "year": 2026,
+    "file": "/Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/research/msinternationalplc/10-K-2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000010/msi-20251231.htm",
+    "fetchedAt": "2026-04-19T11:44:20.353Z",
+    "source": "SEC EDGAR",
+    "status": "ok"
+  }
+}

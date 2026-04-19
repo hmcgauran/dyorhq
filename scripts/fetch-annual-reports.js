@@ -72,15 +72,10 @@ function cikToShort(cik) {
   return parseInt(cik, 10).toString();
 }
 
+let slugResolver;
 function slugFromTicker(ticker) {
-  // Use the existing research-slug resolver
-  try {
-    const resolver = require('./cron-scripts/lib/research-slug');
-    return resolver.fromTicker(ticker);
-  } catch (e) {
-    // Fallback
-    return ticker.toLowerCase().replace(/[^a-z0-9]/g, '');
-  }
+  if (!slugResolver) slugResolver = require('../cron-scripts/lib/research-slug');
+  return slugResolver.researchSlug(ticker);
 }
 
 function ensureResearchDir(slug) {
