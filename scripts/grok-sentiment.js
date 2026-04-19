@@ -58,14 +58,27 @@ async function withRetry(fn, context) {
 // ─────────────────────────────────────────────
 // Default prompt template for financial sentiment
 // ─────────────────────────────────────────────
-const DEFAULT_PROMPT = `You are a financial sentiment analyst. Search for recent news, social media posts, and investor discussion about {TICKER}.
+const DEFAULT_PROMPT = `You are a balanced investment analyst assessing market sentiment for {TICKER}. Search for recent news, earnings updates, analyst commentary, X/social posts, and investor discussion — actively looking for BOTH positive and negative signals.
+
+Score on a -100 to +100 scale where:
+  +70 to +100 = strong positive momentum: earnings beats, upgrades, major catalysts, broad bullish sentiment
+  +30 to +69  = net positive: more good news than bad, moderate optimism
+  -29 to +29  = mixed or neutral: positive and negative roughly balanced, or limited recent coverage
+  -30 to -69  = net negative: material concerns, downgrades, missed targets, or bearish sentiment
+  -70 to -100 = strongly negative: profit warnings, distress signals, heavy selling, or serious red flags
+
+Search for positive signals: earnings beats, revenue growth, new contracts, partnerships, analyst upgrades, strong guidance, positive product news, insider buying.
+Search for negative signals: profit warnings, revenue misses, margin compression, dilution, debt stress, downgrades, insider selling, regulatory risk, competitive threats, negative price action.
+
+Score 0 only if coverage is genuinely balanced or absent. Do not anchor to positive — if bad news exists, reflect it.
+
 Return a structured JSON response with this exact shape:
 {
   "score": number,        // -100 to +100 overall sentiment score
   "signal": string,      // "positive" | "neutral" | "negative"
-  "key_themes": string[],// 3-5 dominant themes driving sentiment
+  "key_themes": string[],// 3-5 dominant themes driving sentiment (include negative themes if present)
   "sources_checked": string[],// X post counts, news articles found
-  "summary": string,     // 2-3 sentence plain-English summary
+  "summary": string,     // 2-3 sentence plain-English summary; name the biggest risk if any
   "recent_posts": [{     // up to 5 notable X/social posts
     "source": string,
     "date": string,
@@ -81,8 +94,14 @@ Return a structured JSON response with this exact shape:
 async function grokChat(prompt, apiKey, tools) {
   return withRetry(async () => {
     return new Promise((resolve, reject) => {
+      // Model is configurable via GROK_MODEL env var.
+      // Default: grok-3-mini (cheap, fast, capable for structured JSON sentiment output).
+      // For highest-quality re-scores on specific tickers, set GROK_MODEL=grok-3 or grok-4.
+      // Never use a reasoning model (grok-*-reasoning) in batch pipelines — reasoning tokens
+      // are billed separately and cost 10-20x more for no benefit on a structured JSON task.
+      const model = process.env.GROK_MODEL || 'grok-3-mini';
       const body = JSON.stringify({
-        model: 'grok-4.20-reasoning',
+        model,
         input: [{ role: 'user', content: prompt }],
         tools: tools || [{ type: 'web_search' }, { type: 'x_search' }],
         stream: false,

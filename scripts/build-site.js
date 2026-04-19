@@ -209,6 +209,9 @@ function generateReportHtml(entry, dataPath) {
   const grokThemes = Array.isArray(grok.keyThemes) ? grok.keyThemes : [];
   const grokSummary = grok.summary || '';
 
+  const irUrl    = priceData.irUrl || null;
+  const pressUrl = priceData.pressReleasesUrl || null;
+
   const bullP = sc.bullProbability ?? 25;
   const bullS = sc.bullScore ?? 75;
   const baseP = sc.baseProbability ?? 55;
@@ -309,6 +312,7 @@ function generateReportHtml(entry, dataPath) {
 '      <section class="report-section"><h2>Who Should Own It / Avoid It</h2><p>' + whoOwn + '</p></section>\n' +
 '      <section class="report-section"><h2>Recommendation</h2><p>' + recText + '</p></section>\n' +
 '      <section class="report-section"><h2>Entry</h2>\n' + entryText + '</section>\n' +
+(irUrl ? ('      <section class="report-section"><h2>Key Resources</h2><p><a href="' + irUrl + '" target="_blank" rel="noopener"> Investor Relations</a>' + (pressUrl ? ' | <a href="' + pressUrl + '" target="_blank" rel="noopener">Press Releases</a>' : '') + '</p></section>\n') : '') +
 '      <section class="report-section conviction-history-section"><h2>Conviction Trend</h2><p class="conviction-history-summary">Latest conviction: <strong>' + calc + '/100</strong>. Trend versus prior report: <strong class="' + trendClass + '">' + trendLabel + '</strong>.</p><div class="conviction-history-chart">' + svgChart + '</div><table class="conviction-history-table"><thead><tr><th>Report date</th><th>Conviction</th></tr></thead><tbody>' + tableRows + '</tbody></table></section>\n' +
 '      <section class="report-section"><h2>Sources</h2>' + sourcesText + '<p><strong>Report date:</strong> Financial data is correct as of ' + date + '.</p></section>\n' +
 '    </div>\n' +
@@ -440,7 +444,7 @@ function injectConvictionGraph(html, ticker, history) {
     const headingClose = html.indexOf('</h2>', headingIdx);
     const sectionClose = html.indexOf('</section>', headingClose);
     const injection = '\n' + summary + '\n' + graphDiv + '\n';
-    return html.slice(0, headingClose + 5) + injection + html.slice(headingClose + 5, sectionClose) + html.slice(sectionClose);
+    return html.slice(0, headingClose + 5) + injection + html.slice(headingClose + 5);
   }
 
   // Case 2: no section at all — inject full section before Sources
@@ -485,6 +489,49 @@ for (const entry of canonicalIndex) {
 
   if (html !== original) {
     fs.writeFileSync(dest, html, 'utf8');
+  }
+
+  // ── IR URL injection ─────────────────────────────────────────────────────
+  // For reports with an irUrl in the data JSON, inject a Key Resources section.
+  // Read the data JSON fresh (entry object only has index fields).
+  const tickerRaw2 = entry.ticker.replace(/^(NYSE|NASDAQ|EPA|ASX|LON|LSE |FRA|CVE|BME|TSE|TSX):/i, '').toUpperCase();
+  const dataPath2 = path.join(DATA_DIR, tickerRaw2 + '.json');
+  if (fs.existsSync(dataPath2)) {
+    const d = JSON.parse(fs.readFileSync(dataPath2, 'utf8'));
+    const ir = d.price?.irUrl;
+    const pr = d.price?.pressReleasesUrl;
+    if (ir) {
+      let html3 = fs.readFileSync(dest, 'utf8');
+      // Inject before Sources heading if not already present
+      if (!/<h2[^>]*>Key Resources<\/h2>/i.test(html3)) {
+        // Find the Sources heading
+        const srcIdx2 = html3.indexOf('<h2>Sources</h2>');
+        if (srcIdx2 !== -1) {
+          // Walk FORWARD from the conv-hist div to find the </section> that closes
+          // the Entry section.  Any </section> after the conv div started belongs to
+          // the outer section (Entry or Recommendation), not the inner conv div.
+          const entryIdx = html3.search(/<h2[^>]*>Entry[^<]*<\/h2>/i);
+          const entryH2Close = html3.indexOf('</h2>', entryIdx);
+          const convDivStart = html3.indexOf('<div class="report-section conviction-history-section">');
+          let entrySectionCloseTag = -1;
+          let scan = convDivStart;
+          while (scan < html3.length) {
+            const nextClose = html3.indexOf('</section>', scan);
+            if (nextClose === -1) break;
+            // This close is after the conv div started — it belongs to the outer section
+            entrySectionCloseTag = nextClose;
+            break;
+          }
+          // Find the end of the naked conv-hist div so we inject AFTER it, not into it
+          const convDivEnd = html3.indexOf('</div>', convDivStart);
+          const injectAt = (convDivEnd !== -1 && convDivEnd < srcIdx2)
+            ? convDivEnd + 6   // after the closing </div>
+            : (entrySectionCloseTag !== -1 ? entrySectionCloseTag + 12 : srcIdx2);
+          const keyResSection = '<section class="report-section"><h2>Key Resources</h2><p><a href="' + ir + '" target="_blank" rel="noopener">Investor Relations</a>' + (pr ? ' | <a href="' + pr + '" target="_blank" rel="noopener">Press Releases</a>' : '') + '</p></section>\n';
+          fs.writeFileSync(dest, html3.slice(0, injectAt) + keyResSection + html3.slice(injectAt), 'utf8');
+        }
+      }
+    }
   }
 }
 
