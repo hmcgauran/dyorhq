@@ -173,10 +173,14 @@ async function checkTicker(ticker) {
   const grok = loadJson(grokFile);
   const grokOk = !!grok;
 
-  // 3. Web research
-  const webFile = path.join(researchDir, `web-${TODAY}.json`);
-  const web = loadJson(webFile);
-  const webOk = !!(web && (web.results || []).length > 0);
+  // 3. Web research — check for brave-web and duck-web files
+  const researchFiles = fs.existsSync(researchDir) ? fs.readdirSync(researchDir) : [];
+  const braveFile = researchFiles.filter(f => /^brave-web-.*\.json$/.test(f)).sort().at(-1);
+  const duckFile  = researchFiles.filter(f => /^duck-web-.*\.json$/.test(f)).sort().at(-1);
+  const braveWeb  = braveFile ? loadJson(path.join(researchDir, braveFile)) : null;
+  const duckWeb   = duckFile  ? loadJson(path.join(researchDir, duckFile))  : null;
+  const webOk     = !!(braveWeb && (braveWeb.queries || braveWeb.results || []).length > 0);
+  const duckOk    = !!(duckWeb  && (duckWeb.queries  || duckWeb.results  || []).length > 0);
 
   // 3b. FMP data (US tickers only)
   const isUS = isUSTicker(ticker);
@@ -209,9 +213,10 @@ async function checkTicker(ticker) {
 
   // Result
   const issues = [];
-  if (!price) issues.push('no_price');
-  if (!grokOk) issues.push('no_grok');
-  if (!webOk) issues.push('no_web');
+  if (!price)   issues.push('no_price');
+  if (!grokOk)  issues.push('no_grok');
+  if (!webOk)   issues.push('no_brave_web');
+  if (!duckOk)  issues.push('no_duck_web');
   // no_fmp: informational only — FMP legacy free tier discontinued Aug 2025
   if (!recCorrect) issues.push(`rec_${rec}_!=_${expectedRec}`);
   if (missingSections.length > 0) issues.push(`sections:${missingSections.join('+')}`);
@@ -222,9 +227,11 @@ async function checkTicker(ticker) {
     price,
     priceSource,
     grokOk,
-    grokScore: grok?.score ?? null,
+    grokScore:    grok?.score ?? null,
     webOk,
-    webResults: web ? (web.results || []).length : 0,
+    duckOk,
+    braveFile:    braveFile || null,
+    duckFile:     duckFile  || null,
     fmpOk,
     fmpMissing: isUS && !fmpOk,
     fmpPrice: fmpData?.price ?? null,

@@ -1,0 +1,19 @@
+{
+  "ticker": "TTMI",
+  "date": "2026-04-24",
+  "price": 132.98,
+  "marketCap": 13809042140,
+  "pe": null,
+  "eps": null,
+  "revenueTTM": null,
+  "grossMargin": null,
+  "week52High": null,
+  "week52Low": null,
+  "sharesOutstanding": 103843000,
+  "currency": "USD",
+  "exchange": "NASDAQ",
+  "company": "TTM Technologies, Inc.",
+  "sector": "Technology",
+  "industry": "Hardware, Equipment & Parts",
+  "beta": null
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "APD",
+  "company": "Air Products and Chemicals Inc",
+  "slug": "apd",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "APD Air Products and Chemicals Inc news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+
+
+node /Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/scripts/batch-web-research.js --ticker=MP --force
+
+node /Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/scripts/batch-edgar-filings.js --ticker=MP

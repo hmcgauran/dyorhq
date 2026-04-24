@@ -1,0 +1,30 @@
+{
+  "ticker": "PKE",
+  "company": "Park Aerospace Corp",
+  "slug": "parkaerospacecorp",
+  "date": "2026-04-20",
+  "queries": [
+    {
+      "query": "PKE Park Aerospace Corp earnings Q1 2026",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "PKE Park Aerospace Corp news April 2026",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "PKE Park Aerospace Corp stock analysis",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "PKE Park Aerospace Corp guidance 2026",
+      "error": "HTTP 402",
+      "hits": []
+    }
+  ],
+  "summary": "",
+  "gatheredAt": "2026-04-20T17:06:18.583Z"
+}

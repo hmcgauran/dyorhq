@@ -1,0 +1,14 @@
+{
+  "ticker": "RBC",
+  "company": "RBC Bearings Inc",
+  "slug": "rbc",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "RBC RBC Bearings Inc stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "LITE",
+  "company": "Lumentum Holdings Inc",
+  "slug": "gilatsatellitenetworksltd",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "LITE Lumentum Holdings Inc stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

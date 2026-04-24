@@ -78,7 +78,17 @@ function ensureDir(dirPath) {
 }
 
 function rmrf(targetPath) {
-  fs.rmSync(targetPath, { recursive: true, force: true });
+  try {
+    fs.rmSync(targetPath, { recursive: true, force: true });
+  } catch (e) {
+    if (e.code === 'EPERM' || e.code === 'EACCES') {
+      // Sandbox/mounted-filesystem restriction: writes allowed but deletes blocked.
+      // Proceed without clean wipe — build will overwrite files in place.
+      console.warn(`  [build] rmrf skipped (${e.code}) for ${targetPath} — will overwrite in place`);
+    } else {
+      throw e;
+    }
+  }
 }
 
 function copyRecursive(sourcePath, targetPath) {
@@ -122,7 +132,7 @@ function buildBrowserIndex(canonicalIndex) {
       recommendation: entry.recommendation || 'HOLD',
       company: entry.company,
       file: path.basename(entry.file || '', '.html'),
-      report_url: `/reports/${path.basename(entry.file, '.html')}`,
+      report_url: `/reports/${path.basename(entry.file || '', '.html')}`,
       conviction: entry.conviction,
       summary: entry.summary || '',
       date: entry.date || entry.datePublished || null,

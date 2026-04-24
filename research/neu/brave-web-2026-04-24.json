@@ -1,0 +1,14 @@
+{
+  "ticker": "NEU",
+  "company": "Newmarket Corp",
+  "slug": "neu",
+  "date": "2026-04-24",
+  "source": "brave",
+  "queries": [
+    {
+      "query": "NEU Newmarket Corp news",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    }
+  ]
+}

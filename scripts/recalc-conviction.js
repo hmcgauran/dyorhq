@@ -51,15 +51,15 @@ function httpsGet(url) {
 
 // ── Conviction formula (fixed) ─────────────────────────────────────────────────
 function calcConviction(ticker, grokScore, price, pe, marketCap) {
-  // Fixed formula: analyst-set defaults (88/68/38) produce a full range.
-  // Grok and valuation inputs shift probabilities, not scores.
-  // BUY (STRONG) 80+ requires Grok tailwind + favourable valuation.
-  // OPPORTUNISTIC BUY 50-64 requires neutral/bear signal or high P/E.
+  // Floor: (0.25×92)+(0.50×62)+(0.25×25) = 60.25 → OPPORTUNISTIC BUY (neutral starting point)
+  // Strong bull: Grok>70 + P/E<20 + smallcap → 75–82 → BUY to BUY STRONG
+  // Neutral: 58–65 → OPPORTUNISTIC BUY
+  // Negative: 38–50 → SPECULATIVE BUY
   const DEFAULT_BULL_S = 92;
-  const DEFAULT_BASE_S = 68;
+  const DEFAULT_BASE_S = 62;
   const DEFAULT_BEAR_S = 25;
   let bullS = DEFAULT_BULL_S, baseS = DEFAULT_BASE_S, bearS = DEFAULT_BEAR_S;
-  let bullP = 30, baseP = 50, bearP = 20; // base probabilities
+  let bullP = 25, baseP = 50, bearP = 25; // base probabilities — symmetric, no bullish tilt
 
   // P/E adjustment to probabilities
   if (pe) {
@@ -80,11 +80,11 @@ function calcConviction(ticker, grokScore, price, pe, marketCap) {
 
   // Grok signal adjustments to probabilities
   if (grokScore !== null) {
-    if (grokScore > 70) { bullP += 10; baseP += 4; bearP -= 14; }
-    else if (grokScore > 55) { bullP += 6; baseP += 2; bearP -= 8; }
+    if (grokScore > 70) { bullP += 20; baseP += 4; bearP -= 24; }
+    else if (grokScore > 55) { bullP += 10; baseP += 2; bearP -= 12; }
     else if (grokScore > 35) { bullP += 2; }
-    else if (grokScore < -30) { bearP += 14; bullP -= 10; baseP -= 4; }
-    else if (grokScore < -10) { bearP += 8; }
+    else if (grokScore < -30) { bearP += 24; bullP -= 20; baseP -= 4; }
+    else if (grokScore < -10) { bearP += 14; bullP -= 8; }
     else if (grokScore < 0) { bearP += 2; }
   }
 

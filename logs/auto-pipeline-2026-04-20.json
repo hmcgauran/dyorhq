@@ -1,0 +1,14 @@
+{
+  "runAt": "2026-04-20T00:00:00.000Z",
+  "status": "blocked",
+  "reason": "Pipeline requires gws CLI (Google Workspace Shell) to read the Google Sheet. gws is authenticated via Hugh's local macOS OAuth session and is not accessible from the Claude sandbox environment. Terminal access via computer-use was denied (user not present at machine to approve access dialog).",
+  "stepsCompleted": [],
+  "stepsBlocked": ["detect-new-tickers", "process-new-tickers", "pre-commit-check", "build", "push"],
+  "lastKnownState": {
+    "source": "state/new-tickers.json",
+    "generatedAt": "2026-04-18T08:29:03.325Z",
+    "sheetRows": 327,
+    "unmatchedCount": 0
+  },
+  "action": "No changes made. Run manually: bash /Users/hughmcgauran/.openclaw/workspace/projects/dyorhq-v4/scripts/run-auto-pipeline.sh"
+}

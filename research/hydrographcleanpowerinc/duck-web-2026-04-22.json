@@ -1,0 +1,30 @@
+{
+  "ticker": "OTCMKTS:HGRAF",
+  "company": "HydroGraph Clean Power Inc",
+  "slug": "hydrographcleanpowerinc",
+  "date": "2026-04-22",
+  "source": "duckduckgo",
+  "queries": [
+    {
+      "query": "OTCMKTS:HGRAF HydroGraph Clean Power Inc earnings results",
+      "hits": [],
+      "count": 0
+    },
+    {
+      "query": "OTCMKTS:HGRAF HydroGraph Clean Power Inc analyst price target",
+      "hits": [],
+      "count": 0
+    },
+    {
+      "query": "OTCMKTS:HGRAF HydroGraph Clean Power Inc news",
+      "error": "DDG HTTP 202",
+      "hits": []
+    },
+    {
+      "query": "OTCMKTS:HGRAF HydroGraph Clean Power Inc competitors competitive landscape",
+      "error": "DDG HTTP 202",
+      "hits": []
+    }
+  ],
+  "gatheredAt": "2026-04-22T13:59:22.454Z"
+}

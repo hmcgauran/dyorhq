@@ -1,7 +1,162 @@
 {
-  "generatedAt": "2026-04-18T08:29:03.325Z",
-  "sheetRows": 327,
-  "matchedCount": 327,
-  "unmatchedCount": 0,
-  "unmatched": []
+  "generatedAt": "2026-04-23T23:16:07.588Z",
+  "sourceNote": "Detected via cached sheet-latest.json (2026-04-22T13:58:29Z). gws CLI unavailable in sandbox; pipeline could not run on-machine. Full live run required on Hughs machine.",
+  "sheetRows": 372,
+  "matchedCount": 339,
+  "unmatchedCount": 33,
+  "unmatched": [
+    {
+      "row": 0,
+      "ticker": "MOG.A"
+    },
+    {
+      "row": 0,
+      "ticker": "RDW"
+    },
+    {
+      "row": 0,
+      "ticker": "RKLB"
+    },
+    {
+      "row": 0,
+      "ticker": "KTOS"
+    },
+    {
+      "row": 0,
+      "ticker": "FLY"
+    },
+    {
+      "row": 0,
+      "ticker": "VOYG"
+    },
+    {
+      "row": 0,
+      "ticker": "GILT"
+    },
+    {
+      "row": 0,
+      "ticker": "VSAT"
+    },
+    {
+      "row": 0,
+      "ticker": "GSAT"
+    },
+    {
+      "row": 0,
+      "ticker": "BKSY"
+    },
+    {
+      "row": 0,
+      "ticker": "IRDM"
+    },
+    {
+      "row": 0,
+      "ticker": "RBC"
+    },
+    {
+      "row": 0,
+      "ticker": "KRMN"
+    },
+    {
+      "row": 0,
+      "ticker": "TECK"
+    },
+    {
+      "row": 0,
+      "ticker": "FCX"
+    },
+    {
+      "row": 0,
+      "ticker": "CRS"
+    },
+    {
+      "row": 0,
+      "ticker": "MTRN"
+    },
+    {
+      "row": 0,
+      "ticker": "HXL"
+    },
+    {
+      "row": 0,
+      "ticker": "GLW"
+    },
+    {
+      "row": 0,
+      "ticker": "PKE"
+    },
+    {
+      "row": 0,
+      "ticker": "MCHP"
+    },
+    {
+      "row": 0,
+      "ticker": "QRVO"
+    },
+    {
+      "row": 0,
+      "ticker": "MRCY"
+    },
+    {
+      "row": 0,
+      "ticker": "TTMI"
+    },
+    {
+      "row": 0,
+      "ticker": "COHR"
+    },
+    {
+      "row": 0,
+      "ticker": "LITE"
+    },
+    {
+      "row": 0,
+      "ticker": "APD"
+    },
+    {
+      "row": 0,
+      "ticker": "NEU"
+    },
+    {
+      "row": 0,
+      "ticker": "GHM"
+    },
+    {
+      "row": 0,
+      "ticker": "MDA"
+    },
+    {
+      "row": 0,
+      "ticker": "LUNR"
+    },
+    {
+      "row": 0,
+      "ticker": "LON:KYGA",
+      "note": "Report exists as KRG / kerrygroupplc.html"
+    },
+    {
+      "row": 0,
+      "ticker": "XPEV",
+      "note": "Report exists as XPENG / xpengincadr.html"
+    }
+  ],
+  "alreadyIndexedElsewhere": [
+    {
+      "ticker": "OTCMKTS:HGRAF",
+      "indexedAs": "HGRAF",
+      "file": "hydrographcleanpowerinc.html"
+    },
+    {
+      "ticker": "LON:KYGA",
+      "indexedAs": "KRG",
+      "file": "kerrygroupplc.html",
+      "note": "Same company, different ticker in sheet vs index"
+    },
+    {
+      "ticker": "XPEV",
+      "indexedAs": "XPENG",
+      "file": "xpengincadr.html",
+      "note": "Same company, different ticker in sheet vs index"
+    }
+  ]
 }

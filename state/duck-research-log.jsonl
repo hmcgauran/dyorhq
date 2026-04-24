@@ -1,0 +1,8 @@
+{"ts":"2026-04-22T13:59:12.666Z","msg":"=== batch-duck-research.js | ticker=OTCMKTS:HGRAF | force=false ==="}
+{"ts":"2026-04-22T13:59:12.668Z","msg":"  363 tickers in snapshot"}
+{"ts":"2026-04-22T13:59:13.473Z","msg":"  [OTCMKTS:HGRAF] \"OTCMKTS:HGRAF HydroGraph Clean Power Inc earnings results\" → 0 results"}
+{"ts":"2026-04-22T13:59:16.333Z","msg":"  [OTCMKTS:HGRAF] \"OTCMKTS:HGRAF HydroGraph Clean Power Inc analyst price target\" → 0 results"}
+{"ts":"2026-04-22T13:59:18.393Z","msg":"  [OTCMKTS:HGRAF] \"OTCMKTS:HGRAF HydroGraph Clean Power Inc news\" → ERROR: DDG HTTP 202"}
+{"ts":"2026-04-22T13:59:20.452Z","msg":"  [OTCMKTS:HGRAF] \"OTCMKTS:HGRAF HydroGraph Clean Power Inc competitors competitive landscape\" → ERROR: DDG HTTP 202"}
+{"ts":"2026-04-22T13:59:22.455Z","msg":"  [OTCMKTS:HGRAF] duck-web-2026-04-22.json written (0/4 queries OK)"}
+{"ts":"2026-04-22T13:59:22.456Z","msg":"=== Done. ok=1 errors=0 ==="}

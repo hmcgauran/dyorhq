@@ -1,0 +1,14 @@
+{
+  "ticker": "KTOS",
+  "company": "Kratos Defense & Security Solutions Inc",
+  "slug": "ktos",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "KTOS Kratos Defense & Security Solutions Inc stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

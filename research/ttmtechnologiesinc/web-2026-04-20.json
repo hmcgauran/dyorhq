@@ -1,0 +1,30 @@
+{
+  "ticker": "TTMI",
+  "company": "TTM Technologies Inc",
+  "slug": "ttmtechnologiesinc",
+  "date": "2026-04-20",
+  "queries": [
+    {
+      "query": "TTMI TTM Technologies Inc earnings Q1 2026",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "TTMI TTM Technologies Inc news April 2026",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "TTMI TTM Technologies Inc stock analysis",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "TTMI TTM Technologies Inc guidance 2026",
+      "error": "HTTP 402",
+      "hits": []
+    }
+  ],
+  "summary": "",
+  "gatheredAt": "2026-04-20T17:08:08.163Z"
+}

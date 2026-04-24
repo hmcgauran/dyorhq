@@ -1,0 +1,29 @@
+{
+  "ticker": "MRCY",
+  "company": "Mercury Systems Inc",
+  "slug": "mrcy",
+  "date": "2026-04-24",
+  "source": "brave",
+  "queries": [
+    {
+      "query": "MRCY Mercury Systems Inc earnings news 2026-04-24",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "MRCY Mercury Systems Inc analyst outlook 2026",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "MRCY Mercury Systems Inc investment thesis risks",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "MRCY Mercury Systems Inc recent catalysts",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dyorhq.ai/</loc><lastmod>2026-04-22</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://dyorhq.ai/portfolio.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://dyorhq.ai/methodology.html</loc><lastmod>2026-04-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://dyorhq.ai/about.html</loc><lastmod>2026-04-22</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://dyorhq.ai/</loc><lastmod>2026-04-24</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dyorhq.ai/portfolio.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dyorhq.ai/methodology.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://dyorhq.ai/about.html</loc><lastmod>2026-04-24</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://dyorhq.ai/reports/mmm3mco.html</loc><lastmod>2026-04-18</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dyorhq.ai/reports/abtabbottlaboratories.html</loc><lastmod>2026-04-18</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dyorhq.ai/reports/abbvabbvieinc.html</loc><lastmod>2026-04-18</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -325,19 +325,52 @@
   <url><loc>https://dyorhq.ai/reports/vertumotorsplc.html</loc><lastmod>2026-04-18</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dyorhq.ai/reports/msinternationalplc.html</loc><lastmod>2026-04-18</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dyorhq.ai/reports/avactagroupplc.html</loc><lastmod>2026-04-18</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/kerrygroupplc.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/greatlandresourcesplc.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/mongodbinc.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/xpengincadr.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/kongsberggruppenasa.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/povalleyenergyltd.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/mcsaatchiplc.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/eeksfinancialcloudgroupplc.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/kongsberggoldasa.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/nuscalepowercorp.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/planetlabsinc.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/quadriseplc.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/youngcosbreweryplc.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://dyorhq.ai/reports/mpmaterialscorp.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/kerrygroupplc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/greatlandresourcesplc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/mongodbinc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/xpengincadr.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/kongsberggruppenasa.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/povalleyenergyltd.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/mcsaatchiplc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/eeksfinancialcloudgroupplc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/kongsberggoldasa.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/nuscalepowercorp.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/planetlabsinc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/quadriseplc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/youngcosbreweryplc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/mpmaterialscorp.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://dyorhq.ai/reports/hydrographcleanpowerinc.html</loc><lastmod>2026-04-22</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/rocketlabcorp.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/moga.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/rdw.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/ktos.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/fly.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/voyg.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/gilt.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/vsat.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/gsat.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/bksy.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/irdm.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/rbc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/krmn.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/teck.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/fcx.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/crs.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/mtrn.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/hxl.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/glw.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/pke.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/mchp.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/qrvo.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/mrcy.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/ttmi.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/cohr.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/gilatsatellitenetworksltd.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/apd.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/neu.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/ghm.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/mdaspaceltd.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/intuitivemachinesinc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/kerrygroupplc.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://dyorhq.ai/reports/xpengincadr.html</loc><lastmod>2026-04-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
 </urlset>

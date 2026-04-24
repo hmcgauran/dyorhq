@@ -1,0 +1,14 @@
+{
+  "ticker": "CRS",
+  "company": "Carpenter Technology Corp",
+  "slug": "crs",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "CRS Carpenter Technology Corp stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

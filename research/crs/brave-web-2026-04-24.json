@@ -1,0 +1,29 @@
+{
+  "ticker": "CRS",
+  "company": "Carpenter Technology Corp",
+  "slug": "crs",
+  "date": "2026-04-24",
+  "source": "brave",
+  "queries": [
+    {
+      "query": "CRS Carpenter Technology Corp earnings news 2026-04-24",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "CRS Carpenter Technology Corp analyst outlook 2026",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "CRS Carpenter Technology Corp investment thesis risks",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "CRS Carpenter Technology Corp recent catalysts",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    }
+  ]
+}

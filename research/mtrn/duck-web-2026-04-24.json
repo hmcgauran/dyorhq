@@ -1,0 +1,14 @@
+{
+  "ticker": "MTRN",
+  "company": "Materion Corp",
+  "slug": "mtrn",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "MTRN Materion Corp stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

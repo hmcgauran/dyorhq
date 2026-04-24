@@ -1,0 +1,14 @@
+{
+  "ticker": "VOYG",
+  "company": "Voyager Technologies Inc",
+  "slug": "voyg",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "VOYG Voyager Technologies Inc stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

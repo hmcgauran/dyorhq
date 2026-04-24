@@ -146,6 +146,10 @@ function rewriteHtmlWithVersion(srcPath, destPath, version) {
 for (const entry of canonicalIndex) {
   const src = path.join(REPORTS_DIR, entry.file);
   const dest = path.join(PUBLIC_REPORTS_DIR, entry.file);
+  if (!fs.existsSync(src)) {
+    // Missing source HTML — fall through to data-JSON generation section below
+    continue;
+  }
   rewriteHtmlWithVersion(src, dest, gitHash);
 }
 
@@ -333,9 +337,23 @@ for (const entry of canonicalIndex) {
   if (fs.existsSync(src)) continue; // source file exists — copy loop handles it
 
   // Derive ticker file name (strip exchange prefix)
-  const tickerRaw = entry.ticker.replace(PREFIX_RE, '').toUpperCase();
+  const tickerRaw = entry.ticker.replace(/^(NYSE|NASDAQ|EPA|ASX|LON|LSE |FRA|CVE|BME|TSE|TSX):/i, '').toUpperCase();
   const dataPath = path.join(DATA_DIR, tickerRaw + '.json');
-  if (!fs.existsSync(dataPath)) continue;
+  const hasData = fs.existsSync(dataPath);
+
+  if (!hasData) {
+    // No source HTML and no data JSON — generate a minimal placeholder from index metadata
+    const ticker = entry.ticker;
+    const company = entry.company || ticker;
+    const exchange = entry.exchange || '';
+    const isin = entry.isin || '';
+    const placeholderHtml = `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${company} — DYOR HQ</title><style>body{font-family:Inter,sans-serif;background:#0d0d0d;color:#f0f0f0;max-width:800px;margin:0 auto;padding:2rem}</style></head><body><h1>${company}</h1><p>Ticker: ${ticker}</p><p>Exchange: ${exchange}</p><p>ISIN: ${isin}</p><p class="footer-disclaimer" style="margin-top:2rem;color:#888;font-size:0.8rem">Research is for informational purposes only. Not financial advice.</p></body></html>`;
+    fs.writeFileSync(dest, placeholderHtml, 'utf8');
+    generatedCount++;
+    process.stdout.write(`  placeholder ${entry.file} (no data)
+`);
+    continue;
+  }
 
   // Stale check: regenerate if data file is newer than public HTML
   if (fs.existsSync(dest)) {

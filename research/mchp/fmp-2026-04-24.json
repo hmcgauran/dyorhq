@@ -1,0 +1,19 @@
+{
+  "ticker": "MCHP",
+  "date": "2026-04-24",
+  "price": 90.64,
+  "marketCap": 49048476400,
+  "pe": null,
+  "eps": null,
+  "revenueTTM": null,
+  "grossMargin": null,
+  "week52High": null,
+  "week52Low": null,
+  "sharesOutstanding": 541135000,
+  "currency": "USD",
+  "exchange": "NASDAQ",
+  "company": "Microchip Technology Incorporated",
+  "sector": "Technology",
+  "industry": "Semiconductors",
+  "beta": null
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "APD",
+  "date": "2026-04-24",
+  "price": 303.65,
+  "marketCap": 67609494400,
+  "pe": null,
+  "eps": null,
+  "revenueTTM": null,
+  "grossMargin": null,
+  "week52High": null,
+  "week52Low": null,
+  "sharesOutstanding": 222656000,
+  "currency": "USD",
+  "exchange": "NYSE",
+  "company": "Air Products and Chemicals, Inc.",
+  "sector": "Basic Materials",
+  "industry": "Chemicals - Specialty",
+  "beta": null
+}

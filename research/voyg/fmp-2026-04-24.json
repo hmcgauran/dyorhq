@@ -1,0 +1,19 @@
+{
+  "ticker": "VOYG",
+  "date": "2026-04-24",
+  "price": 30.12,
+  "marketCap": 1781549928,
+  "pe": null,
+  "eps": null,
+  "revenueTTM": null,
+  "grossMargin": null,
+  "week52High": null,
+  "week52Low": null,
+  "sharesOutstanding": 59148404,
+  "currency": "USD",
+  "exchange": "NYSE",
+  "company": "Voyager Technologies, Inc.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "beta": null
+}

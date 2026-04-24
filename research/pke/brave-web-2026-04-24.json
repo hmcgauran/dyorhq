@@ -1,0 +1,29 @@
+{
+  "ticker": "PKE",
+  "company": "Park Aerospace Corp",
+  "slug": "pke",
+  "date": "2026-04-24",
+  "source": "brave",
+  "queries": [
+    {
+      "query": "PKE Park Aerospace Corp earnings news 2026-04-24",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "PKE Park Aerospace Corp analyst outlook 2026",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "PKE Park Aerospace Corp investment thesis risks",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "PKE Park Aerospace Corp recent catalysts",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    }
+  ]
+}

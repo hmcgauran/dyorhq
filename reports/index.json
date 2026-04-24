@@ -22227,5 +22227,805 @@
       }
     ],
     "lastRefreshed": "2026-04-22"
+  },
+  {
+    "ticker": "RKLB",
+    "file": "rocketlabcorp.html",
+    "date": "2026-04-24",
+    "price": 84.6,
+    "conviction": 68,
+    "recommendation": "BUY",
+    "summary": "Rocket Lab is experiencing strong positive momentum from major government contracts, including an $816M satellite deal and a $190M hypersonic launch program, driving its backlog over $1.85B and prompting analyst upgrades to Strong Buy with price targets up to $120. Revenue growth is robust at 48% YoY in recent quarters, with Q1 2026 earnings anticipated to show continued expansion, though the company remains unprofitable with EPS estimates negative. The biggest risk is execution delays in the Neutron rocket program and potential share dilution from a $1B capital raise, amid a high valuation at 79x sales.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 48709888200,
+    "currency": "USD",
+    "company": "Rocket Lab Corp",
+    "exchange": "NASDAQ",
+    "isin": "US7731211089",
+    "slug": "rocketlabcorp.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 68
+      },
+      {
+        "date": "2026-04-24",
+        "conviction": 60
+      }
+    ]
+  },
+  {
+    "ticker": "MOG.A",
+    "file": "moga.html",
+    "date": "2026-04-24",
+    "price": 305.14,
+    "conviction": 75,
+    "recommendation": "BUY",
+    "summary": "Moog Inc. (MOG.A) demonstrated robust performance in Q1 2026 with a 21% revenue increase to $1.1 billion and EPS of $2.63, beating estimates and prompting raised full-year guidance to $4.3 billion in sales and $10.20 EPS. Analysts have upgraded price targets, citing strong aerospace and defense backlogs, though the stock trades at a premium and faces tariff-related margin risks. The biggest risk is persistent tariff headwinds potentially compressing profitability despite solid demand.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 9711028815,
+    "currency": "USD",
+    "company": "Moog Inc Class A",
+    "exchange": null,
+    "isin": "US6153942023",
+    "slug": "moga.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 75
+      }
+    ]
+  },
+  {
+    "ticker": "RDW",
+    "file": "rdw.html",
+    "date": "2026-04-24",
+    "price": 10.04,
+    "conviction": 61,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Redwire Corporation (RDW) shows net positive momentum driven by analyst upgrades, such as Truist to Buy with $15 target and Alliance Global raising to $15, alongside robust 2026 revenue guidance of $450-500M and recent contracts exceeding $20M from Navy/Marine Corps. Despite a significant Q4 2025 EPS miss (-$0.58 vs. -$0.18 expected) and ongoing cash flow negatives, the company's space infrastructure position and institutional buying outweigh concerns. The biggest risk is persistent unprofitability amid heavy investments in growth.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 1658116040,
+    "currency": "USD",
+    "company": "Redwire Corp",
+    "exchange": "NYSE",
+    "isin": "US75776W1036",
+    "slug": "rdw.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 61
+      }
+    ]
+  },
+  {
+    "ticker": "KTOS",
+    "file": "ktos.html",
+    "date": "2026-04-24",
+    "price": 65.52,
+    "conviction": 61,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Kratos Defense (KTOS) shows robust positive sentiment driven by a unanimous buy rating from analysts and an average price target of $117, well above the current ~$68 level, fueled by Q4 2025 revenue growth and hypersonics advancements. However, recent stock declines amid broader market weakness and tempered guidance raise short-term concerns. The biggest risk is execution on upcoming Q1 2026 earnings and potential defense budget fluctuations.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 12280020480,
+    "currency": "USD",
+    "company": "Kratos Defense & Security Solutions Inc",
+    "exchange": "NASDAQ",
+    "isin": "US50077B2079",
+    "slug": "ktos.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 61
+      }
+    ]
+  },
+  {
+    "ticker": "FLY",
+    "file": "fly.html",
+    "date": "2026-04-24",
+    "price": 38.54,
+    "conviction": 68,
+    "recommendation": "BUY",
+    "summary": "Firefly Aerospace (FLY) is riding strong momentum from its record 2025 revenue of $160M, up 163% YoY, fueled by launches, defense contracts, and the SciTec acquisition, with 2026 guidance projecting over 170% growth and a $1.4B backlog providing visibility. Analysts maintain a Moderate Buy rating with an average price target around $38, reflecting optimism on its orbital defense and lunar capabilities despite persistent losses exceeding $300M annually. The biggest risk is sustained cash burn and execution delays in high-stakes hypersonic and NASA programs, which could pressure margins in a competitive space sector.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 6164565496,
+    "currency": "USD",
+    "company": "Firefly Aerospace Inc",
+    "exchange": "NASDAQ",
+    "isin": "US31816X1063",
+    "slug": "fly.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 68
+      }
+    ]
+  },
+  {
+    "ticker": "VOYG",
+    "file": "voyg.html",
+    "date": "2026-04-24",
+    "price": 30.12,
+    "conviction": 61,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Voyager Technologies (VOYG) shows net positive sentiment fueled by a 26% stock rally in the past 30 days, driven by new NASA-related contracts, a growing $266M backlog, and multiple analyst buy ratings with an average price target of $39 (up ~30% from current ~$30). However, the company continues to report losses, with Q4 2025 EPS missing estimates slightly and full-year 2026 projections remaining negative at -$2.43. The biggest risk is persistent profitability challenges amid high R&D costs for space projects like Starlab.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 1781549928,
+    "currency": "USD",
+    "company": "Voyager Technologies Inc",
+    "exchange": "NYSE",
+    "isin": "US92892B1035",
+    "slug": "voyg.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 61
+      }
+    ]
+  },
+  {
+    "ticker": "GILT",
+    "file": "gilt.html",
+    "date": "2026-04-24",
+    "price": 17.64,
+    "conviction": 68,
+    "recommendation": "BUY",
+    "summary": "Gilat Satellite Networks (GILT) demonstrated robust performance in its Q4 2025 earnings, beating EPS and revenue estimates with 75% YoY revenue growth to $137M and full-year revenue up 48% to $452M, driven by defense wins and commercial expansions like in-flight connectivity. Analysts maintain a strong buy rating with a $19-20 price target, projecting 91% EPS growth in 2026, though recent shareholder dilution from capital raises poses a minor risk. Overall sentiment is optimistic ahead of Q1 earnings on May 13, 2026.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 1048319640,
+    "currency": "USD",
+    "company": "Gilat Satellite Networks Ltd",
+    "exchange": "NASDAQ",
+    "isin": "IL0010825102",
+    "slug": "gilt.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 68
+      }
+    ]
+  },
+  {
+    "ticker": "VSAT",
+    "file": "vsat.html",
+    "date": "2026-04-24",
+    "price": 62.58,
+    "conviction": 68,
+    "recommendation": "BUY",
+    "summary": "Viasat has shown robust positive momentum with Q3 2026 earnings significantly beating expectations (EPS $0.79 vs. $0.10) and revenue near targets, alongside the operational rollout of its ViaSat-3 satellite fleet and upgrades from firms like Barclays and Needham. The stock has surged over 600% from lows, hitting new 52-week highs around $64, fueled by defense contracts and spectrum value recognition. While some analysts maintain hold or reduce ratings citing modest growth guidance, the biggest risk is potential delays in satellite commercialization impacting near-term revenue.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 8500329075,
+    "currency": "USD",
+    "company": "Viasat Inc",
+    "exchange": "NASDAQ",
+    "isin": "US92552V1008",
+    "slug": "vsat.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 68
+      }
+    ]
+  },
+  {
+    "ticker": "GSAT",
+    "file": "gsat.html",
+    "date": "2026-04-24",
+    "price": 81.29,
+    "conviction": 75,
+    "recommendation": "BUY",
+    "summary": "Globalstar's stock has skyrocketed to a 52-week high of over $81 on Amazon's $11.57 billion acquisition announcement, positioning GSAT as a key player in Amazon's Project Leo to challenge SpaceX's Starlink with enhanced direct-to-device satellite capabilities. The company reported record 2025 revenue of $273 million (up 9% YoY) and issued optimistic 2026 guidance for $280-305 million in revenue with a 50% EBITDA margin, though Q4 EPS missed estimates. The biggest risk is potential integration challenges and increased capital expenditures for Amazon's satellite ambitions.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 10453162390,
+    "currency": "USD",
+    "company": "Globalstar, Inc.",
+    "exchange": "NASDAQ",
+    "isin": "US3789735079",
+    "slug": "gsat.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 75
+      }
+    ]
+  },
+  {
+    "ticker": "BKSY",
+    "file": "bksy.html",
+    "date": "2026-04-24",
+    "price": 38.44,
+    "conviction": 68,
+    "recommendation": "BUY",
+    "summary": "BlackSky Technology has shown robust momentum with record 2025 revenue of $106.6M, a growing $300M+ backlog from major U.S. government and international contracts, and successful Gen-3 satellite deployments enhancing AI-driven imagery capabilities. Analysts maintain a Strong Buy consensus with price targets up to $42, fueled by defense budget shifts toward commercial space tech. However, ongoing net losses and occasional revenue shortfalls, like the Q4 2025 miss, highlight execution risks in scaling profitability.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 1426469960,
+    "currency": "USD",
+    "company": "Blacksky Technology Inc",
+    "exchange": "NYSE",
+    "isin": "US09263B2079",
+    "slug": "bksy.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 68
+      }
+    ]
+  },
+  {
+    "ticker": "IRDM",
+    "file": "irdm.html",
+    "date": "2026-04-24",
+    "price": 40.93,
+    "conviction": 45,
+    "recommendation": "SPECULATIVE BUY",
+    "summary": "Iridium Communications reported Q1 2026 earnings that missed EPS estimates at $0.20 versus $0.28 expected, with revenue slightly beating but net income down 29% and EBITDA off 5%, leading to a 5% stock drop despite a broader space sector rally. Analyst sentiment is mixed with a consensus 'Overweight' but average price targets around $30 well below the current ~$41 price, reflecting concerns over flat 2026 guidance and high valuation. The biggest risk is decelerating growth and competitive pressures from broadband satellite entrants like Starlink, potentially eroding Iridium's premium positioning.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 4327037740,
+    "currency": "USD",
+    "company": "Iridium Communications Inc",
+    "exchange": "NASDAQ",
+    "isin": "US46269C1027",
+    "slug": "irdm.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 45
+      }
+    ]
+  },
+  {
+    "ticker": "RBC",
+    "file": "rbc.html",
+    "date": "2026-04-24",
+    "price": 601.39,
+    "conviction": 75,
+    "recommendation": "BUY",
+    "summary": "RBC has delivered exceptional financial results, including record 2025 net income of $20.4 billion (up 25% YoY) and Q1 2026 adjusted EPS beating estimates at $4.08, driven by strong growth in personal, commercial, and capital markets segments. Analyst sentiment remains bullish with upgrades from CIBC and others, citing superior ROE generation and market resilience. No major risks identified, though broader Canadian investment outflows noted in reports could indirectly pressure the sector.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 19015326956,
+    "currency": "USD",
+    "company": "RBC Bearings Inc",
+    "exchange": "NYSE",
+    "isin": "US75459L1008",
+    "slug": "rbc.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 75
+      }
+    ]
+  },
+  {
+    "ticker": "KRMN",
+    "file": "krmn.html",
+    "date": "2026-04-24",
+    "price": 76.6,
+    "conviction": 61,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Karman Holdings (KRMN) showed strong Q4 2025 revenue growth of 47% YoY, beating estimates slightly, while raising FY26 guidance to $715M-$730M on surging missile defense demand, supported by a $1B+ backlog and multiple analyst upgrades to buy with targets up to $135. However, an EPS miss on the reported $0.11 (consensus met on adjusted but not GAAP) led to a 14% stock drop post-earnings, highlighting ongoing concerns over free cash flow generation and elevated valuations at 123x forward earnings. The biggest risk is sector rotation away from defense amid broader market pressures and potential delays in contract execution.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 10151513737,
+    "currency": "USD",
+    "company": "Karman Holdings Inc",
+    "exchange": "NYSE",
+    "isin": "US5720621016",
+    "slug": "krmn.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 61
+      }
+    ]
+  },
+  {
+    "ticker": "TECK",
+    "file": "teck.html",
+    "date": "2026-04-24",
+    "price": 60.75,
+    "conviction": 75,
+    "recommendation": "BUY",
+    "summary": "Teck Resources reported impressive Q1 2026 results, beating EPS estimates by over 50% and revenue by 25% driven by record copper sales amid surging prices, boosting shares up 10%. Analysts maintain a Buy consensus with price targets suggesting moderate upside, fueled by strong sector demand. The biggest risk is escalating fuel costs potentially compressing margins in future quarters.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 29251125000,
+    "currency": "USD",
+    "company": "Teck Resources Ltd",
+    "exchange": "NYSE",
+    "isin": "CA87807U1026",
+    "slug": "teck.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 75
+      }
+    ]
+  },
+  {
+    "ticker": "FCX",
+    "file": "fcx.html",
+    "date": "2026-04-24",
+    "price": 61.48,
+    "conviction": 61,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Freeport-McMoRan reported a strong Q1 2026 earnings beat with EPS of $0.57 surpassing estimates by $0.10 and revenue up 8.8% year-over-year, supported by robust copper and gold prices, while analysts maintain a consensus 'Buy' rating with price targets around $58-71. However, the company lowered its full-year copper and gold production guidance due to ongoing recovery from a fatal mud rush at its Grasberg mine in Indonesia, leading to a sharp 12% stock drop post-earnings. The biggest risk is further delays in Grasberg ramp-up, which could pressure volumes and earnings amid high copper price volatility.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 88359154737,
+    "currency": "USD",
+    "company": "Freeport-McMoRan Inc",
+    "exchange": "NYSE",
+    "isin": "US35671D8570",
+    "slug": "fcx.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 61
+      }
+    ]
+  },
+  {
+    "ticker": "CRS",
+    "file": "crs.html",
+    "date": "2026-04-24",
+    "price": 426.66,
+    "conviction": 68,
+    "recommendation": "BUY",
+    "summary": "Carpenter Technology (CRS) shows robust positive momentum from recent analyst upgrades, including JPMorgan raising its target to $465 and KeyBanc to $453, alongside a consensus 'Moderate Buy' rating and expectations for Q3 earnings growth to $2.60 EPS on 8.6% revenue increase. The company benefits from surging aerospace demand and raised FY26 guidance, though shares have dipped slightly ahead of the April 29 earnings report due to profit-taking. No major risks evident beyond typical pre-earnings volatility.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 21255699875,
+    "currency": "USD",
+    "company": "Carpenter Technology Corp",
+    "exchange": "NYSE",
+    "isin": "US14141L1035",
+    "slug": "crs.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 68
+      }
+    ]
+  },
+  {
+    "ticker": "MTRN",
+    "file": "mtrn.html",
+    "date": "2026-04-24",
+    "price": 183.25,
+    "conviction": 68,
+    "recommendation": "BUY",
+    "summary": "Materion Corporation (MTRN) has shown strong positive momentum with Q4 2025 earnings beating estimates at $1.53 EPS and $489.75M revenue, up 12% YoY, alongside upbeat FY2026 guidance of $6.00-$6.50 EPS implying 15% growth. Analyst consensus is 'Buy' with price targets up to $170-$178, driven by new business wins in defense and semiconductors, though recent insider selling introduces minor caution. The biggest risk is potential volatility ahead of Q1 2026 earnings on April 29, where any miss could temper optimism.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 3811838225,
+    "currency": "USD",
+    "company": "Materion Corp",
+    "exchange": "NYSE",
+    "isin": "US60886E2062",
+    "slug": "mtrn.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 68
+      }
+    ]
+  },
+  {
+    "ticker": "HXL",
+    "file": "hxl.html",
+    "date": "2026-04-24",
+    "price": 91.32,
+    "conviction": 68,
+    "recommendation": "BUY",
+    "summary": "Hexcel delivered a robust Q1 2026 earnings beat, with revenue of $501.5 million surpassing estimates by nearly 3% and adjusted EPS of $0.59 exceeding forecasts by 34%, fueled by an 18.8% surge in commercial aerospace sales and significant margin expansion from operating leverage. The company reaffirmed its full-year 2026 guidance for $2.0-2.1 billion in sales and $2.10-2.30 adjusted EPS, signaling confidence in ongoing aerospace recovery. The biggest risk is potential lingering supply chain bottlenecks in the commercial sector and softer defense/space demand, though overall sentiment remains optimistic.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 6928486389,
+    "currency": "USD",
+    "company": "Hexcel Corp",
+    "exchange": "NYSE",
+    "isin": "US4282911087",
+    "slug": "hxl.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 68
+      }
+    ]
+  },
+  {
+    "ticker": "GLW",
+    "file": "glw.html",
+    "date": "2026-04-24",
+    "price": 169.5,
+    "conviction": 61,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Corning's market sentiment is net positive, fueled by robust Q4 2025 earnings that beat estimates and strong Q1 2026 guidance, alongside analyst upgrades highlighting AI data center opportunities with major deals like the $6B Meta contract. Price targets have risen significantly, with BofA at $186, though JPMorgan's downgrade to Neutral cites stretched valuations as a potential risk. Overall, optimism around multi-year growth in optical technologies outweighs minor concerns on margins.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 145603014872,
+    "currency": "USD",
+    "company": "Corning Inc",
+    "exchange": "NYSE",
+    "isin": "US2188681054",
+    "slug": "glw.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 61
+      }
+    ]
+  },
+  {
+    "ticker": "PKE",
+    "file": "pke.html",
+    "date": "2026-04-24",
+    "price": 32.81,
+    "conviction": 75,
+    "recommendation": "BUY",
+    "summary": "Park Aerospace (PKE) has shown robust financial performance, with Q3 2026 earnings reporting EPS of $0.15 (up 87.5% YoY) and revenue of $17.33 million (up 20.3% YoY), alongside improved margins and net income growth. Analysts maintain buy ratings with an average price target around $33, slightly below the current trading level near 52-week highs, supported by positive sector momentum in aerospace and defense. No major risks identified, though upcoming Q4 earnings on May 7, 2026, could influence near-term sentiment.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 653765432,
+    "currency": "USD",
+    "company": "Park Aerospace Corp",
+    "exchange": "NYSE",
+    "isin": "US7016851048",
+    "slug": "pke.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 75
+      }
+    ]
+  },
+  {
+    "ticker": "MCHP",
+    "file": "mchp.html",
+    "date": "2026-04-24",
+    "price": 90.64,
+    "conviction": 60,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Microchip Technology Inc is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 60/100. Full analysis pending Grok intelligence refresh.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 49048476400,
+    "currency": "USD",
+    "company": "Microchip Technology Inc",
+    "exchange": "NASDAQ",
+    "isin": "US5950171042",
+    "slug": "mchp.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 60
+      }
+    ]
+  },
+  {
+    "ticker": "QRVO",
+    "file": "qrvo.html",
+    "date": "2026-04-24",
+    "price": 84.65,
+    "conviction": 60,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Qorvo Inc is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 60/100. Full analysis pending Grok intelligence refresh.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 7847535727,
+    "currency": "USD",
+    "company": "Qorvo Inc",
+    "exchange": "NASDAQ",
+    "isin": "US74736K1016",
+    "slug": "qrvo.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 60
+      }
+    ]
+  },
+  {
+    "ticker": "MRCY",
+    "file": "mrcy.html",
+    "date": "2026-04-24",
+    "price": 78.91,
+    "conviction": 60,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Mercury Systems Inc is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 60/100. Full analysis pending Grok intelligence refresh.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 4735754611,
+    "currency": "USD",
+    "company": "Mercury Systems Inc",
+    "exchange": "NASDAQ",
+    "isin": "US5893781089",
+    "slug": "mrcy.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 60
+      }
+    ]
+  },
+  {
+    "ticker": "TTMI",
+    "file": "ttmi.html",
+    "date": "2026-04-24",
+    "price": 132.98,
+    "conviction": 60,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "TTM Technologies Inc is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 60/100. Full analysis pending Grok intelligence refresh.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 13809042140,
+    "currency": "USD",
+    "company": "TTM Technologies Inc",
+    "exchange": "NASDAQ",
+    "isin": "US87305P1094",
+    "slug": "ttmi.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 60
+      }
+    ]
+  },
+  {
+    "ticker": "COHR",
+    "file": "cohr.html",
+    "date": "2026-04-24",
+    "price": 337.68,
+    "conviction": 60,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Coherent Corp is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 60/100. Full analysis pending Grok intelligence refresh.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 53547645846,
+    "currency": "USD",
+    "company": "Coherent Corp",
+    "exchange": "NYSE",
+    "isin": "US19259V1035",
+    "slug": "cohr.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 60
+      }
+    ]
+  },
+  {
+    "ticker": "LITE",
+    "file": "gilatsatellitenetworksltd.html",
+    "date": "2026-04-24",
+    "price": 846.89,
+    "conviction": 60,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Lumentum Holdings Inc is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 60/100. Full analysis pending Grok intelligence refresh.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 60467946000,
+    "currency": "USD",
+    "company": "Lumentum Holdings Inc",
+    "exchange": "NASDAQ",
+    "isin": "US55048U1043",
+    "slug": "gilatsatellitenetworksltd.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 60
+      }
+    ]
+  },
+  {
+    "ticker": "APD",
+    "file": "apd.html",
+    "date": "2026-04-24",
+    "price": 303.65,
+    "conviction": 60,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Air Products and Chemicals Inc is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 60/100. Full analysis pending Grok intelligence refresh.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 67609494400,
+    "currency": "USD",
+    "company": "Air Products and Chemicals Inc",
+    "exchange": "NYSE",
+    "isin": "US0090661060",
+    "slug": "apd.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 60
+      }
+    ]
+  },
+  {
+    "ticker": "NEU",
+    "file": "neu.html",
+    "date": "2026-04-24",
+    "price": 683.04,
+    "conviction": 60,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Newmarket Corp is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 60/100. Full analysis pending Grok intelligence refresh.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 6417474998,
+    "currency": "USD",
+    "company": "Newmarket Corp",
+    "exchange": "NYSE",
+    "isin": "US6515871076",
+    "slug": "neu.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 60
+      }
+    ]
+  },
+  {
+    "ticker": "GHM",
+    "file": "ghm.html",
+    "date": "2026-04-24",
+    "price": 97.6,
+    "conviction": 60,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Graham Corp is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 60/100. Full analysis pending Grok intelligence refresh.",
+    "universes": [
+      "watchlist"
+    ],
+    "marketCap": 1080703328,
+    "currency": "USD",
+    "company": "Graham Corp",
+    "exchange": "NYSE",
+    "isin": "US3845561063",
+    "slug": "ghm.html",
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 60
+      }
+    ]
+  },
+  {
+    "ticker": "MDA",
+    "company": "MDA Space Ltd",
+    "file": "mdaspaceltd.html",
+    "conviction": 50,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "MDA Space Ltd is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 50/100. Full analysis pending Grok intelligence refresh.",
+    "marketCap": 6514911993,
+    "currency": "USD",
+    "exchange": null,
+    "isin": "CA55293N1096",
+    "universes": [
+      "watchlist"
+    ],
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 50
+      }
+    ],
+    "datePublished": "2026-04-24",
+    "lastRefreshed": "2026-04-24T05:27:22.491Z",
+    "date": "2026-04-24",
+    "price": 34.5
+  },
+  {
+    "ticker": "LUNR",
+    "company": "Intuitive Machines Inc",
+    "file": "intuitivemachinesinc.html",
+    "conviction": 50,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Intuitive Machines Inc is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 50/100. Full analysis pending Grok intelligence refresh.",
+    "marketCap": 6666621525,
+    "currency": "USD",
+    "exchange": null,
+    "isin": "US46125A1007",
+    "universes": [
+      "watchlist"
+    ],
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 50
+      }
+    ],
+    "datePublished": "2026-04-24",
+    "lastRefreshed": "2026-04-24T05:27:22.494Z",
+    "date": "2026-04-24",
+    "price": 30.61
+  },
+  {
+    "ticker": "KYGA",
+    "company": "Kerry Group PLC",
+    "file": "kerrygroupplc.html",
+    "conviction": 50,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Kerry Group PLC is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 50/100. Full analysis pending Grok intelligence refresh.",
+    "marketCap": 10846872250,
+    "currency": "EUR",
+    "exchange": "LON",
+    "isin": "IE0004906560",
+    "universes": [
+      "watchlist"
+    ],
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 50
+      }
+    ],
+    "datePublished": "2026-04-24",
+    "lastRefreshed": "2026-04-24T05:27:22.496Z",
+    "date": "2026-04-24",
+    "price": 67.6
+  },
+  {
+    "ticker": "XPEV",
+    "company": "Xpeng Inc - ADR",
+    "file": "xpengincadr.html",
+    "conviction": 50,
+    "recommendation": "OPPORTUNISTIC BUY",
+    "summary": "Xpeng Inc - ADR is a equity company currently rated OPPORTUNISTIC BUY with a conviction score of 50/100. Full analysis pending Grok intelligence refresh.",
+    "marketCap": 16573801673,
+    "currency": "USD",
+    "exchange": null,
+    "isin": "US98422D1054",
+    "universes": [
+      "watchlist"
+    ],
+    "convictionHistory": [
+      {
+        "date": "2026-04-24",
+        "conviction": 50
+      }
+    ],
+    "datePublished": "2026-04-24",
+    "lastRefreshed": "2026-04-24T05:27:22.499Z",
+    "date": "2026-04-24",
+    "price": 17.09
   }
 ]

@@ -1,0 +1,14 @@
+{
+  "ticker": "LON:KYGA",
+  "company": "Kerry Group PLC",
+  "slug": "kerrygroupplc",
+  "date": "2026-04-24",
+  "source": "brave",
+  "queries": [
+    {
+      "query": "LON:KYGA Kerry Group PLC stock news",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "TECK",
+  "company": "Teck Resources Ltd",
+  "slug": "teck",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "TECK Teck Resources Ltd stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

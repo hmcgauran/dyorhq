@@ -1,0 +1,672 @@
+{"ts":"2026-04-19T16:00:25.143Z","msg":"=== batch-web-research.js | batch=false | maxAge=30d | force=false ==="}
+{"ts":"2026-04-19T16:00:25.146Z","msg":"Total: 23 | To process: 21 | Done: 0"}
+{"ts":"2026-04-19T16:00:28.603Z","msg":"  [CSCO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:00:31.929Z","msg":"  [KGSPY] 4/4 queries OK"}
+{"ts":"2026-04-19T16:00:35.114Z","msg":"  [W7L] 4/4 queries OK"}
+{"ts":"2026-04-19T16:00:37.884Z","msg":"  [YNGA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:00:40.750Z","msg":"  [PTAL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:00:43.440Z","msg":"  [SUP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:00:46.060Z","msg":"  [JHD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:00:48.725Z","msg":"  [VTU] 4/4 queries OK"}
+{"ts":"2026-04-19T16:00:51.502Z","msg":"  [MSI] 4/4 queries OK"}
+{"ts":"2026-04-19T16:01:40.271Z","msg":"=== batch-web-research.js | batch=false | maxAge=30d | force=false ==="}
+{"ts":"2026-04-19T16:01:40.679Z","msg":"Total: 337 | To process: 307 | Done: 9"}
+{"ts":"2026-04-19T16:01:43.827Z","msg":"  [MMM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:01:46.887Z","msg":"  [ABT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:01:49.753Z","msg":"  [ABBV] 4/4 queries OK"}
+{"ts":"2026-04-19T16:01:52.314Z","msg":"  [ABDP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:01:54.908Z","msg":"  [ABVE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:01:57.742Z","msg":"  [ACN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:38.358Z","msg":"=== batch-web-research.js | batch=false | maxAge=30d | force=true ==="}
+{"ts":"2026-04-19T16:02:38.759Z","msg":"Total: 337 | To process: 337 | Done: 15"}
+{"ts":"2026-04-19T16:02:40.477Z","msg":"  [MMM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:41.569Z","msg":"  [ABT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:42.912Z","msg":"  [ABBV] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:43.973Z","msg":"  [ABDP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:45.019Z","msg":"  [ABVE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:46.278Z","msg":"  [ACN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:48.428Z","msg":"  [ACSO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:51.092Z","msg":"  [AOM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:53.601Z","msg":"  [ADNT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:56.102Z","msg":"  [ADBE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:02:58.850Z","msg":"  [ADSE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:01.513Z","msg":"  [ADVT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:04.417Z","msg":"  [AMS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:07.372Z","msg":"  [AMD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:47.067Z","msg":"=== batch-web-research.js | batch=false | maxAge=30d | force=true ==="}
+{"ts":"2026-04-19T16:03:47.476Z","msg":"Total: 337 | To process: 337 | Done: 29"}
+{"ts":"2026-04-19T16:03:48.993Z","msg":"  [MMM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:50.462Z","msg":"  [ABT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:51.552Z","msg":"  [ABBV] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:52.676Z","msg":"  [ABDP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:53.926Z","msg":"  [ABVE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:54.960Z","msg":"  [ACN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:55.994Z","msg":"  [ACSO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:57.006Z","msg":"  [AOM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:58.166Z","msg":"  [ADNT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:03:59.430Z","msg":"  [ADBE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:00.726Z","msg":"  [ADSE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:01.852Z","msg":"  [ADVT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:03.098Z","msg":"  [AMS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:04.411Z","msg":"  [AMD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:06.972Z","msg":"  [AER] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:09.672Z","msg":"  [AIBG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:12.502Z","msg":"  [ACI] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:15.111Z","msg":"  [BABA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:17.732Z","msg":"  [ALK] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:20.400Z","msg":"  [ALKS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:23.051Z","msg":"  [ALLE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:25.927Z","msg":"  [ALL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:28.742Z","msg":"  [GOOGL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:31.365Z","msg":"  [GOOG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:33.976Z","msg":"  [MO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:36.683Z","msg":"  [AMRN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:39.339Z","msg":"  [AMRQ] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:42.213Z","msg":"  [AMZN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:44.891Z","msg":"  [AXP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:47.746Z","msg":"  [AIG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:50.598Z","msg":"  [AMGN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:53.566Z","msg":"  [AAZ] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:56.250Z","msg":"  [ANCR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:04:58.888Z","msg":"  [AAPL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:01.654Z","msg":"  [APTV] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:04.528Z","msg":"  [ARBB] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:07.288Z","msg":"  [ADM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:10.172Z","msg":"  [AMBP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:12.851Z","msg":"  [ANET] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:15.494Z","msg":"  [ASTS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:18.162Z","msg":"  [T] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:20.920Z","msg":"  [AVG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:23.980Z","msg":"  [BAC] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:26.827Z","msg":"  [BIRG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:29.956Z","msg":"  [BK] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:33.092Z","msg":"  [BRK.B] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:35.587Z","msg":"  [BVXP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:38.317Z","msg":"  [BLK] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:41.189Z","msg":"  [BLOE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:43.900Z","msg":"  [BOO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:46.925Z","msg":"  [BA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:49.542Z","msg":"  [BOKU] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:52.361Z","msg":"  [BKNG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:55.005Z","msg":"  [BPM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:05:57.624Z","msg":"  [BRCK] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:00.348Z","msg":"  [SLMT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:03.323Z","msg":"  [BMY] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:05.900Z","msg":"  [AVGO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:08.914Z","msg":"  [BUR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:11.599Z","msg":"  [BWXT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:14.499Z","msg":"  [CMCL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:17.535Z","msg":"  [COF] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:20.300Z","msg":"  [CAH] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:23.086Z","msg":"  [CAT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:25.815Z","msg":"  [COR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:28.515Z","msg":"  [CNC] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:31.154Z","msg":"  [CAML] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:33.932Z","msg":"  [CER] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:36.532Z","msg":"  [SCHW] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:39.346Z","msg":"  [CHKP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:41.993Z","msg":"  [CVX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:44.892Z","msg":"  [CI] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:47.464Z","msg":"  [CMPR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:48.560Z","msg":"  [CSCO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:51.227Z","msg":"  [C] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:53.798Z","msg":"  [NET] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:56.581Z","msg":"  [CMRS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:06:59.417Z","msg":"  [KO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:01.961Z","msg":"  [CHRT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:04.745Z","msg":"  [CL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:07.721Z","msg":"  [CAD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:10.378Z","msg":"  [CMCSA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:13.137Z","msg":"  [COP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:16.015Z","msg":"  [C43] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:18.699Z","msg":"  [COST] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:21.650Z","msg":"  [CRW] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:24.264Z","msg":"  [CRH] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:26.883Z","msg":"  [CRWD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:30.157Z","msg":"  [CRIS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:32.859Z","msg":"  [CVSG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:35.482Z","msg":"  [CVS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:38.226Z","msg":"  [DHR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:40.685Z","msg":"  [DCC] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:43.320Z","msg":"  [DE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:45.943Z","msg":"  [DELL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:48.619Z","msg":"  [DAL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:51.173Z","msg":"  [DGE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:53.727Z","msg":"  [DOLE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:56.543Z","msg":"  [DOTD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:07:59.160Z","msg":"  [DOW] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:01.898Z","msg":"  [DUK] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:04.542Z","msg":"  [QBTS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:07.203Z","msg":"  [ETN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:09.867Z","msg":"  [BKS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:12.649Z","msg":"  [ELV] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:15.295Z","msg":"  [LLY] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:18.064Z","msg":"  [EMR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:21.004Z","msg":"  [ET] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:23.691Z","msg":"  [EPD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:26.334Z","msg":"  [ETL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:28.933Z","msg":"  [EVPL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:31.683Z","msg":"  [EXPGF] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:34.301Z","msg":"  [XOM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:37.011Z","msg":"  [FFAI] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:39.767Z","msg":"  [FARN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:42.545Z","msg":"  [FDX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:45.109Z","msg":"  [FEVR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:47.756Z","msg":"  [FNTL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:50.219Z","msg":"  [FTC] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:53.107Z","msg":"  [FLUT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:55.827Z","msg":"  [F] 4/4 queries OK"}
+{"ts":"2026-04-19T16:08:58.512Z","msg":"  [FTNT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:01.033Z","msg":"  [FRP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:03.624Z","msg":"  [TFW] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:06.325Z","msg":"  [GTLY] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:08.885Z","msg":"  [GBG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:11.515Z","msg":"  [GD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:14.291Z","msg":"  [GE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:17.091Z","msg":"  [GM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:19.858Z","msg":"  [GEV] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:22.481Z","msg":"  [GHRS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:25.133Z","msg":"  [GILD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:27.913Z","msg":"  [GL9] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:30.721Z","msg":"  [GGP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:33.074Z","msg":"  [GLEN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:35.622Z","msg":"  [GLB] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:38.267Z","msg":"  [GS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:41.106Z","msg":"  [GFTU] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:43.668Z","msg":"  [GGP.L  LN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:46.249Z","msg":"  [GRP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:48.876Z","msg":"  [GFM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:51.450Z","msg":"  [J9J] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:54.075Z","msg":"  [HSP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:56.953Z","msg":"  [HCA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:09:59.400Z","msg":"  [HUW] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:01.996Z","msg":"  [BIG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:04.665Z","msg":"  [HD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:07.322Z","msg":"  [HON] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:09.911Z","msg":"  [HUM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:12.912Z","msg":"  [HCM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:15.633Z","msg":"  [IBM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:18.279Z","msg":"  [ICLR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:20.687Z","msg":"  [IDOX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:23.507Z","msg":"  [IR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:26.042Z","msg":"  [INTC] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:28.672Z","msg":"  [INDIGO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:31.181Z","msg":"  [INTU] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:33.642Z","msg":"  [ISRG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:36.306Z","msg":"  [IONQ] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:38.750Z","msg":"  [IREN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:41.300Z","msg":"  [ITRMF] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:43.880Z","msg":"  [ITM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:46.548Z","msg":"  [LTHM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:49.096Z","msg":"  [JHX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:51.661Z","msg":"  [JAZZ] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:54.291Z","msg":"  [JD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:56.885Z","msg":"  [JCSE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:10:59.652Z","msg":"  [JET2] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:03.010Z","msg":"  [JCI] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:05.811Z","msg":"  [JNJ] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:08.481Z","msg":"  [JPM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:11.136Z","msg":"  [JDG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:13.635Z","msg":"  [KYGA.L / KRZ] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:15.268Z","msg":"  [KGSPY] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:17.879Z","msg":"  [FOBK] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:20.452Z","msg":"  [KBGGY  NO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:23.053Z","msg":"  [KR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:25.448Z","msg":"  [LRCX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:28.298Z","msg":"  [LND] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:30.805Z","msg":"  [LBG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:33.224Z","msg":"  [BEG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:35.796Z","msg":"  [LPTH] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:38.303Z","msg":"  [LIN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:40.842Z","msg":"  [LMT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:43.385Z","msg":"  [LOW] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:46.172Z","msg":"  [MANU] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:48.823Z","msg":"  [MPC] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:51.543Z","msg":"  [MA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:54.622Z","msg":"  [MCD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:57.216Z","msg":"  [MCK] 4/4 queries OK"}
+{"ts":"2026-04-19T16:11:59.826Z","msg":"  [SAA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:02.397Z","msg":"  [MDT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:04.864Z","msg":"  [MRK] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:07.490Z","msg":"  [MRL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:10.217Z","msg":"  [MTL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:12.970Z","msg":"  [META] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:15.440Z","msg":"  [MET] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:18.038Z","msg":"  [MU] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:20.611Z","msg":"  [MSFT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:23.230Z","msg":"  [MIDW] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:25.721Z","msg":"  [MKA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:28.208Z","msg":"  [MDLZ] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:30.681Z","msg":"  [MDB  US] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:33.421Z","msg":"  [MS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:36.137Z","msg":"  [MAB1] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:38.580Z","msg":"  [MPE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:41.345Z","msg":"  [NVTS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:44.412Z","msg":"  [NFLX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:46.952Z","msg":"  [NEE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:49.521Z","msg":"  [NICL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:52.264Z","msg":"  [NKE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:54.790Z","msg":"  [NIO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:57.191Z","msg":"  [NIOX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:12:59.778Z","msg":"  [NOC] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:02.367Z","msg":"  [SMR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:04.891Z","msg":"  [NVDA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:07.388Z","msg":"  [RUOC] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:10.063Z","msg":"  [OKLO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:12.856Z","msg":"  [ONDO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:15.432Z","msg":"  [ORCL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:17.921Z","msg":"  [PLTR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:20.636Z","msg":"  [PANW] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:23.239Z","msg":"  [PAF] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:25.808Z","msg":"  [PANR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:28.294Z","msg":"  [PALM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:30.739Z","msg":"  [POLR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:33.267Z","msg":"  [PEP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:35.764Z","msg":"  [PTSB] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:38.402Z","msg":"  [PRGO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:40.929Z","msg":"  [PFE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:43.502Z","msg":"  [PM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:46.062Z","msg":"  [PSX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:48.492Z","msg":"  [PL  US] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:51.046Z","msg":"  [PVE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:53.579Z","msg":"  [PG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:56.116Z","msg":"  [PGR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:13:58.544Z","msg":"  [PXEN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:01.101Z","msg":"  [PRTA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:03.600Z","msg":"  [PRU] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:07.036Z","msg":"  [QED] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:09.543Z","msg":"  [QCOM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:12.060Z","msg":"  [RCN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:14.637Z","msg":"  [RNWH] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:17.313Z","msg":"  [RST] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:19.951Z","msg":"  [RNO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:22.649Z","msg":"  [ALRIB] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:25.075Z","msg":"  [RGTI] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:27.640Z","msg":"  [RKH] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:30.311Z","msg":"  [RTX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:32.866Z","msg":"  [RWS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:35.500Z","msg":"  [RYAAY] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:38.725Z","msg":"  [CRM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:41.405Z","msg":"  [SAG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:43.789Z","msg":"  [STX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:46.243Z","msg":"  [SQZ] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:48.808Z","msg":"  [NOW] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:51.437Z","msg":"  [SHOP  US] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:53.959Z","msg":"  [SRC] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:56.501Z","msg":"  [SPG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:14:59.268Z","msg":"  [SLP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:01.838Z","msg":"  [SIVE.ST] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:04.806Z","msg":"  [SMS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:07.319Z","msg":"  [SW] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:10.122Z","msg":"  [SOM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:12.828Z","msg":"  [SO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:15.614Z","msg":"  [SPIR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:18.153Z","msg":"  [SBUX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:20.751Z","msg":"  [STE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:23.332Z","msg":"  [SNEX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:25.995Z","msg":"  [SYY] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:28.541Z","msg":"  [TBN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:31.154Z","msg":"  [TGT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:33.814Z","msg":"  [TAM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:36.316Z","msg":"  [TIG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:39.002Z","msg":"  [TDY  US] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:41.779Z","msg":"  [TSLA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:44.453Z","msg":"  [TXN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:46.986Z","msg":"  [TPFG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:49.471Z","msg":"  [TMO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:52.058Z","msg":"  [THX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:54.665Z","msg":"  [TJX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:57.127Z","msg":"  [TMUS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:15:59.590Z","msg":"  [TOM] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:02.093Z","msg":"  [TRCS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:04.674Z","msg":"  [TT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:07.236Z","msg":"  [TRIB] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:09.821Z","msg":"  [TSTL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:12.397Z","msg":"  [UBER] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:14.954Z","msg":"  [UNP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:17.441Z","msg":"  [UPR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:20.195Z","msg":"  [UAL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:22.920Z","msg":"  [UNH] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:25.514Z","msg":"  [UPS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:28.254Z","msg":"  [USB] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:30.915Z","msg":"  [VLO] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:33.446Z","msg":"  [VEQT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:36.006Z","msg":"  [VAST] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:38.601Z","msg":"  [VZ] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:41.255Z","msg":"  [SPCE] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:43.920Z","msg":"  [V] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:46.465Z","msg":"  [VLX] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:49.236Z","msg":"  [WBA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:51.901Z","msg":"  [WMT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:54.572Z","msg":"  [DIS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:57.411Z","msg":"  [WFC] 4/4 queries OK"}
+{"ts":"2026-04-19T16:16:59.869Z","msg":"  [WSBN] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:02.267Z","msg":"  [XPEV  US] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:04.897Z","msg":"  [YCA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:07.549Z","msg":"  [YOU] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:10.082Z","msg":"  [YU] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:12.703Z","msg":"  [ZPHR] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:15.409Z","msg":"  [ZYME] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:18.109Z","msg":"  [ART] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:20.582Z","msg":"  [PNG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:23.320Z","msg":"  [AUTL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:25.937Z","msg":"  [EOS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:28.866Z","msg":"  [W7L] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:31.578Z","msg":"  [YNGA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:34.100Z","msg":"  [PTAL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:36.868Z","msg":"  [SUP] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:39.432Z","msg":"  [JHD] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:41.833Z","msg":"  [VTU] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:44.396Z","msg":"  [MSI] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:46.897Z","msg":"  [AVCT] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:49.425Z","msg":"  [KRG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:52.026Z","msg":"  [GGP.L] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:54.652Z","msg":"  [MDB] 4/4 queries OK"}
+{"ts":"2026-04-19T16:17:57.044Z","msg":"  [XPENG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:18:00.145Z","msg":"  [KOG] 4/4 queries OK"}
+{"ts":"2026-04-19T16:18:02.673Z","msg":"  [POV] 4/4 queries OK"}
+{"ts":"2026-04-19T16:18:05.742Z","msg":"  [MCSA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:18:08.302Z","msg":"  [EEKS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:18:11.147Z","msg":"  [KGS] 4/4 queries OK"}
+{"ts":"2026-04-19T16:18:13.724Z","msg":"  [NUSCAL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:18:16.226Z","msg":"  [PL] 4/4 queries OK"}
+{"ts":"2026-04-19T16:18:18.788Z","msg":"  [QUA] 4/4 queries OK"}
+{"ts":"2026-04-19T16:18:21.381Z","msg":"  [YOON] 4/4 queries OK"}
+{"ts":"2026-04-19T16:18:21.403Z","msg":"=== Done. ok=337 errors=0 total=366/337 ==="}
+{"ts":"2026-04-19T20:59:14.889Z","msg":"=== batch-web-research.js | batch=false | maxAge=30d | force=true ==="}
+{"ts":"2026-04-19T20:59:15.315Z","msg":"Total: 334 | To process: 334 | Done: 366"}
+{"ts":"2026-04-19T20:59:19.231Z","msg":"  [MMM] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:21.898Z","msg":"  [ABT] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:24.877Z","msg":"  [ABBV] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:27.397Z","msg":"  [ABDP] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:30.104Z","msg":"  [ABVE] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:32.654Z","msg":"  [ACN] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:35.205Z","msg":"  [ACSO] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:37.838Z","msg":"  [AOM] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:40.396Z","msg":"  [ADNT] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:42.885Z","msg":"  [ADBE] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:45.959Z","msg":"  [ADSE] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:48.712Z","msg":"  [ADVT] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:51.272Z","msg":"  [AMS] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:54.134Z","msg":"  [AMD] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:56.815Z","msg":"  [AER] 4/4 queries OK"}
+{"ts":"2026-04-19T20:59:59.256Z","msg":"  [AIBG] 4/4 queries OK"}
+{"ts":"2026-04-19T21:00:02.038Z","msg":"  [ACI] 4/4 queries OK"}
+{"ts":"2026-04-19T21:00:04.944Z","msg":"  [BABA] 4/4 queries OK"}
+{"ts":"2026-04-19T21:00:07.687Z","msg":"  [ALK] 4/4 queries OK"}
+{"ts":"2026-04-19T21:00:10.352Z","msg":"  [ALKS] 4/4 queries OK"}
+{"ts":"2026-04-19T21:00:12.903Z","msg":"  [ALLE] 4/4 queries OK"}
+{"ts":"2026-04-19T21:42:18.758Z","msg":"=== batch-web-research.js | SINGLE TICKER: MP | force=true ==="}
+{"ts":"2026-04-19T21:42:18.761Z","msg":"Total: 334 | To process: 0 | Done: 387"}
+{"ts":"2026-04-19T21:42:18.761Z","msg":"=== Done. ok=0 errors=0 total=387/334 ==="}
+{"ts":"2026-04-19T21:52:17.092Z","msg":"=== batch-web-research.js | SINGLE TICKER: MP | force=true ==="}
+{"ts":"2026-04-19T21:52:17.096Z","msg":"Total: 334 | To process: 0 | Done: 387"}
+{"ts":"2026-04-19T21:52:17.096Z","msg":"=== Done. ok=0 errors=0 total=387/334 ==="}
+{"ts":"2026-04-20T15:46:54.937Z","msg":"=== batch-web-research.js | SINGLE: MP ==="}
+{"ts":"2026-04-20T15:46:54.937Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T15:47:00.918Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T15:47:00.919Z","msg":"To process: 1 | Checkpoint done: 387"}
+{"ts":"2026-04-20T15:47:04.206Z","msg":"  [MP] 4/4 queries OK → research/mpmaterialscorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T15:47:04.227Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:49:45.646Z","msg":"=== batch-web-research.js | SINGLE: TDY ==="}
+{"ts":"2026-04-20T16:49:45.647Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:49:50.672Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:49:50.674Z","msg":"To process: 1 | Checkpoint done: 388"}
+{"ts":"2026-04-20T16:49:54.322Z","msg":"  [TDY] 4/4 queries OK → research/teledynetechnologiesinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:49:54.345Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:53:38.630Z","msg":"=== batch-web-research.js | SINGLE: KBGGY ==="}
+{"ts":"2026-04-20T16:53:38.630Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:53:44.018Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:53:44.019Z","msg":"To process: 1 | Checkpoint done: 389"}
+{"ts":"2026-04-20T16:53:48.272Z","msg":"  [KBGGY] 4/4 queries OK → research/kongsberggruppenunsponsorednorwayadr/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:53:48.294Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:54:14.784Z","msg":"=== batch-web-research.js | SINGLE: SHOP ==="}
+{"ts":"2026-04-20T16:54:14.785Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:54:19.565Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:54:19.566Z","msg":"To process: 1 | Checkpoint done: 390"}
+{"ts":"2026-04-20T16:54:23.111Z","msg":"  [SHOP] 4/4 queries OK → research/shopifyinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:54:23.133Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:55:28.300Z","msg":"=== batch-web-research.js | SINGLE: MOG.A ==="}
+{"ts":"2026-04-20T16:55:28.300Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:55:33.430Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:55:33.430Z","msg":"To process: 1 | Checkpoint done: 391"}
+{"ts":"2026-04-20T16:55:37.360Z","msg":"  [MOG.A] 4/4 queries OK → research/moogincclassa/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:55:37.382Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:55:43.551Z","msg":"=== batch-web-research.js | SINGLE: AME ==="}
+{"ts":"2026-04-20T16:55:43.551Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:55:48.614Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:55:48.614Z","msg":"To process: 1 | Checkpoint done: 392"}
+{"ts":"2026-04-20T16:55:52.073Z","msg":"  [AME] 4/4 queries OK → research/ametekinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:55:52.095Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:56:05.793Z","msg":"=== batch-web-research.js | SINGLE: GHM ==="}
+{"ts":"2026-04-20T16:56:05.794Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:56:10.245Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:56:10.246Z","msg":"To process: 1 | Checkpoint done: 393"}
+{"ts":"2026-04-20T16:56:13.929Z","msg":"  [GHM] 4/4 queries OK → research/grahamcorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:56:13.952Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:56:28.197Z","msg":"=== batch-web-research.js | SINGLE: RDW ==="}
+{"ts":"2026-04-20T16:56:28.197Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:56:32.880Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:56:32.881Z","msg":"To process: 1 | Checkpoint done: 394"}
+{"ts":"2026-04-20T16:56:36.099Z","msg":"  [RDW] 4/4 queries OK → research/redwirecorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:56:36.121Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:56:50.149Z","msg":"=== batch-web-research.js | SINGLE: RKLB ==="}
+{"ts":"2026-04-20T16:56:50.149Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:56:55.687Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:56:55.687Z","msg":"To process: 1 | Checkpoint done: 395"}
+{"ts":"2026-04-20T16:56:59.020Z","msg":"  [RKLB] 4/4 queries OK → research/rocketlabcorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:56:59.042Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:57:12.617Z","msg":"=== batch-web-research.js | SINGLE: KTOS ==="}
+{"ts":"2026-04-20T16:57:12.617Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:57:18.385Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:57:18.385Z","msg":"To process: 1 | Checkpoint done: 396"}
+{"ts":"2026-04-20T16:57:21.802Z","msg":"  [KTOS] 4/4 queries OK → research/kratosdefensesecuritysolutionsinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:57:21.824Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:57:36.825Z","msg":"=== batch-web-research.js | SINGLE: FLY ==="}
+{"ts":"2026-04-20T16:57:36.825Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:57:42.419Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:57:42.419Z","msg":"To process: 1 | Checkpoint done: 397"}
+{"ts":"2026-04-20T16:57:45.665Z","msg":"  [FLY] 4/4 queries OK → research/fireflyaerospaceinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:57:45.687Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:57:59.947Z","msg":"=== batch-web-research.js | SINGLE: VOYG ==="}
+{"ts":"2026-04-20T16:57:59.947Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:58:05.905Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:58:05.905Z","msg":"To process: 1 | Checkpoint done: 398"}
+{"ts":"2026-04-20T16:58:09.787Z","msg":"  [VOYG] 4/4 queries OK → research/voyagertechnologiesinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:58:09.809Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:58:23.955Z","msg":"=== batch-web-research.js | SINGLE: MDA ==="}
+{"ts":"2026-04-20T16:58:23.955Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:58:28.734Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:58:28.734Z","msg":"To process: 1 | Checkpoint done: 399"}
+{"ts":"2026-04-20T16:58:31.872Z","msg":"  [MDA] 4/4 queries OK → research/mdaspaceltd/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:58:31.895Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:58:39.209Z","msg":"=== batch-web-research.js | SINGLE: LUNR ==="}
+{"ts":"2026-04-20T16:58:39.210Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:58:44.331Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:58:44.332Z","msg":"To process: 1 | Checkpoint done: 400"}
+{"ts":"2026-04-20T16:58:47.315Z","msg":"  [LUNR] 4/4 queries OK → research/intuitivemachinesinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:58:47.337Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:59:02.232Z","msg":"=== batch-web-research.js | SINGLE: GILT ==="}
+{"ts":"2026-04-20T16:59:02.232Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:59:09.579Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:59:09.579Z","msg":"To process: 1 | Checkpoint done: 401"}
+{"ts":"2026-04-20T16:59:12.834Z","msg":"  [GILT] 4/4 queries OK → research/gilatsatellitenetworksltd/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:59:12.856Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:59:21.268Z","msg":"=== batch-web-research.js | SINGLE: VSAT ==="}
+{"ts":"2026-04-20T16:59:21.268Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:59:26.154Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:59:26.154Z","msg":"To process: 1 | Checkpoint done: 402"}
+{"ts":"2026-04-20T16:59:29.575Z","msg":"  [VSAT] 4/4 queries OK → research/viasatinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:59:29.597Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T16:59:46.444Z","msg":"=== batch-web-research.js | SINGLE: GSAT ==="}
+{"ts":"2026-04-20T16:59:46.444Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T16:59:51.343Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T16:59:51.343Z","msg":"To process: 1 | Checkpoint done: 403"}
+{"ts":"2026-04-20T16:59:54.738Z","msg":"  [GSAT] 4/4 queries OK → research/globalstarinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T16:59:54.760Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:00:11.149Z","msg":"=== batch-web-research.js | SINGLE: BKSY ==="}
+{"ts":"2026-04-20T17:00:11.150Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:00:16.060Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:00:16.061Z","msg":"To process: 1 | Checkpoint done: 404"}
+{"ts":"2026-04-20T17:00:19.459Z","msg":"  [BKSY] 4/4 queries OK → research/blackskytechnologyinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:00:19.481Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:01:09.168Z","msg":"=== batch-web-research.js | SINGLE: IRDM ==="}
+{"ts":"2026-04-20T17:01:09.168Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:01:14.915Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:01:14.916Z","msg":"To process: 1 | Checkpoint done: 405"}
+{"ts":"2026-04-20T17:01:18.360Z","msg":"  [IRDM] 4/4 queries OK → research/iridiumcommunicationsinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:01:18.382Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:01:34.007Z","msg":"=== batch-web-research.js | SINGLE: RBC ==="}
+{"ts":"2026-04-20T17:01:34.008Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:01:38.950Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:01:38.951Z","msg":"To process: 1 | Checkpoint done: 406"}
+{"ts":"2026-04-20T17:01:42.184Z","msg":"  [RBC] 4/4 queries OK → research/rbcbearingsinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:01:42.207Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:01:57.412Z","msg":"=== batch-web-research.js | SINGLE: PH ==="}
+{"ts":"2026-04-20T17:01:57.412Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:02:03.066Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:02:03.066Z","msg":"To process: 1 | Checkpoint done: 407"}
+{"ts":"2026-04-20T17:02:06.351Z","msg":"  [PH] 4/4 queries OK → research/parkerhannifincorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:02:06.373Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:02:22.086Z","msg":"=== batch-web-research.js | SINGLE: KRMN ==="}
+{"ts":"2026-04-20T17:02:22.086Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:02:29.382Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:02:29.383Z","msg":"To process: 1 | Checkpoint done: 408"}
+{"ts":"2026-04-20T17:02:32.800Z","msg":"  [KRMN] 4/4 queries OK → research/karmanholdingsinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:02:32.822Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:02:47.825Z","msg":"=== batch-web-research.js | SINGLE: AA ==="}
+{"ts":"2026-04-20T17:02:47.826Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:02:54.333Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:02:54.333Z","msg":"To process: 1 | Checkpoint done: 409"}
+{"ts":"2026-04-20T17:02:58.308Z","msg":"  [AA] 4/4 queries OK → research/alcoacorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:02:58.330Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:03:12.927Z","msg":"=== batch-web-research.js | SINGLE: TECK ==="}
+{"ts":"2026-04-20T17:03:12.927Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:03:20.568Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:03:20.568Z","msg":"To process: 1 | Checkpoint done: 410"}
+{"ts":"2026-04-20T17:03:24.551Z","msg":"  [TECK] 4/4 queries OK → research/teckresourcesltd/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:03:24.573Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:03:34.556Z","msg":"=== batch-web-research.js | SINGLE: ALM ==="}
+{"ts":"2026-04-20T17:03:34.556Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:03:40.507Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:03:40.508Z","msg":"To process: 1 | Checkpoint done: 411"}
+{"ts":"2026-04-20T17:03:43.840Z","msg":"  [ALM] 4/4 queries OK → research/almontyindustriesinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:03:43.862Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:03:51.804Z","msg":"=== batch-web-research.js | SINGLE: FCX ==="}
+{"ts":"2026-04-20T17:03:51.805Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:03:57.399Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:03:57.400Z","msg":"To process: 1 | Checkpoint done: 412"}
+{"ts":"2026-04-20T17:04:00.166Z","msg":"  [FCX] 3/4 queries OK → research/freeportmcmoraninc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:04:00.189Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:04:16.445Z","msg":"=== batch-web-research.js | SINGLE: CRS ==="}
+{"ts":"2026-04-20T17:04:16.445Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:04:21.953Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:04:21.953Z","msg":"To process: 1 | Checkpoint done: 413"}
+{"ts":"2026-04-20T17:04:23.077Z","msg":"  [CRS] 0/4 queries OK → research/carpentertechnologycorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:04:23.099Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:04:38.013Z","msg":"=== batch-web-research.js | SINGLE: MTRN ==="}
+{"ts":"2026-04-20T17:04:38.013Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:04:43.914Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:04:43.915Z","msg":"To process: 1 | Checkpoint done: 414"}
+{"ts":"2026-04-20T17:04:45.226Z","msg":"  [MTRN] 0/4 queries OK → research/materioncorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:04:45.249Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:05:00.290Z","msg":"=== batch-web-research.js | SINGLE: HXL ==="}
+{"ts":"2026-04-20T17:05:00.290Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:05:05.421Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:05:05.422Z","msg":"To process: 1 | Checkpoint done: 415"}
+{"ts":"2026-04-20T17:05:06.948Z","msg":"  [HXL] 0/4 queries OK → research/hexcelcorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:05:06.971Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:05:21.786Z","msg":"=== batch-web-research.js | SINGLE: ATI ==="}
+{"ts":"2026-04-20T17:05:21.787Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:05:27.365Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:05:27.366Z","msg":"To process: 1 | Checkpoint done: 416"}
+{"ts":"2026-04-20T17:05:28.939Z","msg":"  [ATI] 0/4 queries OK → research/atiinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:05:28.962Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:05:43.920Z","msg":"=== batch-web-research.js | SINGLE: GLW ==="}
+{"ts":"2026-04-20T17:05:43.920Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:05:50.089Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:05:50.089Z","msg":"To process: 1 | Checkpoint done: 417"}
+{"ts":"2026-04-20T17:05:51.158Z","msg":"  [GLW] 0/4 queries OK → research/corninginc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:05:51.181Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:06:06.968Z","msg":"=== batch-web-research.js | SINGLE: PKE ==="}
+{"ts":"2026-04-20T17:06:06.969Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:06:17.221Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:06:17.221Z","msg":"To process: 1 | Checkpoint done: 418"}
+{"ts":"2026-04-20T17:06:18.584Z","msg":"  [PKE] 0/4 queries OK → research/parkaerospacecorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:06:18.606Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:06:32.171Z","msg":"=== batch-web-research.js | SINGLE: ADI ==="}
+{"ts":"2026-04-20T17:06:32.171Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:06:37.876Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:06:37.876Z","msg":"To process: 1 | Checkpoint done: 419"}
+{"ts":"2026-04-20T17:06:39.533Z","msg":"  [ADI] 0/4 queries OK → research/analogdevicesinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:06:39.555Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:06:54.708Z","msg":"=== batch-web-research.js | SINGLE: MCHP ==="}
+{"ts":"2026-04-20T17:06:54.708Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:07:00.305Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:07:00.305Z","msg":"To process: 1 | Checkpoint done: 420"}
+{"ts":"2026-04-20T17:07:01.540Z","msg":"  [MCHP] 0/4 queries OK → research/microchiptechnologyinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:07:01.562Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:07:16.635Z","msg":"=== batch-web-research.js | SINGLE: QRVO ==="}
+{"ts":"2026-04-20T17:07:16.635Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:07:22.845Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:07:22.846Z","msg":"To process: 1 | Checkpoint done: 421"}
+{"ts":"2026-04-20T17:07:24.274Z","msg":"  [QRVO] 0/4 queries OK → research/qorvoinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:07:24.296Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:07:39.434Z","msg":"=== batch-web-research.js | SINGLE: MRCY ==="}
+{"ts":"2026-04-20T17:07:39.434Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:07:44.852Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:07:44.852Z","msg":"To process: 1 | Checkpoint done: 422"}
+{"ts":"2026-04-20T17:07:46.134Z","msg":"  [MRCY] 0/4 queries OK → research/mercurysystemsinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:07:46.155Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:08:00.760Z","msg":"=== batch-web-research.js | SINGLE: TTMI ==="}
+{"ts":"2026-04-20T17:08:00.761Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:08:06.878Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:08:06.878Z","msg":"To process: 1 | Checkpoint done: 423"}
+{"ts":"2026-04-20T17:08:08.164Z","msg":"  [TTMI] 0/4 queries OK → research/ttmtechnologiesinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:08:08.187Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:08:23.275Z","msg":"=== batch-web-research.js | SINGLE: COHR ==="}
+{"ts":"2026-04-20T17:08:23.275Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:08:29.507Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:08:29.507Z","msg":"To process: 1 | Checkpoint done: 424"}
+{"ts":"2026-04-20T17:08:30.535Z","msg":"  [COHR] 0/4 queries OK → research/coherentcorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:08:30.558Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:08:45.756Z","msg":"=== batch-web-research.js | SINGLE: LITE ==="}
+{"ts":"2026-04-20T17:08:45.756Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:08:52.022Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:08:52.022Z","msg":"To process: 1 | Checkpoint done: 425"}
+{"ts":"2026-04-20T17:08:53.252Z","msg":"  [LITE] 0/4 queries OK → research/lumentumholdingsinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:08:53.274Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:09:07.393Z","msg":"=== batch-web-research.js | SINGLE: APD ==="}
+{"ts":"2026-04-20T17:09:07.393Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:09:13.363Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:09:13.363Z","msg":"To process: 1 | Checkpoint done: 426"}
+{"ts":"2026-04-20T17:09:14.734Z","msg":"  [APD] 0/4 queries OK → research/airproductsandchemicalsinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:09:14.757Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:09:31.172Z","msg":"=== batch-web-research.js | SINGLE: NEU ==="}
+{"ts":"2026-04-20T17:09:31.172Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:09:36.831Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:09:36.831Z","msg":"To process: 1 | Checkpoint done: 427"}
+{"ts":"2026-04-20T17:09:37.829Z","msg":"  [NEU] 0/4 queries OK → research/newmarketcorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:09:37.851Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:09:52.985Z","msg":"=== batch-web-research.js | SINGLE: TDY ==="}
+{"ts":"2026-04-20T17:09:52.985Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:09:59.175Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:09:59.175Z","msg":"To process: 1 | Checkpoint done: 428"}
+{"ts":"2026-04-20T17:10:00.390Z","msg":"  [TDY] 0/4 queries OK → research/teledynetechnologiesinc/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:10:00.413Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-20T17:10:21.189Z","msg":"=== batch-web-research.js | SINGLE: APH ==="}
+{"ts":"2026-04-20T17:10:21.189Z","msg":"Reading Google Sheet..."}
+{"ts":"2026-04-20T17:10:27.297Z","msg":"  362 tickers in sheet"}
+{"ts":"2026-04-20T17:10:27.298Z","msg":"To process: 1 | Checkpoint done: 428"}
+{"ts":"2026-04-20T17:10:28.682Z","msg":"  [APH] 0/4 queries OK → research/amphenolcorp/web-2026-04-20.json"}
+{"ts":"2026-04-20T17:10:28.705Z","msg":"=== Done. ok=1 errors=0 ==="}
+{"ts":"2026-04-22T13:58:57.004Z","msg":"=== batch-web-research.js | SINGLE: HGRAF ==="}
+{"ts":"2026-04-22T13:58:57.005Z","msg":"Reading sheet snapshot..."}
+{"ts":"2026-04-22T13:58:57.006Z","msg":"  363 tickers in sheet"}
+{"ts":"2026-04-22T13:59:08.673Z","msg":"=== batch-web-research.js | SINGLE: OTCMKTS:HGRAF ==="}
+{"ts":"2026-04-22T13:59:08.673Z","msg":"Reading sheet snapshot..."}
+{"ts":"2026-04-22T13:59:08.674Z","msg":"  363 tickers in sheet"}
+{"ts":"2026-04-22T13:59:08.674Z","msg":"To process: 1 | Checkpoint done: 429"}
+{"ts":"2026-04-22T13:59:08.675Z","msg":"  [OTCMKTS:HGRAF] Created research directory: research/hydrographcleanpowerinc/"}
+{"ts":"2026-04-22T13:59:09.854Z","msg":"  [OTCMKTS:HGRAF] 0/4 queries OK → research/hydrographcleanpowerinc/brave-web-2026-04-22.json"}
+{"ts":"2026-04-22T13:59:09.876Z","msg":"=== Done. ok=1 errors=0 ==="}

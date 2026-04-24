@@ -1,0 +1,14 @@
+{
+  "ticker": "FLY",
+  "company": "Firefly Aerospace Inc",
+  "slug": "fly",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "FLY Firefly Aerospace Inc stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

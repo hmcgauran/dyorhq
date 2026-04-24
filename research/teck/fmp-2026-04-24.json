@@ -1,0 +1,19 @@
+{
+  "ticker": "TECK",
+  "date": "2026-04-24",
+  "price": 60.75,
+  "marketCap": 29251125000,
+  "pe": null,
+  "eps": null,
+  "revenueTTM": null,
+  "grossMargin": null,
+  "week52High": null,
+  "week52Low": null,
+  "sharesOutstanding": 481500000,
+  "currency": "USD",
+  "exchange": "NYSE",
+  "company": "Teck Resources Limited",
+  "sector": "Basic Materials",
+  "industry": "Industrial Materials",
+  "beta": null
+}

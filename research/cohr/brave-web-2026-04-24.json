@@ -1,0 +1,29 @@
+{
+  "ticker": "COHR",
+  "company": "Coherent Corp",
+  "slug": "cohr",
+  "date": "2026-04-24",
+  "source": "brave",
+  "queries": [
+    {
+      "query": "COHR Coherent Corp earnings news 2026-04-24",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "COHR Coherent Corp analyst outlook 2026",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "COHR Coherent Corp investment thesis risks",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "COHR Coherent Corp recent catalysts",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    }
+  ]
+}

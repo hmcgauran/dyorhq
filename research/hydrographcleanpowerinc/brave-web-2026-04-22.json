@@ -1,0 +1,31 @@
+{
+  "ticker": "OTCMKTS:HGRAF",
+  "company": "HydroGraph Clean Power Inc",
+  "slug": "hydrographcleanpowerinc",
+  "date": "2026-04-22",
+  "source": "brave",
+  "queries": [
+    {
+      "query": "OTCMKTS:HGRAF HydroGraph Clean Power Inc earnings Q1 2026",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "OTCMKTS:HGRAF HydroGraph Clean Power Inc news April 2026",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "OTCMKTS:HGRAF HydroGraph Clean Power Inc stock analysis",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "OTCMKTS:HGRAF HydroGraph Clean Power Inc guidance 2026",
+      "error": "HTTP 402",
+      "hits": []
+    }
+  ],
+  "summary": "",
+  "gatheredAt": "2026-04-22T13:59:09.853Z"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "GILT",
+  "date": "2026-04-24",
+  "price": 17.64,
+  "marketCap": 1048319640,
+  "pe": null,
+  "eps": null,
+  "revenueTTM": null,
+  "grossMargin": null,
+  "week52High": null,
+  "week52Low": null,
+  "sharesOutstanding": 59428551,
+  "currency": "USD",
+  "exchange": "NASDAQ",
+  "company": "Gilat Satellite Networks Ltd.",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "beta": null
+}

@@ -1,0 +1,3622 @@
+{
+  "ITRMF": {
+    "addedAt": "2026-04-20",
+    "company": "Iterum Therapeutics PLC",
+    "slug": "iterumtherapeuticsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:FARN": {
+    "addedAt": "2026-04-20",
+    "company": "Faron Pharmaceuticals Oy",
+    "slug": "faronpharmaceuticalsoy",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:AAZ": {
+    "addedAt": "2026-04-20",
+    "company": "Anglo Asian Mining Plc",
+    "slug": "angloasianminingplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "STX": {
+    "addedAt": "2026-04-20",
+    "company": "Seagate Technology Holdings PLC",
+    "slug": "seagatetechnologyholdingsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:PXEN": {
+    "addedAt": "2026-04-20",
+    "company": "Prospex Energy PLC",
+    "slug": "prospexenergyplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "GL9": {
+    "addedAt": "2026-04-20",
+    "company": "Glanbia plc",
+    "slug": "glanbiaplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MU": {
+    "addedAt": "2026-04-20",
+    "company": "Micron Technology Inc",
+    "slug": "microntechnologyinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:CMCL": {
+    "addedAt": "2026-04-20",
+    "company": "Caledonia Mining Corporation PLC",
+    "slug": "caledoniaminingcorporationplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "JHX": {
+    "addedAt": "2026-04-20",
+    "company": "James Hardie Industries PLC",
+    "slug": "jameshardieindustriesplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:SPCE": {
+    "addedAt": "2026-04-20",
+    "company": "Virgin Galactic Holdings Inc",
+    "slug": "virgingalacticholdingsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LRCX": {
+    "addedAt": "2026-04-20",
+    "company": "Lam Research Corp",
+    "slug": "lamresearchcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "DELL": {
+    "addedAt": "2026-04-20",
+    "company": "Dell Technologies Inc",
+    "slug": "delltechnologiesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:SQZ": {
+    "addedAt": "2026-04-20",
+    "company": "Serica Energy Plc",
+    "slug": "sericaenergyplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "ABVE": {
+    "addedAt": "2026-04-20",
+    "company": "Above Food Ingredients Inc",
+    "slug": "abovefoodingredientsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:BLOE": {
+    "addedAt": "2026-04-20",
+    "company": "Block Energy PLC",
+    "slug": "blockenergyplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:ALK": {
+    "addedAt": "2026-04-20",
+    "company": "Alkemy Capital Investments PLC",
+    "slug": "alkemycapitalinvestmentsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "TRIB": {
+    "addedAt": "2026-04-20",
+    "company": "Trinity Biotech PLC",
+    "slug": "trinitybiotechplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:UPR": {
+    "addedAt": "2026-04-20",
+    "company": "Uniphar PLC",
+    "slug": "unipharplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:PANR": {
+    "addedAt": "2026-04-20",
+    "company": "Pantheon Resources Plc",
+    "slug": "pantheonresourcesplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:BVXP": {
+    "addedAt": "2026-04-20",
+    "company": "Bioventix PLC",
+    "slug": "bioventixplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:TRCS": {
+    "addedAt": "2026-04-20",
+    "company": "Tracsis Plc",
+    "slug": "tracsisplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:RNWH": {
+    "addedAt": "2026-04-20",
+    "company": "Renew Holdings Plc",
+    "slug": "renewholdingsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "ALLE": {
+    "addedAt": "2026-04-20",
+    "company": "Allegion PLC",
+    "slug": "allegionplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "IR": {
+    "addedAt": "2026-04-20",
+    "company": "Ingersoll Rand Inc",
+    "slug": "ingersollrandinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "TT": {
+    "addedAt": "2026-04-20",
+    "company": "Trane Technologies PLC",
+    "slug": "tranetechnologiesplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CAT": {
+    "addedAt": "2026-04-20",
+    "company": "Caterpillar Inc",
+    "slug": "caterpillarinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CVS": {
+    "addedAt": "2026-04-20",
+    "company": "CVS Health Corp",
+    "slug": "cvshealthcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:ZPHR": {
+    "addedAt": "2026-04-20",
+    "company": "Zephyr Energy PLC",
+    "slug": "zephyrenergyplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "JCI": {
+    "addedAt": "2026-04-20",
+    "company": "Johnson Controls International PLC",
+    "slug": "johnsoncontrolsinternationalplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ASTS": {
+    "addedAt": "2026-04-20",
+    "company": "AST SpaceMobile Inc",
+    "slug": "astspacemobileinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CRIS": {
+    "addedAt": "2026-04-20",
+    "company": "Curis Inc",
+    "slug": "curisinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:PALM": {
+    "addedAt": "2026-04-20",
+    "company": "Panther Metals Plc",
+    "slug": "panthermetalsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "YU": {
+    "addedAt": "2026-04-20",
+    "company": "Yu Group PLC",
+    "slug": "yugroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MDLZ": {
+    "addedAt": "2026-04-20",
+    "company": "MONDELEZ INTERNATIONAL INC Common Stock",
+    "slug": "mondelezinternationalinccommonstock",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:JDG": {
+    "addedAt": "2026-04-20",
+    "company": "Judges Scientific PLC",
+    "slug": "judgesscientificplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "DE": {
+    "addedAt": "2026-04-20",
+    "company": "Deere & Co",
+    "slug": "deereco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:SOM": {
+    "addedAt": "2026-04-20",
+    "company": "Somero Enterprises Inc",
+    "slug": "someroenterprisesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "TXN": {
+    "addedAt": "2026-04-20",
+    "company": "Texas Instruments Inc",
+    "slug": "texasinstrumentsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:THX": {
+    "addedAt": "2026-04-20",
+    "company": "Thor Explorations Ltd",
+    "slug": "thorexplorationsltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "CI": {
+    "addedAt": "2026-04-20",
+    "company": "Cigna Group",
+    "slug": "cignagroup",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:KYGA": {
+    "addedAt": "2026-04-20",
+    "company": "Kerry Group PLC",
+    "slug": "kerrygroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:TAM": {
+    "addedAt": "2026-04-20",
+    "company": "Tatton Asset Management PLC",
+    "slug": "tattonassetmanagementplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "NYSE:DOLE": {
+    "addedAt": "2026-04-20",
+    "company": "Dole PLC",
+    "slug": "doleplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "EMR": {
+    "addedAt": "2026-04-20",
+    "company": "Emerson Electric Co",
+    "slug": "emersonelectricco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:WSBN": {
+    "addedAt": "2026-04-20",
+    "company": "Wishbone Gold PLC",
+    "slug": "wishbonegoldplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "XPEV": {
+    "addedAt": "2026-04-20",
+    "company": "Xpeng Inc - ADR",
+    "slug": "xpengincadr",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "UAL": {
+    "addedAt": "2026-04-20",
+    "company": "United Airlines Holdings Inc",
+    "slug": "unitedairlinesholdingsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SNEX": {
+    "addedAt": "2026-04-20",
+    "company": "Stonex Group Inc",
+    "slug": "stonexgroupinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "APTV": {
+    "addedAt": "2026-04-20",
+    "company": "Aptiv PLC",
+    "slug": "aptivplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "TDY": {
+    "addedAt": "2026-04-20",
+    "company": "Teledyne Technologies Inc",
+    "slug": "teledynetechnologiesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "FDX": {
+    "addedAt": "2026-04-20",
+    "company": "FedEx Corp",
+    "slug": "fedexcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:LND": {
+    "addedAt": "2026-04-20",
+    "company": "Landore Resources Ltd.",
+    "slug": "landoreresourcesltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "NYSE:LOW": {
+    "addedAt": "2026-04-20",
+    "company": "Lowe's Companies Inc",
+    "slug": "lowescompaniesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ETN": {
+    "addedAt": "2026-04-20",
+    "company": "Eaton Corporation PLC",
+    "slug": "eatoncorporationplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:TOM": {
+    "addedAt": "2026-04-20",
+    "company": "TomCo Energy Plc",
+    "slug": "tomcoenergyplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "PVE": {
+    "addedAt": "2026-04-20",
+    "company": "Po Valley Energy Limited",
+    "slug": "povalleyenergylimited",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "GM": {
+    "addedAt": "2026-04-20",
+    "company": "General Motors Co",
+    "slug": "generalmotorsco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CSCO": {
+    "addedAt": "2026-04-20",
+    "company": "Cisco Systems Inc",
+    "slug": "ciscosystemsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SPIR": {
+    "addedAt": "2026-04-20",
+    "company": "Spire Global Inc",
+    "slug": "spireglobalinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:VLX": {
+    "addedAt": "2026-04-20",
+    "company": "Volex PLC",
+    "slug": "volexplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:GFTU": {
+    "addedAt": "2026-04-20",
+    "company": "Grafton Group Plc",
+    "slug": "graftongroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "SPG": {
+    "addedAt": "2026-04-20",
+    "company": "Simon Property Group Inc",
+    "slug": "simonpropertygroupinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "F": {
+    "addedAt": "2026-04-20",
+    "company": "Ford Motor Co",
+    "slug": "fordmotorco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "HCA": {
+    "addedAt": "2026-04-20",
+    "company": "HCA Healthcare Inc",
+    "slug": "hcahealthcareinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "HON": {
+    "addedAt": "2026-04-20",
+    "company": "Honeywell International Inc",
+    "slug": "honeywellinternationalinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ADM": {
+    "addedAt": "2026-04-20",
+    "company": "Archer-Daniels-Midland Co",
+    "slug": "archerdanielsmidlandco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "GHRS": {
+    "addedAt": "2026-04-20",
+    "company": "GH Research PLC",
+    "slug": "ghresearchplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "WFC": {
+    "addedAt": "2026-04-20",
+    "company": "Wells Fargo & Co",
+    "slug": "wellsfargoco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "WMT": {
+    "addedAt": "2026-04-20",
+    "company": "Walmart Inc",
+    "slug": "walmartinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MO": {
+    "addedAt": "2026-04-20",
+    "company": "Altria Group Inc",
+    "slug": "altriagroupinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ANET": {
+    "addedAt": "2026-04-20",
+    "company": "Arista Networks Inc",
+    "slug": "aristanetworksinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "UNP": {
+    "addedAt": "2026-04-20",
+    "company": "Union Pacific Corp",
+    "slug": "unionpacificcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:TIG": {
+    "addedAt": "2026-04-20",
+    "company": "Team Internet Group PLC",
+    "slug": "teaminternetgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "MDT": {
+    "addedAt": "2026-04-20",
+    "company": "Medtronic PLC",
+    "slug": "medtronicplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:KO": {
+    "addedAt": "2026-04-20",
+    "company": "Coca-Cola Co",
+    "slug": "cocacolaco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NIO": {
+    "addedAt": "2026-04-20",
+    "company": "Nio Inc - ADR",
+    "slug": "nioincadr",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CL": {
+    "addedAt": "2026-04-20",
+    "company": "Colgate-Palmolive Co",
+    "slug": "colgatepalmoliveco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:ELV": {
+    "addedAt": "2026-04-20",
+    "company": "Elevance Health Inc",
+    "slug": "elevancehealthinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PEP": {
+    "addedAt": "2026-04-20",
+    "company": "PepsiCo Inc",
+    "slug": "pepsicoinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:TSTL": {
+    "addedAt": "2026-04-20",
+    "company": "Tristel Plc",
+    "slug": "tristelplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "CRH": {
+    "addedAt": "2026-04-20",
+    "company": "CRH PLC",
+    "slug": "crhplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LIN": {
+    "addedAt": "2026-04-20",
+    "company": "Linde PLC",
+    "slug": "lindeplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MMM": {
+    "addedAt": "2026-04-20",
+    "company": "3M Co",
+    "slug": "3mco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "VLO": {
+    "addedAt": "2026-04-20",
+    "company": "Valero Energy Corp",
+    "slug": "valeroenergycorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:HD": {
+    "addedAt": "2026-04-20",
+    "company": "Home Depot Inc",
+    "slug": "homedepotinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:SAA": {
+    "addedAt": "2026-04-20",
+    "company": "M&C Saatchi Plc",
+    "slug": "mcsaatchiplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "RYAAY": {
+    "addedAt": "2026-04-20",
+    "company": "Ryanair Holdings PLC",
+    "slug": "ryanairholdingsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:W7L": {
+    "addedAt": "2026-04-20",
+    "company": "Warpaint London PLC",
+    "slug": "warpaintlondonplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "CNC": {
+    "addedAt": "2026-04-20",
+    "company": "Centene Corp",
+    "slug": "centenecorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:NIOX": {
+    "addedAt": "2026-04-20",
+    "company": "Niox Group PLC",
+    "slug": "nioxgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "MRK": {
+    "addedAt": "2026-04-20",
+    "company": "Merck & Co Inc",
+    "slug": "merckcoinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MPC": {
+    "addedAt": "2026-04-20",
+    "company": "Marathon Petroleum Corp",
+    "slug": "marathonpetroleumcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CAH": {
+    "addedAt": "2026-04-20",
+    "company": "Cardinal Health Inc",
+    "slug": "cardinalhealthinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PRGO": {
+    "addedAt": "2026-04-20",
+    "company": "Perrigo Company PLC",
+    "slug": "perrigocompanyplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "RTX": {
+    "addedAt": "2026-04-20",
+    "company": "Rtx Corp",
+    "slug": "rtxcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:FRP": {
+    "addedAt": "2026-04-20",
+    "company": "Frp Advisory Group PLC",
+    "slug": "frpadvisorygroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "CMPR": {
+    "addedAt": "2026-04-20",
+    "company": "Cimpress PLC",
+    "slug": "cimpressplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SO": {
+    "addedAt": "2026-04-20",
+    "company": "Southern Co",
+    "slug": "southernco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:FEVR": {
+    "addedAt": "2026-04-20",
+    "company": "Fevertree Drinks PLC",
+    "slug": "fevertreedrinksplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "GE": {
+    "addedAt": "2026-04-20",
+    "company": "General Electric Co",
+    "slug": "generalelectricco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PM": {
+    "addedAt": "2026-04-20",
+    "company": "Philip Morris International Inc.",
+    "slug": "philipmorrisinternationalinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NEE": {
+    "addedAt": "2026-04-20",
+    "company": "NextEra Energy Inc",
+    "slug": "nexteraenergyinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "GILD": {
+    "addedAt": "2026-04-20",
+    "company": "Gilead Sciences Inc",
+    "slug": "gileadsciencesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PTSB": {
+    "addedAt": "2026-04-20",
+    "company": "Permanent tsb Group Holdings PLC",
+    "slug": "permanenttsbgroupholdingsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "UNH": {
+    "addedAt": "2026-04-20",
+    "company": "UnitedHealth Group Inc",
+    "slug": "unitedhealthgroupinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:JPM": {
+    "addedAt": "2026-04-20",
+    "company": "JPMorgan Chase & Co",
+    "slug": "jpmorganchaseco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:DUK": {
+    "addedAt": "2026-04-20",
+    "company": "Duke Energy Corp",
+    "slug": "dukeenergycorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "HUM": {
+    "addedAt": "2026-04-20",
+    "company": "Humana Inc",
+    "slug": "humanainc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:KR": {
+    "addedAt": "2026-04-20",
+    "company": "Kroger Co",
+    "slug": "krogerco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:DCC": {
+    "addedAt": "2026-04-20",
+    "company": "DCC plc",
+    "slug": "dccplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "PG": {
+    "addedAt": "2026-04-20",
+    "company": "Procter & Gamble Co",
+    "slug": "proctergambleco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:CVX": {
+    "addedAt": "2026-04-20",
+    "company": "Chevron Corp",
+    "slug": "chevroncorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:RCN": {
+    "addedAt": "2026-04-20",
+    "company": "Redcentric PLC",
+    "slug": "redcentricplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:GFM": {
+    "addedAt": "2026-04-20",
+    "company": "Griffin Mining Ltd",
+    "slug": "griffinminingltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "FTC": {
+    "addedAt": "2026-04-20",
+    "company": "First Trust Large Cap Growth AlphaDEX Fund",
+    "slug": "firsttrustlargecapgrowthalphadexfund",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:BOKU": {
+    "addedAt": "2026-04-20",
+    "company": "Boku Inc",
+    "slug": "bokuinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "AMGN": {
+    "addedAt": "2026-04-20",
+    "company": "Amgen Inc",
+    "slug": "amgeninc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:DGE": {
+    "addedAt": "2026-04-20",
+    "company": "Diageo plc",
+    "slug": "diageoplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:YOU": {
+    "addedAt": "2026-04-20",
+    "company": "YouGov Plc",
+    "slug": "yougovplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "JAZZ": {
+    "addedAt": "2026-04-20",
+    "company": "Jazz Pharmaceuticals PLC",
+    "slug": "jazzpharmaceuticalsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BA": {
+    "addedAt": "2026-04-20",
+    "company": "Boeing Co",
+    "slug": "boeingco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "XOM": {
+    "addedAt": "2026-04-20",
+    "company": "Exxon Mobil Corp",
+    "slug": "exxonmobilcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "RWS": {
+    "addedAt": "2026-04-20",
+    "company": "RWS Holdings plc",
+    "slug": "rwsholdingsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:BWXT": {
+    "addedAt": "2026-04-20",
+    "company": "BWX Technologies Inc",
+    "slug": "bwxtechnologiesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:GLEN": {
+    "addedAt": "2026-04-20",
+    "company": "Glencore PLC",
+    "slug": "glencoreplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "VZ": {
+    "addedAt": "2026-04-20",
+    "company": "Verizon Communications Inc",
+    "slug": "verizoncommunicationsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NFLX": {
+    "addedAt": "2026-04-20",
+    "company": "Netflix Inc",
+    "slug": "netflixinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "IREN": {
+    "addedAt": "2026-04-20",
+    "company": "IREN Ltd",
+    "slug": "irenltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SW": {
+    "addedAt": "2026-04-20",
+    "company": "Smurfit WestRock PLC",
+    "slug": "smurfitwestrockplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "UPS": {
+    "addedAt": "2026-04-20",
+    "company": "United Parcel Service Inc",
+    "slug": "unitedparcelserviceinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:JET2": {
+    "addedAt": "2026-04-20",
+    "company": "Jet2 PLC",
+    "slug": "jet2plc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "AER": {
+    "addedAt": "2026-04-20",
+    "company": "AerCap Holdings N.V.",
+    "slug": "aercapholdingsnv",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "FTNT": {
+    "addedAt": "2026-04-20",
+    "company": "Fortinet Inc",
+    "slug": "fortinetinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ABBV": {
+    "addedAt": "2026-04-20",
+    "company": "AbbVie Common Stock",
+    "slug": "abbviecommonstock",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "COR": {
+    "addedAt": "2026-04-20",
+    "company": "Cencora Inc",
+    "slug": "cencorainc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "TJX": {
+    "addedAt": "2026-04-20",
+    "company": "TJX Companies Inc",
+    "slug": "tjxcompaniesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BRK.B": {
+    "addedAt": "2026-04-20",
+    "company": "Berkshire Hathaway Inc Class B",
+    "slug": "berkshirehathawayincclassb",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "AMZN": {
+    "addedAt": "2026-04-20",
+    "company": "Amazon.com Inc",
+    "slug": "amazoncominc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CAD": {
+    "addedAt": "2026-04-20",
+    "company": "Colonial Coal International Corp",
+    "slug": "colonialcoalinternationalcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "GS": {
+    "addedAt": "2026-04-20",
+    "company": "Goldman Sachs Group Inc",
+    "slug": "goldmansachsgroupinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "AMBP": {
+    "addedAt": "2026-04-20",
+    "company": "Ardagh Metal Packaging SA",
+    "slug": "ardaghmetalpackagingsa",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ADSE": {
+    "addedAt": "2026-04-20",
+    "company": "Ads-Tec Energy PLC",
+    "slug": "adstecenergyplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:RST": {
+    "addedAt": "2026-04-20",
+    "company": "Restore PLC",
+    "slug": "restoreplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "AUTL": {
+    "addedAt": "2026-04-20",
+    "company": "Autolus Therapeutics PLC",
+    "slug": "autolustherapeuticsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PSX": {
+    "addedAt": "2026-04-20",
+    "company": "Phillips 66",
+    "slug": "phillips66",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "JNJ": {
+    "addedAt": "2026-04-20",
+    "company": "Johnson & Johnson",
+    "slug": "johnsonjohnson",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ALKS": {
+    "addedAt": "2026-04-20",
+    "company": "Alkermes Plc",
+    "slug": "alkermesplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "DIS": {
+    "addedAt": "2026-04-20",
+    "company": "Walt Disney Co",
+    "slug": "waltdisneyco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MANU": {
+    "addedAt": "2026-04-20",
+    "company": "Manchester United PLC",
+    "slug": "manchesterunitedplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:CAML": {
+    "addedAt": "2026-04-20",
+    "company": "Central Asia Metals PLC",
+    "slug": "centralasiametalsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:HSP": {
+    "addedAt": "2026-04-20",
+    "company": "Hargreaves Services plc",
+    "slug": "hargreavesservicesplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "BMY": {
+    "addedAt": "2026-04-20",
+    "company": "Bristol-Myers Squibb Co",
+    "slug": "bristolmyerssquibbco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:GD": {
+    "addedAt": "2026-04-20",
+    "company": "General Dynamics Corp",
+    "slug": "generaldynamicscorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "RNO": {
+    "addedAt": "2026-04-20",
+    "company": "Renault SA",
+    "slug": "renaultsa",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "STE": {
+    "addedAt": "2026-04-20",
+    "company": "Steris PLC",
+    "slug": "sterisplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BLK": {
+    "addedAt": "2026-04-20",
+    "company": "BlackRock Inc",
+    "slug": "blackrockinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "COP": {
+    "addedAt": "2026-04-20",
+    "company": "ConocoPhillips",
+    "slug": "conocophillips",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "AMD": {
+    "addedAt": "2026-04-20",
+    "company": "Advanced Micro Devices Inc",
+    "slug": "advancedmicrodevicesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:SAG": {
+    "addedAt": "2026-04-20",
+    "company": "Science Group PLC",
+    "slug": "sciencegroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "ALL": {
+    "addedAt": "2026-04-20",
+    "company": "Allstate Corp",
+    "slug": "allstatecorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "AIG": {
+    "addedAt": "2026-04-20",
+    "company": "American International Group Inc",
+    "slug": "americaninternationalgroupinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NOC": {
+    "addedAt": "2026-04-20",
+    "company": "Northrop Grumman Corp",
+    "slug": "northropgrummancorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BEG": {
+    "addedAt": "2026-04-20",
+    "company": "Leverage Shares 2X Long BE Daily ETF",
+    "slug": "leverageshares2xlongbedailyetf",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:CVSG": {
+    "addedAt": "2026-04-20",
+    "company": "CVS Group Plc",
+    "slug": "cvsgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "EPD": {
+    "addedAt": "2026-04-20",
+    "company": "Enterprise Products Partners L.P",
+    "slug": "enterpriseproductspartnerslp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MRL": {
+    "addedAt": "2026-04-20",
+    "company": "MERLIN Properties SOCIMI SA",
+    "slug": "merlinpropertiessocimisa",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "GEV": {
+    "addedAt": "2026-04-20",
+    "company": "GE Vernova Inc",
+    "slug": "gevernovainc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:TGT": {
+    "addedAt": "2026-04-20",
+    "company": "Target Corp",
+    "slug": "targetcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "COST": {
+    "addedAt": "2026-04-20",
+    "company": "Costco Wholesale Corp",
+    "slug": "costcowholesalecorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "TSE:VEQT": {
+    "addedAt": "2026-04-20",
+    "company": "Vanguard All-Equity ETF Portfolio",
+    "slug": "vanguardallequityetfportfolio",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "ADNT": {
+    "addedAt": "2026-04-20",
+    "company": "Adient PLC",
+    "slug": "adientplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:AMS": {
+    "addedAt": "2026-04-20",
+    "company": "Advanced Medical Solutions Group plc",
+    "slug": "advancedmedicalsolutionsgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:GTLY": {
+    "addedAt": "2026-04-20",
+    "company": "Gateley (Holdings) PLC",
+    "slug": "gateleyholdingsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "GLB": {
+    "addedAt": "2026-04-20",
+    "company": "Goldbank Mining Corp",
+    "slug": "goldbankminingcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BIG": {
+    "addedAt": "2026-04-20",
+    "company": "Hercules Metals Corp",
+    "slug": "herculesmetalscorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "KGSPY": {
+    "addedAt": "2026-04-20",
+    "company": "Kingspan Group ADR",
+    "slug": "kingspangroupadr",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:MPE": {
+    "addedAt": "2026-04-20",
+    "company": "M P Evans Group PLC",
+    "slug": "mpevansgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "MKA": {
+    "addedAt": "2026-04-20",
+    "company": "Mkango Resources Ltd",
+    "slug": "mkangoresourcesltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SMS": {
+    "addedAt": "2026-04-20",
+    "company": "Star Minerals Ltd",
+    "slug": "starmineralsltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:VAST": {
+    "addedAt": "2026-04-20",
+    "company": "Vast Resources PLC",
+    "slug": "vastresourcesplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "WBA": {
+    "addedAt": "2026-04-20",
+    "company": "Walgreen Boots Alliance Ord Shs",
+    "slug": "walgreenbootsallianceordshs",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "GOOG": {
+    "addedAt": "2026-04-20",
+    "company": "Alphabet Inc Class C",
+    "slug": "alphabetincclassc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:AVG": {
+    "addedAt": "2026-04-20",
+    "company": "Avingtrans plc",
+    "slug": "avingtransplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "DAL": {
+    "addedAt": "2026-04-20",
+    "company": "Delta Air Lines Inc",
+    "slug": "deltaairlinesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:PAF": {
+    "addedAt": "2026-04-20",
+    "company": "Pan African Resources plc",
+    "slug": "panafricanresourcesplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "USB": {
+    "addedAt": "2026-04-20",
+    "company": "US Bancorp",
+    "slug": "usbancorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CMCSA": {
+    "addedAt": "2026-04-20",
+    "company": "Comcast Corp",
+    "slug": "comcastcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ET": {
+    "addedAt": "2026-04-20",
+    "company": "Energy Transfer LP Unit",
+    "slug": "energytransferlpunit",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PRU": {
+    "addedAt": "2026-04-20",
+    "company": "Prudential Financial Inc",
+    "slug": "prudentialfinancialinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:TFW": {
+    "addedAt": "2026-04-20",
+    "company": "FW Thorpe plc",
+    "slug": "fwthorpeplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "SBUX": {
+    "addedAt": "2026-04-20",
+    "company": "Starbucks Corp",
+    "slug": "starbuckscorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:CHRT": {
+    "addedAt": "2026-04-20",
+    "company": "Cohort PLC",
+    "slug": "cohortplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LLY": {
+    "addedAt": "2026-04-20",
+    "company": "Eli Lilly And Co",
+    "slug": "elilillyandco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MCK": {
+    "addedAt": "2026-04-20",
+    "company": "McKesson Corp",
+    "slug": "mckessoncorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CHKP": {
+    "addedAt": "2026-04-20",
+    "company": "Check Point Software Technologies Ltd",
+    "slug": "checkpointsoftwaretechnologiesltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "AMRN": {
+    "addedAt": "2026-04-20",
+    "company": "Amarin Corporation PLC",
+    "slug": "amarincorporationplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:MTL": {
+    "addedAt": "2026-04-20",
+    "company": "Metals Exploration Plc",
+    "slug": "metalsexplorationplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:MIDW": {
+    "addedAt": "2026-04-20",
+    "company": "Midwich Group PLC",
+    "slug": "midwichgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "PRTA": {
+    "addedAt": "2026-04-20",
+    "company": "Prothena Corporation PLC",
+    "slug": "prothenacorporationplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "DHR": {
+    "addedAt": "2026-04-20",
+    "company": "Danaher Corp",
+    "slug": "danahercorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:LBG": {
+    "addedAt": "2026-04-20",
+    "company": "LBG Media PLC",
+    "slug": "lbgmediaplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:AOM": {
+    "addedAt": "2026-04-20",
+    "company": "Activeops PLC",
+    "slug": "activeopsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "T": {
+    "addedAt": "2026-04-20",
+    "company": "AT&T Inc",
+    "slug": "attinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "DOW": {
+    "addedAt": "2026-04-20",
+    "company": "Dow Inc",
+    "slug": "dowinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:GRP": {
+    "addedAt": "2026-04-20",
+    "company": "Greencoat Renewables PLC",
+    "slug": "greencoatrenewablesplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "AXP": {
+    "addedAt": "2026-04-20",
+    "company": "American Express Co",
+    "slug": "americanexpressco",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "TMO": {
+    "addedAt": "2026-04-20",
+    "company": "Thermo Fisher Scientific Inc",
+    "slug": "thermofisherscientificinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "V": {
+    "addedAt": "2026-04-20",
+    "company": "Visa Inc",
+    "slug": "visainc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BK": {
+    "addedAt": "2026-04-20",
+    "company": "Bank of New York Mellon Corp",
+    "slug": "bankofnewyorkmelloncorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PFE": {
+    "addedAt": "2026-04-20",
+    "company": "Pfizer Inc",
+    "slug": "pfizerinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:MA": {
+    "addedAt": "2026-04-20",
+    "company": "Mastercard Inc",
+    "slug": "mastercardinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "TMUS": {
+    "addedAt": "2026-04-20",
+    "company": "T-Mobile Us Inc",
+    "slug": "tmobileusinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LMT": {
+    "addedAt": "2026-04-20",
+    "company": "Lockheed Martin Corp",
+    "slug": "lockheedmartincorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NICL": {
+    "addedAt": "2026-04-20",
+    "company": "Nichols plc",
+    "slug": "nicholsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:CER": {
+    "addedAt": "2026-04-20",
+    "company": "Cerillion PLC",
+    "slug": "cerillionplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:IDOX": {
+    "addedAt": "2026-04-20",
+    "company": "IDOX plc",
+    "slug": "idoxplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:ABDP": {
+    "addedAt": "2026-04-20",
+    "company": "Ab Dynamics PLC",
+    "slug": "abdynamicsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:ARBB": {
+    "addedAt": "2026-04-20",
+    "company": "Arbuthnot Banking Group Ord Shs",
+    "slug": "arbuthnotbankinggroupordshs",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:YCA": {
+    "addedAt": "2026-04-20",
+    "company": "Yellow Cake PLC",
+    "slug": "yellowcakeplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "ICLR": {
+    "addedAt": "2026-04-20",
+    "company": "ICON PLC",
+    "slug": "iconplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MCD": {
+    "addedAt": "2026-04-20",
+    "company": "McDonald's Corp",
+    "slug": "mcdonaldscorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PANW": {
+    "addedAt": "2026-04-20",
+    "company": "Palo Alto Networks Inc",
+    "slug": "paloaltonetworksinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:AIBG": {
+    "addedAt": "2026-04-20",
+    "company": "AIB Group plc",
+    "slug": "aibgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:RKH": {
+    "addedAt": "2026-04-20",
+    "company": "Rockhopper Exploration Plc",
+    "slug": "rockhopperexplorationplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "QCOM": {
+    "addedAt": "2026-04-20",
+    "company": "Qualcomm Inc",
+    "slug": "qualcomminc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:BUR": {
+    "addedAt": "2026-04-20",
+    "company": "Burford Capital Limited",
+    "slug": "burfordcapitallimited",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:ANCR": {
+    "addedAt": "2026-04-20",
+    "company": "Animalcare Group Plc",
+    "slug": "animalcaregroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "JD": {
+    "addedAt": "2026-04-20",
+    "company": "JD.Com Inc",
+    "slug": "jdcominc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ZYME": {
+    "addedAt": "2026-04-20",
+    "company": "Zymeworks Inc",
+    "slug": "zymeworksinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "INTC": {
+    "addedAt": "2026-04-20",
+    "company": "Intel Corp",
+    "slug": "intelcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "AAPL": {
+    "addedAt": "2026-04-20",
+    "company": "Apple Inc",
+    "slug": "appleinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:BPM": {
+    "addedAt": "2026-04-20",
+    "company": "B.P. Marsh & Partners plc",
+    "slug": "bpmarshpartnersplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:SRC": {
+    "addedAt": "2026-04-20",
+    "company": "Sigmaroc PLC",
+    "slug": "sigmarocplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "COF": {
+    "addedAt": "2026-04-20",
+    "company": "Capital One Financial Corp",
+    "slug": "capitalonefinancialcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BABA": {
+    "addedAt": "2026-04-20",
+    "company": "Alibaba Group Holding Ltd - ADR",
+    "slug": "alibabagroupholdingltdadr",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SYY": {
+    "addedAt": "2026-04-20",
+    "company": "Sysco Corp",
+    "slug": "syscocorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PGR": {
+    "addedAt": "2026-04-20",
+    "company": "Progressive Corp",
+    "slug": "progressivecorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:HCM": {
+    "addedAt": "2026-04-20",
+    "company": "HUTCHMED (China) Ltd",
+    "slug": "hutchmedchinaltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "C": {
+    "addedAt": "2026-04-20",
+    "company": "Citigroup Inc",
+    "slug": "citigroupinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:BRCK": {
+    "addedAt": "2026-04-20",
+    "company": "BRCK Group PLC",
+    "slug": "brckgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "SCHW": {
+    "addedAt": "2026-04-20",
+    "company": "Charles Schwab Corporation Common Stock",
+    "slug": "charlesschwabcorporationcommonstock",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:AMRQ": {
+    "addedAt": "2026-04-20",
+    "company": "Amaroq Ord Shs",
+    "slug": "amaroqordshs",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "NYSE:MET": {
+    "addedAt": "2026-04-20",
+    "company": "Metlife Inc",
+    "slug": "metlifeinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ISRG": {
+    "addedAt": "2026-04-20",
+    "company": "Intuitive Surgical Inc",
+    "slug": "intuitivesurgicalinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:CMRS": {
+    "addedAt": "2026-04-20",
+    "company": "Critical Mineral Resources PLC",
+    "slug": "criticalmineralresourcesplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "NVDA": {
+    "addedAt": "2026-04-20",
+    "company": "NVIDIA Corp",
+    "slug": "nvidiacorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ABT": {
+    "addedAt": "2026-04-20",
+    "company": "Abbott Laboratories",
+    "slug": "abbottlaboratories",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:YNGA": {
+    "addedAt": "2026-04-20",
+    "company": "Young And Co'S Brewery Ord Shs",
+    "slug": "youngandcosbreweryordshs",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "PL": {
+    "addedAt": "2026-04-20",
+    "company": "Planet Labs PBC",
+    "slug": "planetlabspbc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PLTR": {
+    "addedAt": "2026-04-20",
+    "company": "Palantir Technologies Inc",
+    "slug": "palantirtechnologiesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:ACSO": {
+    "addedAt": "2026-04-20",
+    "company": "Accesso Technology Group PLC",
+    "slug": "accessotechnologygroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:LTHM": {
+    "addedAt": "2026-04-20",
+    "company": "James Latham plc",
+    "slug": "jameslathamplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "ONDO": {
+    "addedAt": "2026-04-20",
+    "company": "Ondo InsurTech PLC",
+    "slug": "ondoinsurtechplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:TPFG": {
+    "addedAt": "2026-04-20",
+    "company": "Property Franchise Group PLC",
+    "slug": "propertyfranchisegroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:POLR": {
+    "addedAt": "2026-04-20",
+    "company": "Polar Capital Holdings plc",
+    "slug": "polarcapitalholdingsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:FNTL": {
+    "addedAt": "2026-04-20",
+    "company": "Fintel PLC",
+    "slug": "fintelplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:CRW": {
+    "addedAt": "2026-04-20",
+    "company": "Craneware plc",
+    "slug": "cranewareplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "ACN": {
+    "addedAt": "2026-04-20",
+    "company": "Accenture Plc",
+    "slug": "accentureplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:EVPL": {
+    "addedAt": "2026-04-20",
+    "company": "Everplay Group PLC",
+    "slug": "everplaygroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "IBM": {
+    "addedAt": "2026-04-20",
+    "company": "IBM Common Stock",
+    "slug": "ibmcommonstock",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BAC": {
+    "addedAt": "2026-04-20",
+    "company": "Bank of America Corp",
+    "slug": "bankofamericacorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "META": {
+    "addedAt": "2026-04-20",
+    "company": "Meta Platforms Inc",
+    "slug": "metaplatformsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MDB": {
+    "addedAt": "2026-04-20",
+    "company": "Mongodb Inc",
+    "slug": "mongodbinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ACI": {
+    "addedAt": "2026-04-20",
+    "company": "Albertsons Companies Inc",
+    "slug": "albertsonscompaniesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BKNG": {
+    "addedAt": "2026-04-20",
+    "company": "Booking Holdings Inc",
+    "slug": "bookingholdingsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BIRG": {
+    "addedAt": "2026-04-20",
+    "company": "Bank of Ireland Group plc",
+    "slug": "bankofirelandgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:PTAL": {
+    "addedAt": "2026-04-20",
+    "company": "Petrotal Corp",
+    "slug": "petrotalcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "CRWD": {
+    "addedAt": "2026-04-20",
+    "company": "Crowdstrike Holdings Inc",
+    "slug": "crowdstrikeholdingsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:BKS": {
+    "addedAt": "2026-04-20",
+    "company": "Beeks Financial Cloud Group PLC",
+    "slug": "beeksfinancialcloudgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "NVTS": {
+    "addedAt": "2026-04-20",
+    "company": "Navitas Semiconductor Corp",
+    "slug": "navitassemiconductorcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:ADVT": {
+    "addedAt": "2026-04-20",
+    "company": "AdvancedAdvT Ltd",
+    "slug": "advancedadvtltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:SUP": {
+    "addedAt": "2026-04-20",
+    "company": "Supreme PLC",
+    "slug": "supremeplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:JHD": {
+    "addedAt": "2026-04-20",
+    "company": "James Halstead PLC",
+    "slug": "jameshalsteadplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:GBG": {
+    "addedAt": "2026-04-20",
+    "company": "GB Group plc",
+    "slug": "gbgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:MAB1": {
+    "addedAt": "2026-04-20",
+    "company": "Mortgage Advice Bureau (Holdings) PLC",
+    "slug": "mortgageadvicebureauholdingsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:HUW": {
+    "addedAt": "2026-04-20",
+    "company": "Helios Underwriting PLC",
+    "slug": "heliosunderwritingplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "FFAI": {
+    "addedAt": "2026-04-20",
+    "company": "Faraday Future Intelligent Electric Inc",
+    "slug": "faradayfutureintelligentelectricinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "KBGGY": {
+    "addedAt": "2026-04-20",
+    "company": "KONGSBERG GRUPPEN Unsponsored Norway ADR",
+    "slug": "kongsberggruppenunsponsorednorwayadr",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CRM": {
+    "addedAt": "2026-04-20",
+    "company": "Salesforce Inc",
+    "slug": "salesforceinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:ITM": {
+    "addedAt": "2026-04-20",
+    "company": "ITM Power plc",
+    "slug": "itmpowerplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:VTU": {
+    "addedAt": "2026-04-20",
+    "company": "Vertu Motors Plc",
+    "slug": "vertumotorsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "MSFT": {
+    "addedAt": "2026-04-20",
+    "company": "Microsoft Corp",
+    "slug": "microsoftcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ADBE": {
+    "addedAt": "2026-04-20",
+    "company": "Adobe Inc",
+    "slug": "adobeinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "TSLA": {
+    "addedAt": "2026-04-20",
+    "company": "Tesla Inc",
+    "slug": "teslainc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NKE": {
+    "addedAt": "2026-04-20",
+    "company": "Nike Inc",
+    "slug": "nikeinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:MSI": {
+    "addedAt": "2026-04-20",
+    "company": "MS International plc",
+    "slug": "msinternationalplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "AVGO": {
+    "addedAt": "2026-04-20",
+    "company": "Broadcom Inc",
+    "slug": "broadcominc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:GGP": {
+    "addedAt": "2026-04-20",
+    "company": "Greatland Resources Ltd",
+    "slug": "greatlandresourcesltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LON:AVCT": {
+    "addedAt": "2026-04-20",
+    "company": "Avacta Group Plc",
+    "slug": "avactagroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "FLUT": {
+    "addedAt": "2026-04-20",
+    "company": "Flutter Entertainment PLC",
+    "slug": "flutterentertainmentplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "EXPGF": {
+    "addedAt": "2026-04-20",
+    "company": "Experian plc",
+    "slug": "experianplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "EPA:ETL": {
+    "addedAt": "2026-04-20",
+    "company": "Eutelsat Communications SA",
+    "slug": "eutelsatcommunicationssa",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "INTU": {
+    "addedAt": "2026-04-20",
+    "company": "Intuit Inc",
+    "slug": "intuitinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BOO": {
+    "addedAt": "2026-04-20",
+    "company": "Bloomin' Brands Inc",
+    "slug": "bloominbrandsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "INDIGO": {
+    "addedAt": "2026-04-20",
+    "company": "Interglobe Aviation Ltd",
+    "slug": "interglobeaviationltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SLP": {
+    "addedAt": "2026-04-20",
+    "company": "Simulations Plus Inc",
+    "slug": "simulationsplusinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SHOP": {
+    "addedAt": "2026-04-20",
+    "company": "Shopify Inc",
+    "slug": "shopifyinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "UBER": {
+    "addedAt": "2026-04-20",
+    "company": "Uber Technologies Inc",
+    "slug": "ubertechnologiesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "JCSE": {
+    "addedAt": "2026-04-20",
+    "company": "JE Cleantech Holdings Ltd",
+    "slug": "jecleantechholdingsltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MS": {
+    "addedAt": "2026-04-20",
+    "company": "Morgan Stanley",
+    "slug": "morganstanley",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NET": {
+    "addedAt": "2026-04-20",
+    "company": "Cloudflare Inc",
+    "slug": "cloudflareinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ORCL": {
+    "addedAt": "2026-04-20",
+    "company": "Oracle Corp",
+    "slug": "oraclecorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "RUOC": {
+    "addedAt": "2026-04-20",
+    "company": "Ocean Power Technologies Inc",
+    "slug": "oceanpowertechnologiesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "C43": {
+    "addedAt": "2026-04-20",
+    "company": "Cosmo Pharmaceuticals NV",
+    "slug": "cosmopharmaceuticalsnv",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:DOTD": {
+    "addedAt": "2026-04-20",
+    "company": "Dotdigital Group plc",
+    "slug": "dotdigitalgroupplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "NOW": {
+    "addedAt": "2026-04-20",
+    "company": "ServiceNow Inc",
+    "slug": "servicenowinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "RGTI": {
+    "addedAt": "2026-04-20",
+    "company": "Rigetti Computing Inc",
+    "slug": "rigetticomputinginc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SLMT": {
+    "addedAt": "2026-04-20",
+    "company": "Brera Holdings PLC",
+    "slug": "breraholdingsplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "FOBK": {
+    "addedAt": "2026-04-20",
+    "company": "Kneat.com Inc",
+    "slug": "kneatcominc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NYSE:OKLO": {
+    "addedAt": "2026-04-20",
+    "company": "Oklo Inc",
+    "slug": "okloinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LON:QED": {
+    "addedAt": "2026-04-20",
+    "company": "Quadrise PLC",
+    "slug": "quadriseplc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "IONQ": {
+    "addedAt": "2026-04-20",
+    "company": "IONQ Inc",
+    "slug": "ionqinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SMR": {
+    "addedAt": "2026-04-20",
+    "company": "Nuscale Power Corp",
+    "slug": "nuscalepowercorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "QBTS": {
+    "addedAt": "2026-04-20",
+    "company": "D-Wave Quantum Inc",
+    "slug": "dwavequantuminc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "FRA:J9J": {
+    "addedAt": "2026-04-20",
+    "company": "Hamak Strategy Ltd",
+    "slug": "hamakstrategyltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "LPTH": {
+    "addedAt": "2026-04-20",
+    "company": "LightPath Technologies Inc",
+    "slug": "lightpathtechnologiesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "SIVE": {
+    "addedAt": "2026-04-20",
+    "company": "Sivers Semiconductors AB",
+    "slug": "siverssemiconductorsab",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BME:ART": {
+    "addedAt": "2026-04-20",
+    "company": "Arteche Lantegi Elkartea SA",
+    "slug": "artechelantegielkarteasa",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "CVE:PNG": {
+    "addedAt": "2026-04-20",
+    "company": "Kraken Robotics Inc",
+    "slug": "krakenroboticsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "ASX:EOS": {
+    "addedAt": "2026-04-20",
+    "company": "Electro Optic Systems Holdings Ltd",
+    "slug": "electroopticsystemsholdingsltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MOG.A": {
+    "addedAt": "2026-04-20",
+    "company": "Moog Inc Class A",
+    "slug": "moogincclassa",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "AME": {
+    "addedAt": "2026-04-20",
+    "company": "Ametek Inc",
+    "slug": "ametekinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "GHM": {
+    "addedAt": "2026-04-20",
+    "company": "Graham Corp",
+    "slug": "grahamcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "RDW": {
+    "addedAt": "2026-04-20",
+    "company": "Redwire Corp",
+    "slug": "redwirecorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "RKLB": {
+    "addedAt": "2026-04-20",
+    "company": "Rocket Lab Corp",
+    "slug": "rocketlabcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "KTOS": {
+    "addedAt": "2026-04-20",
+    "company": "Kratos Defense & Security Solutions Inc",
+    "slug": "kratosdefensesecuritysolutionsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "FLY": {
+    "addedAt": "2026-04-20",
+    "company": "Firefly Aerospace Inc",
+    "slug": "fireflyaerospaceinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "VOYG": {
+    "addedAt": "2026-04-20",
+    "company": "Voyager Technologies Inc",
+    "slug": "voyagertechnologiesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MDA": {
+    "addedAt": "2026-04-20",
+    "company": "MDA Space Ltd",
+    "slug": "mdaspaceltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LUNR": {
+    "addedAt": "2026-04-20",
+    "company": "Intuitive Machines Inc",
+    "slug": "intuitivemachinesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "GILT": {
+    "addedAt": "2026-04-20",
+    "company": "Gilat Satellite Networks Ltd",
+    "slug": "gilatsatellitenetworksltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "VSAT": {
+    "addedAt": "2026-04-20",
+    "company": "Viasat Inc",
+    "slug": "viasatinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "GSAT": {
+    "addedAt": "2026-04-20",
+    "company": "Globalstar, Inc.",
+    "slug": "globalstarinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "BKSY": {
+    "addedAt": "2026-04-20",
+    "company": "Blacksky Technology Inc",
+    "slug": "blackskytechnologyinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "IRDM": {
+    "addedAt": "2026-04-20",
+    "company": "Iridium Communications Inc",
+    "slug": "iridiumcommunicationsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "RBC": {
+    "addedAt": "2026-04-20",
+    "company": "RBC Bearings Inc",
+    "slug": "rbcbearingsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PH": {
+    "addedAt": "2026-04-20",
+    "company": "Parker-Hannifin Corp",
+    "slug": "parkerhannifincorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "KRMN": {
+    "addedAt": "2026-04-20",
+    "company": "Karman Holdings Inc",
+    "slug": "karmanholdingsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NASDAQ:GOOGL": {
+    "addedAt": "2026-04-20",
+    "company": "Alphabet Inc Class A",
+    "slug": "alphabetincclassa",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "EPA:ALRIB": {
+    "addedAt": "2026-04-20",
+    "company": "Riber SA",
+    "slug": "ribersa",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "N/A"
+    }
+  },
+  "ASX:TBN": {
+    "addedAt": "2026-04-20",
+    "company": "Tamboran Resources Corp CDI",
+    "slug": "tamboranresourcescorpcdi",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MP": {
+    "addedAt": "2026-04-20",
+    "company": "Mp Materials Corp",
+    "slug": "mpmaterialscorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "AA": {
+    "addedAt": "2026-04-20",
+    "company": "Alcoa Corp",
+    "slug": "alcoacorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "TECK": {
+    "addedAt": "2026-04-20",
+    "company": "Teck Resources Ltd",
+    "slug": "teckresourcesltd",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ALM": {
+    "addedAt": "2026-04-20",
+    "company": "Almonty Industries Inc",
+    "slug": "almontyindustriesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "FCX": {
+    "addedAt": "2026-04-20",
+    "company": "Freeport-McMoRan Inc",
+    "slug": "freeportmcmoraninc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "CRS": {
+    "addedAt": "2026-04-20",
+    "company": "Carpenter Technology Corp",
+    "slug": "carpentertechnologycorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MTRN": {
+    "addedAt": "2026-04-20",
+    "company": "Materion Corp",
+    "slug": "materioncorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "HXL": {
+    "addedAt": "2026-04-20",
+    "company": "Hexcel Corp",
+    "slug": "hexcelcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ATI": {
+    "addedAt": "2026-04-20",
+    "company": "ATI Inc",
+    "slug": "atiinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "GLW": {
+    "addedAt": "2026-04-20",
+    "company": "Corning Inc",
+    "slug": "corninginc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "PKE": {
+    "addedAt": "2026-04-20",
+    "company": "Park Aerospace Corp",
+    "slug": "parkaerospacecorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "ADI": {
+    "addedAt": "2026-04-20",
+    "company": "Analog Devices Inc",
+    "slug": "analogdevicesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MCHP": {
+    "addedAt": "2026-04-20",
+    "company": "Microchip Technology Inc",
+    "slug": "microchiptechnologyinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "QRVO": {
+    "addedAt": "2026-04-20",
+    "company": "Qorvo Inc",
+    "slug": "qorvoinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "MRCY": {
+    "addedAt": "2026-04-20",
+    "company": "Mercury Systems Inc",
+    "slug": "mercurysystemsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "TTMI": {
+    "addedAt": "2026-04-20",
+    "company": "TTM Technologies Inc",
+    "slug": "ttmtechnologiesinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "COHR": {
+    "addedAt": "2026-04-20",
+    "company": "Coherent Corp",
+    "slug": "coherentcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "LITE": {
+    "addedAt": "2026-04-20",
+    "company": "Lumentum Holdings Inc",
+    "slug": "lumentumholdingsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "APD": {
+    "addedAt": "2026-04-20",
+    "company": "Air Products and Chemicals Inc",
+    "slug": "airproductsandchemicalsinc",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "NEU": {
+    "addedAt": "2026-04-20",
+    "company": "Newmarket Corp",
+    "slug": "newmarketcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  },
+  "APH": {
+    "addedAt": "2026-04-20",
+    "company": "Amphenol Corp",
+    "slug": "amphenolcorp",
+    "stages": {
+      "directory": "2026-04-20",
+      "webResearch": "2026-04-20",
+      "edgar": "2026-04-20"
+    }
+  }
+}

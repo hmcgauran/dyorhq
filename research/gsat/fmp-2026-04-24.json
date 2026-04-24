@@ -1,0 +1,19 @@
+{
+  "ticker": "GSAT",
+  "date": "2026-04-24",
+  "price": 81.29,
+  "marketCap": 10453162390,
+  "pe": null,
+  "eps": null,
+  "revenueTTM": null,
+  "grossMargin": null,
+  "week52High": null,
+  "week52Low": null,
+  "sharesOutstanding": 128591000,
+  "currency": "USD",
+  "exchange": "NASDAQ",
+  "company": "Globalstar, Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecommunications Services",
+  "beta": null
+}

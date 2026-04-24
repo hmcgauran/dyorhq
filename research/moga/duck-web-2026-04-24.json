@@ -1,0 +1,14 @@
+{
+  "ticker": "MOG.A",
+  "company": "Moog Inc Class A",
+  "slug": "moga",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "MOG.A Moog Inc Class A stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

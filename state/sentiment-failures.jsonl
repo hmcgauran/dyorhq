@@ -11,3 +11,33 @@
 {"ticker":"CSCO","date":"2026-04-17","error":"all_retries_failed"}
 {"ticker":"CSCO","date":"2026-04-17","error":"all_retries_failed"}
 {"ticker":"CSCO","date":"2026-04-17","error":"all_retries_failed"}
+{"timestamp":"2026-04-22T13:59:45.393Z","context":"grokChat","error":"Grok API 400: {\"code\":\"Client specified an invalid argument\",\"error\":\"the model grok-3-mini is not supported when using server-side tools, only the grok-4 family of models are supported\"}"}
+{"timestamp":"2026-04-22T14:04:35.387Z","context":"grokChat","error":"Grok API 400: {\"code\":\"Client specified an invalid argument\",\"error\":\"the model grok-3-mini is not supported when using server-side tools, only the grok-4 family of models are supported\"}"}
+{"timestamp":"2026-04-22T14:04:48.817Z","context":"grokChat","error":"Grok API 400: {\"code\":\"Client specified an invalid argument\",\"error\":\"the model grok-3-mini is not supported when using server-side tools, only the grok-4 family of models are supported\"}"}
+{"timestamp":"2026-04-24T05:13:41.367Z","context":"grokChat","error":"Grok API 400: {\"code\":\"Client specified an invalid argument\",\"error\":\"the model grok-3-mini is not supported when using server-side tools, only the grok-4 family of models are supported\"}"}
+{"ticker":"RKLB","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:15:05.199Z","context":"grokChat","error":"Grok API 400: {\"code\":\"Client specified an invalid argument\",\"error\":\"the model grok-3-mini is not supported when using server-side tools, only the grok-4 family of models are supported\"}"}
+{"timestamp":"2026-04-24T05:20:53.528Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"MCHP","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:21:03.987Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"QRVO","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:21:14.427Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"MRCY","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:21:29.771Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"TTMI","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:21:40.115Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"COHR","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:21:50.554Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"LITE","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:23:42.662Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"APD","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:23:53.032Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"NEU","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:24:03.499Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"GHM","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:24:16.673Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"MDA","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:25:13.452Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"MDA","date":"2026-04-24","error":"all_retries_failed"}
+{"timestamp":"2026-04-24T05:26:14.917Z","context":"grokChat","error":"Grok API 429: {\"code\":\"Some resource has been exhausted\",\"error\":\"Your team 44ac8700-cde8-41b9-879f-9b319009511f has either used all available credits or reached its monthly spending limit. To continue making API r"}
+{"ticker":"MDA","date":"2026-04-24","error":"all_retries_failed"}

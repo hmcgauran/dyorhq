@@ -1,0 +1,19 @@
+{
+  "ticker": "GHM",
+  "date": "2026-04-24",
+  "price": 97.6,
+  "marketCap": 1080703328,
+  "pe": null,
+  "eps": null,
+  "revenueTTM": null,
+  "grossMargin": null,
+  "week52High": null,
+  "week52Low": null,
+  "sharesOutstanding": 11072780,
+  "currency": "USD",
+  "exchange": "NYSE",
+  "company": "Graham Corporation",
+  "sector": "Industrials",
+  "industry": "Industrial - Machinery",
+  "beta": null
+}

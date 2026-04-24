@@ -1,0 +1,19 @@
+{
+  "ticker": "FLY",
+  "date": "2026-04-24",
+  "price": 38.54,
+  "marketCap": 6164565496,
+  "pe": null,
+  "eps": null,
+  "revenueTTM": null,
+  "grossMargin": null,
+  "week52High": null,
+  "week52Low": null,
+  "sharesOutstanding": 159952400,
+  "currency": "USD",
+  "exchange": "NASDAQ",
+  "company": "Firefly Aerospace Inc.",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "beta": null
+}

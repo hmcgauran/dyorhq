@@ -1,0 +1,14 @@
+{
+  "ticker": "RKLB",
+  "company": "Rocket Lab Corp",
+  "slug": "rocketlabcorp",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "RKLB Rocket Lab Corp stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

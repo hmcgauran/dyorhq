@@ -1,0 +1,14 @@
+{
+  "ticker": "KRMN",
+  "company": "Karman Holdings Inc",
+  "slug": "krmn",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "KRMN Karman Holdings Inc stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

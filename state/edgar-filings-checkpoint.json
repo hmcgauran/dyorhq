@@ -1,0 +1,4335 @@
+{
+  "done": {
+    "MMM": {
+      "ticker": "MMM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ABT": {
+      "ticker": "ABT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ABBV": {
+      "ticker": "ABBV",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ABDP": {
+      "ticker": "ABDP",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "ABVE": {
+      "ticker": "ABVE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "ACN": {
+      "ticker": "ACN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ACSO": {
+      "ticker": "ACSO",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "AOM": {
+      "ticker": "AOM",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "ADNT": {
+      "ticker": "ADNT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ADBE": {
+      "ticker": "ADBE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ADSE": {
+      "ticker": "ADSE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "ADVT": {
+      "ticker": "ADVT",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "AMS": {
+      "ticker": "AMS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AMD": {
+      "ticker": "AMD",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AER": {
+      "ticker": "AER",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "AIBG": {
+      "ticker": "AIBG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "ACI": {
+      "ticker": "ACI",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "BABA": {
+      "ticker": "BABA",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "ALK": {
+      "ticker": "ALK",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ALKS": {
+      "ticker": "ALKS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ALLE": {
+      "ticker": "ALLE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ALL": {
+      "ticker": "ALL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GOOGL": {
+      "ticker": "GOOGL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GOOG": {
+      "ticker": "GOOG",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MO": {
+      "ticker": "MO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AMRN": {
+      "ticker": "AMRN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AMRQ": {
+      "ticker": "AMRQ",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "AMZN": {
+      "ticker": "AMZN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AXP": {
+      "ticker": "AXP",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AIG": {
+      "ticker": "AIG",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AMGN": {
+      "ticker": "AMGN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AAZ": {
+      "ticker": "AAZ",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "ANCR": {
+      "ticker": "ANCR",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "AAPL": {
+      "ticker": "AAPL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "APTV": {
+      "ticker": "APTV",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ARBB": {
+      "ticker": "ARBB",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "ADM": {
+      "ticker": "ADM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AMBP": {
+      "ticker": "AMBP",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "ANET": {
+      "ticker": "ANET",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ASTS": {
+      "ticker": "ASTS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "T": {
+      "ticker": "T",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AVG": {
+      "ticker": "AVG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "BAC": {
+      "ticker": "BAC",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "BIRG": {
+      "ticker": "BIRG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "BK": {
+      "ticker": "BK",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "BRK.B": {
+      "ticker": "BRK.B",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "BVXP": {
+      "ticker": "BVXP",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "BLK": {
+      "ticker": "BLK",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "BLOE": {
+      "ticker": "BLOE",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "BOO": {
+      "ticker": "BOO",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "BA": {
+      "ticker": "BA",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "BOKU": {
+      "ticker": "BOKU",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "BKNG": {
+      "ticker": "BKNG",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "BPM": {
+      "ticker": "BPM",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "BRCK": {
+      "ticker": "BRCK",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "SLMT": {
+      "ticker": "SLMT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "BMY": {
+      "ticker": "BMY",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AVGO": {
+      "ticker": "AVGO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "BUR": {
+      "ticker": "BUR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "BWXT": {
+      "ticker": "BWXT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CMCL": {
+      "ticker": "CMCL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "COF": {
+      "ticker": "COF",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CAH": {
+      "ticker": "CAH",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CAT": {
+      "ticker": "CAT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "COR": {
+      "ticker": "COR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CNC": {
+      "ticker": "CNC",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CAML": {
+      "ticker": "CAML",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "CER": {
+      "ticker": "CER",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "SCHW": {
+      "ticker": "SCHW",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CHKP": {
+      "ticker": "CHKP",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "CVX": {
+      "ticker": "CVX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CI": {
+      "ticker": "CI",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CMPR": {
+      "ticker": "CMPR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CSCO": {
+      "ticker": "CSCO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "C": {
+      "ticker": "C",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "NET": {
+      "ticker": "NET",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CMRS": {
+      "ticker": "CMRS",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "KO": {
+      "ticker": "KO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CHRT": {
+      "ticker": "CHRT",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "CL": {
+      "ticker": "CL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CAD": {
+      "ticker": "CAD",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "CMCSA": {
+      "ticker": "CMCSA",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "COP": {
+      "ticker": "COP",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "C43": {
+      "ticker": "C43",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "COST": {
+      "ticker": "COST",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CRW": {
+      "ticker": "CRW",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "CRH": {
+      "ticker": "CRH",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CRWD": {
+      "ticker": "CRWD",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CRIS": {
+      "ticker": "CRIS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CVSG": {
+      "ticker": "CVSG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "CVS": {
+      "ticker": "CVS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "DHR": {
+      "ticker": "DHR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "DCC": {
+      "ticker": "DCC",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "DE": {
+      "ticker": "DE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "DELL": {
+      "ticker": "DELL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "DAL": {
+      "ticker": "DAL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "DGE": {
+      "ticker": "DGE",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "DOLE": {
+      "ticker": "DOLE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 2
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "DOTD": {
+      "ticker": "DOTD",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "DOW": {
+      "ticker": "DOW",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "DUK": {
+      "ticker": "DUK",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "QBTS": {
+      "ticker": "QBTS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ETN": {
+      "ticker": "ETN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "BKS": {
+      "ticker": "BKS",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "ELV": {
+      "ticker": "ELV",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "LLY": {
+      "ticker": "LLY",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "EMR": {
+      "ticker": "EMR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ET": {
+      "ticker": "ET",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "EPD": {
+      "ticker": "EPD",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ETL": {
+      "ticker": "ETL",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "EVPL": {
+      "ticker": "EVPL",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "EXPGF": {
+      "ticker": "EXPGF",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "XOM": {
+      "ticker": "XOM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "FFAI": {
+      "ticker": "FFAI",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "FARN": {
+      "ticker": "FARN",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "FDX": {
+      "ticker": "FDX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "FEVR": {
+      "ticker": "FEVR",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "FNTL": {
+      "ticker": "FNTL",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "FTC": {
+      "ticker": "FTC",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "FLUT": {
+      "ticker": "FLUT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "F": {
+      "ticker": "F",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "FTNT": {
+      "ticker": "FTNT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "FRP": {
+      "ticker": "FRP",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "TFW": {
+      "ticker": "TFW",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "GTLY": {
+      "ticker": "GTLY",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "GBG": {
+      "ticker": "GBG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "GD": {
+      "ticker": "GD",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GE": {
+      "ticker": "GE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GM": {
+      "ticker": "GM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GEV": {
+      "ticker": "GEV",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GHRS": {
+      "ticker": "GHRS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "GILD": {
+      "ticker": "GILD",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GL9": {
+      "ticker": "GL9",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "GGP": {
+      "ticker": "GGP",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "GLEN": {
+      "ticker": "GLEN",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "GLB": {
+      "ticker": "GLB",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "GS": {
+      "ticker": "GS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GFTU": {
+      "ticker": "GFTU",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "GGP.L  LN": {
+      "ticker": "GGP.L  LN",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "GRP": {
+      "ticker": "GRP",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "GFM": {
+      "ticker": "GFM",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "J9J": {
+      "ticker": "J9J",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "HSP": {
+      "ticker": "HSP",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "HCA": {
+      "ticker": "HCA",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "HUW": {
+      "ticker": "HUW",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "BIG": {
+      "ticker": "BIG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "HD": {
+      "ticker": "HD",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "HON": {
+      "ticker": "HON",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "HUM": {
+      "ticker": "HUM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "HCM": {
+      "ticker": "HCM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "IBM": {
+      "ticker": "IBM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ICLR": {
+      "ticker": "ICLR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "IDOX": {
+      "ticker": "IDOX",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "IR": {
+      "ticker": "IR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "INTC": {
+      "ticker": "INTC",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "INDIGO": {
+      "ticker": "INDIGO",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "INTU": {
+      "ticker": "INTU",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ISRG": {
+      "ticker": "ISRG",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "IONQ": {
+      "ticker": "IONQ",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "IREN": {
+      "ticker": "IREN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ITRMF": {
+      "ticker": "ITRMF",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ITM": {
+      "ticker": "ITM",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "LTHM": {
+      "ticker": "LTHM",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "JHX": {
+      "ticker": "JHX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "JAZZ": {
+      "ticker": "JAZZ",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "JD": {
+      "ticker": "JD",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "JCSE": {
+      "ticker": "JCSE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "JET2": {
+      "ticker": "JET2",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "JCI": {
+      "ticker": "JCI",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "JNJ": {
+      "ticker": "JNJ",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "JPM": {
+      "ticker": "JPM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "JDG": {
+      "ticker": "JDG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "KGSPY": {
+      "ticker": "KGSPY",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "FOBK": {
+      "ticker": "FOBK",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "KBGGY  NO": {
+      "ticker": "KBGGY  NO",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "KR": {
+      "ticker": "KR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "LRCX": {
+      "ticker": "LRCX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "LND": {
+      "ticker": "LND",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "LBG": {
+      "ticker": "LBG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "BEG": {
+      "ticker": "BEG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "LPTH": {
+      "ticker": "LPTH",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "LIN": {
+      "ticker": "LIN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "LMT": {
+      "ticker": "LMT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "LOW": {
+      "ticker": "LOW",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MANU": {
+      "ticker": "MANU",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "MPC": {
+      "ticker": "MPC",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MA": {
+      "ticker": "MA",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MCD": {
+      "ticker": "MCD",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MCK": {
+      "ticker": "MCK",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SAA": {
+      "ticker": "SAA",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "MDT": {
+      "ticker": "MDT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MRK": {
+      "ticker": "MRK",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MRL": {
+      "ticker": "MRL",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "MTL": {
+      "ticker": "MTL",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "META": {
+      "ticker": "META",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MET": {
+      "ticker": "MET",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MU": {
+      "ticker": "MU",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MSFT": {
+      "ticker": "MSFT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MIDW": {
+      "ticker": "MIDW",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "MKA": {
+      "ticker": "MKA",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "MDLZ": {
+      "ticker": "MDLZ",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MS": {
+      "ticker": "MS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MAB1": {
+      "ticker": "MAB1",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "MPE": {
+      "ticker": "MPE",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "NVTS": {
+      "ticker": "NVTS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "NFLX": {
+      "ticker": "NFLX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "NEE": {
+      "ticker": "NEE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "NICL": {
+      "ticker": "NICL",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "NKE": {
+      "ticker": "NKE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "NIO": {
+      "ticker": "NIO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "NIOX": {
+      "ticker": "NIOX",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "NOC": {
+      "ticker": "NOC",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SMR": {
+      "ticker": "SMR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "NVDA": {
+      "ticker": "NVDA",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "RUOC": {
+      "ticker": "RUOC",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "OKLO": {
+      "ticker": "OKLO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ONDO": {
+      "ticker": "ONDO",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "ORCL": {
+      "ticker": "ORCL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PLTR": {
+      "ticker": "PLTR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PANW": {
+      "ticker": "PANW",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PAF": {
+      "ticker": "PAF",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "PANR": {
+      "ticker": "PANR",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "PALM": {
+      "ticker": "PALM",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "POLR": {
+      "ticker": "POLR",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "PEP": {
+      "ticker": "PEP",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PTSB": {
+      "ticker": "PTSB",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "PRGO": {
+      "ticker": "PRGO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PFE": {
+      "ticker": "PFE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PM": {
+      "ticker": "PM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PSX": {
+      "ticker": "PSX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PL  US": {
+      "ticker": "PL  US",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "PVE": {
+      "ticker": "PVE",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "PG": {
+      "ticker": "PG",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PGR": {
+      "ticker": "PGR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PXEN": {
+      "ticker": "PXEN",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "PRTA": {
+      "ticker": "PRTA",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PRU": {
+      "ticker": "PRU",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "QED": {
+      "ticker": "QED",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "QCOM": {
+      "ticker": "QCOM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "RCN": {
+      "ticker": "RCN",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "RNWH": {
+      "ticker": "RNWH",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "RST": {
+      "ticker": "RST",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "RNO": {
+      "ticker": "RNO",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "ALRIB": {
+      "ticker": "ALRIB",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "RGTI": {
+      "ticker": "RGTI",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "RKH": {
+      "ticker": "RKH",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "RTX": {
+      "ticker": "RTX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "RWS": {
+      "ticker": "RWS",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "RYAAY": {
+      "ticker": "RYAAY",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "CRM": {
+      "ticker": "CRM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SAG": {
+      "ticker": "SAG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "STX": {
+      "ticker": "STX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SQZ": {
+      "ticker": "SQZ",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "NOW": {
+      "ticker": "NOW",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SHOP  US": {
+      "ticker": "SHOP  US",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "SRC": {
+      "ticker": "SRC",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "SPG": {
+      "ticker": "SPG",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SLP": {
+      "ticker": "SLP",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SIVE.ST": {
+      "ticker": "SIVE.ST",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "SMS": {
+      "ticker": "SMS",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "SW": {
+      "ticker": "SW",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SOM": {
+      "ticker": "SOM",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "SO": {
+      "ticker": "SO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SPIR": {
+      "ticker": "SPIR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SBUX": {
+      "ticker": "SBUX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "STE": {
+      "ticker": "STE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SNEX": {
+      "ticker": "SNEX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SYY": {
+      "ticker": "SYY",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "TBN": {
+      "ticker": "TBN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "TGT": {
+      "ticker": "TGT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "TAM": {
+      "ticker": "TAM",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "TIG": {
+      "ticker": "TIG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "TDY  US": {
+      "ticker": "TDY  US",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "TSLA": {
+      "ticker": "TSLA",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "TXN": {
+      "ticker": "TXN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "TPFG": {
+      "ticker": "TPFG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "TMO": {
+      "ticker": "TMO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "THX": {
+      "ticker": "THX",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "TJX": {
+      "ticker": "TJX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "TMUS": {
+      "ticker": "TMUS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "TOM": {
+      "ticker": "TOM",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "TRCS": {
+      "ticker": "TRCS",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "TT": {
+      "ticker": "TT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "TRIB": {
+      "ticker": "TRIB",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "TSTL": {
+      "ticker": "TSTL",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "UBER": {
+      "ticker": "UBER",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "UNP": {
+      "ticker": "UNP",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "UPR": {
+      "ticker": "UPR",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "UAL": {
+      "ticker": "UAL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "UNH": {
+      "ticker": "UNH",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "UPS": {
+      "ticker": "UPS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "USB": {
+      "ticker": "USB",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "VLO": {
+      "ticker": "VLO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "VEQT": {
+      "ticker": "VEQT",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "VAST": {
+      "ticker": "VAST",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "VZ": {
+      "ticker": "VZ",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SPCE": {
+      "ticker": "SPCE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "V": {
+      "ticker": "V",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "VLX": {
+      "ticker": "VLX",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "WBA": {
+      "ticker": "WBA",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "WMT": {
+      "ticker": "WMT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "DIS": {
+      "ticker": "DIS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "WFC": {
+      "ticker": "WFC",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "WSBN": {
+      "ticker": "WSBN",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "YCA": {
+      "ticker": "YCA",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "YOU": {
+      "ticker": "YOU",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "YU": {
+      "ticker": "YU",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "ZPHR": {
+      "ticker": "ZPHR",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "ZYME": {
+      "ticker": "ZYME",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ART": {
+      "ticker": "ART",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "PNG": {
+      "ticker": "PNG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "AUTL": {
+      "ticker": "AUTL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "EOS": {
+      "ticker": "EOS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "W7L": {
+      "ticker": "W7L",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "YNGA": {
+      "ticker": "YNGA",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "PTAL": {
+      "ticker": "PTAL",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "SUP": {
+      "ticker": "SUP",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "JHD": {
+      "ticker": "JHD",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "VTU": {
+      "ticker": "VTU",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "MSI": {
+      "ticker": "MSI",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AVCT": {
+      "ticker": "AVCT",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "KRG": {
+      "ticker": "KRG",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GGP.L": {
+      "ticker": "GGP.L",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "MDB": {
+      "ticker": "MDB",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "XPENG": {
+      "ticker": "XPENG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "KOG": {
+      "ticker": "KOG",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "POV": {
+      "ticker": "POV",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "MCSA": {
+      "ticker": "MCSA",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "EEKS": {
+      "ticker": "EEKS",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "KGS": {
+      "ticker": "KGS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "NUSCAL": {
+      "ticker": "NUSCAL",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "PL": {
+      "ticker": "PL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "QUA": {
+      "ticker": "QUA",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "YOON": {
+      "ticker": "YOON",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "MP": {
+      "ticker": "MP",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "XPEV": {
+      "ticker": "XPEV",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "TDY": {
+      "ticker": "TDY",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "KBGGY": {
+      "ticker": "KBGGY",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "SHOP": {
+      "ticker": "SHOP",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "SIVE": {
+      "ticker": "SIVE",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "MOG.A": {
+      "ticker": "MOG.A",
+      "done": false,
+      "reason": "CIK not found"
+    },
+    "AME": {
+      "ticker": "AME",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GHM": {
+      "ticker": "GHM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "RDW": {
+      "ticker": "RDW",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "RKLB": {
+      "ticker": "RKLB",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "KTOS": {
+      "ticker": "KTOS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "FLY": {
+      "ticker": "FLY",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "VOYG": {
+      "ticker": "VOYG",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MDA": {
+      "ticker": "MDA",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "LUNR": {
+      "ticker": "LUNR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GILT": {
+      "ticker": "GILT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "VSAT": {
+      "ticker": "VSAT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GSAT": {
+      "ticker": "GSAT",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "BKSY": {
+      "ticker": "BKSY",
+      "done": true,
+      "results": {
+        "8-K": {
+          "error": "EDGAR_TIMEOUT"
+        },
+        "10-Q": {
+          "error": "EDGAR_TIMEOUT"
+        },
+        "10-K": {
+          "error": "EDGAR_TIMEOUT"
+        }
+      }
+    },
+    "IRDM": {
+      "ticker": "IRDM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "RBC": {
+      "ticker": "RBC",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PH": {
+      "ticker": "PH",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "KRMN": {
+      "ticker": "KRMN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "AA": {
+      "ticker": "AA",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "TECK": {
+      "ticker": "TECK",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "ALM": {
+      "ticker": "ALM",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 0
+        },
+        "10-Q": {
+          "fetched": 0
+        },
+        "10-K": {
+          "fetched": 0
+        }
+      }
+    },
+    "FCX": {
+      "ticker": "FCX",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "CRS": {
+      "ticker": "CRS",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MTRN": {
+      "ticker": "MTRN",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "HXL": {
+      "ticker": "HXL",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ATI": {
+      "ticker": "ATI",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "GLW": {
+      "ticker": "GLW",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "PKE": {
+      "ticker": "PKE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "ADI": {
+      "ticker": "ADI",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MCHP": {
+      "ticker": "MCHP",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "QRVO": {
+      "ticker": "QRVO",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "MRCY": {
+      "ticker": "MRCY",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "TTMI": {
+      "ticker": "TTMI",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "COHR": {
+      "ticker": "COHR",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "LITE": {
+      "ticker": "LITE",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "APD": {
+      "ticker": "APD",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "NEU": {
+      "ticker": "NEU",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    },
+    "APH": {
+      "ticker": "APH",
+      "done": true,
+      "results": {
+        "8-K": {
+          "fetched": 3
+        },
+        "10-Q": {
+          "fetched": 1
+        },
+        "10-K": {
+          "fetched": 1
+        }
+      }
+    }
+  },
+  "last": "APH"
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "VSAT",
+  "company": "Viasat Inc",
+  "slug": "vsat",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "VSAT Viasat Inc stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

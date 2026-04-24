@@ -1,0 +1,14 @@
+{
+  "ticker": "LUNR",
+  "company": "Intuitive Machines Inc",
+  "slug": "lunr",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "LUNR Intuitive Machines Inc news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

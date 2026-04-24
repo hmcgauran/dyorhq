@@ -1,0 +1,30 @@
+{
+  "ticker": "NEU",
+  "company": "Newmarket Corp",
+  "slug": "newmarketcorp",
+  "date": "2026-04-20",
+  "queries": [
+    {
+      "query": "NEU Newmarket Corp earnings Q1 2026",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "NEU Newmarket Corp news April 2026",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "NEU Newmarket Corp stock analysis",
+      "error": "HTTP 402",
+      "hits": []
+    },
+    {
+      "query": "NEU Newmarket Corp guidance 2026",
+      "error": "HTTP 402",
+      "hits": []
+    }
+  ],
+  "summary": "",
+  "gatheredAt": "2026-04-20T17:09:37.828Z"
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "COHR",
+  "company": "Coherent Corp",
+  "slug": "cohr",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "COHR Coherent Corp stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

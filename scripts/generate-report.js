@@ -66,41 +66,83 @@ function httpsGet(url) {
 }
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
+// -- Fetch sheet data from cached sheet-latest.json (fallback when gws unavailable) ----
+function fetchSheetDataFromCache(ticker) {
+  const cachePath = path.join(__dirname, '..', 'state', 'sheet-latest.json');
+  if (!fs.existsSync(cachePath)) return null;
+  try {
+    const cache = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+    const tNorm = ticker.replace(PREFIX_RE, '').toUpperCase();
+    const entry = (cache.tickers || []).find(e => {
+      const t = (e.ticker || '').replace(PREFIX_RE, '').toUpperCase();
+      return t === tNorm || (e.ticker || '').toUpperCase() === ticker.toUpperCase();
+    });
+    if (!entry) return null;
+    console.log(`  [cache] Using sheet-latest.json (downloaded ${cache.downloadedAt || 'unknown'})`);
+    return {
+      ticker:     entry.ticker,
+      company:    entry.companyName || null,
+      price:      parseFloat(entry.price) || null,
+      marketCap:  entry.marketCap || null,
+      'PE':        parseFloat(entry.pe) || null,
+      EPS:        parseFloat(entry.eps) || null,
+      isin:       entry.isin || null,
+      exchange:   entry.primaryExchange || null,
+      currency:   entry.currency || null,
+      sector:     entry.sector || null,
+      industry:   entry.industry || null,
+      beta:       parseFloat(entry.beta) || null,
+      week52High: parseFloat(entry['52wHigh']) || null,
+      week52Low:  parseFloat(entry['52wLow']) || null,
+      avgVolume:  entry.avgVolume || null,
+      sharesOut:  entry.sharesOut || null,
+    };
+  } catch (e) {
+    console.error(`  [cache] Failed to read sheet-latest.json: ${e.message}`);
+    return null;
+  }
+}
+
 // -- Fetch sheet data for a single ticker --------------------------------------
 function fetchSheetData(ticker) {
-  const raw = exec(`gws sheets spreadsheets get --params '{"spreadsheetId": "${SHEET_ID}", "includeGridData": true}' --format json`);
-  const sheet = JSON.parse(raw);
-  const rowData = sheet?.sheets?.[0]?.data?.[0]?.rowData || [];
-  const headers = (rowData[0]?.values || []).map(v => v?.formattedValue || '');
-  const tNorm = ticker.replace(PREFIX_RE, '').toUpperCase();
+  try {
+    const raw = exec(`gws sheets spreadsheets get --params '{"spreadsheetId": "${SHEET_ID}", "includeGridData": true}' --format json`);
+    const sheet = JSON.parse(raw);
+    const rowData = sheet?.sheets?.[0]?.data?.[0]?.rowData || [];
+    const headers = (rowData[0]?.values || []).map(v => v?.formattedValue || '');
+    const tNorm = ticker.replace(PREFIX_RE, '').toUpperCase();
 
-  for (const row of rowData.slice(1)) {
-    const vals = row?.values || [];
-    const rawT = vals[0]?.formattedValue || '';
-    const tRaw = rawT.replace(PREFIX_RE, '').trim().toUpperCase();
-    if (tRaw !== tNorm) continue;
+    for (const row of rowData.slice(1)) {
+      const vals = row?.values || [];
+      const rawT = vals[0]?.formattedValue || '';
+      const tRaw = rawT.replace(PREFIX_RE, '').trim().toUpperCase();
+      if (tRaw !== tNorm) continue;
 
-    const get = (col) => { const i = headers.indexOf(col); return i >= 0 && i < vals.length ? (vals[i]?.formattedValue || null) : null; };
-    return {
-      ticker:     rawT,
-      company:    get('companyName'),
-      price:      parseFloat(get('price')) || null,
-      marketCap:  get('marketCap'),
-      'PE':        parseFloat(get('pe')) || null,
-      EPS:        parseFloat(get('eps')) || null,
-      isin:       get('isin'),
-      exchange:   get('primaryExchange') || null,
-      currency:   get('currency') || null,
-      sector:     get('sector') || null,
-      industry:   get('industry') || null,
-      beta:       parseFloat(get('beta')) || null,
-      week52High: parseFloat(get('52wHigh')) || null,
-      week52Low:  parseFloat(get('52wLow')) || null,
-      avgVolume:  get('avgVolume'),
-      sharesOut:  get('sharesOutstanding'),
-    };
+      const get = (col) => { const i = headers.indexOf(col); return i >= 0 && i < vals.length ? (vals[i]?.formattedValue || null) : null; };
+      return {
+        ticker:     rawT,
+        company:    get('companyName'),
+        price:      parseFloat(get('price')) || null,
+        marketCap:  get('marketCap'),
+        'PE':        parseFloat(get('pe')) || null,
+        EPS:        parseFloat(get('eps')) || null,
+        isin:       get('isin'),
+        exchange:   get('primaryExchange') || null,
+        currency:   get('currency') || null,
+        sector:     get('sector') || null,
+        industry:   get('industry') || null,
+        beta:       parseFloat(get('beta')) || null,
+        week52High: parseFloat(get('52wHigh')) || null,
+        week52Low:  parseFloat(get('52wLow')) || null,
+        avgVolume:  get('avgVolume'),
+        sharesOut:  get('sharesOutstanding'),
+      };
+    }
+    return null;
+  } catch (e) {
+    console.log(`  [gws] CLI unavailable (${e.message.split('\n')[0]}) — falling back to sheet-latest.json cache`);
+    return fetchSheetDataFromCache(ticker);
   }
-  return null;
 }
 
 // -- ISIN resolution ----------------------------------------------------------
@@ -191,37 +233,23 @@ function fetchFMPData(ticker) {
   };
 }
 
-// -- Grok sentiment ------------------------------------------------------------
-async function callGrok(ticker, company) {
-  const key = process.env.XAI_API_KEY;
-  if (!key) return { score: null, error: 'no_api_key' };
-
-  const prompt = `Provide a brief sentiment assessment for ${ticker} (${company || ticker}). Focus on: recent news, analyst tone, price momentum, and any near-term catalysts. Return a JSON object with fields: score (integer -100 to +100, bullish positive, bearish negative), signal (one of: very_negative, negative, neutral, positive, very_positive), key_themes (array of 3-5 strings), and summary (string, 1-2 sentences).`;
-
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    try {
-      const body = JSON.stringify({ model: 'grok-3', messages: [{ role: 'user', content: prompt }], temperature: 0.3 });
-      const res = exec(`curl -sf -X POST https://api.x.ai/v1/chat/completions -H "Authorization: Bearer ${key}" -H "Content-Type: application/json" -d '${body.replace(/'/g, "'\"'\"'")}' --max-time 30 2>/dev/null`);
-      const parsed = JSON.parse(res);
-      const content = parsed?.choices?.[0]?.message?.content || '';
-      // Extract JSON from potential markdown wrapper
-      const jsonMatch = content.match(/\{[\s\S]*\}/);
-      if (jsonMatch) {
-        const data = JSON.parse(jsonMatch[0]);
-        // Remap Grok's -100..+100 range to 0..100 for pipeline compatibility
-        // Power curve: -100→0, 0→50, +100→100. Remapped score of 35 → ~67
-        const rawScore = data.score ?? null;
-        const score = (rawScore !== null && !isNaN(rawScore))
-          ? Math.round(50 * Math.pow((rawScore + 100) / 100, 0.75))
-          : null;
-        return { score, signal: data.signal ?? 'neutral', key_themes: data.key_themes || [], summary: data.summary || '', raw: content };
-      }
-      return { score: null, raw: content, error: 'no_json' };
-    } catch (e) {
-      if (attempt < 3) await sleep(2000 * attempt);
-    }
+// -- Grok sentiment (live web + X search via grok-sentiment module) ─────────────────
+// Raw score: -100 to +100 (no remapping — recalc-conviction.js uses raw scale)
+async function callGrok(ticker) {
+  try {
+    const grokSentiment = require(path.join(__dirname, '..', 'scripts', 'grok-sentiment'));
+    grokSentiment.init({ apiKey: process.env.XAI_API_KEY });
+    const result = await grokSentiment.sentiment(ticker);
+    if (!result) return { score: null, error: 'all_retries_failed' };
+    return {
+      score: (result.score !== null && !isNaN(result.score)) ? result.score : null,
+      signal: result.signal || null,
+      key_themes: result.key_themes || [],
+      summary: result.summary || '',
+    };
+  } catch (e) {
+    return { score: null, error: e.message };
   }
-  return { score: null, error: 'all_retries_failed' };
 }
 
 // -- Paperclip scientific research (biotech/pharma/life sciences only) --------
@@ -298,10 +326,10 @@ function calcConviction(data, grokScore) {
   // Base: current trajectory holds - score 50
   // Bear: execution failure, macro headwind, dilution - score 20
 
-  let bullP = 30, baseP = 50, bearP = 20;
-  let bullS = 92, baseS = 68, bearS = 25;
+  let bullP = 25, baseP = 50, bearP = 25;
+  let bullS = 92, baseS = 62, bearS = 25;
 
-  // P/E adjustment
+  // Floor: (0.25×92)+(0.50×62)+(0.25×25) = 60.25 → OPPORTUNISTIC BUY (neutral)
   if (pe) {
     if (pe > 60) { bullP -= 10; bearP += 10; }
     else if (pe < 25) { bullP += 10; bearP -= 5; }
@@ -309,12 +337,12 @@ function calcConviction(data, grokScore) {
 
   // Grok signal — minor adjustment only; thesis and fundamentals drive conviction, Grok is one input
   if (grokScore !== null) {
-    if (grokScore > 70) { bullP += 10; baseP += 4; bearP -= 14; }
-    else if (grokScore > 55) { bullP += 6; baseP += 2; bearP -= 8; }
+    if (grokScore > 70) { bullP += 20; baseP += 4; bearP -= 24; }
+    else if (grokScore > 55) { bullP += 10; baseP += 2; bearP -= 12; }
     else if (grokScore > 35) { bullP += 2; }
-    else if (grokScore < -30) { bearP += 14; bullP -= 10; baseP -= 4; }
-    else if (grokScore < -10) { bearP += 8; }
-    else if (grokScore < 0) { bearP += 2; }
+    else if (grokScore < -30) { bearP += 24; bullP -= 20; baseP -= 4; }
+    else if (grokScore < -10) { bearP += 14; bullP -= 8; }
+    else if (grokScore < 0) { bullP -= 0; bearP += 2; }
   }
 
   // Normalise to 100%
@@ -452,14 +480,32 @@ async function main() {
       JSON.stringify({ ticker, date: TODAY, error: 'unresolved' }) + '\n');
   }
 
-  // 3. Grok
-  console.log('[3/8] Calling Grok...');
-  const grok = await callGrok(ticker, sheetData?.company || exchange);
-  if (grok.error) {
-    fs.appendFileSync(path.join(__dirname, '..', 'state', 'sentiment-failures.jsonl'),
-      JSON.stringify({ ticker, date: TODAY, error: grok.error }) + '\n');
+  // 3. Grok — use today's cached research file if it exists and has a valid score
+  const grokCachePath = path.join(resDir, `grok-${TODAY}.json`);
+  let grok;
+  const cachedGrok = fs.existsSync(grokCachePath) ? loadJson(grokCachePath) : null;
+  const cachedScore = cachedGrok?.score ?? null;
+  if (cachedGrok && cachedScore !== null) {
+    console.log('[3/8] Grok cache hit — reading from research file...');
+    grok = {
+      score: cachedScore,
+      signal: cachedGrok.signal || null,
+      key_themes: cachedGrok.key_themes || cachedGrok.keyThemes || [],
+      summary: cachedGrok.summary || '',
+    };
+  } else {
+    if (cachedGrok && cachedScore === null) {
+      console.log('[3/8] Stale null grok cache detected — re-calling Grok...');
+    } else {
+      console.log('[3/8] Calling Grok...');
+    }
+    grok = await callGrok(ticker, sheetData?.company || exchange);
+    if (grok.error) {
+      fs.appendFileSync(path.join(__dirname, '..', 'state', 'sentiment-failures.jsonl'),
+        JSON.stringify({ ticker, date: TODAY, error: grok.error }) + '\n');
+    }
+    saveJson(grokCachePath, grok);
   }
-  saveJson(path.join(resDir, `grok-${TODAY}.json`), grok);
   console.log(`  Grok score: ${grok.score} (${grok.signal})`);
 
   // 4. Paperclip scientific research (biotech/pharma)
@@ -560,9 +606,13 @@ async function main() {
     convictionHistory: [{ date: TODAY, conviction: conviction.calc }],
   });
 
-  // Build
-  const build = runBuild();
-  if (!build.ok) process.exit(1);
+  // Build (skip if SKIP_BUILD=1 env var set — used by batch runners to defer to a single end build)
+  if (!process.env.SKIP_BUILD) {
+    const build = runBuild();
+    if (!build.ok) process.exit(1);
+  } else {
+    console.log('Build deferred (SKIP_BUILD=1)');
+  }
 
   // Queue entry for automated review by review-watcher cron
   const reviewEntry = {

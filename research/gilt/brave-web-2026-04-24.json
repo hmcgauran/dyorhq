@@ -1,0 +1,29 @@
+{
+  "ticker": "GILT",
+  "company": "Gilat Satellite Networks Ltd",
+  "slug": "gilt",
+  "date": "2026-04-24",
+  "source": "brave",
+  "queries": [
+    {
+      "query": "GILT Gilat Satellite Networks Ltd earnings news 2026-04-24",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "GILT Gilat Satellite Networks Ltd analyst outlook 2026",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "GILT Gilat Satellite Networks Ltd investment thesis risks",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    },
+    {
+      "query": "GILT Gilat Satellite Networks Ltd recent catalysts",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    }
+  ]
+}

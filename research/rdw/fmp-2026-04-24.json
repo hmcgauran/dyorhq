@@ -1,0 +1,19 @@
+{
+  "ticker": "RDW",
+  "date": "2026-04-24",
+  "price": 10.04,
+  "marketCap": 1658116040,
+  "pe": null,
+  "eps": null,
+  "revenueTTM": null,
+  "grossMargin": null,
+  "week52High": null,
+  "week52Low": null,
+  "sharesOutstanding": 165151000,
+  "currency": "USD",
+  "exchange": "NYSE",
+  "company": "Redwire Corporation",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "beta": null
+}

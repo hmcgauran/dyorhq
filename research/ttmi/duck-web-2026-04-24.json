@@ -1,0 +1,14 @@
+{
+  "ticker": "TTMI",
+  "company": "TTM Technologies Inc",
+  "slug": "ttmi",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "TTMI TTM Technologies Inc stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

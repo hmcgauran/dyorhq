@@ -1,0 +1,12 @@
+{"ts":"2026-04-19T16:10:28.648Z","msg":"=== fetch-short-interest.js | daily=false | limit=9999 | tickers=NVDA,MSFT ==="}
+{"ts":"2026-04-19T16:10:29.158Z","msg":"ERROR NVDA: Cannot access 'existing' before initialization"}
+{"ts":"2026-04-19T16:10:29.544Z","msg":"ERROR MSFT: Cannot access 'existing' before initialization"}
+{"ts":"2026-04-19T16:10:29.587Z","msg":"=== Finished | processed=2 ==="}
+{"ts":"2026-04-19T16:10:50.789Z","msg":"=== fetch-short-interest.js | daily=false | limit=9999 | tickers=NVDA,MSFT ==="}
+{"ts":"2026-04-19T16:10:50.792Z","msg":"[NVDA] already done, skip"}
+{"ts":"2026-04-19T16:10:50.794Z","msg":"[MSFT] already done, skip"}
+{"ts":"2026-04-19T16:10:50.794Z","msg":"=== Finished | processed=2 ==="}
+{"ts":"2026-04-19T16:10:54.551Z","msg":"=== fetch-short-interest.js | daily=false | limit=9999 | tickers=NVDA,MSFT ==="}
+{"ts":"2026-04-19T16:10:55.111Z","msg":"  [NVDA] -> short-interest-2026-04-19.json (shortVol=N/A)"}
+{"ts":"2026-04-19T16:10:55.419Z","msg":"  [MSFT] -> short-interest-2026-04-19.json (shortVol=N/A)"}
+{"ts":"2026-04-19T16:10:55.460Z","msg":"=== Finished | processed=2 ==="}

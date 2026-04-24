@@ -1,0 +1,14 @@
+{
+  "ticker": "HXL",
+  "company": "Hexcel Corp",
+  "slug": "hxl",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "HXL Hexcel Corp stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

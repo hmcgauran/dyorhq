@@ -17,6 +17,7 @@ const path = require('path');
 const https = require('https');
 const { execSync } = require('child_process');
 const { researchSlug, findIndexEntry } = require(path.join(__dirname, '..', 'cron-scripts', 'lib', 'research-slug'));
+const grokModule = require(path.join(__dirname, '..', 'scripts', 'grok-sentiment'));
 
 const REPORTS_DIR  = path.join(__dirname, '..', 'reports');
 const DATA_DIR     = path.join(__dirname, '..', 'reports', 'data');
@@ -150,57 +151,106 @@ function fetchFMPData(ticker) {
   };
 }
 
-// ── Grok (with retries) ───────────────────────────────────────────────────────
-async function callGrok(ticker, company) {
-  const key = process.env.XAI_API_KEY;
-  if (!key) return { score: null, error: 'no_api_key' };
-  const prompt = `Provide a brief sentiment assessment for ${ticker} (${company || ticker}). Focus on: recent news, analyst tone, price momentum, and any near-term catalysts. Return a JSON object with fields: score (integer -100 to +100, bullish positive, bearish negative), signal (one of: very_negative, negative, neutral, positive, very_positive), key_themes (array of 3-5 strings), and summary (string, 1-2 sentences).`;
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    try {
-      const body = JSON.stringify({ model: 'grok-3', messages: [{ role: 'user', content: prompt }], temperature: 0.3 });
-      const res = exec(`curl -sf -X POST https://api.x.ai/v1/chat/completions -H "Authorization: Bearer ${key}" -H "Content-Type: application/json" -d '${body.replace(/'/g, "'\"'\"'")}' --max-time 30 2>/dev/null`);
-      const parsed = JSON.parse(res);
-      const content = parsed?.choices?.[0]?.message?.content || '';
-      const jsonMatch = content.match(/\{[\s\S]*\}/);
-      if (jsonMatch) {
-        const data = JSON.parse(jsonMatch[0]);
-        const rawScore = data.score ?? null;
-        const score = (rawScore !== null && !isNaN(rawScore))
-          ? Math.round(50 * Math.pow((rawScore + 100) / 100, 0.75))
-          : null;
-        return { score, signal: data.signal ?? 'neutral', key_themes: data.key_themes || [], summary: data.summary || '', raw: content };
-      }
-      return { score: null, raw: content, error: 'no_json' };
-    } catch (e) {
-      if (attempt < 3) await sleep(2000 * attempt);
-    }
-  }
-  return { score: null, error: 'all_retries_failed' };
+// ── Grok (live web + X search via grok-sentiment module) ───────────────────────
+// grok-sentiment.js score is on -100 to +100 scale. Remap to 0–100 for calcConviction:
+//   -100 → 0,    0 → 50,   +100 → 100
+function remapGrokScore(rawScore) {
+  if (rawScore === null || rawScore === undefined || isNaN(rawScore)) return null;
+  return Math.round(((rawScore + 100) / 200) * 100);
 }
 
-// ── Conviction ───────────────────────────────────────────────────────────────
+async function callGrok(ticker) {
+  try {
+    const result = await grokModule.sentiment(ticker);
+    if (!result) return { score: null, signal: null, key_themes: [], summary: '', error: 'all_retries_failed' };
+    const remapped = remapGrokScore(result.score);
+    return {
+      score: remapped,
+      rawScore: result.score,
+      signal: result.signal || null,
+      key_themes: result.key_themes || [],
+      summary: result.summary || '',
+      sources: (result.sources_checked || []).join(', '),
+    };
+  } catch (e) {
+    return { score: null, error: e.message };
+  }
+}
+
+// ── Conviction (v3 formula) ──────────────────────────────────────────────────
 function calcConviction(data, grokScore) {
-  const price = data?.price || null;
   const pe = data?.PE || data?.pe || null;
-  let bullP = 25, baseP = 55, bearP = 20;
-  let bullS = 75, baseS = 50, bearS = 20;
-  if (pe) {
-    if (pe > 60) { bullP -= 10; bearP += 10; }
-    else if (pe < 25) { bullP += 10; bearP -= 5; }
+  const mcap = data?.marketCap || data?.market_cap || null;
+  const price = data?.price || null;
+
+  let bullP = 30, baseP = 50, bearP = 20;
+  let bullS = 92, baseS = 65, bearS = 25;
+
+  // P/E adjustment
+  if (pe !== null) {
+    if (pe > 60)      { bullP -= 8; bearP += 8; }
+    else if (pe > 40) { bullP -= 3; bearP += 3; }
+    else if (pe < 20) { bullP += 8; bearP -= 5; }
+    else if (pe < 30) { bullP += 3; bearP -= 2; }
   }
+
+  // Market cap adjustment
+  if (mcap !== null) {
+    if (mcap < 2e9)          { bullP += 4; bearP -= 3; }
+    else if (mcap > 100e9)   { bullP -= 3; bearP += 2; }
+  }
+
+  // Grok signal adjustments (v3 — doubled)
   if (grokScore !== null) {
-    if (grokScore > 70) { bullP += 3; baseP += 2; bearP -= 5; }
-    else if (grokScore > 50) { bullP += 2; }
-    else if (grokScore > 30) { bullP += 1; }
-    else if (grokScore < -30) { bearP += 5; bullP -= 3; baseP -= 2; }
-    else if (grokScore < -10) { bearP += 2; }
+    if (grokScore > 70) { bullP += 20; baseP += 4; bearP -= 24; }
+    else if (grokScore > 55) { bullP += 10; baseP += 2; bearP -= 12; }
+    else if (grokScore > 35) { bullP += 2; }
+    else if (grokScore < -30) { bearP += 24; bullP -= 20; baseP -= 4; }
+    else if (grokScore < -10) { bearP += 14; bullP -= 8; }
+    else if (grokScore < 0) { bearP += 2; }
   }
+
   const total = bullP + baseP + bearP;
   bullP = Math.round(bullP / total * 100);
   baseP = Math.round(baseP / total * 100);
   bearP = 100 - bullP - baseP;
+
   const calc = Math.round(bullP/100 * bullS + baseP/100 * baseS + bearP/100 * bearS);
   return { bullP, baseP, bearP, bullS, baseS, bearS, calc };
+}
+
+// ── Paperclip scientific research (biotech/pharma only) ────────────────────────
+// Gated on BIO_SECTORS / BIO_THEMES. Dynamic third query replaces hardcoded FAP.
+async function runPaperclipResearch(ticker, company, sector, grokKeyThemes) {
+  const BIO_SECTORS = /biotech|pharma|life.?sci|medtech|oncology|drug|bioscience|diagnostic/i;
+  const BIO_THEMES = /clinical.trial|FDA|phase|approval|therapeutic|drug.candidat|peptide|antibody|ADC|tumour.?target|bioMarker/i;
+  if (!BIO_SECTORS.test(sector || '') && !BIO_THEMES.test((grokKeyThemes || []).join(' '))) return null;
+
+  const tickerFile = ticker.replace(PREFIX_RE, '').toUpperCase();
+  const slug = researchSlug(tickerFile);
+  const resDir = path.join(RESEARCH_DIR, slug);
+  mkdir(resDir);
+
+  const queries = [
+    `${company} clinical trial phase`,
+    `${company} mechanism of action`,
+    `${company} ${sector || 'pharma'} pipeline`,
+  ];
+
+  const results = [];
+  for (const q of queries) {
+    try {
+      const raw = execSync(`paperclip search "${q.replace(/"/g, '')}" -n 10 2>/dev/null`, { maxBuffer: 10 * 1024 * 1024, timeout: 30000 });
+      const match = raw.match(/Found (\d+) papers\s+\[([s_\w]+)\]/);
+      if (match) results.push({ query: q, resultId: match[2], count: parseInt(match[1]) });
+    } catch { /* Paperclip unavailable or no results */ }
+    await sleep(300);
+  }
+
+  if (results.length === 0) return null;
+  const out = { generatedAt: TODAY, ticker, company, queries: results };
+  saveJson(path.join(resDir, `paperclip-${TODAY}.json`), out);
+  return out;
 }
 
 // ── Queue Telegram alert ──────────────────────────────────────────────────────
@@ -234,6 +284,14 @@ async function main() {
   console.log('\n[FETCH] Loading all sheet data...');
   const sheetDataMap = fetchAllSheetData();
   console.log(`Sheet data loaded: ${Object.keys(sheetDataMap).length} entries`);
+
+  // Init Grok module with live search tools
+  try {
+    grokModule.init({ apiKey: process.env.XAI_API_KEY });
+    console.log('[GROK] Initialised with live search tools (x_search + web_search)');
+  } catch(e) {
+    console.error('[GROK] Init failed:', e.message);
+  }
 
   // Queue start message
   try {
@@ -277,13 +335,19 @@ async function main() {
       const beta = fmpData.beta ?? sheetEntry.beta ?? null;
 
       // Grok
-      console.log(`  ${ticker} — Grok call...`);
-      const grok = await callGrok(ticker, company);
+      console.log(`  ${ticker} — Grok (live search)...`);
+      const grok = await callGrok(ticker);
       console.log(`  ${ticker} — Grok score: ${grok.score ?? 'null'}`);
       await sleep(GROK_INTERVAL_MS); // pace limit
 
+      // Paperclip (biotech/pharma only)
+      const paperclipResult = await runPaperclipResearch(ticker, company, sector, grok.key_themes);
+      if (paperclipResult) {
+        console.log(`  ${ticker} — Paperclip: ${paperclipResult.queries.length} searches`);
+      }
+
       // Conviction
-      const conviction = calcConviction({ price, PE: pe }, grok.score);
+      const conviction = calcConviction({ price, PE: pe, marketCap }, grok.score);
       const rec = recFromConviction(conviction.calc);
       console.log(`  ${ticker} — conviction: ${conviction.calc} (${rec})`);
 

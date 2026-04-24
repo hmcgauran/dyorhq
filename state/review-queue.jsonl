@@ -1,0 +1,29 @@
+{"id":"RKLB-2026-04-24-1777007793989","ticker":"RKLB","conviction":68,"recommendation":"BUY","grokScore":65,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:16:33.989Z"}
+{"id":"MOG.A-2026-04-24-1777007827305","ticker":"MOG.A","conviction":75,"recommendation":"BUY","grokScore":75,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:17:07.305Z"}
+{"id":"RDW-2026-04-24-1777007837922","ticker":"RDW","conviction":61,"recommendation":"OPPORTUNISTIC BUY","grokScore":45,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:17:17.922Z"}
+{"id":"KTOS-2026-04-24-1777007848288","ticker":"KTOS","conviction":61,"recommendation":"OPPORTUNISTIC BUY","grokScore":55,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:17:28.288Z"}
+{"id":"FLY-2026-04-24-1777007857693","ticker":"FLY","conviction":68,"recommendation":"BUY","grokScore":65,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:17:37.693Z"}
+{"id":"VOYG-2026-04-24-1777007887990","ticker":"VOYG","conviction":61,"recommendation":"OPPORTUNISTIC BUY","grokScore":52,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:18:07.990Z"}
+{"id":"GILT-2026-04-24-1777007898434","ticker":"GILT","conviction":68,"recommendation":"BUY","grokScore":65,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:18:18.434Z"}
+{"id":"VSAT-2026-04-24-1777007908800","ticker":"VSAT","conviction":68,"recommendation":"BUY","grokScore":65,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:18:28.800Z"}
+{"id":"GSAT-2026-04-24-1777007921467","ticker":"GSAT","conviction":75,"recommendation":"BUY","grokScore":95,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:18:41.467Z"}
+{"id":"BKSY-2026-04-24-1777007931316","ticker":"BKSY","conviction":68,"recommendation":"BUY","grokScore":65,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:18:51.316Z"}
+{"id":"IRDM-2026-04-24-1777007941153","ticker":"IRDM","conviction":45,"recommendation":"SPECULATIVE BUY","grokScore":-35,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:19:01.153Z"}
+{"id":"RBC-2026-04-24-1777007956338","ticker":"RBC","conviction":75,"recommendation":"BUY","grokScore":75,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:19:16.338Z"}
+{"id":"KRMN-2026-04-24-1777007966323","ticker":"KRMN","conviction":61,"recommendation":"OPPORTUNISTIC BUY","grokScore":55,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:19:26.323Z"}
+{"id":"TECK-2026-04-24-1777007975586","ticker":"TECK","conviction":75,"recommendation":"BUY","grokScore":75,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:19:35.586Z"}
+{"id":"FCX-2026-04-24-1777007988936","ticker":"FCX","conviction":61,"recommendation":"OPPORTUNISTIC BUY","grokScore":45,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:19:48.936Z"}
+{"id":"CRS-2026-04-24-1777007999323","ticker":"CRS","conviction":68,"recommendation":"BUY","grokScore":65,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:19:59.323Z"}
+{"id":"MTRN-2026-04-24-1777008008424","ticker":"MTRN","conviction":68,"recommendation":"BUY","grokScore":65,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:20:08.424Z"}
+{"id":"HXL-2026-04-24-1777008021675","ticker":"HXL","conviction":68,"recommendation":"BUY","grokScore":65,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:20:21.675Z"}
+{"id":"GLW-2026-04-24-1777008031502","ticker":"GLW","conviction":61,"recommendation":"OPPORTUNISTIC BUY","grokScore":55,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:20:31.502Z"}
+{"id":"PKE-2026-04-24-1777008042907","ticker":"PKE","conviction":75,"recommendation":"BUY","grokScore":75,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:20:42.907Z"}
+{"id":"MCHP-2026-04-24-1777008056114","ticker":"MCHP","conviction":60,"recommendation":"OPPORTUNISTIC BUY","grokScore":null,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:20:56.114Z"}
+{"id":"QRVO-2026-04-24-1777008066651","ticker":"QRVO","conviction":60,"recommendation":"OPPORTUNISTIC BUY","grokScore":null,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:21:06.651Z"}
+{"id":"MRCY-2026-04-24-1777008077083","ticker":"MRCY","conviction":60,"recommendation":"OPPORTUNISTIC BUY","grokScore":null,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:21:17.083Z"}
+{"id":"TTMI-2026-04-24-1777008092367","ticker":"TTMI","conviction":60,"recommendation":"OPPORTUNISTIC BUY","grokScore":null,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:21:32.367Z"}
+{"id":"COHR-2026-04-24-1777008102743","ticker":"COHR","conviction":60,"recommendation":"OPPORTUNISTIC BUY","grokScore":null,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:21:42.743Z"}
+{"id":"LITE-2026-04-24-1777008113219","ticker":"LITE","conviction":60,"recommendation":"OPPORTUNISTIC BUY","grokScore":null,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:21:53.219Z"}
+{"id":"APD-2026-04-24-1777008225279","ticker":"APD","conviction":60,"recommendation":"OPPORTUNISTIC BUY","grokScore":null,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:23:45.279Z"}
+{"id":"NEU-2026-04-24-1777008235697","ticker":"NEU","conviction":60,"recommendation":"OPPORTUNISTIC BUY","grokScore":null,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:23:55.697Z"}
+{"id":"GHM-2026-04-24-1777008246135","ticker":"GHM","conviction":60,"recommendation":"OPPORTUNISTIC BUY","grokScore":null,"sectionCount":11,"summary":"","timestamp":"2026-04-24T05:24:06.135Z"}

@@ -1,0 +1,14 @@
+{
+  "ticker": "MDA",
+  "company": "MDA Space Ltd",
+  "slug": "mda",
+  "date": "2026-04-24",
+  "source": "brave",
+  "queries": [
+    {
+      "query": "MDA MDA Space Ltd news",
+      "error": "HTTP 402 - monthly limit exceeded",
+      "hits": []
+    }
+  ]
+}

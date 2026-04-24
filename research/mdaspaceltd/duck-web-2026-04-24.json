@@ -1,0 +1,14 @@
+{
+  "ticker": "MDA",
+  "company": "MDA Space Ltd",
+  "slug": "mdaspaceltd",
+  "date": "2026-04-24",
+  "source": "duck",
+  "queries": [
+    {
+      "query": "MDA MDA Space Ltd stock news",
+      "error": "unavailable in sandbox",
+      "hits": []
+    }
+  ]
+}

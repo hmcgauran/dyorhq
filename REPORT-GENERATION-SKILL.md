@@ -5,90 +5,55 @@ Complete reference for generating a DYOR HQ investment report. Fully self-contai
 
 ---
 
-## 1. Pipeline Sequence (in order)
+## 0. Naming Rules (HARD CONSTRAINTS)
 
-For a given ticker:
+**Every file associated with a tracked ticker uses the canonical slug from `slugLib.researchSlug(ticker)` as its filename/base.** The raw ticker is never used in any filename.
 
-1. **Google Sheet quote (PRIMARY — always used first)** — `gws sheets spreadsheets values get` on `1N3lmSP2KI3pVOI3JlnsCn3YKKEWEKGiTILYKvPAJPoM`. Fetch columns: ticker, company, exchange, currency, price, marketCap, P/E, EPS. This is the authoritative source for all financial fields. Use this price for all calculations and display. Never substitute FMP or any other source for the primary price field without first checking whether the sheet price is valid and current.
+| Artefact | Location | Naming |
+|----------|----------|--------|
+| Research dir | `research/` | `researchSlug(ticker)` e.g. `kerrygroupplc`, `nvidiacorp` |
+| Data JSON | `reports/data/` | `{slug}.json` e.g. `nvidiacorp.json` — NOT `NVDA.json` |
+| Public HTML | `public/reports/` | `{slug}.html` e.g. `kerrygroupplc.html` |
+| Source HTML | `reports/` | `{slug}.html` e.g. `nvidiacorp.html` |
+| Index entry | `reports/index.json` | `slug` field = `researchSlug(ticker)` |
 
-2. **FMP API** (US tickers only, SUPPLEMENTAL to sheet) — Call `/stable/` endpoints. Use FMP to fill in fields that are missing or invalid in the Google Sheet (e.g. sharesOutstanding, beta, sector, industry, revenueTTM, grossMargin). If sheet already has a valid price, marketCap, P/E, or EPS, prefer the sheet value. FMP is a supplement for enrichment only, not a replacement for sheet pricing.
+**Sub-artefacts** inside a research dir:
+- `grok-YYYY-MM-DD.json`
+- `web-YYYY-MM-DD.json`
+- `paperclip-YYYY-MM-DD.json`
+- `fmp-YYYY-MM-DD.json`
+- `10-K-{year}.html`
+- `rns/` subdirectory
 
-3. **Grok sentiment** — `POST https://api.x.ai/v1/chat/completions` with system prompt:
-   ```
-   You are a sell-side equity research analyst. Analyse {TICKER} ({COMPANY NAME}) from a short-term and long-term investment perspective.
-   Consider: recent news, earnings, guidance, sector trends, technicals, macro.
-   Respond with a JSON object with exactly these fields:
-   {
-     "score": 0-100,
-     "signal": "positive" | "neutral" | "negative",
-     "key_themes": ["theme1", "theme2", ...],
-     "bull_case": "string",
-     "bear_case": "string",
-     "summary": "string 2-3 sentences",
-     "sources": "string describing sources used"
-   }
-   ```
-   - Persist raw response to `research/{company-slug}/grok-{YYYY-MM-DD}.json`
-   - Score 0-100: 80+ = very bullish, 50-79 = cautiously positive, 30-49 = mixed/uncertain, <30 = negative
-   - Grok score is an INPUT to conviction scoring, not the OUTPUT conviction score
+**Test:** If you cannot derive the ticker from the filename using `researchSlug()`, the naming is wrong.
 
-4. **Web research** — 4 targeted Brave Search queries:
-   - `{TICKER} {COMPANY NAME} earnings Q1 2026`
-   - `{TICKER} {COMPANY NAME} news April 2026`
-   - `{TICKER} {COMPANY NAME} stock analysis`
-   - `{TICKER} {COMPANY NAME} guidance 2026`
-   - Persist best result to `research/{company-slug}/web-{YYYY-MM-DD}.json`
+---
 
-5. **Paperclip** (biotech/pharma tickers only) — Triggered when:
-   - Sector contains: "biotech", "biopharmaceutical", "pharmaceutical", "life sciences", "oncology", "therapeutics", "genomics", "medicine"
-   - Or ticker in: AVCT, RGTI, CRIS, ASC, BCT, ZYME, OCX, INmune, Novocure, Evotec, BioNTech, Moderna
-   - Reads `armis-integration-field-index.md` and searches ChatGPT archive for relevant context
-   - Persists to `research/{company-slug}/paperclip-{YYYY-MM-DD}.json`
+## 1. Pipeline — Two-Phase (strict order)
 
-6. **Scenario framework** — Three scenarios with probability weights:
-   | Scenario | Probability | Score | Contribution |
-   |----------|-------------|-------|--------------|
-   | Bull     | 20-30%      | 70-100 | Bull × weight |
-   | Base     | 50-60%      | 40-69  | Base × weight |
-   | Bear     | 15-30%      | 10-39  | Bear × weight |
-   | **Conviction** |         |         | **Σ(Scenario×Prob)** |
+### Phase 1: Collect Data
+### Phase 2: Generate Reports
 
-   **Grok score guides but does not dictate scoring:**
-   - Grok 80+ → Bull scenario score 80-100; Base 60-79; Bear 30-49
-   - Grok 50-79 → Bull scenario score 70-85; Base 50-69; Bear 20-39
-   - Grok 30-49 → Bull scenario score 60-75; Base 40-59; Bear 15-29
-   - Grok <30 → Bull scenario score 40-60; Base 25-39; Bear 5-19
+**Never skip Phase 1.** Reports are generated from data already on disk. Running reports before data is collected produces stale or missing data.
 
-7. **Recommendation tier** (from final conviction score):
-   | Score  | Recommendation |
-   |--------|----------------|
-   | 80+    | BUY (STRONG)   |
-   | 65-79  | BUY            |
-   | 50-64  | OPPORTUNISTIC BUY |
-   | 30-49  | SPECULATIVE BUY |
-   | <30    | AVOID          |
+### Phase 1 — Data Collection (per ticker)
 
-8. **HTML generation** — 11 required sections (see Section 2 below)
+For each ticker in `reports/index.json`:
 
-9. **Index update** — Append entry to `reports/index.json`:
-   ```json
-   {
-     "ticker": "CSCO",
-     "company": "Cisco Systems Inc",
-     "exchange": "NASDAQ",
-     "file": "ciscosystemsinc.html",
-     "date": "2026-04-17",
-     "recommendation": "OPPORTUNISTIC BUY",
-     "conviction": 58,
-     "currency": "USD",
-     "price": 86.11,
-     "marketCap": null,
-     "summary": "One-line thesis...",
-     "universes": ["watchlist"]
-   }
-   ```
+1. **Google Sheet quote (PRIMARY)** — `gws sheets spreadsheets values get` on `1N3lmSP2KI3pVOI3JlnsCn3YKKEWEKGiTILYKvPAJPoM`. Columns: ticker, company, exchange, currency, price, marketCap, P/E, EPS. Authoritative source for all financial fields. If the ticker is not in the sheet, note it and use FMP as fallback.
+2. **FMP API (US NYSE/NASDAQ, SUPPLEMENTAL)** — `/stable/` endpoints. Fill missing/invalid sheet fields only. If sheet already has a valid price, marketCap, P/E, or EPS, prefer the sheet value.
+3. **Grok sentiment** — `POST https://api.x.ai/v1/chat/completions`. System prompt: analyst persona, score 0-100, signal, key_themes, bull_case, bear_case, summary, sources. Persist raw response to `research/{slug}/grok-YYYY-MM-DD.json`.
+4. **Web research** — 4 Brave Search queries. Persist best result to `research/{slug}/web-YYYY-MM-DD.json`.
+5. **Paperclip** (biotech/pharma only) — Triggered by sector or hardcoded ticker list. Persist to `research/{slug}/paperclip-YYYY-MM-DD.json`.
+6. **Write data JSON** — `reports/data/{slug}.json` contains the consolidated data blob used by the report generator. Must include: ticker, company, exchange, currency, price, marketCap, pe, eps, grokScore, grokSignal, grokThemes, webSummary, sector, industry, revenueTTM, grossMargin, sharesOutstanding, beta, dataGatheredAt.
 
-10. **Build** — `npm run build` in project root
+### Phase 2 — Report Generation (per ticker, after Phase 1)
+
+7. **Read data JSON** — `reports/data/{slug}.json` is the single input. No live API calls at this stage.
+8. **Scenario framework + conviction** — Bull/Base/Bear probabilities and scores. Grok score is an input, not the output conviction score.
+9. **Write source HTML** — `reports/{slug}.html`. 11 required sections. No live fetches at this stage.
+10. **Update index** — Append entry to `reports/index.json`.
+11. **Build** — `npm run build` in project root.
 
 ---
 
@@ -119,27 +84,21 @@ Revenue breakdown. Who uses the product. How money is made. 2-4 paragraphs.
 Unordered list. Fields: Price, P/E, Market Cap, EPS (TTM), 52-Week High, 52-Week Low, Revenue (TTM), grossMargin. **Google Sheet data is the primary source for all financial fields.** FMP supplements only where sheet data is missing or invalid. Never present FMP price as if it were the primary reference.
 
 ### Section 5: Recent Catalysts
-驱动 by Grok key themes. List 3-6 specific recent events with dates where known. For AVCT: note AACR conference (17-22 April 2026) and check abstracts directly at AACR website.
+Drawn from Grok key themes. List 3-6 specific recent events with dates where known. For AVCT: note AACR conference (17-22 April 2026) and check abstracts directly at AACR website.
 
 ### Section 6: Thesis Evaluation
-**Not a raw markdown table.** Prose scenario cards:
+Prosa scenario cards (not a raw table):
 
-**Bull Case** (25-30% probability): 3-5 paragraphs explaining the bull thesis. Specific price targets and timeline.
+**Bull Case** (25-30% probability): 3-5 paragraphs with specific price targets and timeline.
 
-**Base Case** (50-60% probability): 3-5 paragraphs. What has to go right for this to play out.
+**Base Case** (50-60% probability): 3-5 paragraphs explaining what has to go right.
 
-**Bear Case** (15-30% probability): 3-5 paragraphs. Key risks that could derail the thesis.
+**Bear Case** (15-30% probability): 3-5 paragraphs covering key derailment risks.
 
-Conviction score table at end of section:
-| Scenario | Probability | Score | Contribution |
-|----------|-------------|-------|--------------|
-| Bull | 25% | 75 | 19 |
-| Base | 55% | 55 | 30 |
-| Bear | 20% | 25 | 5 |
-| **Conviction Score** | | | **54/100** |
+Conviction score table at end of section.
 
 ### Section 7: Key Risks
-Ranked list of 3-6 specific risks. Each risk: one sentence description, estimated probability, potential impact. Do not repeat thesis evaluation risks verbatim.
+Ranked list of 3-6 specific risks. Each risk: one sentence description, estimated probability, potential impact.
 
 ### Section 8: Conviction Trend
 ```html
@@ -154,11 +113,6 @@ For biotech: Paperclip data. For tech: competitive landscape. For energy: macro/
 Two subsections: **Ideal for:** and **Avoid if:**. Specific investor profiles. Be direct.
 
 ### Section 11: Entry / Exit Framework
-| | Entry | Target | Stop Loss |
-|--|-------|--------|----------|
-| Near-term | $80 | $110 | $70 |
-| Long-term | $75 | $140 | $65 |
-
 At least two rows (near-term and long-term). Specific numbers from thesis.
 
 ---
@@ -170,26 +124,28 @@ At least two rows (near-term and long-term). Specific numbers from thesis.
 Conviction = (BullProb × BullScore) + (BaseProb × BaseScore) + (BearProb × BearScore)
 ```
 
-**Grok score is an INPUT, not the output.** The Grok score shapes the scenario distribution:
-- Grok 65-79 → Base case is strongest, Bear still possible
-- Grok 80+ → Bull case weighted up
-- Grok 30-49 → Elevated uncertainty, wider Bear weight
+**Probability weights (v3, fixed):** Bull=25%, Base=50%, Bear=25% (symmetric).
 
-**Probability bounds:**
-- Bull: 20-30%
-- Base: 50-60% (most reports use 55%)
-- Bear: 15-30%
+| Scenario | Probability | Score contribution |
+|----------|-------------|-------------------|
+| Bull     | 25%         | Bull × 0.25       |
+| Base     | 50%         | Base × 0.50       |
+| Bear     | 25%         | Bear × 0.25       |
 
-**Score bounds per scenario:**
-- Bull: 70-100
-- Base: 40-69
-- Bear: 10-39
+**Grok score is an INPUT, not the output.** Grok shapes scenario distribution:
+- Grok 80+ → Bull score 80-100; Base 60-79; Bear 30-49
+- Grok 65-79 → Bull 70-85; Base 50-69; Bear 20-39
+- Grok 50-64 → Bull 65-80; Base 40-59; Bear 15-29
+- Grok <50 → Bull 50-70; Base 35-54; Bear 10-29
 
-**Worked example (CSCO, Grok 65):**
-- Bull 25% × 75 = 18.75
-- Base 55% × 55 = 30.25
-- Bear 20% × 25 = 5.0
-- **Conviction = 54 → OPPORTUNISTIC BUY**
+**Recommendation tiers:**
+| Score  | Recommendation |
+|--------|----------------|
+| 80+    | BUY (STRONG)   |
+| 65-79  | BUY            |
+| 50-64  | OPPORTUNISTIC BUY |
+| 30-49  | SPECULATIVE BUY |
+| <30    | AVOID          |
 
 ---
 
@@ -197,64 +153,41 @@ Conviction = (BullProb × BullScore) + (BaseProb × BaseScore) + (BearProb × Be
 
 - **British English only** — behaviour, colour, honour, organised, etc.
 - **ISO dates** — 2026-04-17
-- **Numeric prices** — no currency symbols in tables: `86.11` not `USD86.11`; display with currency in header only
 - **Market cap** — `$340B` not `340209001480`; `$1.2T` not `1200000000000`
 - **P/E ratio** — `31.1x` not `31.084837545126355x`
 - **EPS** — `USD 2.77` with currency and two decimal places
 - **No API keys** in HTML output
-- **No placeholder text** — "Data not yet available", "Summary under review", etc. are not acceptable
-- **Company-name slug** for all research directory paths (e.g. `ciscosystemsinc`, `avactagroupplc`, not `csco`, `avct`)
+- **No placeholder text** — all sections must be fully written
 
 ---
 
-## 5. Pre-commit Quality Checklist
-
-Run `node scripts/pre-commit-check.js` after every report. Checks:
-
-1. **Price source** — entry in reports/index.json with valid price
-2. **Grok existence** — `research/{slug}/grok-{date}.json` exists and has `score`, `signal`, `key_themes`, `summary`
-3. **Web research** — `research/{slug}/web-{date}.json` exists
-4. **Scenario framework** — HTML contains Bull/Base/Bear table with probabilities and scores
-5. **Recommendation tier** — Maps correctly from conviction score
-6. **All 11 HTML sections** — No missing sections
-7. **Summary artefacts** — No placeholder text in Executive Summary or Business Model
-
----
-
-## 6. File Paths for Persisted Artefacts
+## 5. File Paths for Persisted Artefacts
 
 All relative to project root `projects/dyorhq-v4/`:
 
 | Artefact | Path |
 |----------|------|
-| HTML report | `reports/{company-slug}.html` |
+| Data JSON | `reports/data/{slug}.json` |
 | Index | `reports/index.json` |
-| Grok raw | `research/{company-slug}/grok-YYYY-MM-DD.json` |
-| Web research | `research/{company-slug}/web-YYYY-MM-DD.json` |
-| FMP data | `research/{company-slug}/fmp-YYYY-MM-DD.json` |
-| Paperclip | `research/{company-slug}/paperclip-YYYY-MM-DD.json` |
-| RNS | `research/{company-slug}/rns/{YYYY-MM-DD}-{slug}.md` |
-| Data | `reports/data/{ticker}.json` |
+| Source HTML | `reports/{slug}.html` |
+| Public HTML | `public/reports/{slug}.html` |
+| Grok raw | `research/{slug}/grok-YYYY-MM-DD.json` |
+| Web research | `research/{slug}/web-YYYY-MM-DD.json` |
+| FMP data | `research/{slug}/fmp-YYYY-MM-DD.json` |
+| Paperclip | `research/{slug}/paperclip-YYYY-MM-DD.json` |
+| Annual report | `research/{slug}/10-K-{year}.html` |
+| RNS | `research/{slug}/rns/{YYYY-MM-DD}-{slug}.md` |
 
-Company slug examples: `ciscosystemsinc`, `avactagroupplc`, `waltdisneyco`, `alphabetincclassa`
-
----
-
-## 7. New Entry Universe Tags
-
-Always add `universes: ["watchlist"]` for new index entries. The `scripts/assign-universes.js` script syncs universe tags from the Google Sheet after initial generation.
+Slug = `researchSlug(ticker)` e.g. `kerrygroupplc`, `nvidiacorp`, `waltdisneyco`.
 
 ---
 
-## 8. Biotech/Pharma — Paperclip Trigger Logic
+## 6. Pre-commit Quality Checklist
 
-Trigger Paperclip research when:
-- `sector` from FMP/sheet contains: biotech, biopharmaceutical, pharmaceutical, life sciences, oncology, therapeutics, genomics, medicine, healthcare
-- Or ticker in hardcoded list: AVCT, RGTI, CRIS, ASC, BCT, ZYME, OCX, INmune, Novocure, Evotec, BioNTech, Moderna, Immunocore, Oxford Nanopore
-
-For AVCT specifically:
-- Use paperclip data on affimer scaffold proteins and FAP targeting
-- FAP selectivity in >90% of epithelial tumours is the scientific validation for pre|CISION platform
-- FAP-targeted ADC safety data supports bull case
-- Reference: `research/avactagroupplc/paperclip-2026-04-17.json`
-- AACR 2026 (17-22 April 2026) is a live catalyst this week — check AACR website directly for abstracts
+Run `node scripts/pre-commit-check.js` after every report. Checks:
+1. Price source — entry in reports/index.json with valid price
+2. Grok existence — `research/{slug}/grok-{date}.json` exists with required fields
+3. Web research — `research/{slug}/web-{date}.json` exists
+4. Scenario framework — HTML contains Bull/Base/Bear table
+5. All 11 HTML sections present
+6. No placeholder text in Executive Summary or Business Model

@@ -84,16 +84,16 @@ function ensureResearchDir(slug) {
   return dir;
 }
 
-// ── SEC EDGAR 10-K Fetcher ────────────────────────────────────────────────────
+// ── SEC EDGAR Annual Filing Fetcher (10-K and 20-F) ────────────────────────
 
 /**
- * Get the latest 10-K filing info for a given CIK.
- * Returns { accessionNumber, filingDate, url }
+ * Get the latest annual filing (10-K for US, 20-F for foreign private issuers).
+ * Tries 10-K first; if none found, tries 20-F.
+ * Returns { accessionNumber, filingDate, url, form }
  */
-async function getLatest10K(cik) {
+async function getLatestAnnualFiling(cik) {
   const shortCik = cikToShort(cik);
   const subUrl = `https://data.sec.gov/submissions/CIK${cik}.json`;
-  const subUrlShort = `https://data.sec.gov/submissions/CIK${shortCik}.json`;
 
   const res = await httpGet(subUrl);
   const json = JSON.parse(res.body.toString('utf8'));
@@ -104,33 +104,37 @@ async function getLatest10K(cik) {
   const accessionNos = filings.accessionNumber;
   const primaryDocs = filings.primaryDocument;
 
-  // Find most recent 10-K (not 10-K/A amendment unless it's the only one)
+  // Try 10-K first (US companies)
   let idx = -1;
   for (let i = 0; i < forms.length; i++) {
-    if (forms[i] === '10-K' && dates[i]) {
-      idx = i;
-      break; // most recent is first in list
+    if (forms[i] === '10-K' && dates[i]) { idx = i; break; }
+  }
+  // Fall back to 20-F (foreign private issuers — ADR companies like BABA, NIO, JD)
+  if (idx === -1) {
+    for (let i = 0; i < forms.length; i++) {
+      if (forms[i] === '20-F' && dates[i]) { idx = i; break; }
     }
   }
 
   if (idx === -1) return null;
 
+  const form = forms[idx];
   const accession = accessionNos[idx];
   const filingDate = dates[idx];
   const accNoForUrl = accession.replace(/-/g, '');
-  const doc = primaryDocs[idx] || `${accession.replace(/-/g, '')}-index.htm`;
+  const doc = primaryDocs[idx] || `${accNoForUrl}-index.htm`;
   const docUrl = doc.endsWith('.htm') || doc.endsWith('.html')
     ? `https://www.sec.gov/Archives/edgar/data/${shortCik}/${accNoForUrl}/${doc}`
     : `https://www.sec.gov/Archives/edgar/data/${shortCik}/${accNoForUrl}/${accession}-index.htm`;
 
-  return { accession, filingDate, docUrl };
+  return { accession, filingDate, docUrl, form };
 }
 
 /**
- * Download a 10-K document from SEC EDGAR.
+ * Download an annual filing document from SEC EDGAR (10-K or 20-F).
  * Tries to get the .htm(l) version first; falls back to index page.
  */
-async function download10K(docUrl) {
+async function downloadAnnualFiling(docUrl) {
   const res = await httpGet(docUrl, { 'Accept': 'text/html,*/*' });
   if (res.status === 200) {
     return { content: res.body, url: docUrl, type: 'html' };
