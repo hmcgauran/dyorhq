@@ -327,7 +327,7 @@ function calcConviction(data, grokScore) {
   // Bear: execution failure, macro headwind, dilution - score 20
 
   let bullP = 25, baseP = 50, bearP = 25;
-  let bullS = 92, baseS = 62, bearS = 25;
+  let bullS = 100, baseS = 62, bearS = 10;
 
   // Floor: (0.25×92)+(0.50×62)+(0.25×25) = 60.25 → OPPORTUNISTIC BUY (neutral)
   if (pe) {
